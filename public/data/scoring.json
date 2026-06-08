@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0.0",
+  "new_release_window_days": 30,
+  "player_log_weight": 12.0,
+  "growth_weight": 10.0,
+  "growth_cap": 5.0,
+  "days_seen_weight": 1.5,
+  "days_seen_cap": 7,
+  "old_game_player_discount": 0.7,
+  "yesterday_star_player_discount": 0.7,
+  "consecutive_star_case_threshold": 3,
+  "signal_bonuses": {
+    "sudden_breakout": 35.0,
+    "new_release_rise": 30.0,
+    "comeback": 32.0,
+    "review_heat_gap": 25.0,
+    "sustained_growth": 28.0
+  }
+}

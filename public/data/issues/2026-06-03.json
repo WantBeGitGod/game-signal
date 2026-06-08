@@ -1,0 +1,502 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-06-03",
+  "title": "06.03 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 102.26,
+    "fact_summary": "TBH: Task Bar Hero 今日观测峰值 215,879，较上一观测日变化 +22%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 215879,
+      "previous_peak": 176259,
+      "growth_rate": 0.2248,
+      "scoring_peak": 215879.0,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "review_ratio": 51.0,
+      "review_total": 7927,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "genres": [
+        "休闲",
+        "独立",
+        "角色扮演",
+        "免费"
+      ],
+      "trend": [
+        {
+          "date": "2026-05-31",
+          "peak": 133408
+        },
+        {
+          "date": "2026-06-01",
+          "peak": 145268
+        },
+        {
+          "date": "2026-06-02",
+          "peak": 176259
+        },
+        {
+          "date": "2026-06-03",
+          "peak": 215879
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3678970"
+      }
+    ],
+    "game": {
+      "slug": "tbh-task-bar-hero",
+      "appid": "3678970",
+      "name": "TBH: Task Bar Hero",
+      "name_cn": null,
+      "description": "终极迷你放置RPG！ 可爱的像素勇者们正等待着与你一同踏上冒险——就在你的任务栏旁。 用多样的职业、技能、道具和配装，击退工作和日常生活的无聊吧！",
+      "release_date": "2026-05-27",
+      "genres": [
+        "休闲",
+        "独立",
+        "角色扮演",
+        "免费"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "自定义音量控制",
+        "可以仅用鼠标",
+        "无需应对快速反应事件",
+        "Steam 云",
+        "统计数据"
+      ],
+      "review_score": "褒贬不一",
+      "review_ratio": 51.0,
+      "review_total": 7927,
+      "developer": "Nugem Studio, Tesseract Studio",
+      "publisher": "Nugem Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg?t=1780112834",
+      "steam_url": "https://store.steampowered.com/app/3678970",
+      "trend": [
+        {
+          "date": "2026-05-31",
+          "peak": 133408
+        },
+        {
+          "date": "2026-06-01",
+          "peak": 145268
+        },
+        {
+          "date": "2026-06-02",
+          "peak": 176259
+        },
+        {
+          "date": "2026-06-03",
+          "peak": 215879
+        }
+      ]
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 102.26,
+    "fact_summary": "TBH: Task Bar Hero 今日观测峰值 215,879，较上一观测日变化 +22%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 215879,
+      "previous_peak": 176259,
+      "growth_rate": 0.2248,
+      "scoring_peak": 215879.0,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "review_ratio": 51.0,
+      "review_total": 7927,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "genres": [
+        "休闲",
+        "独立",
+        "角色扮演",
+        "免费"
+      ],
+      "trend": [
+        {
+          "date": "2026-05-31",
+          "peak": 133408
+        },
+        {
+          "date": "2026-06-01",
+          "peak": 145268
+        },
+        {
+          "date": "2026-06-02",
+          "peak": 176259
+        },
+        {
+          "date": "2026-06-03",
+          "peak": 215879
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3678970"
+      }
+    ],
+    "game": {
+      "slug": "tbh-task-bar-hero",
+      "appid": "3678970",
+      "name": "TBH: Task Bar Hero",
+      "name_cn": null,
+      "description": "终极迷你放置RPG！ 可爱的像素勇者们正等待着与你一同踏上冒险——就在你的任务栏旁。 用多样的职业、技能、道具和配装，击退工作和日常生活的无聊吧！",
+      "release_date": "2026-05-27",
+      "genres": [
+        "休闲",
+        "独立",
+        "角色扮演",
+        "免费"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "自定义音量控制",
+        "可以仅用鼠标",
+        "无需应对快速反应事件",
+        "Steam 云",
+        "统计数据"
+      ],
+      "review_score": "褒贬不一",
+      "review_ratio": 51.0,
+      "review_total": 7927,
+      "developer": "Nugem Studio, Tesseract Studio",
+      "publisher": "Nugem Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg?t=1780112834",
+      "steam_url": "https://store.steampowered.com/app/3678970",
+      "trend": [
+        {
+          "date": "2026-05-31",
+          "peak": 133408
+        },
+        {
+          "date": "2026-06-01",
+          "peak": 145268
+        },
+        {
+          "date": "2026-06-02",
+          "peak": 176259
+        },
+        {
+          "date": "2026-06-03",
+          "peak": 215879
+        }
+      ]
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": [
+    {
+      "rank": 2,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 83.81,
+      "fact_summary": "Mina the Hollower 今日观测峰值 9,637，较上一观测日变化 -11%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 9637,
+        "previous_peak": 10887,
+        "growth_rate": -0.1148,
+        "scoring_peak": 9637.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 87.0,
+        "review_total": 3235,
+        "days_seen": 4,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "trend": [
+          {
+            "date": "2026-05-31",
+            "peak": 11690
+          },
+          {
+            "date": "2026-06-01",
+            "peak": 12916
+          },
+          {
+            "date": "2026-06-02",
+            "peak": 10887
+          },
+          {
+            "date": "2026-06-03",
+            "peak": 9637
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/1875580"
+        }
+      ],
+      "game": {
+        "slug": "mina-the-hollower",
+        "appid": "1875580",
+        "name": "Mina the Hollower",
+        "name_cn": null,
+        "description": "扮演米娜，一位声名显赫的挖掘者，踏上拯救被诅咒岛屿的绝望之旅。在《挖掘者米娜》这款由《铲子骑士》开发者带来的全新游戏中，挥鞭痛击敌人，钻入地下，探索完美的像素世界！",
+        "release_date": "2026-05-28",
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "完全支持控制器",
+          "自定义音量控制",
+          "可以仅用键盘",
+          "Steam 云",
+          "在手机上远程畅玩",
+          "在平板上远程畅玩",
+          "在电视上远程畅玩",
+          "家庭共享"
+        ],
+        "review_score": "特别好评",
+        "review_ratio": 87.0,
+        "review_total": 3235,
+        "developer": "Yacht Club Games",
+        "publisher": "Yacht Club Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875580/368fcff2cd8f5ef01c5a89060a49f9a333076a87/header.jpg?t=1780266529",
+        "steam_url": "https://store.steampowered.com/app/1875580",
+        "trend": [
+          {
+            "date": "2026-05-31",
+            "peak": 11690
+          },
+          {
+            "date": "2026-06-01",
+            "peak": 12916
+          },
+          {
+            "date": "2026-06-02",
+            "peak": 10887
+          },
+          {
+            "date": "2026-06-03",
+            "peak": 9637
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 77.32,
+      "fact_summary": "Fortune Mill 今日观测峰值 6,583，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 6583,
+        "previous_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 6583.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 78.0,
+        "review_total": 328,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "genres": [
+          "休闲",
+          "独立",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-03",
+            "peak": 6583
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4731620"
+        }
+      ],
+      "game": {
+        "slug": "fortune-mill",
+        "appid": "4731620",
+        "name": "Fortune Mill",
+        "name_cn": null,
+        "description": "在这款增量游戏中，你必须在每个房间赚到$1,000,000才能逃出该房间。投掷飞镖、玩刮刮乐彩票、解锁自动化，并谨慎选择升级，因为每个房间都会影响所有其他房间。你能逃出财富磨坊吗？",
+        "release_date": "2026-06-02",
+        "genres": [
+          "休闲",
+          "独立",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "多半好评",
+        "review_ratio": 78.0,
+        "review_total": 328,
+        "developer": "Lavaflame2",
+        "publisher": "Lavaflame2",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1780416011",
+        "steam_url": "https://store.steampowered.com/app/4731620",
+        "trend": [
+          {
+            "date": "2026-06-03",
+            "peak": 6583
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 77.21,
+      "fact_summary": "Fatekeeper 今日观测峰值 6,442，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 6442,
+        "previous_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 6442.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 80.0,
+        "review_total": 1580,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "genres": [
+          "动作",
+          "角色扮演",
+          "抢先体验"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-03",
+            "peak": 6442
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2186990"
+        }
+      ],
+      "game": {
+        "slug": "fatekeeper",
+        "appid": "2186990",
+        "name": "Fatekeeper",
+        "name_cn": null,
+        "description": "踏入一个精心打造的世界，这里的残垣断壁低语诉说着昔日的剧变。精通剑术与魔法技艺，利用各种神器和咒语，并通过一系列的抉择，来开创你的道路，在这款第一人称角色扮演游戏中塑造属于你的传奇。",
+        "release_date": "2026-06-02",
+        "genres": [
+          "动作",
+          "角色扮演",
+          "抢先体验"
+        ],
+        "tags": [
+          "单人",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "多半好评",
+        "review_ratio": 80.0,
+        "review_total": 1580,
+        "developer": "Paraglacial",
+        "publisher": "THQ Nordic",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186990/4a98bac064656da89ddf8dedee1acd39405cac14/header_alt_assets_0.jpg?t=1780424266",
+        "steam_url": "https://store.steampowered.com/app/2186990",
+        "trend": [
+          {
+            "date": "2026-06-03",
+            "peak": 6442
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 76.49,
+      "fact_summary": "Onimusha: Way of the Sword DEMO 今日观测峰值 5,607，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 5607,
+        "previous_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 5607.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": null,
+        "review_total": 0,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "genres": [],
+        "trend": [
+          {
+            "date": "2026-06-03",
+            "peak": 5607
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/3974650"
+        }
+      ],
+      "game": {
+        "slug": "onimusha-way-of-the-sword-demo",
+        "appid": "3974650",
+        "name": "Onimusha: Way of the Sword DEMO",
+        "name_cn": null,
+        "description": "",
+        "release_date": "2026-06-02",
+        "genres": [],
+        "tags": [
+          "单人",
+          "游戏试用版",
+          "完全支持控制器"
+        ],
+        "review_score": "暂无评价",
+        "review_ratio": null,
+        "review_total": 0,
+        "developer": "CAPCOM Co., Ltd.",
+        "publisher": "CAPCOM Co., Ltd.",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3974650/67c0395623cb98c44b829bf62a570b0553066ac5/header.jpg?t=1780438850",
+        "steam_url": "https://store.steampowered.com/app/3974650",
+        "trend": [
+          {
+            "date": "2026-06-03",
+            "peak": 5607
+          }
+        ]
+      }
+    }
+  ]
+}

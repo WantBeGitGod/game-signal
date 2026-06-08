@@ -1,0 +1,31 @@
+{
+  "slug": "fatekeeper",
+  "appid": "2186990",
+  "name": "Fatekeeper",
+  "name_cn": null,
+  "description": "踏入一个精心打造的世界，这里的残垣断壁低语诉说着昔日的剧变。精通剑术与魔法技艺，利用各种神器和咒语，并通过一系列的抉择，来开创你的道路，在这款第一人称角色扮演游戏中塑造属于你的传奇。",
+  "release_date": "2026-06-02",
+  "genres": [
+    "动作",
+    "角色扮演",
+    "抢先体验"
+  ],
+  "tags": [
+    "单人",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "多半好评",
+  "review_ratio": 80.0,
+  "review_total": 1580,
+  "developer": "Paraglacial",
+  "publisher": "THQ Nordic",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186990/4a98bac064656da89ddf8dedee1acd39405cac14/header_alt_assets_0.jpg?t=1780424266",
+  "steam_url": "https://store.steampowered.com/app/2186990",
+  "trend": [
+    {
+      "date": "2026-06-03",
+      "peak": 6442
+    }
+  ]
+}

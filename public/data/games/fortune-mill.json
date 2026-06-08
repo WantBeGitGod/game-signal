@@ -1,0 +1,32 @@
+{
+  "slug": "fortune-mill",
+  "appid": "4731620",
+  "name": "Fortune Mill",
+  "name_cn": null,
+  "description": "在这款增量游戏中，你必须在每个房间赚到$1,000,000才能逃出该房间。投掷飞镖、玩刮刮乐彩票、解锁自动化，并谨慎选择升级，因为每个房间都会影响所有其他房间。你能逃出财富磨坊吗？",
+  "release_date": "2026-06-02",
+  "genres": [
+    "休闲",
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "多半好评",
+  "review_ratio": 78.0,
+  "review_total": 328,
+  "developer": "Lavaflame2",
+  "publisher": "Lavaflame2",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1780416011",
+  "steam_url": "https://store.steampowered.com/app/4731620",
+  "trend": [
+    {
+      "date": "2026-06-03",
+      "peak": 6583
+    }
+  ]
+}

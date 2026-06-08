@@ -1,0 +1,281 @@
+{
+  "schema_version": "1.0.0",
+  "slug": "2026-05-15-week",
+  "issue_number": 1,
+  "week_start": "2026-05-15",
+  "week_end": "2026-05-20",
+  "title": "第 001 期｜2026-05-15 - 2026-05-20 Steam 发行信号",
+  "summary": "本期自动筛选 5 个 Steam 发行信号，并预留 2 个深度案例给主编审阅。",
+  "status": "published",
+  "published_at": "2026-06-07 13:32:09",
+  "signals": [
+    {
+      "rank": 1,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 109.54,
+      "selection_reason": "Subnautica 2 上周窗口峰值 467,582，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 467582,
+        "previous_week_peak": 0,
+        "growth_rate": 0.0,
+        "review_ratio": 92.0,
+        "review_total": 73533,
+        "days_seen": 5,
+        "is_new_release": true,
+        "genres": [
+          "动作",
+          "冒险",
+          "抢先体验"
+        ],
+        "trend": [
+          {
+            "date": "2026-05-15",
+            "peak": 467582
+          },
+          {
+            "date": "2026-05-16",
+            "peak": 376676
+          },
+          {
+            "date": "2026-05-18",
+            "peak": 326851
+          },
+          {
+            "date": "2026-05-19",
+            "peak": 213101
+          },
+          {
+            "date": "2026-05-20",
+            "peak": 167817
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": true,
+      "case_slug": "subnautica-2",
+      "chart_path": "/data/charts/1962700.json",
+      "game": {
+        "slug": "subnautica-2",
+        "appid": "1962700",
+        "name": "Subnautica 2",
+        "description": "《Subnautica 2：异星水域》是背景设定在全新外星世界的水下生存冒险游戏，由Unknown Worlds倾力打造。可以单人游玩，也可以与好友组队开启四人合作模式。建造专属基地，制作不同工具，适应环境，水下求生。探索未知世界，揭开深海中隐藏的谜团。",
+        "developer": "Unknown Worlds Entertainment",
+        "publisher": "Unknown Worlds Entertainment",
+        "release_date": "2026-05-14",
+        "review_ratio": 92.0,
+        "review_total": 73533,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/998f14fffb6e9917639ce4ba992c7e9f4a0157b5/header_schinese.jpg?t=1778777511",
+        "steam_url": "https://store.steampowered.com/app/1962700"
+      }
+    },
+    {
+      "rank": 2,
+      "signal_type": "sudden_breakout",
+      "label": "突然爆发",
+      "score": 99.3,
+      "selection_reason": "Everything is Crab 上周窗口峰值 12,865，较前一周窗口变化 +95%，被识别为「突然爆发」。",
+      "metrics": {
+        "weekly_peak": 12865,
+        "previous_week_peak": 6601,
+        "growth_rate": 0.9489,
+        "review_ratio": 80.0,
+        "review_total": 3217,
+        "days_seen": 1,
+        "is_new_release": true,
+        "genres": [
+          "动作",
+          "独立",
+          "模拟",
+          "策略"
+        ],
+        "trend": [
+          {
+            "date": "2026-05-15",
+            "peak": 12865
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": true,
+      "case_slug": "everything-is-crab",
+      "chart_path": "/data/charts/3526710.json",
+      "game": {
+        "slug": "everything-is-crab",
+        "appid": "3526710",
+        "name": "Everything is Crab",
+        "description": "一款以动物进化为核心的 Roguelite 游戏。 在充满生机的生态系统中捕猎、逃生、觅食并茁壮成长。每局游戏都可从 125 +种进化与特化方向中做出选择，打造独一无二的生物构筑。顺应自然法则以求生存，最终打破“蟹化”的宿命……否则，就只能在进化的长河中沦为炮灰！",
+        "developer": "Odd Dreams Digital",
+        "publisher": "Secret Mode",
+        "release_date": "2026-05-08",
+        "review_ratio": 80.0,
+        "review_total": 3217,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526710/c2e89fd394d904bd9d565fbfed51625bb2023526/header_schinese.jpg?t=1778230287",
+        "steam_url": "https://store.steampowered.com/app/3526710"
+      }
+    },
+    {
+      "rank": 3,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 92.33,
+      "selection_reason": "Game of Thrones Kingsroad 上周窗口峰值 17,224，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 17224,
+        "previous_week_peak": 0,
+        "growth_rate": 0.0,
+        "review_ratio": 70.0,
+        "review_total": 2427,
+        "days_seen": 5,
+        "is_new_release": true,
+        "genres": [
+          "动作",
+          "免费"
+        ],
+        "trend": [
+          {
+            "date": "2026-05-15",
+            "peak": 17224
+          },
+          {
+            "date": "2026-05-16",
+            "peak": 12715
+          },
+          {
+            "date": "2026-05-18",
+            "peak": 12937
+          },
+          {
+            "date": "2026-05-19",
+            "peak": 12289
+          },
+          {
+            "date": "2026-05-20",
+            "peak": 11581
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/4214820.json",
+      "game": {
+        "slug": "game-of-thrones-kingsroad",
+        "appid": "4214820",
+        "name": "Game of Thrones Kingsroad",
+        "description": "《Game of Thrones: Kingsroad》是基于HBO电视剧创作的动作RPG游戏，以史无前例的规模，惊人的细节，生动展现了维斯特洛的风貌。 在冰冷的阴谋与火热的战争共存的这片土地上，你将不得不在荣誉和生存的危险边缘游走。当塞外的黑暗苏醒，王国礼崩乐坏，你当下的选择将成为维斯特洛新的历史篇章。",
+        "developer": "Netmarble Neo",
+        "publisher": "Netmarble",
+        "release_date": "2026-05-14",
+        "review_ratio": 70.0,
+        "review_total": 2427,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214820/ec0d5c522bc0f9bf8e935127725b1b9c2acf3ca0/header.jpg?t=1778835317",
+        "steam_url": "https://store.steampowered.com/app/4214820"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 85.11,
+      "selection_reason": "今古群侠传 上周窗口峰值 7,653，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 7653,
+        "previous_week_peak": 0,
+        "growth_rate": 0.0,
+        "review_ratio": 63.0,
+        "review_total": 1028,
+        "days_seen": 3,
+        "is_new_release": true,
+        "genres": [
+          "独立",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-05-16",
+            "peak": 7653
+          },
+          {
+            "date": "2026-05-18",
+            "peak": 7391
+          },
+          {
+            "date": "2026-05-19",
+            "peak": 5633
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/3313720.json",
+      "game": {
+        "slug": "case",
+        "appid": "3313720",
+        "name": "今古群侠传",
+        "description": "玩腻了开局小虾米的江湖世界？ 来试试无敌流武侠爽游！ 纵横江湖，恩怨情仇！ 无需开挂，只求念头通达！ 念头通达！！！！ RPG玩法，回合制战斗，搜集武学当武侠世界的掌门，招募弟子，修炼武功，争霸天下。",
+        "developer": "金十四工作室",
+        "publisher": "噪点游戏 SERICA GAMES",
+        "release_date": "2026-05-14",
+        "review_ratio": 63.0,
+        "review_total": 1028,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3313720/07a461558451f3cbbc1e7e7a9c21b7e0186bdb5a/header_schinese.jpg?t=1778812686",
+        "steam_url": "https://store.steampowered.com/app/3313720"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 83.98,
+      "selection_reason": "Space Haven 上周窗口峰值 6,160，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 6160,
+        "previous_week_peak": 0,
+        "growth_rate": 0.0,
+        "review_ratio": 86.0,
+        "review_total": 10214,
+        "days_seen": 3,
+        "is_new_release": true,
+        "genres": [
+          "独立",
+          "角色扮演",
+          "模拟",
+          "策略"
+        ],
+        "trend": [
+          {
+            "date": "2026-05-18",
+            "peak": 6160
+          },
+          {
+            "date": "2026-05-19",
+            "peak": 5353
+          },
+          {
+            "date": "2026-05-20",
+            "peak": 5426
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/979110.json",
+      "game": {
+        "slug": "space-haven",
+        "appid": "979110",
+        "name": "Space Haven",
+        "description": "率领一群身份复杂的下层社会平民，乘坐飞船踏上太空之旅，寻找新的家园。在这款太空船殖民地模拟经营类游戏中，你可以一砖一瓦地建造太空船，创造最佳的气体条件，管理船员的各种需求和情绪，并尽情探索广袤的宇宙。",
+        "developer": "Bugbyte Ltd.",
+        "publisher": "Bugbyte Ltd.",
+        "release_date": "2026-05-13",
+        "review_ratio": 86.0,
+        "review_total": 10214,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/73529f7afc14ec281cad99fe0284cbed06c552f0/header.jpg?t=1778684449",
+        "steam_url": "https://store.steampowered.com/app/979110"
+      }
+    }
+  ]
+}

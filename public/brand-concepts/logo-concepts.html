@@ -1,0 +1,952 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Game Signal Logo Concepts</title>
+    <style>
+      :root {
+        --ink: #171713;
+        --paper: #f1eee5;
+        --paper-bright: #fffdf6;
+        --acid: #d8ff3e;
+        --coral: #ff645c;
+        --blue: #3f68ff;
+        --line: #171713;
+        --mono: "IBM Plex Mono", Consolas, monospace;
+        --sans: "Noto Sans SC", sans-serif;
+        --serif: "Noto Serif SC", serif;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        background: var(--paper);
+        color: var(--ink);
+        font-family: var(--sans);
+      }
+
+      header {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        gap: 24px;
+        align-items: end;
+        padding: 46px clamp(20px, 6vw, 80px) 32px;
+        border-bottom: 2px solid var(--line);
+      }
+
+      h1 {
+        max-width: 880px;
+        margin: 0;
+        font-family: var(--serif);
+        font-size: clamp(42px, 7vw, 96px);
+        line-height: 0.98;
+      }
+
+      header p,
+      .note {
+        max-width: 520px;
+        margin: 12px 0 0;
+        font-size: 14px;
+        font-weight: 700;
+        line-height: 1.7;
+      }
+
+      .sheet {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        border-left: 2px solid var(--line);
+      }
+
+      .round-label {
+        grid-column: 1 / -1;
+        padding: 18px clamp(20px, 6vw, 80px);
+        border-right: 2px solid var(--line);
+        border-bottom: 2px solid var(--line);
+        background: var(--ink);
+        color: var(--paper-bright);
+        font-family: var(--mono);
+        font-size: 12px;
+        font-weight: 800;
+        text-transform: uppercase;
+      }
+
+      .concept.featured {
+        min-height: 500px;
+      }
+
+      .concept.lens-variant {
+        background: var(--card-bg);
+        color: var(--card-fg);
+      }
+
+      .concept.lens-variant p {
+        color: var(--card-copy);
+      }
+
+      .concept.lens-variant .lockup {
+        border-color: var(--card-fg);
+      }
+
+      .site-header-preview {
+        display: grid;
+        grid-template-columns: auto minmax(0, 1fr) auto;
+        gap: 12px;
+        align-items: center;
+        min-height: 76px;
+        padding: 12px 14px;
+        border: 2px solid var(--line);
+        background: var(--paper);
+        color: var(--ink);
+      }
+
+      .site-header-preview strong,
+      .site-header-preview small {
+        display: block;
+        line-height: 1.05;
+      }
+
+      .site-header-preview strong {
+        font-size: 17px;
+        font-weight: 900;
+      }
+
+      .site-header-preview small {
+        margin-top: 5px;
+        color: #6f6c62;
+        font-family: var(--mono);
+        font-size: 8px;
+      }
+
+      .site-header-preview nav {
+        display: flex;
+        gap: 12px;
+        font-size: 9px;
+        font-weight: 900;
+      }
+
+      .cool-coral-lab {
+        grid-column: 1 / -1;
+        padding: 28px clamp(20px, 6vw, 80px) 40px;
+        border-right: 2px solid var(--line);
+        border-bottom: 2px solid var(--line);
+        background: var(--paper-bright);
+      }
+
+      .cool-coral-lab h2 {
+        margin: 0 0 8px;
+        font-family: var(--serif);
+        font-size: clamp(30px, 4vw, 54px);
+      }
+
+      .cool-coral-lab > p {
+        max-width: 680px;
+        margin: 0 0 24px;
+        color: #4b493f;
+        font-size: 13px;
+        font-weight: 700;
+        line-height: 1.7;
+      }
+
+      .cool-coral-grid {
+        display: grid;
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+        border-top: 2px solid var(--line);
+        border-left: 2px solid var(--line);
+      }
+
+      .cool-coral-option {
+        padding: 14px;
+        border-right: 2px solid var(--line);
+        border-bottom: 2px solid var(--line);
+        background: var(--paper);
+        --logo-panel: #fffdf6;
+        --logo-line: #171713;
+        --logo-target: #3f68ff;
+        --logo-lens: #171713;
+      }
+
+      .cool-coral-option .site-header-preview {
+        grid-template-columns: auto minmax(0, 1fr);
+      }
+
+      .cool-coral-option .site-header-preview nav {
+        display: none;
+      }
+
+      .cool-coral-option h3 {
+        margin: 14px 0 4px;
+        font-family: var(--serif);
+        font-size: 21px;
+      }
+
+      .cool-coral-option p {
+        margin: 0;
+        color: #4b493f;
+        font-family: var(--mono);
+        font-size: 10px;
+        font-weight: 800;
+      }
+
+      .cool-e1 { --logo-bg: #f05b70; }
+      .cool-e2 { --logo-bg: #e55272; }
+      .cool-e3 { --logo-bg: #d94f70; }
+      .cool-e4 { --logo-bg: #c95774; }
+
+      .lens-a {
+        --card-bg: #fffdf6;
+        --card-fg: #171713;
+        --card-copy: #4b493f;
+        --logo-bg: #171713;
+        --logo-panel: #fffdf6;
+        --logo-line: #3f68ff;
+        --logo-target: #ff645c;
+        --logo-lens: #d8ff3e;
+      }
+
+      .lens-b {
+        --card-bg: #171713;
+        --card-fg: #fffdf6;
+        --card-copy: #d9d4c7;
+        --logo-bg: #fffdf6;
+        --logo-panel: #171713;
+        --logo-line: #d8ff3e;
+        --logo-target: #ff645c;
+        --logo-lens: #3f68ff;
+      }
+
+      .lens-c {
+        --card-bg: #f1eee5;
+        --card-fg: #171713;
+        --card-copy: #4b493f;
+        --logo-bg: #203b2f;
+        --logo-panel: #fffdf6;
+        --logo-line: #d8ff3e;
+        --logo-target: #ff645c;
+        --logo-lens: #171713;
+      }
+
+      .lens-d {
+        --card-bg: #3f68ff;
+        --card-fg: #fffdf6;
+        --card-copy: #f1eee5;
+        --logo-bg: #fffdf6;
+        --logo-panel: #171713;
+        --logo-line: #3f68ff;
+        --logo-target: #d8ff3e;
+        --logo-lens: #ff645c;
+      }
+
+      .lens-e {
+        --card-bg: #fffdf6;
+        --card-fg: #171713;
+        --card-copy: #4b493f;
+        --logo-bg: #ff645c;
+        --logo-panel: #fffdf6;
+        --logo-line: #171713;
+        --logo-target: #3f68ff;
+        --logo-lens: #171713;
+      }
+
+      .lens-f {
+        --card-bg: #d8ff3e;
+        --card-fg: #171713;
+        --card-copy: #333322;
+        --logo-bg: #171713;
+        --logo-panel: #fffdf6;
+        --logo-line: #d8ff3e;
+        --logo-target: #3f68ff;
+        --logo-lens: #ff645c;
+      }
+
+      .concept {
+        min-height: 430px;
+        padding: 28px;
+        border-right: 2px solid var(--line);
+        border-bottom: 2px solid var(--line);
+        background: var(--paper-bright);
+      }
+
+      .concept:nth-child(2),
+      .concept:nth-child(5) {
+        background: var(--acid);
+      }
+
+      .concept:nth-child(3) {
+        background: var(--coral);
+      }
+
+      .concept:nth-child(6) {
+        background: var(--blue);
+      }
+
+      .concept h2 {
+        margin: 20px 0 8px;
+        font-family: var(--serif);
+        font-size: 30px;
+        line-height: 1.05;
+      }
+
+      .concept p {
+        margin: 0;
+        color: #4b493f;
+        font-size: 13px;
+        font-weight: 700;
+        line-height: 1.7;
+      }
+
+      .concept:nth-child(6) p {
+        color: #f6f0dc;
+      }
+
+      .logo-row {
+        display: flex;
+        gap: 18px;
+        align-items: center;
+      }
+
+      .lockup {
+        display: flex;
+        gap: 12px;
+        align-items: center;
+        margin-top: 22px;
+        padding-top: 18px;
+        border-top: 2px solid var(--line);
+      }
+
+      .lockup strong,
+      .lockup small {
+        display: block;
+        line-height: 1.1;
+      }
+
+      .lockup strong {
+        font-weight: 900;
+      }
+
+      .lockup small {
+        margin-top: 5px;
+        font-family: var(--mono);
+        font-size: 10px;
+      }
+
+      svg {
+        flex: 0 0 auto;
+      }
+
+      .wordmark {
+        font-family: var(--mono);
+        font-weight: 800;
+        letter-spacing: 0;
+      }
+
+      .micro-grid {
+        display: grid;
+        grid-template-columns: repeat(8, 1fr);
+        gap: 3px;
+      }
+
+      @media (max-width: 980px) {
+        .sheet {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+
+        .cool-coral-grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+      }
+
+      @media (max-width: 640px) {
+        header {
+          grid-template-columns: 1fr;
+        }
+
+        .sheet {
+          grid-template-columns: 1fr;
+        }
+
+        .cool-coral-grid {
+          grid-template-columns: 1fr;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div>
+        <p class="note">GAME SIGNAL / LOGO DIRECTIONS</p>
+        <h1>六个符合“游戏趋势日报”的标识方向。</h1>
+      </div>
+      <p>共同关键词：信号、榜单、发行判断、Steam 异动、编辑部质感。当前重点是 Signal Lens：同一枚“搜索并锁定高潜游戏”的标识，测试更适合站点的配色。</p>
+    </header>
+
+    <main class="sheet">
+      <div class="round-label">Signal Lens / Colorways</div>
+
+      <article class="concept featured lens-variant lens-a">
+        <div class="site-header-preview">
+          <svg width="48" height="48" viewBox="0 0 44 44" aria-label="Signal Lens A in site header">
+            <rect width="44" height="44" fill="var(--logo-bg)" />
+            <rect x="9" y="9" width="18" height="18" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="2" />
+            <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="var(--logo-line)" stroke-width="2.5" />
+            <circle cx="22" cy="22" r="12" fill="none" stroke="var(--logo-panel)" stroke-width="3" />
+            <path d="M31 31 39 39" stroke="var(--logo-lens)" stroke-width="4" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+          <nav><span>日报</span><span>案例</span></nav>
+        </div>
+        <div class="logo-row">
+          <svg width="120" height="120" viewBox="0 0 120 120" aria-label="Signal Lens A">
+            <rect x="8" y="8" width="104" height="104" fill="var(--logo-bg)" />
+            <g transform="translate(22 22)">
+              <rect x="0" y="0" width="48" height="48" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="5" />
+              <path d="M9 34 19 23l11 6 13-18" fill="none" stroke="var(--logo-line)" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter" />
+              <circle cx="44" cy="10" r="7" fill="var(--logo-target)" stroke="var(--logo-bg)" stroke-width="4" />
+            </g>
+            <circle cx="57" cy="57" r="31" fill="none" stroke="var(--logo-panel)" stroke-width="8" />
+            <path d="M80 80 102 102" stroke="var(--logo-lens)" stroke-width="10" stroke-linecap="square" />
+          </svg>
+        </div>
+        <h2>Lens A / Paper Signal</h2>
+        <p>最贴近当前网站基础配色：纸底、黑块、蓝线、珊瑚命中点。比上一版干净。</p>
+        <div class="lockup">
+          <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true">
+            <rect width="44" height="44" fill="var(--logo-bg)" />
+            <rect x="9" y="9" width="18" height="18" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="2" />
+            <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="var(--logo-line)" stroke-width="2.5" />
+            <circle cx="22" cy="22" r="12" fill="none" stroke="var(--logo-panel)" stroke-width="3" />
+            <path d="M31 31 39 39" stroke="var(--logo-lens)" stroke-width="4" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+        </div>
+      </article>
+
+      <article class="concept featured lens-variant lens-b">
+        <div class="site-header-preview">
+          <svg width="48" height="48" viewBox="0 0 44 44" aria-label="Signal Lens B in site header">
+            <rect width="44" height="44" fill="var(--logo-bg)" />
+            <rect x="9" y="9" width="18" height="18" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="2" />
+            <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="var(--logo-line)" stroke-width="2.5" />
+            <circle cx="22" cy="22" r="12" fill="none" stroke="var(--logo-panel)" stroke-width="3" />
+            <path d="M31 31 39 39" stroke="var(--logo-lens)" stroke-width="4" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+          <nav><span>日报</span><span>案例</span></nav>
+        </div>
+        <div class="logo-row">
+          <svg width="120" height="120" viewBox="0 0 120 120" aria-label="Signal Lens B">
+            <rect x="8" y="8" width="104" height="104" fill="var(--logo-bg)" stroke="var(--card-fg)" stroke-width="4" />
+            <g transform="translate(22 22)">
+              <rect x="0" y="0" width="48" height="48" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="5" />
+              <path d="M9 34 19 23l11 6 13-18" fill="none" stroke="var(--logo-line)" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter" />
+              <circle cx="44" cy="10" r="7" fill="var(--logo-target)" stroke="var(--logo-bg)" stroke-width="4" />
+            </g>
+            <circle cx="57" cy="57" r="31" fill="none" stroke="var(--logo-panel)" stroke-width="8" />
+            <path d="M80 80 102 102" stroke="var(--logo-lens)" stroke-width="10" stroke-linecap="square" />
+          </svg>
+        </div>
+        <h2>Lens B / Darkroom</h2>
+        <p>黑底站点小标最稳的一版：像暗房里扫数据，蓝色镜柄提供记忆点。</p>
+        <div class="lockup">
+          <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true">
+            <rect width="44" height="44" fill="var(--logo-bg)" />
+            <rect x="9" y="9" width="18" height="18" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="2" />
+            <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="var(--logo-line)" stroke-width="2.5" />
+            <circle cx="22" cy="22" r="12" fill="none" stroke="var(--logo-panel)" stroke-width="3" />
+            <path d="M31 31 39 39" stroke="var(--logo-lens)" stroke-width="4" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+        </div>
+      </article>
+
+      <article class="concept featured lens-variant lens-c">
+        <div class="site-header-preview">
+          <svg width="48" height="48" viewBox="0 0 44 44" aria-label="Signal Lens C in site header">
+            <rect width="44" height="44" fill="var(--logo-bg)" />
+            <rect x="9" y="9" width="18" height="18" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="2" />
+            <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="var(--logo-line)" stroke-width="2.5" />
+            <circle cx="22" cy="22" r="12" fill="none" stroke="var(--logo-panel)" stroke-width="3" />
+            <path d="M31 31 39 39" stroke="var(--logo-lens)" stroke-width="4" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+          <nav><span>日报</span><span>案例</span></nav>
+        </div>
+        <div class="logo-row">
+          <svg width="120" height="120" viewBox="0 0 120 120" aria-label="Signal Lens C">
+            <rect x="8" y="8" width="104" height="104" fill="var(--logo-bg)" />
+            <g transform="translate(22 22)">
+              <rect x="0" y="0" width="48" height="48" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="5" />
+              <path d="M9 34 19 23l11 6 13-18" fill="none" stroke="var(--logo-line)" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter" />
+              <circle cx="44" cy="10" r="7" fill="var(--logo-target)" stroke="var(--logo-bg)" stroke-width="4" />
+            </g>
+            <circle cx="57" cy="57" r="31" fill="none" stroke="var(--logo-panel)" stroke-width="8" />
+            <path d="M80 80 102 102" stroke="var(--logo-lens)" stroke-width="10" stroke-linecap="square" />
+          </svg>
+        </div>
+        <h2>Lens C / Deep Green</h2>
+        <p>更成熟的发行研究感，少一点“赛博酸绿”，像资料室和侦测工具的混合。</p>
+        <div class="lockup">
+          <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true">
+            <rect width="44" height="44" fill="var(--logo-bg)" />
+            <rect x="9" y="9" width="18" height="18" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="2" />
+            <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="var(--logo-line)" stroke-width="2.5" />
+            <circle cx="22" cy="22" r="12" fill="none" stroke="var(--logo-panel)" stroke-width="3" />
+            <path d="M31 31 39 39" stroke="var(--logo-lens)" stroke-width="4" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+        </div>
+      </article>
+
+      <article class="concept featured lens-variant lens-d">
+        <div class="site-header-preview">
+          <svg width="48" height="48" viewBox="0 0 44 44" aria-label="Signal Lens D in site header">
+            <rect width="44" height="44" fill="var(--logo-bg)" />
+            <rect x="9" y="9" width="18" height="18" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="2" />
+            <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="var(--logo-line)" stroke-width="2.5" />
+            <circle cx="22" cy="22" r="12" fill="none" stroke="var(--logo-panel)" stroke-width="3" />
+            <path d="M31 31 39 39" stroke="var(--logo-lens)" stroke-width="4" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+          <nav><span>日报</span><span>案例</span></nav>
+        </div>
+        <div class="logo-row">
+          <svg width="120" height="120" viewBox="0 0 120 120" aria-label="Signal Lens D">
+            <rect x="8" y="8" width="104" height="104" fill="var(--logo-bg)" stroke="var(--card-fg)" stroke-width="4" />
+            <g transform="translate(22 22)">
+              <rect x="0" y="0" width="48" height="48" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="5" />
+              <path d="M9 34 19 23l11 6 13-18" fill="none" stroke="var(--logo-line)" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter" />
+              <circle cx="44" cy="10" r="7" fill="var(--logo-target)" stroke="var(--logo-panel)" stroke-width="4" />
+            </g>
+            <circle cx="57" cy="57" r="31" fill="none" stroke="var(--logo-panel)" stroke-width="8" />
+            <path d="M80 80 102 102" stroke="var(--logo-lens)" stroke-width="10" stroke-linecap="square" />
+          </svg>
+        </div>
+        <h2>Lens D / Blue Issue</h2>
+        <p>延续首页蓝色信号感，但把黑字冲突拿掉。醒目，适合社媒头像。</p>
+        <div class="lockup">
+          <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true">
+            <rect width="44" height="44" fill="var(--logo-bg)" />
+            <rect x="9" y="9" width="18" height="18" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="2" />
+            <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="var(--logo-line)" stroke-width="2.5" />
+            <circle cx="22" cy="22" r="12" fill="none" stroke="var(--logo-panel)" stroke-width="3" />
+            <path d="M31 31 39 39" stroke="var(--logo-lens)" stroke-width="4" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+        </div>
+      </article>
+
+      <article class="concept featured lens-variant lens-e">
+        <div class="site-header-preview">
+          <svg width="48" height="48" viewBox="0 0 44 44" aria-label="Signal Lens E in site header">
+            <rect width="44" height="44" fill="var(--logo-bg)" />
+            <rect x="9" y="9" width="18" height="18" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="2" />
+            <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="var(--logo-line)" stroke-width="2.5" />
+            <circle cx="22" cy="22" r="12" fill="none" stroke="var(--logo-panel)" stroke-width="3" />
+            <path d="M31 31 39 39" stroke="var(--logo-lens)" stroke-width="4" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+          <nav><span>日报</span><span>案例</span></nav>
+        </div>
+        <div class="logo-row">
+          <svg width="120" height="120" viewBox="0 0 120 120" aria-label="Signal Lens E">
+            <rect x="8" y="8" width="104" height="104" fill="var(--logo-bg)" stroke="var(--card-fg)" stroke-width="4" />
+            <g transform="translate(22 22)">
+              <rect x="0" y="0" width="48" height="48" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="5" />
+              <path d="M9 34 19 23l11 6 13-18" fill="none" stroke="var(--logo-line)" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter" />
+              <circle cx="44" cy="10" r="7" fill="var(--logo-target)" stroke="var(--logo-panel)" stroke-width="4" />
+            </g>
+            <circle cx="57" cy="57" r="31" fill="none" stroke="var(--logo-panel)" stroke-width="8" />
+            <path d="M80 80 102 102" stroke="var(--logo-lens)" stroke-width="10" stroke-linecap="square" />
+          </svg>
+        </div>
+        <h2>Lens E / Coral Press</h2>
+        <p>更贴近当前红色桥接区，但作为主 Logo 可能太热，需要看你是否想更“刊物化”。</p>
+        <div class="lockup">
+          <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true">
+            <rect width="44" height="44" fill="var(--logo-bg)" />
+            <rect x="9" y="9" width="18" height="18" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="2" />
+            <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="var(--logo-line)" stroke-width="2.5" />
+            <circle cx="22" cy="22" r="12" fill="none" stroke="var(--logo-panel)" stroke-width="3" />
+            <path d="M31 31 39 39" stroke="var(--logo-lens)" stroke-width="4" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+        </div>
+      </article>
+
+      <article class="concept featured lens-variant lens-f">
+        <div class="site-header-preview">
+          <svg width="48" height="48" viewBox="0 0 44 44" aria-label="Signal Lens F in site header">
+            <rect width="44" height="44" fill="var(--logo-bg)" />
+            <rect x="9" y="9" width="18" height="18" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="2" />
+            <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="var(--logo-line)" stroke-width="2.5" />
+            <circle cx="22" cy="22" r="12" fill="none" stroke="var(--logo-panel)" stroke-width="3" />
+            <path d="M31 31 39 39" stroke="var(--logo-lens)" stroke-width="4" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+          <nav><span>日报</span><span>案例</span></nav>
+        </div>
+        <div class="logo-row">
+          <svg width="120" height="120" viewBox="0 0 120 120" aria-label="Signal Lens F">
+            <rect x="8" y="8" width="104" height="104" fill="var(--logo-bg)" />
+            <g transform="translate(22 22)">
+              <rect x="0" y="0" width="48" height="48" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="5" />
+              <path d="M9 34 19 23l11 6 13-18" fill="none" stroke="var(--logo-line)" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter" />
+              <circle cx="44" cy="10" r="7" fill="var(--logo-target)" stroke="var(--logo-bg)" stroke-width="4" />
+            </g>
+            <circle cx="57" cy="57" r="31" fill="none" stroke="var(--logo-panel)" stroke-width="8" />
+            <path d="M80 80 102 102" stroke="var(--logo-lens)" stroke-width="10" stroke-linecap="square" />
+          </svg>
+        </div>
+        <h2>Lens F / Acid Alert</h2>
+        <p>保留酸绿，但把它作为卡片底色，不塞进所有线条里。更警报、更榜单。</p>
+        <div class="lockup">
+          <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true">
+            <rect width="44" height="44" fill="var(--logo-bg)" />
+            <rect x="9" y="9" width="18" height="18" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="2" />
+            <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="var(--logo-line)" stroke-width="2.5" />
+            <circle cx="22" cy="22" r="12" fill="none" stroke="var(--logo-panel)" stroke-width="3" />
+            <path d="M31 31 39 39" stroke="var(--logo-lens)" stroke-width="4" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+        </div>
+      </article>
+
+      <div class="round-label">Lens E / Cooler Coral Lab</div>
+
+      <section class="cool-coral-lab">
+        <h2>保留珊瑚感，把温度往下调。</h2>
+        <p>四个方案都使用网站原本的米白导航背景，只沿色环从偏橙珊瑚向偏蓝玫红移动。越往右越冷、越成熟，也越不像警报色。</p>
+        <div class="cool-coral-grid">
+          <article class="cool-coral-option cool-e1">
+            <div class="site-header-preview">
+              <svg width="48" height="48" viewBox="0 0 44 44" aria-label="Cool Coral 1 in site header">
+                <rect width="44" height="44" fill="var(--logo-bg)" />
+                <rect x="9" y="9" width="18" height="18" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="2" />
+                <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="var(--logo-line)" stroke-width="2.5" />
+                <circle cx="22" cy="22" r="12" fill="none" stroke="var(--logo-panel)" stroke-width="3" />
+                <path d="M31 31 39 39" stroke="var(--logo-lens)" stroke-width="4" />
+              </svg>
+              <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+            </div>
+            <h3>E1 / Cool Coral</h3>
+            <p>#F05B70 · 最接近原 Lens E</p>
+          </article>
+
+          <article class="cool-coral-option cool-e2">
+            <div class="site-header-preview">
+              <svg width="48" height="48" viewBox="0 0 44 44" aria-label="Cool Coral 2 in site header">
+                <rect width="44" height="44" fill="var(--logo-bg)" />
+                <rect x="9" y="9" width="18" height="18" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="2" />
+                <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="var(--logo-line)" stroke-width="2.5" />
+                <circle cx="22" cy="22" r="12" fill="none" stroke="var(--logo-panel)" stroke-width="3" />
+                <path d="M31 31 39 39" stroke="var(--logo-lens)" stroke-width="4" />
+              </svg>
+              <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+            </div>
+            <h3>E2 / Editorial Rose</h3>
+            <p>#E55272 · 刊物感与识别度平衡</p>
+          </article>
+
+          <article class="cool-coral-option cool-e3">
+            <div class="site-header-preview">
+              <svg width="48" height="48" viewBox="0 0 44 44" aria-label="Cool Coral 3 in site header">
+                <rect width="44" height="44" fill="var(--logo-bg)" />
+                <rect x="9" y="9" width="18" height="18" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="2" />
+                <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="var(--logo-line)" stroke-width="2.5" />
+                <circle cx="22" cy="22" r="12" fill="none" stroke="var(--logo-panel)" stroke-width="3" />
+                <path d="M31 31 39 39" stroke="var(--logo-lens)" stroke-width="4" />
+              </svg>
+              <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+            </div>
+            <h3>E3 / Signal Raspberry</h3>
+            <p>#D94F70 · 更冷、更像研究品牌</p>
+          </article>
+
+          <article class="cool-coral-option cool-e4">
+            <div class="site-header-preview">
+              <svg width="48" height="48" viewBox="0 0 44 44" aria-label="Cool Coral 4 in site header">
+                <rect width="44" height="44" fill="var(--logo-bg)" />
+                <rect x="9" y="9" width="18" height="18" fill="var(--logo-panel)" stroke="var(--logo-lens)" stroke-width="2" />
+                <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="var(--logo-line)" stroke-width="2.5" />
+                <circle cx="22" cy="22" r="12" fill="none" stroke="var(--logo-panel)" stroke-width="3" />
+                <path d="M31 31 39 39" stroke="var(--logo-lens)" stroke-width="4" />
+              </svg>
+              <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+            </div>
+            <h3>E4 / Dusty Berry</h3>
+            <p>#C95774 · 最克制、最成熟</p>
+          </article>
+        </div>
+      </section>
+
+      <div class="round-label">Round 2 / Search, lock-on, breakout potential</div>
+
+      <article class="concept featured">
+        <div class="logo-row">
+          <svg width="120" height="120" viewBox="0 0 120 120" aria-label="Concept G">
+            <rect x="8" y="8" width="104" height="104" fill="#171713" />
+            <g transform="translate(22 22)">
+              <rect x="0" y="0" width="48" height="48" fill="#fffdf6" stroke="#d8ff3e" stroke-width="5" />
+              <path d="M9 34 19 23l11 6 13-18" fill="none" stroke="#3f68ff" stroke-width="6" stroke-linecap="square" stroke-linejoin="miter" />
+              <circle cx="44" cy="10" r="7" fill="#ff645c" stroke="#171713" stroke-width="4" />
+            </g>
+            <circle cx="57" cy="57" r="31" fill="none" stroke="#fffdf6" stroke-width="8" />
+            <path d="M80 80 102 102" stroke="#d8ff3e" stroke-width="10" stroke-linecap="square" />
+          </svg>
+        </div>
+        <h2>Signal Lens</h2>
+        <p>最贴近你刚才说的方向：放大镜里是一条被锁定的趋势线，含义是“在 Steam 海量游戏中发现一个异常上升目标”。</p>
+        <div class="lockup">
+          <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true">
+            <rect width="44" height="44" fill="#171713" />
+            <rect x="9" y="9" width="18" height="18" fill="#fffdf6" stroke="#d8ff3e" stroke-width="2" />
+            <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="#3f68ff" stroke-width="2.5" />
+            <circle cx="22" cy="22" r="12" fill="none" stroke="#fffdf6" stroke-width="3" />
+            <path d="M31 31 39 39" stroke="#d8ff3e" stroke-width="4" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+        </div>
+      </article>
+
+      <article class="concept featured">
+        <div class="logo-row">
+          <svg width="120" height="120" viewBox="0 0 120 120" aria-label="Concept H">
+            <rect x="8" y="8" width="104" height="104" fill="#fffdf6" stroke="#171713" stroke-width="4" />
+            <g class="micro-grid" transform="translate(24 24)">
+              <rect x="0" y="0" width="10" height="10" fill="#171713" />
+              <rect x="14" y="0" width="10" height="10" fill="#171713" />
+              <rect x="28" y="0" width="10" height="10" fill="#171713" />
+              <rect x="42" y="0" width="10" height="10" fill="#171713" />
+              <rect x="56" y="0" width="10" height="10" fill="#171713" />
+              <rect x="0" y="14" width="10" height="10" fill="#171713" />
+              <rect x="14" y="14" width="10" height="10" fill="#171713" />
+              <rect x="28" y="14" width="10" height="10" fill="#171713" />
+              <rect x="42" y="14" width="10" height="10" fill="#171713" />
+              <rect x="56" y="14" width="10" height="10" fill="#171713" />
+              <rect x="0" y="28" width="10" height="10" fill="#171713" />
+              <rect x="14" y="28" width="10" height="10" fill="#171713" />
+              <rect x="28" y="28" width="10" height="10" fill="#d8ff3e" stroke="#171713" stroke-width="2" />
+              <rect x="42" y="28" width="10" height="10" fill="#171713" />
+              <rect x="56" y="28" width="10" height="10" fill="#171713" />
+              <rect x="0" y="42" width="10" height="10" fill="#171713" />
+              <rect x="14" y="42" width="10" height="10" fill="#171713" />
+              <rect x="28" y="42" width="10" height="10" fill="#171713" />
+              <rect x="42" y="42" width="10" height="10" fill="#171713" />
+              <rect x="56" y="42" width="10" height="10" fill="#171713" />
+              <rect x="0" y="56" width="10" height="10" fill="#171713" />
+              <rect x="14" y="56" width="10" height="10" fill="#171713" />
+              <rect x="28" y="56" width="10" height="10" fill="#171713" />
+              <rect x="42" y="56" width="10" height="10" fill="#171713" />
+              <rect x="56" y="56" width="10" height="10" fill="#171713" />
+            </g>
+            <circle cx="57" cy="57" r="22" fill="none" stroke="#3f68ff" stroke-width="7" />
+            <path d="M72 72 92 92" stroke="#ff645c" stroke-width="9" stroke-linecap="square" />
+          </svg>
+        </div>
+        <h2>Needle Grid</h2>
+        <p>一屏小方块代表茫茫多的游戏，酸绿方块是被发现的那个。视觉上继承 Signal Stack 的“列表/堆栈感”。</p>
+        <div class="lockup">
+          <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true">
+            <rect width="44" height="44" fill="#fffdf6" stroke="#171713" stroke-width="3" />
+            <path d="M10 10h5v5h-5zM19 10h5v5h-5zM28 10h5v5h-5zM10 19h5v5h-5zM19 19h5v5h-5zM28 19h5v5h-5zM10 28h5v5h-5zM19 28h5v5h-5zM28 28h5v5h-5z" fill="#171713" />
+            <path d="M19 19h5v5h-5z" fill="#d8ff3e" />
+            <circle cx="22" cy="22" r="10" fill="none" stroke="#3f68ff" stroke-width="3" />
+            <path d="M30 30 38 38" stroke="#ff645c" stroke-width="4" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+        </div>
+      </article>
+
+      <article class="concept featured">
+        <div class="logo-row">
+          <svg width="120" height="120" viewBox="0 0 120 120" aria-label="Concept I">
+            <rect x="8" y="8" width="104" height="104" fill="#171713" />
+            <path d="M31 67c0-17 12-30 29-30s29 13 29 30v11c0 7-5 12-12 12-5 0-9-2-12-6l-5-7-5 7c-3 4-7 6-12 6-7 0-12-5-12-12V67Z" fill="#fffdf6" stroke="#d8ff3e" stroke-width="5" />
+            <path d="M44 64h17M52.5 55.5v17" stroke="#171713" stroke-width="5" />
+            <circle cx="72" cy="59" r="4" fill="#3f68ff" />
+            <circle cx="82" cy="69" r="4" fill="#ff645c" />
+            <circle cx="60" cy="66" r="30" fill="none" stroke="#3f68ff" stroke-width="5" />
+            <path d="M82 88 101 105" stroke="#ff645c" stroke-width="8" />
+          </svg>
+        </div>
+        <h2>Game Finder</h2>
+        <p>游戏手柄 + 放大镜。语义最直白，适合作为社媒头像或 favicon，但需要小心别变成普通游戏媒体站。</p>
+        <div class="lockup">
+          <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true">
+            <rect width="44" height="44" fill="#171713" />
+            <path d="M10 25c0-7 5-12 12-12s12 5 12 12v5c0 3-2 5-5 5-2 0-4-1-5-3l-2-3-2 3c-1 2-3 3-5 3-3 0-5-2-5-5v-5Z" fill="#fffdf6" stroke="#d8ff3e" stroke-width="2" />
+            <path d="M15 25h7M18.5 21.5v7" stroke="#171713" stroke-width="2" />
+            <circle cx="22" cy="24" r="11" fill="none" stroke="#3f68ff" stroke-width="2" />
+            <path d="M31 33 39 40" stroke="#ff645c" stroke-width="3" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+        </div>
+      </article>
+
+      <article class="concept featured">
+        <div class="logo-row">
+          <svg width="120" height="120" viewBox="0 0 120 120" aria-label="Concept J">
+            <rect x="8" y="8" width="104" height="104" fill="#171713" />
+            <path d="M27 31h54v14H27zM27 53h54v14H27zM27 75h54v14H27z" fill="#fffdf6" />
+            <path d="M27 53h54v14H27z" fill="#d8ff3e" />
+            <path d="M81 30v60" stroke="#ff645c" stroke-width="7" />
+            <circle cx="54" cy="60" r="25" fill="none" stroke="#3f68ff" stroke-width="6" />
+            <path d="M71 78 95 100" stroke="#d8ff3e" stroke-width="8" />
+            <circle cx="54" cy="60" r="6" fill="#ff645c" stroke="#171713" stroke-width="3" />
+          </svg>
+        </div>
+        <h2>Stack Lock</h2>
+        <p>Signal Stack 的强化版：榜单条目中有一条被高亮，再被放大镜和准星锁定。很贴合日报产品本身。</p>
+        <div class="lockup">
+          <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true">
+            <rect width="44" height="44" fill="#171713" />
+            <path d="M9 12h24v6H9zM9 21h24v6H9zM9 30h24v6H9z" fill="#fffdf6" />
+            <path d="M9 21h24v6H9z" fill="#d8ff3e" />
+            <circle cx="21" cy="24" r="10" fill="none" stroke="#3f68ff" stroke-width="3" />
+            <circle cx="21" cy="24" r="3" fill="#ff645c" />
+            <path d="M29 32 39 40" stroke="#d8ff3e" stroke-width="4" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+        </div>
+      </article>
+
+      <div class="round-label">Round 1 / Baseline directions</div>
+
+      <article class="concept">
+        <div class="logo-row">
+          <svg width="104" height="104" viewBox="0 0 104 104" aria-label="Concept A">
+            <rect x="10" y="10" width="84" height="84" fill="#171713" />
+            <path d="M25 68V42c0-12 9-20 23-20 9 0 17 3 23 8l-9 10c-4-3-8-5-14-5-8 0-13 4-13 11v18c0 7 5 11 14 11 4 0 8-1 11-3V58H48V45h27v34c-7 6-16 9-28 9-13 0-22-8-22-20Z" fill="#d8ff3e" />
+            <path d="M23 24h58" stroke="#3f68ff" stroke-width="5" />
+          </svg>
+        </div>
+        <h2>Signal Block</h2>
+        <p>最接近当前页头的升级版。黑底酸绿，保留强识别度，把 GS 做成一个像榜单编号一样的硬标。</p>
+        <div class="lockup">
+          <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true">
+            <rect width="44" height="44" fill="#171713" />
+            <path d="M12 29V18c0-6 5-10 12-10 4 0 8 1 11 4l-5 5c-2-1-4-2-6-2-4 0-6 2-6 5v7c0 3 2 5 6 5 2 0 3 0 5-1v-5h-6v-7h13v16c-4 3-8 4-14 4-6 0-10-4-10-10Z" fill="#d8ff3e" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+        </div>
+      </article>
+
+      <article class="concept">
+        <div class="logo-row">
+          <svg width="104" height="104" viewBox="0 0 104 104" aria-label="Concept B">
+            <rect x="10" y="10" width="84" height="84" fill="#fffdf6" stroke="#171713" stroke-width="4" />
+            <path d="M23 72h58" stroke="#171713" stroke-width="4" />
+            <path d="M27 64 39 50l14 8 24-29" fill="none" stroke="#3f68ff" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter" />
+            <circle cx="77" cy="29" r="8" fill="#ff645c" stroke="#171713" stroke-width="4" />
+          </svg>
+        </div>
+        <h2>Trend Cut</h2>
+        <p>把“异常曲线”作为核心记忆点，适合强调数据与判断方法。更像研究工具，也最容易做动画。</p>
+        <div class="lockup">
+          <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true">
+            <rect x="2" y="2" width="40" height="40" fill="#fffdf6" stroke="#171713" stroke-width="3" />
+            <path d="M10 29 17 22l7 4 11-14" fill="none" stroke="#3f68ff" stroke-width="4" />
+            <circle cx="35" cy="12" r="4" fill="#ff645c" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+        </div>
+      </article>
+
+      <article class="concept">
+        <div class="logo-row">
+          <svg width="104" height="104" viewBox="0 0 104 104" aria-label="Concept C">
+            <rect x="10" y="10" width="84" height="84" fill="#171713" />
+            <rect x="23" y="23" width="58" height="58" fill="#ff645c" stroke="#fffdf6" stroke-width="4" />
+            <path d="M35 68h34M35 52h25M35 36h34" stroke="#171713" stroke-width="7" />
+            <path d="M70 23v58" stroke="#d8ff3e" stroke-width="7" />
+          </svg>
+        </div>
+        <h2>Daily Press</h2>
+        <p>偏日报 / 编辑部印章。像一张被压在桌上的发行简报，适合“每日刊物”这个定位。</p>
+        <div class="lockup">
+          <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true">
+            <rect width="44" height="44" fill="#171713" />
+            <rect x="10" y="10" width="24" height="24" fill="#ff645c" stroke="#fffdf6" stroke-width="2" />
+            <path d="M15 17h15M15 23h11M15 29h15" stroke="#171713" stroke-width="3" />
+            <path d="M31 10v24" stroke="#d8ff3e" stroke-width="3" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+        </div>
+      </article>
+
+      <article class="concept">
+        <div class="logo-row">
+          <svg width="104" height="104" viewBox="0 0 104 104" aria-label="Concept D">
+            <rect x="10" y="10" width="84" height="84" fill="#fffdf6" stroke="#171713" stroke-width="4" />
+            <path d="M52 22v60M22 52h60" stroke="#171713" stroke-width="4" />
+            <path d="M35 69 44 53l12 7 15-25" fill="none" stroke="#3f68ff" stroke-width="6" />
+            <circle cx="52" cy="52" r="10" fill="#d8ff3e" stroke="#171713" stroke-width="4" />
+          </svg>
+        </div>
+        <h2>Radar Desk</h2>
+        <p>雷达十字 + 趋势线，表达“扫 Steam 异动”。比曲线版更有侦测感，也更像工具系统。</p>
+        <div class="lockup">
+          <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true">
+            <rect x="2" y="2" width="40" height="40" fill="#fffdf6" stroke="#171713" stroke-width="3" />
+            <path d="M22 9v26M9 22h26" stroke="#171713" stroke-width="2" />
+            <path d="M12 30 18 22l7 4 8-13" fill="none" stroke="#3f68ff" stroke-width="3" />
+            <circle cx="22" cy="22" r="5" fill="#d8ff3e" stroke="#171713" stroke-width="2" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+        </div>
+      </article>
+
+      <article class="concept">
+        <div class="logo-row">
+          <svg width="104" height="104" viewBox="0 0 104 104" aria-label="Concept E">
+            <rect x="10" y="10" width="84" height="84" fill="#171713" />
+            <path d="M31 28h42v16H31zM31 60h42v16H31z" fill="#d8ff3e" />
+            <path d="M31 44h42v16H31z" fill="#3f68ff" />
+            <path d="M23 28h8v48h-8zM73 28h8v48h-8z" fill="#ff645c" />
+            <path d="M38 52h28" stroke="#fffdf6" stroke-width="4" />
+          </svg>
+        </div>
+        <h2>Signal Stack</h2>
+        <p>像一组榜单条目，也像服务器日志切片。适合突出“1 主信号 + 4 次信号”的结构。</p>
+        <div class="lockup">
+          <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true">
+            <rect width="44" height="44" fill="#171713" />
+            <path d="M12 12h20v7H12zM12 25h20v7H12z" fill="#d8ff3e" />
+            <path d="M12 19h20v6H12z" fill="#3f68ff" />
+            <path d="M8 12h4v20H8zM32 12h4v20h-4z" fill="#ff645c" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+        </div>
+      </article>
+
+      <article class="concept">
+        <div class="logo-row">
+          <svg width="104" height="104" viewBox="0 0 104 104" aria-label="Concept F">
+            <rect x="10" y="10" width="84" height="84" fill="#171713" />
+            <path d="M28 28h48v48H28z" fill="#fffdf6" />
+            <path d="M28 28h48v12H28z" fill="#d8ff3e" />
+            <path d="M35 66h34M35 55h20" stroke="#171713" stroke-width="5" />
+            <path d="M70 28v48" stroke="#ff645c" stroke-width="7" />
+            <path d="M20 84 84 20" stroke="#3f68ff" stroke-width="5" />
+          </svg>
+        </div>
+        <h2>Case File</h2>
+        <p>数据日报转成深度案例的“档案夹”隐喻。更成熟、更像作品集，也比较适合简历点击后的第一印象。</p>
+        <div class="lockup">
+          <svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true">
+            <rect width="44" height="44" fill="#171713" />
+            <path d="M12 12h20v20H12z" fill="#fffdf6" />
+            <path d="M12 12h20v6H12z" fill="#d8ff3e" />
+            <path d="M16 27h13M16 22h8" stroke="#171713" stroke-width="2" />
+            <path d="M30 12v20" stroke="#ff645c" stroke-width="3" />
+            <path d="M8 35 36 7" stroke="#3f68ff" stroke-width="2" />
+          </svg>
+          <span><strong>游戏信号</strong><small>GAME SIGNAL</small></span>
+        </div>
+      </article>
+    </main>
+  </body>
+</html>

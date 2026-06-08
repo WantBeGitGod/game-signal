@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0.0",
+  "slug": "2026-06-01-week",
+  "issue_number": 2,
+  "week_start": "2026-06-01",
+  "week_end": "2026-06-07",
+  "title": "第 002 期｜2026-06-01 - 2026-06-07 Steam 发行信号",
+  "summary": "本期自动筛选 5 个 Steam 发行信号，并预留 2 个深度案例给主编审阅。",
+  "status": "published",
+  "published_at": "2026-06-07 13:17:32",
+  "signals": [
+    {
+      "rank": 1,
+      "signal_type": "sudden_breakout",
+      "label": "突然爆发",
+      "score": 113.69,
+      "selection_reason": "TBH: Task Bar Hero 上周窗口峰值 215,879，较前一周窗口变化 +62%，被识别为「突然爆发」。",
+      "metrics": {
+        "weekly_peak": 215879,
+        "previous_week_peak": 133408,
+        "growth_rate": 0.6182,
+        "review_ratio": 51.0,
+        "review_total": 7927,
+        "days_seen": 3,
+        "is_new_release": true,
+        "genres": [
+          "休闲",
+          "独立",
+          "角色扮演",
+          "免费"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-01",
+            "peak": 145268
+          },
+          {
+            "date": "2026-06-02",
+            "peak": 176259
+          },
+          {
+            "date": "2026-06-03",
+            "peak": 215879
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": true,
+      "case_slug": "tbh-task-bar-hero",
+      "chart_path": "/data/charts/3678970.json",
+      "game": {
+        "slug": "tbh-task-bar-hero",
+        "appid": "3678970",
+        "name": "TBH: Task Bar Hero",
+        "description": "终极迷你放置RPG！ 可爱的像素勇者们正等待着与你一同踏上冒险——就在你的任务栏旁。 用多样的职业、技能、道具和配装，击退工作和日常生活的无聊吧！",
+        "developer": "Nugem Studio, Tesseract Studio",
+        "publisher": "Nugem Studio",
+        "release_date": "2026-05-27",
+        "review_ratio": 51.0,
+        "review_total": 7927,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg?t=1780112834",
+        "steam_url": "https://store.steampowered.com/app/3678970"
+      }
+    },
+    {
+      "rank": 2,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 95.35,
+      "selection_reason": "007 First Light 上周窗口峰值 71,073，较前一周窗口变化 +1%，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 71073,
+        "previous_week_peak": 70141,
+        "growth_rate": 0.0133,
+        "review_ratio": 93.0,
+        "review_total": 21667,
+        "days_seen": 2,
+        "is_new_release": true,
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-01",
+            "peak": 71073
+          },
+          {
+            "date": "2026-06-02",
+            "peak": 46272
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": true,
+      "case_slug": "007-first-light",
+      "chart_path": "/data/charts/3768760.json",
+      "game": {
+        "slug": "007-first-light",
+        "appid": "3768760",
+        "name": "007 First Light",
+        "description": "赢得编号。007 初露锋芒 是IO Interactive出品的惊险刺激的间谍动作冒险游戏。跟随年轻、机智但偶尔鲁莽的詹姆斯·邦德的脚步，他是军情六处训练项目中的新兵，一起探索这位世界最著名间谍的起源故事。",
+        "developer": "IO Interactive A/S",
+        "publisher": "IO Interactive A/S",
+        "release_date": "2026-05-26",
+        "review_ratio": 93.0,
+        "review_total": 21667,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/ed212e7615947389b4eb0783ebbf7fc726839893/header_schinese.jpg?t=1780344100",
+        "steam_url": "https://store.steampowered.com/app/3768760"
+      }
+    },
+    {
+      "rank": 3,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 93.51,
+      "selection_reason": "Romestead 上周窗口峰值 37,047，较前一周窗口变化 +17%，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 37047,
+        "previous_week_peak": 31706,
+        "growth_rate": 0.1685,
+        "review_ratio": 75.0,
+        "review_total": 1821,
+        "days_seen": 2,
+        "is_new_release": true,
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "角色扮演",
+          "抢先体验"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-01",
+            "peak": 37047
+          },
+          {
+            "date": "2026-06-02",
+            "peak": 35138
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/1805320.json",
+      "game": {
+        "slug": "romestead",
+        "appid": "1805320",
+        "name": "Romestead",
+        "description": "罗马已然陨落！但是这不影响你白天种田搞搞基建，晚上开荒刷刷僵尸。你可以享受单人的惬意时光，没事陪一下罗马的神明，抑或是和你的最多7位朋友们共同享受共同经营的乐趣！",
+        "developer": "Beartwigs",
+        "publisher": "Three Friends",
+        "release_date": "2026-05-25",
+        "review_ratio": 75.0,
+        "review_total": 1821,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805320/7b4b95bbd6b67e283a8dfe36e9a9f64c3ca62036/header_schinese.jpg?t=1780391053",
+        "steam_url": "https://store.steampowered.com/app/1805320"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 91.78,
+      "selection_reason": "Paralives 上周窗口峰值 45,675，较前一周窗口变化 +4%，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 45675,
+        "previous_week_peak": 44068,
+        "growth_rate": 0.0365,
+        "review_ratio": 90.0,
+        "review_total": 12028,
+        "days_seen": 1,
+        "is_new_release": true,
+        "genres": [
+          "模拟",
+          "抢先体验"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-01",
+            "peak": 45675
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/1118520.json",
+      "game": {
+        "slug": "paralives",
+        "appid": "1118520",
+        "name": "Paralives",
+        "description": "《平行人生》是一款围绕“家、人生与羁绊”展开的生活模拟游戏。无论顺境逆境，你的故事，会走向何方？",
+        "developer": "Alex Massé and team",
+        "publisher": "Paralives Studio",
+        "release_date": "2026-05-25",
+        "review_ratio": 90.0,
+        "review_total": 12028,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/277ab7a2ad1bbce0f4837bb37a3c86d109bd5258/header.jpg?t=1779721278",
+        "steam_url": "https://store.steampowered.com/app/1118520"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 88.88,
+      "selection_reason": "Mina the Hollower 上周窗口峰值 12,916，较前一周窗口变化 +10%，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 12916,
+        "previous_week_peak": 11690,
+        "growth_rate": 0.1049,
+        "review_ratio": 87.0,
+        "review_total": 3235,
+        "days_seen": 3,
+        "is_new_release": true,
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-01",
+            "peak": 12916
+          },
+          {
+            "date": "2026-06-02",
+            "peak": 10887
+          },
+          {
+            "date": "2026-06-03",
+            "peak": 9637
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/1875580.json",
+      "game": {
+        "slug": "mina-the-hollower",
+        "appid": "1875580",
+        "name": "Mina the Hollower",
+        "description": "扮演米娜，一位声名显赫的挖掘者，踏上拯救被诅咒岛屿的绝望之旅。在《挖掘者米娜》这款由《铲子骑士》开发者带来的全新游戏中，挥鞭痛击敌人，钻入地下，探索完美的像素世界！",
+        "developer": "Yacht Club Games",
+        "publisher": "Yacht Club Games",
+        "release_date": "2026-05-28",
+        "review_ratio": 87.0,
+        "review_total": 3235,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875580/368fcff2cd8f5ef01c5a89060a49f9a333076a87/header.jpg?t=1780266529",
+        "steam_url": "https://store.steampowered.com/app/1875580"
+      }
+    }
+  ]
+}
