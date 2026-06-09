@@ -1,0 +1,41 @@
+{
+  "slug": "gothic-1-remake",
+  "appid": "1297900",
+  "name": "Gothic 1 Remake",
+  "name_cn": null,
+  "description": "传奇归来——在这款定义了一个类别的经典角色扮演游戏的忠实重制版中，重返采矿之谷。探索一个手把手打造的、栩栩如生的开放世界，这个世界会对您的各种行动做出动态反应，为您带来无与伦比、不受拘束的体验。",
+  "release_date": "2026-06-05",
+  "genres": [
+    "动作",
+    "角色扮演"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "视角舒适度",
+    "自定义音量控制",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "随时保存",
+    "立体声",
+    "字幕选项",
+    "环绕声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 85.0,
+  "review_total": 11572,
+  "developer": "Alkimia Interactive",
+  "publisher": "Alkimia Interactive, THQ Nordic",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1780965412",
+  "steam_url": "https://store.steampowered.com/app/1297900",
+  "trend": [
+    {
+      "date": "2026-06-09",
+      "peak": 71991
+    }
+  ]
+}

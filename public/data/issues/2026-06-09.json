@@ -1,0 +1,455 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-06-09",
+  "title": "06.09 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 89.79,
+    "fact_summary": "Gothic 1 Remake 今日观测峰值 71,991，首次进入当前观察窗口，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 71991,
+      "previous_peak": 0,
+      "growth_rate": 0.0,
+      "scoring_peak": 71991.0,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "review_ratio": 85.0,
+      "review_total": 11572,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-09",
+          "peak": 71991
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1297900"
+      }
+    ],
+    "game": {
+      "slug": "gothic-1-remake",
+      "appid": "1297900",
+      "name": "Gothic 1 Remake",
+      "name_cn": null,
+      "description": "传奇归来——在这款定义了一个类别的经典角色扮演游戏的忠实重制版中，重返采矿之谷。探索一个手把手打造的、栩栩如生的开放世界，这个世界会对您的各种行动做出动态反应，为您带来无与伦比、不受拘束的体验。",
+      "release_date": "2026-06-05",
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "视角舒适度",
+        "自定义音量控制",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "随时保存",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 85.0,
+      "review_total": 11572,
+      "developer": "Alkimia Interactive",
+      "publisher": "Alkimia Interactive, THQ Nordic",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1780965412",
+      "steam_url": "https://store.steampowered.com/app/1297900",
+      "trend": [
+        {
+          "date": "2026-06-09",
+          "peak": 71991
+        }
+      ]
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 89.79,
+    "fact_summary": "Gothic 1 Remake 今日观测峰值 71,991，首次进入当前观察窗口，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 71991,
+      "previous_peak": 0,
+      "growth_rate": 0.0,
+      "scoring_peak": 71991.0,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "review_ratio": 85.0,
+      "review_total": 11572,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-09",
+          "peak": 71991
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1297900"
+      }
+    ],
+    "game": {
+      "slug": "gothic-1-remake",
+      "appid": "1297900",
+      "name": "Gothic 1 Remake",
+      "name_cn": null,
+      "description": "传奇归来——在这款定义了一个类别的经典角色扮演游戏的忠实重制版中，重返采矿之谷。探索一个手把手打造的、栩栩如生的开放世界，这个世界会对您的各种行动做出动态反应，为您带来无与伦比、不受拘束的体验。",
+      "release_date": "2026-06-05",
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "视角舒适度",
+        "自定义音量控制",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "随时保存",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 85.0,
+      "review_total": 11572,
+      "developer": "Alkimia Interactive",
+      "publisher": "Alkimia Interactive, THQ Nordic",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1780965412",
+      "steam_url": "https://store.steampowered.com/app/1297900",
+      "trend": [
+        {
+          "date": "2026-06-09",
+          "peak": 71991
+        }
+      ]
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": [
+    {
+      "rank": 2,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 79.6,
+      "fact_summary": "Solarpunk 今日观测峰值 10,192，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 10192,
+        "previous_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 10192.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 79.0,
+        "review_total": 363,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "genres": [
+          "冒险",
+          "独立",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-09",
+            "peak": 10192
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/1805110"
+        }
+      ],
+      "game": {
+        "slug": "solarpunk",
+        "appid": "1805110",
+        "name": "Solarpunk",
+        "name_cn": null,
+        "description": "《太阳朋克：浮岛家园 Solarpunk》是一款生存游戏，背景设定在一个科技先进、由漂浮岛屿组成的世界。你可以独自一人或与朋友一起建造建筑、种植食物、制作工具，并驾驶飞船探索遥远的天空之岛。 可以利用太阳能、风能和水利打造能源系统，并进行自动化生产作业，如收集资源和灌溉植物。",
+        "release_date": "2026-06-08",
+        "genres": [
+          "冒险",
+          "独立",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "Steam 成就",
+          "完全支持控制器",
+          "自定义音量控制",
+          "可调整难度",
+          "无需应对快速反应事件",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Mostly Positive",
+        "review_ratio": 79.0,
+        "review_total": 363,
+        "developer": "Cyberwave",
+        "publisher": "rokaplay, Metaroot",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1780935129",
+        "steam_url": "https://store.steampowered.com/app/1805110",
+        "trend": [
+          {
+            "date": "2026-06-09",
+            "peak": 10192
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 78.64,
+      "fact_summary": "Fortune Mill 今日观测峰值 6,357，较上一观测日变化 -3%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 6357,
+        "previous_peak": 6583,
+        "growth_rate": -0.0343,
+        "scoring_peak": 6357.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 83.0,
+        "review_total": 1418,
+        "days_seen": 2,
+        "comeback_gap_days": 5,
+        "is_new_release": true,
+        "genres": [
+          "休闲",
+          "独立",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-03",
+            "peak": 6583
+          },
+          {
+            "date": "2026-06-09",
+            "peak": 6357
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4731620"
+        }
+      ],
+      "game": {
+        "slug": "fortune-mill",
+        "appid": "4731620",
+        "name": "Fortune Mill",
+        "name_cn": null,
+        "description": "在这款增量游戏中，你必须在每个房间赚到$1,000,000才能逃出该房间。投掷飞镖、玩刮刮乐彩票、解锁自动化，并谨慎选择升级，因为每个房间都会影响所有其他房间。你能逃出财富磨坊吗？",
+        "release_date": "2026-06-02",
+        "genres": [
+          "休闲",
+          "独立",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 83.0,
+        "review_total": 1418,
+        "developer": "Lavaflame2",
+        "publisher": "Lavaflame2",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1780959523",
+        "steam_url": "https://store.steampowered.com/app/4731620",
+        "trend": [
+          {
+            "date": "2026-06-03",
+            "peak": 6583
+          },
+          {
+            "date": "2026-06-09",
+            "peak": 6357
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 77.44,
+      "fact_summary": "Sand Playtest 今日观测峰值 6,731，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 6731,
+        "previous_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 6731.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 57.0,
+        "review_total": 705,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "genres": [],
+        "trend": [
+          {
+            "date": "2026-06-09",
+            "peak": 6731
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2981610"
+        }
+      ],
+      "game": {
+        "slug": "sand-playtest",
+        "appid": "2981610",
+        "name": "Sand Playtest",
+        "name_cn": null,
+        "description": "",
+        "release_date": "2026-05-14",
+        "genres": [],
+        "tags": [],
+        "review_score": "Mixed",
+        "review_ratio": 57.0,
+        "review_total": 705,
+        "developer": "",
+        "publisher": "",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2981610/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1780658196",
+        "steam_url": "https://store.steampowered.com/app/2981610",
+        "trend": [
+          {
+            "date": "2026-06-09",
+            "peak": 6731
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 76.56,
+      "fact_summary": "GOALS 今日观测峰值 5,683，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 5683,
+        "previous_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 5683.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 40.0,
+        "review_total": 2873,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "genres": [
+          "动作",
+          "冒险",
+          "休闲",
+          "模拟",
+          "体育",
+          "免费"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-09",
+            "peak": 5683
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2753000"
+        }
+      ],
+      "game": {
+        "slug": "goals",
+        "appid": "2753000",
+        "name": "GOALS",
+        "name_cn": null,
+        "description": "GOALS是一款快节奏、反应灵敏的足球游戏，为纯粹技术、真实竞技和全球玩家社区而生。玩法至上，免费畅玩，跨平台联机，每位球员都独一无二。没有借口——只有足球！",
+        "release_date": "2026-06-04",
+        "genres": [
+          "动作",
+          "冒险",
+          "休闲",
+          "模拟",
+          "体育",
+          "免费"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "玩家对战",
+          "线上玩家对战",
+          "跨平台多人",
+          "完全支持控制器",
+          "应用内购买",
+          "可选颜色",
+          "自定义音量控制"
+        ],
+        "review_score": "Mixed",
+        "review_ratio": 40.0,
+        "review_total": 2873,
+        "developer": "GOALS ",
+        "publisher": "GOALS ",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753000/405d7345805bd5bf1bfb6126edb233266fe3db61/header.jpg?t=1780765647",
+        "steam_url": "https://store.steampowered.com/app/2753000",
+        "trend": [
+          {
+            "date": "2026-06-09",
+            "peak": 5683
+          }
+        ]
+      }
+    }
+  ]
+}

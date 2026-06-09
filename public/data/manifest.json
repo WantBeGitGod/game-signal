@@ -1,8 +1,9 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-07T20:03:48",
-  "latest_issue": "2026-06-03",
+  "generated_at": "2026-06-09T10:19:04",
+  "latest_issue": "2026-06-09",
   "issues": [
+    "2026-06-09",
     "2026-06-03"
   ],
   "preview": true

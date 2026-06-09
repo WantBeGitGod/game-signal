@@ -1,0 +1,39 @@
+{
+  "slug": "solarpunk",
+  "appid": "1805110",
+  "name": "Solarpunk",
+  "name_cn": null,
+  "description": "《太阳朋克：浮岛家园 Solarpunk》是一款生存游戏，背景设定在一个科技先进、由漂浮岛屿组成的世界。你可以独自一人或与朋友一起建造建筑、种植食物、制作工具，并驾驶飞船探索遥远的天空之岛。 可以利用太阳能、风能和水利打造能源系统，并进行自动化生产作业，如收集资源和灌溉植物。",
+  "release_date": "2026-06-08",
+  "genres": [
+    "冒险",
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "自定义音量控制",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Mostly Positive",
+  "review_ratio": 79.0,
+  "review_total": 363,
+  "developer": "Cyberwave",
+  "publisher": "rokaplay, Metaroot",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1780935129",
+  "steam_url": "https://store.steampowered.com/app/1805110",
+  "trend": [
+    {
+      "date": "2026-06-09",
+      "peak": 10192
+    }
+  ]
+}
