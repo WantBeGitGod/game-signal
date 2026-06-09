@@ -23,7 +23,13 @@
           </div>
           <h2>{{ signal.game.name }}</h2>
           <p>{{ signal.selection_reason }}</p>
-          <WeeklyChart v-if="charts[signal.game.appid || '']" :chart="charts[signal.game.appid || '']" :label="signal.game.name" />
+          <WeeklyChart
+            v-if="charts[signal.game.appid || '']"
+            :chart="charts[signal.game.appid || '']"
+            :label="signal.game.name"
+            :window-start="issue.week_start"
+            :window-end="issue.week_end"
+          />
           <div v-else class="chart-missing">精确曲线尚未公开。</div>
         </div>
       </article>
@@ -49,6 +55,8 @@
             v-if="charts[signal.game.appid || '']"
             :chart="charts[signal.game.appid || '']"
             :label="signal.game.name"
+            :window-start="issue.week_start"
+            :window-end="issue.week_end"
             compact
           />
           <div v-else class="chart-missing">精确曲线尚未公开。</div>
