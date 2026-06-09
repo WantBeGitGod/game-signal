@@ -7,27 +7,37 @@
       </div>
       <p>{{ peakTime }}</p>
     </div>
-    <svg viewBox="0 0 960 340" role="img" preserveAspectRatio="none">
+    <svg
+      ref="svgEl"
+      viewBox="0 0 960 340"
+      role="img"
+      preserveAspectRatio="none"
+      @pointermove="handlePointerMove"
+      @pointerleave="clearHover"
+    >
       <g class="chart-grid">
         <line v-for="tick in yTicks" :key="tick.value" :x1="plot.left" :x2="plot.right" :y1="tick.y" :y2="tick.y" />
       </g>
       <path :d="areaPath" class="chart-area" />
       <polyline :points="linePoints" class="chart-line" fill="none" />
       <polyline v-if="averagePoints" :points="averagePoints" class="chart-average" fill="none" />
-      <g v-if="peakPoint" class="chart-peak">
-        <line :x1="peakPoint.x" :x2="peakPoint.x" :y1="peakPoint.y" :y2="plot.bottom" />
-        <circle :cx="peakPoint.x" :cy="peakPoint.y" r="5" />
-        <text :x="peakLabelX" :y="peakLabelY" text-anchor="middle">{{ formatNumber(peakPoint.players) }}</text>
-        <text :x="peakLabelX" :y="peakLabelY + 16" text-anchor="middle">{{ peakPoint.datetime.slice(5, 16) }}</text>
+      <g v-if="hoveredPoint" class="chart-hover">
+        <line :x1="hoveredPoint.x" :x2="hoveredPoint.x" :y1="plot.top" :y2="plot.bottom" />
+        <circle :cx="hoveredPoint.x" :cy="hoveredPoint.y" r="5" />
       </g>
       <g class="chart-y-axis">
         <text v-for="tick in yTicks" :key="`label-${tick.value}`" :x="928" :y="tick.y + 4">{{ formatAxisNumber(tick.value) }}</text>
       </g>
+      <rect class="chart-hitbox" :x="plot.left" :y="plot.top" :width="plot.right - plot.left" :height="plot.bottom - plot.top" />
     </svg>
+    <div v-if="hoveredPoint" class="weekly-chart-tooltip" :class="tooltipClass" :style="tooltipStyle">
+      <p>{{ formatTooltipDate(hoveredPoint.datetime) }}</p>
+      <span><i class="players-dot"></i>Players: <strong>{{ formatNumber(hoveredPoint.players) }}</strong></span>
+      <span v-if="typeof hoveredPoint.average_players === 'number'"><i class="average-dot"></i>Average: {{ formatNumber(hoveredPoint.average_players) }}</span>
+    </div>
     <div class="weekly-chart-legend">
       <span><i class="players-line"></i>Players</span>
       <span><i class="average-line"></i>Average Players</span>
-      <span><i class="peak-dot"></i>Peak</span>
     </div>
     <div class="weekly-chart-axis">
       <span>{{ displayedPoints[0]?.datetime.slice(0, 10) }}</span>
@@ -42,6 +52,8 @@ import type { ChartSeries } from "~/types/public"
 const props = defineProps<{ chart: ChartSeries; label: string; compact?: boolean; windowStart?: string; windowEnd?: string }>()
 const compact = computed(() => Boolean(props.compact))
 const plot = { left: 26, right: 900, top: 46, bottom: 278 }
+const svgEl = ref<SVGSVGElement | null>(null)
+const hoveredIndex = ref<number | null>(null)
 
 const displayedPoints = computed(() => {
   if (!props.windowStart || !props.windowEnd) return props.chart.points
@@ -86,16 +98,7 @@ const averagePoints = computed(() => {
     .filter(Boolean)
     .join(" ")
 })
-const peakPoint = computed(() => {
-  if (!coordinates.value.length) return null
-  const peakTimeValue = activePeak.value.datetime
-  return coordinates.value.find(point => point.datetime === peakTimeValue) || coordinates.value.reduce((best, point) => (point.players > best.players ? point : best), coordinates.value[0])
-})
-const peakLabelX = computed(() => {
-  if (!peakPoint.value) return 0
-  return Math.min(Math.max(peakPoint.value.x, 96), 820)
-})
-const peakLabelY = computed(() => Math.max((peakPoint.value?.y || 0) - 24, 24))
+const hoveredPoint = computed(() => hoveredIndex.value === null ? null : coordinates.value[hoveredIndex.value] || null)
 const yTicks = computed(() => [0, 0.25, 0.5, 0.75, 1].map(ratio => {
   const value = Math.round(yMax.value * ratio)
   return {
@@ -104,6 +107,32 @@ const yTicks = computed(() => [0, 0.25, 0.5, 0.75, 1].map(ratio => {
   }
 }).reverse())
 const peakTime = computed(() => activePeak.value.datetime || "峰值时间待核验")
+const tooltipStyle = computed(() => {
+  if (!hoveredPoint.value) return {}
+  return {
+    left: `${(hoveredPoint.value.x / 960) * 100}%`,
+    top: `${(hoveredPoint.value.y / 340) * 100}%`
+  }
+})
+const tooltipClass = computed(() => ({
+  "is-left": (hoveredPoint.value?.x || 0) > 720,
+  "is-low": (hoveredPoint.value?.y || 0) > 220
+}))
+
+function handlePointerMove(event: PointerEvent) {
+  if (!svgEl.value || !coordinates.value.length) return
+  const bounds = svgEl.value.getBoundingClientRect()
+  const svgX = ((event.clientX - bounds.left) / bounds.width) * 960
+  const index = coordinates.value.reduce((bestIndex, point, index) => {
+    const best = coordinates.value[bestIndex]
+    return Math.abs(point.x - svgX) < Math.abs(best.x - svgX) ? index : bestIndex
+  }, 0)
+  hoveredIndex.value = index
+}
+
+function clearHover() {
+  hoveredIndex.value = null
+}
 
 function formatNumber(value: number) {
   return new Intl.NumberFormat("zh-CN").format(value || 0)
@@ -113,6 +142,10 @@ function formatAxisNumber(value: number) {
   if (value >= 1000000) return `${Math.round(value / 100000) / 10}m`
   if (value >= 1000) return `${Math.round(value / 1000)}k`
   return String(value)
+}
+
+function formatTooltipDate(value: string) {
+  return value.slice(0, 16)
 }
 
 function niceCeil(value: number) {

@@ -946,6 +946,7 @@ a {
 }
 
 .weekly-chart {
+  position: relative;
   border: 2px solid var(--line);
   background: #202a34;
   color: var(--paper-bright);
@@ -1008,17 +1009,22 @@ a {
   vector-effect: non-scaling-stroke;
 }
 
-.chart-peak circle {
-  fill: var(--coral);
+.chart-hover circle {
+  fill: #cfff10;
   stroke: var(--paper-bright);
   stroke-width: 1.5;
   vector-effect: non-scaling-stroke;
 }
 
-.chart-peak line {
-  stroke: rgba(229, 82, 114, 0.5);
-  stroke-dasharray: 4 5;
+.chart-hover line {
+  stroke: rgba(225, 228, 232, 0.32);
   vector-effect: non-scaling-stroke;
+}
+
+.chart-hitbox {
+  fill: transparent;
+  cursor: crosshair;
+  pointer-events: all;
 }
 
 .weekly-chart text {
@@ -1026,6 +1032,59 @@ a {
   font-family: var(--mono);
   font-size: 12px;
   font-weight: 700;
+}
+
+.weekly-chart-tooltip {
+  position: absolute;
+  z-index: 3;
+  min-width: 168px;
+  padding: 10px 12px;
+  border: 1px solid rgba(248, 246, 238, 0.18);
+  border-radius: 6px;
+  background: rgba(238, 241, 244, 0.92);
+  color: #202a34;
+  box-shadow: 0 16px 34px rgba(0, 0, 0, 0.28);
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 700;
+  pointer-events: none;
+  transform: translate(14px, -100%);
+}
+
+.weekly-chart-tooltip.is-left {
+  transform: translate(calc(-100% - 14px), -100%);
+}
+
+.weekly-chart-tooltip.is-low {
+  transform: translate(14px, 14px);
+}
+
+.weekly-chart-tooltip.is-left.is-low {
+  transform: translate(calc(-100% - 14px), 14px);
+}
+
+.weekly-chart-tooltip p {
+  margin: 0 0 8px;
+  color: #303945;
+}
+
+.weekly-chart-tooltip span {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: 4px;
+  color: #303945;
+}
+
+.weekly-chart-tooltip i {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  background: #cfff10;
+}
+
+.weekly-chart-tooltip .average-dot {
+  background: #8c8a80;
 }
 
 .chart-y-axis text {
@@ -1062,14 +1121,6 @@ a {
 .weekly-chart-legend .average-line {
   border-top-color: #8c8a80;
   border-top-style: dashed;
-}
-
-.weekly-chart-legend .peak-dot {
-  width: 12px;
-  height: 12px;
-  border: 0;
-  border-radius: 50%;
-  background: var(--coral);
 }
 
 .weekly-chart-axis {
