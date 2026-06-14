@@ -1,0 +1,543 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-06-10",
+  "title": "06.10 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 93.82,
+    "fact_summary": "Gothic 1 Remake 今日观测峰值 70,457，较上一观测日变化 -2%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 70457,
+      "previous_peak": 71991,
+      "growth_rate": -0.0213,
+      "scoring_peak": 49319.9,
+      "player_discount": 0.7,
+      "discount_reasons": [
+        "yesterday_star"
+      ],
+      "review_ratio": 85.0,
+      "review_total": 13512,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-06",
+          "peak": 60935
+        },
+        {
+          "date": "2026-06-07",
+          "peak": 63109
+        },
+        {
+          "date": "2026-06-08",
+          "peak": 77731
+        },
+        {
+          "date": "2026-06-09",
+          "peak": 71991
+        },
+        {
+          "date": "2026-06-10",
+          "peak": 70457
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1297900"
+      }
+    ],
+    "game": {
+      "slug": "gothic-1-remake",
+      "appid": "1297900",
+      "name": "Gothic 1 Remake",
+      "name_cn": null,
+      "description": "传奇归来——在这款定义了一个类别的经典角色扮演游戏的忠实重制版中，重返采矿之谷。探索一个手把手打造的、栩栩如生的开放世界，这个世界会对您的各种行动做出动态反应，为您带来无与伦比、不受拘束的体验。",
+      "release_date": "2026-06-05",
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "视角舒适度",
+        "自定义音量控制",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "随时保存",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "特别好评",
+      "review_ratio": 85.0,
+      "review_total": 13512,
+      "developer": "Alkimia Interactive",
+      "publisher": "Alkimia Interactive, THQ Nordic",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1780965412",
+      "steam_url": "https://store.steampowered.com/app/1297900",
+      "trend": [
+        {
+          "date": "2026-06-06",
+          "peak": 60935
+        },
+        {
+          "date": "2026-06-07",
+          "peak": 63109
+        },
+        {
+          "date": "2026-06-08",
+          "peak": 77731
+        },
+        {
+          "date": "2026-06-09",
+          "peak": 71991
+        },
+        {
+          "date": "2026-06-10",
+          "peak": 70457
+        }
+      ]
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 93.82,
+    "fact_summary": "Gothic 1 Remake 今日观测峰值 70,457，较上一观测日变化 -2%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 70457,
+      "previous_peak": 71991,
+      "growth_rate": -0.0213,
+      "scoring_peak": 49319.9,
+      "player_discount": 0.7,
+      "discount_reasons": [
+        "yesterday_star"
+      ],
+      "review_ratio": 85.0,
+      "review_total": 13512,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-06",
+          "peak": 60935
+        },
+        {
+          "date": "2026-06-07",
+          "peak": 63109
+        },
+        {
+          "date": "2026-06-08",
+          "peak": 77731
+        },
+        {
+          "date": "2026-06-09",
+          "peak": 71991
+        },
+        {
+          "date": "2026-06-10",
+          "peak": 70457
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1297900"
+      }
+    ],
+    "game": {
+      "slug": "gothic-1-remake",
+      "appid": "1297900",
+      "name": "Gothic 1 Remake",
+      "name_cn": null,
+      "description": "传奇归来——在这款定义了一个类别的经典角色扮演游戏的忠实重制版中，重返采矿之谷。探索一个手把手打造的、栩栩如生的开放世界，这个世界会对您的各种行动做出动态反应，为您带来无与伦比、不受拘束的体验。",
+      "release_date": "2026-06-05",
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "视角舒适度",
+        "自定义音量控制",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "随时保存",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "特别好评",
+      "review_ratio": 85.0,
+      "review_total": 13512,
+      "developer": "Alkimia Interactive",
+      "publisher": "Alkimia Interactive, THQ Nordic",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1780965412",
+      "steam_url": "https://store.steampowered.com/app/1297900",
+      "trend": [
+        {
+          "date": "2026-06-06",
+          "peak": 60935
+        },
+        {
+          "date": "2026-06-07",
+          "peak": 63109
+        },
+        {
+          "date": "2026-06-08",
+          "peak": 77731
+        },
+        {
+          "date": "2026-06-09",
+          "peak": 71991
+        },
+        {
+          "date": "2026-06-10",
+          "peak": 70457
+        }
+      ]
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": [
+    {
+      "rank": 2,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 84.99,
+      "fact_summary": "Road to Empress Ⅱ 今日观测峰值 28,665，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 28665,
+        "previous_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 28665.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 73.0,
+        "review_total": 1558,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 28665
+          }
+        ]
+      },
+      "sources": [],
+      "game": {
+        "slug": "road-to-empress",
+        "appid": null,
+        "name": "Road to Empress Ⅱ",
+        "name_cn": null,
+        "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
+        "release_date": "2026-06-08",
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "tags": [],
+        "review_score": "多半好评",
+        "review_ratio": 73.0,
+        "review_total": 1558,
+        "developer": null,
+        "publisher": null,
+        "cover_image_url": null,
+        "steam_url": null,
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 28665
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "comeback",
+      "label": "老游戏回归",
+      "score": 83.89,
+      "fact_summary": "Source SDK Base 2007 今日观测峰值 7,148，较上一观测日变化 -33%，被识别为「老游戏回归」。",
+      "metrics": {
+        "current_peak": 7148,
+        "previous_peak": 10731,
+        "growth_rate": -0.3339,
+        "scoring_peak": 5003.6,
+        "player_discount": 0.7,
+        "discount_reasons": [
+          "old_game"
+        ],
+        "review_ratio": null,
+        "review_total": 0,
+        "days_seen": 5,
+        "comeback_gap_days": 17,
+        "is_new_release": false,
+        "genres": [],
+        "trend": [
+          {
+            "date": "2026-05-19",
+            "peak": 11238
+          },
+          {
+            "date": "2026-05-20",
+            "peak": 10318
+          },
+          {
+            "date": "2026-06-07",
+            "peak": 10814
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 10731
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 7148
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/218"
+        }
+      ],
+      "game": {
+        "slug": "source-sdk-base-2007",
+        "appid": "218",
+        "name": "Source SDK Base 2007",
+        "name_cn": null,
+        "description": "",
+        "release_date": "",
+        "genres": [],
+        "tags": [],
+        "review_score": "暂无评价",
+        "review_ratio": null,
+        "review_total": 0,
+        "developer": "",
+        "publisher": "",
+        "cover_image_url": "",
+        "steam_url": "https://store.steampowered.com/app/218",
+        "trend": [
+          {
+            "date": "2026-05-19",
+            "peak": 11238
+          },
+          {
+            "date": "2026-05-20",
+            "peak": 10318
+          },
+          {
+            "date": "2026-06-07",
+            "peak": 10814
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 10731
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 7148
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "sustained_growth",
+      "label": "持续增长",
+      "score": 83.16,
+      "fact_summary": "Sons Of The Forest 今日观测峰值 17,168，较上一观测日变化 +2%，被识别为「持续增长」。",
+      "metrics": {
+        "current_peak": 17168,
+        "previous_peak": 16827,
+        "growth_rate": 0.0203,
+        "scoring_peak": 12017.6,
+        "player_discount": 0.7,
+        "discount_reasons": [
+          "old_game"
+        ],
+        "review_ratio": 88.0,
+        "review_total": 306461,
+        "days_seen": 4,
+        "comeback_gap_days": 1,
+        "is_new_release": false,
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-07",
+            "peak": 23636
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 15988
+          },
+          {
+            "date": "2026-06-09",
+            "peak": 16827
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 17168
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/1326470"
+        }
+      ],
+      "game": {
+        "slug": "sons-of-the-forest",
+        "appid": "1326470",
+        "name": "Sons Of The Forest",
+        "name_cn": null,
+        "description": "你被派到了一座孤岛上，寻找一位失踪的亿万富翁，结果却发现自己深陷被食人生物占领的炼狱之地。你需要制作工具和武器、建造房屋，倾尽全力生存下去，无论独自一人还是与朋友一起——一切尽在这款新推出的开放世界恐怖生存模拟游戏中。",
+        "release_date": "2024-02-22",
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "Steam 成就",
+          "完全支持控制器",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "暂无评价",
+        "review_ratio": 88.0,
+        "review_total": 306461,
+        "developer": "Endnight Games Ltd",
+        "publisher": "Newnight ",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
+        "steam_url": "https://store.steampowered.com/app/1326470",
+        "trend": [
+          {
+            "date": "2026-06-07",
+            "peak": 23636
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 15988
+          },
+          {
+            "date": "2026-06-09",
+            "peak": 16827
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 17168
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 81.89,
+      "fact_summary": "MECCHA CHAMELEON 今日观测峰值 15,813，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 15813,
+        "previous_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 15813.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 77.0,
+        "review_total": 3358,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "genres": [
+          "休闲"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 15813
+          }
+        ]
+      },
+      "sources": [],
+      "game": {
+        "slug": "meccha-chameleon",
+        "appid": null,
+        "name": "MECCHA CHAMELEON",
+        "name_cn": null,
+        "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
+        "release_date": "2026-06-09",
+        "genres": [
+          "休闲"
+        ],
+        "tags": [],
+        "review_score": "特别好评",
+        "review_ratio": 83.0,
+        "review_total": 381,
+        "developer": null,
+        "publisher": null,
+        "cover_image_url": null,
+        "steam_url": null,
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 15813
+          }
+        ]
+      }
+    }
+  ]
+}

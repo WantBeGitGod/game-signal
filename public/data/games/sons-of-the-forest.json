@@ -1,0 +1,49 @@
+{
+  "slug": "sons-of-the-forest",
+  "appid": "1326470",
+  "name": "Sons Of The Forest",
+  "name_cn": null,
+  "description": "你被派到了一座孤岛上，寻找一位失踪的亿万富翁，结果却发现自己深陷被食人生物占领的炼狱之地。你需要制作工具和武器、建造房屋，倾尽全力生存下去，无论独自一人还是与朋友一起——一切尽在这款新推出的开放世界恐怖生存模拟游戏中。",
+  "release_date": "2024-02-22",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "暂无评价",
+  "review_ratio": 88.0,
+  "review_total": 306461,
+  "developer": "Endnight Games Ltd",
+  "publisher": "Newnight ",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
+  "steam_url": "https://store.steampowered.com/app/1326470",
+  "trend": [
+    {
+      "date": "2026-06-07",
+      "peak": 23636
+    },
+    {
+      "date": "2026-06-08",
+      "peak": 15988
+    },
+    {
+      "date": "2026-06-09",
+      "peak": 16827
+    },
+    {
+      "date": "2026-06-10",
+      "peak": 17168
+    }
+  ]
+}

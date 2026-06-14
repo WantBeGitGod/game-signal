@@ -1,0 +1,39 @@
+{
+  "slug": "source-sdk-base-2007",
+  "appid": "218",
+  "name": "Source SDK Base 2007",
+  "name_cn": null,
+  "description": "",
+  "release_date": "",
+  "genres": [],
+  "tags": [],
+  "review_score": "暂无评价",
+  "review_ratio": null,
+  "review_total": 0,
+  "developer": "",
+  "publisher": "",
+  "cover_image_url": "",
+  "steam_url": "https://store.steampowered.com/app/218",
+  "trend": [
+    {
+      "date": "2026-05-19",
+      "peak": 11238
+    },
+    {
+      "date": "2026-05-20",
+      "peak": 10318
+    },
+    {
+      "date": "2026-06-07",
+      "peak": 10814
+    },
+    {
+      "date": "2026-06-08",
+      "peak": 10731
+    },
+    {
+      "date": "2026-06-10",
+      "peak": 7148
+    }
+  ]
+}
