@@ -1,0 +1,44 @@
+{
+  "slug": "33-immortals",
+  "appid": "958520",
+  "name": "33 Immortals",
+  "name_cn": null,
+  "description": "33不朽灵魂 是一款支持33位玩家一齐上阵的动作Roguelike合作游戏。立即开启冒险，既可单人作战，也可与好友组队。迎战狱魔大军，击败强大头目，在冒险中不断成长强大。使用游戏内表情与其他反抗者协力作战，共同直面神的怒火。",
+  "release_date": "2026-06-10",
+  "genres": [
+    "动作",
+    "独立",
+    "大型多人在线"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "跨平台多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "自定义音量控制",
+    "无需应对快速反应事件",
+    "立体声",
+    "家庭共享"
+  ],
+  "review_score": "暂无评价",
+  "review_ratio": 79.0,
+  "review_total": 754,
+  "developer": "Thunder Lotus",
+  "publisher": "Thunder Lotus, Kepler Ghost",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/958520/cb394a0b80c864bf75087390090dc212b3cbbc17/header_schinese.jpg?t=1781193618",
+  "steam_url": "https://store.steampowered.com/app/958520",
+  "trend": [
+    {
+      "date": "2026-06-13",
+      "peak": 5705
+    },
+    {
+      "date": "2026-06-14",
+      "peak": 7070
+    }
+  ]
+}

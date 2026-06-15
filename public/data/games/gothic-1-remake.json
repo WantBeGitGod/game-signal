@@ -25,7 +25,7 @@
     "Steam 云",
     "家庭共享"
   ],
-  "review_score": "特别好评",
+  "review_score": "暂无评价",
   "review_ratio": 85.0,
   "review_total": 13512,
   "developer": "Alkimia Interactive",
@@ -52,6 +52,10 @@
     {
       "date": "2026-06-10",
       "peak": 70457
+    },
+    {
+      "date": "2026-06-11",
+      "peak": 66744
     }
   ]
 }

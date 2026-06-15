@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "date": "2026-06-10",
-  "title": "06.10 今日之星",
+  "date": "2026-06-11",
+  "title": "06.11 今日之星",
   "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
   "status": "published",
   "hero_image": null,
@@ -10,29 +10,29 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 33.44,
-    "fact_summary": "Gothic 1 Remake 今日观测峰值 70,457，未超过过往最高峰值 77,731，被识别为「新作起量」。",
+    "score": 33.55,
+    "fact_summary": "Gothic 1 Remake 今日观测峰值 66,744，未超过过往最高峰值 77,731，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 70457,
+      "current_peak": 66744,
       "previous_peak": 77731,
       "previous_record_peak": 77731,
-      "growth_rate": -0.0936,
-      "record_growth_rate": -0.0936,
-      "scoring_peak": 70457,
+      "growth_rate": -0.1413,
+      "record_growth_rate": -0.1413,
+      "scoring_peak": 66744,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 24.66,
+      "peak_score": 23.36,
       "record_growth_score": 0.0,
-      "days_seen_score": 7.14,
+      "days_seen_score": 8.57,
       "signal_type_score": 10.0,
-      "score_before_multiplier": 41.8,
+      "score_before_multiplier": 41.93,
       "score_multiplier": 0.8,
       "score_multiplier_reasons": [
         "yesterday_star"
       ],
       "review_ratio": 85.0,
       "review_total": 13512,
-      "days_seen": 5,
+      "days_seen": 6,
       "comeback_gap_days": 1,
       "is_new_release": true,
       "genres": [
@@ -59,6 +59,10 @@
         {
           "date": "2026-06-10",
           "peak": 70457
+        },
+        {
+          "date": "2026-06-11",
+          "peak": 66744
         }
       ]
     },
@@ -95,7 +99,7 @@
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "特别好评",
+      "review_score": "暂无评价",
       "review_ratio": 85.0,
       "review_total": 13512,
       "developer": "Alkimia Interactive",
@@ -122,6 +126,10 @@
         {
           "date": "2026-06-10",
           "peak": 70457
+        },
+        {
+          "date": "2026-06-11",
+          "peak": 66744
         }
       ]
     }
@@ -130,29 +138,29 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 33.44,
-    "fact_summary": "Gothic 1 Remake 今日观测峰值 70,457，未超过过往最高峰值 77,731，被识别为「新作起量」。",
+    "score": 33.55,
+    "fact_summary": "Gothic 1 Remake 今日观测峰值 66,744，未超过过往最高峰值 77,731，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 70457,
+      "current_peak": 66744,
       "previous_peak": 77731,
       "previous_record_peak": 77731,
-      "growth_rate": -0.0936,
-      "record_growth_rate": -0.0936,
-      "scoring_peak": 70457,
+      "growth_rate": -0.1413,
+      "record_growth_rate": -0.1413,
+      "scoring_peak": 66744,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 24.66,
+      "peak_score": 23.36,
       "record_growth_score": 0.0,
-      "days_seen_score": 7.14,
+      "days_seen_score": 8.57,
       "signal_type_score": 10.0,
-      "score_before_multiplier": 41.8,
+      "score_before_multiplier": 41.93,
       "score_multiplier": 0.8,
       "score_multiplier_reasons": [
         "yesterday_star"
       ],
       "review_ratio": 85.0,
       "review_total": 13512,
-      "days_seen": 5,
+      "days_seen": 6,
       "comeback_gap_days": 1,
       "is_new_release": true,
       "genres": [
@@ -179,6 +187,10 @@
         {
           "date": "2026-06-10",
           "peak": 70457
+        },
+        {
+          "date": "2026-06-11",
+          "peak": 66744
         }
       ]
     },
@@ -215,7 +227,7 @@
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "特别好评",
+      "review_score": "暂无评价",
       "review_ratio": 85.0,
       "review_total": 13512,
       "developer": "Alkimia Interactive",
@@ -242,6 +254,10 @@
         {
           "date": "2026-06-10",
           "peak": 70457
+        },
+        {
+          "date": "2026-06-11",
+          "peak": 66744
         }
       ]
     }
@@ -250,288 +266,30 @@
   "candidate_signals": [
     {
       "rank": 2,
-      "type": "comeback",
-      "label": "老游戏回归",
-      "score": 26.11,
-      "fact_summary": "Destiny 2 今日观测峰值 59,091，首次进入当前观察窗口，被识别为「老游戏回归」。",
-      "metrics": {
-        "current_peak": 59091,
-        "previous_peak": 0,
-        "previous_record_peak": 0,
-        "growth_rate": 0.0,
-        "record_growth_rate": 0.0,
-        "scoring_peak": 59091,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 20.68,
-        "record_growth_score": 0.0,
-        "days_seen_score": 1.43,
-        "signal_type_score": 4.0,
-        "score_before_multiplier": 26.11,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "review_ratio": 78.0,
-        "review_total": 654913,
-        "days_seen": 1,
-        "comeback_gap_days": 0,
-        "is_new_release": false,
-        "genres": [
-          "动作",
-          "冒险",
-          "免费"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-10",
-            "peak": 59091
-          }
-        ]
-      },
-      "sources": [],
-      "game": {
-        "slug": "destiny-2",
-        "appid": null,
-        "name": "Destiny 2",
-        "name_cn": null,
-        "description": "在《命运2》中探索太阳系的奥秘，体验精彩刺激的第一人称射击战斗。在剧情任务、合作和PvP模式中解锁强大能力并收集独特装备。",
-        "release_date": "2019-10-01",
-        "genres": [
-          "动作",
-          "冒险",
-          "免费"
-        ],
-        "tags": [],
-        "review_score": "暂无评价",
-        "review_ratio": 78.0,
-        "review_total": 654913,
-        "developer": null,
-        "publisher": null,
-        "cover_image_url": null,
-        "steam_url": null,
-        "trend": [
-          {
-            "date": "2026-06-10",
-            "peak": 59091
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 21.46,
-      "fact_summary": "Road to Empress Ⅱ 今日观测峰值 28,665，首次进入当前观察窗口，被识别为「新作起量」。",
+      "score": 31.02,
+      "fact_summary": "MECCHA CHAMELEON 今日观测峰值 20,738，较过往最高峰值提升 +31%，被识别为「新作起量」。",
       "metrics": {
-        "current_peak": 28665,
-        "previous_peak": 0,
-        "previous_record_peak": 0,
-        "growth_rate": 0.0,
-        "record_growth_rate": 0.0,
-        "scoring_peak": 28665,
+        "current_peak": 20738,
+        "previous_peak": 15813,
+        "previous_record_peak": 15813,
+        "growth_rate": 0.3115,
+        "record_growth_rate": 0.3115,
+        "scoring_peak": 20738,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 10.03,
-        "record_growth_score": 0.0,
-        "days_seen_score": 1.43,
+        "peak_score": 7.26,
+        "record_growth_score": 10.9,
+        "days_seen_score": 2.86,
         "signal_type_score": 10.0,
-        "score_before_multiplier": 21.46,
+        "score_before_multiplier": 31.02,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "review_ratio": 73.0,
-        "review_total": 1558,
-        "days_seen": 1,
-        "comeback_gap_days": 0,
-        "is_new_release": true,
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "模拟"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-10",
-            "peak": 28665
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/4148240"
-        }
-      ],
-      "game": {
-        "slug": "road-to-empress",
-        "appid": "4148240",
-        "name": "Road to Empress Ⅱ",
-        "name_cn": null,
-        "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
-        "release_date": "2026-06-08",
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "模拟"
-        ],
-        "tags": [
-          "单人",
-          "Steam 成就",
-          "应用内购买",
-          "家庭共享"
-        ],
-        "review_score": "多半好评",
-        "review_ratio": 73.0,
-        "review_total": 1558,
-        "developer": " New One Studio",
-        "publisher": " New One Studio, Ariel",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781165139",
-        "steam_url": "https://store.steampowered.com/app/4148240",
-        "trend": [
-          {
-            "date": "2026-06-10",
-            "peak": 28665
-          }
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "type": "sustained_growth",
-      "label": "持续增长",
-      "score": 17.72,
-      "fact_summary": "Sons Of The Forest 今日观测峰值 17,168，未超过过往最高峰值 23,636，被识别为「持续增长」。",
-      "metrics": {
-        "current_peak": 17168,
-        "previous_peak": 23636,
-        "previous_record_peak": 23636,
-        "growth_rate": -0.2737,
-        "record_growth_rate": -0.2737,
-        "scoring_peak": 17168,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 6.01,
-        "record_growth_score": 0.0,
-        "days_seen_score": 5.71,
-        "signal_type_score": 6.0,
-        "score_before_multiplier": 17.72,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "review_ratio": 88.0,
-        "review_total": 306461,
-        "days_seen": 4,
+        "review_ratio": 75.0,
+        "review_total": 1149,
+        "days_seen": 2,
         "comeback_gap_days": 1,
-        "is_new_release": false,
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "模拟"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-07",
-            "peak": 23636
-          },
-          {
-            "date": "2026-06-08",
-            "peak": 15988
-          },
-          {
-            "date": "2026-06-09",
-            "peak": 16827
-          },
-          {
-            "date": "2026-06-10",
-            "peak": 17168
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/1326470"
-        }
-      ],
-      "game": {
-        "slug": "sons-of-the-forest",
-        "appid": "1326470",
-        "name": "Sons Of The Forest",
-        "name_cn": null,
-        "description": "你被派到了一座孤岛上，寻找一位失踪的亿万富翁，结果却发现自己深陷被食人生物占领的炼狱之地。你需要制作工具和武器、建造房屋，倾尽全力生存下去，无论独自一人还是与朋友一起——一切尽在这款新推出的开放世界恐怖生存模拟游戏中。",
-        "release_date": "2024-02-22",
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "模拟"
-        ],
-        "tags": [
-          "单人",
-          "多人",
-          "合作",
-          "在线合作",
-          "Steam 成就",
-          "完全支持控制器",
-          "Steam 云",
-          "家庭共享"
-        ],
-        "review_score": "暂无评价",
-        "review_ratio": 88.0,
-        "review_total": 306461,
-        "developer": "Endnight Games Ltd",
-        "publisher": "Newnight ",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
-        "steam_url": "https://store.steampowered.com/app/1326470",
-        "trend": [
-          {
-            "date": "2026-06-07",
-            "peak": 23636
-          },
-          {
-            "date": "2026-06-08",
-            "peak": 15988
-          },
-          {
-            "date": "2026-06-09",
-            "peak": 16827
-          },
-          {
-            "date": "2026-06-10",
-            "peak": 17168
-          }
-        ]
-      }
-    },
-    {
-      "rank": 5,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 16.96,
-      "fact_summary": "MECCHA CHAMELEON 今日观测峰值 15,813，首次进入当前观察窗口，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 15813,
-        "previous_peak": 0,
-        "previous_record_peak": 0,
-        "growth_rate": 0.0,
-        "record_growth_rate": 0.0,
-        "scoring_peak": 15813,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 5.53,
-        "record_growth_score": 0.0,
-        "days_seen_score": 1.43,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 16.96,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "review_ratio": 83.0,
-        "review_total": 381,
-        "days_seen": 1,
-        "comeback_gap_days": 0,
         "is_new_release": true,
         "genres": [
           "休闲"
@@ -540,6 +298,10 @@
           {
             "date": "2026-06-10",
             "peak": 15813
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 20738
           }
         ]
       },
@@ -570,9 +332,9 @@
           "环绕声",
           "家庭共享"
         ],
-        "review_score": "特别好评",
-        "review_ratio": 83.0,
-        "review_total": 381,
+        "review_score": "多半好评",
+        "review_ratio": 75.0,
+        "review_total": 1149,
         "developer": "lemorion_1224",
         "publisher": "lemorion_1224",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
@@ -581,6 +343,252 @@
           {
             "date": "2026-06-10",
             "peak": 15813
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 20738
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "comeback",
+      "label": "老游戏回归",
+      "score": 26.05,
+      "fact_summary": "Destiny 2 今日观测峰值 54,825，未超过过往最高峰值 59,091，被识别为「老游戏回归」。",
+      "metrics": {
+        "current_peak": 54825,
+        "previous_peak": 59091,
+        "previous_record_peak": 59091,
+        "growth_rate": -0.0722,
+        "record_growth_rate": -0.0722,
+        "scoring_peak": 54825,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 19.19,
+        "record_growth_score": 0.0,
+        "days_seen_score": 2.86,
+        "signal_type_score": 4.0,
+        "score_before_multiplier": 26.05,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 78.0,
+        "review_total": 653706,
+        "days_seen": 2,
+        "comeback_gap_days": 1,
+        "is_new_release": false,
+        "genres": [
+          "动作",
+          "冒险",
+          "免费"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 59091
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 54825
+          }
+        ]
+      },
+      "sources": [],
+      "game": {
+        "slug": "destiny-2",
+        "appid": null,
+        "name": "Destiny 2",
+        "name_cn": null,
+        "description": "在《命运2》中探索太阳系的奥秘，体验精彩刺激的第一人称射击战斗。在剧情任务、合作和PvP模式中解锁强大能力并收集独特装备。",
+        "release_date": "2019-10-01",
+        "genres": [
+          "动作",
+          "冒险",
+          "免费"
+        ],
+        "tags": [],
+        "review_score": "多半好评",
+        "review_ratio": 78.0,
+        "review_total": 653706,
+        "developer": null,
+        "publisher": null,
+        "cover_image_url": null,
+        "steam_url": null,
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 59091
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 54825
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 20.99,
+      "fact_summary": "Road to Empress Ⅱ 今日观测峰值 27,332，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 27332,
+        "previous_peak": 0,
+        "previous_record_peak": 0,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 27332,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 9.57,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 20.99,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 77.0,
+        "review_total": 2884,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 27332
+          }
+        ]
+      },
+      "sources": [],
+      "game": {
+        "slug": "road-to-empress",
+        "appid": null,
+        "name": "Road to Empress Ⅱ",
+        "name_cn": null,
+        "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
+        "release_date": "2026-06-08",
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "tags": [],
+        "review_score": "多半好评",
+        "review_ratio": 77.0,
+        "review_total": 2884,
+        "developer": null,
+        "publisher": null,
+        "cover_image_url": null,
+        "steam_url": null,
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 27332
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 18.04,
+      "fact_summary": "Voidling Bound 今日观测峰值 8,632，较过往最高峰值提升 +6%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 8632,
+        "previous_peak": 8130,
+        "previous_record_peak": 8130,
+        "growth_rate": 0.0617,
+        "record_growth_rate": 0.0617,
+        "scoring_peak": 8632,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 3.02,
+        "record_growth_score": 2.16,
+        "days_seen_score": 2.86,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 18.04,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 94.0,
+        "review_total": 534,
+        "days_seen": 2,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 8130
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 8632
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2004680"
+        }
+      ],
+      "game": {
+        "slug": "voidling-bound",
+        "appid": "2004680",
+        "name": "Voidling Bound",
+        "name_cn": null,
+        "description": "扮演一名寄生末世的太空生物学家，与被称为“沃德灵”的生物神经链接，展开第三人称科幻射击动作冒险。在颠覆传统的怪兽捕捉玩法中，培育数量众多的沃德灵品种，并在丰富的进化路线之中借助基因交配，尝试近乎无穷无尽的物种组合，打造属于你的终极生物！",
+        "release_date": "2026-06-09",
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "完全支持控制器",
+          "视角舒适度",
+          "可选颜色",
+          "自定义音量控制",
+          "可调整难度",
+          "无需应对快速反应事件",
+          "立体声",
+          "Steam 云",
+          "统计数据",
+          "家庭共享"
+        ],
+        "review_score": "暂无评价",
+        "review_ratio": 94.0,
+        "review_total": 534,
+        "developer": "Hatchery Games",
+        "publisher": "Hatchery Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/78f0bcda22c6d49b81831aa41e4831ed52893c19/header_alt_assets_0.jpg?t=1781263470",
+        "steam_url": "https://store.steampowered.com/app/2004680",
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 8130
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 8632
           }
         ]
       }

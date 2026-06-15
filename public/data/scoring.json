@@ -1,6 +1,13 @@
 {
   "schema_version": "1.0.0",
   "new_release_window_days": 30,
+  "peak_score_weight": 35.0,
+  "peak_score_cap": 100000,
+  "record_growth_weight": 35.0,
+  "record_growth_cap": 1.0,
+  "days_seen_score_weight": 10.0,
+  "signal_type_score_weight": 10.0,
+  "yesterday_star_score_multiplier": 0.8,
   "player_log_weight": 12.0,
   "growth_weight": 10.0,
   "growth_cap": 5.0,
@@ -9,6 +16,12 @@
   "old_game_player_discount": 0.7,
   "yesterday_star_player_discount": 0.7,
   "consecutive_star_case_threshold": 3,
+  "daily_signal_type_scores": {
+    "new_release_rise": 10.0,
+    "review_heat_gap": 8.0,
+    "sustained_growth": 6.0,
+    "comeback": 4.0
+  },
   "signal_bonuses": {
     "sudden_breakout": 35.0,
     "new_release_rise": 30.0,

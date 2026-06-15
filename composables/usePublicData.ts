@@ -47,6 +47,13 @@ export function useScoring() {
     loadPublicJsonOrDefault<ScoringSnapshot>("/data/scoring.json", {
       schema_version: "1.0.0",
       new_release_window_days: 30,
+      peak_score_weight: 35,
+      peak_score_cap: 100000,
+      record_growth_weight: 35,
+      record_growth_cap: 1,
+      days_seen_score_weight: 10,
+      signal_type_score_weight: 10,
+      yesterday_star_score_multiplier: 0.8,
       player_log_weight: 12,
       growth_weight: 10,
       growth_cap: 5,
@@ -55,6 +62,12 @@ export function useScoring() {
       old_game_player_discount: 0.7,
       yesterday_star_player_discount: 0.7,
       consecutive_star_case_threshold: 3,
+      daily_signal_type_scores: {
+        new_release_rise: 10,
+        review_heat_gap: 8,
+        sustained_growth: 6,
+        comeback: 4
+      },
       signal_bonuses: {
         sudden_breakout: 35,
         new_release_rise: 30,

@@ -50,6 +50,13 @@ export type DailyIssue = {
 export type ScoringSnapshot = {
   schema_version: string
   new_release_window_days: number
+  peak_score_weight: number
+  peak_score_cap: number
+  record_growth_weight: number
+  record_growth_cap: number
+  days_seen_score_weight: number
+  signal_type_score_weight: number
+  yesterday_star_score_multiplier: number
   player_log_weight: number
   growth_weight: number
   growth_cap: number
@@ -58,6 +65,7 @@ export type ScoringSnapshot = {
   old_game_player_discount: number
   yesterday_star_player_discount: number
   consecutive_star_case_threshold: number
+  daily_signal_type_scores: Record<string, number>
   signal_bonuses: Record<string, number>
 }
 

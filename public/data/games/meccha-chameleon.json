@@ -1,6 +1,6 @@
 {
   "slug": "meccha-chameleon",
-  "appid": null,
+  "appid": "4704690",
   "name": "MECCHA CHAMELEON",
   "name_cn": null,
   "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
@@ -8,18 +8,40 @@
   "genres": [
     "休闲"
   ],
-  "tags": [],
-  "review_score": "特别好评",
-  "review_ratio": 83.0,
-  "review_total": 381,
-  "developer": null,
-  "publisher": null,
-  "cover_image_url": null,
-  "steam_url": null,
+  "tags": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "视角舒适度",
+    "自定义音量控制",
+    "无需应对快速反应事件",
+    "立体声",
+    "环绕声",
+    "家庭共享"
+  ],
+  "review_score": "多半好评",
+  "review_ratio": 77.0,
+  "review_total": 3358,
+  "developer": "lemorion_1224",
+  "publisher": "lemorion_1224",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
+  "steam_url": "https://store.steampowered.com/app/4704690",
   "trend": [
     {
       "date": "2026-06-10",
       "peak": 15813
+    },
+    {
+      "date": "2026-06-11",
+      "peak": 20738
+    },
+    {
+      "date": "2026-06-13",
+      "peak": 43671
+    },
+    {
+      "date": "2026-06-14",
+      "peak": 61078
     }
   ]
 }

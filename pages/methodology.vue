@@ -21,7 +21,7 @@
         <span>是缩小问题，</span>
         <span>不是给出答案。</span>
       </h2>
-      <p>评分的作用是缩小问题，不是给出答案。老游戏和昨日之星只折算在线人数贡献，增长、口碑背离和发行窗口仍保留编辑价值。</p>
+      <p>评分的作用是缩小问题，不是给出答案。峰值和是否突破历史高点是主轴；连续出现只作为低权重稳定性信号，昨日之星会折算最终总分。</p>
     </section>
     <section v-if="scoring" class="scoring-sheet">
       <div>
@@ -35,23 +35,23 @@
         </div>
         <div>
           <dt>人数权重</dt>
-          <dd>log10(人数) × {{ scoring.player_log_weight }}</dd>
+          <dd>最高 {{ scoring.peak_score_weight }} 分，{{ scoring.peak_score_cap.toLocaleString() }} 封顶</dd>
         </div>
         <div>
           <dt>增长权重</dt>
-          <dd>正增长 × {{ scoring.growth_weight }}，封顶 {{ scoring.growth_cap * 100 }}%</dd>
+          <dd>超越过往最高峰值，最高 {{ scoring.record_growth_weight }} 分</dd>
         </div>
         <div>
           <dt>出现天数</dt>
-          <dd>每天 × {{ scoring.days_seen_weight }}，最多 {{ scoring.days_seen_cap }} 天</dd>
+          <dd>最高 {{ scoring.days_seen_score_weight }} 分，最多 {{ scoring.days_seen_cap }} 天</dd>
         </div>
         <div>
-          <dt>老游戏人数折算</dt>
-          <dd>{{ percent(scoring.old_game_player_discount) }}</dd>
+          <dt>信号类型</dt>
+          <dd>最高 {{ scoring.signal_type_score_weight }} 分</dd>
         </div>
         <div>
-          <dt>昨日之星人数折算</dt>
-          <dd>{{ percent(scoring.yesterday_star_player_discount) }}</dd>
+          <dt>昨日之星总分折算</dt>
+          <dd>{{ percent(scoring.yesterday_star_score_multiplier) }}</dd>
         </div>
         <div>
           <dt>三连触发</dt>
@@ -66,11 +66,10 @@
 useSeoMeta({ title: "分析方法" })
 const { data: scoring } = await useScoring()
 const methods = [
-  { code: "01", title: "突然爆发", text: "当前观测值相对上一观测日显著跃升，优先寻找外部事件与传播触发点。" },
-  { code: "02", title: "新作起量", text: "发行窗口内快速进入可见区间，观察定位、素材和首批用户是否形成正循环。" },
-  { code: "03", title: "老游戏回归", text: "沉寂后重新出现，重点核验版本、折扣、主播或社区事件。" },
-  { code: "04", title: "口碑与热度背离", text: "热度与评价方向不一致，说明产品承诺、受众预期或争议值得继续研究。" },
-  { code: "05", title: "持续增长", text: "连续多个观测点上升，优先判断增长是否来自可持续的发行机制。" }
+  { code: "01", title: "新作起量", text: "发行窗口内快速进入可见区间，观察定位、素材和首批用户是否形成正循环。" },
+  { code: "02", title: "口碑与热度背离", text: "热度与评价方向不一致，说明产品承诺、受众预期或争议值得继续研究。" },
+  { code: "03", title: "持续增长", text: "今日峰值继续突破过往最高点，优先判断增长是否来自可持续的发行机制。" },
+  { code: "04", title: "老游戏回归", text: "沉寂后重新出现，重点核验版本、折扣、主播或社区事件。" }
 ]
 function percent(value: number) {
   return `${Math.round(value * 100)}%`

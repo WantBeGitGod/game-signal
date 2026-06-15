@@ -1,0 +1,35 @@
+{
+  "slug": "destiny-2",
+  "appid": null,
+  "name": "Destiny 2",
+  "name_cn": null,
+  "description": "在《命运2》中探索太阳系的奥秘，体验精彩刺激的第一人称射击战斗。在剧情任务、合作和PvP模式中解锁强大能力并收集独特装备。",
+  "release_date": "2019-10-01",
+  "genres": [
+    "动作",
+    "冒险",
+    "免费"
+  ],
+  "tags": [],
+  "review_score": "多半好评",
+  "review_ratio": 78.0,
+  "review_total": 654913,
+  "developer": null,
+  "publisher": null,
+  "cover_image_url": null,
+  "steam_url": null,
+  "trend": [
+    {
+      "date": "2026-06-10",
+      "peak": 59091
+    },
+    {
+      "date": "2026-06-11",
+      "peak": 54825
+    },
+    {
+      "date": "2026-06-14",
+      "peak": 77196
+    }
+  ]
+}

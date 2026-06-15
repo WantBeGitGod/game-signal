@@ -1,0 +1,40 @@
+{
+  "slug": "spacecraft",
+  "appid": "3276050",
+  "name": "SpaceCraft",
+  "name_cn": null,
+  "description": "宇宙在你掌控之中！《星际征程》是一款太空探索与建造的在线游戏。在浩瀚星际中穿梭探险，探索无数恒星和行星，采集和生产资源，设计并建造飞船，自动化管理行星基地和星际物流，展开贸易与合作。",
+  "release_date": "2026-06-11",
+  "genres": [
+    "冒险",
+    "独立",
+    "大型多人在线",
+    "模拟",
+    "抢先体验"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "大型多人在线",
+    "合作",
+    "在线合作",
+    "应用内购买"
+  ],
+  "review_score": "多半好评",
+  "review_ratio": 72.0,
+  "review_total": 784,
+  "developer": "Shiro Games",
+  "publisher": "Shiro Games",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3276050/5c3fb496686b81ad694e250a3ac6707bde7372db/header_alt_assets_1_schinese.jpg?t=1781191112",
+  "steam_url": "https://store.steampowered.com/app/3276050",
+  "trend": [
+    {
+      "date": "2026-06-13",
+      "peak": 5241
+    },
+    {
+      "date": "2026-06-14",
+      "peak": 6620
+    }
+  ]
+}
