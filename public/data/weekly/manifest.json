@@ -1,8 +1,18 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-07T13:32:09",
-  "latest_weekly": "2026-06-01-week",
+  "generated_at": "2026-06-16T13:40:46",
+  "latest_weekly": "2026-06-08-week",
   "issues": [
+    {
+      "slug": "2026-06-08-week",
+      "issue_number": 3,
+      "week_start": "2026-06-08",
+      "week_end": "2026-06-15",
+      "title": "第 003 期｜2026-06-08 - 2026-06-15 Steam 发行信号",
+      "summary": "本期自动筛选 5 个 Steam 发行信号，并预留 2 个深度案例给主编审阅。",
+      "status": "published",
+      "published_at": "2026-06-16 13:40:46"
+    },
     {
       "slug": "2026-06-01-week",
       "issue_number": 2,

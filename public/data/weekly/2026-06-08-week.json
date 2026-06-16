@@ -1,0 +1,316 @@
+{
+  "schema_version": "1.0.0",
+  "slug": "2026-06-08-week",
+  "issue_number": 3,
+  "week_start": "2026-06-08",
+  "week_end": "2026-06-15",
+  "title": "第 003 期｜2026-06-08 - 2026-06-15 Steam 发行信号",
+  "summary": "本期自动筛选 5 个 Steam 发行信号，并预留 2 个深度案例给主编审阅。",
+  "status": "published",
+  "published_at": "2026-06-16 13:40:46",
+  "signals": [
+    {
+      "rank": 1,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 101.0,
+      "selection_reason": "Gothic 1 Remake 上周窗口峰值 77,731，较前一周窗口变化 +23%，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 77731,
+        "previous_week_peak": 63109,
+        "growth_rate": 0.2317,
+        "scoring_peak": 77731.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 85.0,
+        "review_total": 13512,
+        "days_seen": 4,
+        "is_new_release": true,
+        "genres": [
+          "动作",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-08",
+            "peak": 77731
+          },
+          {
+            "date": "2026-06-09",
+            "peak": 71991
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 70457
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 66744
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": true,
+      "case_slug": "gothic-1-remake",
+      "chart_path": "/data/charts/1297900.json",
+      "game": {
+        "slug": "gothic-1-remake",
+        "appid": "1297900",
+        "name": "Gothic 1 Remake",
+        "description": "传奇归来——在这款定义了一个类别的经典角色扮演游戏的忠实重制版中，重返采矿之谷。探索一个手把手打造的、栩栩如生的开放世界，这个世界会对您的各种行动做出动态反应，为您带来无与伦比、不受拘束的体验。",
+        "developer": "Alkimia Interactive",
+        "publisher": "Alkimia Interactive, THQ Nordic",
+        "release_date": "2026-06-05",
+        "review_ratio": 85.0,
+        "review_total": 13512,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1780965412",
+        "steam_url": "https://store.steampowered.com/app/1297900"
+      }
+    },
+    {
+      "rank": 2,
+      "signal_type": "sustained_growth",
+      "label": "持续增长",
+      "score": 97.4,
+      "selection_reason": "MECCHA CHAMELEON 上周窗口峰值 95,482，首次进入当前观察窗口，被识别为「持续增长」。",
+      "metrics": {
+        "weekly_peak": 95482,
+        "previous_week_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 66837.4,
+        "player_discount": 0.7,
+        "discount_reasons": [
+          "old_game"
+        ],
+        "review_ratio": 79.0,
+        "review_total": 4434,
+        "days_seen": 5,
+        "is_new_release": false,
+        "genres": [
+          "休闲"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 15813
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 20738
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 43671
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 61078
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 95482
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": true,
+      "case_slug": "meccha-chameleon",
+      "chart_path": "/data/charts/4704690.json",
+      "game": {
+        "slug": "meccha-chameleon",
+        "appid": "4704690",
+        "name": "MECCHA CHAMELEON",
+        "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
+        "developer": "lemorion_1224",
+        "publisher": "lemorion_1224",
+        "release_date": "2026-06-09",
+        "review_ratio": 80.0,
+        "review_total": 5601,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
+        "steam_url": "https://store.steampowered.com/app/4704690"
+      }
+    },
+    {
+      "rank": 3,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 91.1,
+      "selection_reason": "Solarpunk 上周窗口峰值 10,192，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 10192,
+        "previous_week_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 10192.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 79.0,
+        "review_total": 1777,
+        "days_seen": 6,
+        "is_new_release": true,
+        "genres": [
+          "冒险",
+          "独立",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-09",
+            "peak": 10192
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 9929
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 9161
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 8262
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 8985
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 9445
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/1805110.json",
+      "game": {
+        "slug": "solarpunk",
+        "appid": "1805110",
+        "name": "Solarpunk",
+        "description": "《太阳朋克：浮岛家园 Solarpunk》是一款生存游戏，背景设定在一个科技先进、由漂浮岛屿组成的世界。你可以独自一人或与朋友一起建造建筑、种植食物、制作工具，并驾驶飞船探索遥远的天空之岛。 可以利用太阳能、风能和水利打造能源系统，并进行自动化生产作业，如收集资源和灌溉植物。",
+        "developer": "Cyberwave",
+        "publisher": "rokaplay, Metaroot",
+        "release_date": "2026-06-08",
+        "review_ratio": 79.0,
+        "review_total": 1777,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1780935129",
+        "steam_url": "https://store.steampowered.com/app/1805110"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 90.79,
+      "selection_reason": "Road to Empress Ⅱ 上周窗口峰值 30,357，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 30357,
+        "previous_week_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 30357.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 82.0,
+        "review_total": 5415,
+        "days_seen": 2,
+        "is_new_release": true,
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 28665
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 30357
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/4148240.json",
+      "game": {
+        "slug": "road-to-empress",
+        "appid": "4148240",
+        "name": "Road to Empress Ⅱ",
+        "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
+        "developer": " New One Studio",
+        "publisher": " New One Studio, Ariel",
+        "release_date": "2026-06-08",
+        "review_ratio": 82.0,
+        "review_total": 5738,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781165139",
+        "steam_url": "https://store.steampowered.com/app/4148240"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "sustained_growth",
+      "label": "持续增长",
+      "score": 89.64,
+      "selection_reason": "Lost Castle 2 上周窗口峰值 28,725，首次进入当前观察窗口，被识别为「持续增长」。",
+      "metrics": {
+        "weekly_peak": 28725,
+        "previous_week_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 20107.5,
+        "player_discount": 0.7,
+        "discount_reasons": [
+          "old_game"
+        ],
+        "review_ratio": 79.0,
+        "review_total": 11615,
+        "days_seen": 4,
+        "is_new_release": false,
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 6290
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 21326
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 25441
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 28725
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/2445690.json",
+      "game": {
+        "slug": "lost-castle-2",
+        "appid": "2445690",
+        "name": "Lost Castle 2",
+        "description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
+        "developer": "Hunter Studio",
+        "publisher": "Hunter Studio",
+        "release_date": "2026-06-10",
+        "review_ratio": 79.0,
+        "review_total": 11679,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781171074",
+        "steam_url": "https://store.steampowered.com/app/2445690"
+      }
+    }
+  ]
+}
