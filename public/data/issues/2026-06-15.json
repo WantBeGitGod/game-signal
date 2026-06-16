@@ -1,0 +1,626 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-06-15",
+  "title": "06.15 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "sudden_breakout",
+    "label": "突然爆发",
+    "score": 107.89,
+    "fact_summary": "MECCHA CHAMELEON 今日观测峰值 95,482，较上一观测日变化 +56%，被识别为「突然爆发」。",
+    "metrics": {
+      "current_peak": 95482,
+      "previous_peak": 61078,
+      "growth_rate": 0.5633,
+      "scoring_peak": 95482.0,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "review_ratio": 79.0,
+      "review_total": 4434,
+      "days_seen": 5,
+      "comeback_gap_days": 2,
+      "is_new_release": true,
+      "genres": [
+        "休闲"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-10",
+          "peak": 15813
+        },
+        {
+          "date": "2026-06-11",
+          "peak": 20738
+        },
+        {
+          "date": "2026-06-13",
+          "peak": 43671
+        },
+        {
+          "date": "2026-06-14",
+          "peak": 61078
+        },
+        {
+          "date": "2026-06-15",
+          "peak": 95482
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4704690"
+      }
+    ],
+    "game": {
+      "slug": "meccha-chameleon",
+      "appid": "4704690",
+      "name": "MECCHA CHAMELEON",
+      "name_cn": null,
+      "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
+      "release_date": "2026-06-09",
+      "genres": [
+        "休闲"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "视角舒适度",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "立体声",
+        "环绕声",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 79.0,
+      "review_total": 4434,
+      "developer": "lemorion_1224",
+      "publisher": "lemorion_1224",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
+      "steam_url": "https://store.steampowered.com/app/4704690",
+      "trend": [
+        {
+          "date": "2026-06-10",
+          "peak": 15813
+        },
+        {
+          "date": "2026-06-11",
+          "peak": 20738
+        },
+        {
+          "date": "2026-06-13",
+          "peak": 43671
+        },
+        {
+          "date": "2026-06-14",
+          "peak": 61078
+        },
+        {
+          "date": "2026-06-15",
+          "peak": 95482
+        }
+      ]
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "sudden_breakout",
+    "label": "突然爆发",
+    "score": 107.89,
+    "fact_summary": "MECCHA CHAMELEON 今日观测峰值 95,482，较上一观测日变化 +56%，被识别为「突然爆发」。",
+    "metrics": {
+      "current_peak": 95482,
+      "previous_peak": 61078,
+      "growth_rate": 0.5633,
+      "scoring_peak": 95482.0,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "review_ratio": 79.0,
+      "review_total": 4434,
+      "days_seen": 5,
+      "comeback_gap_days": 2,
+      "is_new_release": true,
+      "genres": [
+        "休闲"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-10",
+          "peak": 15813
+        },
+        {
+          "date": "2026-06-11",
+          "peak": 20738
+        },
+        {
+          "date": "2026-06-13",
+          "peak": 43671
+        },
+        {
+          "date": "2026-06-14",
+          "peak": 61078
+        },
+        {
+          "date": "2026-06-15",
+          "peak": 95482
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4704690"
+      }
+    ],
+    "game": {
+      "slug": "meccha-chameleon",
+      "appid": "4704690",
+      "name": "MECCHA CHAMELEON",
+      "name_cn": null,
+      "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
+      "release_date": "2026-06-09",
+      "genres": [
+        "休闲"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "视角舒适度",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "立体声",
+        "环绕声",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 79.0,
+      "review_total": 4434,
+      "developer": "lemorion_1224",
+      "publisher": "lemorion_1224",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
+      "steam_url": "https://store.steampowered.com/app/4704690",
+      "trend": [
+        {
+          "date": "2026-06-10",
+          "peak": 15813
+        },
+        {
+          "date": "2026-06-11",
+          "peak": 20738
+        },
+        {
+          "date": "2026-06-13",
+          "peak": 43671
+        },
+        {
+          "date": "2026-06-14",
+          "peak": 61078
+        },
+        {
+          "date": "2026-06-15",
+          "peak": 95482
+        }
+      ]
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": [
+    {
+      "rank": 2,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 90.79,
+      "fact_summary": "Lost Castle 2 今日观测峰值 28,725，较上一观测日变化 +13%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 28725,
+        "previous_peak": 25441,
+        "growth_rate": 0.1291,
+        "scoring_peak": 28725.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 79.0,
+        "review_total": 11615,
+        "days_seen": 4,
+        "comeback_gap_days": 2,
+        "is_new_release": true,
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 6290
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 21326
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 25441
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 28725
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2445690"
+        }
+      ],
+      "game": {
+        "slug": "lost-castle-2",
+        "appid": "2445690",
+        "name": "Lost Castle 2",
+        "name_cn": null,
+        "description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
+        "release_date": "2026-06-10",
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "角色扮演"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "局域网合作",
+          "同屏/分屏合作",
+          "同屏/分屏",
+          "Steam 成就",
+          "部分支持控制器",
+          "Steam 云",
+          "统计数据",
+          "远程同乐",
+          "家庭共享"
+        ],
+        "review_score": "Mostly Positive",
+        "review_ratio": 79.0,
+        "review_total": 11615,
+        "developer": "Hunter Studio",
+        "publisher": "Hunter Studio",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781171074",
+        "steam_url": "https://store.steampowered.com/app/2445690",
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 6290
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 21326
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 25441
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 28725
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 87.38,
+      "fact_summary": "Road to Empress Ⅱ 今日观测峰值 30,357，较上一观测日变化 +6%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 30357,
+        "previous_peak": 28665,
+        "growth_rate": 0.059,
+        "scoring_peak": 30357.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 82.0,
+        "review_total": 5415,
+        "days_seen": 2,
+        "comeback_gap_days": 4,
+        "is_new_release": true,
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 28665
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 30357
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4148240"
+        }
+      ],
+      "game": {
+        "slug": "road-to-empress",
+        "appid": "4148240",
+        "name": "Road to Empress Ⅱ",
+        "name_cn": null,
+        "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
+        "release_date": "2026-06-08",
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "应用内购买",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 82.0,
+        "review_total": 5415,
+        "developer": " New One Studio",
+        "publisher": " New One Studio, Ariel",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781165139",
+        "steam_url": "https://store.steampowered.com/app/4148240",
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 28665
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 30357
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 87.21,
+      "fact_summary": "Solarpunk 今日观测峰值 9,445，较上一观测日变化 +5%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 9445,
+        "previous_peak": 8985,
+        "growth_rate": 0.0512,
+        "scoring_peak": 9445.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 79.0,
+        "review_total": 1777,
+        "days_seen": 6,
+        "comeback_gap_days": 2,
+        "is_new_release": true,
+        "genres": [
+          "冒险",
+          "独立",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-09",
+            "peak": 10192
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 9929
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 9161
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 8262
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 8985
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 9445
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/1805110"
+        }
+      ],
+      "game": {
+        "slug": "solarpunk",
+        "appid": "1805110",
+        "name": "Solarpunk",
+        "name_cn": null,
+        "description": "《太阳朋克：浮岛家园 Solarpunk》是一款生存游戏，背景设定在一个科技先进、由漂浮岛屿组成的世界。你可以独自一人或与朋友一起建造建筑、种植食物、制作工具，并驾驶飞船探索遥远的天空之岛。 可以利用太阳能、风能和水利打造能源系统，并进行自动化生产作业，如收集资源和灌溉植物。",
+        "release_date": "2026-06-08",
+        "genres": [
+          "冒险",
+          "独立",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "Steam 成就",
+          "完全支持控制器",
+          "自定义音量控制",
+          "可调整难度",
+          "无需应对快速反应事件",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Mostly Positive",
+        "review_ratio": 79.0,
+        "review_total": 1777,
+        "developer": "Cyberwave",
+        "publisher": "rokaplay, Metaroot",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1780935129",
+        "steam_url": "https://store.steampowered.com/app/1805110",
+        "trend": [
+          {
+            "date": "2026-06-09",
+            "peak": 10192
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 9929
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 9161
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 8262
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 8985
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 9445
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 84.24,
+      "fact_summary": "Voidling Bound 今日观测峰值 7,845，较上一观测日变化 -4%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 7845,
+        "previous_peak": 8190,
+        "growth_rate": -0.0421,
+        "scoring_peak": 7845.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 93.0,
+        "review_total": 1797,
+        "days_seen": 5,
+        "comeback_gap_days": 2,
+        "is_new_release": true,
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 8130
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 8632
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 7039
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 8190
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 7845
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2004680"
+        }
+      ],
+      "game": {
+        "slug": "voidling-bound",
+        "appid": "2004680",
+        "name": "Voidling Bound",
+        "name_cn": null,
+        "description": "在这款第三人称射击+生物收集游戏中，你将潜入沃德灵的思维，亲自上阵对抗神秘的寄生疫病 。孵化、进化并升级你强大的太空生物，在主线任务关卡和深渊竞技场中，战胜不断升级的挑战。",
+        "release_date": "2026-06-09",
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "完全支持控制器",
+          "视角舒适度",
+          "可选颜色",
+          "自定义音量控制",
+          "可调整难度",
+          "无需应对快速反应事件",
+          "立体声",
+          "Steam 云",
+          "统计数据",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 93.0,
+        "review_total": 1797,
+        "developer": "Hatchery Games",
+        "publisher": "Hatchery Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/78f0bcda22c6d49b81831aa41e4831ed52893c19/header_alt_assets_0.jpg?t=1781263470",
+        "steam_url": "https://store.steampowered.com/app/2004680",
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 8130
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 8632
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 7039
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 8190
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 7845
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,6 +1,7 @@
 {
   "schema_version": "1.0.0",
   "new_release_window_days": 30,
+  "comeback_release_age_days": 180,
   "peak_score_weight": 35.0,
   "peak_score_cap": 100000,
   "record_growth_weight": 35.0,

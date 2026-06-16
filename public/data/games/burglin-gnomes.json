@@ -1,0 +1,51 @@
+{
+  "slug": "burglin-gnomes",
+  "appid": "3844970",
+  "name": "Burglin' Gnomes",
+  "name_cn": null,
+  "description": "这是一款在线合作游戏，你将化身为一只小地精，闯入民宅制造混乱。躲避各种危险，改造偷来的家居物品，通过完成任务满足地精王的要求。制作装备并升级家园——让任务越做越顺手，捣蛋越来越成功。",
+  "release_date": "2026-06-10",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "无需应对快速反应事件",
+    "立体声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 85.0,
+  "review_total": 1777,
+  "developer": "Fobri",
+  "publisher": "Fobri",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d44e878d08426747cab87cd465ad1667fba5a6f8/header_schinese.jpg?t=1781100001",
+  "steam_url": "https://store.steampowered.com/app/3844970",
+  "trend": [
+    {
+      "date": "2026-06-11",
+      "peak": 9861
+    },
+    {
+      "date": "2026-06-13",
+      "peak": 9415
+    },
+    {
+      "date": "2026-06-14",
+      "peak": 9792
+    },
+    {
+      "date": "2026-06-15",
+      "peak": 9812
+    },
+    {
+      "date": "2026-06-16",
+      "peak": 6810
+    }
+  ]
+}

@@ -26,9 +26,9 @@
     "远程同乐",
     "家庭共享"
   ],
-  "review_score": "多半好评",
+  "review_score": "Mostly Positive",
   "review_ratio": 79.0,
-  "review_total": 11533,
+  "review_total": 11679,
   "developer": "Hunter Studio",
   "publisher": "Hunter Studio",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781171074",
@@ -45,6 +45,14 @@
     {
       "date": "2026-06-14",
       "peak": 25441
+    },
+    {
+      "date": "2026-06-15",
+      "peak": 28725
+    },
+    {
+      "date": "2026-06-16",
+      "peak": 28279
     }
   ]
 }

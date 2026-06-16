@@ -3,7 +3,7 @@
   "appid": "2004680",
   "name": "Voidling Bound",
   "name_cn": null,
-  "description": "扮演一名寄生末世的太空生物学家，与被称为“沃德灵”的生物神经链接，展开第三人称科幻射击动作冒险。在颠覆传统的怪兽捕捉玩法中，培育数量众多的沃德灵品种，并在丰富的进化路线之中借助基因交配，尝试近乎无穷无尽的物种组合，打造属于你的终极生物！",
+  "description": "在这款第三人称射击+生物收集游戏中，你将潜入沃德灵的思维，亲自上阵对抗神秘的寄生疫病 。孵化、进化并升级你强大的太空生物，在主线任务关卡和深渊竞技场中，战胜不断升级的挑战。",
   "release_date": "2026-06-09",
   "genres": [
     "动作",
@@ -24,9 +24,9 @@
     "统计数据",
     "家庭共享"
   ],
-  "review_score": "暂无评价",
-  "review_ratio": 94.0,
-  "review_total": 534,
+  "review_score": "Very Positive",
+  "review_ratio": 93.0,
+  "review_total": 0,
   "developer": "Hatchery Games",
   "publisher": "Hatchery Games",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/78f0bcda22c6d49b81831aa41e4831ed52893c19/header_alt_assets_0.jpg?t=1781263470",
@@ -39,6 +39,22 @@
     {
       "date": "2026-06-11",
       "peak": 8632
+    },
+    {
+      "date": "2026-06-13",
+      "peak": 7039
+    },
+    {
+      "date": "2026-06-14",
+      "peak": 8190
+    },
+    {
+      "date": "2026-06-15",
+      "peak": 7845
+    },
+    {
+      "date": "2026-06-16",
+      "peak": 5165
     }
   ]
 }

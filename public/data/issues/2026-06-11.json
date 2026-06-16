@@ -10,26 +10,15 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 33.55,
-    "fact_summary": "Gothic 1 Remake 今日观测峰值 66,744，未超过过往最高峰值 77,731，被识别为「新作起量」。",
+    "score": 96.89,
+    "fact_summary": "Gothic 1 Remake 今日观测峰值 66,744，较上一观测日变化 -5%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 66744,
-      "previous_peak": 77731,
-      "previous_record_peak": 77731,
-      "growth_rate": -0.1413,
-      "record_growth_rate": -0.1413,
-      "scoring_peak": 66744,
+      "previous_peak": 70457,
+      "growth_rate": -0.0527,
+      "scoring_peak": 66744.0,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 23.36,
-      "record_growth_score": 0.0,
-      "days_seen_score": 8.57,
-      "signal_type_score": 10.0,
-      "score_before_multiplier": 41.93,
-      "score_multiplier": 0.8,
-      "score_multiplier_reasons": [
-        "yesterday_star"
-      ],
       "review_ratio": 85.0,
       "review_total": 13512,
       "days_seen": 6,
@@ -138,26 +127,15 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 33.55,
-    "fact_summary": "Gothic 1 Remake 今日观测峰值 66,744，未超过过往最高峰值 77,731，被识别为「新作起量」。",
+    "score": 96.89,
+    "fact_summary": "Gothic 1 Remake 今日观测峰值 66,744，较上一观测日变化 -5%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 66744,
-      "previous_peak": 77731,
-      "previous_record_peak": 77731,
-      "growth_rate": -0.1413,
-      "record_growth_rate": -0.1413,
-      "scoring_peak": 66744,
+      "previous_peak": 70457,
+      "growth_rate": -0.0527,
+      "scoring_peak": 66744.0,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 23.36,
-      "record_growth_score": 0.0,
-      "days_seen_score": 8.57,
-      "signal_type_score": 10.0,
-      "score_before_multiplier": 41.93,
-      "score_multiplier": 0.8,
-      "score_multiplier_reasons": [
-        "yesterday_star"
-      ],
       "review_ratio": 85.0,
       "review_total": 13512,
       "days_seen": 6,
@@ -266,28 +244,117 @@
   "candidate_signals": [
     {
       "rank": 2,
+      "type": "comeback",
+      "label": "老游戏回归",
+      "score": 92.46,
+      "fact_summary": "Source SDK Base 2007 今日观测峰值 10,699，较上一观测日变化 +50%，被识别为「老游戏回归」。",
+      "metrics": {
+        "current_peak": 10699,
+        "previous_peak": 7148,
+        "growth_rate": 0.4968,
+        "scoring_peak": 7489.3,
+        "player_discount": 0.7,
+        "discount_reasons": [
+          "old_game"
+        ],
+        "review_ratio": null,
+        "review_total": 0,
+        "days_seen": 6,
+        "comeback_gap_days": 17,
+        "is_new_release": false,
+        "genres": [],
+        "trend": [
+          {
+            "date": "2026-05-19",
+            "peak": 11238
+          },
+          {
+            "date": "2026-05-20",
+            "peak": 10318
+          },
+          {
+            "date": "2026-06-07",
+            "peak": 10814
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 10731
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 7148
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 10699
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/218"
+        }
+      ],
+      "game": {
+        "slug": "source-sdk-base-2007",
+        "appid": "218",
+        "name": "Source SDK Base 2007",
+        "name_cn": null,
+        "description": "",
+        "release_date": "",
+        "genres": [],
+        "tags": [],
+        "review_score": "暂无评价",
+        "review_ratio": null,
+        "review_total": 0,
+        "developer": "",
+        "publisher": "",
+        "cover_image_url": "",
+        "steam_url": "https://store.steampowered.com/app/218",
+        "trend": [
+          {
+            "date": "2026-05-19",
+            "peak": 11238
+          },
+          {
+            "date": "2026-05-20",
+            "peak": 10318
+          },
+          {
+            "date": "2026-06-07",
+            "peak": 10814
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 10731
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 7148
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 10699
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 31.02,
-      "fact_summary": "MECCHA CHAMELEON 今日观测峰值 20,738，较过往最高峰值提升 +31%，被识别为「新作起量」。",
+      "score": 87.92,
+      "fact_summary": "MECCHA CHAMELEON 今日观测峰值 20,738，较上一观测日变化 +31%，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 20738,
         "previous_peak": 15813,
-        "previous_record_peak": 15813,
         "growth_rate": 0.3115,
-        "record_growth_rate": 0.3115,
-        "scoring_peak": 20738,
+        "scoring_peak": 20738.0,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 7.26,
-        "record_growth_score": 10.9,
-        "days_seen_score": 2.86,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 31.02,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "review_ratio": 75.0,
-        "review_total": 1149,
+        "review_ratio": 77.0,
+        "review_total": 3358,
         "days_seen": 2,
         "comeback_gap_days": 1,
         "is_new_release": true,
@@ -305,15 +372,10 @@
           }
         ]
       },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/4704690"
-        }
-      ],
+      "sources": [],
       "game": {
         "slug": "meccha-chameleon",
-        "appid": "4704690",
+        "appid": null,
         "name": "MECCHA CHAMELEON",
         "name_cn": null,
         "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
@@ -321,24 +383,14 @@
         "genres": [
           "休闲"
         ],
-        "tags": [
-          "多人",
-          "玩家对战",
-          "线上玩家对战",
-          "视角舒适度",
-          "自定义音量控制",
-          "无需应对快速反应事件",
-          "立体声",
-          "环绕声",
-          "家庭共享"
-        ],
+        "tags": [],
         "review_score": "多半好评",
-        "review_ratio": 75.0,
-        "review_total": 1149,
-        "developer": "lemorion_1224",
-        "publisher": "lemorion_1224",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
-        "steam_url": "https://store.steampowered.com/app/4704690",
+        "review_ratio": 77.0,
+        "review_total": 3358,
+        "developer": null,
+        "publisher": null,
+        "cover_image_url": null,
+        "steam_url": null,
         "trend": [
           {
             "date": "2026-06-10",
@@ -352,103 +404,18 @@
       }
     },
     {
-      "rank": 3,
-      "type": "comeback",
-      "label": "老游戏回归",
-      "score": 26.05,
-      "fact_summary": "Destiny 2 今日观测峰值 54,825，未超过过往最高峰值 59,091，被识别为「老游戏回归」。",
-      "metrics": {
-        "current_peak": 54825,
-        "previous_peak": 59091,
-        "previous_record_peak": 59091,
-        "growth_rate": -0.0722,
-        "record_growth_rate": -0.0722,
-        "scoring_peak": 54825,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 19.19,
-        "record_growth_score": 0.0,
-        "days_seen_score": 2.86,
-        "signal_type_score": 4.0,
-        "score_before_multiplier": 26.05,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "review_ratio": 78.0,
-        "review_total": 653706,
-        "days_seen": 2,
-        "comeback_gap_days": 1,
-        "is_new_release": false,
-        "genres": [
-          "动作",
-          "冒险",
-          "免费"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-10",
-            "peak": 59091
-          },
-          {
-            "date": "2026-06-11",
-            "peak": 54825
-          }
-        ]
-      },
-      "sources": [],
-      "game": {
-        "slug": "destiny-2",
-        "appid": null,
-        "name": "Destiny 2",
-        "name_cn": null,
-        "description": "在《命运2》中探索太阳系的奥秘，体验精彩刺激的第一人称射击战斗。在剧情任务、合作和PvP模式中解锁强大能力并收集独特装备。",
-        "release_date": "2019-10-01",
-        "genres": [
-          "动作",
-          "冒险",
-          "免费"
-        ],
-        "tags": [],
-        "review_score": "多半好评",
-        "review_ratio": 78.0,
-        "review_total": 653706,
-        "developer": null,
-        "publisher": null,
-        "cover_image_url": null,
-        "steam_url": null,
-        "trend": [
-          {
-            "date": "2026-06-10",
-            "peak": 59091
-          },
-          {
-            "date": "2026-06-11",
-            "peak": 54825
-          }
-        ]
-      }
-    },
-    {
       "rank": 4,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 20.99,
+      "score": 84.74,
       "fact_summary": "Road to Empress Ⅱ 今日观测峰值 27,332，首次进入当前观察窗口，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 27332,
         "previous_peak": 0,
-        "previous_record_peak": 0,
         "growth_rate": 0.0,
-        "record_growth_rate": 0.0,
-        "scoring_peak": 27332,
+        "scoring_peak": 27332.0,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 9.57,
-        "record_growth_score": 0.0,
-        "days_seen_score": 1.43,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 20.99,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
         "review_ratio": 77.0,
         "review_total": 2884,
         "days_seen": 1,
@@ -503,92 +470,90 @@
       "rank": 5,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 18.04,
-      "fact_summary": "Voidling Bound 今日观测峰值 8,632，较过往最高峰值提升 +6%，被识别为「新作起量」。",
+      "score": 82.04,
+      "fact_summary": "Solarpunk 今日观测峰值 9,161，较上一观测日变化 -8%，被识别为「新作起量」。",
       "metrics": {
-        "current_peak": 8632,
-        "previous_peak": 8130,
-        "previous_record_peak": 8130,
-        "growth_rate": 0.0617,
-        "record_growth_rate": 0.0617,
-        "scoring_peak": 8632,
+        "current_peak": 9161,
+        "previous_peak": 9929,
+        "growth_rate": -0.0773,
+        "scoring_peak": 9161.0,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 3.02,
-        "record_growth_score": 2.16,
-        "days_seen_score": 2.86,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 18.04,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "review_ratio": 94.0,
-        "review_total": 534,
-        "days_seen": 2,
+        "review_ratio": 79.0,
+        "review_total": 1582,
+        "days_seen": 3,
         "comeback_gap_days": 1,
         "is_new_release": true,
         "genres": [
-          "动作",
           "冒险",
-          "角色扮演"
+          "独立",
+          "模拟"
         ],
         "trend": [
           {
+            "date": "2026-06-09",
+            "peak": 10192
+          },
+          {
             "date": "2026-06-10",
-            "peak": 8130
+            "peak": 9929
           },
           {
             "date": "2026-06-11",
-            "peak": 8632
+            "peak": 9161
           }
         ]
       },
       "sources": [
         {
           "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/2004680"
+          "url": "https://store.steampowered.com/app/1805110"
         }
       ],
       "game": {
-        "slug": "voidling-bound",
-        "appid": "2004680",
-        "name": "Voidling Bound",
+        "slug": "solarpunk",
+        "appid": "1805110",
+        "name": "Solarpunk",
         "name_cn": null,
-        "description": "扮演一名寄生末世的太空生物学家，与被称为“沃德灵”的生物神经链接，展开第三人称科幻射击动作冒险。在颠覆传统的怪兽捕捉玩法中，培育数量众多的沃德灵品种，并在丰富的进化路线之中借助基因交配，尝试近乎无穷无尽的物种组合，打造属于你的终极生物！",
-        "release_date": "2026-06-09",
+        "description": "《太阳朋克：浮岛家园 Solarpunk》是一款生存游戏，背景设定在一个科技先进、由漂浮岛屿组成的世界。你可以独自一人或与朋友一起建造建筑、种植食物、制作工具，并驾驶飞船探索遥远的天空之岛。 可以利用太阳能、风能和水利打造能源系统，并进行自动化生产作业，如收集资源和灌溉植物。",
+        "release_date": "2026-06-08",
         "genres": [
-          "动作",
           "冒险",
-          "角色扮演"
+          "独立",
+          "模拟"
         ],
         "tags": [
           "单人",
+          "多人",
+          "合作",
+          "在线合作",
           "Steam 成就",
           "完全支持控制器",
-          "视角舒适度",
-          "可选颜色",
           "自定义音量控制",
           "可调整难度",
           "无需应对快速反应事件",
-          "立体声",
           "Steam 云",
-          "统计数据",
           "家庭共享"
         ],
-        "review_score": "暂无评价",
-        "review_ratio": 94.0,
-        "review_total": 534,
-        "developer": "Hatchery Games",
-        "publisher": "Hatchery Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/78f0bcda22c6d49b81831aa41e4831ed52893c19/header_alt_assets_0.jpg?t=1781263470",
-        "steam_url": "https://store.steampowered.com/app/2004680",
+        "review_score": "多半好评",
+        "review_ratio": 79.0,
+        "review_total": 1582,
+        "developer": "Cyberwave",
+        "publisher": "rokaplay, Metaroot",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1780935129",
+        "steam_url": "https://store.steampowered.com/app/1805110",
         "trend": [
           {
+            "date": "2026-06-09",
+            "peak": 10192
+          },
+          {
             "date": "2026-06-10",
-            "peak": 8130
+            "peak": 9929
           },
           {
             "date": "2026-06-11",
-            "peak": 8632
+            "peak": 9161
           }
         ]
       }

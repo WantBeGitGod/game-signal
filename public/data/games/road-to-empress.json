@@ -1,6 +1,6 @@
 {
   "slug": "road-to-empress",
-  "appid": null,
+  "appid": "4148240",
   "name": "Road to Empress Ⅱ",
   "name_cn": null,
   "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
@@ -12,18 +12,31 @@
     "角色扮演",
     "模拟"
   ],
-  "tags": [],
-  "review_score": "特别好评",
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "应用内购买",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
   "review_ratio": 82.0,
-  "review_total": 4582,
-  "developer": null,
-  "publisher": null,
-  "cover_image_url": null,
-  "steam_url": null,
+  "review_total": 5738,
+  "developer": " New One Studio",
+  "publisher": " New One Studio, Ariel",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781165139",
+  "steam_url": "https://store.steampowered.com/app/4148240",
   "trend": [
     {
-      "date": "2026-06-13",
-      "peak": 26584
+      "date": "2026-06-10",
+      "peak": 28665
+    },
+    {
+      "date": "2026-06-15",
+      "peak": 30357
+    },
+    {
+      "date": "2026-06-16",
+      "peak": 27748
     }
   ]
 }
