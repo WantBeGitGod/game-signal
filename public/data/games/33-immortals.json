@@ -24,9 +24,9 @@
     "立体声",
     "家庭共享"
   ],
-  "review_score": "暂无评价",
-  "review_ratio": 79.0,
-  "review_total": 754,
+  "review_score": "Mostly Positive",
+  "review_ratio": 77.0,
+  "review_total": 1390,
   "developer": "Thunder Lotus",
   "publisher": "Thunder Lotus, Kepler Ghost",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/958520/cb394a0b80c864bf75087390090dc212b3cbbc17/header_schinese.jpg?t=1781193618",
@@ -39,6 +39,18 @@
     {
       "date": "2026-06-14",
       "peak": 7070
+    },
+    {
+      "date": "2026-06-15",
+      "peak": 7811
+    },
+    {
+      "date": "2026-06-16",
+      "peak": 6097
+    },
+    {
+      "date": "2026-06-17",
+      "peak": 5583
     }
   ]
 }

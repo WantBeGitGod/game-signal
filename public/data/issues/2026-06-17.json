@@ -1,0 +1,765 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-06-17",
+  "title": "06.17 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 60.42,
+    "fact_summary": "MECCHA CHAMELEON 今日观测峰值 209,667，较过往最高峰值提升 +59%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 209667,
+      "previous_peak": 132154,
+      "previous_record_peak": 132154,
+      "growth_rate": 0.5865,
+      "record_growth_rate": 0.5865,
+      "scoring_peak": 209667,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 35.0,
+      "record_growth_score": 20.53,
+      "days_seen_score": 10.0,
+      "signal_type_score": 10.0,
+      "score_before_multiplier": 75.53,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "yesterday_star"
+      ],
+      "review_ratio": 80.0,
+      "review_total": 7312,
+      "days_seen": 7,
+      "comeback_gap_days": 2,
+      "is_new_release": true,
+      "release_age_days": 8,
+      "is_comeback_age": false,
+      "genres": [
+        "休闲"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-10",
+          "peak": 15813
+        },
+        {
+          "date": "2026-06-11",
+          "peak": 20738
+        },
+        {
+          "date": "2026-06-13",
+          "peak": 43671
+        },
+        {
+          "date": "2026-06-14",
+          "peak": 61078
+        },
+        {
+          "date": "2026-06-15",
+          "peak": 95482
+        },
+        {
+          "date": "2026-06-16",
+          "peak": 132154
+        },
+        {
+          "date": "2026-06-17",
+          "peak": 209667
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4704690"
+      }
+    ],
+    "game": {
+      "slug": "meccha-chameleon",
+      "appid": "4704690",
+      "name": "MECCHA CHAMELEON",
+      "name_cn": null,
+      "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
+      "release_date": "2026-06-09",
+      "genres": [
+        "休闲"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "视角舒适度",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "立体声",
+        "环绕声",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 80.0,
+      "review_total": 7312,
+      "developer": "lemorion_1224",
+      "publisher": "lemorion_1224",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
+      "steam_url": "https://store.steampowered.com/app/4704690",
+      "trend": [
+        {
+          "date": "2026-06-10",
+          "peak": 15813
+        },
+        {
+          "date": "2026-06-11",
+          "peak": 20738
+        },
+        {
+          "date": "2026-06-13",
+          "peak": 43671
+        },
+        {
+          "date": "2026-06-14",
+          "peak": 61078
+        },
+        {
+          "date": "2026-06-15",
+          "peak": 95482
+        },
+        {
+          "date": "2026-06-16",
+          "peak": 132154
+        },
+        {
+          "date": "2026-06-17",
+          "peak": 209667
+        }
+      ]
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 60.42,
+    "fact_summary": "MECCHA CHAMELEON 今日观测峰值 209,667，较过往最高峰值提升 +59%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 209667,
+      "previous_peak": 132154,
+      "previous_record_peak": 132154,
+      "growth_rate": 0.5865,
+      "record_growth_rate": 0.5865,
+      "scoring_peak": 209667,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 35.0,
+      "record_growth_score": 20.53,
+      "days_seen_score": 10.0,
+      "signal_type_score": 10.0,
+      "score_before_multiplier": 75.53,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "yesterday_star"
+      ],
+      "review_ratio": 80.0,
+      "review_total": 7312,
+      "days_seen": 7,
+      "comeback_gap_days": 2,
+      "is_new_release": true,
+      "release_age_days": 8,
+      "is_comeback_age": false,
+      "genres": [
+        "休闲"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-10",
+          "peak": 15813
+        },
+        {
+          "date": "2026-06-11",
+          "peak": 20738
+        },
+        {
+          "date": "2026-06-13",
+          "peak": 43671
+        },
+        {
+          "date": "2026-06-14",
+          "peak": 61078
+        },
+        {
+          "date": "2026-06-15",
+          "peak": 95482
+        },
+        {
+          "date": "2026-06-16",
+          "peak": 132154
+        },
+        {
+          "date": "2026-06-17",
+          "peak": 209667
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4704690"
+      }
+    ],
+    "game": {
+      "slug": "meccha-chameleon",
+      "appid": "4704690",
+      "name": "MECCHA CHAMELEON",
+      "name_cn": null,
+      "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
+      "release_date": "2026-06-09",
+      "genres": [
+        "休闲"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "视角舒适度",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "立体声",
+        "环绕声",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 80.0,
+      "review_total": 7312,
+      "developer": "lemorion_1224",
+      "publisher": "lemorion_1224",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
+      "steam_url": "https://store.steampowered.com/app/4704690",
+      "trend": [
+        {
+          "date": "2026-06-10",
+          "peak": 15813
+        },
+        {
+          "date": "2026-06-11",
+          "peak": 20738
+        },
+        {
+          "date": "2026-06-13",
+          "peak": 43671
+        },
+        {
+          "date": "2026-06-14",
+          "peak": 61078
+        },
+        {
+          "date": "2026-06-15",
+          "peak": 95482
+        },
+        {
+          "date": "2026-06-16",
+          "peak": 132154
+        },
+        {
+          "date": "2026-06-17",
+          "peak": 209667
+        }
+      ]
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": [
+    {
+      "rank": 2,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 28.8,
+      "fact_summary": "Lost Castle 2 今日观测峰值 28,835，较过往最高峰值提升 +0%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 28835,
+        "previous_peak": 28725,
+        "previous_record_peak": 28725,
+        "growth_rate": 0.0038,
+        "record_growth_rate": 0.0038,
+        "scoring_peak": 28835,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 10.09,
+        "record_growth_score": 0.13,
+        "days_seen_score": 8.57,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 28.8,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 79.0,
+        "review_total": 11757,
+        "days_seen": 6,
+        "comeback_gap_days": 2,
+        "is_new_release": true,
+        "release_age_days": 7,
+        "is_comeback_age": false,
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 6290
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 21326
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 25441
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 28725
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 28279
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 28835
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2445690"
+        }
+      ],
+      "game": {
+        "slug": "lost-castle-2",
+        "appid": "2445690",
+        "name": "Lost Castle 2",
+        "name_cn": null,
+        "description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
+        "release_date": "2026-06-10",
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "角色扮演"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "局域网合作",
+          "同屏/分屏合作",
+          "同屏/分屏",
+          "Steam 成就",
+          "部分支持控制器",
+          "Steam 云",
+          "统计数据",
+          "远程同乐",
+          "家庭共享"
+        ],
+        "review_score": "Mostly Positive",
+        "review_ratio": 79.0,
+        "review_total": 11757,
+        "developer": "Hunter Studio",
+        "publisher": "Hunter Studio",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781171074",
+        "steam_url": "https://store.steampowered.com/app/2445690",
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 6290
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 21326
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 25441
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 28725
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 28279
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 28835
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 20.75,
+      "fact_summary": "Burglin' Gnomes 今日观测峰值 6,225，未超过过往最高峰值 9,861，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 6225,
+        "previous_peak": 9861,
+        "previous_record_peak": 9861,
+        "growth_rate": -0.3687,
+        "record_growth_rate": -0.3687,
+        "scoring_peak": 6225,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 2.18,
+        "record_growth_score": 0.0,
+        "days_seen_score": 8.57,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 20.75,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 85.0,
+        "review_total": 1957,
+        "days_seen": 6,
+        "comeback_gap_days": 2,
+        "is_new_release": true,
+        "release_age_days": 7,
+        "is_comeback_age": false,
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 9861
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 9415
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 9792
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 9812
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 6810
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 6225
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/3844970"
+        }
+      ],
+      "game": {
+        "slug": "burglin-gnomes",
+        "appid": "3844970",
+        "name": "Burglin' Gnomes",
+        "name_cn": null,
+        "description": "这是一款在线合作游戏，你将化身为一只小地精，闯入民宅制造混乱。躲避各种危险，改造偷来的家居物品，通过完成任务满足地精王的要求。制作装备并升级家园——让任务越做越顺手，捣蛋越来越成功。",
+        "release_date": "2026-06-10",
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "无需应对快速反应事件",
+          "立体声",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 85.0,
+        "review_total": 1957,
+        "developer": "Fobri",
+        "publisher": "Fobri",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d44e878d08426747cab87cd465ad1667fba5a6f8/header_schinese.jpg?t=1781100001",
+        "steam_url": "https://store.steampowered.com/app/3844970",
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 9861
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 9415
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 9792
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 9812
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 6810
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 6225
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 19.61,
+      "fact_summary": "SpaceCraft 今日观测峰值 7,058，未超过过往最高峰值 7,707，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 7058,
+        "previous_peak": 7707,
+        "previous_record_peak": 7707,
+        "growth_rate": -0.0842,
+        "record_growth_rate": -0.0842,
+        "scoring_peak": 7058,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 2.47,
+        "record_growth_score": 0.0,
+        "days_seen_score": 7.14,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 19.61,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 71.0,
+        "review_total": 1165,
+        "days_seen": 5,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 6,
+        "is_comeback_age": false,
+        "genres": [
+          "冒险",
+          "独立",
+          "大型多人在线",
+          "模拟",
+          "抢先体验"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-13",
+            "peak": 5241
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 6620
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 7707
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 7146
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 7058
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/3276050"
+        }
+      ],
+      "game": {
+        "slug": "spacecraft",
+        "appid": "3276050",
+        "name": "SpaceCraft",
+        "name_cn": null,
+        "description": "宇宙在你掌控之中！《星际征程》是一款太空探索与建造的在线游戏。在浩瀚星际中穿梭探险，探索无数恒星和行星，采集和生产资源，设计并建造飞船，自动化管理行星基地和星际物流，展开贸易与合作。",
+        "release_date": "2026-06-11",
+        "genres": [
+          "冒险",
+          "独立",
+          "大型多人在线",
+          "模拟",
+          "抢先体验"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "大型多人在线",
+          "合作",
+          "在线合作",
+          "应用内购买"
+        ],
+        "review_score": "Mostly Positive",
+        "review_ratio": 71.0,
+        "review_total": 1165,
+        "developer": "Shiro Games",
+        "publisher": "Shiro Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3276050/5c3fb496686b81ad694e250a3ac6707bde7372db/header_alt_assets_1_schinese.jpg?t=1781191112",
+        "steam_url": "https://store.steampowered.com/app/3276050",
+        "trend": [
+          {
+            "date": "2026-06-13",
+            "peak": 5241
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 6620
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 7707
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 7146
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 7058
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 19.1,
+      "fact_summary": "33 Immortals 今日观测峰值 5,583，未超过过往最高峰值 7,811，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 5583,
+        "previous_peak": 7811,
+        "previous_record_peak": 7811,
+        "growth_rate": -0.2852,
+        "record_growth_rate": -0.2852,
+        "scoring_peak": 5583,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 1.95,
+        "record_growth_score": 0.0,
+        "days_seen_score": 7.14,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 19.1,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 77.0,
+        "review_total": 1390,
+        "days_seen": 5,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 7,
+        "is_comeback_age": false,
+        "genres": [
+          "动作",
+          "独立",
+          "大型多人在线"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-13",
+            "peak": 5705
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 7070
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 7811
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 6097
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 5583
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/958520"
+        }
+      ],
+      "game": {
+        "slug": "33-immortals",
+        "appid": "958520",
+        "name": "33 Immortals",
+        "name_cn": null,
+        "description": "33不朽灵魂 是一款支持33位玩家一齐上阵的动作Roguelike合作游戏。立即开启冒险，既可单人作战，也可与好友组队。迎战狱魔大军，击败强大头目，在冒险中不断成长强大。使用游戏内表情与其他反抗者协力作战，共同直面神的怒火。",
+        "release_date": "2026-06-10",
+        "genres": [
+          "动作",
+          "独立",
+          "大型多人在线"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "跨平台多人",
+          "Steam 成就",
+          "完全支持控制器",
+          "Steam 集换式卡牌",
+          "自定义音量控制",
+          "无需应对快速反应事件",
+          "立体声",
+          "家庭共享"
+        ],
+        "review_score": "Mostly Positive",
+        "review_ratio": 77.0,
+        "review_total": 1390,
+        "developer": "Thunder Lotus",
+        "publisher": "Thunder Lotus, Kepler Ghost",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/958520/cb394a0b80c864bf75087390090dc212b3cbbc17/header_schinese.jpg?t=1781193618",
+        "steam_url": "https://store.steampowered.com/app/958520",
+        "trend": [
+          {
+            "date": "2026-06-13",
+            "peak": 5705
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 7070
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 7811
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 6097
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 5583
+          }
+        ]
+      }
+    }
+  ]
+}
