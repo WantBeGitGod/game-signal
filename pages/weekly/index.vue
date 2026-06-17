@@ -8,9 +8,9 @@
     <div v-if="manifest?.issues.length" class="weekly-shelf">
       <NuxtLink v-for="issue in manifest.issues" :key="issue.slug" :to="`/weekly/${issue.slug}`" class="weekly-cover-card">
         <span>第 {{ String(issue.issue_number).padStart(3, "0") }} 期</span>
-        <h2>{{ issue.week_start }} / {{ issue.week_end }}</h2>
+        <h2>{{ issue.title }}</h2>
         <p>{{ issue.summary }}</p>
-        <strong>{{ issue.published_at || "编辑中" }}</strong>
+        <strong>覆盖 {{ issue.week_start }} - {{ issue.week_end }}</strong>
       </NuxtLink>
     </div>
     <div v-else class="empty-state">

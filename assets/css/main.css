@@ -810,8 +810,9 @@ a {
 .weekly-cover-card h2 {
   margin: auto 0 14px;
   font-family: var(--serif);
-  font-size: clamp(32px, 4vw, 58px);
-  line-height: 1.05;
+  font-size: clamp(30px, 3.2vw, 48px);
+  line-height: 1.12;
+  overflow-wrap: anywhere;
 }
 
 .weekly-cover-card p {
@@ -838,6 +839,14 @@ a {
   margin: 0;
   font-size: 18px;
   font-weight: 700;
+}
+
+.weekly-issue-meta {
+  max-width: none;
+  margin: 0 0 18px;
+  font-family: var(--mono);
+  font-size: 13px;
+  font-weight: 900;
 }
 
 .weekly-deep-section,
@@ -880,6 +889,14 @@ a {
   padding: clamp(24px, 5vw, 70px);
 }
 
+.weekly-signal-topline {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(260px, 28%);
+  gap: 18px;
+  align-items: stretch;
+  margin-bottom: 18px;
+}
+
 .weekly-signal-meta {
   display: flex;
   flex-wrap: wrap;
@@ -897,6 +914,37 @@ a {
   border: 1px solid var(--line);
 }
 
+.weekly-case-cta {
+  display: grid;
+  min-height: 92px;
+  place-items: center;
+  padding: 16px;
+  border: 3px solid var(--blue);
+  background: var(--paper-bright);
+  color: var(--line);
+  font-family: var(--mono);
+  font-size: 14px;
+  font-weight: 900;
+  text-align: center;
+  text-decoration: none;
+  box-shadow: 7px 7px 0 var(--blue);
+}
+
+.weekly-case-cta:not(.is-disabled):hover {
+  background: var(--acid);
+  transform: translate(-2px, -2px);
+}
+
+.weekly-case-cta.is-disabled {
+  border-color: #8d8a7d;
+  color: #56544c;
+  box-shadow: 7px 7px 0 #c9c4b5;
+}
+
+.weekly-signal-title-row {
+  min-width: 0;
+}
+
 .weekly-signal-copy h2 {
   margin: 0 0 12px;
   font-family: var(--serif);
@@ -904,10 +952,25 @@ a {
   line-height: 1.05;
 }
 
+.weekly-game-description {
+  max-width: 880px;
+  margin: 0 0 18px;
+  color: #56544c;
+  font-size: 16px;
+  font-weight: 800;
+}
+
 .weekly-signal-copy > p {
   max-width: 900px;
   margin: 0 0 24px;
   font-weight: 700;
+}
+
+.weekly-signal-copy > .weekly-game-description,
+.weekly-watch-card > .weekly-game-description {
+  margin-bottom: 18px;
+  color: #56544c;
+  font-weight: 800;
 }
 
 .weekly-watch-grid {
@@ -1905,6 +1968,11 @@ a {
     overflow-wrap: anywhere;
   }
 
+  .weekly-issue-meta {
+    font-size: 11px;
+    overflow-wrap: anywhere;
+  }
+
   .weekly-watch-grid {
     grid-template-columns: 1fr;
   }
@@ -1926,6 +1994,16 @@ a {
     border-bottom: 2px solid var(--line);
   }
 
+  .weekly-signal-topline {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+
+  .weekly-case-cta {
+    min-height: 68px;
+    box-shadow: 5px 5px 0 currentColor;
+  }
+
   .weekly-signal-copy {
     overflow: hidden;
     padding: 22px 18px;
@@ -1943,6 +2021,7 @@ a {
   }
 
   .weekly-signal-copy > p,
+  .weekly-game-description,
   .weekly-watch-card p,
   .weekly-watch-card small {
     overflow-wrap: anywhere;

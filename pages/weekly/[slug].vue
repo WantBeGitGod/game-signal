@@ -3,6 +3,7 @@
     <header class="weekly-hero">
       <p class="eyebrow">GAME SIGNAL WEEKLY</p>
       <h1>{{ issue.title }}</h1>
+      <p class="weekly-issue-meta">第 {{ String(issue.issue_number).padStart(3, "0") }} 期 / 覆盖 {{ issue.week_start }} - {{ issue.week_end }}</p>
       <p>{{ issue.summary }}</p>
     </header>
     <section class="weekly-deep-section">
@@ -15,13 +16,20 @@
       <article v-for="signal in deepSignals" :key="signal.rank" class="weekly-signal-block">
         <div class="weekly-signal-rank">#{{ signal.rank }}</div>
         <div class="weekly-signal-copy">
-          <div class="weekly-signal-meta">
-            <span>{{ signal.label }}</span>
-            <span>{{ signal.score.toFixed(1) }} pts</span>
-            <NuxtLink v-if="hasPublishedCase(signal)" :to="`/cases/${signal.case_slug}`">深度案例</NuxtLink>
-            <span v-else-if="signal.case_slug">案例草稿中</span>
+          <div class="weekly-signal-topline">
+            <div class="weekly-signal-meta">
+              <span>{{ signal.label }}</span>
+              <span>{{ signal.score.toFixed(1) }} pts</span>
+            </div>
+            <NuxtLink v-if="hasPublishedCase(signal)" :to="`/cases/${signal.case_slug}`" class="weekly-case-cta">阅读深度案例</NuxtLink>
+            <span v-else-if="signal.case_slug" class="weekly-case-cta is-disabled">案例筹备中</span>
           </div>
-          <h2>{{ signal.game.name }}</h2>
+          <div class="weekly-signal-title-row">
+            <div>
+              <h2>{{ signal.game.name }}</h2>
+              <p class="weekly-game-description">{{ signalDescription(signal) }}</p>
+            </div>
+          </div>
           <p>{{ signal.selection_reason }}</p>
           <WeeklyChart
             v-if="charts[signal.game.appid || '']"
@@ -49,6 +57,7 @@
             <span>{{ signal.score.toFixed(1) }} pts</span>
           </div>
           <h3>{{ signal.game.name }}</h3>
+          <p class="weekly-game-description">{{ signalDescription(signal) }}</p>
           <p>{{ signal.selection_reason }}</p>
           <small>本周进入前五，但未被选为本期深度案例；保留曲线和基础事实，等待后续复核。</small>
           <WeeklyChart
@@ -87,5 +96,14 @@ for (const signal of (issue.value as WeeklyIssue).signals) {
 useSeoMeta({ title: issue.value.title, description: issue.value.summary })
 function hasPublishedCase(signal: WeeklyIssue["signals"][number]) {
   return Boolean(signal.case_slug && publishedCaseSlugs.value.has(signal.case_slug))
+}
+
+function signalDescription(signal: WeeklyIssue["signals"][number]) {
+  const text = signal.game.description?.replace(/\s+/g, " ").trim()
+  if (text) {
+    return text.length > 96 ? `${text.slice(0, 96)}...` : text
+  }
+  const studio = [signal.game.developer, signal.game.publisher].filter(Boolean).join(" / ")
+  return studio ? `${studio} 的 ${signal.label} 信号，值得继续观察发行节奏。` : `${signal.label} 信号，值得继续观察发行节奏。`
 }
 </script>
