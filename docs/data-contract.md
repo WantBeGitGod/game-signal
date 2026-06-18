@@ -9,7 +9,7 @@ The public repository receives reviewed publication data only. Raw SQLite files,
 - `public/data/scoring.json`: public snapshot of the current deterministic scoring weights and discounts.
 - `public/data/issues/YYYY-MM-DD.json`: one public `star_signal`, facts, scores, trends and source links. `main_signal` remains a compatibility alias for the star during the transition; `secondary_signals` is intentionally empty.
 - `public/data/weekly/manifest.json`: weekly issue archive and latest weekly pointer.
-- `public/data/weekly/<slug>.json`: one weekly issue with five signals, two selected deep case slots, three watch-table signals and chart JSON references. The weekly `title` is an editorial theme headline with game information, not the date range; `summary` names the two selected deep cases instead of describing automation. Use `week_start` and `week_end` for coverage dates and `published_at` only for publication time.
+- `public/data/weekly/<slug>.json`: one weekly issue with five signals, two selected deep case slots, three watch-table signals and chart JSON references. The weekly `title` is an editorial hook, not a date range or a repeat of the selected game names; `summary` names the two selected deep cases instead of describing automation. Use `week_start` and `week_end` for coverage dates and `published_at` only for publication time.
 - `public/data/charts/<appid>.json`: derived hour-level player curve, daily peaks and window peak from reviewed SteamDB chart imports.
 - `public/data/games/<slug>.json`: game metadata and the published trend series.
 - `content/cases/<slug>.md`: reviewed deep case.
