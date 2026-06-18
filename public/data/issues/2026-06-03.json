@@ -10,20 +10,31 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 102.26,
-    "fact_summary": "TBH: Task Bar Hero 今日观测峰值 215,879，较上一观测日变化 +22%，被识别为「新作起量」。",
+    "score": 58.58,
+    "fact_summary": "TBH: Task Bar Hero 今日观测峰值 215,879，较过往最高峰值提升 +22%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 215879,
       "previous_peak": 176259,
+      "previous_record_peak": 176259,
       "growth_rate": 0.2248,
-      "scoring_peak": 215879.0,
+      "record_growth_rate": 0.2248,
+      "scoring_peak": 215879,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "review_ratio": 51.0,
-      "review_total": 7927,
+      "peak_score": 35.0,
+      "record_growth_score": 7.87,
+      "days_seen_score": 5.71,
+      "signal_type_score": 10.0,
+      "score_before_multiplier": 58.58,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "review_ratio": 37.0,
+      "review_total": 16555,
       "days_seen": 4,
       "comeback_gap_days": 1,
       "is_new_release": true,
+      "release_age_days": 7,
+      "is_comeback_age": false,
       "genres": [
         "休闲",
         "独立",
@@ -77,9 +88,9 @@
         "Steam 云",
         "统计数据"
       ],
-      "review_score": "褒贬不一",
-      "review_ratio": 51.0,
-      "review_total": 7927,
+      "review_score": "多半差评",
+      "review_ratio": 37.0,
+      "review_total": 16555,
       "developer": "Nugem Studio, Tesseract Studio",
       "publisher": "Nugem Studio",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg?t=1780112834",
@@ -108,20 +119,31 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 102.26,
-    "fact_summary": "TBH: Task Bar Hero 今日观测峰值 215,879，较上一观测日变化 +22%，被识别为「新作起量」。",
+    "score": 58.58,
+    "fact_summary": "TBH: Task Bar Hero 今日观测峰值 215,879，较过往最高峰值提升 +22%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 215879,
       "previous_peak": 176259,
+      "previous_record_peak": 176259,
       "growth_rate": 0.2248,
-      "scoring_peak": 215879.0,
+      "record_growth_rate": 0.2248,
+      "scoring_peak": 215879,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "review_ratio": 51.0,
-      "review_total": 7927,
+      "peak_score": 35.0,
+      "record_growth_score": 7.87,
+      "days_seen_score": 5.71,
+      "signal_type_score": 10.0,
+      "score_before_multiplier": 58.58,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "review_ratio": 37.0,
+      "review_total": 16555,
       "days_seen": 4,
       "comeback_gap_days": 1,
       "is_new_release": true,
+      "release_age_days": 7,
+      "is_comeback_age": false,
       "genres": [
         "休闲",
         "独立",
@@ -175,9 +197,9 @@
         "Steam 云",
         "统计数据"
       ],
-      "review_score": "褒贬不一",
-      "review_ratio": 51.0,
-      "review_total": 7927,
+      "review_score": "多半差评",
+      "review_ratio": 37.0,
+      "review_total": 16555,
       "developer": "Nugem Studio, Tesseract Studio",
       "publisher": "Nugem Studio",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg?t=1780112834",
@@ -206,22 +228,124 @@
   "candidate_signals": [
     {
       "rank": 2,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 83.81,
-      "fact_summary": "Mina the Hollower 今日观测峰值 9,637，较上一观测日变化 -11%，被识别为「新作起量」。",
+      "type": "sustained_growth",
+      "label": "持续增长",
+      "score": 40.71,
+      "fact_summary": "Path of Exile 2 今日观测峰值 183,892，未超过过往最高峰值 289,896，被识别为「持续增长」。",
       "metrics": {
-        "current_peak": 9637,
-        "previous_peak": 10887,
-        "growth_rate": -0.1148,
-        "scoring_peak": 9637.0,
+        "current_peak": 183892,
+        "previous_peak": 289896,
+        "previous_record_peak": 289896,
+        "growth_rate": -0.3657,
+        "record_growth_rate": -0.3657,
+        "scoring_peak": 183892,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "review_ratio": 87.0,
-        "review_total": 3235,
+        "peak_score": 35.0,
+        "record_growth_score": 0.0,
+        "days_seen_score": 5.71,
+        "signal_type_score": 0.0,
+        "score_before_multiplier": 40.71,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 74.0,
+        "review_total": 213765,
+        "days_seen": 4,
+        "comeback_gap_days": 1,
+        "is_new_release": false,
+        "release_age_days": null,
+        "is_comeback_age": false,
+        "genres": [],
+        "trend": [
+          {
+            "date": "2026-05-31",
+            "peak": 289896
+          },
+          {
+            "date": "2026-06-01",
+            "peak": 205520
+          },
+          {
+            "date": "2026-06-02",
+            "peak": 187560
+          },
+          {
+            "date": "2026-06-03",
+            "peak": 183892
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2694490"
+        }
+      ],
+      "game": {
+        "slug": "path-of-exile-2",
+        "appid": "2694490",
+        "name": "Path of Exile 2",
+        "name_cn": null,
+        "description": "",
+        "release_date": "",
+        "genres": [],
+        "tags": [],
+        "review_score": "多半好评",
+        "review_ratio": 74.0,
+        "review_total": 213765,
+        "developer": "",
+        "publisher": "",
+        "cover_image_url": "",
+        "steam_url": "https://store.steampowered.com/app/2694490",
+        "trend": [
+          {
+            "date": "2026-05-31",
+            "peak": 289896
+          },
+          {
+            "date": "2026-06-01",
+            "peak": 205520
+          },
+          {
+            "date": "2026-06-02",
+            "peak": 187560
+          },
+          {
+            "date": "2026-06-03",
+            "peak": 183892
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 19.09,
+      "fact_summary": "Mina the Hollower 今日观测峰值 9,637，未超过过往最高峰值 12,916，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 9637,
+        "previous_peak": 12916,
+        "previous_record_peak": 12916,
+        "growth_rate": -0.2539,
+        "record_growth_rate": -0.2539,
+        "scoring_peak": 9637,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 3.37,
+        "record_growth_score": 0.0,
+        "days_seen_score": 5.71,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 19.09,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 88.0,
+        "review_total": 3824,
         "days_seen": 4,
         "comeback_gap_days": 1,
         "is_new_release": true,
+        "release_age_days": 6,
+        "is_comeback_age": false,
         "genres": [
           "动作",
           "冒险"
@@ -275,8 +399,8 @@
           "家庭共享"
         ],
         "review_score": "特别好评",
-        "review_ratio": 87.0,
-        "review_total": 3235,
+        "review_ratio": 88.0,
+        "review_total": 3824,
         "developer": "Yacht Club Games",
         "publisher": "Yacht Club Games",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875580/368fcff2cd8f5ef01c5a89060a49f9a333076a87/header.jpg?t=1780266529",
@@ -302,23 +426,34 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 77.32,
+      "score": 13.73,
       "fact_summary": "Fortune Mill 今日观测峰值 6,583，首次进入当前观察窗口，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 6583,
         "previous_peak": 0,
+        "previous_record_peak": 0,
         "growth_rate": 0.0,
-        "scoring_peak": 6583.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 6583,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "review_ratio": 78.0,
-        "review_total": 328,
+        "peak_score": 2.3,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 13.73,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 83.0,
+        "review_total": 1359,
         "days_seen": 1,
         "comeback_gap_days": 0,
         "is_new_release": true,
+        "release_age_days": 1,
+        "is_comeback_age": false,
         "genres": [
           "休闲",
           "独立",
@@ -355,12 +490,12 @@
           "Steam 云",
           "家庭共享"
         ],
-        "review_score": "多半好评",
-        "review_ratio": 78.0,
-        "review_total": 328,
+        "review_score": "特别好评",
+        "review_ratio": 83.0,
+        "review_total": 1359,
         "developer": "Lavaflame2",
         "publisher": "Lavaflame2",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1780416011",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1780959523",
         "steam_url": "https://store.steampowered.com/app/4731620",
         "trend": [
           {
@@ -371,23 +506,34 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 5,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 77.21,
+      "score": 13.68,
       "fact_summary": "Fatekeeper 今日观测峰值 6,442，首次进入当前观察窗口，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 6442,
         "previous_peak": 0,
+        "previous_record_peak": 0,
         "growth_rate": 0.0,
-        "scoring_peak": 6442.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 6442,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "review_ratio": 80.0,
-        "review_total": 1580,
+        "peak_score": 2.25,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 13.68,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 76.0,
+        "review_total": 3015,
         "days_seen": 1,
         "comeback_gap_days": 0,
         "is_new_release": true,
+        "release_age_days": 1,
+        "is_comeback_age": false,
         "genres": [
           "动作",
           "角色扮演",
@@ -424,8 +570,8 @@
           "家庭共享"
         ],
         "review_score": "多半好评",
-        "review_ratio": 80.0,
-        "review_total": 1580,
+        "review_ratio": 76.0,
+        "review_total": 3015,
         "developer": "Paraglacial",
         "publisher": "THQ Nordic",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186990/4a98bac064656da89ddf8dedee1acd39405cac14/header_alt_assets_0.jpg?t=1780424266",
@@ -434,66 +580,6 @@
           {
             "date": "2026-06-03",
             "peak": 6442
-          }
-        ]
-      }
-    },
-    {
-      "rank": 5,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 76.49,
-      "fact_summary": "Onimusha: Way of the Sword DEMO 今日观测峰值 5,607，首次进入当前观察窗口，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 5607,
-        "previous_peak": 0,
-        "growth_rate": 0.0,
-        "scoring_peak": 5607.0,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "review_ratio": null,
-        "review_total": 0,
-        "days_seen": 1,
-        "comeback_gap_days": 0,
-        "is_new_release": true,
-        "genres": [],
-        "trend": [
-          {
-            "date": "2026-06-03",
-            "peak": 5607
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/3974650"
-        }
-      ],
-      "game": {
-        "slug": "onimusha-way-of-the-sword-demo",
-        "appid": "3974650",
-        "name": "Onimusha: Way of the Sword DEMO",
-        "name_cn": null,
-        "description": "",
-        "release_date": "2026-06-02",
-        "genres": [],
-        "tags": [
-          "单人",
-          "游戏试用版",
-          "完全支持控制器"
-        ],
-        "review_score": "暂无评价",
-        "review_ratio": null,
-        "review_total": 0,
-        "developer": "CAPCOM Co., Ltd.",
-        "publisher": "CAPCOM Co., Ltd.",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3974650/67c0395623cb98c44b829bf62a570b0553066ac5/header.jpg?t=1780438850",
-        "steam_url": "https://store.steampowered.com/app/3974650",
-        "trend": [
-          {
-            "date": "2026-06-03",
-            "peak": 5607
           }
         ]
       }

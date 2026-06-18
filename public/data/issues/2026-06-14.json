@@ -8,10 +8,10 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "sustained_growth",
-    "label": "持续增长",
-    "score": 48.03,
-    "fact_summary": "Destiny 2 今日观测峰值 77,196，较过往最高峰值提升 +31%，被识别为「持续增长」。",
+    "type": "comeback",
+    "label": "老游戏回归",
+    "score": 46.03,
+    "fact_summary": "Destiny 2 今日观测峰值 77,196，较过往最高峰值提升 +31%，被识别为「老游戏回归」。",
     "metrics": {
       "current_peak": 77196,
       "previous_peak": 59091,
@@ -24,8 +24,8 @@
       "peak_score": 27.02,
       "record_growth_score": 10.72,
       "days_seen_score": 4.29,
-      "signal_type_score": 6.0,
-      "score_before_multiplier": 48.03,
+      "signal_type_score": 4.0,
+      "score_before_multiplier": 46.03,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "review_ratio": 78.0,
@@ -33,6 +33,8 @@
       "days_seen": 3,
       "comeback_gap_days": 3,
       "is_new_release": false,
+      "release_age_days": 2448,
+      "is_comeback_age": true,
       "genres": [
         "动作",
         "冒险",
@@ -53,10 +55,15 @@
         }
       ]
     },
-    "sources": [],
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1085660"
+      }
+    ],
     "game": {
       "slug": "destiny-2",
-      "appid": null,
+      "appid": "1085660",
       "name": "Destiny 2",
       "name_cn": null,
       "description": "在《命运2》中探索太阳系的奥秘，体验精彩刺激的第一人称射击战斗。在剧情任务、合作和PvP模式中解锁强大能力并收集独特装备。",
@@ -70,10 +77,10 @@
       "review_score": "多半好评",
       "review_ratio": 78.0,
       "review_total": 654913,
-      "developer": null,
-      "publisher": null,
-      "cover_image_url": null,
-      "steam_url": null,
+      "developer": "Bungie",
+      "publisher": "Bungie",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781045588",
+      "steam_url": "https://store.steampowered.com/app/1085660",
       "trend": [
         {
           "date": "2026-06-10",
@@ -92,10 +99,10 @@
   },
   "main_signal": {
     "rank": 1,
-    "type": "sustained_growth",
-    "label": "持续增长",
-    "score": 48.03,
-    "fact_summary": "Destiny 2 今日观测峰值 77,196，较过往最高峰值提升 +31%，被识别为「持续增长」。",
+    "type": "comeback",
+    "label": "老游戏回归",
+    "score": 46.03,
+    "fact_summary": "Destiny 2 今日观测峰值 77,196，较过往最高峰值提升 +31%，被识别为「老游戏回归」。",
     "metrics": {
       "current_peak": 77196,
       "previous_peak": 59091,
@@ -108,8 +115,8 @@
       "peak_score": 27.02,
       "record_growth_score": 10.72,
       "days_seen_score": 4.29,
-      "signal_type_score": 6.0,
-      "score_before_multiplier": 48.03,
+      "signal_type_score": 4.0,
+      "score_before_multiplier": 46.03,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "review_ratio": 78.0,
@@ -117,6 +124,8 @@
       "days_seen": 3,
       "comeback_gap_days": 3,
       "is_new_release": false,
+      "release_age_days": 2448,
+      "is_comeback_age": true,
       "genres": [
         "动作",
         "冒险",
@@ -137,10 +146,15 @@
         }
       ]
     },
-    "sources": [],
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1085660"
+      }
+    ],
     "game": {
       "slug": "destiny-2",
-      "appid": null,
+      "appid": "1085660",
       "name": "Destiny 2",
       "name_cn": null,
       "description": "在《命运2》中探索太阳系的奥秘，体验精彩刺激的第一人称射击战斗。在剧情任务、合作和PvP模式中解锁强大能力并收集独特装备。",
@@ -154,10 +168,10 @@
       "review_score": "多半好评",
       "review_ratio": 78.0,
       "review_total": 654913,
-      "developer": null,
-      "publisher": null,
-      "cover_image_url": null,
-      "steam_url": null,
+      "developer": "Bungie",
+      "publisher": "Bungie",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781045588",
+      "steam_url": "https://store.steampowered.com/app/1085660",
       "trend": [
         {
           "date": "2026-06-10",
@@ -200,11 +214,13 @@
         "score_multiplier_reasons": [
           "yesterday_star"
         ],
-        "review_ratio": 77.0,
-        "review_total": 3358,
+        "review_ratio": 80.0,
+        "review_total": 7312,
         "days_seen": 4,
         "comeback_gap_days": 2,
         "is_new_release": true,
+        "release_age_days": 5,
+        "is_comeback_age": false,
         "genres": [
           "休闲"
         ],
@@ -254,9 +270,9 @@
           "环绕声",
           "家庭共享"
         ],
-        "review_score": "多半好评",
-        "review_ratio": 77.0,
-        "review_total": 3358,
+        "review_score": "Very Positive",
+        "review_ratio": 80.0,
+        "review_total": 7312,
         "developer": "lemorion_1224",
         "publisher": "lemorion_1224",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
@@ -304,10 +320,12 @@
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
         "review_ratio": 79.0,
-        "review_total": 11533,
+        "review_total": 11757,
         "days_seen": 3,
         "comeback_gap_days": 2,
         "is_new_release": true,
+        "release_age_days": 4,
+        "is_comeback_age": false,
         "genres": [
           "动作",
           "冒险",
@@ -363,9 +381,9 @@
           "远程同乐",
           "家庭共享"
         ],
-        "review_score": "多半好评",
+        "review_score": "Mostly Positive",
         "review_ratio": 79.0,
-        "review_total": 11533,
+        "review_total": 11757,
         "developer": "Hunter Studio",
         "publisher": "Hunter Studio",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781171074",
@@ -408,11 +426,13 @@
         "score_before_multiplier": 24.38,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "review_ratio": 72.0,
-        "review_total": 784,
+        "review_ratio": 71.0,
+        "review_total": 1165,
         "days_seen": 2,
         "comeback_gap_days": 1,
         "is_new_release": true,
+        "release_age_days": 3,
+        "is_comeback_age": false,
         "genres": [
           "冒险",
           "独立",
@@ -459,9 +479,9 @@
           "在线合作",
           "应用内购买"
         ],
-        "review_score": "多半好评",
-        "review_ratio": 72.0,
-        "review_total": 784,
+        "review_score": "Mostly Positive",
+        "review_ratio": 71.0,
+        "review_total": 1165,
         "developer": "Shiro Games",
         "publisher": "Shiro Games",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3276050/5c3fb496686b81ad694e250a3ac6707bde7372db/header_alt_assets_1_schinese.jpg?t=1781191112",
@@ -500,11 +520,13 @@
         "score_before_multiplier": 23.71,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "review_ratio": 79.0,
-        "review_total": 754,
+        "review_ratio": 77.0,
+        "review_total": 1390,
         "days_seen": 2,
         "comeback_gap_days": 1,
         "is_new_release": true,
+        "release_age_days": 4,
+        "is_comeback_age": false,
         "genres": [
           "动作",
           "独立",
@@ -553,9 +575,9 @@
           "立体声",
           "家庭共享"
         ],
-        "review_score": "暂无评价",
-        "review_ratio": 79.0,
-        "review_total": 754,
+        "review_score": "Mostly Positive",
+        "review_ratio": 77.0,
+        "review_total": 1390,
         "developer": "Thunder Lotus",
         "publisher": "Thunder Lotus, Kepler Ghost",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/958520/cb394a0b80c864bf75087390090dc212b3cbbc17/header_schinese.jpg?t=1781193618",

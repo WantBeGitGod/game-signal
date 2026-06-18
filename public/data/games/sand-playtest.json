@@ -7,14 +7,26 @@
   "release_date": "2026-05-14",
   "genres": [],
   "tags": [],
-  "review_score": "Mixed",
+  "review_score": "褒贬不一",
   "review_ratio": 57.0,
-  "review_total": 705,
+  "review_total": 673,
   "developer": "",
   "publisher": "",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2981610/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1780658196",
   "steam_url": "https://store.steampowered.com/app/2981610",
   "trend": [
+    {
+      "date": "2026-06-06",
+      "peak": 4904
+    },
+    {
+      "date": "2026-06-07",
+      "peak": 8010
+    },
+    {
+      "date": "2026-06-08",
+      "peak": 4952
+    },
     {
       "date": "2026-06-09",
       "peak": 6731

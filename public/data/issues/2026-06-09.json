@@ -10,25 +10,48 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 89.79,
-    "fact_summary": "Gothic 1 Remake 今日观测峰值 71,991，首次进入当前观察窗口，被识别为「新作起量」。",
+    "score": 40.91,
+    "fact_summary": "Gothic 1 Remake 今日观测峰值 71,991，未超过过往最高峰值 77,731，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 71991,
-      "previous_peak": 0,
-      "growth_rate": 0.0,
-      "scoring_peak": 71991.0,
+      "previous_peak": 77731,
+      "previous_record_peak": 77731,
+      "growth_rate": -0.0738,
+      "record_growth_rate": -0.0738,
+      "scoring_peak": 71991,
       "player_discount": 1.0,
       "discount_reasons": [],
+      "peak_score": 25.2,
+      "record_growth_score": 0.0,
+      "days_seen_score": 5.71,
+      "signal_type_score": 10.0,
+      "score_before_multiplier": 40.91,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
       "review_ratio": 85.0,
-      "review_total": 11572,
-      "days_seen": 1,
+      "review_total": 13512,
+      "days_seen": 4,
       "comeback_gap_days": 0,
       "is_new_release": true,
+      "release_age_days": 4,
+      "is_comeback_age": false,
       "genres": [
         "动作",
         "角色扮演"
       ],
       "trend": [
+        {
+          "date": "2026-06-06",
+          "peak": 60935
+        },
+        {
+          "date": "2026-06-07",
+          "peak": 63109
+        },
+        {
+          "date": "2026-06-08",
+          "peak": 77731
+        },
         {
           "date": "2026-06-09",
           "peak": 71991
@@ -68,14 +91,26 @@
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
+      "review_score": "暂无评价",
       "review_ratio": 85.0,
-      "review_total": 11572,
+      "review_total": 13512,
       "developer": "Alkimia Interactive",
       "publisher": "Alkimia Interactive, THQ Nordic",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1780965412",
       "steam_url": "https://store.steampowered.com/app/1297900",
       "trend": [
+        {
+          "date": "2026-06-06",
+          "peak": 60935
+        },
+        {
+          "date": "2026-06-07",
+          "peak": 63109
+        },
+        {
+          "date": "2026-06-08",
+          "peak": 77731
+        },
         {
           "date": "2026-06-09",
           "peak": 71991
@@ -87,25 +122,48 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 89.79,
-    "fact_summary": "Gothic 1 Remake 今日观测峰值 71,991，首次进入当前观察窗口，被识别为「新作起量」。",
+    "score": 40.91,
+    "fact_summary": "Gothic 1 Remake 今日观测峰值 71,991，未超过过往最高峰值 77,731，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 71991,
-      "previous_peak": 0,
-      "growth_rate": 0.0,
-      "scoring_peak": 71991.0,
+      "previous_peak": 77731,
+      "previous_record_peak": 77731,
+      "growth_rate": -0.0738,
+      "record_growth_rate": -0.0738,
+      "scoring_peak": 71991,
       "player_discount": 1.0,
       "discount_reasons": [],
+      "peak_score": 25.2,
+      "record_growth_score": 0.0,
+      "days_seen_score": 5.71,
+      "signal_type_score": 10.0,
+      "score_before_multiplier": 40.91,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
       "review_ratio": 85.0,
-      "review_total": 11572,
-      "days_seen": 1,
+      "review_total": 13512,
+      "days_seen": 4,
       "comeback_gap_days": 0,
       "is_new_release": true,
+      "release_age_days": 4,
+      "is_comeback_age": false,
       "genres": [
         "动作",
         "角色扮演"
       ],
       "trend": [
+        {
+          "date": "2026-06-06",
+          "peak": 60935
+        },
+        {
+          "date": "2026-06-07",
+          "peak": 63109
+        },
+        {
+          "date": "2026-06-08",
+          "peak": 77731
+        },
         {
           "date": "2026-06-09",
           "peak": 71991
@@ -145,14 +203,26 @@
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
+      "review_score": "暂无评价",
       "review_ratio": 85.0,
-      "review_total": 11572,
+      "review_total": 13512,
       "developer": "Alkimia Interactive",
       "publisher": "Alkimia Interactive, THQ Nordic",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1780965412",
       "steam_url": "https://store.steampowered.com/app/1297900",
       "trend": [
+        {
+          "date": "2026-06-06",
+          "peak": 60935
+        },
+        {
+          "date": "2026-06-07",
+          "peak": 63109
+        },
+        {
+          "date": "2026-06-08",
+          "peak": 77731
+        },
         {
           "date": "2026-06-09",
           "peak": 71991
@@ -166,20 +236,373 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 79.6,
+      "score": 22.22,
+      "fact_summary": "Fortune Mill 今日观测峰值 6,357，未超过过往最高峰值 7,933，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 6357,
+        "previous_peak": 7933,
+        "previous_record_peak": 7933,
+        "growth_rate": -0.1987,
+        "record_growth_rate": -0.1987,
+        "scoring_peak": 6357,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 2.22,
+        "record_growth_score": 0.0,
+        "days_seen_score": 10.0,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 22.22,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 83.0,
+        "review_total": 1359,
+        "days_seen": 7,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 7,
+        "is_comeback_age": false,
+        "genres": [
+          "休闲",
+          "独立",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-03",
+            "peak": 6583
+          },
+          {
+            "date": "2026-06-04",
+            "peak": 6129
+          },
+          {
+            "date": "2026-06-05",
+            "peak": 5652
+          },
+          {
+            "date": "2026-06-06",
+            "peak": 6090
+          },
+          {
+            "date": "2026-06-07",
+            "peak": 7933
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 7756
+          },
+          {
+            "date": "2026-06-09",
+            "peak": 6357
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4731620"
+        }
+      ],
+      "game": {
+        "slug": "fortune-mill",
+        "appid": "4731620",
+        "name": "Fortune Mill",
+        "name_cn": null,
+        "description": "在这款增量游戏中，你必须在每个房间赚到$1,000,000才能逃出该房间。投掷飞镖、玩刮刮乐彩票、解锁自动化，并谨慎选择升级，因为每个房间都会影响所有其他房间。你能逃出财富磨坊吗？",
+        "release_date": "2026-06-02",
+        "genres": [
+          "休闲",
+          "独立",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "特别好评",
+        "review_ratio": 83.0,
+        "review_total": 1359,
+        "developer": "Lavaflame2",
+        "publisher": "Lavaflame2",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1780959523",
+        "steam_url": "https://store.steampowered.com/app/4731620",
+        "trend": [
+          {
+            "date": "2026-06-03",
+            "peak": 6583
+          },
+          {
+            "date": "2026-06-04",
+            "peak": 6129
+          },
+          {
+            "date": "2026-06-05",
+            "peak": 5652
+          },
+          {
+            "date": "2026-06-06",
+            "peak": 6090
+          },
+          {
+            "date": "2026-06-07",
+            "peak": 7933
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 7756
+          },
+          {
+            "date": "2026-06-09",
+            "peak": 6357
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 19.13,
+      "fact_summary": "GOALS 今日观测峰值 5,683，未超过过往最高峰值 8,659，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 5683,
+        "previous_peak": 8659,
+        "previous_record_peak": 8659,
+        "growth_rate": -0.3437,
+        "record_growth_rate": -0.3437,
+        "scoring_peak": 5683,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 1.99,
+        "record_growth_score": 0.0,
+        "days_seen_score": 7.14,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 19.13,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 41.0,
+        "review_total": 2640,
+        "days_seen": 5,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 5,
+        "is_comeback_age": false,
+        "genres": [
+          "动作",
+          "冒险",
+          "休闲",
+          "模拟",
+          "体育",
+          "免费"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-05",
+            "peak": 8546
+          },
+          {
+            "date": "2026-06-06",
+            "peak": 8659
+          },
+          {
+            "date": "2026-06-07",
+            "peak": 6905
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 6860
+          },
+          {
+            "date": "2026-06-09",
+            "peak": 5683
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2753000"
+        }
+      ],
+      "game": {
+        "slug": "goals",
+        "appid": "2753000",
+        "name": "GOALS",
+        "name_cn": null,
+        "description": "GOALS是一款快节奏、反应灵敏的足球游戏，为纯粹技术、真实竞技和全球玩家社区而生。玩法至上，免费畅玩，跨平台联机，每位球员都独一无二。没有借口——只有足球！",
+        "release_date": "2026-06-04",
+        "genres": [
+          "动作",
+          "冒险",
+          "休闲",
+          "模拟",
+          "体育",
+          "免费"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "玩家对战",
+          "线上玩家对战",
+          "跨平台多人",
+          "完全支持控制器",
+          "应用内购买",
+          "可选颜色",
+          "自定义音量控制"
+        ],
+        "review_score": "褒贬不一",
+        "review_ratio": 41.0,
+        "review_total": 2640,
+        "developer": "GOALS ",
+        "publisher": "GOALS ",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753000/405d7345805bd5bf1bfb6126edb233266fe3db61/header.jpg?t=1780765647",
+        "steam_url": "https://store.steampowered.com/app/2753000",
+        "trend": [
+          {
+            "date": "2026-06-05",
+            "peak": 8546
+          },
+          {
+            "date": "2026-06-06",
+            "peak": 8659
+          },
+          {
+            "date": "2026-06-07",
+            "peak": 6905
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 6860
+          },
+          {
+            "date": "2026-06-09",
+            "peak": 5683
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 18.07,
+      "fact_summary": "Sand Playtest 今日观测峰值 6,731，未超过过往最高峰值 8,010，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 6731,
+        "previous_peak": 8010,
+        "previous_record_peak": 8010,
+        "growth_rate": -0.1597,
+        "record_growth_rate": -0.1597,
+        "scoring_peak": 6731,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 2.36,
+        "record_growth_score": 0.0,
+        "days_seen_score": 5.71,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 18.07,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 57.0,
+        "review_total": 673,
+        "days_seen": 4,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "release_age_days": 26,
+        "is_comeback_age": false,
+        "genres": [],
+        "trend": [
+          {
+            "date": "2026-06-06",
+            "peak": 4904
+          },
+          {
+            "date": "2026-06-07",
+            "peak": 8010
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 4952
+          },
+          {
+            "date": "2026-06-09",
+            "peak": 6731
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2981610"
+        }
+      ],
+      "game": {
+        "slug": "sand-playtest",
+        "appid": "2981610",
+        "name": "Sand Playtest",
+        "name_cn": null,
+        "description": "",
+        "release_date": "2026-05-14",
+        "genres": [],
+        "tags": [],
+        "review_score": "褒贬不一",
+        "review_ratio": 57.0,
+        "review_total": 673,
+        "developer": "",
+        "publisher": "",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2981610/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1780658196",
+        "steam_url": "https://store.steampowered.com/app/2981610",
+        "trend": [
+          {
+            "date": "2026-06-06",
+            "peak": 4904
+          },
+          {
+            "date": "2026-06-07",
+            "peak": 8010
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 4952
+          },
+          {
+            "date": "2026-06-09",
+            "peak": 6731
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 15.0,
       "fact_summary": "Solarpunk 今日观测峰值 10,192，首次进入当前观察窗口，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 10192,
         "previous_peak": 0,
+        "previous_record_peak": 0,
         "growth_rate": 0.0,
-        "scoring_peak": 10192.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 10192,
         "player_discount": 1.0,
         "discount_reasons": [],
+        "peak_score": 3.57,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 15.0,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
         "review_ratio": 79.0,
-        "review_total": 363,
+        "review_total": 1777,
         "days_seen": 1,
         "comeback_gap_days": 0,
         "is_new_release": true,
+        "release_age_days": 1,
+        "is_comeback_age": false,
         "genres": [
           "冒险",
           "独立",
@@ -225,7 +648,7 @@
         ],
         "review_score": "Mostly Positive",
         "review_ratio": 79.0,
-        "review_total": 363,
+        "review_total": 1777,
         "developer": "Cyberwave",
         "publisher": "rokaplay, Metaroot",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1780935129",
@@ -234,219 +657,6 @@
           {
             "date": "2026-06-09",
             "peak": 10192
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 78.64,
-      "fact_summary": "Fortune Mill 今日观测峰值 6,357，较上一观测日变化 -3%，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 6357,
-        "previous_peak": 6583,
-        "growth_rate": -0.0343,
-        "scoring_peak": 6357.0,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "review_ratio": 83.0,
-        "review_total": 1418,
-        "days_seen": 2,
-        "comeback_gap_days": 5,
-        "is_new_release": true,
-        "genres": [
-          "休闲",
-          "独立",
-          "模拟"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-03",
-            "peak": 6583
-          },
-          {
-            "date": "2026-06-09",
-            "peak": 6357
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/4731620"
-        }
-      ],
-      "game": {
-        "slug": "fortune-mill",
-        "appid": "4731620",
-        "name": "Fortune Mill",
-        "name_cn": null,
-        "description": "在这款增量游戏中，你必须在每个房间赚到$1,000,000才能逃出该房间。投掷飞镖、玩刮刮乐彩票、解锁自动化，并谨慎选择升级，因为每个房间都会影响所有其他房间。你能逃出财富磨坊吗？",
-        "release_date": "2026-06-02",
-        "genres": [
-          "休闲",
-          "独立",
-          "模拟"
-        ],
-        "tags": [
-          "单人",
-          "Steam 成就",
-          "Steam 云",
-          "家庭共享"
-        ],
-        "review_score": "Very Positive",
-        "review_ratio": 83.0,
-        "review_total": 1418,
-        "developer": "Lavaflame2",
-        "publisher": "Lavaflame2",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1780959523",
-        "steam_url": "https://store.steampowered.com/app/4731620",
-        "trend": [
-          {
-            "date": "2026-06-03",
-            "peak": 6583
-          },
-          {
-            "date": "2026-06-09",
-            "peak": 6357
-          }
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 77.44,
-      "fact_summary": "Sand Playtest 今日观测峰值 6,731，首次进入当前观察窗口，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 6731,
-        "previous_peak": 0,
-        "growth_rate": 0.0,
-        "scoring_peak": 6731.0,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "review_ratio": 57.0,
-        "review_total": 705,
-        "days_seen": 1,
-        "comeback_gap_days": 0,
-        "is_new_release": true,
-        "genres": [],
-        "trend": [
-          {
-            "date": "2026-06-09",
-            "peak": 6731
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/2981610"
-        }
-      ],
-      "game": {
-        "slug": "sand-playtest",
-        "appid": "2981610",
-        "name": "Sand Playtest",
-        "name_cn": null,
-        "description": "",
-        "release_date": "2026-05-14",
-        "genres": [],
-        "tags": [],
-        "review_score": "Mixed",
-        "review_ratio": 57.0,
-        "review_total": 705,
-        "developer": "",
-        "publisher": "",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2981610/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1780658196",
-        "steam_url": "https://store.steampowered.com/app/2981610",
-        "trend": [
-          {
-            "date": "2026-06-09",
-            "peak": 6731
-          }
-        ]
-      }
-    },
-    {
-      "rank": 5,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 76.56,
-      "fact_summary": "GOALS 今日观测峰值 5,683，首次进入当前观察窗口，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 5683,
-        "previous_peak": 0,
-        "growth_rate": 0.0,
-        "scoring_peak": 5683.0,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "review_ratio": 40.0,
-        "review_total": 2873,
-        "days_seen": 1,
-        "comeback_gap_days": 0,
-        "is_new_release": true,
-        "genres": [
-          "动作",
-          "冒险",
-          "休闲",
-          "模拟",
-          "体育",
-          "免费"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-09",
-            "peak": 5683
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/2753000"
-        }
-      ],
-      "game": {
-        "slug": "goals",
-        "appid": "2753000",
-        "name": "GOALS",
-        "name_cn": null,
-        "description": "GOALS是一款快节奏、反应灵敏的足球游戏，为纯粹技术、真实竞技和全球玩家社区而生。玩法至上，免费畅玩，跨平台联机，每位球员都独一无二。没有借口——只有足球！",
-        "release_date": "2026-06-04",
-        "genres": [
-          "动作",
-          "冒险",
-          "休闲",
-          "模拟",
-          "体育",
-          "免费"
-        ],
-        "tags": [
-          "单人",
-          "多人",
-          "玩家对战",
-          "线上玩家对战",
-          "跨平台多人",
-          "完全支持控制器",
-          "应用内购买",
-          "可选颜色",
-          "自定义音量控制"
-        ],
-        "review_score": "Mixed",
-        "review_ratio": 40.0,
-        "review_total": 2873,
-        "developer": "GOALS ",
-        "publisher": "GOALS ",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2753000/405d7345805bd5bf1bfb6126edb233266fe3db61/header.jpg?t=1780765647",
-        "steam_url": "https://store.steampowered.com/app/2753000",
-        "trend": [
-          {
-            "date": "2026-06-09",
-            "peak": 5683
           }
         ]
       }

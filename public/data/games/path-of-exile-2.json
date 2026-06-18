@@ -1,0 +1,35 @@
+{
+  "slug": "path-of-exile-2",
+  "appid": "2694490",
+  "name": "Path of Exile 2",
+  "name_cn": null,
+  "description": "",
+  "release_date": "",
+  "genres": [],
+  "tags": [],
+  "review_score": "多半好评",
+  "review_ratio": 74.0,
+  "review_total": 213765,
+  "developer": "",
+  "publisher": "",
+  "cover_image_url": "",
+  "steam_url": "https://store.steampowered.com/app/2694490",
+  "trend": [
+    {
+      "date": "2026-05-31",
+      "peak": 289896
+    },
+    {
+      "date": "2026-06-01",
+      "peak": 205520
+    },
+    {
+      "date": "2026-06-02",
+      "peak": 187560
+    },
+    {
+      "date": "2026-06-03",
+      "peak": 183892
+    }
+  ]
+}

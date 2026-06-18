@@ -1,6 +1,6 @@
 {
   "slug": "destiny-2",
-  "appid": null,
+  "appid": "1085660",
   "name": "Destiny 2",
   "name_cn": null,
   "description": "在《命运2》中探索太阳系的奥秘，体验精彩刺激的第一人称射击战斗。在剧情任务、合作和PvP模式中解锁强大能力并收集独特装备。",
@@ -14,10 +14,10 @@
   "review_score": "多半好评",
   "review_ratio": 78.0,
   "review_total": 654913,
-  "developer": null,
-  "publisher": null,
-  "cover_image_url": null,
-  "steam_url": null,
+  "developer": "Bungie",
+  "publisher": "Bungie",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781045588",
+  "steam_url": "https://store.steampowered.com/app/1085660",
   "trend": [
     {
       "date": "2026-06-10",

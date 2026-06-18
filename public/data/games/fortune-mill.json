@@ -16,9 +16,9 @@
     "Steam 云",
     "家庭共享"
   ],
-  "review_score": "Very Positive",
+  "review_score": "特别好评",
   "review_ratio": 83.0,
-  "review_total": 1418,
+  "review_total": 1359,
   "developer": "Lavaflame2",
   "publisher": "Lavaflame2",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1780959523",
@@ -27,6 +27,26 @@
     {
       "date": "2026-06-03",
       "peak": 6583
+    },
+    {
+      "date": "2026-06-04",
+      "peak": 6129
+    },
+    {
+      "date": "2026-06-05",
+      "peak": 5652
+    },
+    {
+      "date": "2026-06-06",
+      "peak": 6090
+    },
+    {
+      "date": "2026-06-07",
+      "peak": 7933
+    },
+    {
+      "date": "2026-06-08",
+      "peak": 7756
     },
     {
       "date": "2026-06-09",

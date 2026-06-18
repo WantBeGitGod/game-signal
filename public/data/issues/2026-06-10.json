@@ -35,6 +35,8 @@
       "days_seen": 5,
       "comeback_gap_days": 1,
       "is_new_release": true,
+      "release_age_days": 5,
+      "is_comeback_age": false,
       "genres": [
         "动作",
         "角色扮演"
@@ -95,7 +97,7 @@
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "特别好评",
+      "review_score": "暂无评价",
       "review_ratio": 85.0,
       "review_total": 13512,
       "developer": "Alkimia Interactive",
@@ -155,6 +157,8 @@
       "days_seen": 5,
       "comeback_gap_days": 1,
       "is_new_release": true,
+      "release_age_days": 5,
+      "is_comeback_age": false,
       "genres": [
         "动作",
         "角色扮演"
@@ -215,7 +219,7 @@
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "特别好评",
+      "review_score": "暂无评价",
       "review_ratio": 85.0,
       "review_total": 13512,
       "developer": "Alkimia Interactive",
@@ -275,6 +279,8 @@
         "days_seen": 1,
         "comeback_gap_days": 0,
         "is_new_release": false,
+        "release_age_days": 2444,
+        "is_comeback_age": true,
         "genres": [
           "动作",
           "冒险",
@@ -301,7 +307,7 @@
           "免费"
         ],
         "tags": [],
-        "review_score": "暂无评价",
+        "review_score": "多半好评",
         "review_ratio": 78.0,
         "review_total": 654913,
         "developer": null,
@@ -338,11 +344,13 @@
         "score_before_multiplier": 21.46,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "review_ratio": 73.0,
-        "review_total": 1558,
+        "review_ratio": 82.0,
+        "review_total": 5738,
         "days_seen": 1,
         "comeback_gap_days": 0,
         "is_new_release": true,
+        "release_age_days": 2,
+        "is_comeback_age": false,
         "genres": [
           "冒险",
           "休闲",
@@ -383,9 +391,9 @@
           "应用内购买",
           "家庭共享"
         ],
-        "review_score": "多半好评",
-        "review_ratio": 73.0,
-        "review_total": 1558,
+        "review_score": "Very Positive",
+        "review_ratio": 82.0,
+        "review_total": 5738,
         "developer": " New One Studio",
         "publisher": " New One Studio, Ariel",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781165139",
@@ -400,114 +408,6 @@
     },
     {
       "rank": 4,
-      "type": "sustained_growth",
-      "label": "持续增长",
-      "score": 17.72,
-      "fact_summary": "Sons Of The Forest 今日观测峰值 17,168，未超过过往最高峰值 23,636，被识别为「持续增长」。",
-      "metrics": {
-        "current_peak": 17168,
-        "previous_peak": 23636,
-        "previous_record_peak": 23636,
-        "growth_rate": -0.2737,
-        "record_growth_rate": -0.2737,
-        "scoring_peak": 17168,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 6.01,
-        "record_growth_score": 0.0,
-        "days_seen_score": 5.71,
-        "signal_type_score": 6.0,
-        "score_before_multiplier": 17.72,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "review_ratio": 88.0,
-        "review_total": 306461,
-        "days_seen": 4,
-        "comeback_gap_days": 1,
-        "is_new_release": false,
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "模拟"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-07",
-            "peak": 23636
-          },
-          {
-            "date": "2026-06-08",
-            "peak": 15988
-          },
-          {
-            "date": "2026-06-09",
-            "peak": 16827
-          },
-          {
-            "date": "2026-06-10",
-            "peak": 17168
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/1326470"
-        }
-      ],
-      "game": {
-        "slug": "sons-of-the-forest",
-        "appid": "1326470",
-        "name": "Sons Of The Forest",
-        "name_cn": null,
-        "description": "你被派到了一座孤岛上，寻找一位失踪的亿万富翁，结果却发现自己深陷被食人生物占领的炼狱之地。你需要制作工具和武器、建造房屋，倾尽全力生存下去，无论独自一人还是与朋友一起——一切尽在这款新推出的开放世界恐怖生存模拟游戏中。",
-        "release_date": "2024-02-22",
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "模拟"
-        ],
-        "tags": [
-          "单人",
-          "多人",
-          "合作",
-          "在线合作",
-          "Steam 成就",
-          "完全支持控制器",
-          "Steam 云",
-          "家庭共享"
-        ],
-        "review_score": "暂无评价",
-        "review_ratio": 88.0,
-        "review_total": 306461,
-        "developer": "Endnight Games Ltd",
-        "publisher": "Newnight ",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
-        "steam_url": "https://store.steampowered.com/app/1326470",
-        "trend": [
-          {
-            "date": "2026-06-07",
-            "peak": 23636
-          },
-          {
-            "date": "2026-06-08",
-            "peak": 15988
-          },
-          {
-            "date": "2026-06-09",
-            "peak": 16827
-          },
-          {
-            "date": "2026-06-10",
-            "peak": 17168
-          }
-        ]
-      }
-    },
-    {
-      "rank": 5,
       "type": "new_release_rise",
       "label": "新作起量",
       "score": 16.96,
@@ -528,11 +428,13 @@
         "score_before_multiplier": 16.96,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "review_ratio": 83.0,
-        "review_total": 381,
+        "review_ratio": 80.0,
+        "review_total": 7312,
         "days_seen": 1,
         "comeback_gap_days": 0,
         "is_new_release": true,
+        "release_age_days": 1,
+        "is_comeback_age": false,
         "genres": [
           "休闲"
         ],
@@ -570,9 +472,9 @@
           "环绕声",
           "家庭共享"
         ],
-        "review_score": "特别好评",
-        "review_ratio": 83.0,
-        "review_total": 381,
+        "review_score": "Very Positive",
+        "review_ratio": 80.0,
+        "review_total": 7312,
         "developer": "lemorion_1224",
         "publisher": "lemorion_1224",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
@@ -581,6 +483,101 @@
           {
             "date": "2026-06-10",
             "peak": 15813
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 16.33,
+      "fact_summary": "Solarpunk 今日观测峰值 9,929，未超过过往最高峰值 10,192，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 9929,
+        "previous_peak": 10192,
+        "previous_record_peak": 10192,
+        "growth_rate": -0.0258,
+        "record_growth_rate": -0.0258,
+        "scoring_peak": 9929,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 3.48,
+        "record_growth_score": 0.0,
+        "days_seen_score": 2.86,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 16.33,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 79.0,
+        "review_total": 1777,
+        "days_seen": 2,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 2,
+        "is_comeback_age": false,
+        "genres": [
+          "冒险",
+          "独立",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-09",
+            "peak": 10192
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 9929
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/1805110"
+        }
+      ],
+      "game": {
+        "slug": "solarpunk",
+        "appid": "1805110",
+        "name": "Solarpunk",
+        "name_cn": null,
+        "description": "《太阳朋克：浮岛家园 Solarpunk》是一款生存游戏，背景设定在一个科技先进、由漂浮岛屿组成的世界。你可以独自一人或与朋友一起建造建筑、种植食物、制作工具，并驾驶飞船探索遥远的天空之岛。 可以利用太阳能、风能和水利打造能源系统，并进行自动化生产作业，如收集资源和灌溉植物。",
+        "release_date": "2026-06-08",
+        "genres": [
+          "冒险",
+          "独立",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "Steam 成就",
+          "完全支持控制器",
+          "自定义音量控制",
+          "可调整难度",
+          "无需应对快速反应事件",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Mostly Positive",
+        "review_ratio": 79.0,
+        "review_total": 1777,
+        "developer": "Cyberwave",
+        "publisher": "rokaplay, Metaroot",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1780935129",
+        "steam_url": "https://store.steampowered.com/app/1805110",
+        "trend": [
+          {
+            "date": "2026-06-09",
+            "peak": 10192
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 9929
           }
         ]
       }
