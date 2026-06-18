@@ -2,7 +2,7 @@
   <div class="page-shell">
     <header class="page-intro">
       <p class="eyebrow">PAST STARS</p>
-      <h1>往日今日之星</h1>
+      <h1>往日之星</h1>
       <p>每天只公开一个最值得追问的游戏。排序来自可解释规则，不来自模型直觉。</p>
     </header>
     <div class="issue-list">
@@ -23,7 +23,7 @@
 import { ArrowUpRight } from "lucide-vue-next"
 import type { DailyIssue } from "~/types/public"
 
-useSeoMeta({ title: "往日今日之星" })
+useSeoMeta({ title: "往日之星" })
 const { data: manifest } = await useManifest()
 const { data: issues } = await useAsyncData("issue-archive", async () => {
   return Promise.all((manifest.value?.issues || []).map(date => loadPublicJson<DailyIssue>(`/data/issues/${date}.json`)))
