@@ -19,11 +19,11 @@
     "家庭共享"
   ],
   "review_score": "Very Positive",
-  "review_ratio": 82.0,
-  "review_total": 5738,
+  "review_ratio": 83.0,
+  "review_total": 6564,
   "developer": " New One Studio",
   "publisher": " New One Studio, Ariel",
-  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781165139",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781677683",
   "steam_url": "https://store.steampowered.com/app/4148240",
   "trend": [
     {
@@ -37,6 +37,10 @@
     {
       "date": "2026-06-16",
       "peak": 27748
+    },
+    {
+      "date": "2026-06-19",
+      "peak": 25326
     }
   ]
 }

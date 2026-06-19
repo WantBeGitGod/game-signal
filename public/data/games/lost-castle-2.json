@@ -28,10 +28,10 @@
   ],
   "review_score": "Mostly Positive",
   "review_ratio": 79.0,
-  "review_total": 11757,
+  "review_total": 11864,
   "developer": "Hunter Studio",
   "publisher": "Hunter Studio",
-  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781171074",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203",
   "steam_url": "https://store.steampowered.com/app/2445690",
   "trend": [
     {
@@ -57,6 +57,10 @@
     {
       "date": "2026-06-17",
       "peak": 28835
+    },
+    {
+      "date": "2026-06-19",
+      "peak": 26464
     }
   ]
 }

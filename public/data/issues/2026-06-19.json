@@ -1,0 +1,799 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-06-19",
+  "title": "06.19 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 60.85,
+    "fact_summary": "MECCHA CHAMELEON 今日观测峰值 244,731，较过往最高峰值提升 +17%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 244731,
+      "previous_peak": 209667,
+      "previous_record_peak": 209667,
+      "growth_rate": 0.1672,
+      "record_growth_rate": 0.1672,
+      "scoring_peak": 244731,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 35.0,
+      "record_growth_score": 5.85,
+      "days_seen_score": 10.0,
+      "signal_type_score": 10.0,
+      "score_before_multiplier": 60.85,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "review_ratio": 81.0,
+      "review_total": 10701,
+      "days_seen": 8,
+      "comeback_gap_days": 2,
+      "is_new_release": true,
+      "release_age_days": 10,
+      "is_comeback_age": false,
+      "genres": [
+        "休闲"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-10",
+          "peak": 15813
+        },
+        {
+          "date": "2026-06-11",
+          "peak": 20738
+        },
+        {
+          "date": "2026-06-13",
+          "peak": 43671
+        },
+        {
+          "date": "2026-06-14",
+          "peak": 61078
+        },
+        {
+          "date": "2026-06-15",
+          "peak": 95482
+        },
+        {
+          "date": "2026-06-16",
+          "peak": 132154
+        },
+        {
+          "date": "2026-06-17",
+          "peak": 209667
+        },
+        {
+          "date": "2026-06-19",
+          "peak": 244731
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4704690"
+      }
+    ],
+    "game": {
+      "slug": "meccha-chameleon",
+      "appid": "4704690",
+      "name": "MECCHA CHAMELEON",
+      "name_cn": null,
+      "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
+      "release_date": "2026-06-09",
+      "genres": [
+        "休闲"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "视角舒适度",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "立体声",
+        "环绕声",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 81.0,
+      "review_total": 10701,
+      "developer": "lemorion_1224",
+      "publisher": "lemorion_1224",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
+      "steam_url": "https://store.steampowered.com/app/4704690",
+      "trend": [
+        {
+          "date": "2026-06-10",
+          "peak": 15813
+        },
+        {
+          "date": "2026-06-11",
+          "peak": 20738
+        },
+        {
+          "date": "2026-06-13",
+          "peak": 43671
+        },
+        {
+          "date": "2026-06-14",
+          "peak": 61078
+        },
+        {
+          "date": "2026-06-15",
+          "peak": 95482
+        },
+        {
+          "date": "2026-06-16",
+          "peak": 132154
+        },
+        {
+          "date": "2026-06-17",
+          "peak": 209667
+        },
+        {
+          "date": "2026-06-19",
+          "peak": 244731
+        }
+      ]
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 60.85,
+    "fact_summary": "MECCHA CHAMELEON 今日观测峰值 244,731，较过往最高峰值提升 +17%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 244731,
+      "previous_peak": 209667,
+      "previous_record_peak": 209667,
+      "growth_rate": 0.1672,
+      "record_growth_rate": 0.1672,
+      "scoring_peak": 244731,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 35.0,
+      "record_growth_score": 5.85,
+      "days_seen_score": 10.0,
+      "signal_type_score": 10.0,
+      "score_before_multiplier": 60.85,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "review_ratio": 81.0,
+      "review_total": 10701,
+      "days_seen": 8,
+      "comeback_gap_days": 2,
+      "is_new_release": true,
+      "release_age_days": 10,
+      "is_comeback_age": false,
+      "genres": [
+        "休闲"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-10",
+          "peak": 15813
+        },
+        {
+          "date": "2026-06-11",
+          "peak": 20738
+        },
+        {
+          "date": "2026-06-13",
+          "peak": 43671
+        },
+        {
+          "date": "2026-06-14",
+          "peak": 61078
+        },
+        {
+          "date": "2026-06-15",
+          "peak": 95482
+        },
+        {
+          "date": "2026-06-16",
+          "peak": 132154
+        },
+        {
+          "date": "2026-06-17",
+          "peak": 209667
+        },
+        {
+          "date": "2026-06-19",
+          "peak": 244731
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4704690"
+      }
+    ],
+    "game": {
+      "slug": "meccha-chameleon",
+      "appid": "4704690",
+      "name": "MECCHA CHAMELEON",
+      "name_cn": null,
+      "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
+      "release_date": "2026-06-09",
+      "genres": [
+        "休闲"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "视角舒适度",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "立体声",
+        "环绕声",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 81.0,
+      "review_total": 10701,
+      "developer": "lemorion_1224",
+      "publisher": "lemorion_1224",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
+      "steam_url": "https://store.steampowered.com/app/4704690",
+      "trend": [
+        {
+          "date": "2026-06-10",
+          "peak": 15813
+        },
+        {
+          "date": "2026-06-11",
+          "peak": 20738
+        },
+        {
+          "date": "2026-06-13",
+          "peak": 43671
+        },
+        {
+          "date": "2026-06-14",
+          "peak": 61078
+        },
+        {
+          "date": "2026-06-15",
+          "peak": 95482
+        },
+        {
+          "date": "2026-06-16",
+          "peak": 132154
+        },
+        {
+          "date": "2026-06-17",
+          "peak": 209667
+        },
+        {
+          "date": "2026-06-19",
+          "peak": 244731
+        }
+      ]
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": [
+    {
+      "rank": 2,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 36.08,
+      "fact_summary": "Gothic 1 Remake 今日观测峰值 45,947，未超过过往最高峰值 77,731，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 45947,
+        "previous_peak": 77731,
+        "previous_record_peak": 77731,
+        "growth_rate": -0.4089,
+        "record_growth_rate": -0.4089,
+        "scoring_peak": 45947,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 16.08,
+        "record_growth_score": 0.0,
+        "days_seen_score": 10.0,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 36.08,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 88.0,
+        "review_total": 24951,
+        "days_seen": 7,
+        "comeback_gap_days": 7,
+        "is_new_release": true,
+        "release_age_days": 14,
+        "is_comeback_age": false,
+        "genres": [
+          "动作",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-06",
+            "peak": 60935
+          },
+          {
+            "date": "2026-06-07",
+            "peak": 63109
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 77731
+          },
+          {
+            "date": "2026-06-09",
+            "peak": 71991
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 70457
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 66744
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 45947
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/1297900"
+        }
+      ],
+      "game": {
+        "slug": "gothic-1-remake",
+        "appid": "1297900",
+        "name": "Gothic 1 Remake",
+        "name_cn": null,
+        "description": "传奇归来——在这款定义了一个类别的经典角色扮演游戏的忠实重制版中，重返采矿之谷。探索一个手把手打造的、栩栩如生的开放世界，这个世界会对您的各种行动做出动态反应，为您带来无与伦比、不受拘束的体验。",
+        "release_date": "2026-06-05",
+        "genres": [
+          "动作",
+          "角色扮演"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "完全支持控制器",
+          "Steam 集换式卡牌",
+          "视角舒适度",
+          "自定义音量控制",
+          "可调整难度",
+          "无需应对快速反应事件",
+          "随时保存",
+          "立体声",
+          "字幕选项",
+          "环绕声",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 88.0,
+        "review_total": 24951,
+        "developer": "Alkimia Interactive",
+        "publisher": "Alkimia Interactive, THQ Nordic",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1780965412",
+        "steam_url": "https://store.steampowered.com/app/1297900",
+        "trend": [
+          {
+            "date": "2026-06-06",
+            "peak": 60935
+          },
+          {
+            "date": "2026-06-07",
+            "peak": 63109
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 77731
+          },
+          {
+            "date": "2026-06-09",
+            "peak": 71991
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 70457
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 66744
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 45947
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 29.26,
+      "fact_summary": "Lost Castle 2 今日观测峰值 26,464，未超过过往最高峰值 28,835，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 26464,
+        "previous_peak": 28835,
+        "previous_record_peak": 28835,
+        "growth_rate": -0.0822,
+        "record_growth_rate": -0.0822,
+        "scoring_peak": 26464,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 9.26,
+        "record_growth_score": 0.0,
+        "days_seen_score": 10.0,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 29.26,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 79.0,
+        "review_total": 11864,
+        "days_seen": 7,
+        "comeback_gap_days": 2,
+        "is_new_release": true,
+        "release_age_days": 9,
+        "is_comeback_age": false,
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 6290
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 21326
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 25441
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 28725
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 28279
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 28835
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 26464
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2445690"
+        }
+      ],
+      "game": {
+        "slug": "lost-castle-2",
+        "appid": "2445690",
+        "name": "Lost Castle 2",
+        "name_cn": null,
+        "description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
+        "release_date": "2026-06-10",
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "角色扮演"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "局域网合作",
+          "同屏/分屏合作",
+          "同屏/分屏",
+          "Steam 成就",
+          "部分支持控制器",
+          "Steam 云",
+          "统计数据",
+          "远程同乐",
+          "家庭共享"
+        ],
+        "review_score": "Mostly Positive",
+        "review_ratio": 79.0,
+        "review_total": 11864,
+        "developer": "Hunter Studio",
+        "publisher": "Hunter Studio",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203",
+        "steam_url": "https://store.steampowered.com/app/2445690",
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 6290
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 21326
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 25441
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 28725
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 28279
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 28835
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 26464
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 24.58,
+      "fact_summary": "Road to Empress Ⅱ 今日观测峰值 25,326，未超过过往最高峰值 30,357，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 25326,
+        "previous_peak": 30357,
+        "previous_record_peak": 30357,
+        "growth_rate": -0.1657,
+        "record_growth_rate": -0.1657,
+        "scoring_peak": 25326,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 8.86,
+        "record_growth_score": 0.0,
+        "days_seen_score": 5.71,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 24.58,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 83.0,
+        "review_total": 6564,
+        "days_seen": 4,
+        "comeback_gap_days": 4,
+        "is_new_release": true,
+        "release_age_days": 11,
+        "is_comeback_age": false,
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 28665
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 30357
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 27748
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 25326
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4148240"
+        }
+      ],
+      "game": {
+        "slug": "road-to-empress",
+        "appid": "4148240",
+        "name": "Road to Empress Ⅱ",
+        "name_cn": null,
+        "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
+        "release_date": "2026-06-08",
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "应用内购买",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 83.0,
+        "review_total": 6564,
+        "developer": " New One Studio",
+        "publisher": " New One Studio, Ariel",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781677683",
+        "steam_url": "https://store.steampowered.com/app/4148240",
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 28665
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 30357
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 27748
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 25326
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 21.83,
+      "fact_summary": "Burglin' Gnomes 今日观测峰值 5,231，未超过过往最高峰值 9,861，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 5231,
+        "previous_peak": 9861,
+        "previous_record_peak": 9861,
+        "growth_rate": -0.4695,
+        "record_growth_rate": -0.4695,
+        "scoring_peak": 5231,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 1.83,
+        "record_growth_score": 0.0,
+        "days_seen_score": 10.0,
+        "signal_type_score": 10.0,
+        "score_before_multiplier": 21.83,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "review_ratio": 85.0,
+        "review_total": 2191,
+        "days_seen": 7,
+        "comeback_gap_days": 2,
+        "is_new_release": true,
+        "release_age_days": 9,
+        "is_comeback_age": false,
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 9861
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 9415
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 9792
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 9812
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 6810
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 6225
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 5231
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/3844970"
+        }
+      ],
+      "game": {
+        "slug": "burglin-gnomes",
+        "appid": "3844970",
+        "name": "Burglin' Gnomes",
+        "name_cn": null,
+        "description": "这是一款在线合作游戏，你将化身为一只小地精，闯入民宅制造混乱。躲避各种危险，改造偷来的家居物品，通过完成任务满足地精王的要求。制作装备并升级家园——让任务越做越顺手，捣蛋越来越成功。",
+        "release_date": "2026-06-10",
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "无需应对快速反应事件",
+          "立体声",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 85.0,
+        "review_total": 2191,
+        "developer": "Fobri",
+        "publisher": "Fobri",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d44e878d08426747cab87cd465ad1667fba5a6f8/header_schinese.jpg?t=1781100001",
+        "steam_url": "https://store.steampowered.com/app/3844970",
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 9861
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 9415
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 9792
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 9812
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 6810
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 6225
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 5231
+          }
+        ]
+      }
+    }
+  ]
+}
