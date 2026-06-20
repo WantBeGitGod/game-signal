@@ -1,0 +1,43 @@
+{
+  "slug": "the-adventures-of-elliot-the-millennium-tales",
+  "appid": "3483510",
+  "name": "The Adventures of Elliot: The Millennium Tales",
+  "name_cn": null,
+  "description": "融合像素图与3DCG的“HD-2D”系列首度推出全新动作RPG！",
+  "release_date": "2026-06-18",
+  "genres": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "自定义音量控制",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "立体声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Mixed",
+  "review_ratio": 70.0,
+  "review_total": 414,
+  "developer": "Square Enix, Claytechworks",
+  "publisher": "Square Enix",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1781812674",
+  "steam_url": "https://store.steampowered.com/app/3483510",
+  "trend": [
+    {
+      "date": "2026-06-19",
+      "peak": 4813
+    },
+    {
+      "date": "2026-06-20",
+      "peak": 6710
+    }
+  ]
+}
