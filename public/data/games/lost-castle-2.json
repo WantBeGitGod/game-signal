@@ -28,7 +28,7 @@
   ],
   "review_score": "Mostly Positive",
   "review_ratio": 78.0,
-  "review_total": 11957,
+  "review_total": 12053,
   "developer": "Hunter Studio",
   "publisher": "Hunter Studio",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203",
@@ -65,6 +65,10 @@
     {
       "date": "2026-06-20",
       "peak": 25658
+    },
+    {
+      "date": "2026-06-21",
+      "peak": 27061
     }
   ]
 }
