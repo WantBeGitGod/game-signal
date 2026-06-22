@@ -1,5 +1,5 @@
 ---
-title: "Mina the Hollower 为什么在此时起量"
+title: "挖掘者米娜-类银领域最好的铲子使用者"
 description: "一个复古动作冒险新 IP 如何靠工作室信任、长期 Demo 节奏、明确竞品坐标和高口碑，把首发窗口变成可持续发行问题。"
 slug: "mina-the-hollower"
 status: published
@@ -13,7 +13,7 @@ company_slugs:
   - yacht-club-games
 ---
 
-# Mina the Hollower 为什么在此时起量
+# 挖掘者米娜-类银领域最好的铲子使用者
 
 > **判断摘要：** Mina the Hollower 的起量不是“像素复古又赢了一次”这么简单。它更像一个中腰部独立游戏可学习的发行样本：Yacht Club Games 用 Shovel Knight 积累的信任托底，用 Kickstarter 和多轮 Demo 把核心玩家提前聚拢，再用清晰的竞品坐标告诉玩家“这是什么、又和你以为的东西哪里不同”。它的难点也在这里：高口碑已经成立，接下来要解决的是如何把懂它的人群扩展到更大的动作冒险受众。
 

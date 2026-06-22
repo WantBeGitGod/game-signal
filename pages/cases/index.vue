@@ -20,7 +20,7 @@
     </div>
     <div v-else class="empty-state">
       <p class="eyebrow">FIRST CASE IN PROGRESS</p>
-      <h2>TBH: Task Bar Hero 为什么在此时爆发</h2>
+      <h2>塔斯克巴英雄-重铸桌面放置游戏荣光！</h2>
       <p>旗舰案例正在进行来源核验与人工编辑。</p>
     </div>
   </div>

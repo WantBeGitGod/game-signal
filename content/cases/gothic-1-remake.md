@@ -1,5 +1,5 @@
 ---
-title: "Gothic 1 Remake 如何管理经典重制的预期"
+title: "哥特王朝1重制版-欲与老滚试比高"
 description: "从首周在线、50 万份跨平台销量、创作者评测和老派 RPG 设计边界，拆解 Gothic 1 Remake 如何把经典重制的摩擦讲成可购买的承诺。"
 slug: "gothic-1-remake"
 status: published
@@ -13,7 +13,7 @@ weekly_issue: 2026-06-08-week
 company_slugs: []
 ---
 
-# Gothic 1 Remake 如何管理经典重制的预期
+# 哥特王朝1重制版-欲与老滚试比高
 
 > **判断摘要：** Gothic 1 Remake 的信号不是“经典 IP 重制所以卖得好”。它更像一个预期管理样本：THQ Nordic 和 Alkimia Interactive 把一款高摩擦老派 RPG 的边界提前讲清楚了：哪些地方会忠实保留，哪些地方会现代化，哪些粗粝感属于 Gothic 的身份，哪些技术噪音要继续修。它没有把经典重制包装成面向所有人的安全开放世界，而是主动筛选玩家，让老玩家确认“它没有背叛 Gothic”，也让新玩家知道“这不是又一款一路发光导航的现代 RPG”。
 

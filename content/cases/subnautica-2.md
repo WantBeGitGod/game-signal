@@ -1,5 +1,5 @@
 ---
-title: "Subnautica 2 为什么值得进入本周发行周刊"
+title: "深海迷航2-深海模拟最严厉的父亲"
 description: "从首发窗口峰值、前作信任、多人合作、Early Access 路径依赖和场外治理风险，拆解 Subnautica 2 的发行信号。"
 slug: "subnautica-2"
 status: published
@@ -13,7 +13,7 @@ weekly_issue: 2026-05-15-week
 company_slugs: []
 ---
 
-# Subnautica 2 为什么值得进入本周发行周刊
+# 深海迷航2-深海模拟最严厉的父亲
 
 > **判断摘要：** Subnautica 2 的首发起量不是单纯的“大 IP 续作自然爆”。它同时吃到了四层势能：前作长期积累的水下探索信任、5 million wishlist 级别的预热池、系列首次正式推向四人合作，以及 Unknown Worlds 长期使用 Early Access 与玩家共创的开发路径。真正需要警惕的是：这些优势现在也变成了压力。合作降低了前作最强的孤独恐惧，EA 又让玩家提前看见内容量、产能和公司治理问题；一旦更新节奏、社区沟通和场外争议跟不上，极高在线会很快从“热度”变成“审判现场”。
 

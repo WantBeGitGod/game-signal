@@ -1,5 +1,5 @@
 ---
-title: "Everything is Crab 为什么先赢首发，又欠下留存债"
+title: "万物皆可蟹-蟹邀，感觉不如孢子"
 description: "一个强概念动物进化 roguelite 如何靠一句话钩子、试玩教育和低价门槛赢下首发，又在 30 天后暴露内容深度与期待管理问题。"
 slug: "everything-is-crab"
 status: published
@@ -13,7 +13,7 @@ weekly_issue: 2026-05-15-week
 company_slugs: []
 ---
 
-# Everything is Crab 为什么先赢首发，又欠下留存债
+# 万物皆可蟹-蟹邀，感觉不如孢子
 
 > **判断摘要：** Everything is Crab 的价值不在于证明“底子一般也能靠营销卖爆”。更准确的说法是：它证明了一个新奇题材、强视觉反馈、低价门槛和试玩教育，可以把小体量游戏的首发上限明显抬高；同时也证明了，强钩子会制造期待债务。当玩家把它理解成更自由、更生态、更接近《孢子》幻想的进化游戏时，轻量 roguelite 的内容深度很快就会被二次审判。
 
