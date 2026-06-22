@@ -10,7 +10,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 45.26,
+    "score": 47.26,
     "fact_summary": "太吾绘卷：天幕心帷 今日观测峰值 43,594，较过往最高峰值提升 +49%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 43594,
@@ -24,12 +24,13 @@
       "peak_score": 15.26,
       "record_growth_score": 17.14,
       "days_seen_score": 2.86,
-      "signal_type_score": 10.0,
-      "score_before_multiplier": 45.26,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 47.26,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "review_ratio": 70.0,
-      "review_total": 64629,
+      "cumulative_star_count": 0,
+      "review_ratio": 69.0,
+      "review_total": 65787,
       "days_seen": 2,
       "comeback_gap_days": 1,
       "is_new_release": true,
@@ -81,11 +82,11 @@
         "家庭共享"
       ],
       "review_score": "Mixed",
-      "review_ratio": 70.0,
-      "review_total": 64629,
+      "review_ratio": 69.0,
+      "review_total": 65787,
       "developer": "ConchShip Games",
       "publisher": "ConchShip Games",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1781692191",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782004171",
       "steam_url": "https://store.steampowered.com/app/838350",
       "trend": [
         {
@@ -103,7 +104,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 45.26,
+    "score": 47.26,
     "fact_summary": "太吾绘卷：天幕心帷 今日观测峰值 43,594，较过往最高峰值提升 +49%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 43594,
@@ -117,12 +118,13 @@
       "peak_score": 15.26,
       "record_growth_score": 17.14,
       "days_seen_score": 2.86,
-      "signal_type_score": 10.0,
-      "score_before_multiplier": 45.26,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 47.26,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "review_ratio": 70.0,
-      "review_total": 64629,
+      "cumulative_star_count": 0,
+      "review_ratio": 69.0,
+      "review_total": 65787,
       "days_seen": 2,
       "comeback_gap_days": 1,
       "is_new_release": true,
@@ -174,11 +176,11 @@
         "家庭共享"
       ],
       "review_score": "Mixed",
-      "review_ratio": 70.0,
-      "review_total": 64629,
+      "review_ratio": 69.0,
+      "review_total": 65787,
       "developer": "ConchShip Games",
       "publisher": "ConchShip Games",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1781692191",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782004171",
       "steam_url": "https://store.steampowered.com/app/838350",
       "trend": [
         {
@@ -198,7 +200,214 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 44.0,
+      "score": 38.86,
+      "fact_summary": "IRON NEST: Heavy Turret Simulator Demo 今日观测峰值 9,730，较过往最高峰值提升 +51%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 9730,
+        "previous_peak": 6457,
+        "previous_record_peak": 6457,
+        "growth_rate": 0.5069,
+        "record_growth_rate": 0.5069,
+        "scoring_peak": 9730,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 3.41,
+        "record_growth_score": 17.74,
+        "days_seen_score": 5.71,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 38.86,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
+        "review_ratio": 99.0,
+        "review_total": 4703,
+        "days_seen": 4,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 5,
+        "is_comeback_age": false,
+        "genres": [
+          "动作",
+          "独立",
+          "模拟",
+          "免费"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-16",
+            "peak": 6011
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 4754
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 6457
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 9730
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4300500"
+        }
+      ],
+      "game": {
+        "slug": "iron-nest-heavy-turret-simulator-demo",
+        "appid": "4300500",
+        "name": "IRON NEST: Heavy Turret Simulator Demo",
+        "name_cn": null,
+        "description": "《铁巢重炮》是一款残酷的柴油朋克重型火炮游戏，你将驾驶一台巨型战争机器，统治整个战场。 依照接收到的座标进行地图测距，将液压系统推到极限，校准火炮并发起毁灭性的打击 ⟹ 操作员，你会服从最高统帅部的命令吗？",
+        "release_date": "2026-06-15",
+        "genres": [
+          "动作",
+          "独立",
+          "模拟",
+          "免费"
+        ],
+        "tags": [
+          "单人",
+          "游戏试用版",
+          "完全支持控制器",
+          "可选颜色",
+          "自定义音量控制",
+          "无需应对快速反应事件",
+          "立体声",
+          "环绕声"
+        ],
+        "review_score": "Overwhelmingly Positive",
+        "review_ratio": 99.0,
+        "review_total": 4703,
+        "developer": "Nick Nieuwoudt, Dominik Latos",
+        "publisher": "Nick Nieuwoudt, Dominik Latos",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300500/6f0aa68814c48b298debab1028307e6aa4e6d7d4/header.jpg?t=1781623490",
+        "steam_url": "https://store.steampowered.com/app/4300500",
+        "trend": [
+          {
+            "date": "2026-06-16",
+            "peak": 6011
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 4754
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 6457
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 9730
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 31.0,
+      "fact_summary": "The Adventures of Elliot: The Millennium Tales 今日观测峰值 6,710，较过往最高峰值提升 +39%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 6710,
+        "previous_peak": 4813,
+        "previous_record_peak": 4813,
+        "growth_rate": 0.3941,
+        "record_growth_rate": 0.3941,
+        "scoring_peak": 6710,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 2.35,
+        "record_growth_score": 13.79,
+        "days_seen_score": 2.86,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 31.0,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
+        "review_ratio": 70.0,
+        "review_total": 760,
+        "days_seen": 2,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 2,
+        "is_comeback_age": false,
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-19",
+            "peak": 4813
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 6710
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/3483510"
+        }
+      ],
+      "game": {
+        "slug": "the-adventures-of-elliot-the-millennium-tales",
+        "appid": "3483510",
+        "name": "The Adventures of Elliot: The Millennium Tales",
+        "name_cn": null,
+        "description": "融合像素图与3DCG的“HD-2D”系列首度推出全新动作RPG！",
+        "release_date": "2026-06-18",
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "Steam 成就",
+          "完全支持控制器",
+          "Steam 集换式卡牌",
+          "自定义音量控制",
+          "可调整难度",
+          "无需应对快速反应事件",
+          "立体声",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Mixed",
+        "review_ratio": 70.0,
+        "review_total": 760,
+        "developer": "Square Enix, Claytechworks",
+        "publisher": "Square Enix",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1781812674",
+        "steam_url": "https://store.steampowered.com/app/3483510",
+        "trend": [
+          {
+            "date": "2026-06-19",
+            "peak": 4813
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 6710
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 28.5,
       "fact_summary": "MECCHA CHAMELEON 今日观测峰值 233,555，未超过过往最高峰值 244,731，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 233555,
@@ -212,14 +421,15 @@
         "peak_score": 35.0,
         "record_growth_score": 0.0,
         "days_seen_score": 10.0,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 55.0,
-        "score_multiplier": 0.8,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 57.0,
+        "score_multiplier": 0.5,
         "score_multiplier_reasons": [
-          "yesterday_star"
+          "cumulative_star_5x"
         ],
+        "cumulative_star_count": 5,
         "review_ratio": 82.0,
-        "review_total": 12775,
+        "review_total": 17998,
         "days_seen": 9,
         "comeback_gap_days": 2,
         "is_new_release": true,
@@ -296,7 +506,7 @@
         ],
         "review_score": "Very Positive",
         "review_ratio": 82.0,
-        "review_total": 12775,
+        "review_total": 17998,
         "developer": "lemorion_1224",
         "publisher": "lemorion_1224",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
@@ -342,353 +552,118 @@
       }
     },
     {
-      "rank": 3,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 36.86,
-      "fact_summary": "IRON NEST: Heavy Turret Simulator Demo 今日观测峰值 9,730，较过往最高峰值提升 +51%，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 9730,
-        "previous_peak": 6457,
-        "previous_record_peak": 6457,
-        "growth_rate": 0.5069,
-        "record_growth_rate": 0.5069,
-        "scoring_peak": 9730,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 3.41,
-        "record_growth_score": 17.74,
-        "days_seen_score": 5.71,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 36.86,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "review_ratio": 99.0,
-        "review_total": 3980,
-        "days_seen": 4,
-        "comeback_gap_days": 1,
-        "is_new_release": true,
-        "release_age_days": 5,
-        "is_comeback_age": false,
-        "genres": [
-          "动作",
-          "独立",
-          "模拟",
-          "免费"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-16",
-            "peak": 6011
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 4754
-          },
-          {
-            "date": "2026-06-19",
-            "peak": 6457
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 9730
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/4300500"
-        }
-      ],
-      "game": {
-        "slug": "iron-nest-heavy-turret-simulator-demo",
-        "appid": "4300500",
-        "name": "IRON NEST: Heavy Turret Simulator Demo",
-        "name_cn": null,
-        "description": "《铁巢重炮》是一款残酷的柴油朋克重型火炮游戏，你将驾驶一台巨型战争机器，统治整个战场。 依照接收到的座标进行地图测距，将液压系统推到极限，校准火炮并发起毁灭性的打击 ⟹ 操作员，你会服从最高统帅部的命令吗？",
-        "release_date": "2026-06-15",
-        "genres": [
-          "动作",
-          "独立",
-          "模拟",
-          "免费"
-        ],
-        "tags": [
-          "单人",
-          "游戏试用版",
-          "完全支持控制器",
-          "可选颜色",
-          "自定义音量控制",
-          "无需应对快速反应事件",
-          "立体声",
-          "环绕声"
-        ],
-        "review_score": "Overwhelmingly Positive",
-        "review_ratio": 99.0,
-        "review_total": 3980,
-        "developer": "Nick Nieuwoudt, Dominik Latos",
-        "publisher": "Nick Nieuwoudt, Dominik Latos",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300500/6f0aa68814c48b298debab1028307e6aa4e6d7d4/header.jpg?t=1781623490",
-        "steam_url": "https://store.steampowered.com/app/4300500",
-        "trend": [
-          {
-            "date": "2026-06-16",
-            "peak": 6011
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 4754
-          },
-          {
-            "date": "2026-06-19",
-            "peak": 6457
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 9730
-          }
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 29.0,
-      "fact_summary": "The Adventures of Elliot: The Millennium Tales 今日观测峰值 6,710，较过往最高峰值提升 +39%，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 6710,
-        "previous_peak": 4813,
-        "previous_record_peak": 4813,
-        "growth_rate": 0.3941,
-        "record_growth_rate": 0.3941,
-        "scoring_peak": 6710,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 2.35,
-        "record_growth_score": 13.79,
-        "days_seen_score": 2.86,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 29.0,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "review_ratio": 70.0,
-        "review_total": 414,
-        "days_seen": 2,
-        "comeback_gap_days": 1,
-        "is_new_release": true,
-        "release_age_days": 2,
-        "is_comeback_age": false,
-        "genres": [
-          "动作",
-          "冒险",
-          "角色扮演"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-19",
-            "peak": 4813
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 6710
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/3483510"
-        }
-      ],
-      "game": {
-        "slug": "the-adventures-of-elliot-the-millennium-tales",
-        "appid": "3483510",
-        "name": "The Adventures of Elliot: The Millennium Tales",
-        "name_cn": null,
-        "description": "融合像素图与3DCG的“HD-2D”系列首度推出全新动作RPG！",
-        "release_date": "2026-06-18",
-        "genres": [
-          "动作",
-          "冒险",
-          "角色扮演"
-        ],
-        "tags": [
-          "单人",
-          "多人",
-          "Steam 成就",
-          "完全支持控制器",
-          "Steam 集换式卡牌",
-          "自定义音量控制",
-          "可调整难度",
-          "无需应对快速反应事件",
-          "立体声",
-          "Steam 云",
-          "家庭共享"
-        ],
-        "review_score": "Mixed",
-        "review_ratio": 70.0,
-        "review_total": 414,
-        "developer": "Square Enix, Claytechworks",
-        "publisher": "Square Enix",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1781812674",
-        "steam_url": "https://store.steampowered.com/app/3483510",
-        "trend": [
-          {
-            "date": "2026-06-19",
-            "peak": 4813
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 6710
-          }
-        ]
-      }
-    },
-    {
       "rank": 5,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 28.98,
-      "fact_summary": "Lost Castle 2 今日观测峰值 25,658，未超过过往最高峰值 28,835，被识别为「新作起量」。",
+      "score": 27.82,
+      "fact_summary": "Road to Empress Ⅱ 今日观测峰值 24,781，未超过过往最高峰值 30,357，被识别为「新作起量」。",
       "metrics": {
-        "current_peak": 25658,
-        "previous_peak": 28835,
-        "previous_record_peak": 28835,
-        "growth_rate": -0.1102,
-        "record_growth_rate": -0.1102,
-        "scoring_peak": 25658,
+        "current_peak": 24781,
+        "previous_peak": 30357,
+        "previous_record_peak": 30357,
+        "growth_rate": -0.1837,
+        "record_growth_rate": -0.1837,
+        "scoring_peak": 24781,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 8.98,
+        "peak_score": 8.67,
         "record_growth_score": 0.0,
-        "days_seen_score": 10.0,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 28.98,
+        "days_seen_score": 7.14,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 27.82,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "review_ratio": 78.0,
-        "review_total": 11957,
-        "days_seen": 8,
-        "comeback_gap_days": 2,
+        "cumulative_star_count": 0,
+        "review_ratio": 83.0,
+        "review_total": 7161,
+        "days_seen": 5,
+        "comeback_gap_days": 4,
         "is_new_release": true,
-        "release_age_days": 10,
+        "release_age_days": 12,
         "is_comeback_age": false,
         "genres": [
-          "动作",
           "冒险",
+          "休闲",
           "独立",
-          "角色扮演"
+          "角色扮演",
+          "模拟"
         ],
         "trend": [
           {
-            "date": "2026-06-11",
-            "peak": 6290
-          },
-          {
-            "date": "2026-06-13",
-            "peak": 21326
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 25441
+            "date": "2026-06-10",
+            "peak": 28665
           },
           {
             "date": "2026-06-15",
-            "peak": 28725
+            "peak": 30357
           },
           {
             "date": "2026-06-16",
-            "peak": 28279
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 28835
+            "peak": 27748
           },
           {
             "date": "2026-06-19",
-            "peak": 26464
+            "peak": 25326
           },
           {
             "date": "2026-06-20",
-            "peak": 25658
+            "peak": 24781
           }
         ]
       },
       "sources": [
         {
           "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/2445690"
+          "url": "https://store.steampowered.com/app/4148240"
         }
       ],
       "game": {
-        "slug": "lost-castle-2",
-        "appid": "2445690",
-        "name": "Lost Castle 2",
+        "slug": "road-to-empress",
+        "appid": "4148240",
+        "name": "Road to Empress Ⅱ",
         "name_cn": null,
-        "description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
-        "release_date": "2026-06-10",
+        "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
+        "release_date": "2026-06-08",
         "genres": [
-          "动作",
           "冒险",
+          "休闲",
           "独立",
-          "角色扮演"
+          "角色扮演",
+          "模拟"
         ],
         "tags": [
           "单人",
-          "多人",
-          "合作",
-          "在线合作",
-          "局域网合作",
-          "同屏/分屏合作",
-          "同屏/分屏",
           "Steam 成就",
-          "部分支持控制器",
-          "Steam 云",
-          "统计数据",
-          "远程同乐",
+          "应用内购买",
           "家庭共享"
         ],
-        "review_score": "Mostly Positive",
-        "review_ratio": 78.0,
-        "review_total": 11957,
-        "developer": "Hunter Studio",
-        "publisher": "Hunter Studio",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203",
-        "steam_url": "https://store.steampowered.com/app/2445690",
+        "review_score": "Very Positive",
+        "review_ratio": 83.0,
+        "review_total": 7161,
+        "developer": " New One Studio",
+        "publisher": " New One Studio, Ariel",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781677683",
+        "steam_url": "https://store.steampowered.com/app/4148240",
         "trend": [
           {
-            "date": "2026-06-11",
-            "peak": 6290
-          },
-          {
-            "date": "2026-06-13",
-            "peak": 21326
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 25441
+            "date": "2026-06-10",
+            "peak": 28665
           },
           {
             "date": "2026-06-15",
-            "peak": 28725
+            "peak": 30357
           },
           {
             "date": "2026-06-16",
-            "peak": 28279
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 28835
+            "peak": 27748
           },
           {
             "date": "2026-06-19",
-            "peak": 26464
+            "peak": 25326
           },
           {
             "date": "2026-06-20",
-            "peak": 25658
+            "peak": 24781
           }
         ]
       }

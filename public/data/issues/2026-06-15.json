@@ -10,7 +10,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 70.28,
+    "score": 57.82,
     "fact_summary": "MECCHA CHAMELEON 今日观测峰值 95,482，较过往最高峰值提升 +56%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 95482,
@@ -24,12 +24,15 @@
       "peak_score": 33.42,
       "record_growth_score": 19.71,
       "days_seen_score": 7.14,
-      "signal_type_score": 10.0,
-      "score_before_multiplier": 70.28,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "review_ratio": 80.0,
-      "review_total": 7312,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 72.28,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "cumulative_star_1x"
+      ],
+      "cumulative_star_count": 1,
+      "review_ratio": 82.0,
+      "review_total": 17998,
       "days_seen": 5,
       "comeback_gap_days": 2,
       "is_new_release": true,
@@ -89,8 +92,8 @@
         "家庭共享"
       ],
       "review_score": "Very Positive",
-      "review_ratio": 80.0,
-      "review_total": 7312,
+      "review_ratio": 82.0,
+      "review_total": 17998,
       "developer": "lemorion_1224",
       "publisher": "lemorion_1224",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
@@ -123,7 +126,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 70.28,
+    "score": 57.82,
     "fact_summary": "MECCHA CHAMELEON 今日观测峰值 95,482，较过往最高峰值提升 +56%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 95482,
@@ -137,12 +140,15 @@
       "peak_score": 33.42,
       "record_growth_score": 19.71,
       "days_seen_score": 7.14,
-      "signal_type_score": 10.0,
-      "score_before_multiplier": 70.28,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "review_ratio": 80.0,
-      "review_total": 7312,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 72.28,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "cumulative_star_1x"
+      ],
+      "cumulative_star_count": 1,
+      "review_ratio": 82.0,
+      "review_total": 17998,
       "days_seen": 5,
       "comeback_gap_days": 2,
       "is_new_release": true,
@@ -202,8 +208,8 @@
         "家庭共享"
       ],
       "review_score": "Very Positive",
-      "review_ratio": 80.0,
-      "review_total": 7312,
+      "review_ratio": 82.0,
+      "review_total": 17998,
       "developer": "lemorion_1224",
       "publisher": "lemorion_1224",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
@@ -238,7 +244,100 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 30.29,
+      "score": 27.55,
+      "fact_summary": "Road to Empress Ⅱ 今日观测峰值 30,357，较过往最高峰值提升 +6%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 30357,
+        "previous_peak": 28665,
+        "previous_record_peak": 28665,
+        "growth_rate": 0.059,
+        "record_growth_rate": 0.059,
+        "scoring_peak": 30357,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 10.62,
+        "record_growth_score": 2.07,
+        "days_seen_score": 2.86,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 27.55,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
+        "review_ratio": 83.0,
+        "review_total": 7161,
+        "days_seen": 2,
+        "comeback_gap_days": 4,
+        "is_new_release": true,
+        "release_age_days": 7,
+        "is_comeback_age": false,
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 28665
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 30357
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4148240"
+        }
+      ],
+      "game": {
+        "slug": "road-to-empress",
+        "appid": "4148240",
+        "name": "Road to Empress Ⅱ",
+        "name_cn": null,
+        "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
+        "release_date": "2026-06-08",
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "应用内购买",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 83.0,
+        "review_total": 7161,
+        "developer": " New One Studio",
+        "publisher": " New One Studio, Ariel",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781677683",
+        "steam_url": "https://store.steampowered.com/app/4148240",
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 28665
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 30357
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 25.83,
       "fact_summary": "Lost Castle 2 今日观测峰值 28,725，较过往最高峰值提升 +13%，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 28725,
@@ -252,12 +351,15 @@
         "peak_score": 10.05,
         "record_growth_score": 4.52,
         "days_seen_score": 5.71,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 30.29,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "review_ratio": 79.0,
-        "review_total": 11757,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 32.29,
+        "score_multiplier": 0.8,
+        "score_multiplier_reasons": [
+          "cumulative_star_1x"
+        ],
+        "cumulative_star_count": 1,
+        "review_ratio": 78.0,
+        "review_total": 12085,
         "days_seen": 4,
         "comeback_gap_days": 2,
         "is_new_release": true,
@@ -323,11 +425,11 @@
           "家庭共享"
         ],
         "review_score": "Mostly Positive",
-        "review_ratio": 79.0,
-        "review_total": 11757,
+        "review_ratio": 78.0,
+        "review_total": 12085,
         "developer": "Hunter Studio",
         "publisher": "Hunter Studio",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781171074",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203",
         "steam_url": "https://store.steampowered.com/app/2445690",
         "trend": [
           {
@@ -350,102 +452,10 @@
       }
     },
     {
-      "rank": 3,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 25.55,
-      "fact_summary": "Road to Empress Ⅱ 今日观测峰值 30,357，较过往最高峰值提升 +6%，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 30357,
-        "previous_peak": 28665,
-        "previous_record_peak": 28665,
-        "growth_rate": 0.059,
-        "record_growth_rate": 0.059,
-        "scoring_peak": 30357,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 10.62,
-        "record_growth_score": 2.07,
-        "days_seen_score": 2.86,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 25.55,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "review_ratio": 82.0,
-        "review_total": 5738,
-        "days_seen": 2,
-        "comeback_gap_days": 4,
-        "is_new_release": true,
-        "release_age_days": 7,
-        "is_comeback_age": false,
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "模拟"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-10",
-            "peak": 28665
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 30357
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/4148240"
-        }
-      ],
-      "game": {
-        "slug": "road-to-empress",
-        "appid": "4148240",
-        "name": "Road to Empress Ⅱ",
-        "name_cn": null,
-        "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
-        "release_date": "2026-06-08",
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "模拟"
-        ],
-        "tags": [
-          "单人",
-          "Steam 成就",
-          "应用内购买",
-          "家庭共享"
-        ],
-        "review_score": "Very Positive",
-        "review_ratio": 82.0,
-        "review_total": 5738,
-        "developer": " New One Studio",
-        "publisher": " New One Studio, Ariel",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781165139",
-        "steam_url": "https://store.steampowered.com/app/4148240",
-        "trend": [
-          {
-            "date": "2026-06-10",
-            "peak": 28665
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 30357
-          }
-        ]
-      }
-    },
-    {
       "rank": 4,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 22.73,
+      "score": 24.73,
       "fact_summary": "SpaceCraft 今日观测峰值 7,707，较过往最高峰值提升 +16%，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 7707,
@@ -459,12 +469,13 @@
         "peak_score": 2.7,
         "record_growth_score": 5.75,
         "days_seen_score": 4.29,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 22.73,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 24.73,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "review_ratio": 71.0,
-        "review_total": 1165,
+        "cumulative_star_count": 0,
+        "review_ratio": 69.0,
+        "review_total": 1649,
         "days_seen": 3,
         "comeback_gap_days": 1,
         "is_new_release": true,
@@ -520,9 +531,9 @@
           "在线合作",
           "应用内购买"
         ],
-        "review_score": "Mostly Positive",
-        "review_ratio": 71.0,
-        "review_total": 1165,
+        "review_score": "Mixed",
+        "review_ratio": 69.0,
+        "review_total": 1649,
         "developer": "Shiro Games",
         "publisher": "Shiro Games",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3276050/5c3fb496686b81ad694e250a3ac6707bde7372db/header_alt_assets_1_schinese.jpg?t=1781191112",
@@ -547,7 +558,7 @@
       "rank": 5,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 21.88,
+      "score": 23.88,
       "fact_summary": "Solarpunk 今日观测峰值 9,445，未超过过往最高峰值 10,192，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 9445,
@@ -561,12 +572,13 @@
         "peak_score": 3.31,
         "record_growth_score": 0.0,
         "days_seen_score": 8.57,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 21.88,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 23.88,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "review_ratio": 79.0,
-        "review_total": 1777,
+        "cumulative_star_count": 0,
+        "review_ratio": 82.0,
+        "review_total": 2477,
         "days_seen": 6,
         "comeback_gap_days": 2,
         "is_new_release": true,
@@ -635,12 +647,12 @@
           "Steam 云",
           "家庭共享"
         ],
-        "review_score": "Mostly Positive",
-        "review_ratio": 79.0,
-        "review_total": 1777,
+        "review_score": "Very Positive",
+        "review_ratio": 82.0,
+        "review_total": 2477,
         "developer": "Cyberwave",
         "publisher": "rokaplay, Metaroot",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1780935129",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1781774673",
         "steam_url": "https://store.steampowered.com/app/1805110",
         "trend": [
           {

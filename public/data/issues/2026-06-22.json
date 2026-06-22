@@ -10,7 +10,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 48.63,
+    "score": 31.39,
     "fact_summary": "MECCHA CHAMELEON 今日观测峰值 340,534，较过往最高峰值提升 +17%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 340534,
@@ -24,12 +24,13 @@
       "peak_score": 35.0,
       "record_growth_score": 5.78,
       "days_seen_score": 10.0,
-      "signal_type_score": 10.0,
-      "score_before_multiplier": 60.78,
-      "score_multiplier": 0.8,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 62.78,
+      "score_multiplier": 0.5,
       "score_multiplier_reasons": [
-        "yesterday_star"
+        "cumulative_star_5x"
       ],
+      "cumulative_star_count": 5,
       "review_ratio": 82.0,
       "review_total": 17998,
       "days_seen": 11,
@@ -173,7 +174,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 48.63,
+    "score": 31.39,
     "fact_summary": "MECCHA CHAMELEON 今日观测峰值 340,534，较过往最高峰值提升 +17%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 340534,
@@ -187,12 +188,13 @@
       "peak_score": 35.0,
       "record_growth_score": 5.78,
       "days_seen_score": 10.0,
-      "signal_type_score": 10.0,
-      "score_before_multiplier": 60.78,
-      "score_multiplier": 0.8,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 62.78,
+      "score_multiplier": 0.5,
       "score_multiplier_reasons": [
-        "yesterday_star"
+        "cumulative_star_5x"
       ],
+      "cumulative_star_count": 5,
       "review_ratio": 82.0,
       "review_total": 17998,
       "days_seen": 11,
@@ -338,7 +340,140 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 29.8,
+      "score": 31.1,
+      "fact_summary": "Road to Empress Ⅱ 今日观测峰值 26,001，未超过过往最高峰值 30,357，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 26001,
+        "previous_peak": 30357,
+        "previous_record_peak": 30357,
+        "growth_rate": -0.1435,
+        "record_growth_rate": -0.1435,
+        "scoring_peak": 26001,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 9.1,
+        "record_growth_score": 0.0,
+        "days_seen_score": 10.0,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 31.1,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
+        "review_ratio": 83.0,
+        "review_total": 7161,
+        "days_seen": 7,
+        "comeback_gap_days": 4,
+        "is_new_release": true,
+        "release_age_days": 14,
+        "is_comeback_age": false,
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 28665
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 30357
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 27748
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 25326
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 24781
+          },
+          {
+            "date": "2026-06-21",
+            "peak": 25926
+          },
+          {
+            "date": "2026-06-22",
+            "peak": 26001
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4148240"
+        }
+      ],
+      "game": {
+        "slug": "road-to-empress",
+        "appid": "4148240",
+        "name": "Road to Empress Ⅱ",
+        "name_cn": null,
+        "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
+        "release_date": "2026-06-08",
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "应用内购买",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 83.0,
+        "review_total": 7161,
+        "developer": " New One Studio",
+        "publisher": " New One Studio, Ariel",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781677683",
+        "steam_url": "https://store.steampowered.com/app/4148240",
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 28665
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 30357
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 27748
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 25326
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 24781
+          },
+          {
+            "date": "2026-06-21",
+            "peak": 25926
+          },
+          {
+            "date": "2026-06-22",
+            "peak": 26001
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 25.44,
       "fact_summary": "Lost Castle 2 今日观测峰值 28,005，未超过过往最高峰值 28,835，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 28005,
@@ -352,10 +487,13 @@
         "peak_score": 9.8,
         "record_growth_score": 0.0,
         "days_seen_score": 10.0,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 29.8,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 31.8,
+        "score_multiplier": 0.8,
+        "score_multiplier_reasons": [
+          "cumulative_star_1x"
+        ],
+        "cumulative_star_count": 1,
         "review_ratio": 78.0,
         "review_total": 12085,
         "days_seen": 10,
@@ -498,251 +636,10 @@
       }
     },
     {
-      "rank": 3,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 29.1,
-      "fact_summary": "Road to Empress Ⅱ 今日观测峰值 26,001，未超过过往最高峰值 30,357，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 26001,
-        "previous_peak": 30357,
-        "previous_record_peak": 30357,
-        "growth_rate": -0.1435,
-        "record_growth_rate": -0.1435,
-        "scoring_peak": 26001,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 9.1,
-        "record_growth_score": 0.0,
-        "days_seen_score": 10.0,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 29.1,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "review_ratio": 83.0,
-        "review_total": 7161,
-        "days_seen": 7,
-        "comeback_gap_days": 4,
-        "is_new_release": true,
-        "release_age_days": 14,
-        "is_comeback_age": false,
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "模拟"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-10",
-            "peak": 28665
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 30357
-          },
-          {
-            "date": "2026-06-16",
-            "peak": 27748
-          },
-          {
-            "date": "2026-06-19",
-            "peak": 25326
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 24781
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 25926
-          },
-          {
-            "date": "2026-06-22",
-            "peak": 26001
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/4148240"
-        }
-      ],
-      "game": {
-        "slug": "road-to-empress",
-        "appid": "4148240",
-        "name": "Road to Empress Ⅱ",
-        "name_cn": null,
-        "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
-        "release_date": "2026-06-08",
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "模拟"
-        ],
-        "tags": [
-          "单人",
-          "Steam 成就",
-          "应用内购买",
-          "家庭共享"
-        ],
-        "review_score": "Very Positive",
-        "review_ratio": 83.0,
-        "review_total": 7161,
-        "developer": " New One Studio",
-        "publisher": " New One Studio, Ariel",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781677683",
-        "steam_url": "https://store.steampowered.com/app/4148240",
-        "trend": [
-          {
-            "date": "2026-06-10",
-            "peak": 28665
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 30357
-          },
-          {
-            "date": "2026-06-16",
-            "peak": 27748
-          },
-          {
-            "date": "2026-06-19",
-            "peak": 25326
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 24781
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 25926
-          },
-          {
-            "date": "2026-06-22",
-            "peak": 26001
-          }
-        ]
-      }
-    },
-    {
       "rank": 4,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 23.68,
-      "fact_summary": "太吾绘卷：天幕心帷 今日观测峰值 22,752，未超过过往最高峰值 51,039，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 22752,
-        "previous_peak": 51039,
-        "previous_record_peak": 51039,
-        "growth_rate": -0.5542,
-        "record_growth_rate": -0.5542,
-        "scoring_peak": 22752,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 7.96,
-        "record_growth_score": 0.0,
-        "days_seen_score": 5.71,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 23.68,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "review_ratio": 69.0,
-        "review_total": 65787,
-        "days_seen": 4,
-        "comeback_gap_days": 1,
-        "is_new_release": true,
-        "release_age_days": 6,
-        "is_comeback_age": false,
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "策略"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-19",
-            "peak": 29261
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 43594
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 51039
-          },
-          {
-            "date": "2026-06-22",
-            "peak": 22752
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/838350"
-        }
-      ],
-      "game": {
-        "slug": "case",
-        "appid": "838350",
-        "name": "太吾绘卷：天幕心帷",
-        "name_cn": null,
-        "description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
-        "release_date": "2026-06-16",
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "策略"
-        ],
-        "tags": [
-          "单人",
-          "Steam 成就",
-          "Steam 创意工坊",
-          "在平板上远程畅玩",
-          "家庭共享"
-        ],
-        "review_score": "Mixed",
-        "review_ratio": 69.0,
-        "review_total": 65787,
-        "developer": "ConchShip Games",
-        "publisher": "ConchShip Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782004171",
-        "steam_url": "https://store.steampowered.com/app/838350",
-        "trend": [
-          {
-            "date": "2026-06-19",
-            "peak": 29261
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 43594
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 51039
-          },
-          {
-            "date": "2026-06-22",
-            "peak": 22752
-          }
-        ]
-      }
-    },
-    {
-      "rank": 5,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 22.66,
+      "score": 24.66,
       "fact_summary": "SpaceCraft 今日观测峰值 7,587，未超过过往最高峰值 7,707，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 7587,
@@ -756,10 +653,11 @@
         "peak_score": 2.66,
         "record_growth_score": 0.0,
         "days_seen_score": 10.0,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 22.66,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 24.66,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
         "review_ratio": 69.0,
         "review_total": 1649,
         "days_seen": 9,
@@ -884,6 +782,150 @@
           {
             "date": "2026-06-22",
             "peak": 7587
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 23.97,
+      "fact_summary": "Solarpunk 今日观测峰值 5,615，未超过过往最高峰值 10,192，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 5615,
+        "previous_peak": 10192,
+        "previous_record_peak": 10192,
+        "growth_rate": -0.4491,
+        "record_growth_rate": -0.4491,
+        "scoring_peak": 5615,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 1.97,
+        "record_growth_score": 0.0,
+        "days_seen_score": 10.0,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 23.97,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
+        "review_ratio": 82.0,
+        "review_total": 2477,
+        "days_seen": 8,
+        "comeback_gap_days": 6,
+        "is_new_release": true,
+        "release_age_days": 14,
+        "is_comeback_age": false,
+        "genres": [
+          "冒险",
+          "独立",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-09",
+            "peak": 10192
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 9929
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 9161
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 8262
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 8985
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 9445
+          },
+          {
+            "date": "2026-06-21",
+            "peak": 5147
+          },
+          {
+            "date": "2026-06-22",
+            "peak": 5615
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/1805110"
+        }
+      ],
+      "game": {
+        "slug": "solarpunk",
+        "appid": "1805110",
+        "name": "Solarpunk",
+        "name_cn": null,
+        "description": "《太阳朋克：浮岛家园 Solarpunk》是一款生存游戏，背景设定在一个科技先进、由漂浮岛屿组成的世界。你可以独自一人或与朋友一起建造建筑、种植食物、制作工具，并驾驶飞船探索遥远的天空之岛。 可以利用太阳能、风能和水利打造能源系统，并进行自动化生产作业，如收集资源和灌溉植物。",
+        "release_date": "2026-06-08",
+        "genres": [
+          "冒险",
+          "独立",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "Steam 成就",
+          "完全支持控制器",
+          "自定义音量控制",
+          "可调整难度",
+          "无需应对快速反应事件",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 82.0,
+        "review_total": 2477,
+        "developer": "Cyberwave",
+        "publisher": "rokaplay, Metaroot",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1781774673",
+        "steam_url": "https://store.steampowered.com/app/1805110",
+        "trend": [
+          {
+            "date": "2026-06-09",
+            "peak": 10192
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 9929
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 9161
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 8262
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 8985
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 9445
+          },
+          {
+            "date": "2026-06-21",
+            "peak": 5147
+          },
+          {
+            "date": "2026-06-22",
+            "peak": 5615
           }
         ]
       }

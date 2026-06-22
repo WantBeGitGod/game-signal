@@ -28,6 +28,7 @@
       "score_before_multiplier": 46.03,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "cumulative_star_count": 0,
       "review_ratio": 78.0,
       "review_total": 654913,
       "days_seen": 3,
@@ -119,6 +120,7 @@
       "score_before_multiplier": 46.03,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "cumulative_star_count": 0,
       "review_ratio": 78.0,
       "review_total": 654913,
       "days_seen": 3,
@@ -194,7 +196,7 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 40.83,
+      "score": 42.43,
       "fact_summary": "MECCHA CHAMELEON 今日观测峰值 61,078，较过往最高峰值提升 +40%，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 61078,
@@ -208,14 +210,15 @@
         "peak_score": 21.38,
         "record_growth_score": 13.95,
         "days_seen_score": 5.71,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 51.04,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 53.04,
         "score_multiplier": 0.8,
         "score_multiplier_reasons": [
-          "yesterday_star"
+          "cumulative_star_1x"
         ],
-        "review_ratio": 80.0,
-        "review_total": 7312,
+        "cumulative_star_count": 1,
+        "review_ratio": 82.0,
+        "review_total": 17998,
         "days_seen": 4,
         "comeback_gap_days": 2,
         "is_new_release": true,
@@ -271,8 +274,8 @@
           "家庭共享"
         ],
         "review_score": "Very Positive",
-        "review_ratio": 80.0,
-        "review_total": 7312,
+        "review_ratio": 82.0,
+        "review_total": 17998,
         "developer": "lemorion_1224",
         "publisher": "lemorion_1224",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
@@ -301,114 +304,7 @@
       "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 29.94,
-      "fact_summary": "Lost Castle 2 今日观测峰值 25,441，较过往最高峰值提升 +19%，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 25441,
-        "previous_peak": 21326,
-        "previous_record_peak": 21326,
-        "growth_rate": 0.193,
-        "record_growth_rate": 0.193,
-        "scoring_peak": 25441,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 8.9,
-        "record_growth_score": 6.75,
-        "days_seen_score": 4.29,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 29.94,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "review_ratio": 79.0,
-        "review_total": 11757,
-        "days_seen": 3,
-        "comeback_gap_days": 2,
-        "is_new_release": true,
-        "release_age_days": 4,
-        "is_comeback_age": false,
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "角色扮演"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-11",
-            "peak": 6290
-          },
-          {
-            "date": "2026-06-13",
-            "peak": 21326
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 25441
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/2445690"
-        }
-      ],
-      "game": {
-        "slug": "lost-castle-2",
-        "appid": "2445690",
-        "name": "Lost Castle 2",
-        "name_cn": null,
-        "description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
-        "release_date": "2026-06-10",
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "角色扮演"
-        ],
-        "tags": [
-          "单人",
-          "多人",
-          "合作",
-          "在线合作",
-          "局域网合作",
-          "同屏/分屏合作",
-          "同屏/分屏",
-          "Steam 成就",
-          "部分支持控制器",
-          "Steam 云",
-          "统计数据",
-          "远程同乐",
-          "家庭共享"
-        ],
-        "review_score": "Mostly Positive",
-        "review_ratio": 79.0,
-        "review_total": 11757,
-        "developer": "Hunter Studio",
-        "publisher": "Hunter Studio",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781171074",
-        "steam_url": "https://store.steampowered.com/app/2445690",
-        "trend": [
-          {
-            "date": "2026-06-11",
-            "peak": 6290
-          },
-          {
-            "date": "2026-06-13",
-            "peak": 21326
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 25441
-          }
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 24.38,
+      "score": 26.38,
       "fact_summary": "SpaceCraft 今日观测峰值 6,620，较过往最高峰值提升 +26%，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 6620,
@@ -422,12 +318,13 @@
         "peak_score": 2.32,
         "record_growth_score": 9.21,
         "days_seen_score": 2.86,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 24.38,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 26.38,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "review_ratio": 71.0,
-        "review_total": 1165,
+        "cumulative_star_count": 0,
+        "review_ratio": 69.0,
+        "review_total": 1649,
         "days_seen": 2,
         "comeback_gap_days": 1,
         "is_new_release": true,
@@ -479,9 +376,9 @@
           "在线合作",
           "应用内购买"
         ],
-        "review_score": "Mostly Positive",
-        "review_ratio": 71.0,
-        "review_total": 1165,
+        "review_score": "Mixed",
+        "review_ratio": 69.0,
+        "review_total": 1649,
         "developer": "Shiro Games",
         "publisher": "Shiro Games",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3276050/5c3fb496686b81ad694e250a3ac6707bde7372db/header_alt_assets_1_schinese.jpg?t=1781191112",
@@ -499,10 +396,10 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 23.71,
+      "score": 25.71,
       "fact_summary": "33 Immortals 今日观测峰值 7,070，较过往最高峰值提升 +24%，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 7070,
@@ -516,10 +413,11 @@
         "peak_score": 2.47,
         "record_growth_score": 8.37,
         "days_seen_score": 2.86,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 23.71,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 25.71,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
         "review_ratio": 77.0,
         "review_total": 1390,
         "days_seen": 2,
@@ -590,6 +488,116 @@
           {
             "date": "2026-06-14",
             "peak": 7070
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 25.55,
+      "fact_summary": "Lost Castle 2 今日观测峰值 25,441，较过往最高峰值提升 +19%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 25441,
+        "previous_peak": 21326,
+        "previous_record_peak": 21326,
+        "growth_rate": 0.193,
+        "record_growth_rate": 0.193,
+        "scoring_peak": 25441,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 8.9,
+        "record_growth_score": 6.75,
+        "days_seen_score": 4.29,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 31.94,
+        "score_multiplier": 0.8,
+        "score_multiplier_reasons": [
+          "cumulative_star_1x"
+        ],
+        "cumulative_star_count": 1,
+        "review_ratio": 78.0,
+        "review_total": 12085,
+        "days_seen": 3,
+        "comeback_gap_days": 2,
+        "is_new_release": true,
+        "release_age_days": 4,
+        "is_comeback_age": false,
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 6290
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 21326
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 25441
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2445690"
+        }
+      ],
+      "game": {
+        "slug": "lost-castle-2",
+        "appid": "2445690",
+        "name": "Lost Castle 2",
+        "name_cn": null,
+        "description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
+        "release_date": "2026-06-10",
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "角色扮演"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "局域网合作",
+          "同屏/分屏合作",
+          "同屏/分屏",
+          "Steam 成就",
+          "部分支持控制器",
+          "Steam 云",
+          "统计数据",
+          "远程同乐",
+          "家庭共享"
+        ],
+        "review_score": "Mostly Positive",
+        "review_ratio": 78.0,
+        "review_total": 12085,
+        "developer": "Hunter Studio",
+        "publisher": "Hunter Studio",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203",
+        "steam_url": "https://store.steampowered.com/app/2445690",
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 6290
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 21326
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 25441
           }
         ]
       }

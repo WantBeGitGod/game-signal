@@ -9,6 +9,12 @@
   "days_seen_score_weight": 10.0,
   "signal_type_score_weight": 10.0,
   "yesterday_star_score_multiplier": 0.8,
+  "cumulative_star_score_multipliers": [
+    0.8,
+    0.7,
+    0.6,
+    0.5
+  ],
   "player_log_weight": 12.0,
   "growth_weight": 10.0,
   "growth_cap": 5.0,
@@ -18,7 +24,7 @@
   "yesterday_star_player_discount": 0.7,
   "consecutive_star_case_threshold": 3,
   "daily_signal_type_scores": {
-    "new_release_rise": 10.0,
+    "new_release_rise": 12.0,
     "review_heat_gap": 8.0,
     "sustained_growth": 6.0,
     "comeback": 4.0

@@ -10,151 +10,102 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 61.8,
-    "fact_summary": "MECCHA CHAMELEON 今日观测峰值 292,248，较过往最高峰值提升 +19%，被识别为「新作起量」。",
+    "score": 32.1,
+    "fact_summary": "太吾绘卷：天幕心帷 今日观测峰值 51,039，较过往最高峰值提升 +17%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 292248,
-      "previous_peak": 244731,
-      "previous_record_peak": 244731,
-      "growth_rate": 0.1942,
-      "record_growth_rate": 0.1942,
-      "scoring_peak": 292248,
+      "current_peak": 51039,
+      "previous_peak": 43594,
+      "previous_record_peak": 43594,
+      "growth_rate": 0.1708,
+      "record_growth_rate": 0.1708,
+      "scoring_peak": 51039,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 35.0,
-      "record_growth_score": 6.8,
-      "days_seen_score": 10.0,
-      "signal_type_score": 10.0,
-      "score_before_multiplier": 61.8,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "review_ratio": 82.0,
-      "review_total": 15587,
-      "days_seen": 10,
-      "comeback_gap_days": 2,
+      "peak_score": 17.86,
+      "record_growth_score": 5.98,
+      "days_seen_score": 4.29,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 40.13,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "cumulative_star_1x"
+      ],
+      "cumulative_star_count": 1,
+      "review_ratio": 69.0,
+      "review_total": 65787,
+      "days_seen": 3,
+      "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 12,
+      "release_age_days": 5,
       "is_comeback_age": false,
       "genres": [
-        "休闲"
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演",
+        "策略"
       ],
       "trend": [
         {
-          "date": "2026-06-10",
-          "peak": 15813
-        },
-        {
-          "date": "2026-06-11",
-          "peak": 20738
-        },
-        {
-          "date": "2026-06-13",
-          "peak": 43671
-        },
-        {
-          "date": "2026-06-14",
-          "peak": 61078
-        },
-        {
-          "date": "2026-06-15",
-          "peak": 95482
-        },
-        {
-          "date": "2026-06-16",
-          "peak": 132154
-        },
-        {
-          "date": "2026-06-17",
-          "peak": 209667
-        },
-        {
           "date": "2026-06-19",
-          "peak": 244731
+          "peak": 29261
         },
         {
           "date": "2026-06-20",
-          "peak": 233555
+          "peak": 43594
         },
         {
           "date": "2026-06-21",
-          "peak": 292248
+          "peak": 51039
         }
       ]
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4704690"
+        "url": "https://store.steampowered.com/app/838350"
       }
     ],
     "game": {
-      "slug": "meccha-chameleon",
-      "appid": "4704690",
-      "name": "MECCHA CHAMELEON",
+      "slug": "case",
+      "appid": "838350",
+      "name": "太吾绘卷：天幕心帷",
       "name_cn": null,
-      "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
-      "release_date": "2026-06-09",
+      "description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
+      "release_date": "2026-06-16",
       "genres": [
-        "休闲"
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演",
+        "策略"
       ],
       "tags": [
-        "多人",
-        "玩家对战",
-        "线上玩家对战",
-        "视角舒适度",
-        "自定义音量控制",
-        "无需应对快速反应事件",
-        "立体声",
-        "环绕声",
+        "单人",
+        "Steam 成就",
+        "Steam 创意工坊",
+        "在平板上远程畅玩",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 82.0,
-      "review_total": 15587,
-      "developer": "lemorion_1224",
-      "publisher": "lemorion_1224",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
-      "steam_url": "https://store.steampowered.com/app/4704690",
+      "review_score": "Mixed",
+      "review_ratio": 69.0,
+      "review_total": 65787,
+      "developer": "ConchShip Games",
+      "publisher": "ConchShip Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782004171",
+      "steam_url": "https://store.steampowered.com/app/838350",
       "trend": [
         {
-          "date": "2026-06-10",
-          "peak": 15813
-        },
-        {
-          "date": "2026-06-11",
-          "peak": 20738
-        },
-        {
-          "date": "2026-06-13",
-          "peak": 43671
-        },
-        {
-          "date": "2026-06-14",
-          "peak": 61078
-        },
-        {
-          "date": "2026-06-15",
-          "peak": 95482
-        },
-        {
-          "date": "2026-06-16",
-          "peak": 132154
-        },
-        {
-          "date": "2026-06-17",
-          "peak": 209667
-        },
-        {
           "date": "2026-06-19",
-          "peak": 244731
+          "peak": 29261
         },
         {
           "date": "2026-06-20",
-          "peak": 233555
+          "peak": 43594
         },
         {
           "date": "2026-06-21",
-          "peak": 292248
+          "peak": 51039
         }
       ]
     }
@@ -163,151 +114,102 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 61.8,
-    "fact_summary": "MECCHA CHAMELEON 今日观测峰值 292,248，较过往最高峰值提升 +19%，被识别为「新作起量」。",
+    "score": 32.1,
+    "fact_summary": "太吾绘卷：天幕心帷 今日观测峰值 51,039，较过往最高峰值提升 +17%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 292248,
-      "previous_peak": 244731,
-      "previous_record_peak": 244731,
-      "growth_rate": 0.1942,
-      "record_growth_rate": 0.1942,
-      "scoring_peak": 292248,
+      "current_peak": 51039,
+      "previous_peak": 43594,
+      "previous_record_peak": 43594,
+      "growth_rate": 0.1708,
+      "record_growth_rate": 0.1708,
+      "scoring_peak": 51039,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 35.0,
-      "record_growth_score": 6.8,
-      "days_seen_score": 10.0,
-      "signal_type_score": 10.0,
-      "score_before_multiplier": 61.8,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "review_ratio": 82.0,
-      "review_total": 15587,
-      "days_seen": 10,
-      "comeback_gap_days": 2,
+      "peak_score": 17.86,
+      "record_growth_score": 5.98,
+      "days_seen_score": 4.29,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 40.13,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "cumulative_star_1x"
+      ],
+      "cumulative_star_count": 1,
+      "review_ratio": 69.0,
+      "review_total": 65787,
+      "days_seen": 3,
+      "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 12,
+      "release_age_days": 5,
       "is_comeback_age": false,
       "genres": [
-        "休闲"
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演",
+        "策略"
       ],
       "trend": [
         {
-          "date": "2026-06-10",
-          "peak": 15813
-        },
-        {
-          "date": "2026-06-11",
-          "peak": 20738
-        },
-        {
-          "date": "2026-06-13",
-          "peak": 43671
-        },
-        {
-          "date": "2026-06-14",
-          "peak": 61078
-        },
-        {
-          "date": "2026-06-15",
-          "peak": 95482
-        },
-        {
-          "date": "2026-06-16",
-          "peak": 132154
-        },
-        {
-          "date": "2026-06-17",
-          "peak": 209667
-        },
-        {
           "date": "2026-06-19",
-          "peak": 244731
+          "peak": 29261
         },
         {
           "date": "2026-06-20",
-          "peak": 233555
+          "peak": 43594
         },
         {
           "date": "2026-06-21",
-          "peak": 292248
+          "peak": 51039
         }
       ]
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4704690"
+        "url": "https://store.steampowered.com/app/838350"
       }
     ],
     "game": {
-      "slug": "meccha-chameleon",
-      "appid": "4704690",
-      "name": "MECCHA CHAMELEON",
+      "slug": "case",
+      "appid": "838350",
+      "name": "太吾绘卷：天幕心帷",
       "name_cn": null,
-      "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
-      "release_date": "2026-06-09",
+      "description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
+      "release_date": "2026-06-16",
       "genres": [
-        "休闲"
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演",
+        "策略"
       ],
       "tags": [
-        "多人",
-        "玩家对战",
-        "线上玩家对战",
-        "视角舒适度",
-        "自定义音量控制",
-        "无需应对快速反应事件",
-        "立体声",
-        "环绕声",
+        "单人",
+        "Steam 成就",
+        "Steam 创意工坊",
+        "在平板上远程畅玩",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 82.0,
-      "review_total": 15587,
-      "developer": "lemorion_1224",
-      "publisher": "lemorion_1224",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
-      "steam_url": "https://store.steampowered.com/app/4704690",
+      "review_score": "Mixed",
+      "review_ratio": 69.0,
+      "review_total": 65787,
+      "developer": "ConchShip Games",
+      "publisher": "ConchShip Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782004171",
+      "steam_url": "https://store.steampowered.com/app/838350",
       "trend": [
         {
-          "date": "2026-06-10",
-          "peak": 15813
-        },
-        {
-          "date": "2026-06-11",
-          "peak": 20738
-        },
-        {
-          "date": "2026-06-13",
-          "peak": 43671
-        },
-        {
-          "date": "2026-06-14",
-          "peak": 61078
-        },
-        {
-          "date": "2026-06-15",
-          "peak": 95482
-        },
-        {
-          "date": "2026-06-16",
-          "peak": 132154
-        },
-        {
-          "date": "2026-06-17",
-          "peak": 209667
-        },
-        {
           "date": "2026-06-19",
-          "peak": 244731
+          "peak": 29261
         },
         {
           "date": "2026-06-20",
-          "peak": 233555
+          "peak": 43594
         },
         {
           "date": "2026-06-21",
-          "peak": 292248
+          "peak": 51039
         }
       ]
     }
@@ -318,101 +220,154 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 30.5,
-      "fact_summary": "太吾绘卷：天幕心帷 今日观测峰值 51,039，较过往最高峰值提升 +17%，被识别为「新作起量」。",
+      "score": 31.9,
+      "fact_summary": "MECCHA CHAMELEON 今日观测峰值 292,248，较过往最高峰值提升 +19%，被识别为「新作起量」。",
       "metrics": {
-        "current_peak": 51039,
-        "previous_peak": 43594,
-        "previous_record_peak": 43594,
-        "growth_rate": 0.1708,
-        "record_growth_rate": 0.1708,
-        "scoring_peak": 51039,
+        "current_peak": 292248,
+        "previous_peak": 244731,
+        "previous_record_peak": 244731,
+        "growth_rate": 0.1942,
+        "record_growth_rate": 0.1942,
+        "scoring_peak": 292248,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 17.86,
-        "record_growth_score": 5.98,
-        "days_seen_score": 4.29,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 38.13,
-        "score_multiplier": 0.8,
+        "peak_score": 35.0,
+        "record_growth_score": 6.8,
+        "days_seen_score": 10.0,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 63.8,
+        "score_multiplier": 0.5,
         "score_multiplier_reasons": [
-          "yesterday_star"
+          "cumulative_star_5x"
         ],
-        "review_ratio": 69.0,
-        "review_total": 65415,
-        "days_seen": 3,
-        "comeback_gap_days": 1,
+        "cumulative_star_count": 5,
+        "review_ratio": 82.0,
+        "review_total": 17998,
+        "days_seen": 10,
+        "comeback_gap_days": 2,
         "is_new_release": true,
-        "release_age_days": 5,
+        "release_age_days": 12,
         "is_comeback_age": false,
         "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "策略"
+          "休闲"
         ],
         "trend": [
           {
+            "date": "2026-06-10",
+            "peak": 15813
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 20738
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 43671
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 61078
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 95482
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 132154
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 209667
+          },
+          {
             "date": "2026-06-19",
-            "peak": 29261
+            "peak": 244731
           },
           {
             "date": "2026-06-20",
-            "peak": 43594
+            "peak": 233555
           },
           {
             "date": "2026-06-21",
-            "peak": 51039
+            "peak": 292248
           }
         ]
       },
       "sources": [
         {
           "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/838350"
+          "url": "https://store.steampowered.com/app/4704690"
         }
       ],
       "game": {
-        "slug": "case",
-        "appid": "838350",
-        "name": "太吾绘卷：天幕心帷",
+        "slug": "meccha-chameleon",
+        "appid": "4704690",
+        "name": "MECCHA CHAMELEON",
         "name_cn": null,
-        "description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
-        "release_date": "2026-06-16",
+        "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
+        "release_date": "2026-06-09",
         "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "策略"
+          "休闲"
         ],
         "tags": [
-          "单人",
-          "Steam 成就",
-          "Steam 创意工坊",
-          "在平板上远程畅玩",
+          "多人",
+          "玩家对战",
+          "线上玩家对战",
+          "视角舒适度",
+          "自定义音量控制",
+          "无需应对快速反应事件",
+          "立体声",
+          "环绕声",
           "家庭共享"
         ],
-        "review_score": "Mixed",
-        "review_ratio": 69.0,
-        "review_total": 65415,
-        "developer": "ConchShip Games",
-        "publisher": "ConchShip Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782004171",
-        "steam_url": "https://store.steampowered.com/app/838350",
+        "review_score": "Very Positive",
+        "review_ratio": 82.0,
+        "review_total": 17998,
+        "developer": "lemorion_1224",
+        "publisher": "lemorion_1224",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
+        "steam_url": "https://store.steampowered.com/app/4704690",
         "trend": [
           {
+            "date": "2026-06-10",
+            "peak": 15813
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 20738
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 43671
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 61078
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 95482
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 132154
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 209667
+          },
+          {
             "date": "2026-06-19",
-            "peak": 29261
+            "peak": 244731
           },
           {
             "date": "2026-06-20",
-            "peak": 43594
+            "peak": 233555
           },
           {
             "date": "2026-06-21",
-            "peak": 51039
+            "peak": 292248
           }
         ]
       }
@@ -421,162 +376,7 @@
       "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 29.47,
-      "fact_summary": "Lost Castle 2 今日观测峰值 27,061，未超过过往最高峰值 28,835，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 27061,
-        "previous_peak": 28835,
-        "previous_record_peak": 28835,
-        "growth_rate": -0.0615,
-        "record_growth_rate": -0.0615,
-        "scoring_peak": 27061,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 9.47,
-        "record_growth_score": 0.0,
-        "days_seen_score": 10.0,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 29.47,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "review_ratio": 78.0,
-        "review_total": 12053,
-        "days_seen": 9,
-        "comeback_gap_days": 2,
-        "is_new_release": true,
-        "release_age_days": 11,
-        "is_comeback_age": false,
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "角色扮演"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-11",
-            "peak": 6290
-          },
-          {
-            "date": "2026-06-13",
-            "peak": 21326
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 25441
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 28725
-          },
-          {
-            "date": "2026-06-16",
-            "peak": 28279
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 28835
-          },
-          {
-            "date": "2026-06-19",
-            "peak": 26464
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 25658
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 27061
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/2445690"
-        }
-      ],
-      "game": {
-        "slug": "lost-castle-2",
-        "appid": "2445690",
-        "name": "Lost Castle 2",
-        "name_cn": null,
-        "description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
-        "release_date": "2026-06-10",
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "角色扮演"
-        ],
-        "tags": [
-          "单人",
-          "多人",
-          "合作",
-          "在线合作",
-          "局域网合作",
-          "同屏/分屏合作",
-          "同屏/分屏",
-          "Steam 成就",
-          "部分支持控制器",
-          "Steam 云",
-          "统计数据",
-          "远程同乐",
-          "家庭共享"
-        ],
-        "review_score": "Mostly Positive",
-        "review_ratio": 78.0,
-        "review_total": 12053,
-        "developer": "Hunter Studio",
-        "publisher": "Hunter Studio",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203",
-        "steam_url": "https://store.steampowered.com/app/2445690",
-        "trend": [
-          {
-            "date": "2026-06-11",
-            "peak": 6290
-          },
-          {
-            "date": "2026-06-13",
-            "peak": 21326
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 25441
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 28725
-          },
-          {
-            "date": "2026-06-16",
-            "peak": 28279
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 28835
-          },
-          {
-            "date": "2026-06-19",
-            "peak": 26464
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 25658
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 27061
-          }
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 29.04,
+      "score": 31.04,
       "fact_summary": "Mistfall Hunter Demo 今日观测峰值 11,245，较过往最高峰值提升 +23%，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 11245,
@@ -590,10 +390,11 @@
         "peak_score": 3.94,
         "record_growth_score": 7.96,
         "days_seen_score": 7.14,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 29.04,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 31.04,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
         "review_ratio": null,
         "review_total": 0,
         "days_seen": 5,
@@ -681,10 +482,10 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 27.65,
+      "score": 29.65,
       "fact_summary": "Road to Empress Ⅱ 今日观测峰值 25,926，未超过过往最高峰值 30,357，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 25926,
@@ -698,12 +499,13 @@
         "peak_score": 9.07,
         "record_growth_score": 0.0,
         "days_seen_score": 8.57,
-        "signal_type_score": 10.0,
-        "score_before_multiplier": 27.65,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 29.65,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
         "review_ratio": 83.0,
-        "review_total": 0,
+        "review_total": 7161,
         "days_seen": 6,
         "comeback_gap_days": 4,
         "is_new_release": true,
@@ -771,7 +573,7 @@
         ],
         "review_score": "Very Positive",
         "review_ratio": 83.0,
-        "review_total": 0,
+        "review_total": 7161,
         "developer": " New One Studio",
         "publisher": " New One Studio, Ariel",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781677683",
@@ -800,6 +602,125 @@
           {
             "date": "2026-06-21",
             "peak": 25926
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 27.33,
+      "fact_summary": "IRON NEST: Heavy Turret Simulator Demo 今日观测峰值 10,942，较过往最高峰值提升 +12%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 10942,
+        "previous_peak": 9730,
+        "previous_record_peak": 9730,
+        "growth_rate": 0.1246,
+        "record_growth_rate": 0.1246,
+        "scoring_peak": 10942,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 3.83,
+        "record_growth_score": 4.36,
+        "days_seen_score": 7.14,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 27.33,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
+        "review_ratio": 99.0,
+        "review_total": 4703,
+        "days_seen": 5,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 6,
+        "is_comeback_age": false,
+        "genres": [
+          "动作",
+          "独立",
+          "模拟",
+          "免费"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-16",
+            "peak": 6011
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 4754
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 6457
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 9730
+          },
+          {
+            "date": "2026-06-21",
+            "peak": 10942
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4300500"
+        }
+      ],
+      "game": {
+        "slug": "iron-nest-heavy-turret-simulator-demo",
+        "appid": "4300500",
+        "name": "IRON NEST: Heavy Turret Simulator Demo",
+        "name_cn": null,
+        "description": "《铁巢重炮》是一款残酷的柴油朋克重型火炮游戏，你将驾驶一台巨型战争机器，统治整个战场。 依照接收到的座标进行地图测距，将液压系统推到极限，校准火炮并发起毁灭性的打击 ⟹ 操作员，你会服从最高统帅部的命令吗？",
+        "release_date": "2026-06-15",
+        "genres": [
+          "动作",
+          "独立",
+          "模拟",
+          "免费"
+        ],
+        "tags": [
+          "单人",
+          "游戏试用版",
+          "完全支持控制器",
+          "可选颜色",
+          "自定义音量控制",
+          "无需应对快速反应事件",
+          "立体声",
+          "环绕声"
+        ],
+        "review_score": "Overwhelmingly Positive",
+        "review_ratio": 99.0,
+        "review_total": 4703,
+        "developer": "Nick Nieuwoudt, Dominik Latos",
+        "publisher": "Nick Nieuwoudt, Dominik Latos",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300500/6f0aa68814c48b298debab1028307e6aa4e6d7d4/header.jpg?t=1781623490",
+        "steam_url": "https://store.steampowered.com/app/4300500",
+        "trend": [
+          {
+            "date": "2026-06-16",
+            "peak": 6011
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 4754
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 6457
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 9730
+          },
+          {
+            "date": "2026-06-21",
+            "peak": 10942
           }
         ]
       }
