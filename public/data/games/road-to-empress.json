@@ -20,7 +20,7 @@
   ],
   "review_score": "Very Positive",
   "review_ratio": 83.0,
-  "review_total": 0,
+  "review_total": 7161,
   "developer": " New One Studio",
   "publisher": " New One Studio, Ariel",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781677683",
@@ -49,6 +49,10 @@
     {
       "date": "2026-06-21",
       "peak": 25926
+    },
+    {
+      "date": "2026-06-22",
+      "peak": 26001
     }
   ]
 }
