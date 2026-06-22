@@ -778,6 +778,7 @@ a {
 }
 
 .weekly-shelf {
+  box-sizing: border-box;
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: clamp(16px, 3vw, 32px);
@@ -785,7 +786,9 @@ a {
 }
 
 .weekly-cover-card {
+  box-sizing: border-box;
   display: flex;
+  min-width: 0;
   min-height: 360px;
   flex-direction: column;
   justify-content: space-between;
@@ -800,6 +803,11 @@ a {
   box-shadow-color: var(--blue);
 }
 
+.weekly-cover-heading {
+  display: grid;
+  gap: clamp(34px, 4.8vw, 72px);
+}
+
 .weekly-cover-card span,
 .weekly-cover-card strong {
   font-family: var(--mono);
@@ -808,11 +816,19 @@ a {
 }
 
 .weekly-cover-card h2 {
-  margin: auto 0 14px;
+  margin: 0 0 14px;
   font-family: var(--serif);
-  font-size: clamp(30px, 3.2vw, 48px);
-  line-height: 1.12;
-  overflow-wrap: anywhere;
+  font-size: clamp(34px, 3.05vw, 52px);
+  line-height: 1.06;
+  letter-spacing: 0;
+}
+
+.weekly-cover-card h2 span {
+  display: block;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  white-space: nowrap;
 }
 
 .weekly-cover-card p {
@@ -832,6 +848,7 @@ a {
   font-family: var(--serif);
   font-size: clamp(46px, 7vw, 108px);
   line-height: 1.02;
+  white-space: pre-line;
 }
 
 .weekly-hero p:last-child {
@@ -1985,7 +2002,15 @@ a {
   }
 
   .weekly-shelf {
-    grid-template-columns: 1fr;
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .weekly-cover-heading {
+    gap: 36px;
+  }
+
+  .weekly-cover-card h2 {
+    font-size: clamp(26px, 7.2vw, 34px);
   }
 
   .weekly-signal-rank {
