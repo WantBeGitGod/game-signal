@@ -25,7 +25,7 @@
   ],
   "review_score": "Mixed",
   "review_ratio": 70.0,
-  "review_total": 760,
+  "review_total": 871,
   "developer": "Square Enix, Claytechworks",
   "publisher": "Square Enix",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1781812674",
@@ -38,6 +38,18 @@
     {
       "date": "2026-06-20",
       "peak": 6710
+    },
+    {
+      "date": "2026-06-21",
+      "peak": 7171
+    },
+    {
+      "date": "2026-06-22",
+      "peak": 7092
+    },
+    {
+      "date": "2026-06-23",
+      "peak": 5035
     }
   ]
 }

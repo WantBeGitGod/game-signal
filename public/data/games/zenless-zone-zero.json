@@ -1,0 +1,43 @@
+{
+  "slug": "zenless-zone-zero",
+  "appid": "4162040",
+  "name": "Zenless Zone Zero",
+  "name_cn": null,
+  "description": "",
+  "release_date": "",
+  "genres": [],
+  "tags": [],
+  "review_score": "Very Positive",
+  "review_ratio": 87.0,
+  "review_total": 6568,
+  "developer": "",
+  "publisher": "",
+  "cover_image_url": "",
+  "steam_url": "https://store.steampowered.com/app/4162040",
+  "trend": [
+    {
+      "date": "2026-06-17",
+      "peak": 13299
+    },
+    {
+      "date": "2026-06-19",
+      "peak": 12985
+    },
+    {
+      "date": "2026-06-20",
+      "peak": 12474
+    },
+    {
+      "date": "2026-06-21",
+      "peak": 13429
+    },
+    {
+      "date": "2026-06-22",
+      "peak": 13217
+    },
+    {
+      "date": "2026-06-23",
+      "peak": 11596
+    }
+  ]
+}

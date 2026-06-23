@@ -1,0 +1,33 @@
+{
+  "slug": "sand",
+  "appid": "1431300",
+  "name": "Sand",
+  "name_cn": null,
+  "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
+  "release_date": "2026-06-22",
+  "genres": [
+    "动作",
+    "冒险",
+    "抢先体验"
+  ],
+  "tags": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "Steam 成就",
+    "家庭共享"
+  ],
+  "review_score": "Mixed",
+  "review_ratio": 60.0,
+  "review_total": 863,
+  "developer": "Hologryph, TowerHaus",
+  "publisher": "tinyBuild",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782165837",
+  "steam_url": "https://store.steampowered.com/app/1431300",
+  "trend": [
+    {
+      "date": "2026-06-23",
+      "peak": 15703
+    }
+  ]
+}
