@@ -1,0 +1,37 @@
+{
+  "slug": "warhammer-40-000-darktide",
+  "appid": "1361210",
+  "name": "Warhammer 40,000: Darktide",
+  "name_cn": null,
+  "description": "枪林弹雨，血雨腥风。在这款激烈残酷的动作射击游戏中，你将击杀无数嗜血凶恶的敌人，夺回巢都特提恩。《战锤40K：暗潮》是一款全新多人合作游戏，由曾开发《战锤：末世鼠疫》系列、屡获殊荣的团队——肥鲨（Fatshark）倾力打造，将带给你全新的游戏体验！ 特提恩衰落之际，正名之战打响之时。",
+  "release_date": "2022-11-30",
+  "genres": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "tags": [
+    "多人",
+    "合作",
+    "在线合作",
+    "跨平台多人",
+    "Steam 成就",
+    "支持字幕",
+    "应用内购买",
+    "部分支持控制器",
+    "家庭共享"
+  ],
+  "review_score": "Mostly Positive",
+  "review_ratio": 71.0,
+  "review_total": 133946,
+  "developer": "Fatshark",
+  "publisher": "Fatshark",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/c9110a232b6ba7ef21039fc00e4582b2acfec810/header_alt_assets_19.jpg?t=1782226781",
+  "steam_url": "https://store.steampowered.com/app/1361210",
+  "trend": [
+    {
+      "date": "2026-06-24",
+      "peak": 41764
+    }
+  ]
+}

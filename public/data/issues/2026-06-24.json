@@ -1,0 +1,631 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-06-24",
+  "title": "06.24 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 23.78,
+    "fact_summary": "BOMBANANA! Demo 今日观测峰值 9,806，较过往最高峰值提升 +8%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 9806,
+      "previous_peak": 9119,
+      "previous_record_peak": 9119,
+      "growth_rate": 0.0753,
+      "record_growth_rate": 0.0753,
+      "scoring_peak": 9806,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 3.43,
+      "record_growth_score": 2.64,
+      "days_seen_score": 5.71,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 23.78,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "cumulative_star_count": 0,
+      "review_ratio": 98.0,
+      "review_total": 1129,
+      "days_seen": 4,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 9,
+      "is_comeback_age": false,
+      "genres": [
+        "休闲",
+        "独立",
+        "策略"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-21",
+          "peak": 9088
+        },
+        {
+          "date": "2026-06-22",
+          "peak": 6328
+        },
+        {
+          "date": "2026-06-23",
+          "peak": 9119
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 9806
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4747510"
+      }
+    ],
+    "game": {
+      "slug": "bombanana-demo",
+      "appid": "4747510",
+      "name": "BOMBANANA! Demo",
+      "name_cn": null,
+      "description": "你们是一支由三只猴子组成的3人拆弹小队：盲猴、聋猴和哑猴。在你们改造成移动拆弹工坊的小型厢式车里，你们必须在有限时间和有限沟通条件下，在炸弹爆炸前完成拆除！",
+      "release_date": "2026-06-15",
+      "genres": [
+        "休闲",
+        "独立",
+        "策略"
+      ],
+      "tags": [
+        "多人",
+        "合作",
+        "在线合作",
+        "游戏试用版",
+        "视角舒适度",
+        "无需应对快速反应事件",
+        "随时保存",
+        "立体声"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 98.0,
+      "review_total": 1129,
+      "developer": "Lefto Studio",
+      "publisher": "Lefto Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747510/54d624f1d6ea0b30bafb736ef940bb6b78f4ba78/header.jpg?t=1782230961",
+      "steam_url": "https://store.steampowered.com/app/4747510",
+      "trend": [
+        {
+          "date": "2026-06-21",
+          "peak": 9088
+        },
+        {
+          "date": "2026-06-22",
+          "peak": 6328
+        },
+        {
+          "date": "2026-06-23",
+          "peak": 9119
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 9806
+        }
+      ]
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 23.78,
+    "fact_summary": "BOMBANANA! Demo 今日观测峰值 9,806，较过往最高峰值提升 +8%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 9806,
+      "previous_peak": 9119,
+      "previous_record_peak": 9119,
+      "growth_rate": 0.0753,
+      "record_growth_rate": 0.0753,
+      "scoring_peak": 9806,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 3.43,
+      "record_growth_score": 2.64,
+      "days_seen_score": 5.71,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 23.78,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "cumulative_star_count": 0,
+      "review_ratio": 98.0,
+      "review_total": 1129,
+      "days_seen": 4,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 9,
+      "is_comeback_age": false,
+      "genres": [
+        "休闲",
+        "独立",
+        "策略"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-21",
+          "peak": 9088
+        },
+        {
+          "date": "2026-06-22",
+          "peak": 6328
+        },
+        {
+          "date": "2026-06-23",
+          "peak": 9119
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 9806
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4747510"
+      }
+    ],
+    "game": {
+      "slug": "bombanana-demo",
+      "appid": "4747510",
+      "name": "BOMBANANA! Demo",
+      "name_cn": null,
+      "description": "你们是一支由三只猴子组成的3人拆弹小队：盲猴、聋猴和哑猴。在你们改造成移动拆弹工坊的小型厢式车里，你们必须在有限时间和有限沟通条件下，在炸弹爆炸前完成拆除！",
+      "release_date": "2026-06-15",
+      "genres": [
+        "休闲",
+        "独立",
+        "策略"
+      ],
+      "tags": [
+        "多人",
+        "合作",
+        "在线合作",
+        "游戏试用版",
+        "视角舒适度",
+        "无需应对快速反应事件",
+        "随时保存",
+        "立体声"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 98.0,
+      "review_total": 1129,
+      "developer": "Lefto Studio",
+      "publisher": "Lefto Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747510/54d624f1d6ea0b30bafb736ef940bb6b78f4ba78/header.jpg?t=1782230961",
+      "steam_url": "https://store.steampowered.com/app/4747510",
+      "trend": [
+        {
+          "date": "2026-06-21",
+          "peak": 9088
+        },
+        {
+          "date": "2026-06-22",
+          "peak": 6328
+        },
+        {
+          "date": "2026-06-23",
+          "peak": 9119
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 9806
+        }
+      ]
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": [
+    {
+      "rank": 2,
+      "type": "comeback",
+      "label": "老游戏回归",
+      "score": 20.97,
+      "fact_summary": "World of Warships 今日观测峰值 44,405，首次进入当前观察窗口，被识别为「老游戏回归」。",
+      "metrics": {
+        "current_peak": 44405,
+        "previous_peak": 0,
+        "previous_record_peak": 0,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 44405,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 15.54,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 4.0,
+        "score_before_multiplier": 20.97,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
+        "review_ratio": 77.0,
+        "review_total": 155206,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": false,
+        "release_age_days": 3143,
+        "is_comeback_age": true,
+        "genres": [
+          "动作",
+          "大型多人在线",
+          "模拟",
+          "策略",
+          "免费"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-24",
+            "peak": 44405
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/552990"
+        }
+      ],
+      "game": {
+        "slug": "world-of-warships",
+        "appid": "552990",
+        "name": "World of Warships",
+        "name_cn": null,
+        "description": "投身惊心动魄的海战，在超过800艘来自20世纪上半叶的战舰中组建您的舰队——从隐蔽的驱逐舰到巨型战列舰。变换您的战舰外观并选择适合您游戏风格的升级品，与其他玩家在战斗中并肩作战！",
+        "release_date": "2017-11-15",
+        "genres": [
+          "动作",
+          "大型多人在线",
+          "模拟",
+          "策略",
+          "免费"
+        ],
+        "tags": [
+          "多人",
+          "大型多人在线",
+          "玩家对战",
+          "线上玩家对战",
+          "合作",
+          "在线合作",
+          "Steam 成就",
+          "Steam 集换式卡牌",
+          "应用内购买",
+          "可调整文字大小",
+          "视角舒适度",
+          "可选颜色",
+          "自定义音量控制",
+          "无需应对快速反应事件",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Mostly Positive",
+        "review_ratio": 77.0,
+        "review_total": 155206,
+        "developer": "Wargaming Group Limited",
+        "publisher": "Wargaming Group Limited",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552990/db49087342c8747454a2ec9235be37fc02b85084/header.jpg?t=1781685795",
+        "steam_url": "https://store.steampowered.com/app/552990",
+        "trend": [
+          {
+            "date": "2026-06-24",
+            "peak": 44405
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "comeback",
+      "label": "老游戏回归",
+      "score": 20.05,
+      "fact_summary": "Warhammer 40,000: Darktide 今日观测峰值 41,764，首次进入当前观察窗口，被识别为「老游戏回归」。",
+      "metrics": {
+        "current_peak": 41764,
+        "previous_peak": 0,
+        "previous_record_peak": 0,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 41764,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 14.62,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 4.0,
+        "score_before_multiplier": 20.05,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
+        "review_ratio": 71.0,
+        "review_total": 133946,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": false,
+        "release_age_days": 1302,
+        "is_comeback_age": true,
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-24",
+            "peak": 41764
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/1361210"
+        }
+      ],
+      "game": {
+        "slug": "warhammer-40-000-darktide",
+        "appid": "1361210",
+        "name": "Warhammer 40,000: Darktide",
+        "name_cn": null,
+        "description": "枪林弹雨，血雨腥风。在这款激烈残酷的动作射击游戏中，你将击杀无数嗜血凶恶的敌人，夺回巢都特提恩。《战锤40K：暗潮》是一款全新多人合作游戏，由曾开发《战锤：末世鼠疫》系列、屡获殊荣的团队——肥鲨（Fatshark）倾力打造，将带给你全新的游戏体验！ 特提恩衰落之际，正名之战打响之时。",
+        "release_date": "2022-11-30",
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "tags": [
+          "多人",
+          "合作",
+          "在线合作",
+          "跨平台多人",
+          "Steam 成就",
+          "支持字幕",
+          "应用内购买",
+          "部分支持控制器",
+          "家庭共享"
+        ],
+        "review_score": "Mostly Positive",
+        "review_ratio": 71.0,
+        "review_total": 133946,
+        "developer": "Fatshark",
+        "publisher": "Fatshark",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/c9110a232b6ba7ef21039fc00e4582b2acfec810/header_alt_assets_19.jpg?t=1782226781",
+        "steam_url": "https://store.steampowered.com/app/1361210",
+        "trend": [
+          {
+            "date": "2026-06-24",
+            "peak": 41764
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 19.53,
+      "fact_summary": "Sand 今日观测峰值 13,358，未超过过往最高峰值 15,703，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 13358,
+        "previous_peak": 15703,
+        "previous_record_peak": 15703,
+        "growth_rate": -0.1493,
+        "record_growth_rate": -0.1493,
+        "scoring_peak": 13358,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 4.68,
+        "record_growth_score": 0.0,
+        "days_seen_score": 2.86,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 19.53,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
+        "review_ratio": 59.0,
+        "review_total": 1703,
+        "days_seen": 2,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "release_age_days": 2,
+        "is_comeback_age": false,
+        "genres": [
+          "动作",
+          "冒险",
+          "抢先体验"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-23",
+            "peak": 15703
+          },
+          {
+            "date": "2026-06-24",
+            "peak": 13358
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/1431300"
+        }
+      ],
+      "game": {
+        "slug": "sand",
+        "appid": "1431300",
+        "name": "Sand",
+        "name_cn": null,
+        "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
+        "release_date": "2026-06-22",
+        "genres": [
+          "动作",
+          "冒险",
+          "抢先体验"
+        ],
+        "tags": [
+          "多人",
+          "玩家对战",
+          "线上玩家对战",
+          "Steam 成就",
+          "家庭共享"
+        ],
+        "review_score": "Mixed",
+        "review_ratio": 59.0,
+        "review_total": 1703,
+        "developer": "Hologryph, TowerHaus",
+        "publisher": "tinyBuild",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782165837",
+        "steam_url": "https://store.steampowered.com/app/1431300",
+        "trend": [
+          {
+            "date": "2026-06-23",
+            "peak": 15703
+          },
+          {
+            "date": "2026-06-24",
+            "peak": 13358
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 19.23,
+      "fact_summary": "The Scroll of Taiwu : Beyond The Dome 今日观测峰值 19,695，未超过过往最高峰值 51,039，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 19695,
+        "previous_peak": 51039,
+        "previous_record_peak": 51039,
+        "growth_rate": -0.6141,
+        "record_growth_rate": -0.6141,
+        "scoring_peak": 19695,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 6.89,
+        "record_growth_score": 0.0,
+        "days_seen_score": 8.57,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 27.46,
+        "score_multiplier": 0.7,
+        "score_multiplier_reasons": [
+          "cumulative_star_2x"
+        ],
+        "cumulative_star_count": 2,
+        "review_ratio": 68.0,
+        "review_total": 66746,
+        "days_seen": 6,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 8,
+        "is_comeback_age": false,
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "策略"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-19",
+            "peak": 29261
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 43594
+          },
+          {
+            "date": "2026-06-21",
+            "peak": 51039
+          },
+          {
+            "date": "2026-06-22",
+            "peak": 22752
+          },
+          {
+            "date": "2026-06-23",
+            "peak": 20806
+          },
+          {
+            "date": "2026-06-24",
+            "peak": 19695
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/838350"
+        }
+      ],
+      "game": {
+        "slug": "the-scroll-of-taiwu-beyond-the-dome",
+        "appid": "838350",
+        "name": "The Scroll of Taiwu : Beyond The Dome",
+        "name_cn": null,
+        "description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
+        "release_date": "2026-06-16",
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "策略"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "Steam 创意工坊",
+          "在平板上远程畅玩",
+          "家庭共享"
+        ],
+        "review_score": "Mixed",
+        "review_ratio": 68.0,
+        "review_total": 66746,
+        "developer": "ConchShip Games",
+        "publisher": "ConchShip Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782113702",
+        "steam_url": "https://store.steampowered.com/app/838350",
+        "trend": [
+          {
+            "date": "2026-06-19",
+            "peak": 29261
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 43594
+          },
+          {
+            "date": "2026-06-21",
+            "peak": 51039
+          },
+          {
+            "date": "2026-06-22",
+            "peak": 22752
+          },
+          {
+            "date": "2026-06-23",
+            "peak": 20806
+          },
+          {
+            "date": "2026-06-24",
+            "peak": 19695
+          }
+        ]
+      }
+    }
+  ]
+}

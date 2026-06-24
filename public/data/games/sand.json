@@ -18,8 +18,8 @@
     "家庭共享"
   ],
   "review_score": "Mixed",
-  "review_ratio": 60.0,
-  "review_total": 863,
+  "review_ratio": 59.0,
+  "review_total": 1703,
   "developer": "Hologryph, TowerHaus",
   "publisher": "tinyBuild",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782165837",
@@ -28,6 +28,10 @@
     {
       "date": "2026-06-23",
       "peak": 15703
+    },
+    {
+      "date": "2026-06-24",
+      "peak": 13358
     }
   ]
 }
