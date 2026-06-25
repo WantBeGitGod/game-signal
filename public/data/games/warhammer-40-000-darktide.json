@@ -23,7 +23,7 @@
   ],
   "review_score": "Mostly Positive",
   "review_ratio": 71.0,
-  "review_total": 133946,
+  "review_total": 134075,
   "developer": "Fatshark",
   "publisher": "Fatshark",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/c9110a232b6ba7ef21039fc00e4582b2acfec810/header_alt_assets_19.jpg?t=1782226781",
@@ -32,6 +32,10 @@
     {
       "date": "2026-06-24",
       "peak": 41764
+    },
+    {
+      "date": "2026-06-25",
+      "peak": 32628
     }
   ]
 }
