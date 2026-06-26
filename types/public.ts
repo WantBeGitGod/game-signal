@@ -57,6 +57,9 @@ export type ScoringSnapshot = {
   days_seen_score_weight: number
   signal_type_score_weight: number
   yesterday_star_score_multiplier: number
+  cumulative_star_score_multipliers: number[]
+  discount_comeback_score_multiplier: number
+  comeback_event_lookback_days: number
   player_log_weight: number
   growth_weight: number
   growth_cap: number

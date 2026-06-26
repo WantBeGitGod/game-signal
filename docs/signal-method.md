@@ -6,7 +6,9 @@ Game Signal identifies unusual Steam movements with deterministic rules, then us
 
 - **突然爆发**: the latest observed peak rises sharply against the previous observed day.
 - **新作起量**: a recently released game reaches meaningful observed activity.
-- **老游戏回归**: a previously observed game returns after a long gap.
+- **老游戏回归**: an older game returns without a detected recent content or discount event.
+- **内容更新回归**: an older game returns alongside recent chapter, DLC, expansion, season or major-update news.
+- **折扣回流**: an older game returns alongside recent sale, discount or free-weekend news.
 - **口碑与热度背离**: meaningful activity appears despite a comparatively weak review ratio.
 - **持续增长**: observed daily peaks rise for at least three consecutive observation days.
 
@@ -14,7 +16,7 @@ Game Signal identifies unusual Steam movements with deterministic rules, then us
 
 The score combines observed peak scale, positive change, observation depth and a rule-specific bonus. Fixed input produces fixed ordering; ties are resolved by game name. AI-generated hypotheses never alter the ranking.
 
-The current public weight snapshot is exported to `public/data/scoring.json`. Games outside the configured 30-day new-release window and the previous date's `今日之星` receive a discount only on the player-count contribution. Growth, review-heat mismatch, release-window value and signal-type bonuses are not discounted, so the rule can still surface a persistent breakout when it remains unusually strong after the scale adjustment.
+The current public weight snapshot is exported to `public/data/scoring.json`. Games outside the configured 30-day new-release window are checked against recent Steam news. Chapter, DLC, expansion, season and major-update evidence is scored close to a new release; sale and discount evidence receives a lower signal score plus an additional final-score multiplier. The previous date's `今日之星` and repeated star wins still reduce final score through deterministic multipliers, so repeated exposure does not crowd out fresher signals.
 
 ## Editorial boundary
 

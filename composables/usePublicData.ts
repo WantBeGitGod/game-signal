@@ -54,6 +54,9 @@ export function useScoring() {
       days_seen_score_weight: 10,
       signal_type_score_weight: 10,
       yesterday_star_score_multiplier: 0.8,
+      cumulative_star_score_multipliers: [0.8, 0.7, 0.6, 0.5],
+      discount_comeback_score_multiplier: 0.75,
+      comeback_event_lookback_days: 14,
       player_log_weight: 12,
       growth_weight: 10,
       growth_cap: 5,
@@ -66,6 +69,8 @@ export function useScoring() {
         new_release_rise: 10,
         review_heat_gap: 8,
         sustained_growth: 6,
+        content_update_comeback: 10.8,
+        discount_comeback: 2,
         comeback: 4
       },
       signal_bonuses: {

@@ -1,0 +1,50 @@
+{
+  "slug": "fellowship",
+  "appid": "2352620",
+  "name": "Fellowship",
+  "name_cn": null,
+  "description": "《秘境战盟》是一款多人在线地下城冒险游戏，背景设定在一个激动人心的奇幻世界中，拥有无限升级的地下城挑战。",
+  "release_date": "2025-10-16",
+  "genres": [
+    "角色扮演",
+    "抢先体验"
+  ],
+  "tags": [
+    "多人",
+    "合作",
+    "在线合作",
+    "应用内购买",
+    "可调整文字大小",
+    "视角舒适度",
+    "自定义音量控制",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "立体声",
+    "家庭共享"
+  ],
+  "review_score": "Mostly Positive",
+  "review_ratio": 75.0,
+  "review_total": 16968,
+  "developer": "Chief Rebel",
+  "publisher": "Coffee Stain Publishing, Arc Games",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2352620/84990f2cebb8a836229b318d194160d823d67cd8/header_alt_assets_2.jpg?t=1782140326",
+  "steam_url": "https://store.steampowered.com/app/2352620",
+  "trend": [
+    {
+      "date": "2026-06-23",
+      "peak": 6915
+    },
+    {
+      "date": "2026-06-24",
+      "peak": 5701
+    },
+    {
+      "date": "2026-06-25",
+      "peak": 5778
+    },
+    {
+      "date": "2026-06-26",
+      "peak": 5022
+    }
+  ]
+}

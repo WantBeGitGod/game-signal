@@ -12,12 +12,15 @@
   "tags": [
     "单人",
     "完全支持控制器",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
     "Steam 云",
     "家庭共享"
   ],
   "review_score": "Overwhelmingly Positive",
   "review_ratio": 98.0,
-  "review_total": 108230,
+  "review_total": 110265,
   "developer": "tobyfox",
   "publisher": "tobyfox",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
@@ -26,6 +29,10 @@
     {
       "date": "2026-06-25",
       "peak": 133452
+    },
+    {
+      "date": "2026-06-26",
+      "peak": 60490
     }
   ]
 }
