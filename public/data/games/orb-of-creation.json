@@ -16,9 +16,9 @@
     "Steam 云",
     "家庭共享"
   ],
-  "review_score": "Very Positive",
+  "review_score": "特别好评",
   "review_ratio": 90.0,
-  "review_total": 1628,
+  "review_total": 1723,
   "developer": "MarpleGames",
   "publisher": "MarpleGames",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910680/28cbe4a8420b96a025958a161203b5603a17daed/header.jpg?t=1782342864",
@@ -27,6 +27,14 @@
     {
       "date": "2026-06-25",
       "peak": 5592
+    },
+    {
+      "date": "2026-06-26",
+      "peak": 5626
+    },
+    {
+      "date": "2026-06-27",
+      "peak": 5146
     }
   ]
 }

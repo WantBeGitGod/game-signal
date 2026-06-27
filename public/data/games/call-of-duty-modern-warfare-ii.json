@@ -1,0 +1,25 @@
+{
+  "slug": "call-of-duty-modern-warfare-ii",
+  "appid": null,
+  "name": "Call of Duty®: Modern Warfare® II",
+  "name_cn": null,
+  "description": "《使命召唤®：现代战争® II 2022》将玩家带入了一场前所未有的全球冲突，141特遣队的标志性队员们即将回归。",
+  "release_date": "2022-10-22",
+  "genres": [
+    "动作"
+  ],
+  "tags": [],
+  "review_score": "褒贬不一",
+  "review_ratio": 42.0,
+  "review_total": 15216,
+  "developer": null,
+  "publisher": null,
+  "cover_image_url": null,
+  "steam_url": null,
+  "trend": [
+    {
+      "date": "2026-06-27",
+      "peak": 31810
+    }
+  ]
+}

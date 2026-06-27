@@ -1,0 +1,642 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-06-27",
+  "title": "06.27 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 40.0,
+    "fact_summary": "Sand 今日观测峰值 21,659，较过往最高峰值提升 +38%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 21659,
+      "previous_peak": 15703,
+      "previous_record_peak": 15703,
+      "growth_rate": 0.3793,
+      "record_growth_rate": 0.3793,
+      "scoring_peak": 21659,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 7.58,
+      "record_growth_score": 13.28,
+      "days_seen_score": 7.14,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 40.0,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "cumulative_star_count": 0,
+      "review_ratio": 57.0,
+      "review_total": 3481,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 5,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "抢先体验"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-23",
+          "peak": 15703
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 13358
+        },
+        {
+          "date": "2026-06-25",
+          "peak": 13882
+        },
+        {
+          "date": "2026-06-26",
+          "peak": 15627
+        },
+        {
+          "date": "2026-06-27",
+          "peak": 21659
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1431300"
+      }
+    ],
+    "game": {
+      "slug": "sand",
+      "appid": "1431300",
+      "name": "Sand",
+      "name_cn": null,
+      "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
+      "release_date": "2026-06-22",
+      "genres": [
+        "动作",
+        "冒险",
+        "抢先体验"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "Steam 成就",
+        "家庭共享"
+      ],
+      "review_score": "褒贬不一",
+      "review_ratio": 57.0,
+      "review_total": 3481,
+      "developer": "Hologryph, TowerHaus",
+      "publisher": "tinyBuild",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
+      "steam_url": "https://store.steampowered.com/app/1431300",
+      "trend": [
+        {
+          "date": "2026-06-23",
+          "peak": 15703
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 13358
+        },
+        {
+          "date": "2026-06-25",
+          "peak": 13882
+        },
+        {
+          "date": "2026-06-26",
+          "peak": 15627
+        },
+        {
+          "date": "2026-06-27",
+          "peak": 21659
+        }
+      ]
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 40.0,
+    "fact_summary": "Sand 今日观测峰值 21,659，较过往最高峰值提升 +38%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 21659,
+      "previous_peak": 15703,
+      "previous_record_peak": 15703,
+      "growth_rate": 0.3793,
+      "record_growth_rate": 0.3793,
+      "scoring_peak": 21659,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 7.58,
+      "record_growth_score": 13.28,
+      "days_seen_score": 7.14,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 40.0,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "cumulative_star_count": 0,
+      "review_ratio": 57.0,
+      "review_total": 3481,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 5,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "抢先体验"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-23",
+          "peak": 15703
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 13358
+        },
+        {
+          "date": "2026-06-25",
+          "peak": 13882
+        },
+        {
+          "date": "2026-06-26",
+          "peak": 15627
+        },
+        {
+          "date": "2026-06-27",
+          "peak": 21659
+        }
+      ]
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1431300"
+      }
+    ],
+    "game": {
+      "slug": "sand",
+      "appid": "1431300",
+      "name": "Sand",
+      "name_cn": null,
+      "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
+      "release_date": "2026-06-22",
+      "genres": [
+        "动作",
+        "冒险",
+        "抢先体验"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "Steam 成就",
+        "家庭共享"
+      ],
+      "review_score": "褒贬不一",
+      "review_ratio": 57.0,
+      "review_total": 3481,
+      "developer": "Hologryph, TowerHaus",
+      "publisher": "tinyBuild",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
+      "steam_url": "https://store.steampowered.com/app/1431300",
+      "trend": [
+        {
+          "date": "2026-06-23",
+          "peak": 15703
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 13358
+        },
+        {
+          "date": "2026-06-25",
+          "peak": 13882
+        },
+        {
+          "date": "2026-06-26",
+          "peak": 15627
+        },
+        {
+          "date": "2026-06-27",
+          "peak": 21659
+        }
+      ]
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": [
+    {
+      "rank": 2,
+      "type": "content_update_comeback",
+      "label": "内容更新回归",
+      "score": 19.87,
+      "fact_summary": "Fellowship 今日观测峰值 5,501，未超过过往最高峰值 6,915，被识别为「内容更新回归」。",
+      "metrics": {
+        "current_peak": 5501,
+        "previous_peak": 6915,
+        "previous_record_peak": 6915,
+        "growth_rate": -0.2045,
+        "record_growth_rate": -0.2045,
+        "scoring_peak": 5501,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 1.93,
+        "record_growth_score": 0.0,
+        "days_seen_score": 7.14,
+        "signal_type_score": 10.8,
+        "score_before_multiplier": 19.87,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
+        "review_ratio": 75.0,
+        "review_total": 17014,
+        "days_seen": 5,
+        "comeback_gap_days": 1,
+        "is_new_release": false,
+        "release_age_days": 254,
+        "is_comeback_age": true,
+        "comeback_reason": "content_update",
+        "comeback_evidence": {
+          "title": "Patch Notes - Hotfix 0.4.0.3",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165552988",
+          "date": 1782460386
+        },
+        "genres": [
+          "角色扮演",
+          "抢先体验"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-23",
+            "peak": 6915
+          },
+          {
+            "date": "2026-06-24",
+            "peak": 5701
+          },
+          {
+            "date": "2026-06-25",
+            "peak": 5778
+          },
+          {
+            "date": "2026-06-26",
+            "peak": 5022
+          },
+          {
+            "date": "2026-06-27",
+            "peak": 5501
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2352620"
+        }
+      ],
+      "game": {
+        "slug": "fellowship",
+        "appid": "2352620",
+        "name": "Fellowship",
+        "name_cn": null,
+        "description": "《秘境战盟》是一款多人在线地下城冒险游戏，背景设定在一个激动人心的奇幻世界中，拥有无限升级的地下城挑战。",
+        "release_date": "2025-10-16",
+        "genres": [
+          "角色扮演",
+          "抢先体验"
+        ],
+        "tags": [
+          "多人",
+          "合作",
+          "在线合作",
+          "应用内购买",
+          "可调整文字大小",
+          "视角舒适度",
+          "自定义音量控制",
+          "可调整难度",
+          "无需应对快速反应事件",
+          "立体声",
+          "家庭共享"
+        ],
+        "review_score": "多半好评",
+        "review_ratio": 75.0,
+        "review_total": 17014,
+        "developer": "Chief Rebel",
+        "publisher": "Coffee Stain Publishing, Arc Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2352620/84990f2cebb8a836229b318d194160d823d67cd8/header_alt_assets_2.jpg?t=1782140326",
+        "steam_url": "https://store.steampowered.com/app/2352620",
+        "trend": [
+          {
+            "date": "2026-06-23",
+            "peak": 6915
+          },
+          {
+            "date": "2026-06-24",
+            "peak": 5701
+          },
+          {
+            "date": "2026-06-25",
+            "peak": 5778
+          },
+          {
+            "date": "2026-06-26",
+            "peak": 5022
+          },
+          {
+            "date": "2026-06-27",
+            "peak": 5501
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 18.09,
+      "fact_summary": "Orb of Creation 今日观测峰值 5,146，未超过过往最高峰值 5,626，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 5146,
+        "previous_peak": 5626,
+        "previous_record_peak": 5626,
+        "growth_rate": -0.0853,
+        "record_growth_rate": -0.0853,
+        "scoring_peak": 5146,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 1.8,
+        "record_growth_score": 0.0,
+        "days_seen_score": 4.29,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 18.09,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
+        "review_ratio": 90.0,
+        "review_total": 1723,
+        "days_seen": 3,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 4,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "休闲",
+          "独立",
+          "策略"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-25",
+            "peak": 5592
+          },
+          {
+            "date": "2026-06-26",
+            "peak": 5626
+          },
+          {
+            "date": "2026-06-27",
+            "peak": 5146
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/1910680"
+        }
+      ],
+      "game": {
+        "slug": "orb-of-creation",
+        "appid": "1910680",
+        "name": "Orb of Creation",
+        "name_cn": null,
+        "description": "Orb of Creation 是一款非闲置的增量益智游戏，您只需使用魔法和独创性即可重新创造世界。召唤资源，购买升级，成为全能的巫师！",
+        "release_date": "2026-06-23",
+        "genres": [
+          "休闲",
+          "独立",
+          "策略"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "特别好评",
+        "review_ratio": 90.0,
+        "review_total": 1723,
+        "developer": "MarpleGames",
+        "publisher": "MarpleGames",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910680/28cbe4a8420b96a025958a161203b5603a17daed/header.jpg?t=1782342864",
+        "steam_url": "https://store.steampowered.com/app/1910680",
+        "trend": [
+          {
+            "date": "2026-06-25",
+            "peak": 5592
+          },
+          {
+            "date": "2026-06-26",
+            "peak": 5626
+          },
+          {
+            "date": "2026-06-27",
+            "peak": 5146
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "content_update_comeback",
+      "label": "内容更新回归",
+      "score": 17.36,
+      "fact_summary": "DELTARUNE 今日观测峰值 27,749，未超过过往最高峰值 133,452，被识别为「内容更新回归」。",
+      "metrics": {
+        "current_peak": 27749,
+        "previous_peak": 133452,
+        "previous_record_peak": 133452,
+        "growth_rate": -0.7921,
+        "record_growth_rate": -0.7921,
+        "scoring_peak": 27749,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 9.71,
+        "record_growth_score": 0.0,
+        "days_seen_score": 4.29,
+        "signal_type_score": 10.8,
+        "score_before_multiplier": 24.8,
+        "score_multiplier": 0.7,
+        "score_multiplier_reasons": [
+          "cumulative_star_2x"
+        ],
+        "cumulative_star_count": 2,
+        "review_ratio": 98.0,
+        "review_total": 111625,
+        "days_seen": 3,
+        "comeback_gap_days": 1,
+        "is_new_release": false,
+        "release_age_days": 388,
+        "is_comeback_age": true,
+        "comeback_reason": "content_update",
+        "comeback_evidence": {
+          "title": "Chapter 5 Version 0.0.242 (Hotfix Patch)",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165555841",
+          "date": 1782535734
+        },
+        "genres": [
+          "独立",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-25",
+            "peak": 133452
+          },
+          {
+            "date": "2026-06-26",
+            "peak": 60490
+          },
+          {
+            "date": "2026-06-27",
+            "peak": 27749
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/1671210"
+        }
+      ],
+      "game": {
+        "slug": "deltarune",
+        "appid": "1671210",
+        "name": "DELTARUNE",
+        "name_cn": null,
+        "description": "深入探索《UNDERTALE》的平行故事！当你与一群可爱的新的和熟悉的角色一起探索一个神秘的世界时，在充满动作的战斗中战斗或逃脱。第 1-5 章现已推出，更多内容计划免费更新！",
+        "release_date": "2025-06-04",
+        "genres": [
+          "独立",
+          "角色扮演"
+        ],
+        "tags": [
+          "单人",
+          "完全支持控制器",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "好评如潮",
+        "review_ratio": 98.0,
+        "review_total": 111625,
+        "developer": "tobyfox",
+        "publisher": "tobyfox",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
+        "steam_url": "https://store.steampowered.com/app/1671210",
+        "trend": [
+          {
+            "date": "2026-06-25",
+            "peak": 133452
+          },
+          {
+            "date": "2026-06-26",
+            "peak": 60490
+          },
+          {
+            "date": "2026-06-27",
+            "peak": 27749
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "comeback",
+      "label": "老游戏回归",
+      "score": 16.56,
+      "fact_summary": "Call of Duty®: Modern Warfare® II 今日观测峰值 31,810，首次进入当前观察窗口，被识别为「老游戏回归」。",
+      "metrics": {
+        "current_peak": 31810,
+        "previous_peak": 0,
+        "previous_record_peak": 0,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 31810,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 11.13,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 4.0,
+        "score_before_multiplier": 16.56,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
+        "review_ratio": 42.0,
+        "review_total": 15216,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": false,
+        "release_age_days": 1344,
+        "is_comeback_age": true,
+        "comeback_reason": "generic",
+        "comeback_evidence": null,
+        "genres": [
+          "动作"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-27",
+            "peak": 31810
+          }
+        ]
+      },
+      "sources": [],
+      "game": {
+        "slug": "call-of-duty-modern-warfare-ii",
+        "appid": null,
+        "name": "Call of Duty®: Modern Warfare® II",
+        "name_cn": null,
+        "description": "《使命召唤®：现代战争® II 2022》将玩家带入了一场前所未有的全球冲突，141特遣队的标志性队员们即将回归。",
+        "release_date": "2022-10-22",
+        "genres": [
+          "动作"
+        ],
+        "tags": [],
+        "review_score": "褒贬不一",
+        "review_ratio": 42.0,
+        "review_total": 15216,
+        "developer": null,
+        "publisher": null,
+        "cover_image_url": null,
+        "steam_url": null,
+        "trend": [
+          {
+            "date": "2026-06-27",
+            "peak": 31810
+          }
+        ]
+      }
+    }
+  ]
+}
