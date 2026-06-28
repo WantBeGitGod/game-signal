@@ -1,0 +1,30 @@
+{
+  "slug": "watch-dogs-2",
+  "appid": null,
+  "name": "Watch_Dogs 2",
+  "name_cn": null,
+  "description": "欢迎来到技术革命的起源地：旧金山。扮演年轻的聪明黑客马可仕（Marcus），加入最恶名昭彰的黑客团体 DedSec。你的目标：执行史上最大规模的黑客行动。",
+  "release_date": "2016-11-28",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [],
+  "review_score": "特别好评",
+  "review_ratio": 82.0,
+  "review_total": 92667,
+  "developer": null,
+  "publisher": null,
+  "cover_image_url": null,
+  "steam_url": null,
+  "trend": [
+    {
+      "date": "2026-06-27",
+      "peak": 11270
+    },
+    {
+      "date": "2026-06-28",
+      "peak": 13591
+    }
+  ]
+}

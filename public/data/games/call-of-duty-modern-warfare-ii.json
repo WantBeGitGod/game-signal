@@ -11,7 +11,7 @@
   "tags": [],
   "review_score": "褒贬不一",
   "review_ratio": 42.0,
-  "review_total": 15216,
+  "review_total": 16082,
   "developer": null,
   "publisher": null,
   "cover_image_url": null,
@@ -20,6 +20,10 @@
     {
       "date": "2026-06-27",
       "peak": 31810
+    },
+    {
+      "date": "2026-06-28",
+      "peak": 33920
     }
   ]
 }
