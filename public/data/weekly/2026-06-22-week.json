@@ -1,0 +1,293 @@
+{
+  "schema_version": "1.0.0",
+  "slug": "2026-06-22-week",
+  "issue_number": 5,
+  "week_start": "2026-06-22",
+  "week_end": "2026-06-28",
+  "title": "新作窗口开始挤了：谁能把首周热度留住？",
+  "summary": "本期深度案例：MECCHA CHAMELEON 与 Sand，两个都被识别为「新作起量」。",
+  "status": "published",
+  "published_at": "2026-06-30 13:45:38",
+  "signals": [
+    {
+      "rank": 1,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 103.54,
+      "selection_reason": "MECCHA CHAMELEON 上周窗口峰值 340,534，较前一周窗口变化 +17%，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 340534,
+        "previous_week_peak": 292248,
+        "growth_rate": 0.1652,
+        "scoring_peak": 340534.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 82.0,
+        "review_total": 18459,
+        "days_seen": 1,
+        "is_new_release": true,
+        "genres": [
+          "休闲"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-22",
+            "peak": 340534
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": true,
+      "case_slug": "meccha-chameleon",
+      "chart_path": "/data/charts/4704690.json",
+      "game": {
+        "slug": "meccha-chameleon",
+        "appid": "4704690",
+        "name": "MECCHA CHAMELEON",
+        "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
+        "developer": "lemorion_1224",
+        "publisher": "lemorion_1224",
+        "release_date": "2026-06-09",
+        "review_ratio": 82.0,
+        "review_total": 18459,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
+        "steam_url": "https://store.steampowered.com/app/4704690"
+      }
+    },
+    {
+      "rank": 2,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 97.02,
+      "selection_reason": "Sand 上周窗口峰值 31,756，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 31756,
+        "previous_week_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 31756.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 57.0,
+        "review_total": 3927,
+        "days_seen": 6,
+        "is_new_release": true,
+        "genres": [
+          "动作",
+          "冒险",
+          "抢先体验"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-23",
+            "peak": 15703
+          },
+          {
+            "date": "2026-06-24",
+            "peak": 13358
+          },
+          {
+            "date": "2026-06-25",
+            "peak": 13882
+          },
+          {
+            "date": "2026-06-26",
+            "peak": 15627
+          },
+          {
+            "date": "2026-06-27",
+            "peak": 21659
+          },
+          {
+            "date": "2026-06-28",
+            "peak": 31756
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": true,
+      "case_slug": "sand",
+      "chart_path": "/data/charts/1431300.json",
+      "game": {
+        "slug": "sand",
+        "appid": "1431300",
+        "name": "Sand",
+        "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
+        "developer": "Hologryph, TowerHaus",
+        "publisher": "tinyBuild",
+        "release_date": "2026-06-22",
+        "review_ratio": 57.0,
+        "review_total": 3927,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
+        "steam_url": "https://store.steampowered.com/app/1431300"
+      }
+    },
+    {
+      "rank": 3,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 92.14,
+      "selection_reason": "The Scroll of Taiwu : Beyond The Dome 上周窗口峰值 29,493，较前一周窗口变化 -42%，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 29493,
+        "previous_week_peak": 51039,
+        "growth_rate": -0.4221,
+        "scoring_peak": 29493.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 68.0,
+        "review_total": 66410,
+        "days_seen": 3,
+        "is_new_release": true,
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "策略"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-22",
+            "peak": 29493
+          },
+          {
+            "date": "2026-06-23",
+            "peak": 27640
+          },
+          {
+            "date": "2026-06-24",
+            "peak": 19695
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/838350.json",
+      "game": {
+        "slug": "the-scroll-of-taiwu-beyond-the-dome",
+        "appid": "838350",
+        "name": "The Scroll of Taiwu : Beyond The Dome",
+        "description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
+        "developer": "ConchShip Games",
+        "publisher": "ConchShip Games",
+        "release_date": "2026-06-16",
+        "review_ratio": 68.0,
+        "review_total": 66410,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782113702",
+        "steam_url": "https://store.steampowered.com/app/838350"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 91.06,
+      "selection_reason": "BOMBANANA! Demo 上周窗口峰值 10,343，较前一周窗口变化 +14%，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 10343,
+        "previous_week_peak": 9088,
+        "growth_rate": 0.1381,
+        "scoring_peak": 10343.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 98.0,
+        "review_total": 1498,
+        "days_seen": 5,
+        "is_new_release": true,
+        "genres": [
+          "休闲",
+          "独立",
+          "策略"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-22",
+            "peak": 6328
+          },
+          {
+            "date": "2026-06-23",
+            "peak": 10343
+          },
+          {
+            "date": "2026-06-24",
+            "peak": 9806
+          },
+          {
+            "date": "2026-06-25",
+            "peak": 9835
+          },
+          {
+            "date": "2026-06-26",
+            "peak": 9502
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/4747510.json",
+      "game": {
+        "slug": "bombanana-demo",
+        "appid": "4747510",
+        "name": "BOMBANANA! Demo",
+        "description": "你们是一支由三只猴子组成的3人拆弹小队：盲猴、聋猴和哑猴。在你们改造成移动拆弹工坊的小型厢式车里，你们必须在有限时间和有限沟通条件下，在炸弹爆炸前完成拆除！",
+        "developer": "Lefto Studio",
+        "publisher": "Lefto Studio",
+        "release_date": "2026-06-15",
+        "review_ratio": 98.0,
+        "review_total": 1498,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747510/54d624f1d6ea0b30bafb736ef940bb6b78f4ba78/header.jpg?t=1782230961",
+        "steam_url": "https://store.steampowered.com/app/4747510"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 88.87,
+      "selection_reason": "Lost Castle 2 上周窗口峰值 28,005，较前一周窗口变化 -3%，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 28005,
+        "previous_week_peak": 28835,
+        "growth_rate": -0.0288,
+        "scoring_peak": 28005.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 78.0,
+        "review_total": 12095,
+        "days_seen": 1,
+        "is_new_release": true,
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-22",
+            "peak": 28005
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/2445690.json",
+      "game": {
+        "slug": "lost-castle-2",
+        "appid": "2445690",
+        "name": "Lost Castle 2",
+        "description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
+        "developer": "Hunter Studio",
+        "publisher": "Hunter Studio",
+        "release_date": "2026-06-10",
+        "review_ratio": 78.0,
+        "review_total": 12095,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203",
+        "steam_url": "https://store.steampowered.com/app/2445690"
+      }
+    }
+  ]
+}
