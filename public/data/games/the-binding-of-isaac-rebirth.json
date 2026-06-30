@@ -1,0 +1,36 @@
+{
+  "slug": "the-binding-of-isaac-rebirth",
+  "appid": "250900",
+  "name": "The Binding of Isaac: Rebirth",
+  "name_cn": null,
+  "description": "《以撒的结合：重生》是一款随机生成的动作角色扮演射击游戏，带有浓厚的 Rogue-like 元素。跟随艾萨克踏上旅程，玩家会发现奇异的宝藏，这些宝藏会改变艾萨克的形态，赋予他超人的能力，使他能够击退成群的神秘生物，发现秘密，并为安全而战。",
+  "release_date": "2014-11-04",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "同屏/分屏",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 云",
+    "在电视上远程畅玩",
+    "远程同乐",
+    "家庭共享"
+  ],
+  "review_score": "好评如潮",
+  "review_ratio": 97.0,
+  "review_total": 402975,
+  "developer": "Nicalis, Inc., Edmund McMillen",
+  "publisher": "Nicalis, Inc.",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365",
+  "steam_url": "https://store.steampowered.com/app/250900",
+  "trend": [
+    {
+      "date": "2026-06-30",
+      "peak": 96363
+    }
+  ]
+}

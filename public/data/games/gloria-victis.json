@@ -1,0 +1,43 @@
+{
+  "slug": "gloria-victis",
+  "appid": "327070",
+  "name": "Gloria Victis",
+  "name_cn": null,
+  "description": "《Gloria Victis》是一款侧重真实性的开放世界大型多人在线角色扮演游戏，背景设定为略带魔幻风格的中世纪。本游戏战斗系统无目标锁定机制，依赖玩家操作，玩家可在开放式的PVP战斗中争夺领土控制权。游戏的制造系统有深度而无所不包，经济系统由玩家主导，剧情成熟而宏大，画面写实而绚丽，向玩家呈现沉浸式的游戏体验。 游戏有两大阵营：居住在大草原上的自豪的中土人，以及住在寒冷北方又复仇心切的伊斯米尔人。玩家将选择一方加入，然后奔赴战场！",
+  "release_date": "2026-06-17",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立",
+    "大型多人在线",
+    "角色扮演",
+    "模拟",
+    "免费"
+  ],
+  "tags": [
+    "多人",
+    "大型多人在线",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "应用内购买",
+    "统计数据",
+    "家庭共享"
+  ],
+  "review_score": "Mixed",
+  "review_ratio": 69.0,
+  "review_total": 11257,
+  "developer": "gamigo US",
+  "publisher": "gamigo US",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327070/ee34cd9e855b2a4e20682c2ae6b12a27ccf042aa/header.jpg?t=1782471732",
+  "steam_url": "https://store.steampowered.com/app/327070",
+  "trend": [
+    {
+      "date": "2026-06-30",
+      "peak": 2780
+    }
+  ]
+}

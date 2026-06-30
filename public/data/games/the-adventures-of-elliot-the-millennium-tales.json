@@ -18,17 +18,21 @@
     "Steam 集换式卡牌",
     "自定义音量控制",
     "可调整难度",
+    "推荐使用手柄",
     "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
     "立体声",
     "Steam 云",
     "家庭共享"
   ],
-  "review_score": "Mixed",
-  "review_ratio": 70.0,
-  "review_total": 871,
+  "review_score": "Mostly Positive",
+  "review_ratio": 75.0,
+  "review_total": 1499,
   "developer": "Square Enix, Claytechworks",
   "publisher": "Square Enix",
-  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1781812674",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1782353681",
   "steam_url": "https://store.steampowered.com/app/3483510",
   "trend": [
     {
@@ -50,6 +54,10 @@
     {
       "date": "2026-06-23",
       "peak": 5035
+    },
+    {
+      "date": "2026-06-30",
+      "peak": 2141
     }
   ]
 }
