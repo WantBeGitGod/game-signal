@@ -4,10 +4,10 @@
   "issue_number": 5,
   "week_start": "2026-06-22",
   "week_end": "2026-06-28",
-  "title": "新作窗口开始挤了：谁能把首周热度留住？",
+  "title": "躲猫猫王朝建立！\n沙漠'盗贼之海'强势来袭",
   "summary": "本期深度案例：MECCHA CHAMELEON 与 Sand，两个都被识别为「新作起量」。",
   "status": "published",
-  "published_at": "2026-06-30 17:17:36",
+  "published_at": "2026-07-01 00:47:50",
   "signals": [
     {
       "rank": 1,
@@ -115,8 +115,8 @@
         "developer": "Hologryph, TowerHaus",
         "publisher": "tinyBuild",
         "release_date": "2026-06-22",
-        "review_ratio": 57.0,
-        "review_total": 3927,
+        "review_ratio": 55.0,
+        "review_total": 4987,
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
         "steam_url": "https://store.steampowered.com/app/1431300"
       }
