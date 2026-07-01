@@ -1,0 +1,29 @@
+{
+  "slug": "diablo-iv",
+  "appid": null,
+  "name": "Diablo® IV",
+  "name_cn": null,
+  "description": "进入《暗黑破坏神® IV》的世界，在捍卫庇护之地的战斗中，开启前所未有的动作 RPG 冒险。亲身体验备受赞誉的游戏剧情和全新赛季内容。",
+  "release_date": "2023-10-17",
+  "genres": [
+    "动作",
+    "冒险",
+    "休闲",
+    "大型多人在线",
+    "角色扮演"
+  ],
+  "tags": [],
+  "review_score": "褒贬不一",
+  "review_ratio": 65.0,
+  "review_total": 73119,
+  "developer": null,
+  "publisher": null,
+  "cover_image_url": null,
+  "steam_url": null,
+  "trend": [
+    {
+      "date": "2026-07-01",
+      "peak": 22833
+    }
+  ]
+}
