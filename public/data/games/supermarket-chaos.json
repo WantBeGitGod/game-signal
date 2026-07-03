@@ -1,0 +1,44 @@
+{
+  "slug": "supermarket-chaos",
+  "appid": "4800590",
+  "name": "Supermarket Chaos",
+  "name_cn": null,
+  "description": "Supermarket Chaos 是一款治愈系整理模拟游戏，你将在杂乱的大型超市中整理 4,668 件商品。在轻松安静的氛围中，享受陈列带来的满足感。",
+  "release_date": "2026-06-29",
+  "genres": [
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "视角舒适度",
+    "自定义音量控制",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "随时保存",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 86.0,
+  "review_total": 327,
+  "developer": "BunnyHop",
+  "publisher": "BunnyHopHome",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1782778526",
+  "steam_url": "https://store.steampowered.com/app/4800590",
+  "trend": [
+    {
+      "date": "2026-06-30",
+      "peak": 1027
+    },
+    {
+      "date": "2026-07-02",
+      "peak": 3440
+    }
+  ]
+}
