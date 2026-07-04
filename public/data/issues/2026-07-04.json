@@ -8,270 +8,230 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "content_update_comeback",
-    "label": "内容更新回归",
-    "score": 61.03,
-    "fact_summary": "Diablo® IV 今日观测峰值 42,379，较过往最高峰值提升 +85%，被识别为「内容更新回归」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 52.09,
+    "fact_summary": "Master Healer Kale with useless party 今日观测峰值 2,303，较过往最高峰值提升 +143%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 42379,
-      "previous_peak": 22930,
-      "previous_record_peak": 22930,
-      "growth_rate": 0.8482,
-      "record_growth_rate": 0.8482,
-      "scoring_peak": 42379,
+      "current_peak": 2303,
+      "previous_peak": 947,
+      "previous_record_peak": 947,
+      "growth_rate": 1.4319,
+      "record_growth_rate": 1.4319,
+      "scoring_peak": 2303,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 14.83,
-      "record_growth_score": 29.69,
-      "days_seen_score": 5.71,
-      "signal_type_score": 10.8,
-      "score_before_multiplier": 61.03,
+      "peak_score": 0.81,
+      "record_growth_score": 35.0,
+      "days_seen_score": 4.29,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 52.09,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "cumulative_star_count": 0,
-      "review_ratio": 65.0,
-      "review_total": 73371,
-      "days_seen": 4,
+      "review_ratio": 98.0,
+      "review_total": 212,
+      "days_seen": 3,
       "comeback_gap_days": 1,
-      "is_new_release": false,
-      "release_age_days": 991,
-      "is_comeback_age": true,
-      "comeback_reason": "content_update",
-      "comeback_evidence": {
-        "title": "Diablo IV - Season 14 broke the game on Linux / SteamOS - Blizzard working on a fix",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1836506165564593",
-        "date": 1782892419
-      },
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
-        "休闲",
-        "大型多人在线",
-        "角色扮演"
+        "独立",
+        "角色扮演",
+        "策略"
       ],
       "trend": [
         {
-          "date": "2026-07-01",
-          "peak": 22833
-        },
-        {
           "date": "2026-07-02",
-          "peak": 22930
+          "peak": 947
         },
         {
           "date": "2026-07-03",
-          "peak": 22930
+          "peak": 947
         },
         {
           "date": "2026-07-04",
-          "peak": 42379
+          "peak": 2303
         }
       ]
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/2344520"
+        "url": "https://store.steampowered.com/app/4634490"
       }
     ],
     "game": {
-      "slug": "diablo-iv",
-      "appid": "2344520",
-      "name": "Diablo® IV",
+      "slug": "master-healer-kale-with-useless-party",
+      "appid": "4634490",
+      "name": "Master Healer Kale with useless party",
       "name_cn": null,
-      "description": "进入《暗黑破坏神® IV》的世界，在捍卫庇护之地的战斗中，开启前所未有的动作 RPG 冒险。亲身体验备受赞誉的游戏剧情和全新赛季内容。",
-      "release_date": "2023-10-17",
+      "description": "A short incremental game where you play as a Healer in a party. Your main job is to keep your party alive. Upgrade 200+ skills in a skill tree, from healing to party damage. Designed to be completed in around 4 hours.",
+      "release_date": "2026-07-02",
       "genres": [
-        "动作",
-        "冒险",
-        "休闲",
-        "大型多人在线",
-        "角色扮演"
+        "独立",
+        "角色扮演",
+        "策略"
       ],
       "tags": [
         "单人",
-        "多人",
-        "玩家对战",
-        "线上玩家对战",
-        "合作",
-        "在线合作",
-        "跨平台多人",
         "Steam 成就",
         "完全支持控制器",
-        "应用内购买",
-        "可调整文字大小",
-        "视角舒适度",
-        "可选颜色",
-        "可调整难度",
+        "自定义音量控制",
         "可以仅用键盘",
         "可以仅用鼠标",
-        "朗读游戏菜单",
         "无需应对快速反应事件",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
         "随时保存",
-        "立体声",
-        "字幕选项"
+        "Steam 输入 API 支持",
+        "可以仅用触控",
+        "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 65.0,
-      "review_total": 73371,
-      "developer": "Blizzard Entertainment, Inc.",
-      "publisher": "Blizzard Entertainment, Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/80f21a42e378b93e8fbb68ee43103be8ab84891b/header.jpg?t=1782839766",
-      "steam_url": "https://store.steampowered.com/app/2344520",
+      "review_score": "Very Positive",
+      "review_ratio": 98.0,
+      "review_total": 212,
+      "developer": "Evrac Studio",
+      "publisher": "Evrac Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634490/088b9ab009bb95af23d5e8662ad572c38aad14f0/header.jpg?t=1783051217",
+      "steam_url": "https://store.steampowered.com/app/4634490",
       "trend": [
         {
-          "date": "2026-07-01",
-          "peak": 22833
-        },
-        {
           "date": "2026-07-02",
-          "peak": 22930
+          "peak": 947
         },
         {
           "date": "2026-07-03",
-          "peak": 22930
+          "peak": 947
         },
         {
           "date": "2026-07-04",
-          "peak": 42379
+          "peak": 2303
         }
       ]
     }
   },
   "main_signal": {
     "rank": 1,
-    "type": "content_update_comeback",
-    "label": "内容更新回归",
-    "score": 61.03,
-    "fact_summary": "Diablo® IV 今日观测峰值 42,379，较过往最高峰值提升 +85%，被识别为「内容更新回归」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 52.09,
+    "fact_summary": "Master Healer Kale with useless party 今日观测峰值 2,303，较过往最高峰值提升 +143%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 42379,
-      "previous_peak": 22930,
-      "previous_record_peak": 22930,
-      "growth_rate": 0.8482,
-      "record_growth_rate": 0.8482,
-      "scoring_peak": 42379,
+      "current_peak": 2303,
+      "previous_peak": 947,
+      "previous_record_peak": 947,
+      "growth_rate": 1.4319,
+      "record_growth_rate": 1.4319,
+      "scoring_peak": 2303,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 14.83,
-      "record_growth_score": 29.69,
-      "days_seen_score": 5.71,
-      "signal_type_score": 10.8,
-      "score_before_multiplier": 61.03,
+      "peak_score": 0.81,
+      "record_growth_score": 35.0,
+      "days_seen_score": 4.29,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 52.09,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "cumulative_star_count": 0,
-      "review_ratio": 65.0,
-      "review_total": 73371,
-      "days_seen": 4,
+      "review_ratio": 98.0,
+      "review_total": 212,
+      "days_seen": 3,
       "comeback_gap_days": 1,
-      "is_new_release": false,
-      "release_age_days": 991,
-      "is_comeback_age": true,
-      "comeback_reason": "content_update",
-      "comeback_evidence": {
-        "title": "Diablo IV - Season 14 broke the game on Linux / SteamOS - Blizzard working on a fix",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1836506165564593",
-        "date": 1782892419
-      },
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
-        "休闲",
-        "大型多人在线",
-        "角色扮演"
+        "独立",
+        "角色扮演",
+        "策略"
       ],
       "trend": [
         {
-          "date": "2026-07-01",
-          "peak": 22833
-        },
-        {
           "date": "2026-07-02",
-          "peak": 22930
+          "peak": 947
         },
         {
           "date": "2026-07-03",
-          "peak": 22930
+          "peak": 947
         },
         {
           "date": "2026-07-04",
-          "peak": 42379
+          "peak": 2303
         }
       ]
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/2344520"
+        "url": "https://store.steampowered.com/app/4634490"
       }
     ],
     "game": {
-      "slug": "diablo-iv",
-      "appid": "2344520",
-      "name": "Diablo® IV",
+      "slug": "master-healer-kale-with-useless-party",
+      "appid": "4634490",
+      "name": "Master Healer Kale with useless party",
       "name_cn": null,
-      "description": "进入《暗黑破坏神® IV》的世界，在捍卫庇护之地的战斗中，开启前所未有的动作 RPG 冒险。亲身体验备受赞誉的游戏剧情和全新赛季内容。",
-      "release_date": "2023-10-17",
+      "description": "A short incremental game where you play as a Healer in a party. Your main job is to keep your party alive. Upgrade 200+ skills in a skill tree, from healing to party damage. Designed to be completed in around 4 hours.",
+      "release_date": "2026-07-02",
       "genres": [
-        "动作",
-        "冒险",
-        "休闲",
-        "大型多人在线",
-        "角色扮演"
+        "独立",
+        "角色扮演",
+        "策略"
       ],
       "tags": [
         "单人",
-        "多人",
-        "玩家对战",
-        "线上玩家对战",
-        "合作",
-        "在线合作",
-        "跨平台多人",
         "Steam 成就",
         "完全支持控制器",
-        "应用内购买",
-        "可调整文字大小",
-        "视角舒适度",
-        "可选颜色",
-        "可调整难度",
+        "自定义音量控制",
         "可以仅用键盘",
         "可以仅用鼠标",
-        "朗读游戏菜单",
         "无需应对快速反应事件",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
         "随时保存",
-        "立体声",
-        "字幕选项"
+        "Steam 输入 API 支持",
+        "可以仅用触控",
+        "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 65.0,
-      "review_total": 73371,
-      "developer": "Blizzard Entertainment, Inc.",
-      "publisher": "Blizzard Entertainment, Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/80f21a42e378b93e8fbb68ee43103be8ab84891b/header.jpg?t=1782839766",
-      "steam_url": "https://store.steampowered.com/app/2344520",
+      "review_score": "Very Positive",
+      "review_ratio": 98.0,
+      "review_total": 212,
+      "developer": "Evrac Studio",
+      "publisher": "Evrac Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634490/088b9ab009bb95af23d5e8662ad572c38aad14f0/header.jpg?t=1783051217",
+      "steam_url": "https://store.steampowered.com/app/4634490",
       "trend": [
         {
-          "date": "2026-07-01",
-          "peak": 22833
-        },
-        {
           "date": "2026-07-02",
-          "peak": 22930
+          "peak": 947
         },
         {
           "date": "2026-07-03",
-          "peak": 22930
+          "peak": 947
         },
         {
           "date": "2026-07-04",
-          "peak": 42379
+          "peak": 2303
         }
       ]
     }
@@ -280,116 +240,6 @@
   "candidate_signals": [
     {
       "rank": 2,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 52.09,
-      "fact_summary": "Master Healer Kale with useless party 今日观测峰值 2,303，较过往最高峰值提升 +143%，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 2303,
-        "previous_peak": 947,
-        "previous_record_peak": 947,
-        "growth_rate": 1.4319,
-        "record_growth_rate": 1.4319,
-        "scoring_peak": 2303,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 0.81,
-        "record_growth_score": 35.0,
-        "days_seen_score": 4.29,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 52.09,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "cumulative_star_count": 0,
-        "review_ratio": 98.0,
-        "review_total": 212,
-        "days_seen": 3,
-        "comeback_gap_days": 1,
-        "is_new_release": true,
-        "release_age_days": 2,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [
-          "独立",
-          "角色扮演",
-          "策略"
-        ],
-        "trend": [
-          {
-            "date": "2026-07-02",
-            "peak": 947
-          },
-          {
-            "date": "2026-07-03",
-            "peak": 947
-          },
-          {
-            "date": "2026-07-04",
-            "peak": 2303
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/4634490"
-        }
-      ],
-      "game": {
-        "slug": "master-healer-kale-with-useless-party",
-        "appid": "4634490",
-        "name": "Master Healer Kale with useless party",
-        "name_cn": null,
-        "description": "A short incremental game where you play as a Healer in a party. Your main job is to keep your party alive. Upgrade 200+ skills in a skill tree, from healing to party damage. Designed to be completed in around 4 hours.",
-        "release_date": "2026-07-02",
-        "genres": [
-          "独立",
-          "角色扮演",
-          "策略"
-        ],
-        "tags": [
-          "单人",
-          "Steam 成就",
-          "完全支持控制器",
-          "自定义音量控制",
-          "可以仅用键盘",
-          "可以仅用鼠标",
-          "无需应对快速反应事件",
-          "DUALSHOCK 控制器支持",
-          "DUALSHOCK 控制器支持",
-          "DUALSHOCK 控制器支持",
-          "DUALSHOCK 控制器支持",
-          "随时保存",
-          "Steam 输入 API 支持",
-          "可以仅用触控",
-          "家庭共享"
-        ],
-        "review_score": "Very Positive",
-        "review_ratio": 98.0,
-        "review_total": 212,
-        "developer": "Evrac Studio",
-        "publisher": "Evrac Studio",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634490/088b9ab009bb95af23d5e8662ad572c38aad14f0/header.jpg?t=1783051217",
-        "steam_url": "https://store.steampowered.com/app/4634490",
-        "trend": [
-          {
-            "date": "2026-07-02",
-            "peak": 947
-          },
-          {
-            "date": "2026-07-03",
-            "peak": 947
-          },
-          {
-            "date": "2026-07-04",
-            "peak": 2303
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
       "score": 32.19,
@@ -419,6 +269,11 @@
         "comeback_gap_days": 1,
         "is_new_release": true,
         "release_age_days": 12,
+        "steam_release_age_days": 12,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
         "comeback_reason": "not_comeback_age",
         "comeback_evidence": null,
@@ -555,7 +410,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
       "score": 24.84,
@@ -583,6 +438,11 @@
         "comeback_gap_days": 1,
         "is_new_release": true,
         "release_age_days": 17,
+        "steam_release_age_days": 17,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
         "comeback_reason": "not_comeback_age",
         "comeback_evidence": null,
@@ -677,7 +537,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "type": "new_release_rise",
       "label": "新作起量",
       "score": 23.34,
@@ -705,6 +565,11 @@
         "comeback_gap_days": 1,
         "is_new_release": true,
         "release_age_days": 11,
+        "steam_release_age_days": 11,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
         "comeback_reason": "not_comeback_age",
         "comeback_evidence": null,
@@ -811,6 +676,127 @@
           {
             "date": "2026-07-04",
             "peak": 3823
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 21.81,
+      "fact_summary": "Supermarket Chaos 今日观测峰值 4,233，较过往最高峰值提升 +23%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 4233,
+        "previous_peak": 3440,
+        "previous_record_peak": 3440,
+        "growth_rate": 0.2305,
+        "record_growth_rate": 0.2305,
+        "scoring_peak": 4233,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 1.48,
+        "record_growth_score": 8.07,
+        "days_seen_score": 5.71,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 27.26,
+        "score_multiplier": 0.8,
+        "score_multiplier_reasons": [
+          "cumulative_star_1x"
+        ],
+        "cumulative_star_count": 1,
+        "review_ratio": 88.0,
+        "review_total": 475,
+        "days_seen": 4,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 5,
+        "steam_release_age_days": 5,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "独立",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 1027
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 3440
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 3440
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 4233
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4800590"
+        }
+      ],
+      "game": {
+        "slug": "supermarket-chaos",
+        "appid": "4800590",
+        "name": "Supermarket Chaos",
+        "name_cn": null,
+        "description": "Supermarket Chaos 是一款治愈系整理模拟游戏，你将在杂乱的大型超市中整理 4,668 件商品。在轻松安静的氛围中，享受陈列带来的满足感。",
+        "release_date": "2026-06-29",
+        "genres": [
+          "独立",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "完全支持控制器",
+          "视角舒适度",
+          "自定义音量控制",
+          "无需应对快速反应事件",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "随时保存",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 88.0,
+        "review_total": 475,
+        "developer": "BunnyHop",
+        "publisher": "BunnyHopHome",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1782778526",
+        "steam_url": "https://store.steampowered.com/app/4800590",
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 1027
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 3440
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 3440
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 4233
           }
         ]
       }

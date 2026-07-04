@@ -2,7 +2,8 @@
   "schema_version": "1.0.0",
   "new_release_window_days": 30,
   "comeback_release_age_days": 180,
-  "daily_star_max_release_age_days": 1095,
+  "daily_star_review_release_age_days": 365,
+  "daily_star_max_release_age_days": 730,
   "peak_score_weight": 35.0,
   "peak_score_cap": 100000,
   "record_growth_weight": 35.0,
@@ -40,5 +41,12 @@
     "comeback": 32.0,
     "review_heat_gap": 25.0,
     "sustained_growth": 28.0
+  },
+  "all_platform_release_dates": {
+    "2344520": {
+      "date": "2023-06-05",
+      "source": "Blizzard official launch schedule",
+      "url": "https://news.blizzard.com/en-sg/diablo4/23954935/diablo-iv-launches-soon-here-s-what-you-need-to-know"
+    }
   }
 }
