@@ -1,0 +1,51 @@
+{
+  "slug": "master-healer-kale-with-useless-party",
+  "appid": "4634490",
+  "name": "Master Healer Kale with useless party",
+  "name_cn": null,
+  "description": "A short incremental game where you play as a Healer in a party. Your main job is to keep your party alive. Upgrade 200+ skills in a skill tree, from healing to party damage. Designed to be completed in around 4 hours.",
+  "release_date": "2026-07-02",
+  "genres": [
+    "独立",
+    "角色扮演",
+    "策略"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "自定义音量控制",
+    "可以仅用键盘",
+    "可以仅用鼠标",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "随时保存",
+    "Steam 输入 API 支持",
+    "可以仅用触控",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 98.0,
+  "review_total": 212,
+  "developer": "Evrac Studio",
+  "publisher": "Evrac Studio",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634490/088b9ab009bb95af23d5e8662ad572c38aad14f0/header.jpg?t=1783051217",
+  "steam_url": "https://store.steampowered.com/app/4634490",
+  "trend": [
+    {
+      "date": "2026-07-02",
+      "peak": 947
+    },
+    {
+      "date": "2026-07-03",
+      "peak": 947
+    },
+    {
+      "date": "2026-07-04",
+      "peak": 2303
+    }
+  ]
+}
