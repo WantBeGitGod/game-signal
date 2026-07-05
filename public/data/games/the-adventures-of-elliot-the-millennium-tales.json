@@ -28,8 +28,8 @@
     "家庭共享"
   ],
   "review_score": "Mostly Positive",
-  "review_ratio": 75.0,
-  "review_total": 1499,
+  "review_ratio": 77.0,
+  "review_total": 1670,
   "developer": "Square Enix, Claytechworks",
   "publisher": "Square Enix",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1782353681",
@@ -58,6 +58,18 @@
     {
       "date": "2026-06-30",
       "peak": 2141
+    },
+    {
+      "date": "2026-07-02",
+      "peak": 1471
+    },
+    {
+      "date": "2026-07-03",
+      "peak": 1471
+    },
+    {
+      "date": "2026-07-04",
+      "peak": 1906
     }
   ]
 }

@@ -8,190 +8,284 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "discount_comeback",
-    "label": "折扣回流",
-    "score": 27.87,
-    "fact_summary": "The Binding of Isaac: Rebirth 今日观测峰值 96,363，首次进入当前观察窗口，被识别为「折扣回流」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 30.0,
+    "fact_summary": "Sand 今日观测峰值 25,134，未超过过往最高峰值 31,756，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 96363,
-      "previous_peak": 0,
-      "previous_record_peak": 0,
-      "growth_rate": 0.0,
-      "record_growth_rate": 0.0,
-      "scoring_peak": 96363,
+      "current_peak": 25134,
+      "previous_peak": 31756,
+      "previous_record_peak": 31756,
+      "growth_rate": -0.2085,
+      "record_growth_rate": -0.2085,
+      "scoring_peak": 25134,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 33.73,
+      "peak_score": 20.86,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
       "record_growth_score": 0.0,
-      "days_seen_score": 1.43,
-      "signal_type_score": 2.0,
-      "score_before_multiplier": 37.16,
-      "score_multiplier": 0.75,
+      "days_seen_score": 10.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 42.86,
+      "score_multiplier": 0.7,
       "score_multiplier_reasons": [
-        "discount_comeback"
+        "consecutive_star_2x"
       ],
-      "cumulative_star_count": 0,
-      "review_ratio": 97.0,
-      "review_total": 402975,
-      "days_seen": 1,
-      "comeback_gap_days": 0,
-      "is_new_release": false,
-      "release_age_days": 4256,
-      "is_comeback_age": true,
-      "comeback_reason": "discount",
-      "comeback_evidence": {
-        "title": "Steam store discount: 90% off",
-        "url": "https://store.steampowered.com/app/250900",
-        "date": "2026-06-30",
-        "source": "steam_store",
-        "discount_percent": 90,
-        "initial_formatted": "¥ 48.00",
-        "final_formatted": "¥ 4.80"
-      },
+      "cumulative_star_count": 2,
+      "consecutive_star_count": 2,
+      "review_ratio": 55.0,
+      "review_total": 7016,
+      "days_seen": 7,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 8,
+      "steam_release_age_days": 8,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
-        "动作"
+        "动作",
+        "冒险",
+        "抢先体验"
       ],
       "trend": [
         {
+          "date": "2026-06-23",
+          "peak": 15703
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 13358
+        },
+        {
+          "date": "2026-06-25",
+          "peak": 13882
+        },
+        {
+          "date": "2026-06-26",
+          "peak": 15627
+        },
+        {
+          "date": "2026-06-27",
+          "peak": 21659
+        },
+        {
+          "date": "2026-06-28",
+          "peak": 31756
+        },
+        {
           "date": "2026-06-30",
-          "peak": 96363
+          "peak": 25134
         }
       ]
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/250900"
+        "url": "https://store.steampowered.com/app/1431300"
       }
     ],
     "game": {
-      "slug": "the-binding-of-isaac-rebirth",
-      "appid": "250900",
-      "name": "The Binding of Isaac: Rebirth",
+      "slug": "sand",
+      "appid": "1431300",
+      "name": "Sand",
       "name_cn": null,
-      "description": "《以撒的结合：重生》是一款随机生成的动作角色扮演射击游戏，带有浓厚的 Rogue-like 元素。跟随艾萨克踏上旅程，玩家会发现奇异的宝藏，这些宝藏会改变艾萨克的形态，赋予他超人的能力，使他能够击退成群的神秘生物，发现秘密，并为安全而战。",
-      "release_date": "2014-11-04",
+      "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
+      "release_date": "2026-06-22",
       "genres": [
-        "动作"
+        "动作",
+        "冒险",
+        "抢先体验"
       ],
       "tags": [
-        "单人",
         "多人",
-        "同屏/分屏",
+        "玩家对战",
+        "线上玩家对战",
         "Steam 成就",
-        "完全支持控制器",
-        "Steam 集换式卡牌",
-        "Steam 云",
-        "在电视上远程畅玩",
-        "远程同乐",
         "家庭共享"
       ],
-      "review_score": "好评如潮",
-      "review_ratio": 97.0,
-      "review_total": 402975,
-      "developer": "Nicalis, Inc., Edmund McMillen",
-      "publisher": "Nicalis, Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365",
-      "steam_url": "https://store.steampowered.com/app/250900",
+      "review_score": "Mixed",
+      "review_ratio": 55.0,
+      "review_total": 7016,
+      "developer": "Hologryph, TowerHaus",
+      "publisher": "tinyBuild",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
+      "steam_url": "https://store.steampowered.com/app/1431300",
       "trend": [
         {
+          "date": "2026-06-23",
+          "peak": 15703
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 13358
+        },
+        {
+          "date": "2026-06-25",
+          "peak": 13882
+        },
+        {
+          "date": "2026-06-26",
+          "peak": 15627
+        },
+        {
+          "date": "2026-06-27",
+          "peak": 21659
+        },
+        {
+          "date": "2026-06-28",
+          "peak": 31756
+        },
+        {
           "date": "2026-06-30",
-          "peak": 96363
+          "peak": 25134
         }
       ]
     }
   },
   "main_signal": {
     "rank": 1,
-    "type": "discount_comeback",
-    "label": "折扣回流",
-    "score": 27.87,
-    "fact_summary": "The Binding of Isaac: Rebirth 今日观测峰值 96,363，首次进入当前观察窗口，被识别为「折扣回流」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 30.0,
+    "fact_summary": "Sand 今日观测峰值 25,134，未超过过往最高峰值 31,756，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 96363,
-      "previous_peak": 0,
-      "previous_record_peak": 0,
-      "growth_rate": 0.0,
-      "record_growth_rate": 0.0,
-      "scoring_peak": 96363,
+      "current_peak": 25134,
+      "previous_peak": 31756,
+      "previous_record_peak": 31756,
+      "growth_rate": -0.2085,
+      "record_growth_rate": -0.2085,
+      "scoring_peak": 25134,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 33.73,
+      "peak_score": 20.86,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
       "record_growth_score": 0.0,
-      "days_seen_score": 1.43,
-      "signal_type_score": 2.0,
-      "score_before_multiplier": 37.16,
-      "score_multiplier": 0.75,
+      "days_seen_score": 10.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 42.86,
+      "score_multiplier": 0.7,
       "score_multiplier_reasons": [
-        "discount_comeback"
+        "consecutive_star_2x"
       ],
-      "cumulative_star_count": 0,
-      "review_ratio": 97.0,
-      "review_total": 402975,
-      "days_seen": 1,
-      "comeback_gap_days": 0,
-      "is_new_release": false,
-      "release_age_days": 4256,
-      "is_comeback_age": true,
-      "comeback_reason": "discount",
-      "comeback_evidence": {
-        "title": "Steam store discount: 90% off",
-        "url": "https://store.steampowered.com/app/250900",
-        "date": "2026-06-30",
-        "source": "steam_store",
-        "discount_percent": 90,
-        "initial_formatted": "¥ 48.00",
-        "final_formatted": "¥ 4.80"
-      },
+      "cumulative_star_count": 2,
+      "consecutive_star_count": 2,
+      "review_ratio": 55.0,
+      "review_total": 7016,
+      "days_seen": 7,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 8,
+      "steam_release_age_days": 8,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
-        "动作"
+        "动作",
+        "冒险",
+        "抢先体验"
       ],
       "trend": [
         {
+          "date": "2026-06-23",
+          "peak": 15703
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 13358
+        },
+        {
+          "date": "2026-06-25",
+          "peak": 13882
+        },
+        {
+          "date": "2026-06-26",
+          "peak": 15627
+        },
+        {
+          "date": "2026-06-27",
+          "peak": 21659
+        },
+        {
+          "date": "2026-06-28",
+          "peak": 31756
+        },
+        {
           "date": "2026-06-30",
-          "peak": 96363
+          "peak": 25134
         }
       ]
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/250900"
+        "url": "https://store.steampowered.com/app/1431300"
       }
     ],
     "game": {
-      "slug": "the-binding-of-isaac-rebirth",
-      "appid": "250900",
-      "name": "The Binding of Isaac: Rebirth",
+      "slug": "sand",
+      "appid": "1431300",
+      "name": "Sand",
       "name_cn": null,
-      "description": "《以撒的结合：重生》是一款随机生成的动作角色扮演射击游戏，带有浓厚的 Rogue-like 元素。跟随艾萨克踏上旅程，玩家会发现奇异的宝藏，这些宝藏会改变艾萨克的形态，赋予他超人的能力，使他能够击退成群的神秘生物，发现秘密，并为安全而战。",
-      "release_date": "2014-11-04",
+      "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
+      "release_date": "2026-06-22",
       "genres": [
-        "动作"
+        "动作",
+        "冒险",
+        "抢先体验"
       ],
       "tags": [
-        "单人",
         "多人",
-        "同屏/分屏",
+        "玩家对战",
+        "线上玩家对战",
         "Steam 成就",
-        "完全支持控制器",
-        "Steam 集换式卡牌",
-        "Steam 云",
-        "在电视上远程畅玩",
-        "远程同乐",
         "家庭共享"
       ],
-      "review_score": "好评如潮",
-      "review_ratio": 97.0,
-      "review_total": 402975,
-      "developer": "Nicalis, Inc., Edmund McMillen",
-      "publisher": "Nicalis, Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365",
-      "steam_url": "https://store.steampowered.com/app/250900",
+      "review_score": "Mixed",
+      "review_ratio": 55.0,
+      "review_total": 7016,
+      "developer": "Hologryph, TowerHaus",
+      "publisher": "tinyBuild",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
+      "steam_url": "https://store.steampowered.com/app/1431300",
       "trend": [
         {
+          "date": "2026-06-23",
+          "peak": 15703
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 13358
+        },
+        {
+          "date": "2026-06-25",
+          "peak": 13882
+        },
+        {
+          "date": "2026-06-26",
+          "peak": 15627
+        },
+        {
+          "date": "2026-06-27",
+          "peak": 21659
+        },
+        {
+          "date": "2026-06-28",
+          "peak": 31756
+        },
+        {
           "date": "2026-06-30",
-          "peak": 96363
+          "peak": 25134
         }
       ]
     }
@@ -202,141 +296,7 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 21.56,
-      "fact_summary": "Sand 今日观测峰值 25,134，未超过过往最高峰值 31,756，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 25134,
-        "previous_peak": 31756,
-        "previous_record_peak": 31756,
-        "growth_rate": -0.2085,
-        "record_growth_rate": -0.2085,
-        "scoring_peak": 25134,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 8.8,
-        "record_growth_score": 0.0,
-        "days_seen_score": 10.0,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 30.8,
-        "score_multiplier": 0.7,
-        "score_multiplier_reasons": [
-          "cumulative_star_2x"
-        ],
-        "cumulative_star_count": 2,
-        "review_ratio": 55.0,
-        "review_total": 4987,
-        "days_seen": 7,
-        "comeback_gap_days": 1,
-        "is_new_release": true,
-        "release_age_days": 8,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [
-          "动作",
-          "冒险",
-          "抢先体验"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-23",
-            "peak": 15703
-          },
-          {
-            "date": "2026-06-24",
-            "peak": 13358
-          },
-          {
-            "date": "2026-06-25",
-            "peak": 13882
-          },
-          {
-            "date": "2026-06-26",
-            "peak": 15627
-          },
-          {
-            "date": "2026-06-27",
-            "peak": 21659
-          },
-          {
-            "date": "2026-06-28",
-            "peak": 31756
-          },
-          {
-            "date": "2026-06-30",
-            "peak": 25134
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/1431300"
-        }
-      ],
-      "game": {
-        "slug": "sand",
-        "appid": "1431300",
-        "name": "Sand",
-        "name_cn": null,
-        "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
-        "release_date": "2026-06-22",
-        "genres": [
-          "动作",
-          "冒险",
-          "抢先体验"
-        ],
-        "tags": [
-          "多人",
-          "玩家对战",
-          "线上玩家对战",
-          "Steam 成就",
-          "家庭共享"
-        ],
-        "review_score": "褒贬不一",
-        "review_ratio": 55.0,
-        "review_total": 4987,
-        "developer": "Hologryph, TowerHaus",
-        "publisher": "tinyBuild",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
-        "steam_url": "https://store.steampowered.com/app/1431300",
-        "trend": [
-          {
-            "date": "2026-06-23",
-            "peak": 15703
-          },
-          {
-            "date": "2026-06-24",
-            "peak": 13358
-          },
-          {
-            "date": "2026-06-25",
-            "peak": 13882
-          },
-          {
-            "date": "2026-06-26",
-            "peak": 15627
-          },
-          {
-            "date": "2026-06-27",
-            "peak": 21659
-          },
-          {
-            "date": "2026-06-28",
-            "peak": 31756
-          },
-          {
-            "date": "2026-06-30",
-            "peak": 25134
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 20.77,
+      "score": 27.53,
       "fact_summary": "Orb of Creation 今日观测峰值 4,662，未超过过往最高峰值 5,626，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 4662,
@@ -347,20 +307,28 @@
         "scoring_peak": 4662,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 1.63,
+        "peak_score": 8.39,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.4662,
         "record_growth_score": 0.0,
         "days_seen_score": 7.14,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 20.77,
+        "score_before_multiplier": 27.53,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
         "cumulative_star_count": 0,
-        "review_ratio": 88.0,
-        "review_total": 1840,
+        "consecutive_star_count": 0,
+        "review_ratio": 87.0,
+        "review_total": 1925,
         "days_seen": 5,
         "comeback_gap_days": 1,
         "is_new_release": true,
         "release_age_days": 7,
+        "steam_release_age_days": 7,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
         "comeback_reason": "not_comeback_age",
         "comeback_evidence": null,
@@ -417,8 +385,8 @@
           "家庭共享"
         ],
         "review_score": "Very Positive",
-        "review_ratio": 88.0,
-        "review_total": 1840,
+        "review_ratio": 87.0,
+        "review_total": 1925,
         "developer": "MarpleGames",
         "publisher": "MarpleGames",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910680/28cbe4a8420b96a025958a161203b5603a17daed/header.jpg?t=1782342864",
@@ -448,10 +416,10 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 17.06,
+      "score": 24.43,
       "fact_summary": "The Adventures of Elliot: The Millennium Tales 今日观测峰值 2,141，未超过过往最高峰值 7,171，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 2141,
@@ -462,22 +430,28 @@
         "scoring_peak": 2141,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 0.75,
+        "peak_score": 3.85,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.2141,
         "record_growth_score": 0.0,
         "days_seen_score": 8.57,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 21.32,
-        "score_multiplier": 0.8,
-        "score_multiplier_reasons": [
-          "cumulative_star_1x"
-        ],
-        "cumulative_star_count": 1,
-        "review_ratio": 75.0,
-        "review_total": 1499,
+        "score_before_multiplier": 24.43,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
+        "consecutive_star_count": 0,
+        "review_ratio": 77.0,
+        "review_total": 1670,
         "days_seen": 6,
         "comeback_gap_days": 6,
         "is_new_release": true,
         "release_age_days": 12,
+        "steam_release_age_days": 12,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
         "comeback_reason": "not_comeback_age",
         "comeback_evidence": null,
@@ -549,8 +523,8 @@
           "家庭共享"
         ],
         "review_score": "Mostly Positive",
-        "review_ratio": 75.0,
-        "review_total": 1499,
+        "review_ratio": 77.0,
+        "review_total": 1670,
         "developer": "Square Enix, Claytechworks",
         "publisher": "Square Enix",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1782353681",
@@ -584,10 +558,10 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 14.4,
+      "score": 18.43,
       "fact_summary": "Gloria Victis 今日观测峰值 2,780，首次进入当前观察窗口，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 2780,
@@ -598,20 +572,28 @@
         "scoring_peak": 2780,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 0.97,
+        "peak_score": 5.0,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.278,
         "record_growth_score": 0.0,
         "days_seen_score": 1.43,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 14.4,
+        "score_before_multiplier": 18.43,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
         "cumulative_star_count": 0,
+        "consecutive_star_count": 0,
         "review_ratio": 69.0,
-        "review_total": 11257,
+        "review_total": 11326,
         "days_seen": 1,
         "comeback_gap_days": 0,
         "is_new_release": true,
         "release_age_days": 13,
+        "steam_release_age_days": 13,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
         "comeback_reason": "not_comeback_age",
         "comeback_evidence": null,
@@ -668,7 +650,7 @@
         ],
         "review_score": "Mixed",
         "review_ratio": 69.0,
-        "review_total": 11257,
+        "review_total": 11326,
         "developer": "gamigo US",
         "publisher": "gamigo US",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327070/ee34cd9e855b2a4e20682c2ae6b12a27ccf042aa/header.jpg?t=1782471732",
@@ -677,6 +659,107 @@
           {
             "date": "2026-06-30",
             "peak": 2780
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 18.25,
+      "fact_summary": "Angels Online Global 今日观测峰值 2,679，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 2679,
+        "previous_peak": 0,
+        "previous_record_peak": 0,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 2679,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 4.82,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.2679,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 18.25,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "cumulative_star_count": 0,
+        "consecutive_star_count": 0,
+        "review_ratio": 72.0,
+        "review_total": 463,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "release_age_days": 13,
+        "steam_release_age_days": 13,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "冒险",
+          "大型多人在线",
+          "角色扮演",
+          "免费"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 2679
+          }
+        ]
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4018020"
+        }
+      ],
+      "game": {
+        "slug": "angels-online-global",
+        "appid": "4018020",
+        "name": "Angels Online Global",
+        "name_cn": null,
+        "description": "《天使之恋Online 国际版》是一款2D可爱奇幻风格的线上 MMORPG，主打高度自由的养成、多样玩法与跨国共玩体验，让新旧玩家都能轻松投入、长久游玩。可自由选择阵营、搭配技能来培养角色，创造出专属于个人的游戏风格。国际版更提供四倍速练等，加速角色成长，优化背包空间，让收集与探索更无负担。同时支援即时聊天翻译，可与全球玩家一同冒险。游戏装扮可由副本直接掉落，并追加分解、融合系统，将外观转化为实力。",
+        "release_date": "2026-06-17",
+        "genres": [
+          "冒险",
+          "大型多人在线",
+          "角色扮演",
+          "免费"
+        ],
+        "tags": [
+          "多人",
+          "大型多人在线",
+          "玩家对战",
+          "线上玩家对战",
+          "合作",
+          "在线合作",
+          "应用内购买",
+          "自定义音量控制",
+          "可以仅用键盘",
+          "无需应对快速反应事件",
+          "随时保存",
+          "家庭共享"
+        ],
+        "review_score": "Mostly Positive",
+        "review_ratio": 72.0,
+        "review_total": 463,
+        "developer": "USERJOY Technology Co.,Ltd.",
+        "publisher": "USERJOY Technology Co.,Ltd.",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018020/6c712c5ca3f34291e596a2d60f2b3961a168c851/header.jpg?t=1782272656",
+        "steam_url": "https://store.steampowered.com/app/4018020",
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 2679
           }
         ]
       }

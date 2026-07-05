@@ -8,662 +8,304 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "discount_comeback",
-    "label": "折扣回流",
-    "score": 23.83,
-    "fact_summary": "The Binding of Isaac: Rebirth 今日观测峰值 97,960，较过往最高峰值提升 +2%，被识别为「折扣回流」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 25.38,
+    "fact_summary": "Sand 今日观测峰值 22,167，未超过过往最高峰值 31,756，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 97960,
-      "previous_peak": 96363,
-      "previous_record_peak": 96363,
-      "growth_rate": 0.0166,
-      "record_growth_rate": 0.0166,
-      "scoring_peak": 97960,
+      "current_peak": 22167,
+      "previous_peak": 31756,
+      "previous_record_peak": 31756,
+      "growth_rate": -0.302,
+      "record_growth_rate": -0.302,
+      "scoring_peak": 22167,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 34.29,
-      "record_growth_score": 0.58,
-      "days_seen_score": 2.86,
-      "signal_type_score": 2.0,
-      "score_before_multiplier": 39.72,
+      "peak_score": 20.3,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 10.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 42.3,
       "score_multiplier": 0.6,
       "score_multiplier_reasons": [
-        "cumulative_star_1x",
-        "discount_comeback"
+        "consecutive_star_3x"
       ],
-      "cumulative_star_count": 1,
-      "review_ratio": 97.0,
-      "review_total": 404676,
-      "days_seen": 2,
+      "cumulative_star_count": 3,
+      "consecutive_star_count": 3,
+      "review_ratio": 55.0,
+      "review_total": 7016,
+      "days_seen": 8,
       "comeback_gap_days": 1,
-      "is_new_release": false,
-      "release_age_days": 4257,
-      "is_comeback_age": true,
-      "comeback_reason": "discount",
-      "comeback_evidence": {
-        "title": "Steam store discount: 90% off",
-        "url": "https://store.steampowered.com/app/250900",
-        "date": "2026-07-01",
-        "source": "steam_store",
-        "discount_percent": 90,
-        "initial_formatted": "¥ 48.00",
-        "final_formatted": "¥ 4.80"
-      },
+      "is_new_release": true,
+      "release_age_days": 9,
+      "steam_release_age_days": 9,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
-        "动作"
+        "动作",
+        "冒险",
+        "抢先体验"
       ],
       "trend": [
         {
+          "date": "2026-06-23",
+          "peak": 15703
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 13358
+        },
+        {
+          "date": "2026-06-25",
+          "peak": 13882
+        },
+        {
+          "date": "2026-06-26",
+          "peak": 15627
+        },
+        {
+          "date": "2026-06-27",
+          "peak": 21659
+        },
+        {
+          "date": "2026-06-28",
+          "peak": 31756
+        },
+        {
           "date": "2026-06-30",
-          "peak": 96363
+          "peak": 25134
         },
         {
           "date": "2026-07-01",
-          "peak": 97960
+          "peak": 22167
         }
       ]
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/250900"
+        "url": "https://store.steampowered.com/app/1431300"
       }
     ],
     "game": {
-      "slug": "the-binding-of-isaac-rebirth",
-      "appid": "250900",
-      "name": "The Binding of Isaac: Rebirth",
+      "slug": "sand",
+      "appid": "1431300",
+      "name": "Sand",
       "name_cn": null,
-      "description": "《以撒的结合：重生》是一款随机生成的动作角色扮演射击游戏，带有浓厚的 Rogue-like 元素。跟随艾萨克踏上旅程，玩家会发现奇异的宝藏，这些宝藏会改变艾萨克的形态，赋予他超人的能力，使他能够击退成群的神秘生物，发现秘密，并为安全而战。",
-      "release_date": "2014-11-04",
+      "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
+      "release_date": "2026-06-22",
       "genres": [
-        "动作"
+        "动作",
+        "冒险",
+        "抢先体验"
       ],
       "tags": [
-        "单人",
         "多人",
-        "同屏/分屏",
+        "玩家对战",
+        "线上玩家对战",
         "Steam 成就",
-        "完全支持控制器",
-        "Steam 集换式卡牌",
-        "Steam 云",
-        "在电视上远程畅玩",
-        "远程同乐",
         "家庭共享"
       ],
-      "review_score": "好评如潮",
-      "review_ratio": 97.0,
-      "review_total": 404676,
-      "developer": "Nicalis, Inc., Edmund McMillen",
-      "publisher": "Nicalis, Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365",
-      "steam_url": "https://store.steampowered.com/app/250900",
+      "review_score": "Mixed",
+      "review_ratio": 55.0,
+      "review_total": 7016,
+      "developer": "Hologryph, TowerHaus",
+      "publisher": "tinyBuild",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
+      "steam_url": "https://store.steampowered.com/app/1431300",
       "trend": [
         {
+          "date": "2026-06-23",
+          "peak": 15703
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 13358
+        },
+        {
+          "date": "2026-06-25",
+          "peak": 13882
+        },
+        {
+          "date": "2026-06-26",
+          "peak": 15627
+        },
+        {
+          "date": "2026-06-27",
+          "peak": 21659
+        },
+        {
+          "date": "2026-06-28",
+          "peak": 31756
+        },
+        {
           "date": "2026-06-30",
-          "peak": 96363
+          "peak": 25134
         },
         {
           "date": "2026-07-01",
-          "peak": 97960
+          "peak": 22167
         }
       ]
     }
   },
   "main_signal": {
     "rank": 1,
-    "type": "discount_comeback",
-    "label": "折扣回流",
-    "score": 23.83,
-    "fact_summary": "The Binding of Isaac: Rebirth 今日观测峰值 97,960，较过往最高峰值提升 +2%，被识别为「折扣回流」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 25.38,
+    "fact_summary": "Sand 今日观测峰值 22,167，未超过过往最高峰值 31,756，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 97960,
-      "previous_peak": 96363,
-      "previous_record_peak": 96363,
-      "growth_rate": 0.0166,
-      "record_growth_rate": 0.0166,
-      "scoring_peak": 97960,
+      "current_peak": 22167,
+      "previous_peak": 31756,
+      "previous_record_peak": 31756,
+      "growth_rate": -0.302,
+      "record_growth_rate": -0.302,
+      "scoring_peak": 22167,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 34.29,
-      "record_growth_score": 0.58,
-      "days_seen_score": 2.86,
-      "signal_type_score": 2.0,
-      "score_before_multiplier": 39.72,
+      "peak_score": 20.3,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 10.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 42.3,
       "score_multiplier": 0.6,
       "score_multiplier_reasons": [
-        "cumulative_star_1x",
-        "discount_comeback"
+        "consecutive_star_3x"
       ],
-      "cumulative_star_count": 1,
-      "review_ratio": 97.0,
-      "review_total": 404676,
-      "days_seen": 2,
+      "cumulative_star_count": 3,
+      "consecutive_star_count": 3,
+      "review_ratio": 55.0,
+      "review_total": 7016,
+      "days_seen": 8,
       "comeback_gap_days": 1,
-      "is_new_release": false,
-      "release_age_days": 4257,
-      "is_comeback_age": true,
-      "comeback_reason": "discount",
-      "comeback_evidence": {
-        "title": "Steam store discount: 90% off",
-        "url": "https://store.steampowered.com/app/250900",
-        "date": "2026-07-01",
-        "source": "steam_store",
-        "discount_percent": 90,
-        "initial_formatted": "¥ 48.00",
-        "final_formatted": "¥ 4.80"
-      },
+      "is_new_release": true,
+      "release_age_days": 9,
+      "steam_release_age_days": 9,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
-        "动作"
+        "动作",
+        "冒险",
+        "抢先体验"
       ],
       "trend": [
         {
+          "date": "2026-06-23",
+          "peak": 15703
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 13358
+        },
+        {
+          "date": "2026-06-25",
+          "peak": 13882
+        },
+        {
+          "date": "2026-06-26",
+          "peak": 15627
+        },
+        {
+          "date": "2026-06-27",
+          "peak": 21659
+        },
+        {
+          "date": "2026-06-28",
+          "peak": 31756
+        },
+        {
           "date": "2026-06-30",
-          "peak": 96363
+          "peak": 25134
         },
         {
           "date": "2026-07-01",
-          "peak": 97960
+          "peak": 22167
         }
       ]
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/250900"
+        "url": "https://store.steampowered.com/app/1431300"
       }
     ],
     "game": {
-      "slug": "the-binding-of-isaac-rebirth",
-      "appid": "250900",
-      "name": "The Binding of Isaac: Rebirth",
+      "slug": "sand",
+      "appid": "1431300",
+      "name": "Sand",
       "name_cn": null,
-      "description": "《以撒的结合：重生》是一款随机生成的动作角色扮演射击游戏，带有浓厚的 Rogue-like 元素。跟随艾萨克踏上旅程，玩家会发现奇异的宝藏，这些宝藏会改变艾萨克的形态，赋予他超人的能力，使他能够击退成群的神秘生物，发现秘密，并为安全而战。",
-      "release_date": "2014-11-04",
+      "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
+      "release_date": "2026-06-22",
       "genres": [
-        "动作"
+        "动作",
+        "冒险",
+        "抢先体验"
       ],
       "tags": [
-        "单人",
         "多人",
-        "同屏/分屏",
+        "玩家对战",
+        "线上玩家对战",
         "Steam 成就",
-        "完全支持控制器",
-        "Steam 集换式卡牌",
-        "Steam 云",
-        "在电视上远程畅玩",
-        "远程同乐",
         "家庭共享"
       ],
-      "review_score": "好评如潮",
-      "review_ratio": 97.0,
-      "review_total": 404676,
-      "developer": "Nicalis, Inc., Edmund McMillen",
-      "publisher": "Nicalis, Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/250900/header.jpg?t=1731977365",
-      "steam_url": "https://store.steampowered.com/app/250900",
+      "review_score": "Mixed",
+      "review_ratio": 55.0,
+      "review_total": 7016,
+      "developer": "Hologryph, TowerHaus",
+      "publisher": "tinyBuild",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
+      "steam_url": "https://store.steampowered.com/app/1431300",
       "trend": [
         {
+          "date": "2026-06-23",
+          "peak": 15703
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 13358
+        },
+        {
+          "date": "2026-06-25",
+          "peak": 13882
+        },
+        {
+          "date": "2026-06-26",
+          "peak": 15627
+        },
+        {
+          "date": "2026-06-27",
+          "peak": 21659
+        },
+        {
+          "date": "2026-06-28",
+          "peak": 31756
+        },
+        {
           "date": "2026-06-30",
-          "peak": 96363
+          "peak": 25134
         },
         {
           "date": "2026-07-01",
-          "peak": 97960
+          "peak": 22167
         }
       ]
     }
   },
   "secondary_signals": [],
-  "candidate_signals": [
-    {
-      "rank": 2,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 20.83,
-      "fact_summary": "Sand 今日观测峰值 22,167，未超过过往最高峰值 31,756，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 22167,
-        "previous_peak": 31756,
-        "previous_record_peak": 31756,
-        "growth_rate": -0.302,
-        "record_growth_rate": -0.302,
-        "scoring_peak": 22167,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 7.76,
-        "record_growth_score": 0.0,
-        "days_seen_score": 10.0,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 29.76,
-        "score_multiplier": 0.7,
-        "score_multiplier_reasons": [
-          "cumulative_star_2x"
-        ],
-        "cumulative_star_count": 2,
-        "review_ratio": 54.0,
-        "review_total": 5453,
-        "days_seen": 8,
-        "comeback_gap_days": 1,
-        "is_new_release": true,
-        "release_age_days": 9,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [
-          "动作",
-          "冒险",
-          "抢先体验"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-23",
-            "peak": 15703
-          },
-          {
-            "date": "2026-06-24",
-            "peak": 13358
-          },
-          {
-            "date": "2026-06-25",
-            "peak": 13882
-          },
-          {
-            "date": "2026-06-26",
-            "peak": 15627
-          },
-          {
-            "date": "2026-06-27",
-            "peak": 21659
-          },
-          {
-            "date": "2026-06-28",
-            "peak": 31756
-          },
-          {
-            "date": "2026-06-30",
-            "peak": 25134
-          },
-          {
-            "date": "2026-07-01",
-            "peak": 22167
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/1431300"
-        }
-      ],
-      "game": {
-        "slug": "sand",
-        "appid": "1431300",
-        "name": "Sand",
-        "name_cn": null,
-        "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
-        "release_date": "2026-06-22",
-        "genres": [
-          "动作",
-          "冒险",
-          "抢先体验"
-        ],
-        "tags": [
-          "多人",
-          "玩家对战",
-          "线上玩家对战",
-          "Steam 成就",
-          "家庭共享"
-        ],
-        "review_score": "褒贬不一",
-        "review_ratio": 54.0,
-        "review_total": 5453,
-        "developer": "Hologryph, TowerHaus",
-        "publisher": "tinyBuild",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
-        "steam_url": "https://store.steampowered.com/app/1431300",
-        "trend": [
-          {
-            "date": "2026-06-23",
-            "peak": 15703
-          },
-          {
-            "date": "2026-06-24",
-            "peak": 13358
-          },
-          {
-            "date": "2026-06-25",
-            "peak": 13882
-          },
-          {
-            "date": "2026-06-26",
-            "peak": 15627
-          },
-          {
-            "date": "2026-06-27",
-            "peak": 21659
-          },
-          {
-            "date": "2026-06-28",
-            "peak": 31756
-          },
-          {
-            "date": "2026-06-30",
-            "peak": 25134
-          },
-          {
-            "date": "2026-07-01",
-            "peak": 22167
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
-      "type": "comeback",
-      "label": "老游戏回归",
-      "score": 16.2,
-      "fact_summary": "Source SDK Base 2007 今日观测峰值 10,379，未超过过往最高峰值 10,814，被识别为「老游戏回归」。",
-      "metrics": {
-        "current_peak": 10379,
-        "previous_peak": 10814,
-        "previous_record_peak": 10814,
-        "growth_rate": -0.0402,
-        "record_growth_rate": -0.0402,
-        "scoring_peak": 10379,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 3.63,
-        "record_growth_score": 0.0,
-        "days_seen_score": 8.57,
-        "signal_type_score": 4.0,
-        "score_before_multiplier": 16.2,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "cumulative_star_count": 0,
-        "review_ratio": null,
-        "review_total": 0,
-        "days_seen": 6,
-        "comeback_gap_days": 17,
-        "is_new_release": false,
-        "release_age_days": null,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [],
-        "trend": [
-          {
-            "date": "2026-06-07",
-            "peak": 10814
-          },
-          {
-            "date": "2026-06-08",
-            "peak": 10731
-          },
-          {
-            "date": "2026-06-10",
-            "peak": 7148
-          },
-          {
-            "date": "2026-06-11",
-            "peak": 10699
-          },
-          {
-            "date": "2026-06-13",
-            "peak": 10734
-          },
-          {
-            "date": "2026-07-01",
-            "peak": 10379
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/218"
-        }
-      ],
-      "game": {
-        "slug": "source-sdk-base-2007",
-        "appid": "218",
-        "name": "Source SDK Base 2007",
-        "name_cn": null,
-        "description": "",
-        "release_date": "",
-        "genres": [],
-        "tags": [],
-        "review_score": "暂无评价",
-        "review_ratio": null,
-        "review_total": 0,
-        "developer": "",
-        "publisher": "",
-        "cover_image_url": "",
-        "steam_url": "https://store.steampowered.com/app/218",
-        "trend": [
-          {
-            "date": "2026-06-07",
-            "peak": 10814
-          },
-          {
-            "date": "2026-06-08",
-            "peak": 10731
-          },
-          {
-            "date": "2026-06-10",
-            "peak": 7148
-          },
-          {
-            "date": "2026-06-11",
-            "peak": 10699
-          },
-          {
-            "date": "2026-06-13",
-            "peak": 10734
-          },
-          {
-            "date": "2026-07-01",
-            "peak": 10379
-          }
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "type": "comeback",
-      "label": "老游戏回归",
-      "score": 13.42,
-      "fact_summary": "Diablo® IV 今日观测峰值 22,833，首次进入当前观察窗口，被识别为「老游戏回归」。",
-      "metrics": {
-        "current_peak": 22833,
-        "previous_peak": 0,
-        "previous_record_peak": 0,
-        "growth_rate": 0.0,
-        "record_growth_rate": 0.0,
-        "scoring_peak": 22833,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 7.99,
-        "record_growth_score": 0.0,
-        "days_seen_score": 1.43,
-        "signal_type_score": 4.0,
-        "score_before_multiplier": 13.42,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "cumulative_star_count": 0,
-        "review_ratio": 65.0,
-        "review_total": 73119,
-        "days_seen": 1,
-        "comeback_gap_days": 0,
-        "is_new_release": false,
-        "release_age_days": 988,
-        "is_comeback_age": true,
-        "comeback_reason": "generic",
-        "comeback_evidence": null,
-        "genres": [
-          "动作",
-          "冒险",
-          "休闲",
-          "大型多人在线",
-          "角色扮演"
-        ],
-        "trend": [
-          {
-            "date": "2026-07-01",
-            "peak": 22833
-          }
-        ]
-      },
-      "sources": [],
-      "game": {
-        "slug": "diablo-iv",
-        "appid": null,
-        "name": "Diablo® IV",
-        "name_cn": null,
-        "description": "进入《暗黑破坏神® IV》的世界，在捍卫庇护之地的战斗中，开启前所未有的动作 RPG 冒险。亲身体验备受赞誉的游戏剧情和全新赛季内容。",
-        "release_date": "2023-10-17",
-        "genres": [
-          "动作",
-          "冒险",
-          "休闲",
-          "大型多人在线",
-          "角色扮演"
-        ],
-        "tags": [],
-        "review_score": "褒贬不一",
-        "review_ratio": 65.0,
-        "review_total": 73119,
-        "developer": null,
-        "publisher": null,
-        "cover_image_url": null,
-        "steam_url": null,
-        "trend": [
-          {
-            "date": "2026-07-01",
-            "peak": 22833
-          }
-        ]
-      }
-    },
-    {
-      "rank": 5,
-      "type": "discount_comeback",
-      "label": "折扣回流",
-      "score": 10.73,
-      "fact_summary": "Call of Duty®: Modern Warfare® II 今日观测峰值 18,834，未超过过往最高峰值 33,920，被识别为「折扣回流」。",
-      "metrics": {
-        "current_peak": 18834,
-        "previous_peak": 33920,
-        "previous_record_peak": 33920,
-        "growth_rate": -0.4448,
-        "record_growth_rate": -0.4448,
-        "scoring_peak": 18834,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 6.59,
-        "record_growth_score": 0.0,
-        "days_seen_score": 5.71,
-        "signal_type_score": 2.0,
-        "score_before_multiplier": 14.31,
-        "score_multiplier": 0.75,
-        "score_multiplier_reasons": [
-          "discount_comeback"
-        ],
-        "cumulative_star_count": 0,
-        "review_ratio": 42.0,
-        "review_total": 18476,
-        "days_seen": 4,
-        "comeback_gap_days": 1,
-        "is_new_release": false,
-        "release_age_days": 1348,
-        "is_comeback_age": true,
-        "comeback_reason": "discount",
-        "comeback_evidence": {
-          "title": "Steam store discount: 90% off",
-          "url": "https://store.steampowered.com/app/3595230",
-          "date": "2026-07-01",
-          "source": "steam_store",
-          "discount_percent": 90,
-          "initial_formatted": "¥ 446.00",
-          "final_formatted": "¥ 44.60"
-        },
-        "genres": [
-          "动作"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-27",
-            "peak": 31810
-          },
-          {
-            "date": "2026-06-28",
-            "peak": 33920
-          },
-          {
-            "date": "2026-06-30",
-            "peak": 20919
-          },
-          {
-            "date": "2026-07-01",
-            "peak": 18834
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/3595230"
-        }
-      ],
-      "game": {
-        "slug": "call-of-duty-modern-warfare-ii",
-        "appid": "3595230",
-        "name": "Call of Duty®: Modern Warfare® II",
-        "name_cn": null,
-        "description": "《使命召唤®：现代战争® II 2022》将玩家带入了一场前所未有的全球冲突，141特遣队的标志性队员们即将回归。",
-        "release_date": "2022-10-22",
-        "genres": [
-          "动作"
-        ],
-        "tags": [
-          "单人",
-          "多人",
-          "玩家对战",
-          "线上玩家对战",
-          "合作",
-          "在线合作",
-          "跨平台多人",
-          "Steam 成就",
-          "完全支持控制器",
-          "支持字幕",
-          "应用内购买"
-        ],
-        "review_score": "褒贬不一",
-        "review_ratio": 42.0,
-        "review_total": 18476,
-        "developer": "Infinity Ward, Raven Software, Beenox, Treyarch, High Moon Studios, Sledgehammer Games, Demonware, Toys for Bob",
-        "publisher": "Activision",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3595230/ce4d5e53b36cb9d3c4309d1df72bf8663bbbc7ef/header.jpg?t=1778886532",
-        "steam_url": "https://store.steampowered.com/app/3595230",
-        "trend": [
-          {
-            "date": "2026-06-27",
-            "peak": 31810
-          },
-          {
-            "date": "2026-06-28",
-            "peak": 33920
-          },
-          {
-            "date": "2026-06-30",
-            "peak": 20919
-          },
-          {
-            "date": "2026-07-01",
-            "peak": 18834
-          }
-        ]
-      }
-    }
-  ]
+  "candidate_signals": []
 }

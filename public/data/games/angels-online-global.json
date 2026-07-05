@@ -1,0 +1,41 @@
+{
+  "slug": "angels-online-global",
+  "appid": "4018020",
+  "name": "Angels Online Global",
+  "name_cn": null,
+  "description": "《天使之恋Online 国际版》是一款2D可爱奇幻风格的线上 MMORPG，主打高度自由的养成、多样玩法与跨国共玩体验，让新旧玩家都能轻松投入、长久游玩。可自由选择阵营、搭配技能来培养角色，创造出专属于个人的游戏风格。国际版更提供四倍速练等，加速角色成长，优化背包空间，让收集与探索更无负担。同时支援即时聊天翻译，可与全球玩家一同冒险。游戏装扮可由副本直接掉落，并追加分解、融合系统，将外观转化为实力。",
+  "release_date": "2026-06-17",
+  "genres": [
+    "冒险",
+    "大型多人在线",
+    "角色扮演",
+    "免费"
+  ],
+  "tags": [
+    "多人",
+    "大型多人在线",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "应用内购买",
+    "自定义音量控制",
+    "可以仅用键盘",
+    "无需应对快速反应事件",
+    "随时保存",
+    "家庭共享"
+  ],
+  "review_score": "Mostly Positive",
+  "review_ratio": 72.0,
+  "review_total": 463,
+  "developer": "USERJOY Technology Co.,Ltd.",
+  "publisher": "USERJOY Technology Co.,Ltd.",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018020/6c712c5ca3f34291e596a2d60f2b3961a168c851/header.jpg?t=1782272656",
+  "steam_url": "https://store.steampowered.com/app/4018020",
+  "trend": [
+    {
+      "date": "2026-06-30",
+      "peak": 2679
+    }
+  ]
+}
