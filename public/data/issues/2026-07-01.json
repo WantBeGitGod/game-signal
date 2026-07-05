@@ -10,7 +10,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 25.38,
+    "score": 42.3,
     "fact_summary": "Sand 今日观测峰值 22,167，未超过过往最高峰值 31,756，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 22167,
@@ -28,12 +28,13 @@
       "days_seen_score": 10.0,
       "signal_type_score": 12.0,
       "score_before_multiplier": 42.3,
-      "score_multiplier": 0.6,
-      "score_multiplier_reasons": [
-        "consecutive_star_3x"
-      ],
-      "cumulative_star_count": 3,
-      "consecutive_star_count": 3,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "monthly_star_count": 0,
+      "prior_total_star_count": 4,
+      "total_star_count": 5,
+      "star_appearance_count": 5,
+      "cumulative_star_count": 0,
       "review_ratio": 55.0,
       "review_total": 7016,
       "days_seen": 8,
@@ -87,6 +88,11 @@
           "peak": 22167
         }
       ]
+    },
+    "star_appearance": {
+      "count": 5,
+      "prior_count": 4,
+      "month_prior_count": 0
     },
     "sources": [
       {
@@ -160,7 +166,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 25.38,
+    "score": 42.3,
     "fact_summary": "Sand 今日观测峰值 22,167，未超过过往最高峰值 31,756，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 22167,
@@ -178,12 +184,13 @@
       "days_seen_score": 10.0,
       "signal_type_score": 12.0,
       "score_before_multiplier": 42.3,
-      "score_multiplier": 0.6,
-      "score_multiplier_reasons": [
-        "consecutive_star_3x"
-      ],
-      "cumulative_star_count": 3,
-      "consecutive_star_count": 3,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "monthly_star_count": 0,
+      "prior_total_star_count": 4,
+      "total_star_count": 5,
+      "star_appearance_count": 5,
+      "cumulative_star_count": 0,
       "review_ratio": 55.0,
       "review_total": 7016,
       "days_seen": 8,
@@ -237,6 +244,11 @@
           "peak": 22167
         }
       ]
+    },
+    "star_appearance": {
+      "count": 5,
+      "prior_count": 4,
+      "month_prior_count": 0
     },
     "sources": [
       {

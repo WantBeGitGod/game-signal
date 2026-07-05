@@ -10,7 +10,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 35.04,
+    "score": 38.85,
     "fact_summary": "Gothic 1 Remake 今日观测峰值 70,457，未超过过往最高峰值 77,731，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 70457,
@@ -21,15 +21,21 @@
       "scoring_peak": 70457,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 24.66,
+      "peak_score": 29.42,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
       "record_growth_score": 0.0,
       "days_seen_score": 7.14,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 43.8,
+      "score_before_multiplier": 48.56,
       "score_multiplier": 0.8,
       "score_multiplier_reasons": [
-        "cumulative_star_1x"
+        "monthly_star_1x"
       ],
+      "monthly_star_count": 1,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
       "cumulative_star_count": 1,
       "review_ratio": 88.0,
       "review_total": 24951,
@@ -37,7 +43,14 @@
       "comeback_gap_days": 1,
       "is_new_release": true,
       "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
       "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
         "动作",
         "角色扮演"
@@ -64,6 +77,11 @@
           "peak": 70457
         }
       ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "month_prior_count": 1
     },
     "sources": [
       {
@@ -133,7 +151,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 35.04,
+    "score": 38.85,
     "fact_summary": "Gothic 1 Remake 今日观测峰值 70,457，未超过过往最高峰值 77,731，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 70457,
@@ -144,15 +162,21 @@
       "scoring_peak": 70457,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 24.66,
+      "peak_score": 29.42,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
       "record_growth_score": 0.0,
       "days_seen_score": 7.14,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 43.8,
+      "score_before_multiplier": 48.56,
       "score_multiplier": 0.8,
       "score_multiplier_reasons": [
-        "cumulative_star_1x"
+        "monthly_star_1x"
       ],
+      "monthly_star_count": 1,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
       "cumulative_star_count": 1,
       "review_ratio": 88.0,
       "review_total": 24951,
@@ -160,7 +184,14 @@
       "comeback_gap_days": 1,
       "is_new_release": true,
       "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
       "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
         "动作",
         "角色扮演"
@@ -187,6 +218,11 @@
           "peak": 70457
         }
       ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "month_prior_count": 1
     },
     "sources": [
       {
@@ -256,85 +292,9 @@
   "candidate_signals": [
     {
       "rank": 2,
-      "type": "comeback",
-      "label": "老游戏回归",
-      "score": 26.11,
-      "fact_summary": "Destiny 2 今日观测峰值 59,091，首次进入当前观察窗口，被识别为「老游戏回归」。",
-      "metrics": {
-        "current_peak": 59091,
-        "previous_peak": 0,
-        "previous_record_peak": 0,
-        "growth_rate": 0.0,
-        "record_growth_rate": 0.0,
-        "scoring_peak": 59091,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 20.68,
-        "record_growth_score": 0.0,
-        "days_seen_score": 1.43,
-        "signal_type_score": 4.0,
-        "score_before_multiplier": 26.11,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "cumulative_star_count": 0,
-        "review_ratio": 78.0,
-        "review_total": 654913,
-        "days_seen": 1,
-        "comeback_gap_days": 0,
-        "is_new_release": false,
-        "release_age_days": 2444,
-        "is_comeback_age": true,
-        "genres": [
-          "动作",
-          "冒险",
-          "免费"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-10",
-            "peak": 59091
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/1085660"
-        }
-      ],
-      "game": {
-        "slug": "destiny-2",
-        "appid": "1085660",
-        "name": "Destiny 2",
-        "name_cn": null,
-        "description": "在《命运2》中探索太阳系的奥秘，体验精彩刺激的第一人称射击战斗。在剧情任务、合作和PvP模式中解锁强大能力并收集独特装备。",
-        "release_date": "2019-10-01",
-        "genres": [
-          "动作",
-          "冒险",
-          "免费"
-        ],
-        "tags": [],
-        "review_score": "多半好评",
-        "review_ratio": 78.0,
-        "review_total": 654913,
-        "developer": "Bungie",
-        "publisher": "Bungie",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781045588",
-        "steam_url": "https://store.steampowered.com/app/1085660",
-        "trend": [
-          {
-            "date": "2026-06-10",
-            "peak": 59091
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 23.46,
+      "score": 34.95,
       "fact_summary": "Road to Empress Ⅱ 今日观测峰值 28,665，首次进入当前观察窗口，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 28665,
@@ -345,13 +305,19 @@
         "scoring_peak": 28665,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 10.03,
+        "peak_score": 21.53,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
         "record_growth_score": 0.0,
         "days_seen_score": 1.43,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 23.46,
+        "score_before_multiplier": 34.95,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
         "review_ratio": 83.0,
         "review_total": 7161,
@@ -359,7 +325,14 @@
         "comeback_gap_days": 0,
         "is_new_release": true,
         "release_age_days": 2,
+        "steam_release_age_days": 2,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "冒险",
           "休闲",
@@ -373,6 +346,11 @@
             "peak": 28665
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -416,92 +394,10 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 18.96,
-      "fact_summary": "MECCHA CHAMELEON 今日观测峰值 15,813，首次进入当前观察窗口，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 15813,
-        "previous_peak": 0,
-        "previous_record_peak": 0,
-        "growth_rate": 0.0,
-        "record_growth_rate": 0.0,
-        "scoring_peak": 15813,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 5.53,
-        "record_growth_score": 0.0,
-        "days_seen_score": 1.43,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 18.96,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "cumulative_star_count": 0,
-        "review_ratio": 82.0,
-        "review_total": 17998,
-        "days_seen": 1,
-        "comeback_gap_days": 0,
-        "is_new_release": true,
-        "release_age_days": 1,
-        "is_comeback_age": false,
-        "genres": [
-          "休闲"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-10",
-            "peak": 15813
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/4704690"
-        }
-      ],
-      "game": {
-        "slug": "meccha-chameleon",
-        "appid": "4704690",
-        "name": "MECCHA CHAMELEON",
-        "name_cn": null,
-        "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
-        "release_date": "2026-06-09",
-        "genres": [
-          "休闲"
-        ],
-        "tags": [
-          "多人",
-          "玩家对战",
-          "线上玩家对战",
-          "视角舒适度",
-          "自定义音量控制",
-          "无需应对快速反应事件",
-          "立体声",
-          "环绕声",
-          "家庭共享"
-        ],
-        "review_score": "Very Positive",
-        "review_ratio": 82.0,
-        "review_total": 17998,
-        "developer": "lemorion_1224",
-        "publisher": "lemorion_1224",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
-        "steam_url": "https://store.steampowered.com/app/4704690",
-        "trend": [
-          {
-            "date": "2026-06-10",
-            "peak": 15813
-          }
-        ]
-      }
-    },
-    {
-      "rank": 5,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 18.33,
+      "score": 32.73,
       "fact_summary": "Solarpunk 今日观测峰值 9,929，未超过过往最高峰值 10,192，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 9929,
@@ -512,21 +408,34 @@
         "scoring_peak": 9929,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 3.48,
+        "peak_score": 17.87,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.9929,
         "record_growth_score": 0.0,
         "days_seen_score": 2.86,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 18.33,
+        "score_before_multiplier": 32.73,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
         "review_ratio": 82.0,
-        "review_total": 2477,
+        "review_total": 2485,
         "days_seen": 2,
         "comeback_gap_days": 1,
         "is_new_release": true,
         "release_age_days": 2,
+        "steam_release_age_days": 2,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "冒险",
           "独立",
@@ -542,6 +451,11 @@
             "peak": 9929
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -574,9 +488,9 @@
           "Steam 云",
           "家庭共享"
         ],
-        "review_score": "Very Positive",
+        "review_score": "特别好评",
         "review_ratio": 82.0,
-        "review_total": 2477,
+        "review_total": 2485,
         "developer": "Cyberwave",
         "publisher": "rokaplay, Metaroot",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1781774673",
@@ -589,6 +503,213 @@
           {
             "date": "2026-06-10",
             "peak": 9929
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 32.53,
+      "fact_summary": "MECCHA CHAMELEON 今日观测峰值 15,813，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 15813,
+        "previous_peak": 0,
+        "previous_record_peak": 0,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 15813,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 19.1,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 32.53,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 82.0,
+        "review_total": 18459,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "release_age_days": 1,
+        "steam_release_age_days": 1,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "休闲"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 15813
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4704690"
+        }
+      ],
+      "game": {
+        "slug": "meccha-chameleon",
+        "appid": "4704690",
+        "name": "MECCHA CHAMELEON",
+        "name_cn": null,
+        "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
+        "release_date": "2026-06-09",
+        "genres": [
+          "休闲"
+        ],
+        "tags": [
+          "多人",
+          "玩家对战",
+          "线上玩家对战",
+          "视角舒适度",
+          "自定义音量控制",
+          "无需应对快速反应事件",
+          "立体声",
+          "环绕声",
+          "家庭共享"
+        ],
+        "review_score": "特别好评",
+        "review_ratio": 82.0,
+        "review_total": 18459,
+        "developer": "lemorion_1224",
+        "publisher": "lemorion_1224",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
+        "steam_url": "https://store.steampowered.com/app/4704690",
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 15813
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 28.06,
+      "fact_summary": "Voidling Bound 今日观测峰值 8,130，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 8130,
+        "previous_peak": 0,
+        "previous_record_peak": 0,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 8130,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 14.63,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.813,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 28.06,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 93.0,
+        "review_total": 1807,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "release_age_days": 1,
+        "steam_release_age_days": 1,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 8130
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2004680"
+        }
+      ],
+      "game": {
+        "slug": "voidling-bound",
+        "appid": "2004680",
+        "name": "Voidling Bound",
+        "name_cn": null,
+        "description": "在这款第三人称射击+生物收集游戏中，你将潜入沃德灵的思维，亲自上阵对抗神秘的寄生疫病 。孵化、进化并升级你强大的太空生物，在主线任务关卡和深渊竞技场中，战胜不断升级的挑战。",
+        "release_date": "2026-06-09",
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "完全支持控制器",
+          "视角舒适度",
+          "可选颜色",
+          "自定义音量控制",
+          "可调整难度",
+          "无需应对快速反应事件",
+          "立体声",
+          "Steam 云",
+          "统计数据",
+          "家庭共享"
+        ],
+        "review_score": "特别好评",
+        "review_ratio": 93.0,
+        "review_total": 1807,
+        "developer": "Hatchery Games",
+        "publisher": "Hatchery Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/78f0bcda22c6d49b81831aa41e4831ed52893c19/header_alt_assets_0.jpg?t=1781263470",
+        "steam_url": "https://store.steampowered.com/app/2004680",
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 8130
           }
         ]
       }

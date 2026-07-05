@@ -4,7 +4,7 @@ Game Signal identifies unusual Steam movements with deterministic rules, then us
 
 ## Published signal types
 
-- **突然爆发**: the latest observed peak rises sharply against the previous observed day.
+- **突然爆发**: the latest observed peak rises sharply against the previous observed record.
 - **新作起量**: a recently released game reaches meaningful observed activity.
 - **老游戏回归**: an older game returns without a detected recent content or discount event.
 - **内容更新回归**: an older game returns alongside recent chapter, DLC, expansion, season or major-update news.
@@ -16,7 +16,9 @@ Game Signal identifies unusual Steam movements with deterministic rules, then us
 
 The score combines observed peak scale, positive change, observation depth and a rule-specific bonus. Fixed input produces fixed ordering; ties are resolved by game name. AI-generated hypotheses never alter the ranking.
 
-The current public weight snapshot is exported to `public/data/scoring.json`. Games outside the configured 30-day new-release window are checked against recent Steam news. Chapter, DLC, expansion, season and major-update evidence is scored close to a new release; sale and discount evidence receives a lower signal score plus an additional final-score multiplier. The previous date's `今日之星` and repeated star wins still reduce final score through deterministic multipliers, so repeated exposure does not crowd out fresher signals.
+The current public weight snapshot is exported to `public/data/scoring.json`. Games outside the configured 30-day new-release window are checked against recent Steam news. Chapter, DLC, expansion, season and major-update evidence is scored close to a new release; sale and discount evidence receives a lower signal score plus an additional final-score multiplier.
+
+Repeated daily-star wins in the same calendar month reduce final score through deterministic multipliers, so repeated exposure does not crowd out fresher signals. The public homepage also shows each star's all-time `摘星次数`.
 
 ## Editorial boundary
 

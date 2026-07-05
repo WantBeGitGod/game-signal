@@ -22,12 +22,18 @@
       "player_discount": 1.0,
       "discount_reasons": [],
       "peak_score": 35.0,
+      "raw_record_growth_score": 7.87,
+      "growth_score_multiplier": 1.0,
       "record_growth_score": 7.87,
       "days_seen_score": 5.71,
       "signal_type_score": 12.0,
       "score_before_multiplier": 60.58,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "monthly_star_count": 0,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
       "cumulative_star_count": 0,
       "review_ratio": 37.0,
       "review_total": 16555,
@@ -35,7 +41,14 @@
       "comeback_gap_days": 1,
       "is_new_release": true,
       "release_age_days": 7,
+      "steam_release_age_days": 7,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
       "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
         "休闲",
         "独立",
@@ -60,6 +73,11 @@
           "peak": 215879
         }
       ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "month_prior_count": 0
     },
     "sources": [
       {
@@ -132,12 +150,18 @@
       "player_discount": 1.0,
       "discount_reasons": [],
       "peak_score": 35.0,
+      "raw_record_growth_score": 7.87,
+      "growth_score_multiplier": 1.0,
       "record_growth_score": 7.87,
       "days_seen_score": 5.71,
       "signal_type_score": 12.0,
       "score_before_multiplier": 60.58,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "monthly_star_count": 0,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
       "cumulative_star_count": 0,
       "review_ratio": 37.0,
       "review_total": 16555,
@@ -145,7 +169,14 @@
       "comeback_gap_days": 1,
       "is_new_release": true,
       "release_age_days": 7,
+      "steam_release_age_days": 7,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
       "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
         "休闲",
         "独立",
@@ -170,6 +201,11 @@
           "peak": 215879
         }
       ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "month_prior_count": 0
     },
     "sources": [
       {
@@ -230,101 +266,9 @@
   "candidate_signals": [
     {
       "rank": 2,
-      "type": "sustained_growth",
-      "label": "持续增长",
-      "score": 40.71,
-      "fact_summary": "Path of Exile 2 今日观测峰值 183,892，未超过过往最高峰值 289,896，被识别为「持续增长」。",
-      "metrics": {
-        "current_peak": 183892,
-        "previous_peak": 289896,
-        "previous_record_peak": 289896,
-        "growth_rate": -0.3657,
-        "record_growth_rate": -0.3657,
-        "scoring_peak": 183892,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 35.0,
-        "record_growth_score": 0.0,
-        "days_seen_score": 5.71,
-        "signal_type_score": 0.0,
-        "score_before_multiplier": 40.71,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "cumulative_star_count": 0,
-        "review_ratio": 74.0,
-        "review_total": 213765,
-        "days_seen": 4,
-        "comeback_gap_days": 1,
-        "is_new_release": false,
-        "release_age_days": null,
-        "is_comeback_age": false,
-        "genres": [],
-        "trend": [
-          {
-            "date": "2026-05-31",
-            "peak": 289896
-          },
-          {
-            "date": "2026-06-01",
-            "peak": 205520
-          },
-          {
-            "date": "2026-06-02",
-            "peak": 187560
-          },
-          {
-            "date": "2026-06-03",
-            "peak": 183892
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/2694490"
-        }
-      ],
-      "game": {
-        "slug": "path-of-exile-2",
-        "appid": "2694490",
-        "name": "Path of Exile 2",
-        "name_cn": null,
-        "description": "",
-        "release_date": "",
-        "genres": [],
-        "tags": [],
-        "review_score": "多半好评",
-        "review_ratio": 74.0,
-        "review_total": 213765,
-        "developer": "",
-        "publisher": "",
-        "cover_image_url": "",
-        "steam_url": "https://store.steampowered.com/app/2694490",
-        "trend": [
-          {
-            "date": "2026-05-31",
-            "peak": 289896
-          },
-          {
-            "date": "2026-06-01",
-            "peak": 205520
-          },
-          {
-            "date": "2026-06-02",
-            "peak": 187560
-          },
-          {
-            "date": "2026-06-03",
-            "peak": 183892
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 21.09,
+      "score": 35.06,
       "fact_summary": "Mina the Hollower 今日观测峰值 9,637，未超过过往最高峰值 12,916，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 9637,
@@ -335,13 +279,19 @@
         "scoring_peak": 9637,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 3.37,
+        "peak_score": 17.35,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.9637,
         "record_growth_score": 0.0,
         "days_seen_score": 5.71,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 21.09,
+        "score_before_multiplier": 35.06,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
         "review_ratio": 88.0,
         "review_total": 3824,
@@ -349,7 +299,14 @@
         "comeback_gap_days": 1,
         "is_new_release": true,
         "release_age_days": 6,
+        "steam_release_age_days": 6,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "动作",
           "冒险"
@@ -372,6 +329,11 @@
             "peak": 9637
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -430,10 +392,10 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 15.73,
+      "score": 25.28,
       "fact_summary": "Fortune Mill 今日观测峰值 6,583，首次进入当前观察窗口，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 6583,
@@ -444,13 +406,19 @@
         "scoring_peak": 6583,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 2.3,
+        "peak_score": 11.85,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.6583,
         "record_growth_score": 0.0,
         "days_seen_score": 1.43,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 15.73,
+        "score_before_multiplier": 25.28,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
         "review_ratio": 83.0,
         "review_total": 1359,
@@ -458,7 +426,14 @@
         "comeback_gap_days": 0,
         "is_new_release": true,
         "release_age_days": 1,
+        "steam_release_age_days": 1,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "休闲",
           "独立",
@@ -470,6 +445,11 @@
             "peak": 6583
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -511,10 +491,10 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 15.68,
+      "score": 25.02,
       "fact_summary": "Fatekeeper 今日观测峰值 6,442，首次进入当前观察窗口，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 6442,
@@ -525,13 +505,19 @@
         "scoring_peak": 6442,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 2.25,
+        "peak_score": 11.6,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.6442,
         "record_growth_score": 0.0,
         "days_seen_score": 1.43,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 15.68,
+        "score_before_multiplier": 25.02,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
         "review_ratio": 76.0,
         "review_total": 3015,
@@ -539,7 +525,14 @@
         "comeback_gap_days": 0,
         "is_new_release": true,
         "release_age_days": 1,
+        "steam_release_age_days": 1,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "动作",
           "角色扮演",
@@ -551,6 +544,11 @@
             "peak": 6442
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -586,6 +584,117 @@
           {
             "date": "2026-06-03",
             "peak": 6442
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "content_update_comeback",
+      "label": "内容更新回归",
+      "score": 23.55,
+      "fact_summary": "Escape the Backrooms 今日观测峰值 6,288，首次进入当前观察窗口，被识别为「内容更新回归」。",
+      "metrics": {
+        "current_peak": 6288,
+        "previous_peak": 0,
+        "previous_record_peak": 0,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 6288,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 11.32,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.6288,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 10.8,
+        "score_before_multiplier": 23.55,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 90.0,
+        "review_total": 141212,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": false,
+        "release_age_days": 223,
+        "steam_release_age_days": 223,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": true,
+        "comeback_reason": "content_update",
+        "comeback_evidence": {
+          "title": "Console Launch and Steam Patch NOW LIVE! Full Details Here",
+          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1833968530887848",
+          "date": 1779968031
+        },
+        "genres": [
+          "动作",
+          "独立"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-03",
+            "peak": 6288
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/1943950"
+        }
+      ],
+      "game": {
+        "slug": "escape-the-backrooms",
+        "appid": "1943950",
+        "name": "Escape the Backrooms",
+        "name_cn": null,
+        "description": "《逃离后室》是一款支持1至4名玩家联机的恐怖探索游戏。穿越30多个诡异的后室关卡，同时躲避各种异怪和其他危险。尝试逃离，但请谨记：生死难料。",
+        "release_date": "2025-10-23",
+        "genres": [
+          "动作",
+          "独立"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "Steam 成就",
+          "视角舒适度",
+          "自定义音量控制",
+          "可调整难度",
+          "无需应对快速反应事件",
+          "立体声",
+          "部分支持控制器",
+          "Steam 云",
+          "可用 HDR",
+          "家庭共享"
+        ],
+        "review_score": "特别好评",
+        "review_ratio": 90.0,
+        "review_total": 141212,
+        "developer": "Fancy Games, Blackbird Interactive",
+        "publisher": "Secret Mode",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/f3dac53a5d3e68a4bb67786872b4693260049b26/header.jpg?t=1780394865",
+        "steam_url": "https://store.steampowered.com/app/1943950",
+        "trend": [
+          {
+            "date": "2026-06-03",
+            "peak": 6288
           }
         ]
       }

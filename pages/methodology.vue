@@ -21,7 +21,10 @@
         <span>是缩小问题，</span>
         <span>不是给出答案。</span>
       </h2>
-      <p>评分的作用是缩小问题，不是给出答案。峰值和是否突破历史高点是主轴；连续出现只作为低权重稳定性信号，昨日之星会折算最终总分。</p>
+      <p>
+        峰值规模和是否突破历史高点是主轴；连续出现只作为低权重稳定性信号。
+        同一游戏在同一自然月重复摘星时，会按本月此前获胜次数折算最终总分。
+      </p>
     </section>
     <section v-if="scoring" class="scoring-sheet">
       <div>
@@ -50,8 +53,8 @@
           <dd>最高 {{ scoring.signal_type_score_weight }} 分</dd>
         </div>
         <div>
-          <dt>昨日之星总分折算</dt>
-          <dd>{{ percent(scoring.yesterday_star_score_multiplier) }}</dd>
+          <dt>本月重复摘星折算</dt>
+          <dd>{{ repeatMultipliers }}</dd>
         </div>
         <div>
           <dt>三连触发</dt>
@@ -65,6 +68,7 @@
 <script setup lang="ts">
 useSeoMeta({ title: "分析方法" })
 const { data: scoring } = await useScoring()
+const repeatMultipliers = computed(() => scoring.value?.cumulative_star_score_multipliers.map(percent).join(" / ") || "")
 const methods = [
   { code: "01", title: "新作起量", text: "发行窗口内快速进入可见区间，观察定位、素材和首批用户是否形成正循环。" },
   { code: "02", title: "口碑与热度背离", text: "热度与评价方向不一致，说明产品承诺、受众预期或争议值得继续研究。" },

@@ -1,0 +1,41 @@
+{
+  "slug": "escape-the-backrooms",
+  "appid": "1943950",
+  "name": "Escape the Backrooms",
+  "name_cn": null,
+  "description": "《逃离后室》是一款支持1至4名玩家联机的恐怖探索游戏。穿越30多个诡异的后室关卡，同时躲避各种异怪和其他危险。尝试逃离，但请谨记：生死难料。",
+  "release_date": "2025-10-23",
+  "genres": [
+    "动作",
+    "独立"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "视角舒适度",
+    "自定义音量控制",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "立体声",
+    "部分支持控制器",
+    "Steam 云",
+    "可用 HDR",
+    "家庭共享"
+  ],
+  "review_score": "特别好评",
+  "review_ratio": 90.0,
+  "review_total": 141212,
+  "developer": "Fancy Games, Blackbird Interactive",
+  "publisher": "Secret Mode",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1943950/f3dac53a5d3e68a4bb67786872b4693260049b26/header.jpg?t=1780394865",
+  "steam_url": "https://store.steampowered.com/app/1943950",
+  "trend": [
+    {
+      "date": "2026-06-03",
+      "peak": 6288
+    }
+  ]
+}

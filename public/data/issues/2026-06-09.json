@@ -10,7 +10,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 42.91,
+    "score": 47.42,
     "fact_summary": "Gothic 1 Remake 今日观测峰值 71,991，未超过过往最高峰值 77,731，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 71991,
@@ -21,13 +21,19 @@
       "scoring_peak": 71991,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 25.2,
+      "peak_score": 29.71,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
       "record_growth_score": 0.0,
       "days_seen_score": 5.71,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 42.91,
+      "score_before_multiplier": 47.42,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "monthly_star_count": 0,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
       "cumulative_star_count": 0,
       "review_ratio": 88.0,
       "review_total": 24951,
@@ -35,7 +41,14 @@
       "comeback_gap_days": 0,
       "is_new_release": true,
       "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
       "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
         "动作",
         "角色扮演"
@@ -58,6 +71,11 @@
           "peak": 71991
         }
       ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "month_prior_count": 0
     },
     "sources": [
       {
@@ -123,7 +141,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 42.91,
+    "score": 47.42,
     "fact_summary": "Gothic 1 Remake 今日观测峰值 71,991，未超过过往最高峰值 77,731，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 71991,
@@ -134,13 +152,19 @@
       "scoring_peak": 71991,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 25.2,
+      "peak_score": 29.71,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
       "record_growth_score": 0.0,
       "days_seen_score": 5.71,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 42.91,
+      "score_before_multiplier": 47.42,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "monthly_star_count": 0,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
       "cumulative_star_count": 0,
       "review_ratio": 88.0,
       "review_total": 24951,
@@ -148,7 +172,14 @@
       "comeback_gap_days": 0,
       "is_new_release": true,
       "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
       "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
         "动作",
         "角色扮演"
@@ -171,6 +202,11 @@
           "peak": 71991
         }
       ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "month_prior_count": 0
     },
     "sources": [
       {
@@ -238,7 +274,7 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 24.22,
+      "score": 33.44,
       "fact_summary": "Fortune Mill 今日观测峰值 6,357，未超过过往最高峰值 7,933，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 6357,
@@ -249,13 +285,19 @@
         "scoring_peak": 6357,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 2.22,
+        "peak_score": 11.44,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.6357,
         "record_growth_score": 0.0,
         "days_seen_score": 10.0,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 24.22,
+        "score_before_multiplier": 33.44,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
         "review_ratio": 83.0,
         "review_total": 1359,
@@ -263,7 +305,14 @@
         "comeback_gap_days": 1,
         "is_new_release": true,
         "release_age_days": 7,
+        "steam_release_age_days": 7,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "休闲",
           "独立",
@@ -299,6 +348,11 @@
             "peak": 6357
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -367,7 +421,223 @@
       "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 21.13,
+      "score": 31.46,
+      "fact_summary": "Solarpunk 今日观测峰值 10,192，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 10192,
+        "previous_peak": 0,
+        "previous_record_peak": 0,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 10192,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 18.04,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 31.46,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 82.0,
+        "review_total": 2485,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "release_age_days": 1,
+        "steam_release_age_days": 1,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "冒险",
+          "独立",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-09",
+            "peak": 10192
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/1805110"
+        }
+      ],
+      "game": {
+        "slug": "solarpunk",
+        "appid": "1805110",
+        "name": "Solarpunk",
+        "name_cn": null,
+        "description": "《太阳朋克：浮岛家园 Solarpunk》是一款生存游戏，背景设定在一个科技先进、由漂浮岛屿组成的世界。你可以独自一人或与朋友一起建造建筑、种植食物、制作工具，并驾驶飞船探索遥远的天空之岛。 可以利用太阳能、风能和水利打造能源系统，并进行自动化生产作业，如收集资源和灌溉植物。",
+        "release_date": "2026-06-08",
+        "genres": [
+          "冒险",
+          "独立",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "Steam 成就",
+          "完全支持控制器",
+          "自定义音量控制",
+          "可调整难度",
+          "无需应对快速反应事件",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "特别好评",
+        "review_ratio": 82.0,
+        "review_total": 2485,
+        "developer": "Cyberwave",
+        "publisher": "rokaplay, Metaroot",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1781774673",
+        "steam_url": "https://store.steampowered.com/app/1805110",
+        "trend": [
+          {
+            "date": "2026-06-09",
+            "peak": 10192
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 29.83,
+      "fact_summary": "Sand Playtest 今日观测峰值 6,731，未超过过往最高峰值 8,010，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 6731,
+        "previous_peak": 8010,
+        "previous_record_peak": 8010,
+        "growth_rate": -0.1597,
+        "record_growth_rate": -0.1597,
+        "scoring_peak": 6731,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 12.12,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.6731,
+        "record_growth_score": 0.0,
+        "days_seen_score": 5.71,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 29.83,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 57.0,
+        "review_total": 673,
+        "days_seen": 4,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "release_age_days": 26,
+        "steam_release_age_days": 26,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [],
+        "trend": [
+          {
+            "date": "2026-06-06",
+            "peak": 4904
+          },
+          {
+            "date": "2026-06-07",
+            "peak": 8010
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 4952
+          },
+          {
+            "date": "2026-06-09",
+            "peak": 6731
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2981610"
+        }
+      ],
+      "game": {
+        "slug": "sand-playtest",
+        "appid": "2981610",
+        "name": "Sand Playtest",
+        "name_cn": null,
+        "description": "",
+        "release_date": "2026-05-14",
+        "genres": [],
+        "tags": [],
+        "review_score": "褒贬不一",
+        "review_ratio": 57.0,
+        "review_total": 673,
+        "developer": "",
+        "publisher": "",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2981610/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1780658196",
+        "steam_url": "https://store.steampowered.com/app/2981610",
+        "trend": [
+          {
+            "date": "2026-06-06",
+            "peak": 4904
+          },
+          {
+            "date": "2026-06-07",
+            "peak": 8010
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 4952
+          },
+          {
+            "date": "2026-06-09",
+            "peak": 6731
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 29.37,
       "fact_summary": "GOALS 今日观测峰值 5,683，未超过过往最高峰值 8,659，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 5683,
@@ -378,13 +648,19 @@
         "scoring_peak": 5683,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 1.99,
+        "peak_score": 10.23,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.5683,
         "record_growth_score": 0.0,
         "days_seen_score": 7.14,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 21.13,
+        "score_before_multiplier": 29.37,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
         "review_ratio": 41.0,
         "review_total": 2640,
@@ -392,7 +668,14 @@
         "comeback_gap_days": 1,
         "is_new_release": true,
         "release_age_days": 5,
+        "steam_release_age_days": 5,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "动作",
           "冒险",
@@ -423,6 +706,11 @@
             "peak": 5683
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -483,186 +771,6 @@
           {
             "date": "2026-06-09",
             "peak": 5683
-          }
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 20.07,
-      "fact_summary": "Sand Playtest 今日观测峰值 6,731，未超过过往最高峰值 8,010，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 6731,
-        "previous_peak": 8010,
-        "previous_record_peak": 8010,
-        "growth_rate": -0.1597,
-        "record_growth_rate": -0.1597,
-        "scoring_peak": 6731,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 2.36,
-        "record_growth_score": 0.0,
-        "days_seen_score": 5.71,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 20.07,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "cumulative_star_count": 0,
-        "review_ratio": 57.0,
-        "review_total": 673,
-        "days_seen": 4,
-        "comeback_gap_days": 0,
-        "is_new_release": true,
-        "release_age_days": 26,
-        "is_comeback_age": false,
-        "genres": [],
-        "trend": [
-          {
-            "date": "2026-06-06",
-            "peak": 4904
-          },
-          {
-            "date": "2026-06-07",
-            "peak": 8010
-          },
-          {
-            "date": "2026-06-08",
-            "peak": 4952
-          },
-          {
-            "date": "2026-06-09",
-            "peak": 6731
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/2981610"
-        }
-      ],
-      "game": {
-        "slug": "sand-playtest",
-        "appid": "2981610",
-        "name": "Sand Playtest",
-        "name_cn": null,
-        "description": "",
-        "release_date": "2026-05-14",
-        "genres": [],
-        "tags": [],
-        "review_score": "褒贬不一",
-        "review_ratio": 57.0,
-        "review_total": 673,
-        "developer": "",
-        "publisher": "",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2981610/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1780658196",
-        "steam_url": "https://store.steampowered.com/app/2981610",
-        "trend": [
-          {
-            "date": "2026-06-06",
-            "peak": 4904
-          },
-          {
-            "date": "2026-06-07",
-            "peak": 8010
-          },
-          {
-            "date": "2026-06-08",
-            "peak": 4952
-          },
-          {
-            "date": "2026-06-09",
-            "peak": 6731
-          }
-        ]
-      }
-    },
-    {
-      "rank": 5,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 17.0,
-      "fact_summary": "Solarpunk 今日观测峰值 10,192，首次进入当前观察窗口，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 10192,
-        "previous_peak": 0,
-        "previous_record_peak": 0,
-        "growth_rate": 0.0,
-        "record_growth_rate": 0.0,
-        "scoring_peak": 10192,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 3.57,
-        "record_growth_score": 0.0,
-        "days_seen_score": 1.43,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 17.0,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "cumulative_star_count": 0,
-        "review_ratio": 82.0,
-        "review_total": 2477,
-        "days_seen": 1,
-        "comeback_gap_days": 0,
-        "is_new_release": true,
-        "release_age_days": 1,
-        "is_comeback_age": false,
-        "genres": [
-          "冒险",
-          "独立",
-          "模拟"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-09",
-            "peak": 10192
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/1805110"
-        }
-      ],
-      "game": {
-        "slug": "solarpunk",
-        "appid": "1805110",
-        "name": "Solarpunk",
-        "name_cn": null,
-        "description": "《太阳朋克：浮岛家园 Solarpunk》是一款生存游戏，背景设定在一个科技先进、由漂浮岛屿组成的世界。你可以独自一人或与朋友一起建造建筑、种植食物、制作工具，并驾驶飞船探索遥远的天空之岛。 可以利用太阳能、风能和水利打造能源系统，并进行自动化生产作业，如收集资源和灌溉植物。",
-        "release_date": "2026-06-08",
-        "genres": [
-          "冒险",
-          "独立",
-          "模拟"
-        ],
-        "tags": [
-          "单人",
-          "多人",
-          "合作",
-          "在线合作",
-          "Steam 成就",
-          "完全支持控制器",
-          "自定义音量控制",
-          "可调整难度",
-          "无需应对快速反应事件",
-          "Steam 云",
-          "家庭共享"
-        ],
-        "review_score": "Very Positive",
-        "review_ratio": 82.0,
-        "review_total": 2477,
-        "developer": "Cyberwave",
-        "publisher": "rokaplay, Metaroot",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1781774673",
-        "steam_url": "https://store.steampowered.com/app/1805110",
-        "trend": [
-          {
-            "date": "2026-06-09",
-            "peak": 10192
           }
         ]
       }

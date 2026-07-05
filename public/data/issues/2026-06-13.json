@@ -10,7 +10,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 57.32,
+    "score": 70.0,
     "fact_summary": "Lost Castle 2 今日观测峰值 21,326，较过往最高峰值提升 +239%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 21326,
@@ -21,21 +21,34 @@
       "scoring_peak": 21326,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 7.46,
+      "peak_score": 20.14,
+      "raw_record_growth_score": 35.0,
+      "growth_score_multiplier": 1.0,
       "record_growth_score": 35.0,
       "days_seen_score": 2.86,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 57.32,
+      "score_before_multiplier": 70.0,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "monthly_star_count": 0,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
       "cumulative_star_count": 0,
       "review_ratio": 78.0,
-      "review_total": 12085,
+      "review_total": 12095,
       "days_seen": 2,
       "comeback_gap_days": 2,
       "is_new_release": true,
       "release_age_days": 3,
+      "steam_release_age_days": 3,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
       "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
         "动作",
         "冒险",
@@ -52,6 +65,11 @@
           "peak": 21326
         }
       ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "month_prior_count": 0
     },
     "sources": [
       {
@@ -87,9 +105,9 @@
         "远程同乐",
         "家庭共享"
       ],
-      "review_score": "Mostly Positive",
+      "review_score": "多半好评",
       "review_ratio": 78.0,
-      "review_total": 12085,
+      "review_total": 12095,
       "developer": "Hunter Studio",
       "publisher": "Hunter Studio",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203",
@@ -110,7 +128,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 57.32,
+    "score": 70.0,
     "fact_summary": "Lost Castle 2 今日观测峰值 21,326，较过往最高峰值提升 +239%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 21326,
@@ -121,21 +139,34 @@
       "scoring_peak": 21326,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 7.46,
+      "peak_score": 20.14,
+      "raw_record_growth_score": 35.0,
+      "growth_score_multiplier": 1.0,
       "record_growth_score": 35.0,
       "days_seen_score": 2.86,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 57.32,
+      "score_before_multiplier": 70.0,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "monthly_star_count": 0,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
       "cumulative_star_count": 0,
       "review_ratio": 78.0,
-      "review_total": 12085,
+      "review_total": 12095,
       "days_seen": 2,
       "comeback_gap_days": 2,
       "is_new_release": true,
       "release_age_days": 3,
+      "steam_release_age_days": 3,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
       "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
         "动作",
         "冒险",
@@ -152,6 +183,11 @@
           "peak": 21326
         }
       ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "month_prior_count": 0
     },
     "sources": [
       {
@@ -187,9 +223,9 @@
         "远程同乐",
         "家庭共享"
       ],
-      "review_score": "Mostly Positive",
+      "review_score": "多半好评",
       "review_ratio": 78.0,
-      "review_total": 12085,
+      "review_total": 12095,
       "developer": "Hunter Studio",
       "publisher": "Hunter Studio",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203",
@@ -212,7 +248,7 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 53.26,
+      "score": 60.52,
       "fact_summary": "MECCHA CHAMELEON 今日观测峰值 43,671，较过往最高峰值提升 +111%，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 43671,
@@ -223,23 +259,36 @@
         "scoring_peak": 43671,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 15.28,
+        "peak_score": 24.36,
+        "raw_record_growth_score": 35.0,
+        "growth_score_multiplier": 1.0,
         "record_growth_score": 35.0,
         "days_seen_score": 4.29,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 66.57,
+        "score_before_multiplier": 75.65,
         "score_multiplier": 0.8,
         "score_multiplier_reasons": [
-          "cumulative_star_1x"
+          "monthly_star_1x"
         ],
+        "monthly_star_count": 1,
+        "prior_total_star_count": 1,
+        "total_star_count": 2,
+        "star_appearance_count": 2,
         "cumulative_star_count": 1,
         "review_ratio": 82.0,
-        "review_total": 17998,
+        "review_total": 18459,
         "days_seen": 3,
         "comeback_gap_days": 2,
         "is_new_release": true,
         "release_age_days": 4,
+        "steam_release_age_days": 4,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "休闲"
         ],
@@ -257,6 +306,11 @@
             "peak": 43671
           }
         ]
+      },
+      "star_appearance": {
+        "count": 2,
+        "prior_count": 1,
+        "month_prior_count": 1
       },
       "sources": [
         {
@@ -285,9 +339,9 @@
           "环绕声",
           "家庭共享"
         ],
-        "review_score": "Very Positive",
+        "review_score": "特别好评",
         "review_ratio": 82.0,
-        "review_total": 17998,
+        "review_total": 18459,
         "developer": "lemorion_1224",
         "publisher": "lemorion_1224",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
@@ -312,7 +366,7 @@
       "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 22.73,
+      "score": 34.56,
       "fact_summary": "Road to Empress Ⅱ 今日观测峰值 26,584，首次进入当前观察窗口，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 26584,
@@ -323,13 +377,19 @@
         "scoring_peak": 26584,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 9.3,
+        "peak_score": 21.13,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
         "record_growth_score": 0.0,
         "days_seen_score": 1.43,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 22.73,
+        "score_before_multiplier": 34.56,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
         "review_ratio": 82.0,
         "review_total": 4582,
@@ -337,7 +397,14 @@
         "comeback_gap_days": 0,
         "is_new_release": true,
         "release_age_days": 5,
+        "steam_release_age_days": 5,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "冒险",
           "休闲",
@@ -351,6 +418,11 @@
             "peak": 26584
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [],
       "game": {
@@ -387,7 +459,7 @@
       "rank": 4,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 20.61,
+      "score": 32.59,
       "fact_summary": "Solarpunk 今日观测峰值 8,262，未超过过往最高峰值 10,192，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 8262,
@@ -398,21 +470,34 @@
         "scoring_peak": 8262,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 2.89,
+        "peak_score": 14.87,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.8262,
         "record_growth_score": 0.0,
         "days_seen_score": 5.71,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 20.61,
+        "score_before_multiplier": 32.59,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
         "review_ratio": 82.0,
-        "review_total": 2477,
+        "review_total": 2485,
         "days_seen": 4,
         "comeback_gap_days": 2,
         "is_new_release": true,
         "release_age_days": 5,
+        "steam_release_age_days": 5,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "冒险",
           "独立",
@@ -436,6 +521,11 @@
             "peak": 8262
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -468,9 +558,9 @@
           "Steam 云",
           "家庭共享"
         ],
-        "review_score": "Very Positive",
+        "review_score": "特别好评",
         "review_ratio": 82.0,
-        "review_total": 2477,
+        "review_total": 2485,
         "developer": "Cyberwave",
         "publisher": "rokaplay, Metaroot",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1781774673",
@@ -497,116 +587,109 @@
     },
     {
       "rank": 5,
-      "type": "sustained_growth",
-      "label": "持续增长",
-      "score": 19.76,
-      "fact_summary": "Source SDK Base 2007 今日观测峰值 10,734，未超过过往最高峰值 11,238，被识别为「持续增长」。",
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 31.8,
+      "fact_summary": "Burglin' Gnomes 今日观测峰值 9,415，未超过过往最高峰值 9,861，被识别为「新作起量」。",
       "metrics": {
-        "current_peak": 10734,
-        "previous_peak": 11238,
-        "previous_record_peak": 11238,
-        "growth_rate": -0.0448,
-        "record_growth_rate": -0.0448,
-        "scoring_peak": 10734,
+        "current_peak": 9415,
+        "previous_peak": 9861,
+        "previous_record_peak": 9861,
+        "growth_rate": -0.0452,
+        "record_growth_rate": -0.0452,
+        "scoring_peak": 9415,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 3.76,
+        "peak_score": 16.95,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.9415,
         "record_growth_score": 0.0,
-        "days_seen_score": 10.0,
-        "signal_type_score": 6.0,
-        "score_before_multiplier": 19.76,
+        "days_seen_score": 2.86,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 31.8,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
-        "review_ratio": null,
-        "review_total": 0,
-        "days_seen": 7,
-        "comeback_gap_days": 17,
-        "is_new_release": false,
-        "release_age_days": null,
+        "review_ratio": 85.0,
+        "review_total": 2587,
+        "days_seen": 2,
+        "comeback_gap_days": 2,
+        "is_new_release": true,
+        "release_age_days": 3,
+        "steam_release_age_days": 3,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
-        "genres": [],
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "动作",
+          "冒险"
+        ],
         "trend": [
           {
-            "date": "2026-05-19",
-            "peak": 11238
-          },
-          {
-            "date": "2026-05-20",
-            "peak": 10318
-          },
-          {
-            "date": "2026-06-07",
-            "peak": 10814
-          },
-          {
-            "date": "2026-06-08",
-            "peak": 10731
-          },
-          {
-            "date": "2026-06-10",
-            "peak": 7148
-          },
-          {
             "date": "2026-06-11",
-            "peak": 10699
+            "peak": 9861
           },
           {
             "date": "2026-06-13",
-            "peak": 10734
+            "peak": 9415
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
           "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/218"
+          "url": "https://store.steampowered.com/app/3844970"
         }
       ],
       "game": {
-        "slug": "source-sdk-base-2007",
-        "appid": "218",
-        "name": "Source SDK Base 2007",
+        "slug": "burglin-gnomes",
+        "appid": "3844970",
+        "name": "Burglin' Gnomes",
         "name_cn": null,
-        "description": "",
-        "release_date": "",
-        "genres": [],
-        "tags": [],
-        "review_score": "暂无评价",
-        "review_ratio": null,
-        "review_total": 0,
-        "developer": "",
-        "publisher": "",
-        "cover_image_url": "",
-        "steam_url": "https://store.steampowered.com/app/218",
+        "description": "这是一款在线合作游戏，你将化身为一只小地精，闯入民宅制造混乱。躲避各种危险，改造偷来的家居物品，通过完成任务满足地精王的要求。制作装备并升级家园——让任务越做越顺手，捣蛋越来越成功。",
+        "release_date": "2026-06-10",
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "无需应对快速反应事件",
+          "立体声",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "特别好评",
+        "review_ratio": 85.0,
+        "review_total": 2587,
+        "developer": "Fobri",
+        "publisher": "Fobri",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d44e878d08426747cab87cd465ad1667fba5a6f8/header_schinese.jpg?t=1781100001",
+        "steam_url": "https://store.steampowered.com/app/3844970",
         "trend": [
           {
-            "date": "2026-05-19",
-            "peak": 11238
-          },
-          {
-            "date": "2026-05-20",
-            "peak": 10318
-          },
-          {
-            "date": "2026-06-07",
-            "peak": 10814
-          },
-          {
-            "date": "2026-06-08",
-            "peak": 10731
-          },
-          {
-            "date": "2026-06-10",
-            "peak": 7148
-          },
-          {
             "date": "2026-06-11",
-            "peak": 10699
+            "peak": 9861
           },
           {
             "date": "2026-06-13",
-            "peak": 10734
+            "peak": 9415
           }
         ]
       }

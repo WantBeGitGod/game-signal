@@ -8,158 +8,274 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "comeback",
-    "label": "老游戏回归",
-    "score": 40.43,
-    "fact_summary": "DELTARUNE 今日观测峰值 133,452，首次进入当前观察窗口，被识别为「老游戏回归」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 29.48,
+    "fact_summary": "BOMBANANA! Demo 今日观测峰值 9,835，未超过过往最高峰值 10,343，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 133452,
-      "previous_peak": 0,
-      "previous_record_peak": 0,
-      "growth_rate": 0.0,
-      "record_growth_rate": 0.0,
-      "scoring_peak": 133452,
+      "current_peak": 9835,
+      "previous_peak": 10343,
+      "previous_record_peak": 10343,
+      "growth_rate": -0.0491,
+      "record_growth_rate": -0.0491,
+      "scoring_peak": 9835,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 35.0,
+      "peak_score": 17.7,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.9835,
       "record_growth_score": 0.0,
-      "days_seen_score": 1.43,
-      "signal_type_score": 4.0,
-      "score_before_multiplier": 40.43,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "cumulative_star_count": 0,
+      "days_seen_score": 7.14,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 36.85,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "monthly_star_1x"
+      ],
+      "monthly_star_count": 1,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "review_ratio": 98.0,
-      "review_total": 108230,
-      "days_seen": 1,
+      "review_total": 1498,
+      "days_seen": 5,
       "comeback_gap_days": 0,
-      "is_new_release": false,
-      "release_age_days": 386,
-      "is_comeback_age": true,
+      "is_new_release": true,
+      "release_age_days": 10,
+      "steam_release_age_days": 10,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
+        "休闲",
         "独立",
-        "角色扮演"
+        "策略"
       ],
       "trend": [
         {
+          "date": "2026-06-21",
+          "peak": 9088
+        },
+        {
+          "date": "2026-06-22",
+          "peak": 6328
+        },
+        {
+          "date": "2026-06-23",
+          "peak": 10343
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 9806
+        },
+        {
           "date": "2026-06-25",
-          "peak": 133452
+          "peak": 9835
         }
       ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "month_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1671210"
+        "url": "https://store.steampowered.com/app/4747510"
       }
     ],
     "game": {
-      "slug": "deltarune",
-      "appid": "1671210",
-      "name": "DELTARUNE",
+      "slug": "bombanana-demo",
+      "appid": "4747510",
+      "name": "BOMBANANA! Demo",
       "name_cn": null,
-      "description": "深入探索《UNDERTALE》的平行故事！当你与一群可爱的新的和熟悉的角色一起探索一个神秘的世界时，在充满动作的战斗中战斗或逃脱。第 1-5 章现已推出，更多内容计划免费更新！",
-      "release_date": "2025-06-04",
+      "description": "你们是一支由三只猴子组成的3人拆弹小队：盲猴、聋猴和哑猴。在你们改造成移动拆弹工坊的小型厢式车里，你们必须在有限时间和有限沟通条件下，在炸弹爆炸前完成拆除！",
+      "release_date": "2026-06-15",
       "genres": [
+        "休闲",
         "独立",
-        "角色扮演"
+        "策略"
       ],
       "tags": [
-        "单人",
-        "完全支持控制器",
-        "Steam 云",
-        "家庭共享"
+        "多人",
+        "合作",
+        "在线合作",
+        "游戏试用版",
+        "视角舒适度",
+        "无需应对快速反应事件",
+        "随时保存",
+        "立体声"
       ],
-      "review_score": "Overwhelmingly Positive",
+      "review_score": "好评如潮",
       "review_ratio": 98.0,
-      "review_total": 108230,
-      "developer": "tobyfox",
-      "publisher": "tobyfox",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
-      "steam_url": "https://store.steampowered.com/app/1671210",
+      "review_total": 1498,
+      "developer": "Lefto Studio",
+      "publisher": "Lefto Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747510/54d624f1d6ea0b30bafb736ef940bb6b78f4ba78/header.jpg?t=1782230961",
+      "steam_url": "https://store.steampowered.com/app/4747510",
       "trend": [
         {
+          "date": "2026-06-21",
+          "peak": 9088
+        },
+        {
+          "date": "2026-06-22",
+          "peak": 6328
+        },
+        {
+          "date": "2026-06-23",
+          "peak": 10343
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 9806
+        },
+        {
           "date": "2026-06-25",
-          "peak": 133452
+          "peak": 9835
         }
       ]
     }
   },
   "main_signal": {
     "rank": 1,
-    "type": "comeback",
-    "label": "老游戏回归",
-    "score": 40.43,
-    "fact_summary": "DELTARUNE 今日观测峰值 133,452，首次进入当前观察窗口，被识别为「老游戏回归」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 29.48,
+    "fact_summary": "BOMBANANA! Demo 今日观测峰值 9,835，未超过过往最高峰值 10,343，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 133452,
-      "previous_peak": 0,
-      "previous_record_peak": 0,
-      "growth_rate": 0.0,
-      "record_growth_rate": 0.0,
-      "scoring_peak": 133452,
+      "current_peak": 9835,
+      "previous_peak": 10343,
+      "previous_record_peak": 10343,
+      "growth_rate": -0.0491,
+      "record_growth_rate": -0.0491,
+      "scoring_peak": 9835,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 35.0,
+      "peak_score": 17.7,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.9835,
       "record_growth_score": 0.0,
-      "days_seen_score": 1.43,
-      "signal_type_score": 4.0,
-      "score_before_multiplier": 40.43,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "cumulative_star_count": 0,
+      "days_seen_score": 7.14,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 36.85,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "monthly_star_1x"
+      ],
+      "monthly_star_count": 1,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "review_ratio": 98.0,
-      "review_total": 108230,
-      "days_seen": 1,
+      "review_total": 1498,
+      "days_seen": 5,
       "comeback_gap_days": 0,
-      "is_new_release": false,
-      "release_age_days": 386,
-      "is_comeback_age": true,
+      "is_new_release": true,
+      "release_age_days": 10,
+      "steam_release_age_days": 10,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
+        "休闲",
         "独立",
-        "角色扮演"
+        "策略"
       ],
       "trend": [
         {
+          "date": "2026-06-21",
+          "peak": 9088
+        },
+        {
+          "date": "2026-06-22",
+          "peak": 6328
+        },
+        {
+          "date": "2026-06-23",
+          "peak": 10343
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 9806
+        },
+        {
           "date": "2026-06-25",
-          "peak": 133452
+          "peak": 9835
         }
       ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "month_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1671210"
+        "url": "https://store.steampowered.com/app/4747510"
       }
     ],
     "game": {
-      "slug": "deltarune",
-      "appid": "1671210",
-      "name": "DELTARUNE",
+      "slug": "bombanana-demo",
+      "appid": "4747510",
+      "name": "BOMBANANA! Demo",
       "name_cn": null,
-      "description": "深入探索《UNDERTALE》的平行故事！当你与一群可爱的新的和熟悉的角色一起探索一个神秘的世界时，在充满动作的战斗中战斗或逃脱。第 1-5 章现已推出，更多内容计划免费更新！",
-      "release_date": "2025-06-04",
+      "description": "你们是一支由三只猴子组成的3人拆弹小队：盲猴、聋猴和哑猴。在你们改造成移动拆弹工坊的小型厢式车里，你们必须在有限时间和有限沟通条件下，在炸弹爆炸前完成拆除！",
+      "release_date": "2026-06-15",
       "genres": [
+        "休闲",
         "独立",
-        "角色扮演"
+        "策略"
       ],
       "tags": [
-        "单人",
-        "完全支持控制器",
-        "Steam 云",
-        "家庭共享"
+        "多人",
+        "合作",
+        "在线合作",
+        "游戏试用版",
+        "视角舒适度",
+        "无需应对快速反应事件",
+        "随时保存",
+        "立体声"
       ],
-      "review_score": "Overwhelmingly Positive",
+      "review_score": "好评如潮",
       "review_ratio": 98.0,
-      "review_total": 108230,
-      "developer": "tobyfox",
-      "publisher": "tobyfox",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1671210/7ccda5b1631d2e60cc756a3271e845dbb9168821/header.jpg?t=1782314340",
-      "steam_url": "https://store.steampowered.com/app/1671210",
+      "review_total": 1498,
+      "developer": "Lefto Studio",
+      "publisher": "Lefto Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747510/54d624f1d6ea0b30bafb736ef940bb6b78f4ba78/header.jpg?t=1782230961",
+      "steam_url": "https://store.steampowered.com/app/4747510",
       "trend": [
         {
+          "date": "2026-06-21",
+          "peak": 9088
+        },
+        {
+          "date": "2026-06-22",
+          "peak": 6328
+        },
+        {
+          "date": "2026-06-23",
+          "peak": 10343
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 9806
+        },
+        {
           "date": "2026-06-25",
-          "peak": 133452
+          "peak": 9835
         }
       ]
     }
@@ -170,7 +286,7 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 21.14,
+      "score": 28.02,
       "fact_summary": "Sand 今日观测峰值 13,882，未超过过往最高峰值 15,703，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 13882,
@@ -181,21 +297,36 @@
         "scoring_peak": 13882,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 4.86,
+        "peak_score": 18.73,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
         "record_growth_score": 0.0,
         "days_seen_score": 4.29,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 21.14,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "cumulative_star_count": 0,
-        "review_ratio": 57.0,
-        "review_total": 2343,
+        "score_before_multiplier": 35.02,
+        "score_multiplier": 0.8,
+        "score_multiplier_reasons": [
+          "monthly_star_1x"
+        ],
+        "monthly_star_count": 1,
+        "prior_total_star_count": 1,
+        "total_star_count": 2,
+        "star_appearance_count": 2,
+        "cumulative_star_count": 1,
+        "review_ratio": 55.0,
+        "review_total": 7016,
         "days_seen": 3,
         "comeback_gap_days": 0,
         "is_new_release": true,
         "release_age_days": 3,
+        "steam_release_age_days": 3,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "动作",
           "冒险",
@@ -215,6 +346,11 @@
             "peak": 13882
           }
         ]
+      },
+      "star_appearance": {
+        "count": 2,
+        "prior_count": 1,
+        "month_prior_count": 1
       },
       "sources": [
         {
@@ -242,8 +378,8 @@
           "家庭共享"
         ],
         "review_score": "Mixed",
-        "review_ratio": 57.0,
-        "review_total": 2343,
+        "review_ratio": 55.0,
+        "review_total": 7016,
         "developer": "Hologryph, TowerHaus",
         "publisher": "tinyBuild",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
@@ -266,222 +402,9 @@
     },
     {
       "rank": 3,
-      "type": "comeback",
-      "label": "老游戏回归",
-      "score": 18.28,
-      "fact_summary": "Warhammer 40,000: Darktide 今日观测峰值 32,628，未超过过往最高峰值 41,764，被识别为「老游戏回归」。",
-      "metrics": {
-        "current_peak": 32628,
-        "previous_peak": 41764,
-        "previous_record_peak": 41764,
-        "growth_rate": -0.2188,
-        "record_growth_rate": -0.2188,
-        "scoring_peak": 32628,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 11.42,
-        "record_growth_score": 0.0,
-        "days_seen_score": 2.86,
-        "signal_type_score": 4.0,
-        "score_before_multiplier": 18.28,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "cumulative_star_count": 0,
-        "review_ratio": 71.0,
-        "review_total": 134075,
-        "days_seen": 2,
-        "comeback_gap_days": 0,
-        "is_new_release": false,
-        "release_age_days": 1303,
-        "is_comeback_age": true,
-        "genres": [
-          "动作",
-          "冒险",
-          "角色扮演"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-24",
-            "peak": 41764
-          },
-          {
-            "date": "2026-06-25",
-            "peak": 32628
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/1361210"
-        }
-      ],
-      "game": {
-        "slug": "warhammer-40-000-darktide",
-        "appid": "1361210",
-        "name": "Warhammer 40,000: Darktide",
-        "name_cn": null,
-        "description": "枪林弹雨，血雨腥风。在这款激烈残酷的动作射击游戏中，你将击杀无数嗜血凶恶的敌人，夺回巢都特提恩。《战锤40K：暗潮》是一款全新多人合作游戏，由曾开发《战锤：末世鼠疫》系列、屡获殊荣的团队——肥鲨（Fatshark）倾力打造，将带给你全新的游戏体验！ 特提恩衰落之际，正名之战打响之时。",
-        "release_date": "2022-11-30",
-        "genres": [
-          "动作",
-          "冒险",
-          "角色扮演"
-        ],
-        "tags": [
-          "多人",
-          "合作",
-          "在线合作",
-          "跨平台多人",
-          "Steam 成就",
-          "支持字幕",
-          "应用内购买",
-          "部分支持控制器",
-          "家庭共享"
-        ],
-        "review_score": "Mostly Positive",
-        "review_ratio": 71.0,
-        "review_total": 134075,
-        "developer": "Fatshark",
-        "publisher": "Fatshark",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1361210/c9110a232b6ba7ef21039fc00e4582b2acfec810/header_alt_assets_19.jpg?t=1782226781",
-        "steam_url": "https://store.steampowered.com/app/1361210",
-        "trend": [
-          {
-            "date": "2026-06-24",
-            "peak": 41764
-          },
-          {
-            "date": "2026-06-25",
-            "peak": 32628
-          }
-        ]
-      }
-    },
-    {
-      "rank": 4,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 18.15,
-      "fact_summary": "BOMBANANA! Demo 今日观测峰值 9,835，较过往最高峰值提升 +0%，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 9835,
-        "previous_peak": 9806,
-        "previous_record_peak": 9806,
-        "growth_rate": 0.003,
-        "record_growth_rate": 0.003,
-        "scoring_peak": 9835,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 3.44,
-        "record_growth_score": 0.1,
-        "days_seen_score": 7.14,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 22.69,
-        "score_multiplier": 0.8,
-        "score_multiplier_reasons": [
-          "cumulative_star_1x"
-        ],
-        "cumulative_star_count": 1,
-        "review_ratio": 98.0,
-        "review_total": 1307,
-        "days_seen": 5,
-        "comeback_gap_days": 0,
-        "is_new_release": true,
-        "release_age_days": 10,
-        "is_comeback_age": false,
-        "genres": [
-          "休闲",
-          "独立",
-          "策略"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-21",
-            "peak": 9088
-          },
-          {
-            "date": "2026-06-22",
-            "peak": 6328
-          },
-          {
-            "date": "2026-06-23",
-            "peak": 9119
-          },
-          {
-            "date": "2026-06-24",
-            "peak": 9806
-          },
-          {
-            "date": "2026-06-25",
-            "peak": 9835
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/4747510"
-        }
-      ],
-      "game": {
-        "slug": "bombanana-demo",
-        "appid": "4747510",
-        "name": "BOMBANANA! Demo",
-        "name_cn": null,
-        "description": "你们是一支由三只猴子组成的3人拆弹小队：盲猴、聋猴和哑猴。在你们改造成移动拆弹工坊的小型厢式车里，你们必须在有限时间和有限沟通条件下，在炸弹爆炸前完成拆除！",
-        "release_date": "2026-06-15",
-        "genres": [
-          "休闲",
-          "独立",
-          "策略"
-        ],
-        "tags": [
-          "多人",
-          "合作",
-          "在线合作",
-          "游戏试用版",
-          "视角舒适度",
-          "无需应对快速反应事件",
-          "随时保存",
-          "立体声"
-        ],
-        "review_score": "Overwhelmingly Positive",
-        "review_ratio": 98.0,
-        "review_total": 1307,
-        "developer": "Lefto Studio",
-        "publisher": "Lefto Studio",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747510/54d624f1d6ea0b30bafb736ef940bb6b78f4ba78/header.jpg?t=1782230961",
-        "steam_url": "https://store.steampowered.com/app/4747510",
-        "trend": [
-          {
-            "date": "2026-06-21",
-            "peak": 9088
-          },
-          {
-            "date": "2026-06-22",
-            "peak": 6328
-          },
-          {
-            "date": "2026-06-23",
-            "peak": 9119
-          },
-          {
-            "date": "2026-06-24",
-            "peak": 9806
-          },
-          {
-            "date": "2026-06-25",
-            "peak": 9835
-          }
-        ]
-      }
-    },
-    {
-      "rank": 5,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 15.39,
+      "score": 23.49,
       "fact_summary": "Orb of Creation 今日观测峰值 5,592，首次进入当前观察窗口，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 5592,
@@ -492,21 +415,34 @@
         "scoring_peak": 5592,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 1.96,
+        "peak_score": 10.07,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.5592,
         "record_growth_score": 0.0,
         "days_seen_score": 1.43,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 15.39,
+        "score_before_multiplier": 23.49,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
-        "review_ratio": 90.0,
-        "review_total": 1628,
+        "review_ratio": 87.0,
+        "review_total": 1925,
         "days_seen": 1,
         "comeback_gap_days": 0,
         "is_new_release": true,
         "release_age_days": 2,
+        "steam_release_age_days": 2,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "休闲",
           "独立",
@@ -518,6 +454,11 @@
             "peak": 5592
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -544,8 +485,8 @@
           "家庭共享"
         ],
         "review_score": "Very Positive",
-        "review_ratio": 90.0,
-        "review_total": 1628,
+        "review_ratio": 87.0,
+        "review_total": 1925,
         "developer": "MarpleGames",
         "publisher": "MarpleGames",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910680/28cbe4a8420b96a025958a161203b5603a17daed/header.jpg?t=1782342864",
@@ -554,6 +495,126 @@
           {
             "date": "2026-06-25",
             "peak": 5592
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "comeback",
+      "label": "老游戏回归",
+      "score": 18.69,
+      "fact_summary": "Fellowship 今日观测峰值 5,778，未超过过往最高峰值 6,915，被识别为「老游戏回归」。",
+      "metrics": {
+        "current_peak": 5778,
+        "previous_peak": 6915,
+        "previous_record_peak": 6915,
+        "growth_rate": -0.1644,
+        "record_growth_rate": -0.1644,
+        "scoring_peak": 5778,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 10.4,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.5778,
+        "record_growth_score": 0.0,
+        "days_seen_score": 4.29,
+        "signal_type_score": 4.0,
+        "score_before_multiplier": 18.69,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 75.0,
+        "review_total": 17040,
+        "days_seen": 3,
+        "comeback_gap_days": 0,
+        "is_new_release": false,
+        "release_age_days": 252,
+        "steam_release_age_days": 252,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": true,
+        "comeback_reason": "generic",
+        "comeback_evidence": null,
+        "genres": [
+          "角色扮演",
+          "抢先体验"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-23",
+            "peak": 6915
+          },
+          {
+            "date": "2026-06-24",
+            "peak": 5701
+          },
+          {
+            "date": "2026-06-25",
+            "peak": 5778
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2352620"
+        }
+      ],
+      "game": {
+        "slug": "fellowship",
+        "appid": "2352620",
+        "name": "Fellowship",
+        "name_cn": null,
+        "description": "《秘境战盟》是一款多人在线地下城冒险游戏，背景设定在一个激动人心的奇幻世界中，拥有无限升级的地下城挑战。",
+        "release_date": "2025-10-16",
+        "genres": [
+          "角色扮演",
+          "抢先体验"
+        ],
+        "tags": [
+          "多人",
+          "合作",
+          "在线合作",
+          "应用内购买",
+          "可调整文字大小",
+          "视角舒适度",
+          "自定义音量控制",
+          "可调整难度",
+          "无需应对快速反应事件",
+          "立体声",
+          "家庭共享"
+        ],
+        "review_score": "多半好评",
+        "review_ratio": 75.0,
+        "review_total": 17040,
+        "developer": "Chief Rebel",
+        "publisher": "Coffee Stain Publishing, Arc Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2352620/84990f2cebb8a836229b318d194160d823d67cd8/header_alt_assets_2.jpg?t=1782140326",
+        "steam_url": "https://store.steampowered.com/app/2352620",
+        "trend": [
+          {
+            "date": "2026-06-23",
+            "peak": 6915
+          },
+          {
+            "date": "2026-06-24",
+            "peak": 5701
+          },
+          {
+            "date": "2026-06-25",
+            "peak": 5778
           }
         ]
       }

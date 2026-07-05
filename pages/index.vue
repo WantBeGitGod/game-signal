@@ -15,7 +15,7 @@
         </NuxtLink>
       </div>
       <p class="star-note">
-        今日之星来自规则评分：它降低老游戏和昨日连任项目的人数体量优势，但保留增长、口碑背离和发行窗口带来的编辑价值。
+        今日之星来自规则评分：它降低老游戏和本月重复摘星项目的人数体量优势，但保留增长、口碑背离和发行窗口带来的编辑价值。
         如果同一游戏连续三天胜出，系统会自动创建私有深度案例草稿。
       </p>
     </section>
@@ -48,7 +48,7 @@
 
 <script setup lang="ts">
 import { ArrowRight, ArrowUpRight } from "lucide-vue-next"
-import type { DailyIssue, PublicStatus } from "~/types/public"
+import type { DailyIssue } from "~/types/public"
 
 useSeoMeta({
   title: "游戏信号",

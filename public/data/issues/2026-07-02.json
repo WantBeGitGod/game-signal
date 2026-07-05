@@ -10,35 +10,40 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 33.09,
-    "fact_summary": "Supermarket Chaos 今日观测峰值 3,440，较过往最高峰值提升 +235%，被识别为「新作起量」。",
+    "score": 36.42,
+    "fact_summary": "Sand 今日观测峰值 32,856，较过往最高峰值提升 +3%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 3440,
-      "previous_peak": 1027,
-      "previous_record_peak": 1027,
-      "growth_rate": 2.3496,
-      "record_growth_rate": 2.3496,
-      "scoring_peak": 3440,
+      "current_peak": 32856,
+      "previous_peak": 31756,
+      "previous_record_peak": 31756,
+      "growth_rate": 0.0346,
+      "record_growth_rate": 0.0346,
+      "scoring_peak": 32856,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 6.19,
-      "raw_record_growth_score": 35.0,
-      "growth_score_multiplier": 0.344,
-      "record_growth_score": 12.04,
-      "days_seen_score": 2.86,
+      "peak_score": 22.32,
+      "raw_record_growth_score": 1.21,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 1.21,
+      "days_seen_score": 10.0,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 33.09,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "cumulative_star_count": 0,
-      "consecutive_star_count": 0,
-      "review_ratio": 88.0,
-      "review_total": 475,
-      "days_seen": 2,
+      "score_before_multiplier": 45.53,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "monthly_star_1x"
+      ],
+      "monthly_star_count": 1,
+      "prior_total_star_count": 5,
+      "total_star_count": 6,
+      "star_appearance_count": 6,
+      "cumulative_star_count": 1,
+      "review_ratio": 55.0,
+      "review_total": 7016,
+      "days_seen": 9,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 3,
-      "steam_release_age_days": 3,
+      "release_age_days": 10,
+      "steam_release_age_days": 10,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -47,67 +52,122 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "独立",
-        "模拟"
+        "动作",
+        "冒险",
+        "抢先体验"
       ],
       "trend": [
         {
+          "date": "2026-06-23",
+          "peak": 15703
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 13358
+        },
+        {
+          "date": "2026-06-25",
+          "peak": 13882
+        },
+        {
+          "date": "2026-06-26",
+          "peak": 15627
+        },
+        {
+          "date": "2026-06-27",
+          "peak": 21659
+        },
+        {
+          "date": "2026-06-28",
+          "peak": 31756
+        },
+        {
           "date": "2026-06-30",
-          "peak": 1027
+          "peak": 25134
+        },
+        {
+          "date": "2026-07-01",
+          "peak": 22167
         },
         {
           "date": "2026-07-02",
-          "peak": 3440
+          "peak": 32856
         }
       ]
+    },
+    "star_appearance": {
+      "count": 6,
+      "prior_count": 5,
+      "month_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4800590"
+        "url": "https://store.steampowered.com/app/1431300"
       }
     ],
     "game": {
-      "slug": "supermarket-chaos",
-      "appid": "4800590",
-      "name": "Supermarket Chaos",
+      "slug": "sand",
+      "appid": "1431300",
+      "name": "Sand",
       "name_cn": null,
-      "description": "Supermarket Chaos 是一款治愈系整理模拟游戏，你将在杂乱的大型超市中整理 4,668 件商品。在轻松安静的氛围中，享受陈列带来的满足感。",
-      "release_date": "2026-06-29",
+      "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
+      "release_date": "2026-06-22",
       "genres": [
-        "独立",
-        "模拟"
+        "动作",
+        "冒险",
+        "抢先体验"
       ],
       "tags": [
-        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
         "Steam 成就",
-        "完全支持控制器",
-        "视角舒适度",
-        "自定义音量控制",
-        "无需应对快速反应事件",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "随时保存",
-        "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 88.0,
-      "review_total": 475,
-      "developer": "BunnyHop",
-      "publisher": "BunnyHopHome",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1782778526",
-      "steam_url": "https://store.steampowered.com/app/4800590",
+      "review_score": "Mixed",
+      "review_ratio": 55.0,
+      "review_total": 7016,
+      "developer": "Hologryph, TowerHaus",
+      "publisher": "tinyBuild",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
+      "steam_url": "https://store.steampowered.com/app/1431300",
       "trend": [
         {
+          "date": "2026-06-23",
+          "peak": 15703
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 13358
+        },
+        {
+          "date": "2026-06-25",
+          "peak": 13882
+        },
+        {
+          "date": "2026-06-26",
+          "peak": 15627
+        },
+        {
+          "date": "2026-06-27",
+          "peak": 21659
+        },
+        {
+          "date": "2026-06-28",
+          "peak": 31756
+        },
+        {
           "date": "2026-06-30",
-          "peak": 1027
+          "peak": 25134
+        },
+        {
+          "date": "2026-07-01",
+          "peak": 22167
         },
         {
           "date": "2026-07-02",
-          "peak": 3440
+          "peak": 32856
         }
       ]
     }
@@ -116,35 +176,40 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 33.09,
-    "fact_summary": "Supermarket Chaos 今日观测峰值 3,440，较过往最高峰值提升 +235%，被识别为「新作起量」。",
+    "score": 36.42,
+    "fact_summary": "Sand 今日观测峰值 32,856，较过往最高峰值提升 +3%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 3440,
-      "previous_peak": 1027,
-      "previous_record_peak": 1027,
-      "growth_rate": 2.3496,
-      "record_growth_rate": 2.3496,
-      "scoring_peak": 3440,
+      "current_peak": 32856,
+      "previous_peak": 31756,
+      "previous_record_peak": 31756,
+      "growth_rate": 0.0346,
+      "record_growth_rate": 0.0346,
+      "scoring_peak": 32856,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 6.19,
-      "raw_record_growth_score": 35.0,
-      "growth_score_multiplier": 0.344,
-      "record_growth_score": 12.04,
-      "days_seen_score": 2.86,
+      "peak_score": 22.32,
+      "raw_record_growth_score": 1.21,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 1.21,
+      "days_seen_score": 10.0,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 33.09,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "cumulative_star_count": 0,
-      "consecutive_star_count": 0,
-      "review_ratio": 88.0,
-      "review_total": 475,
-      "days_seen": 2,
+      "score_before_multiplier": 45.53,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "monthly_star_1x"
+      ],
+      "monthly_star_count": 1,
+      "prior_total_star_count": 5,
+      "total_star_count": 6,
+      "star_appearance_count": 6,
+      "cumulative_star_count": 1,
+      "review_ratio": 55.0,
+      "review_total": 7016,
+      "days_seen": 9,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 3,
-      "steam_release_age_days": 3,
+      "release_age_days": 10,
+      "steam_release_age_days": 10,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -153,67 +218,122 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "独立",
-        "模拟"
+        "动作",
+        "冒险",
+        "抢先体验"
       ],
       "trend": [
         {
+          "date": "2026-06-23",
+          "peak": 15703
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 13358
+        },
+        {
+          "date": "2026-06-25",
+          "peak": 13882
+        },
+        {
+          "date": "2026-06-26",
+          "peak": 15627
+        },
+        {
+          "date": "2026-06-27",
+          "peak": 21659
+        },
+        {
+          "date": "2026-06-28",
+          "peak": 31756
+        },
+        {
           "date": "2026-06-30",
-          "peak": 1027
+          "peak": 25134
+        },
+        {
+          "date": "2026-07-01",
+          "peak": 22167
         },
         {
           "date": "2026-07-02",
-          "peak": 3440
+          "peak": 32856
         }
       ]
+    },
+    "star_appearance": {
+      "count": 6,
+      "prior_count": 5,
+      "month_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4800590"
+        "url": "https://store.steampowered.com/app/1431300"
       }
     ],
     "game": {
-      "slug": "supermarket-chaos",
-      "appid": "4800590",
-      "name": "Supermarket Chaos",
+      "slug": "sand",
+      "appid": "1431300",
+      "name": "Sand",
       "name_cn": null,
-      "description": "Supermarket Chaos 是一款治愈系整理模拟游戏，你将在杂乱的大型超市中整理 4,668 件商品。在轻松安静的氛围中，享受陈列带来的满足感。",
-      "release_date": "2026-06-29",
+      "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
+      "release_date": "2026-06-22",
       "genres": [
-        "独立",
-        "模拟"
+        "动作",
+        "冒险",
+        "抢先体验"
       ],
       "tags": [
-        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
         "Steam 成就",
-        "完全支持控制器",
-        "视角舒适度",
-        "自定义音量控制",
-        "无需应对快速反应事件",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "随时保存",
-        "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 88.0,
-      "review_total": 475,
-      "developer": "BunnyHop",
-      "publisher": "BunnyHopHome",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1782778526",
-      "steam_url": "https://store.steampowered.com/app/4800590",
+      "review_score": "Mixed",
+      "review_ratio": 55.0,
+      "review_total": 7016,
+      "developer": "Hologryph, TowerHaus",
+      "publisher": "tinyBuild",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
+      "steam_url": "https://store.steampowered.com/app/1431300",
       "trend": [
         {
+          "date": "2026-06-23",
+          "peak": 15703
+        },
+        {
+          "date": "2026-06-24",
+          "peak": 13358
+        },
+        {
+          "date": "2026-06-25",
+          "peak": 13882
+        },
+        {
+          "date": "2026-06-26",
+          "peak": 15627
+        },
+        {
+          "date": "2026-06-27",
+          "peak": 21659
+        },
+        {
+          "date": "2026-06-28",
+          "peak": 31756
+        },
+        {
           "date": "2026-06-30",
-          "peak": 1027
+          "peak": 25134
+        },
+        {
+          "date": "2026-07-01",
+          "peak": 22167
         },
         {
           "date": "2026-07-02",
-          "peak": 3440
+          "peak": 32856
         }
       ]
     }
@@ -222,6 +342,120 @@
   "candidate_signals": [
     {
       "rank": 2,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 33.09,
+      "fact_summary": "Supermarket Chaos 今日观测峰值 3,440，较过往最高峰值提升 +235%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 3440,
+        "previous_peak": 1027,
+        "previous_record_peak": 1027,
+        "growth_rate": 2.3496,
+        "record_growth_rate": 2.3496,
+        "scoring_peak": 3440,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 6.19,
+        "raw_record_growth_score": 35.0,
+        "growth_score_multiplier": 0.344,
+        "record_growth_score": 12.04,
+        "days_seen_score": 2.86,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 33.09,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 88.0,
+        "review_total": 475,
+        "days_seen": 2,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 3,
+        "steam_release_age_days": 3,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "独立",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 1027
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 3440
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4800590"
+        }
+      ],
+      "game": {
+        "slug": "supermarket-chaos",
+        "appid": "4800590",
+        "name": "Supermarket Chaos",
+        "name_cn": null,
+        "description": "Supermarket Chaos 是一款治愈系整理模拟游戏，你将在杂乱的大型超市中整理 4,668 件商品。在轻松安静的氛围中，享受陈列带来的满足感。",
+        "release_date": "2026-06-29",
+        "genres": [
+          "独立",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "完全支持控制器",
+          "视角舒适度",
+          "自定义音量控制",
+          "无需应对快速反应事件",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "随时保存",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 88.0,
+        "review_total": 475,
+        "developer": "BunnyHop",
+        "publisher": "BunnyHopHome",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1782778526",
+        "steam_url": "https://store.steampowered.com/app/4800590",
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 1027
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 3440
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
       "score": 27.57,
@@ -244,8 +478,11 @@
         "score_before_multiplier": 27.57,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 1,
+        "total_star_count": 2,
+        "star_appearance_count": 2,
         "cumulative_star_count": 0,
-        "consecutive_star_count": 0,
         "review_ratio": 87.0,
         "review_total": 1925,
         "days_seen": 6,
@@ -291,6 +528,11 @@
             "peak": 3890
           }
         ]
+      },
+      "star_appearance": {
+        "count": 2,
+        "prior_count": 1,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -352,7 +594,7 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "type": "new_release_rise",
       "label": "新作起量",
       "score": 24.65,
@@ -375,8 +617,11 @@
         "score_before_multiplier": 24.65,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
-        "consecutive_star_count": 0,
         "review_ratio": 77.0,
         "review_total": 1670,
         "days_seen": 7,
@@ -426,6 +671,11 @@
             "peak": 1471
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -502,164 +752,6 @@
       }
     },
     {
-      "rank": 4,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 22.76,
-      "fact_summary": "Sand 今日观测峰值 32,856，较过往最高峰值提升 +3%，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 32856,
-        "previous_peak": 31756,
-        "previous_record_peak": 31756,
-        "growth_rate": 0.0346,
-        "record_growth_rate": 0.0346,
-        "scoring_peak": 32856,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 22.32,
-        "raw_record_growth_score": 1.21,
-        "growth_score_multiplier": 1.0,
-        "record_growth_score": 1.21,
-        "days_seen_score": 10.0,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 45.53,
-        "score_multiplier": 0.5,
-        "score_multiplier_reasons": [
-          "consecutive_star_4x"
-        ],
-        "cumulative_star_count": 4,
-        "consecutive_star_count": 4,
-        "review_ratio": 55.0,
-        "review_total": 7016,
-        "days_seen": 9,
-        "comeback_gap_days": 1,
-        "is_new_release": true,
-        "release_age_days": 10,
-        "steam_release_age_days": 10,
-        "release_age_basis": "steam",
-        "release_verification_required": false,
-        "release_verification": null,
-        "all_platform_release_date": null,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [
-          "动作",
-          "冒险",
-          "抢先体验"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-23",
-            "peak": 15703
-          },
-          {
-            "date": "2026-06-24",
-            "peak": 13358
-          },
-          {
-            "date": "2026-06-25",
-            "peak": 13882
-          },
-          {
-            "date": "2026-06-26",
-            "peak": 15627
-          },
-          {
-            "date": "2026-06-27",
-            "peak": 21659
-          },
-          {
-            "date": "2026-06-28",
-            "peak": 31756
-          },
-          {
-            "date": "2026-06-30",
-            "peak": 25134
-          },
-          {
-            "date": "2026-07-01",
-            "peak": 22167
-          },
-          {
-            "date": "2026-07-02",
-            "peak": 32856
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/1431300"
-        }
-      ],
-      "game": {
-        "slug": "sand",
-        "appid": "1431300",
-        "name": "Sand",
-        "name_cn": null,
-        "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
-        "release_date": "2026-06-22",
-        "genres": [
-          "动作",
-          "冒险",
-          "抢先体验"
-        ],
-        "tags": [
-          "多人",
-          "玩家对战",
-          "线上玩家对战",
-          "Steam 成就",
-          "家庭共享"
-        ],
-        "review_score": "Mixed",
-        "review_ratio": 55.0,
-        "review_total": 7016,
-        "developer": "Hologryph, TowerHaus",
-        "publisher": "tinyBuild",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
-        "steam_url": "https://store.steampowered.com/app/1431300",
-        "trend": [
-          {
-            "date": "2026-06-23",
-            "peak": 15703
-          },
-          {
-            "date": "2026-06-24",
-            "peak": 13358
-          },
-          {
-            "date": "2026-06-25",
-            "peak": 13882
-          },
-          {
-            "date": "2026-06-26",
-            "peak": 15627
-          },
-          {
-            "date": "2026-06-27",
-            "peak": 21659
-          },
-          {
-            "date": "2026-06-28",
-            "peak": 31756
-          },
-          {
-            "date": "2026-06-30",
-            "peak": 25134
-          },
-          {
-            "date": "2026-07-01",
-            "peak": 22167
-          },
-          {
-            "date": "2026-07-02",
-            "peak": 32856
-          }
-        ]
-      }
-    },
-    {
       "rank": 5,
       "type": "new_release_rise",
       "label": "新作起量",
@@ -683,8 +775,11 @@
         "score_before_multiplier": 19.88,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
-        "consecutive_star_count": 0,
         "review_ratio": 69.0,
         "review_total": 11326,
         "days_seen": 2,
@@ -718,6 +813,11 @@
             "peak": 2783
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {

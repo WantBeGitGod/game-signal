@@ -29,6 +29,11 @@ export type Signal = {
   score: number
   fact_summary: string
   metrics: Record<string, unknown>
+  star_appearance?: {
+    count: number
+    prior_count: number
+    month_prior_count: number
+  }
   sources: Array<{ title: string; url: string }>
   game: PublicGame
 }

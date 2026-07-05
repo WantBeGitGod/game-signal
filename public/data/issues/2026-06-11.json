@@ -10,7 +10,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 33.02,
+    "score": 45.79,
     "fact_summary": "MECCHA CHAMELEON 今日观测峰值 20,738，较过往最高峰值提升 +31%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 20738,
@@ -21,21 +21,34 @@
       "scoring_peak": 20738,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 7.26,
+      "peak_score": 20.03,
+      "raw_record_growth_score": 10.9,
+      "growth_score_multiplier": 1.0,
       "record_growth_score": 10.9,
       "days_seen_score": 2.86,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 33.02,
+      "score_before_multiplier": 45.79,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "monthly_star_count": 0,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
       "cumulative_star_count": 0,
       "review_ratio": 82.0,
-      "review_total": 17998,
+      "review_total": 18459,
       "days_seen": 2,
       "comeback_gap_days": 1,
       "is_new_release": true,
       "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
       "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
         "休闲"
       ],
@@ -49,6 +62,11 @@
           "peak": 20738
         }
       ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "month_prior_count": 0
     },
     "sources": [
       {
@@ -77,9 +95,9 @@
         "环绕声",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
+      "review_score": "特别好评",
       "review_ratio": 82.0,
-      "review_total": 17998,
+      "review_total": 18459,
       "developer": "lemorion_1224",
       "publisher": "lemorion_1224",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
@@ -100,7 +118,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 33.02,
+    "score": 45.79,
     "fact_summary": "MECCHA CHAMELEON 今日观测峰值 20,738，较过往最高峰值提升 +31%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 20738,
@@ -111,21 +129,34 @@
       "scoring_peak": 20738,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 7.26,
+      "peak_score": 20.03,
+      "raw_record_growth_score": 10.9,
+      "growth_score_multiplier": 1.0,
       "record_growth_score": 10.9,
       "days_seen_score": 2.86,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 33.02,
+      "score_before_multiplier": 45.79,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "monthly_star_count": 0,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
       "cumulative_star_count": 0,
       "review_ratio": 82.0,
-      "review_total": 17998,
+      "review_total": 18459,
       "days_seen": 2,
       "comeback_gap_days": 1,
       "is_new_release": true,
       "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
       "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
         "休闲"
       ],
@@ -139,6 +170,11 @@
           "peak": 20738
         }
       ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "month_prior_count": 0
     },
     "sources": [
       {
@@ -167,9 +203,9 @@
         "环绕声",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
+      "review_score": "特别好评",
       "review_ratio": 82.0,
-      "review_total": 17998,
+      "review_total": 18459,
       "developer": "lemorion_1224",
       "publisher": "lemorion_1224",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
@@ -192,7 +228,100 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 30.75,
+      "score": 34.7,
+      "fact_summary": "Road to Empress Ⅱ 今日观测峰值 27,332，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 27332,
+        "previous_peak": 0,
+        "previous_record_peak": 0,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 27332,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 21.27,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 34.7,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 77.0,
+        "review_total": 2884,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "release_age_days": 3,
+        "steam_release_age_days": 3,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 27332
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
+      },
+      "sources": [],
+      "game": {
+        "slug": "road-to-empress",
+        "appid": null,
+        "name": "Road to Empress Ⅱ",
+        "name_cn": null,
+        "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
+        "release_date": "2026-06-08",
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "tags": [],
+        "review_score": "多半好评",
+        "review_ratio": 77.0,
+        "review_total": 2884,
+        "developer": null,
+        "publisher": null,
+        "cover_image_url": null,
+        "steam_url": null,
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 27332
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 34.5,
       "fact_summary": "Gothic 1 Remake 今日观测峰值 66,744，未超过过往最高峰值 77,731，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 66744,
@@ -203,15 +332,21 @@
         "scoring_peak": 66744,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 23.36,
+        "peak_score": 28.72,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
         "record_growth_score": 0.0,
         "days_seen_score": 8.57,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 43.93,
+        "score_before_multiplier": 49.29,
         "score_multiplier": 0.7,
         "score_multiplier_reasons": [
-          "cumulative_star_2x"
+          "monthly_star_2x"
         ],
+        "monthly_star_count": 2,
+        "prior_total_star_count": 2,
+        "total_star_count": 3,
+        "star_appearance_count": 3,
         "cumulative_star_count": 2,
         "review_ratio": 88.0,
         "review_total": 24951,
@@ -219,7 +354,14 @@
         "comeback_gap_days": 1,
         "is_new_release": true,
         "release_age_days": 6,
+        "steam_release_age_days": 6,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "动作",
           "角色扮演"
@@ -250,6 +392,11 @@
             "peak": 66744
           }
         ]
+      },
+      "star_appearance": {
+        "count": 3,
+        "prior_count": 2,
+        "month_prior_count": 2
       },
       "sources": [
         {
@@ -320,160 +467,123 @@
       }
     },
     {
-      "rank": 3,
-      "type": "comeback",
-      "label": "老游戏回归",
-      "score": 26.05,
-      "fact_summary": "Destiny 2 今日观测峰值 54,825，未超过过往最高峰值 59,091，被识别为「老游戏回归」。",
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 32.78,
+      "fact_summary": "Solarpunk 今日观测峰值 9,161，未超过过往最高峰值 10,192，被识别为「新作起量」。",
       "metrics": {
-        "current_peak": 54825,
-        "previous_peak": 59091,
-        "previous_record_peak": 59091,
-        "growth_rate": -0.0722,
-        "record_growth_rate": -0.0722,
-        "scoring_peak": 54825,
+        "current_peak": 9161,
+        "previous_peak": 10192,
+        "previous_record_peak": 10192,
+        "growth_rate": -0.1012,
+        "record_growth_rate": -0.1012,
+        "scoring_peak": 9161,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 19.19,
+        "peak_score": 16.49,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.9161,
         "record_growth_score": 0.0,
-        "days_seen_score": 2.86,
-        "signal_type_score": 4.0,
-        "score_before_multiplier": 26.05,
+        "days_seen_score": 4.29,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 32.78,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
-        "review_ratio": 78.0,
-        "review_total": 654913,
-        "days_seen": 2,
+        "review_ratio": 82.0,
+        "review_total": 2485,
+        "days_seen": 3,
         "comeback_gap_days": 1,
-        "is_new_release": false,
-        "release_age_days": 2445,
-        "is_comeback_age": true,
+        "is_new_release": true,
+        "release_age_days": 3,
+        "steam_release_age_days": 3,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
-          "动作",
           "冒险",
-          "免费"
+          "独立",
+          "模拟"
         ],
         "trend": [
           {
+            "date": "2026-06-09",
+            "peak": 10192
+          },
+          {
             "date": "2026-06-10",
-            "peak": 59091
+            "peak": 9929
           },
           {
             "date": "2026-06-11",
-            "peak": 54825
+            "peak": 9161
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
           "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/1085660"
+          "url": "https://store.steampowered.com/app/1805110"
         }
       ],
       "game": {
-        "slug": "destiny-2",
-        "appid": "1085660",
-        "name": "Destiny 2",
+        "slug": "solarpunk",
+        "appid": "1805110",
+        "name": "Solarpunk",
         "name_cn": null,
-        "description": "在《命运2》中探索太阳系的奥秘，体验精彩刺激的第一人称射击战斗。在剧情任务、合作和PvP模式中解锁强大能力并收集独特装备。",
-        "release_date": "2019-10-01",
-        "genres": [
-          "动作",
-          "冒险",
-          "免费"
-        ],
-        "tags": [],
-        "review_score": "多半好评",
-        "review_ratio": 78.0,
-        "review_total": 654913,
-        "developer": "Bungie",
-        "publisher": "Bungie",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085660/0ccf0dc0a8c4ec078db7ab99ddc820b2fa884441/header.jpg?t=1781045588",
-        "steam_url": "https://store.steampowered.com/app/1085660",
-        "trend": [
-          {
-            "date": "2026-06-10",
-            "peak": 59091
-          },
-          {
-            "date": "2026-06-11",
-            "peak": 54825
-          }
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 22.99,
-      "fact_summary": "Road to Empress Ⅱ 今日观测峰值 27,332，首次进入当前观察窗口，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 27332,
-        "previous_peak": 0,
-        "previous_record_peak": 0,
-        "growth_rate": 0.0,
-        "record_growth_rate": 0.0,
-        "scoring_peak": 27332,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 9.57,
-        "record_growth_score": 0.0,
-        "days_seen_score": 1.43,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 22.99,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "cumulative_star_count": 0,
-        "review_ratio": 77.0,
-        "review_total": 2884,
-        "days_seen": 1,
-        "comeback_gap_days": 0,
-        "is_new_release": true,
-        "release_age_days": 3,
-        "is_comeback_age": false,
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "模拟"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-11",
-            "peak": 27332
-          }
-        ]
-      },
-      "sources": [],
-      "game": {
-        "slug": "road-to-empress",
-        "appid": null,
-        "name": "Road to Empress Ⅱ",
-        "name_cn": null,
-        "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
+        "description": "《太阳朋克：浮岛家园 Solarpunk》是一款生存游戏，背景设定在一个科技先进、由漂浮岛屿组成的世界。你可以独自一人或与朋友一起建造建筑、种植食物、制作工具，并驾驶飞船探索遥远的天空之岛。 可以利用太阳能、风能和水利打造能源系统，并进行自动化生产作业，如收集资源和灌溉植物。",
         "release_date": "2026-06-08",
         "genres": [
           "冒险",
-          "休闲",
           "独立",
-          "角色扮演",
           "模拟"
         ],
-        "tags": [],
-        "review_score": "多半好评",
-        "review_ratio": 77.0,
-        "review_total": 2884,
-        "developer": null,
-        "publisher": null,
-        "cover_image_url": null,
-        "steam_url": null,
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "Steam 成就",
+          "完全支持控制器",
+          "自定义音量控制",
+          "可调整难度",
+          "无需应对快速反应事件",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "特别好评",
+        "review_ratio": 82.0,
+        "review_total": 2485,
+        "developer": "Cyberwave",
+        "publisher": "rokaplay, Metaroot",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1781774673",
+        "steam_url": "https://store.steampowered.com/app/1805110",
         "trend": [
           {
+            "date": "2026-06-09",
+            "peak": 10192
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 9929
+          },
+          {
             "date": "2026-06-11",
-            "peak": 27332
+            "peak": 9161
           }
         ]
       }
@@ -482,7 +592,7 @@
       "rank": 5,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 20.04,
+      "score": 32.26,
       "fact_summary": "Voidling Bound 今日观测峰值 8,632，较过往最高峰值提升 +6%，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 8632,
@@ -493,21 +603,34 @@
         "scoring_peak": 8632,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 3.02,
-        "record_growth_score": 2.16,
+        "peak_score": 15.54,
+        "raw_record_growth_score": 2.16,
+        "growth_score_multiplier": 0.8632,
+        "record_growth_score": 1.87,
         "days_seen_score": 2.86,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 20.04,
+        "score_before_multiplier": 32.26,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
         "review_ratio": 93.0,
-        "review_total": 0,
+        "review_total": 1807,
         "days_seen": 2,
         "comeback_gap_days": 1,
         "is_new_release": true,
         "release_age_days": 2,
+        "steam_release_age_days": 2,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "动作",
           "冒险",
@@ -523,6 +646,11 @@
             "peak": 8632
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -556,9 +684,9 @@
           "统计数据",
           "家庭共享"
         ],
-        "review_score": "Very Positive",
+        "review_score": "特别好评",
         "review_ratio": 93.0,
-        "review_total": 0,
+        "review_total": 1807,
         "developer": "Hatchery Games",
         "publisher": "Hatchery Games",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/78f0bcda22c6d49b81831aa41e4831ed52893c19/header_alt_assets_0.jpg?t=1781263470",

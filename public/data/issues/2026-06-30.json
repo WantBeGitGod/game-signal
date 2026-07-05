@@ -10,37 +10,38 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 30.0,
-    "fact_summary": "Sand 今日观测峰值 25,134，未超过过往最高峰值 31,756，被识别为「新作起量」。",
+    "score": 27.53,
+    "fact_summary": "Orb of Creation 今日观测峰值 4,662，未超过过往最高峰值 5,626，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 25134,
-      "previous_peak": 31756,
-      "previous_record_peak": 31756,
-      "growth_rate": -0.2085,
-      "record_growth_rate": -0.2085,
-      "scoring_peak": 25134,
+      "current_peak": 4662,
+      "previous_peak": 5626,
+      "previous_record_peak": 5626,
+      "growth_rate": -0.1713,
+      "record_growth_rate": -0.1713,
+      "scoring_peak": 4662,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 20.86,
+      "peak_score": 8.39,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 1.0,
+      "growth_score_multiplier": 0.4662,
       "record_growth_score": 0.0,
-      "days_seen_score": 10.0,
+      "days_seen_score": 7.14,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 42.86,
-      "score_multiplier": 0.7,
-      "score_multiplier_reasons": [
-        "consecutive_star_2x"
-      ],
-      "cumulative_star_count": 2,
-      "consecutive_star_count": 2,
-      "review_ratio": 55.0,
-      "review_total": 7016,
-      "days_seen": 7,
+      "score_before_multiplier": 27.53,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "monthly_star_count": 0,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 87.0,
+      "review_total": 1925,
+      "days_seen": 5,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 8,
-      "steam_release_age_days": 8,
+      "release_age_days": 7,
+      "steam_release_age_days": 7,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -49,101 +50,89 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
-        "抢先体验"
+        "休闲",
+        "独立",
+        "策略"
       ],
       "trend": [
         {
-          "date": "2026-06-23",
-          "peak": 15703
-        },
-        {
-          "date": "2026-06-24",
-          "peak": 13358
-        },
-        {
           "date": "2026-06-25",
-          "peak": 13882
+          "peak": 5592
         },
         {
           "date": "2026-06-26",
-          "peak": 15627
+          "peak": 5626
         },
         {
           "date": "2026-06-27",
-          "peak": 21659
+          "peak": 5146
         },
         {
           "date": "2026-06-28",
-          "peak": 31756
+          "peak": 5148
         },
         {
           "date": "2026-06-30",
-          "peak": 25134
+          "peak": 4662
         }
       ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "month_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1431300"
+        "url": "https://store.steampowered.com/app/1910680"
       }
     ],
     "game": {
-      "slug": "sand",
-      "appid": "1431300",
-      "name": "Sand",
+      "slug": "orb-of-creation",
+      "appid": "1910680",
+      "name": "Orb of Creation",
       "name_cn": null,
-      "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
-      "release_date": "2026-06-22",
+      "description": "Orb of Creation 是一款非闲置的增量益智游戏，您只需使用魔法和独创性即可重新创造世界。召唤资源，购买升级，成为全能的巫师！",
+      "release_date": "2026-06-23",
       "genres": [
-        "动作",
-        "冒险",
-        "抢先体验"
+        "休闲",
+        "独立",
+        "策略"
       ],
       "tags": [
-        "多人",
-        "玩家对战",
-        "线上玩家对战",
+        "单人",
         "Steam 成就",
+        "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 55.0,
-      "review_total": 7016,
-      "developer": "Hologryph, TowerHaus",
-      "publisher": "tinyBuild",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
-      "steam_url": "https://store.steampowered.com/app/1431300",
+      "review_score": "Very Positive",
+      "review_ratio": 87.0,
+      "review_total": 1925,
+      "developer": "MarpleGames",
+      "publisher": "MarpleGames",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910680/28cbe4a8420b96a025958a161203b5603a17daed/header.jpg?t=1782342864",
+      "steam_url": "https://store.steampowered.com/app/1910680",
       "trend": [
         {
-          "date": "2026-06-23",
-          "peak": 15703
-        },
-        {
-          "date": "2026-06-24",
-          "peak": 13358
-        },
-        {
           "date": "2026-06-25",
-          "peak": 13882
+          "peak": 5592
         },
         {
           "date": "2026-06-26",
-          "peak": 15627
+          "peak": 5626
         },
         {
           "date": "2026-06-27",
-          "peak": 21659
+          "peak": 5146
         },
         {
           "date": "2026-06-28",
-          "peak": 31756
+          "peak": 5148
         },
         {
           "date": "2026-06-30",
-          "peak": 25134
+          "peak": 4662
         }
       ]
     }
@@ -152,37 +141,38 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 30.0,
-    "fact_summary": "Sand 今日观测峰值 25,134，未超过过往最高峰值 31,756，被识别为「新作起量」。",
+    "score": 27.53,
+    "fact_summary": "Orb of Creation 今日观测峰值 4,662，未超过过往最高峰值 5,626，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 25134,
-      "previous_peak": 31756,
-      "previous_record_peak": 31756,
-      "growth_rate": -0.2085,
-      "record_growth_rate": -0.2085,
-      "scoring_peak": 25134,
+      "current_peak": 4662,
+      "previous_peak": 5626,
+      "previous_record_peak": 5626,
+      "growth_rate": -0.1713,
+      "record_growth_rate": -0.1713,
+      "scoring_peak": 4662,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 20.86,
+      "peak_score": 8.39,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 1.0,
+      "growth_score_multiplier": 0.4662,
       "record_growth_score": 0.0,
-      "days_seen_score": 10.0,
+      "days_seen_score": 7.14,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 42.86,
-      "score_multiplier": 0.7,
-      "score_multiplier_reasons": [
-        "consecutive_star_2x"
-      ],
-      "cumulative_star_count": 2,
-      "consecutive_star_count": 2,
-      "review_ratio": 55.0,
-      "review_total": 7016,
-      "days_seen": 7,
+      "score_before_multiplier": 27.53,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "monthly_star_count": 0,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 87.0,
+      "review_total": 1925,
+      "days_seen": 5,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 8,
-      "steam_release_age_days": 8,
+      "release_age_days": 7,
+      "steam_release_age_days": 7,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -191,101 +181,89 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
-        "抢先体验"
+        "休闲",
+        "独立",
+        "策略"
       ],
       "trend": [
         {
-          "date": "2026-06-23",
-          "peak": 15703
-        },
-        {
-          "date": "2026-06-24",
-          "peak": 13358
-        },
-        {
           "date": "2026-06-25",
-          "peak": 13882
+          "peak": 5592
         },
         {
           "date": "2026-06-26",
-          "peak": 15627
+          "peak": 5626
         },
         {
           "date": "2026-06-27",
-          "peak": 21659
+          "peak": 5146
         },
         {
           "date": "2026-06-28",
-          "peak": 31756
+          "peak": 5148
         },
         {
           "date": "2026-06-30",
-          "peak": 25134
+          "peak": 4662
         }
       ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "month_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1431300"
+        "url": "https://store.steampowered.com/app/1910680"
       }
     ],
     "game": {
-      "slug": "sand",
-      "appid": "1431300",
-      "name": "Sand",
+      "slug": "orb-of-creation",
+      "appid": "1910680",
+      "name": "Orb of Creation",
       "name_cn": null,
-      "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
-      "release_date": "2026-06-22",
+      "description": "Orb of Creation 是一款非闲置的增量益智游戏，您只需使用魔法和独创性即可重新创造世界。召唤资源，购买升级，成为全能的巫师！",
+      "release_date": "2026-06-23",
       "genres": [
-        "动作",
-        "冒险",
-        "抢先体验"
+        "休闲",
+        "独立",
+        "策略"
       ],
       "tags": [
-        "多人",
-        "玩家对战",
-        "线上玩家对战",
+        "单人",
         "Steam 成就",
+        "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 55.0,
-      "review_total": 7016,
-      "developer": "Hologryph, TowerHaus",
-      "publisher": "tinyBuild",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
-      "steam_url": "https://store.steampowered.com/app/1431300",
+      "review_score": "Very Positive",
+      "review_ratio": 87.0,
+      "review_total": 1925,
+      "developer": "MarpleGames",
+      "publisher": "MarpleGames",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910680/28cbe4a8420b96a025958a161203b5603a17daed/header.jpg?t=1782342864",
+      "steam_url": "https://store.steampowered.com/app/1910680",
       "trend": [
         {
-          "date": "2026-06-23",
-          "peak": 15703
-        },
-        {
-          "date": "2026-06-24",
-          "peak": 13358
-        },
-        {
           "date": "2026-06-25",
-          "peak": 13882
+          "peak": 5592
         },
         {
           "date": "2026-06-26",
-          "peak": 15627
+          "peak": 5626
         },
         {
           "date": "2026-06-27",
-          "peak": 21659
+          "peak": 5146
         },
         {
           "date": "2026-06-28",
-          "peak": 31756
+          "peak": 5148
         },
         {
           "date": "2026-06-30",
-          "peak": 25134
+          "peak": 4662
         }
       ]
     }
@@ -294,129 +272,6 @@
   "candidate_signals": [
     {
       "rank": 2,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 27.53,
-      "fact_summary": "Orb of Creation 今日观测峰值 4,662，未超过过往最高峰值 5,626，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 4662,
-        "previous_peak": 5626,
-        "previous_record_peak": 5626,
-        "growth_rate": -0.1713,
-        "record_growth_rate": -0.1713,
-        "scoring_peak": 4662,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 8.39,
-        "raw_record_growth_score": 0.0,
-        "growth_score_multiplier": 0.4662,
-        "record_growth_score": 0.0,
-        "days_seen_score": 7.14,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 27.53,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "cumulative_star_count": 0,
-        "consecutive_star_count": 0,
-        "review_ratio": 87.0,
-        "review_total": 1925,
-        "days_seen": 5,
-        "comeback_gap_days": 1,
-        "is_new_release": true,
-        "release_age_days": 7,
-        "steam_release_age_days": 7,
-        "release_age_basis": "steam",
-        "release_verification_required": false,
-        "release_verification": null,
-        "all_platform_release_date": null,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [
-          "休闲",
-          "独立",
-          "策略"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-25",
-            "peak": 5592
-          },
-          {
-            "date": "2026-06-26",
-            "peak": 5626
-          },
-          {
-            "date": "2026-06-27",
-            "peak": 5146
-          },
-          {
-            "date": "2026-06-28",
-            "peak": 5148
-          },
-          {
-            "date": "2026-06-30",
-            "peak": 4662
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/1910680"
-        }
-      ],
-      "game": {
-        "slug": "orb-of-creation",
-        "appid": "1910680",
-        "name": "Orb of Creation",
-        "name_cn": null,
-        "description": "Orb of Creation 是一款非闲置的增量益智游戏，您只需使用魔法和独创性即可重新创造世界。召唤资源，购买升级，成为全能的巫师！",
-        "release_date": "2026-06-23",
-        "genres": [
-          "休闲",
-          "独立",
-          "策略"
-        ],
-        "tags": [
-          "单人",
-          "Steam 成就",
-          "Steam 云",
-          "家庭共享"
-        ],
-        "review_score": "Very Positive",
-        "review_ratio": 87.0,
-        "review_total": 1925,
-        "developer": "MarpleGames",
-        "publisher": "MarpleGames",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910680/28cbe4a8420b96a025958a161203b5603a17daed/header.jpg?t=1782342864",
-        "steam_url": "https://store.steampowered.com/app/1910680",
-        "trend": [
-          {
-            "date": "2026-06-25",
-            "peak": 5592
-          },
-          {
-            "date": "2026-06-26",
-            "peak": 5626
-          },
-          {
-            "date": "2026-06-27",
-            "peak": 5146
-          },
-          {
-            "date": "2026-06-28",
-            "peak": 5148
-          },
-          {
-            "date": "2026-06-30",
-            "peak": 4662
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
       "score": 24.43,
@@ -439,8 +294,11 @@
         "score_before_multiplier": 24.43,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
-        "consecutive_star_count": 0,
         "review_ratio": 77.0,
         "review_total": 1670,
         "days_seen": 6,
@@ -486,6 +344,11 @@
             "peak": 2141
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -558,6 +421,156 @@
       }
     },
     {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 21.43,
+      "fact_summary": "Sand 今日观测峰值 25,134，未超过过往最高峰值 31,756，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 25134,
+        "previous_peak": 31756,
+        "previous_record_peak": 31756,
+        "growth_rate": -0.2085,
+        "record_growth_rate": -0.2085,
+        "scoring_peak": 25134,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 20.86,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
+        "record_growth_score": 0.0,
+        "days_seen_score": 10.0,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 42.86,
+        "score_multiplier": 0.5,
+        "score_multiplier_reasons": [
+          "monthly_star_4x"
+        ],
+        "monthly_star_count": 4,
+        "prior_total_star_count": 4,
+        "total_star_count": 5,
+        "star_appearance_count": 5,
+        "cumulative_star_count": 4,
+        "review_ratio": 55.0,
+        "review_total": 7016,
+        "days_seen": 7,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 8,
+        "steam_release_age_days": 8,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "动作",
+          "冒险",
+          "抢先体验"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-23",
+            "peak": 15703
+          },
+          {
+            "date": "2026-06-24",
+            "peak": 13358
+          },
+          {
+            "date": "2026-06-25",
+            "peak": 13882
+          },
+          {
+            "date": "2026-06-26",
+            "peak": 15627
+          },
+          {
+            "date": "2026-06-27",
+            "peak": 21659
+          },
+          {
+            "date": "2026-06-28",
+            "peak": 31756
+          },
+          {
+            "date": "2026-06-30",
+            "peak": 25134
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 5,
+        "prior_count": 4,
+        "month_prior_count": 4
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/1431300"
+        }
+      ],
+      "game": {
+        "slug": "sand",
+        "appid": "1431300",
+        "name": "Sand",
+        "name_cn": null,
+        "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
+        "release_date": "2026-06-22",
+        "genres": [
+          "动作",
+          "冒险",
+          "抢先体验"
+        ],
+        "tags": [
+          "多人",
+          "玩家对战",
+          "线上玩家对战",
+          "Steam 成就",
+          "家庭共享"
+        ],
+        "review_score": "Mixed",
+        "review_ratio": 55.0,
+        "review_total": 7016,
+        "developer": "Hologryph, TowerHaus",
+        "publisher": "tinyBuild",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
+        "steam_url": "https://store.steampowered.com/app/1431300",
+        "trend": [
+          {
+            "date": "2026-06-23",
+            "peak": 15703
+          },
+          {
+            "date": "2026-06-24",
+            "peak": 13358
+          },
+          {
+            "date": "2026-06-25",
+            "peak": 13882
+          },
+          {
+            "date": "2026-06-26",
+            "peak": 15627
+          },
+          {
+            "date": "2026-06-27",
+            "peak": 21659
+          },
+          {
+            "date": "2026-06-28",
+            "peak": 31756
+          },
+          {
+            "date": "2026-06-30",
+            "peak": 25134
+          }
+        ]
+      }
+    },
+    {
       "rank": 4,
       "type": "new_release_rise",
       "label": "新作起量",
@@ -581,8 +594,11 @@
         "score_before_multiplier": 18.43,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
-        "consecutive_star_count": 0,
         "review_ratio": 69.0,
         "review_total": 11326,
         "days_seen": 1,
@@ -612,6 +628,11 @@
             "peak": 2780
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -687,8 +708,11 @@
         "score_before_multiplier": 18.25,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
-        "consecutive_star_count": 0,
         "review_ratio": 72.0,
         "review_total": 463,
         "days_seen": 1,
@@ -715,6 +739,11 @@
             "peak": 2679
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {

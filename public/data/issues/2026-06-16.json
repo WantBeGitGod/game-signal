@@ -10,7 +10,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 48.31,
+    "score": 41.41,
     "fact_summary": "MECCHA CHAMELEON 今日观测峰值 132,154，较过往最高峰值提升 +38%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 132154,
@@ -22,22 +22,35 @@
       "player_discount": 1.0,
       "discount_reasons": [],
       "peak_score": 35.0,
+      "raw_record_growth_score": 13.44,
+      "growth_score_multiplier": 1.0,
       "record_growth_score": 13.44,
       "days_seen_score": 8.57,
       "signal_type_score": 12.0,
       "score_before_multiplier": 69.01,
-      "score_multiplier": 0.7,
+      "score_multiplier": 0.6,
       "score_multiplier_reasons": [
-        "cumulative_star_2x"
+        "monthly_star_3x"
       ],
-      "cumulative_star_count": 2,
+      "monthly_star_count": 3,
+      "prior_total_star_count": 3,
+      "total_star_count": 4,
+      "star_appearance_count": 4,
+      "cumulative_star_count": 3,
       "review_ratio": 82.0,
-      "review_total": 17998,
+      "review_total": 18459,
       "days_seen": 6,
       "comeback_gap_days": 2,
       "is_new_release": true,
       "release_age_days": 7,
+      "steam_release_age_days": 7,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
       "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
         "休闲"
       ],
@@ -68,6 +81,11 @@
         }
       ]
     },
+    "star_appearance": {
+      "count": 4,
+      "prior_count": 3,
+      "month_prior_count": 3
+    },
     "sources": [
       {
         "title": "Steam 商店",
@@ -95,9 +113,9 @@
         "环绕声",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
+      "review_score": "特别好评",
       "review_ratio": 82.0,
-      "review_total": 17998,
+      "review_total": 18459,
       "developer": "lemorion_1224",
       "publisher": "lemorion_1224",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
@@ -134,7 +152,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 48.31,
+    "score": 41.41,
     "fact_summary": "MECCHA CHAMELEON 今日观测峰值 132,154，较过往最高峰值提升 +38%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 132154,
@@ -146,22 +164,35 @@
       "player_discount": 1.0,
       "discount_reasons": [],
       "peak_score": 35.0,
+      "raw_record_growth_score": 13.44,
+      "growth_score_multiplier": 1.0,
       "record_growth_score": 13.44,
       "days_seen_score": 8.57,
       "signal_type_score": 12.0,
       "score_before_multiplier": 69.01,
-      "score_multiplier": 0.7,
+      "score_multiplier": 0.6,
       "score_multiplier_reasons": [
-        "cumulative_star_2x"
+        "monthly_star_3x"
       ],
-      "cumulative_star_count": 2,
+      "monthly_star_count": 3,
+      "prior_total_star_count": 3,
+      "total_star_count": 4,
+      "star_appearance_count": 4,
+      "cumulative_star_count": 3,
       "review_ratio": 82.0,
-      "review_total": 17998,
+      "review_total": 18459,
       "days_seen": 6,
       "comeback_gap_days": 2,
       "is_new_release": true,
       "release_age_days": 7,
+      "steam_release_age_days": 7,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
       "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
         "休闲"
       ],
@@ -192,6 +223,11 @@
         }
       ]
     },
+    "star_appearance": {
+      "count": 4,
+      "prior_count": 3,
+      "month_prior_count": 3
+    },
     "sources": [
       {
         "title": "Steam 商店",
@@ -219,9 +255,9 @@
         "环绕声",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
+      "review_score": "特别好评",
       "review_ratio": 82.0,
-      "review_total": 17998,
+      "review_total": 18459,
       "developer": "lemorion_1224",
       "publisher": "lemorion_1224",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
@@ -260,7 +296,7 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 26.0,
+      "score": 37.64,
       "fact_summary": "Road to Empress Ⅱ 今日观测峰值 27,748，未超过过往最高峰值 30,357，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 27748,
@@ -271,13 +307,19 @@
         "scoring_peak": 27748,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 9.71,
+        "peak_score": 21.35,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
         "record_growth_score": 0.0,
         "days_seen_score": 4.29,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 26.0,
+        "score_before_multiplier": 37.64,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
         "review_ratio": 83.0,
         "review_total": 7161,
@@ -285,7 +327,14 @@
         "comeback_gap_days": 4,
         "is_new_release": true,
         "release_age_days": 8,
+        "steam_release_age_days": 8,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "冒险",
           "休闲",
@@ -307,6 +356,11 @@
             "peak": 27748
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -361,7 +415,7 @@
       "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 23.23,
+      "score": 32.48,
       "fact_summary": "Lost Castle 2 今日观测峰值 28,279，未超过过往最高峰值 28,725，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 28279,
@@ -372,23 +426,36 @@
         "scoring_peak": 28279,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 9.9,
+        "peak_score": 21.45,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
         "record_growth_score": 0.0,
         "days_seen_score": 7.14,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 29.04,
+        "score_before_multiplier": 40.6,
         "score_multiplier": 0.8,
         "score_multiplier_reasons": [
-          "cumulative_star_1x"
+          "monthly_star_1x"
         ],
+        "monthly_star_count": 1,
+        "prior_total_star_count": 1,
+        "total_star_count": 2,
+        "star_appearance_count": 2,
         "cumulative_star_count": 1,
         "review_ratio": 78.0,
-        "review_total": 12085,
+        "review_total": 12095,
         "days_seen": 5,
         "comeback_gap_days": 2,
         "is_new_release": true,
         "release_age_days": 6,
+        "steam_release_age_days": 6,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "动作",
           "冒险",
@@ -417,6 +484,11 @@
             "peak": 28279
           }
         ]
+      },
+      "star_appearance": {
+        "count": 2,
+        "prior_count": 1,
+        "month_prior_count": 1
       },
       "sources": [
         {
@@ -452,9 +524,9 @@
           "远程同乐",
           "家庭共享"
         ],
-        "review_score": "Mostly Positive",
+        "review_score": "多半好评",
         "review_ratio": 78.0,
-        "review_total": 12085,
+        "review_total": 12095,
         "developer": "Hunter Studio",
         "publisher": "Hunter Studio",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203",
@@ -487,136 +559,7 @@
       "rank": 4,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 22.38,
-      "fact_summary": "Voidling Bound 今日观测峰值 5,165，未超过过往最高峰值 8,632，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 5165,
-        "previous_peak": 8632,
-        "previous_record_peak": 8632,
-        "growth_rate": -0.4016,
-        "record_growth_rate": -0.4016,
-        "scoring_peak": 5165,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 1.81,
-        "record_growth_score": 0.0,
-        "days_seen_score": 8.57,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 22.38,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "cumulative_star_count": 0,
-        "review_ratio": 93.0,
-        "review_total": 0,
-        "days_seen": 6,
-        "comeback_gap_days": 2,
-        "is_new_release": true,
-        "release_age_days": 7,
-        "is_comeback_age": false,
-        "genres": [
-          "动作",
-          "冒险",
-          "角色扮演"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-10",
-            "peak": 8130
-          },
-          {
-            "date": "2026-06-11",
-            "peak": 8632
-          },
-          {
-            "date": "2026-06-13",
-            "peak": 7039
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 8190
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 7845
-          },
-          {
-            "date": "2026-06-16",
-            "peak": 5165
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/2004680"
-        }
-      ],
-      "game": {
-        "slug": "voidling-bound",
-        "appid": "2004680",
-        "name": "Voidling Bound",
-        "name_cn": null,
-        "description": "在这款第三人称射击+生物收集游戏中，你将潜入沃德灵的思维，亲自上阵对抗神秘的寄生疫病 。孵化、进化并升级你强大的太空生物，在主线任务关卡和深渊竞技场中，战胜不断升级的挑战。",
-        "release_date": "2026-06-09",
-        "genres": [
-          "动作",
-          "冒险",
-          "角色扮演"
-        ],
-        "tags": [
-          "单人",
-          "Steam 成就",
-          "完全支持控制器",
-          "视角舒适度",
-          "可选颜色",
-          "自定义音量控制",
-          "可调整难度",
-          "无需应对快速反应事件",
-          "立体声",
-          "Steam 云",
-          "统计数据",
-          "家庭共享"
-        ],
-        "review_score": "Very Positive",
-        "review_ratio": 93.0,
-        "review_total": 0,
-        "developer": "Hatchery Games",
-        "publisher": "Hatchery Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004680/78f0bcda22c6d49b81831aa41e4831ed52893c19/header_alt_assets_0.jpg?t=1781263470",
-        "steam_url": "https://store.steampowered.com/app/2004680",
-        "trend": [
-          {
-            "date": "2026-06-10",
-            "peak": 8130
-          },
-          {
-            "date": "2026-06-11",
-            "peak": 8632
-          },
-          {
-            "date": "2026-06-13",
-            "peak": 7039
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 8190
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 7845
-          },
-          {
-            "date": "2026-06-16",
-            "peak": 5165
-          }
-        ]
-      }
-    },
-    {
-      "rank": 5,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 21.53,
+      "score": 31.4,
       "fact_summary": "Burglin' Gnomes 今日观测峰值 6,810，未超过过往最高峰值 9,861，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 6810,
@@ -627,21 +570,34 @@
         "scoring_peak": 6810,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 2.38,
+        "peak_score": 12.26,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.681,
         "record_growth_score": 0.0,
         "days_seen_score": 7.14,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 21.53,
+        "score_before_multiplier": 31.4,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
         "review_ratio": 85.0,
-        "review_total": 2576,
+        "review_total": 2587,
         "days_seen": 5,
         "comeback_gap_days": 2,
         "is_new_release": true,
         "release_age_days": 6,
+        "steam_release_age_days": 6,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "动作",
           "冒险"
@@ -668,6 +624,11 @@
             "peak": 6810
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -696,9 +657,9 @@
           "Steam 云",
           "家庭共享"
         ],
-        "review_score": "Very Positive",
+        "review_score": "特别好评",
         "review_ratio": 85.0,
-        "review_total": 2576,
+        "review_total": 2587,
         "developer": "Fobri",
         "publisher": "Fobri",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d44e878d08426747cab87cd465ad1667fba5a6f8/header_schinese.jpg?t=1781100001",
@@ -723,6 +684,109 @@
           {
             "date": "2026-06-16",
             "peak": 6810
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 31.35,
+      "fact_summary": "Mistfall Hunter Demo 今日观测峰值 9,162，未超过过往最高峰值 9,288，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 9162,
+        "previous_peak": 9288,
+        "previous_record_peak": 9288,
+        "growth_rate": -0.0136,
+        "record_growth_rate": -0.0136,
+        "scoring_peak": 9162,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 16.49,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.9162,
+        "record_growth_score": 0.0,
+        "days_seen_score": 2.86,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 31.35,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": null,
+        "review_total": 0,
+        "days_seen": 2,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "release_age_days": 3,
+        "steam_release_age_days": 3,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [],
+        "trend": [
+          {
+            "date": "2026-06-15",
+            "peak": 9288
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 9162
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4282490"
+        }
+      ],
+      "game": {
+        "slug": "mistfall-hunter-demo",
+        "appid": "4282490",
+        "name": "Mistfall Hunter Demo",
+        "name_cn": null,
+        "description": "",
+        "release_date": "2026-06-13",
+        "genres": [],
+        "tags": [
+          "多人",
+          "玩家对战",
+          "线上玩家对战",
+          "合作",
+          "在线合作",
+          "游戏试用版",
+          "完全支持控制器",
+          "可用 HDR"
+        ],
+        "review_score": "暂无评价",
+        "review_ratio": null,
+        "review_total": 0,
+        "developer": "Bellring Games",
+        "publisher": "Skystone Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282490/cfa9fe92a707b5687f3e340f27d0325a4c4428a0/header.jpg?t=1781377380",
+        "steam_url": "https://store.steampowered.com/app/4282490",
+        "trend": [
+          {
+            "date": "2026-06-15",
+            "peak": 9288
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 9162
           }
         ]
       }

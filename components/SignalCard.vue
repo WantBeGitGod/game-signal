@@ -8,7 +8,7 @@
     <div class="signal-card-copy">
       <div class="signal-card-meta">
         <SignalTag :type="signal.type" :label="signal.label" />
-        <span>{{ signal.score.toFixed(1) }} pts</span>
+        <span>{{ appearanceLabel }} / {{ signal.score.toFixed(1) }} pts</span>
       </div>
       <h3>{{ signal.game.name }}</h3>
       <p>{{ signal.fact_summary }}</p>
@@ -25,5 +25,11 @@
 import { ArrowRight } from "lucide-vue-next"
 import type { Signal } from "~/types/public"
 
-defineProps<{ signal: Signal }>()
+const props = defineProps<{ signal: Signal }>()
+const appearanceCount = computed(() => {
+  const explicit = props.signal.star_appearance?.count
+  const fallback = Number(props.signal.metrics.star_appearance_count || props.signal.metrics.total_star_count || 1)
+  return Math.max(1, Number(explicit || fallback || 1))
+})
+const appearanceLabel = computed(() => `第 ${appearanceCount.value} 次摘星`)
 </script>

@@ -13,7 +13,7 @@
           referrerpolicy="no-referrer"
           @error="mainCoverFailed = true"
         />
-        <span class="feature-game-credit">TODAY'S STAR · STEAM STORE ART</span>
+        <span class="feature-game-credit">TODAY'S STAR / STEAM STORE ART</span>
       </div>
       <span class="data-cover-stamp">DATA COVER<br />AWAITING ART</span>
     </div>
@@ -27,7 +27,7 @@
       <p class="cover-deck">{{ starSignal.fact_summary }}</p>
       <div class="cover-metrics">
         <div>
-          <span>观测峰值</span>
+          <span>观察峰值</span>
           <strong>{{ formatNumber(Number(starSignal.metrics.current_peak)) }}</strong>
         </div>
         <div>
@@ -35,8 +35,8 @@
           <strong>{{ starSignal.score.toFixed(1) }}</strong>
         </div>
         <div>
-          <span>今日之星</span>
-          <strong>STAR</strong>
+          <span>摘星次数</span>
+          <strong>{{ starAppearanceLabel }}</strong>
         </div>
       </div>
       <NuxtLink :to="`/issues/${issue.date}#main-signal`" class="command-link">
@@ -54,6 +54,12 @@ import type { DailyIssue } from "~/types/public"
 const props = defineProps<{ issue: DailyIssue }>()
 const mainCoverFailed = ref(false)
 const starSignal = computed(() => props.issue.star_signal || props.issue.main_signal)
+const starAppearanceCount = computed(() => {
+  const explicit = starSignal.value.star_appearance?.count
+  const fallback = Number(starSignal.value.metrics.star_appearance_count || starSignal.value.metrics.total_star_count || 1)
+  return Math.max(1, Number(explicit || fallback || 1))
+})
+const starAppearanceLabel = computed(() => `第 ${starAppearanceCount.value} 次摘星`)
 
 function formatNumber(value: number) {
   return new Intl.NumberFormat("zh-CN").format(value || 0)

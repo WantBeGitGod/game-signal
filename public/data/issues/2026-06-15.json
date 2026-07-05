@@ -10,7 +10,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 57.82,
+    "score": 51.1,
     "fact_summary": "MECCHA CHAMELEON 今日观测峰值 95,482，较过往最高峰值提升 +56%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 95482,
@@ -21,23 +21,36 @@
       "scoring_peak": 95482,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 33.42,
+      "peak_score": 34.15,
+      "raw_record_growth_score": 19.71,
+      "growth_score_multiplier": 1.0,
       "record_growth_score": 19.71,
       "days_seen_score": 7.14,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 72.28,
-      "score_multiplier": 0.8,
+      "score_before_multiplier": 73.0,
+      "score_multiplier": 0.7,
       "score_multiplier_reasons": [
-        "cumulative_star_1x"
+        "monthly_star_2x"
       ],
-      "cumulative_star_count": 1,
+      "monthly_star_count": 2,
+      "prior_total_star_count": 2,
+      "total_star_count": 3,
+      "star_appearance_count": 3,
+      "cumulative_star_count": 2,
       "review_ratio": 82.0,
-      "review_total": 17998,
+      "review_total": 18459,
       "days_seen": 5,
       "comeback_gap_days": 2,
       "is_new_release": true,
       "release_age_days": 6,
+      "steam_release_age_days": 6,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
       "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
         "休闲"
       ],
@@ -63,6 +76,11 @@
           "peak": 95482
         }
       ]
+    },
+    "star_appearance": {
+      "count": 3,
+      "prior_count": 2,
+      "month_prior_count": 2
     },
     "sources": [
       {
@@ -91,9 +109,9 @@
         "环绕声",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
+      "review_score": "特别好评",
       "review_ratio": 82.0,
-      "review_total": 17998,
+      "review_total": 18459,
       "developer": "lemorion_1224",
       "publisher": "lemorion_1224",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
@@ -126,7 +144,7 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 57.82,
+    "score": 51.1,
     "fact_summary": "MECCHA CHAMELEON 今日观测峰值 95,482，较过往最高峰值提升 +56%，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 95482,
@@ -137,23 +155,36 @@
       "scoring_peak": 95482,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 33.42,
+      "peak_score": 34.15,
+      "raw_record_growth_score": 19.71,
+      "growth_score_multiplier": 1.0,
       "record_growth_score": 19.71,
       "days_seen_score": 7.14,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 72.28,
-      "score_multiplier": 0.8,
+      "score_before_multiplier": 73.0,
+      "score_multiplier": 0.7,
       "score_multiplier_reasons": [
-        "cumulative_star_1x"
+        "monthly_star_2x"
       ],
-      "cumulative_star_count": 1,
+      "monthly_star_count": 2,
+      "prior_total_star_count": 2,
+      "total_star_count": 3,
+      "star_appearance_count": 3,
+      "cumulative_star_count": 2,
       "review_ratio": 82.0,
-      "review_total": 17998,
+      "review_total": 18459,
       "days_seen": 5,
       "comeback_gap_days": 2,
       "is_new_release": true,
       "release_age_days": 6,
+      "steam_release_age_days": 6,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
       "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
         "休闲"
       ],
@@ -179,6 +210,11 @@
           "peak": 95482
         }
       ]
+    },
+    "star_appearance": {
+      "count": 3,
+      "prior_count": 2,
+      "month_prior_count": 2
     },
     "sources": [
       {
@@ -207,9 +243,9 @@
         "环绕声",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
+      "review_score": "特别好评",
       "review_ratio": 82.0,
-      "review_total": 17998,
+      "review_total": 18459,
       "developer": "lemorion_1224",
       "publisher": "lemorion_1224",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
@@ -244,7 +280,7 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 27.55,
+      "score": 38.77,
       "fact_summary": "Road to Empress Ⅱ 今日观测峰值 30,357，较过往最高峰值提升 +6%，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 30357,
@@ -255,13 +291,19 @@
         "scoring_peak": 30357,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 10.62,
+        "peak_score": 21.85,
+        "raw_record_growth_score": 2.07,
+        "growth_score_multiplier": 1.0,
         "record_growth_score": 2.07,
         "days_seen_score": 2.86,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 27.55,
+        "score_before_multiplier": 38.77,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
         "review_ratio": 83.0,
         "review_total": 7161,
@@ -269,7 +311,14 @@
         "comeback_gap_days": 4,
         "is_new_release": true,
         "release_age_days": 7,
+        "steam_release_age_days": 7,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "冒险",
           "休闲",
@@ -287,6 +336,11 @@
             "peak": 30357
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -337,228 +391,7 @@
       "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 25.83,
-      "fact_summary": "Lost Castle 2 今日观测峰值 28,725，较过往最高峰值提升 +13%，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 28725,
-        "previous_peak": 25441,
-        "previous_record_peak": 25441,
-        "growth_rate": 0.1291,
-        "record_growth_rate": 0.1291,
-        "scoring_peak": 28725,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 10.05,
-        "record_growth_score": 4.52,
-        "days_seen_score": 5.71,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 32.29,
-        "score_multiplier": 0.8,
-        "score_multiplier_reasons": [
-          "cumulative_star_1x"
-        ],
-        "cumulative_star_count": 1,
-        "review_ratio": 78.0,
-        "review_total": 12085,
-        "days_seen": 4,
-        "comeback_gap_days": 2,
-        "is_new_release": true,
-        "release_age_days": 5,
-        "is_comeback_age": false,
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "角色扮演"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-11",
-            "peak": 6290
-          },
-          {
-            "date": "2026-06-13",
-            "peak": 21326
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 25441
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 28725
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/2445690"
-        }
-      ],
-      "game": {
-        "slug": "lost-castle-2",
-        "appid": "2445690",
-        "name": "Lost Castle 2",
-        "name_cn": null,
-        "description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
-        "release_date": "2026-06-10",
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "角色扮演"
-        ],
-        "tags": [
-          "单人",
-          "多人",
-          "合作",
-          "在线合作",
-          "局域网合作",
-          "同屏/分屏合作",
-          "同屏/分屏",
-          "Steam 成就",
-          "部分支持控制器",
-          "Steam 云",
-          "统计数据",
-          "远程同乐",
-          "家庭共享"
-        ],
-        "review_score": "Mostly Positive",
-        "review_ratio": 78.0,
-        "review_total": 12085,
-        "developer": "Hunter Studio",
-        "publisher": "Hunter Studio",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203",
-        "steam_url": "https://store.steampowered.com/app/2445690",
-        "trend": [
-          {
-            "date": "2026-06-11",
-            "peak": 6290
-          },
-          {
-            "date": "2026-06-13",
-            "peak": 21326
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 25441
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 28725
-          }
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 24.73,
-      "fact_summary": "SpaceCraft 今日观测峰值 7,707，较过往最高峰值提升 +16%，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 7707,
-        "previous_peak": 6620,
-        "previous_record_peak": 6620,
-        "growth_rate": 0.1642,
-        "record_growth_rate": 0.1642,
-        "scoring_peak": 7707,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 2.7,
-        "record_growth_score": 5.75,
-        "days_seen_score": 4.29,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 24.73,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "cumulative_star_count": 0,
-        "review_ratio": 69.0,
-        "review_total": 1649,
-        "days_seen": 3,
-        "comeback_gap_days": 1,
-        "is_new_release": true,
-        "release_age_days": 4,
-        "is_comeback_age": false,
-        "genres": [
-          "冒险",
-          "独立",
-          "大型多人在线",
-          "模拟",
-          "抢先体验"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-13",
-            "peak": 5241
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 6620
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 7707
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/3276050"
-        }
-      ],
-      "game": {
-        "slug": "spacecraft",
-        "appid": "3276050",
-        "name": "SpaceCraft",
-        "name_cn": null,
-        "description": "宇宙在你掌控之中！《星际征程》是一款太空探索与建造的在线游戏。在浩瀚星际中穿梭探险，探索无数恒星和行星，采集和生产资源，设计并建造飞船，自动化管理行星基地和星际物流，展开贸易与合作。",
-        "release_date": "2026-06-11",
-        "genres": [
-          "冒险",
-          "独立",
-          "大型多人在线",
-          "模拟",
-          "抢先体验"
-        ],
-        "tags": [
-          "单人",
-          "多人",
-          "大型多人在线",
-          "合作",
-          "在线合作",
-          "应用内购买"
-        ],
-        "review_score": "Mixed",
-        "review_ratio": 69.0,
-        "review_total": 1649,
-        "developer": "Shiro Games",
-        "publisher": "Shiro Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3276050/5c3fb496686b81ad694e250a3ac6707bde7372db/header_alt_assets_1_schinese.jpg?t=1781191112",
-        "steam_url": "https://store.steampowered.com/app/3276050",
-        "trend": [
-          {
-            "date": "2026-06-13",
-            "peak": 5241
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 6620
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 7707
-          }
-        ]
-      }
-    },
-    {
-      "rank": 5,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 23.88,
+      "score": 37.57,
       "fact_summary": "Solarpunk 今日观测峰值 9,445，未超过过往最高峰值 10,192，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 9445,
@@ -569,21 +402,34 @@
         "scoring_peak": 9445,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 3.31,
+        "peak_score": 17.0,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.9445,
         "record_growth_score": 0.0,
         "days_seen_score": 8.57,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 23.88,
+        "score_before_multiplier": 37.57,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
         "review_ratio": 82.0,
-        "review_total": 2477,
+        "review_total": 2485,
         "days_seen": 6,
         "comeback_gap_days": 2,
         "is_new_release": true,
         "release_age_days": 7,
+        "steam_release_age_days": 7,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "冒险",
           "独立",
@@ -615,6 +461,11 @@
             "peak": 9445
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -647,9 +498,9 @@
           "Steam 云",
           "家庭共享"
         ],
-        "review_score": "Very Positive",
+        "review_score": "特别好评",
         "review_ratio": 82.0,
-        "review_total": 2477,
+        "review_total": 2485,
         "developer": "Cyberwave",
         "publisher": "rokaplay, Metaroot",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805110/d70ac947ca77bdf9b5a1a3ca2bb03737471c9d1e/header_schinese.jpg?t=1781774673",
@@ -678,6 +529,224 @@
           {
             "date": "2026-06-15",
             "peak": 9445
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 35.38,
+      "fact_summary": "Burglin' Gnomes 今日观测峰值 9,812，未超过过往最高峰值 9,861，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 9812,
+        "previous_peak": 9861,
+        "previous_record_peak": 9861,
+        "growth_rate": -0.005,
+        "record_growth_rate": -0.005,
+        "scoring_peak": 9812,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 17.66,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.9812,
+        "record_growth_score": 0.0,
+        "days_seen_score": 5.71,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 35.38,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 85.0,
+        "review_total": 2587,
+        "days_seen": 4,
+        "comeback_gap_days": 2,
+        "is_new_release": true,
+        "release_age_days": 5,
+        "steam_release_age_days": 5,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 9861
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 9415
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 9792
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 9812
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/3844970"
+        }
+      ],
+      "game": {
+        "slug": "burglin-gnomes",
+        "appid": "3844970",
+        "name": "Burglin' Gnomes",
+        "name_cn": null,
+        "description": "这是一款在线合作游戏，你将化身为一只小地精，闯入民宅制造混乱。躲避各种危险，改造偷来的家居物品，通过完成任务满足地精王的要求。制作装备并升级家园——让任务越做越顺手，捣蛋越来越成功。",
+        "release_date": "2026-06-10",
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "无需应对快速反应事件",
+          "立体声",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "特别好评",
+        "review_ratio": 85.0,
+        "review_total": 2587,
+        "developer": "Fobri",
+        "publisher": "Fobri",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d44e878d08426747cab87cd465ad1667fba5a6f8/header_schinese.jpg?t=1781100001",
+        "steam_url": "https://store.steampowered.com/app/3844970",
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 9861
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 9415
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 9792
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 9812
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 35.27,
+      "fact_summary": "Road to Empress Ⅱ 今日观测峰值 30,357，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 30357,
+        "previous_peak": 0,
+        "previous_record_peak": 0,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 30357,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 21.85,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 35.27,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 82.0,
+        "review_total": 5484,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "release_age_days": 7,
+        "steam_release_age_days": 7,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-15",
+            "peak": 30357
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
+      },
+      "sources": [],
+      "game": {
+        "slug": "road-to-empress",
+        "appid": null,
+        "name": "Road to Empress Ⅱ",
+        "name_cn": null,
+        "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
+        "release_date": "2026-06-08",
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "tags": [],
+        "review_score": "特别好评",
+        "review_ratio": 82.0,
+        "review_total": 5484,
+        "developer": null,
+        "publisher": null,
+        "cover_image_url": null,
+        "steam_url": null,
+        "trend": [
+          {
+            "date": "2026-06-15",
+            "peak": 30357
           }
         ]
       }

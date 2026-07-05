@@ -10,118 +10,117 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 20.91,
-    "fact_summary": "The Adventures of Elliot: The Millennium Tales 今日观测峰值 5,035，未超过过往最高峰值 7,171，被识别为「新作起量」。",
+    "score": 39.18,
+    "fact_summary": "BOMBANANA! Demo 今日观测峰值 10,343，较过往最高峰值提升 +14%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 5035,
-      "previous_peak": 7171,
-      "previous_record_peak": 7171,
-      "growth_rate": -0.2979,
-      "record_growth_rate": -0.2979,
-      "scoring_peak": 5035,
+      "current_peak": 10343,
+      "previous_peak": 9088,
+      "previous_record_peak": 9088,
+      "growth_rate": 0.1381,
+      "record_growth_rate": 0.1381,
+      "scoring_peak": 10343,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 1.76,
-      "record_growth_score": 0.0,
-      "days_seen_score": 7.14,
+      "peak_score": 18.06,
+      "raw_record_growth_score": 4.83,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 4.83,
+      "days_seen_score": 4.29,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 20.91,
+      "score_before_multiplier": 39.18,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "monthly_star_count": 0,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
       "cumulative_star_count": 0,
-      "review_ratio": 70.0,
-      "review_total": 871,
-      "days_seen": 5,
-      "comeback_gap_days": 1,
+      "review_ratio": 98.0,
+      "review_total": 1498,
+      "days_seen": 3,
+      "comeback_gap_days": 0,
       "is_new_release": true,
-      "release_age_days": 5,
+      "release_age_days": 8,
+      "steam_release_age_days": 8,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
       "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
-        "角色扮演"
+        "休闲",
+        "独立",
+        "策略"
       ],
       "trend": [
         {
-          "date": "2026-06-19",
-          "peak": 4813
-        },
-        {
-          "date": "2026-06-20",
-          "peak": 6710
-        },
-        {
           "date": "2026-06-21",
-          "peak": 7171
+          "peak": 9088
         },
         {
           "date": "2026-06-22",
-          "peak": 7092
+          "peak": 6328
         },
         {
           "date": "2026-06-23",
-          "peak": 5035
+          "peak": 10343
         }
       ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "month_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/3483510"
+        "url": "https://store.steampowered.com/app/4747510"
       }
     ],
     "game": {
-      "slug": "the-adventures-of-elliot-the-millennium-tales",
-      "appid": "3483510",
-      "name": "The Adventures of Elliot: The Millennium Tales",
+      "slug": "bombanana-demo",
+      "appid": "4747510",
+      "name": "BOMBANANA! Demo",
       "name_cn": null,
-      "description": "融合像素图与3DCG的“HD-2D”系列首度推出全新动作RPG！",
-      "release_date": "2026-06-18",
+      "description": "你们是一支由三只猴子组成的3人拆弹小队：盲猴、聋猴和哑猴。在你们改造成移动拆弹工坊的小型厢式车里，你们必须在有限时间和有限沟通条件下，在炸弹爆炸前完成拆除！",
+      "release_date": "2026-06-15",
       "genres": [
-        "动作",
-        "冒险",
-        "角色扮演"
+        "休闲",
+        "独立",
+        "策略"
       ],
       "tags": [
-        "单人",
         "多人",
-        "Steam 成就",
-        "完全支持控制器",
-        "Steam 集换式卡牌",
-        "自定义音量控制",
-        "可调整难度",
+        "合作",
+        "在线合作",
+        "游戏试用版",
+        "视角舒适度",
         "无需应对快速反应事件",
-        "立体声",
-        "Steam 云",
-        "家庭共享"
+        "随时保存",
+        "立体声"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 70.0,
-      "review_total": 871,
-      "developer": "Square Enix, Claytechworks",
-      "publisher": "Square Enix",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1781812674",
-      "steam_url": "https://store.steampowered.com/app/3483510",
+      "review_score": "好评如潮",
+      "review_ratio": 98.0,
+      "review_total": 1498,
+      "developer": "Lefto Studio",
+      "publisher": "Lefto Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747510/54d624f1d6ea0b30bafb736ef940bb6b78f4ba78/header.jpg?t=1782230961",
+      "steam_url": "https://store.steampowered.com/app/4747510",
       "trend": [
         {
-          "date": "2026-06-19",
-          "peak": 4813
-        },
-        {
-          "date": "2026-06-20",
-          "peak": 6710
-        },
-        {
           "date": "2026-06-21",
-          "peak": 7171
+          "peak": 9088
         },
         {
           "date": "2026-06-22",
-          "peak": 7092
+          "peak": 6328
         },
         {
           "date": "2026-06-23",
-          "peak": 5035
+          "peak": 10343
         }
       ]
     }
@@ -130,118 +129,117 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 20.91,
-    "fact_summary": "The Adventures of Elliot: The Millennium Tales 今日观测峰值 5,035，未超过过往最高峰值 7,171，被识别为「新作起量」。",
+    "score": 39.18,
+    "fact_summary": "BOMBANANA! Demo 今日观测峰值 10,343，较过往最高峰值提升 +14%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 5035,
-      "previous_peak": 7171,
-      "previous_record_peak": 7171,
-      "growth_rate": -0.2979,
-      "record_growth_rate": -0.2979,
-      "scoring_peak": 5035,
+      "current_peak": 10343,
+      "previous_peak": 9088,
+      "previous_record_peak": 9088,
+      "growth_rate": 0.1381,
+      "record_growth_rate": 0.1381,
+      "scoring_peak": 10343,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 1.76,
-      "record_growth_score": 0.0,
-      "days_seen_score": 7.14,
+      "peak_score": 18.06,
+      "raw_record_growth_score": 4.83,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 4.83,
+      "days_seen_score": 4.29,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 20.91,
+      "score_before_multiplier": 39.18,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "monthly_star_count": 0,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
       "cumulative_star_count": 0,
-      "review_ratio": 70.0,
-      "review_total": 871,
-      "days_seen": 5,
-      "comeback_gap_days": 1,
+      "review_ratio": 98.0,
+      "review_total": 1498,
+      "days_seen": 3,
+      "comeback_gap_days": 0,
       "is_new_release": true,
-      "release_age_days": 5,
+      "release_age_days": 8,
+      "steam_release_age_days": 8,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
       "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
-        "角色扮演"
+        "休闲",
+        "独立",
+        "策略"
       ],
       "trend": [
         {
-          "date": "2026-06-19",
-          "peak": 4813
-        },
-        {
-          "date": "2026-06-20",
-          "peak": 6710
-        },
-        {
           "date": "2026-06-21",
-          "peak": 7171
+          "peak": 9088
         },
         {
           "date": "2026-06-22",
-          "peak": 7092
+          "peak": 6328
         },
         {
           "date": "2026-06-23",
-          "peak": 5035
+          "peak": 10343
         }
       ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "month_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/3483510"
+        "url": "https://store.steampowered.com/app/4747510"
       }
     ],
     "game": {
-      "slug": "the-adventures-of-elliot-the-millennium-tales",
-      "appid": "3483510",
-      "name": "The Adventures of Elliot: The Millennium Tales",
+      "slug": "bombanana-demo",
+      "appid": "4747510",
+      "name": "BOMBANANA! Demo",
       "name_cn": null,
-      "description": "融合像素图与3DCG的“HD-2D”系列首度推出全新动作RPG！",
-      "release_date": "2026-06-18",
+      "description": "你们是一支由三只猴子组成的3人拆弹小队：盲猴、聋猴和哑猴。在你们改造成移动拆弹工坊的小型厢式车里，你们必须在有限时间和有限沟通条件下，在炸弹爆炸前完成拆除！",
+      "release_date": "2026-06-15",
       "genres": [
-        "动作",
-        "冒险",
-        "角色扮演"
+        "休闲",
+        "独立",
+        "策略"
       ],
       "tags": [
-        "单人",
         "多人",
-        "Steam 成就",
-        "完全支持控制器",
-        "Steam 集换式卡牌",
-        "自定义音量控制",
-        "可调整难度",
+        "合作",
+        "在线合作",
+        "游戏试用版",
+        "视角舒适度",
         "无需应对快速反应事件",
-        "立体声",
-        "Steam 云",
-        "家庭共享"
+        "随时保存",
+        "立体声"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 70.0,
-      "review_total": 871,
-      "developer": "Square Enix, Claytechworks",
-      "publisher": "Square Enix",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1781812674",
-      "steam_url": "https://store.steampowered.com/app/3483510",
+      "review_score": "好评如潮",
+      "review_ratio": 98.0,
+      "review_total": 1498,
+      "developer": "Lefto Studio",
+      "publisher": "Lefto Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747510/54d624f1d6ea0b30bafb736ef940bb6b78f4ba78/header.jpg?t=1782230961",
+      "steam_url": "https://store.steampowered.com/app/4747510",
       "trend": [
         {
-          "date": "2026-06-19",
-          "peak": 4813
-        },
-        {
-          "date": "2026-06-20",
-          "peak": 6710
-        },
-        {
           "date": "2026-06-21",
-          "peak": 7171
+          "peak": 9088
         },
         {
           "date": "2026-06-22",
-          "peak": 7092
+          "peak": 6328
         },
         {
           "date": "2026-06-23",
-          "peak": 5035
+          "peak": 10343
         }
       ]
     }
@@ -252,108 +250,7 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 19.6,
-      "fact_summary": "BOMBANANA! Demo 今日观测峰值 9,119，较过往最高峰值提升 +0%，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 9119,
-        "previous_peak": 9088,
-        "previous_record_peak": 9088,
-        "growth_rate": 0.0034,
-        "record_growth_rate": 0.0034,
-        "scoring_peak": 9119,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 3.19,
-        "record_growth_score": 0.12,
-        "days_seen_score": 4.29,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 19.6,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "cumulative_star_count": 0,
-        "review_ratio": 98.0,
-        "review_total": 951,
-        "days_seen": 3,
-        "comeback_gap_days": 0,
-        "is_new_release": true,
-        "release_age_days": 8,
-        "is_comeback_age": false,
-        "genres": [
-          "休闲",
-          "独立",
-          "策略"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-21",
-            "peak": 9088
-          },
-          {
-            "date": "2026-06-22",
-            "peak": 6328
-          },
-          {
-            "date": "2026-06-23",
-            "peak": 9119
-          }
-        ]
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/4747510"
-        }
-      ],
-      "game": {
-        "slug": "bombanana-demo",
-        "appid": "4747510",
-        "name": "BOMBANANA! Demo",
-        "name_cn": null,
-        "description": "你们是一支由三只猴子组成的3人拆弹小队：盲猴、聋猴和哑猴。在你们改造成移动拆弹工坊的小型厢式车里，你们必须在有限时间和有限沟通条件下，在炸弹爆炸前完成拆除！",
-        "release_date": "2026-06-15",
-        "genres": [
-          "休闲",
-          "独立",
-          "策略"
-        ],
-        "tags": [
-          "多人",
-          "合作",
-          "在线合作",
-          "游戏试用版",
-          "视角舒适度",
-          "无需应对快速反应事件",
-          "随时保存",
-          "立体声"
-        ],
-        "review_score": "Overwhelmingly Positive",
-        "review_ratio": 98.0,
-        "review_total": 951,
-        "developer": "Lefto Studio",
-        "publisher": "Lefto Studio",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747510/54d624f1d6ea0b30bafb736ef940bb6b78f4ba78/header.jpg?t=1781959934",
-        "steam_url": "https://store.steampowered.com/app/4747510",
-        "trend": [
-          {
-            "date": "2026-06-21",
-            "peak": 9088
-          },
-          {
-            "date": "2026-06-22",
-            "peak": 6328
-          },
-          {
-            "date": "2026-06-23",
-            "peak": 9119
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 18.92,
+      "score": 32.51,
       "fact_summary": "Sand 今日观测峰值 15,703，首次进入当前观察窗口，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 15703,
@@ -364,21 +261,34 @@
         "scoring_peak": 15703,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 5.5,
+        "peak_score": 19.08,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
         "record_growth_score": 0.0,
         "days_seen_score": 1.43,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 18.92,
+        "score_before_multiplier": 32.51,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
-        "review_ratio": 60.0,
-        "review_total": 863,
+        "review_ratio": 55.0,
+        "review_total": 7016,
         "days_seen": 1,
         "comeback_gap_days": 0,
         "is_new_release": true,
         "release_age_days": 1,
+        "steam_release_age_days": 1,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "动作",
           "冒险",
@@ -390,6 +300,11 @@
             "peak": 15703
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
@@ -417,11 +332,11 @@
           "家庭共享"
         ],
         "review_score": "Mixed",
-        "review_ratio": 60.0,
-        "review_total": 863,
+        "review_ratio": 55.0,
+        "review_total": 7016,
         "developer": "Hologryph, TowerHaus",
         "publisher": "tinyBuild",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782165837",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
         "steam_url": "https://store.steampowered.com/app/1431300",
         "trend": [
           {
@@ -432,37 +347,50 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 18.5,
-      "fact_summary": "The Scroll of Taiwu : Beyond The Dome 今日观测峰值 20,806，未超过过往最高峰值 51,039，被识别为「新作起量」。",
+      "score": 32.38,
+      "fact_summary": "The Scroll of Taiwu : Beyond The Dome 今日观测峰值 27,640，未超过过往最高峰值 51,039，被识别为「新作起量」。",
       "metrics": {
-        "current_peak": 20806,
+        "current_peak": 27640,
         "previous_peak": 51039,
         "previous_record_peak": 51039,
-        "growth_rate": -0.5924,
-        "record_growth_rate": -0.5924,
-        "scoring_peak": 20806,
+        "growth_rate": -0.4585,
+        "record_growth_rate": -0.4585,
+        "scoring_peak": 27640,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 7.28,
+        "peak_score": 21.33,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
         "record_growth_score": 0.0,
         "days_seen_score": 7.14,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 26.42,
-        "score_multiplier": 0.7,
+        "score_before_multiplier": 40.47,
+        "score_multiplier": 0.8,
         "score_multiplier_reasons": [
-          "cumulative_star_2x"
+          "monthly_star_1x"
         ],
-        "cumulative_star_count": 2,
+        "monthly_star_count": 1,
+        "prior_total_star_count": 1,
+        "total_star_count": 2,
+        "star_appearance_count": 2,
+        "cumulative_star_count": 1,
         "review_ratio": 68.0,
-        "review_total": 66226,
+        "review_total": 66410,
         "days_seen": 5,
         "comeback_gap_days": 1,
         "is_new_release": true,
         "release_age_days": 7,
+        "steam_release_age_days": 7,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
         "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
         "genres": [
           "冒险",
           "休闲",
@@ -485,13 +413,18 @@
           },
           {
             "date": "2026-06-22",
-            "peak": 22752
+            "peak": 29493
           },
           {
             "date": "2026-06-23",
-            "peak": 20806
+            "peak": 27640
           }
         ]
+      },
+      "star_appearance": {
+        "count": 2,
+        "prior_count": 1,
+        "month_prior_count": 1
       },
       "sources": [
         {
@@ -520,9 +453,9 @@
           "在平板上远程畅玩",
           "家庭共享"
         ],
-        "review_score": "Mixed",
+        "review_score": "褒贬不一",
         "review_ratio": 68.0,
-        "review_total": 66226,
+        "review_total": 66410,
         "developer": "ConchShip Games",
         "publisher": "ConchShip Games",
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782113702",
@@ -542,119 +475,257 @@
           },
           {
             "date": "2026-06-22",
-            "peak": 22752
+            "peak": 29493
           },
           {
             "date": "2026-06-23",
-            "peak": 20806
+            "peak": 27640
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 28.21,
+      "fact_summary": "The Adventures of Elliot: The Millennium Tales 今日观测峰值 5,035，未超过过往最高峰值 7,171，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 5035,
+        "previous_peak": 7171,
+        "previous_record_peak": 7171,
+        "growth_rate": -0.2979,
+        "record_growth_rate": -0.2979,
+        "scoring_peak": 5035,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 9.06,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.5035,
+        "record_growth_score": 0.0,
+        "days_seen_score": 7.14,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 28.21,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 77.0,
+        "review_total": 1670,
+        "days_seen": 5,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 5,
+        "steam_release_age_days": 5,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-19",
+            "peak": 4813
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 6710
+          },
+          {
+            "date": "2026-06-21",
+            "peak": 7171
+          },
+          {
+            "date": "2026-06-22",
+            "peak": 7092
+          },
+          {
+            "date": "2026-06-23",
+            "peak": 5035
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/3483510"
+        }
+      ],
+      "game": {
+        "slug": "the-adventures-of-elliot-the-millennium-tales",
+        "appid": "3483510",
+        "name": "The Adventures of Elliot: The Millennium Tales",
+        "name_cn": null,
+        "description": "融合像素图与3DCG的“HD-2D”系列首度推出全新动作RPG！",
+        "release_date": "2026-06-18",
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "Steam 成就",
+          "完全支持控制器",
+          "Steam 集换式卡牌",
+          "自定义音量控制",
+          "可调整难度",
+          "推荐使用手柄",
+          "无需应对快速反应事件",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "立体声",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Mostly Positive",
+        "review_ratio": 77.0,
+        "review_total": 1670,
+        "developer": "Square Enix, Claytechworks",
+        "publisher": "Square Enix",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1782353681",
+        "steam_url": "https://store.steampowered.com/app/3483510",
+        "trend": [
+          {
+            "date": "2026-06-19",
+            "peak": 4813
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 6710
+          },
+          {
+            "date": "2026-06-21",
+            "peak": 7171
+          },
+          {
+            "date": "2026-06-22",
+            "peak": 7092
+          },
+          {
+            "date": "2026-06-23",
+            "peak": 5035
           }
         ]
       }
     },
     {
       "rank": 5,
-      "type": "sustained_growth",
-      "label": "持续增长",
-      "score": 12.63,
-      "fact_summary": "Zenless Zone Zero 今日观测峰值 11,596，未超过过往最高峰值 13,429，被识别为「持续增长」。",
+      "type": "comeback",
+      "label": "老游戏回归",
+      "score": 17.88,
+      "fact_summary": "Fellowship 今日观测峰值 6,915，首次进入当前观察窗口，被识别为「老游戏回归」。",
       "metrics": {
-        "current_peak": 11596,
-        "previous_peak": 13429,
-        "previous_record_peak": 13429,
-        "growth_rate": -0.1365,
-        "record_growth_rate": -0.1365,
-        "scoring_peak": 11596,
+        "current_peak": 6915,
+        "previous_peak": 0,
+        "previous_record_peak": 0,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 6915,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 4.06,
+        "peak_score": 12.45,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.6915,
         "record_growth_score": 0.0,
-        "days_seen_score": 8.57,
-        "signal_type_score": 0.0,
-        "score_before_multiplier": 12.63,
+        "days_seen_score": 1.43,
+        "signal_type_score": 4.0,
+        "score_before_multiplier": 17.88,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
+        "monthly_star_count": 0,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
         "cumulative_star_count": 0,
-        "review_ratio": 87.0,
-        "review_total": 6568,
-        "days_seen": 6,
-        "comeback_gap_days": 1,
+        "review_ratio": 75.0,
+        "review_total": 17040,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
         "is_new_release": false,
-        "release_age_days": null,
-        "is_comeback_age": false,
-        "genres": [],
+        "release_age_days": 250,
+        "steam_release_age_days": 250,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": true,
+        "comeback_reason": "generic",
+        "comeback_evidence": null,
+        "genres": [
+          "角色扮演",
+          "抢先体验"
+        ],
         "trend": [
           {
-            "date": "2026-06-17",
-            "peak": 13299
-          },
-          {
-            "date": "2026-06-19",
-            "peak": 12985
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 12474
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 13429
-          },
-          {
-            "date": "2026-06-22",
-            "peak": 13217
-          },
-          {
             "date": "2026-06-23",
-            "peak": 11596
+            "peak": 6915
           }
         ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "month_prior_count": 0
       },
       "sources": [
         {
           "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/4162040"
+          "url": "https://store.steampowered.com/app/2352620"
         }
       ],
       "game": {
-        "slug": "zenless-zone-zero",
-        "appid": "4162040",
-        "name": "Zenless Zone Zero",
+        "slug": "fellowship",
+        "appid": "2352620",
+        "name": "Fellowship",
         "name_cn": null,
-        "description": "",
-        "release_date": "",
-        "genres": [],
-        "tags": [],
-        "review_score": "Very Positive",
-        "review_ratio": 87.0,
-        "review_total": 6568,
-        "developer": "",
-        "publisher": "",
-        "cover_image_url": "",
-        "steam_url": "https://store.steampowered.com/app/4162040",
+        "description": "《秘境战盟》是一款多人在线地下城冒险游戏，背景设定在一个激动人心的奇幻世界中，拥有无限升级的地下城挑战。",
+        "release_date": "2025-10-16",
+        "genres": [
+          "角色扮演",
+          "抢先体验"
+        ],
+        "tags": [
+          "多人",
+          "合作",
+          "在线合作",
+          "应用内购买",
+          "可调整文字大小",
+          "视角舒适度",
+          "自定义音量控制",
+          "可调整难度",
+          "无需应对快速反应事件",
+          "立体声",
+          "家庭共享"
+        ],
+        "review_score": "多半好评",
+        "review_ratio": 75.0,
+        "review_total": 17040,
+        "developer": "Chief Rebel",
+        "publisher": "Coffee Stain Publishing, Arc Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2352620/84990f2cebb8a836229b318d194160d823d67cd8/header_alt_assets_2.jpg?t=1782140326",
+        "steam_url": "https://store.steampowered.com/app/2352620",
         "trend": [
           {
-            "date": "2026-06-17",
-            "peak": 13299
-          },
-          {
-            "date": "2026-06-19",
-            "peak": 12985
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 12474
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 13429
-          },
-          {
-            "date": "2026-06-22",
-            "peak": 13217
-          },
-          {
             "date": "2026-06-23",
-            "peak": 11596
+            "peak": 6915
           }
         ]
       }
