@@ -30,7 +30,9 @@
       "score_before_multiplier": 35.66,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "monthly_star_count": 0,
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
       "prior_total_star_count": 0,
       "total_star_count": 1,
       "star_appearance_count": 1,
@@ -98,7 +100,7 @@
     "star_appearance": {
       "count": 1,
       "prior_count": 0,
-      "month_prior_count": 0
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
@@ -199,7 +201,9 @@
       "score_before_multiplier": 35.66,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "monthly_star_count": 0,
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
       "prior_total_star_count": 0,
       "total_star_count": 1,
       "star_appearance_count": 1,
@@ -267,7 +271,7 @@
     "star_appearance": {
       "count": 1,
       "prior_count": 0,
-      "month_prior_count": 0
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
@@ -350,190 +354,6 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 34.72,
-      "fact_summary": "Lost Castle 2 今日观测峰值 28,005，未超过过往最高峰值 28,835，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 28005,
-        "previous_peak": 28835,
-        "previous_record_peak": 28835,
-        "growth_rate": -0.0288,
-        "record_growth_rate": -0.0288,
-        "scoring_peak": 28005,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 21.4,
-        "raw_record_growth_score": 0.0,
-        "growth_score_multiplier": 1.0,
-        "record_growth_score": 0.0,
-        "days_seen_score": 10.0,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 43.4,
-        "score_multiplier": 0.8,
-        "score_multiplier_reasons": [
-          "monthly_star_1x"
-        ],
-        "monthly_star_count": 1,
-        "prior_total_star_count": 1,
-        "total_star_count": 2,
-        "star_appearance_count": 2,
-        "cumulative_star_count": 1,
-        "review_ratio": 78.0,
-        "review_total": 12095,
-        "days_seen": 10,
-        "comeback_gap_days": 2,
-        "is_new_release": true,
-        "release_age_days": 12,
-        "steam_release_age_days": 12,
-        "release_age_basis": "steam",
-        "release_verification_required": false,
-        "release_verification": null,
-        "all_platform_release_date": null,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "角色扮演"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-11",
-            "peak": 6290
-          },
-          {
-            "date": "2026-06-13",
-            "peak": 21326
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 25441
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 28725
-          },
-          {
-            "date": "2026-06-16",
-            "peak": 28279
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 28835
-          },
-          {
-            "date": "2026-06-19",
-            "peak": 26464
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 25658
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 27061
-          },
-          {
-            "date": "2026-06-22",
-            "peak": 28005
-          }
-        ]
-      },
-      "star_appearance": {
-        "count": 2,
-        "prior_count": 1,
-        "month_prior_count": 1
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/2445690"
-        }
-      ],
-      "game": {
-        "slug": "lost-castle-2",
-        "appid": "2445690",
-        "name": "Lost Castle 2",
-        "name_cn": null,
-        "description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
-        "release_date": "2026-06-10",
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "角色扮演"
-        ],
-        "tags": [
-          "单人",
-          "多人",
-          "合作",
-          "在线合作",
-          "局域网合作",
-          "同屏/分屏合作",
-          "同屏/分屏",
-          "Steam 成就",
-          "部分支持控制器",
-          "Steam 云",
-          "统计数据",
-          "远程同乐",
-          "家庭共享"
-        ],
-        "review_score": "多半好评",
-        "review_ratio": 78.0,
-        "review_total": 12095,
-        "developer": "Hunter Studio",
-        "publisher": "Hunter Studio",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203",
-        "steam_url": "https://store.steampowered.com/app/2445690",
-        "trend": [
-          {
-            "date": "2026-06-11",
-            "peak": 6290
-          },
-          {
-            "date": "2026-06-13",
-            "peak": 21326
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 25441
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 28725
-          },
-          {
-            "date": "2026-06-16",
-            "peak": 28279
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 28835
-          },
-          {
-            "date": "2026-06-19",
-            "peak": 26464
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 25658
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 27061
-          },
-          {
-            "date": "2026-06-22",
-            "peak": 28005
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
-      "type": "new_release_rise",
-      "label": "新作起量",
       "score": 34.45,
       "fact_summary": "Road to Empress Ⅱ 今日观测峰值 26,001，首次进入当前观察窗口，被识别为「新作起量」。",
       "metrics": {
@@ -554,7 +374,9 @@
         "score_before_multiplier": 34.45,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 0,
         "total_star_count": 1,
         "star_appearance_count": 1,
@@ -590,7 +412,7 @@
       "star_appearance": {
         "count": 1,
         "prior_count": 0,
-        "month_prior_count": 0
+        "repeat_window_prior_count": 0
       },
       "sources": [],
       "game": {
@@ -624,7 +446,7 @@
       }
     },
     {
-      "rank": 4,
+      "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
       "score": 34.42,
@@ -647,9 +469,11 @@
         "score_before_multiplier": 43.02,
         "score_multiplier": 0.8,
         "score_multiplier_reasons": [
-          "monthly_star_1x"
+          "repeat_window_star_1x"
         ],
-        "monthly_star_count": 1,
+        "repeat_window_star_count": 1,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 1,
         "total_star_count": 2,
         "star_appearance_count": 2,
@@ -709,7 +533,7 @@
       "star_appearance": {
         "count": 2,
         "prior_count": 1,
-        "month_prior_count": 1
+        "repeat_window_prior_count": 1
       },
       "sources": [
         {
@@ -777,7 +601,7 @@
       }
     },
     {
-      "rank": 5,
+      "rank": 4,
       "type": "new_release_rise",
       "label": "新作起量",
       "score": 32.11,
@@ -800,7 +624,9 @@
         "score_before_multiplier": 32.11,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 0,
         "total_star_count": 1,
         "star_appearance_count": 1,
@@ -862,7 +688,7 @@
       "star_appearance": {
         "count": 1,
         "prior_count": 0,
-        "month_prior_count": 0
+        "repeat_window_prior_count": 0
       },
       "sources": [
         {
@@ -934,6 +760,181 @@
           {
             "date": "2026-06-22",
             "peak": 5615
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 31.47,
+      "fact_summary": "Burglin' Gnomes 今日观测峰值 5,259，未超过过往最高峰值 9,861，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 5259,
+        "previous_peak": 9861,
+        "previous_record_peak": 9861,
+        "growth_rate": -0.4667,
+        "record_growth_rate": -0.4667,
+        "scoring_peak": 5259,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 9.47,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.5259,
+        "record_growth_score": 0.0,
+        "days_seen_score": 10.0,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 31.47,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 85.0,
+        "review_total": 2587,
+        "days_seen": 10,
+        "comeback_gap_days": 2,
+        "is_new_release": true,
+        "release_age_days": 12,
+        "steam_release_age_days": 12,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 9861
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 9415
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 9792
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 9812
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 6810
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 6225
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 5231
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 5655
+          },
+          {
+            "date": "2026-06-21",
+            "peak": 5423
+          },
+          {
+            "date": "2026-06-22",
+            "peak": 5259
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "repeat_window_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/3844970"
+        }
+      ],
+      "game": {
+        "slug": "burglin-gnomes",
+        "appid": "3844970",
+        "name": "Burglin' Gnomes",
+        "name_cn": null,
+        "description": "这是一款在线合作游戏，你将化身为一只小地精，闯入民宅制造混乱。躲避各种危险，改造偷来的家居物品，通过完成任务满足地精王的要求。制作装备并升级家园——让任务越做越顺手，捣蛋越来越成功。",
+        "release_date": "2026-06-10",
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "无需应对快速反应事件",
+          "立体声",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "特别好评",
+        "review_ratio": 85.0,
+        "review_total": 2587,
+        "developer": "Fobri",
+        "publisher": "Fobri",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d44e878d08426747cab87cd465ad1667fba5a6f8/header_schinese.jpg?t=1781100001",
+        "steam_url": "https://store.steampowered.com/app/3844970",
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 9861
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 9415
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 9792
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 9812
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 6810
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 6225
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 5231
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 5655
+          },
+          {
+            "date": "2026-06-21",
+            "peak": 5423
+          },
+          {
+            "date": "2026-06-22",
+            "peak": 5259
           }
         ]
       }

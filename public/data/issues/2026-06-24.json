@@ -30,7 +30,9 @@
       "score_before_multiplier": 33.49,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "monthly_star_count": 0,
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
       "prior_total_star_count": 0,
       "total_star_count": 1,
       "star_appearance_count": 1,
@@ -68,7 +70,7 @@
     "star_appearance": {
       "count": 1,
       "prior_count": 0,
-      "month_prior_count": 0
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
@@ -138,7 +140,9 @@
       "score_before_multiplier": 33.49,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "monthly_star_count": 0,
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
       "prior_total_star_count": 0,
       "total_star_count": 1,
       "star_appearance_count": 1,
@@ -176,7 +180,7 @@
     "star_appearance": {
       "count": 1,
       "prior_count": 0,
-      "month_prior_count": 0
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
@@ -228,152 +232,6 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 32.32,
-      "fact_summary": "The Scroll of Taiwu : Beyond The Dome 今日观测峰值 19,695，未超过过往最高峰值 51,039，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 19695,
-        "previous_peak": 51039,
-        "previous_record_peak": 51039,
-        "growth_rate": -0.6141,
-        "record_growth_rate": -0.6141,
-        "scoring_peak": 19695,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 19.83,
-        "raw_record_growth_score": 0.0,
-        "growth_score_multiplier": 1.0,
-        "record_growth_score": 0.0,
-        "days_seen_score": 8.57,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 40.4,
-        "score_multiplier": 0.8,
-        "score_multiplier_reasons": [
-          "monthly_star_1x"
-        ],
-        "monthly_star_count": 1,
-        "prior_total_star_count": 1,
-        "total_star_count": 2,
-        "star_appearance_count": 2,
-        "cumulative_star_count": 1,
-        "review_ratio": 68.0,
-        "review_total": 66410,
-        "days_seen": 6,
-        "comeback_gap_days": 1,
-        "is_new_release": true,
-        "release_age_days": 8,
-        "steam_release_age_days": 8,
-        "release_age_basis": "steam",
-        "release_verification_required": false,
-        "release_verification": null,
-        "all_platform_release_date": null,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "策略"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-19",
-            "peak": 29261
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 43594
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 51039
-          },
-          {
-            "date": "2026-06-22",
-            "peak": 29493
-          },
-          {
-            "date": "2026-06-23",
-            "peak": 27640
-          },
-          {
-            "date": "2026-06-24",
-            "peak": 19695
-          }
-        ]
-      },
-      "star_appearance": {
-        "count": 2,
-        "prior_count": 1,
-        "month_prior_count": 1
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/838350"
-        }
-      ],
-      "game": {
-        "slug": "the-scroll-of-taiwu-beyond-the-dome",
-        "appid": "838350",
-        "name": "The Scroll of Taiwu : Beyond The Dome",
-        "name_cn": null,
-        "description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
-        "release_date": "2026-06-16",
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "策略"
-        ],
-        "tags": [
-          "单人",
-          "Steam 成就",
-          "Steam 创意工坊",
-          "在平板上远程畅玩",
-          "家庭共享"
-        ],
-        "review_score": "褒贬不一",
-        "review_ratio": 68.0,
-        "review_total": 66410,
-        "developer": "ConchShip Games",
-        "publisher": "ConchShip Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782113702",
-        "steam_url": "https://store.steampowered.com/app/838350",
-        "trend": [
-          {
-            "date": "2026-06-19",
-            "peak": 29261
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 43594
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 51039
-          },
-          {
-            "date": "2026-06-22",
-            "peak": 29493
-          },
-          {
-            "date": "2026-06-23",
-            "peak": 27640
-          },
-          {
-            "date": "2026-06-24",
-            "peak": 19695
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
-      "type": "new_release_rise",
-      "label": "新作起量",
       "score": 28.29,
       "fact_summary": "BOMBANANA! Demo 今日观测峰值 9,806，未超过过往最高峰值 10,343，被识别为「新作起量」。",
       "metrics": {
@@ -394,9 +252,11 @@
         "score_before_multiplier": 35.37,
         "score_multiplier": 0.8,
         "score_multiplier_reasons": [
-          "monthly_star_1x"
+          "repeat_window_star_1x"
         ],
-        "monthly_star_count": 1,
+        "repeat_window_star_count": 1,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 1,
         "total_star_count": 2,
         "star_appearance_count": 2,
@@ -442,7 +302,7 @@
       "star_appearance": {
         "count": 2,
         "prior_count": 1,
-        "month_prior_count": 1
+        "repeat_window_prior_count": 1
       },
       "sources": [
         {
@@ -500,6 +360,154 @@
       }
     },
     {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 28.28,
+      "fact_summary": "The Scroll of Taiwu : Beyond The Dome 今日观测峰值 19,695，未超过过往最高峰值 51,039，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 19695,
+        "previous_peak": 51039,
+        "previous_record_peak": 51039,
+        "growth_rate": -0.6141,
+        "record_growth_rate": -0.6141,
+        "scoring_peak": 19695,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 19.83,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
+        "record_growth_score": 0.0,
+        "days_seen_score": 8.57,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 40.4,
+        "score_multiplier": 0.7,
+        "score_multiplier_reasons": [
+          "repeat_window_star_2x"
+        ],
+        "repeat_window_star_count": 2,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 2,
+        "total_star_count": 3,
+        "star_appearance_count": 3,
+        "cumulative_star_count": 2,
+        "review_ratio": 68.0,
+        "review_total": 66410,
+        "days_seen": 6,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 8,
+        "steam_release_age_days": 8,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "策略"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-19",
+            "peak": 29261
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 43882
+          },
+          {
+            "date": "2026-06-21",
+            "peak": 51039
+          },
+          {
+            "date": "2026-06-22",
+            "peak": 29493
+          },
+          {
+            "date": "2026-06-23",
+            "peak": 27640
+          },
+          {
+            "date": "2026-06-24",
+            "peak": 19695
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 3,
+        "prior_count": 2,
+        "repeat_window_prior_count": 2
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/838350"
+        }
+      ],
+      "game": {
+        "slug": "the-scroll-of-taiwu-beyond-the-dome",
+        "appid": "838350",
+        "name": "The Scroll of Taiwu : Beyond The Dome",
+        "name_cn": null,
+        "description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
+        "release_date": "2026-06-16",
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "策略"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "Steam 创意工坊",
+          "在平板上远程畅玩",
+          "家庭共享"
+        ],
+        "review_score": "褒贬不一",
+        "review_ratio": 68.0,
+        "review_total": 66410,
+        "developer": "ConchShip Games",
+        "publisher": "ConchShip Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782113702",
+        "steam_url": "https://store.steampowered.com/app/838350",
+        "trend": [
+          {
+            "date": "2026-06-19",
+            "peak": 29261
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 43882
+          },
+          {
+            "date": "2026-06-21",
+            "peak": 51039
+          },
+          {
+            "date": "2026-06-22",
+            "peak": 29493
+          },
+          {
+            "date": "2026-06-23",
+            "peak": 27640
+          },
+          {
+            "date": "2026-06-24",
+            "peak": 19695
+          }
+        ]
+      }
+    },
+    {
       "rank": 4,
       "type": "comeback",
       "label": "老游戏回归",
@@ -523,7 +531,9 @@
         "score_before_multiplier": 17.12,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 0,
         "total_star_count": 1,
         "star_appearance_count": 1,
@@ -560,7 +570,7 @@
       "star_appearance": {
         "count": 1,
         "prior_count": 0,
-        "month_prior_count": 0
+        "repeat_window_prior_count": 0
       },
       "sources": [
         {

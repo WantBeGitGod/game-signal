@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "date": "2026-07-02",
-  "title": "07.02 今日之星",
+  "date": "2026-07-03",
+  "title": "07.03 今日之星",
   "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
   "status": "published",
   "hero_image": null,
@@ -10,24 +10,24 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 33.09,
-    "fact_summary": "Supermarket Chaos 今日观测峰值 3,440，较过往最高峰值提升 +235%，被识别为「新作起量」。",
+    "score": 24.65,
+    "fact_summary": "The Adventures of Elliot: The Millennium Tales 今日观测峰值 1,471，未超过过往最高峰值 7,171，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 3440,
-      "previous_peak": 1027,
-      "previous_record_peak": 1027,
-      "growth_rate": 2.3496,
-      "record_growth_rate": 2.3496,
-      "scoring_peak": 3440,
+      "current_peak": 1471,
+      "previous_peak": 7171,
+      "previous_record_peak": 7171,
+      "growth_rate": -0.7949,
+      "record_growth_rate": -0.7949,
+      "scoring_peak": 1471,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 6.19,
-      "raw_record_growth_score": 35.0,
-      "growth_score_multiplier": 0.344,
-      "record_growth_score": 12.04,
-      "days_seen_score": 2.86,
+      "peak_score": 2.65,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.1471,
+      "record_growth_score": 0.0,
+      "days_seen_score": 10.0,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 33.09,
+      "score_before_multiplier": 24.65,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -37,13 +37,13 @@
       "total_star_count": 1,
       "star_appearance_count": 1,
       "cumulative_star_count": 0,
-      "review_ratio": 88.0,
-      "review_total": 475,
-      "days_seen": 2,
-      "comeback_gap_days": 1,
+      "review_ratio": 77.0,
+      "review_total": 1670,
+      "days_seen": 8,
+      "comeback_gap_days": 6,
       "is_new_release": true,
-      "release_age_days": 3,
-      "steam_release_age_days": 3,
+      "release_age_days": 15,
+      "steam_release_age_days": 15,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -52,17 +52,42 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "独立",
-        "模拟"
+        "动作",
+        "冒险",
+        "角色扮演"
       ],
       "trend": [
         {
+          "date": "2026-06-19",
+          "peak": 4813
+        },
+        {
+          "date": "2026-06-20",
+          "peak": 6710
+        },
+        {
+          "date": "2026-06-21",
+          "peak": 7171
+        },
+        {
+          "date": "2026-06-22",
+          "peak": 7092
+        },
+        {
+          "date": "2026-06-23",
+          "peak": 5035
+        },
+        {
           "date": "2026-06-30",
-          "peak": 1027
+          "peak": 2141
         },
         {
           "date": "2026-07-02",
-          "peak": 3440
+          "peak": 1471
+        },
+        {
+          "date": "2026-07-03",
+          "peak": 1471
         }
       ]
     },
@@ -74,50 +99,77 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4800590"
+        "url": "https://store.steampowered.com/app/3483510"
       }
     ],
     "game": {
-      "slug": "supermarket-chaos",
-      "appid": "4800590",
-      "name": "Supermarket Chaos",
+      "slug": "the-adventures-of-elliot-the-millennium-tales",
+      "appid": "3483510",
+      "name": "The Adventures of Elliot: The Millennium Tales",
       "name_cn": null,
-      "description": "Supermarket Chaos 是一款治愈系整理模拟游戏，你将在杂乱的大型超市中整理 4,668 件商品。在轻松安静的氛围中，享受陈列带来的满足感。",
-      "release_date": "2026-06-29",
+      "description": "融合像素图与3DCG的“HD-2D”系列首度推出全新动作RPG！",
+      "release_date": "2026-06-18",
       "genres": [
-        "独立",
-        "模拟"
+        "动作",
+        "冒险",
+        "角色扮演"
       ],
       "tags": [
         "单人",
+        "多人",
         "Steam 成就",
         "完全支持控制器",
-        "视角舒适度",
+        "Steam 集换式卡牌",
         "自定义音量控制",
+        "可调整难度",
+        "推荐使用手柄",
         "无需应对快速反应事件",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "随时保存",
+        "立体声",
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 88.0,
-      "review_total": 475,
-      "developer": "BunnyHop",
-      "publisher": "BunnyHopHome",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1782778526",
-      "steam_url": "https://store.steampowered.com/app/4800590",
+      "review_score": "Mostly Positive",
+      "review_ratio": 77.0,
+      "review_total": 1670,
+      "developer": "Square Enix, Claytechworks",
+      "publisher": "Square Enix",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1782353681",
+      "steam_url": "https://store.steampowered.com/app/3483510",
       "trend": [
         {
+          "date": "2026-06-19",
+          "peak": 4813
+        },
+        {
+          "date": "2026-06-20",
+          "peak": 6710
+        },
+        {
+          "date": "2026-06-21",
+          "peak": 7171
+        },
+        {
+          "date": "2026-06-22",
+          "peak": 7092
+        },
+        {
+          "date": "2026-06-23",
+          "peak": 5035
+        },
+        {
           "date": "2026-06-30",
-          "peak": 1027
+          "peak": 2141
         },
         {
           "date": "2026-07-02",
-          "peak": 3440
+          "peak": 1471
+        },
+        {
+          "date": "2026-07-03",
+          "peak": 1471
         }
       ]
     }
@@ -126,24 +178,24 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 33.09,
-    "fact_summary": "Supermarket Chaos 今日观测峰值 3,440，较过往最高峰值提升 +235%，被识别为「新作起量」。",
+    "score": 24.65,
+    "fact_summary": "The Adventures of Elliot: The Millennium Tales 今日观测峰值 1,471，未超过过往最高峰值 7,171，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 3440,
-      "previous_peak": 1027,
-      "previous_record_peak": 1027,
-      "growth_rate": 2.3496,
-      "record_growth_rate": 2.3496,
-      "scoring_peak": 3440,
+      "current_peak": 1471,
+      "previous_peak": 7171,
+      "previous_record_peak": 7171,
+      "growth_rate": -0.7949,
+      "record_growth_rate": -0.7949,
+      "scoring_peak": 1471,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 6.19,
-      "raw_record_growth_score": 35.0,
-      "growth_score_multiplier": 0.344,
-      "record_growth_score": 12.04,
-      "days_seen_score": 2.86,
+      "peak_score": 2.65,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.1471,
+      "record_growth_score": 0.0,
+      "days_seen_score": 10.0,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 33.09,
+      "score_before_multiplier": 24.65,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -153,13 +205,13 @@
       "total_star_count": 1,
       "star_appearance_count": 1,
       "cumulative_star_count": 0,
-      "review_ratio": 88.0,
-      "review_total": 475,
-      "days_seen": 2,
-      "comeback_gap_days": 1,
+      "review_ratio": 77.0,
+      "review_total": 1670,
+      "days_seen": 8,
+      "comeback_gap_days": 6,
       "is_new_release": true,
-      "release_age_days": 3,
-      "steam_release_age_days": 3,
+      "release_age_days": 15,
+      "steam_release_age_days": 15,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -168,17 +220,42 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "独立",
-        "模拟"
+        "动作",
+        "冒险",
+        "角色扮演"
       ],
       "trend": [
         {
+          "date": "2026-06-19",
+          "peak": 4813
+        },
+        {
+          "date": "2026-06-20",
+          "peak": 6710
+        },
+        {
+          "date": "2026-06-21",
+          "peak": 7171
+        },
+        {
+          "date": "2026-06-22",
+          "peak": 7092
+        },
+        {
+          "date": "2026-06-23",
+          "peak": 5035
+        },
+        {
           "date": "2026-06-30",
-          "peak": 1027
+          "peak": 2141
         },
         {
           "date": "2026-07-02",
-          "peak": 3440
+          "peak": 1471
+        },
+        {
+          "date": "2026-07-03",
+          "peak": 1471
         }
       ]
     },
@@ -190,50 +267,77 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4800590"
+        "url": "https://store.steampowered.com/app/3483510"
       }
     ],
     "game": {
-      "slug": "supermarket-chaos",
-      "appid": "4800590",
-      "name": "Supermarket Chaos",
+      "slug": "the-adventures-of-elliot-the-millennium-tales",
+      "appid": "3483510",
+      "name": "The Adventures of Elliot: The Millennium Tales",
       "name_cn": null,
-      "description": "Supermarket Chaos 是一款治愈系整理模拟游戏，你将在杂乱的大型超市中整理 4,668 件商品。在轻松安静的氛围中，享受陈列带来的满足感。",
-      "release_date": "2026-06-29",
+      "description": "融合像素图与3DCG的“HD-2D”系列首度推出全新动作RPG！",
+      "release_date": "2026-06-18",
       "genres": [
-        "独立",
-        "模拟"
+        "动作",
+        "冒险",
+        "角色扮演"
       ],
       "tags": [
         "单人",
+        "多人",
         "Steam 成就",
         "完全支持控制器",
-        "视角舒适度",
+        "Steam 集换式卡牌",
         "自定义音量控制",
+        "可调整难度",
+        "推荐使用手柄",
         "无需应对快速反应事件",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "随时保存",
+        "立体声",
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 88.0,
-      "review_total": 475,
-      "developer": "BunnyHop",
-      "publisher": "BunnyHopHome",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1782778526",
-      "steam_url": "https://store.steampowered.com/app/4800590",
+      "review_score": "Mostly Positive",
+      "review_ratio": 77.0,
+      "review_total": 1670,
+      "developer": "Square Enix, Claytechworks",
+      "publisher": "Square Enix",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1782353681",
+      "steam_url": "https://store.steampowered.com/app/3483510",
       "trend": [
         {
+          "date": "2026-06-19",
+          "peak": 4813
+        },
+        {
+          "date": "2026-06-20",
+          "peak": 6710
+        },
+        {
+          "date": "2026-06-21",
+          "peak": 7171
+        },
+        {
+          "date": "2026-06-22",
+          "peak": 7092
+        },
+        {
+          "date": "2026-06-23",
+          "peak": 5035
+        },
+        {
           "date": "2026-06-30",
-          "peak": 1027
+          "peak": 2141
         },
         {
           "date": "2026-07-02",
-          "peak": 3440
+          "peak": 1471
+        },
+        {
+          "date": "2026-07-03",
+          "peak": 1471
         }
       ]
     }
@@ -244,167 +348,7 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 24.65,
-      "fact_summary": "The Adventures of Elliot: The Millennium Tales 今日观测峰值 1,471，未超过过往最高峰值 7,171，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 1471,
-        "previous_peak": 7171,
-        "previous_record_peak": 7171,
-        "growth_rate": -0.7949,
-        "record_growth_rate": -0.7949,
-        "scoring_peak": 1471,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 2.65,
-        "raw_record_growth_score": 0.0,
-        "growth_score_multiplier": 0.1471,
-        "record_growth_score": 0.0,
-        "days_seen_score": 10.0,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 24.65,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "repeat_window_star_count": 0,
-        "repeat_window_days": 30,
-        "repeat_window_max_wins": 3,
-        "prior_total_star_count": 0,
-        "total_star_count": 1,
-        "star_appearance_count": 1,
-        "cumulative_star_count": 0,
-        "review_ratio": 77.0,
-        "review_total": 1670,
-        "days_seen": 7,
-        "comeback_gap_days": 6,
-        "is_new_release": true,
-        "release_age_days": 14,
-        "steam_release_age_days": 14,
-        "release_age_basis": "steam",
-        "release_verification_required": false,
-        "release_verification": null,
-        "all_platform_release_date": null,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [
-          "动作",
-          "冒险",
-          "角色扮演"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-19",
-            "peak": 4813
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 6710
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 7171
-          },
-          {
-            "date": "2026-06-22",
-            "peak": 7092
-          },
-          {
-            "date": "2026-06-23",
-            "peak": 5035
-          },
-          {
-            "date": "2026-06-30",
-            "peak": 2141
-          },
-          {
-            "date": "2026-07-02",
-            "peak": 1471
-          }
-        ]
-      },
-      "star_appearance": {
-        "count": 1,
-        "prior_count": 0,
-        "repeat_window_prior_count": 0
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/3483510"
-        }
-      ],
-      "game": {
-        "slug": "the-adventures-of-elliot-the-millennium-tales",
-        "appid": "3483510",
-        "name": "The Adventures of Elliot: The Millennium Tales",
-        "name_cn": null,
-        "description": "融合像素图与3DCG的“HD-2D”系列首度推出全新动作RPG！",
-        "release_date": "2026-06-18",
-        "genres": [
-          "动作",
-          "冒险",
-          "角色扮演"
-        ],
-        "tags": [
-          "单人",
-          "多人",
-          "Steam 成就",
-          "完全支持控制器",
-          "Steam 集换式卡牌",
-          "自定义音量控制",
-          "可调整难度",
-          "推荐使用手柄",
-          "无需应对快速反应事件",
-          "DUALSHOCK 控制器支持",
-          "DUALSHOCK 控制器支持",
-          "DUALSHOCK 控制器支持",
-          "立体声",
-          "Steam 云",
-          "家庭共享"
-        ],
-        "review_score": "Mostly Positive",
-        "review_ratio": 77.0,
-        "review_total": 1670,
-        "developer": "Square Enix, Claytechworks",
-        "publisher": "Square Enix",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1782353681",
-        "steam_url": "https://store.steampowered.com/app/3483510",
-        "trend": [
-          {
-            "date": "2026-06-19",
-            "peak": 4813
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 6710
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 7171
-          },
-          {
-            "date": "2026-06-22",
-            "peak": 7092
-          },
-          {
-            "date": "2026-06-23",
-            "peak": 5035
-          },
-          {
-            "date": "2026-06-30",
-            "peak": 2141
-          },
-          {
-            "date": "2026-07-02",
-            "peak": 1471
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 22.06,
+      "score": 23.2,
       "fact_summary": "Orb of Creation 今日观测峰值 3,890，未超过过往最高峰值 5,626，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 3890,
@@ -419,9 +363,9 @@
         "raw_record_growth_score": 0.0,
         "growth_score_multiplier": 0.389,
         "record_growth_score": 0.0,
-        "days_seen_score": 8.57,
+        "days_seen_score": 10.0,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 27.57,
+        "score_before_multiplier": 29.0,
         "score_multiplier": 0.8,
         "score_multiplier_reasons": [
           "repeat_window_star_1x"
@@ -435,11 +379,11 @@
         "cumulative_star_count": 1,
         "review_ratio": 87.0,
         "review_total": 1925,
-        "days_seen": 6,
+        "days_seen": 7,
         "comeback_gap_days": 1,
         "is_new_release": true,
-        "release_age_days": 9,
-        "steam_release_age_days": 9,
+        "release_age_days": 10,
+        "steam_release_age_days": 10,
         "release_age_basis": "steam",
         "release_verification_required": false,
         "release_verification": null,
@@ -475,6 +419,10 @@
           },
           {
             "date": "2026-07-02",
+            "peak": 3890
+          },
+          {
+            "date": "2026-07-03",
             "peak": 3890
           }
         ]
@@ -539,6 +487,106 @@
           {
             "date": "2026-07-02",
             "peak": 3890
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 3890
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 22.27,
+      "fact_summary": "Avatar Legends: The Fighting Game  Playtest 今日观测峰值 3,014，较过往最高峰值提升 +19%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 3014,
+        "previous_peak": 2537,
+        "previous_record_peak": 2537,
+        "growth_rate": 0.188,
+        "record_growth_rate": 0.188,
+        "scoring_peak": 3014,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 5.43,
+        "raw_record_growth_score": 6.58,
+        "growth_score_multiplier": 0.3014,
+        "record_growth_score": 1.98,
+        "days_seen_score": 2.86,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 22.27,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 88.0,
+        "review_total": 24,
+        "days_seen": 2,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "release_age_days": 1,
+        "steam_release_age_days": 1,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [],
+        "trend": [
+          {
+            "date": "2026-07-02",
+            "peak": 2537
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 3014
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "repeat_window_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4180540"
+        }
+      ],
+      "game": {
+        "slug": "avatar-legends-the-fighting-game-playtest",
+        "appid": "4180540",
+        "name": "Avatar Legends: The Fighting Game  Playtest",
+        "name_cn": null,
+        "description": "",
+        "release_date": "2026-07-02",
+        "genres": [],
+        "tags": [],
+        "review_score": "Positive",
+        "review_ratio": 88.0,
+        "review_total": 24,
+        "developer": "",
+        "publisher": "",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4180540/21c6bc152f07569f7a4eca4ededbe0087e7cb90d/header.jpg?t=1783005096",
+        "steam_url": "https://store.steampowered.com/app/4180540",
+        "trend": [
+          {
+            "date": "2026-07-02",
+            "peak": 2537
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 3014
           }
         ]
       }
@@ -547,24 +595,24 @@
       "rank": 4,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 19.88,
-      "fact_summary": "Gloria Victis 今日观测峰值 2,783，较过往最高峰值提升 +0%，被识别为「新作起量」。",
+      "score": 21.3,
+      "fact_summary": "Gloria Victis 今日观测峰值 2,783，未超过过往最高峰值 2,783，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 2783,
-        "previous_peak": 2780,
-        "previous_record_peak": 2780,
-        "growth_rate": 0.0011,
-        "record_growth_rate": 0.0011,
+        "previous_peak": 2783,
+        "previous_record_peak": 2783,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
         "scoring_peak": 2783,
         "player_discount": 1.0,
         "discount_reasons": [],
         "peak_score": 5.01,
-        "raw_record_growth_score": 0.04,
+        "raw_record_growth_score": 0.0,
         "growth_score_multiplier": 0.2783,
-        "record_growth_score": 0.01,
-        "days_seen_score": 2.86,
+        "record_growth_score": 0.0,
+        "days_seen_score": 4.29,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 19.88,
+        "score_before_multiplier": 21.3,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
         "repeat_window_star_count": 0,
@@ -576,11 +624,11 @@
         "cumulative_star_count": 0,
         "review_ratio": 69.0,
         "review_total": 11326,
-        "days_seen": 2,
+        "days_seen": 3,
         "comeback_gap_days": 1,
         "is_new_release": true,
-        "release_age_days": 15,
-        "steam_release_age_days": 15,
+        "release_age_days": 16,
+        "steam_release_age_days": 16,
         "release_age_basis": "steam",
         "release_verification_required": false,
         "release_verification": null,
@@ -604,6 +652,10 @@
           },
           {
             "date": "2026-07-02",
+            "peak": 2783
+          },
+          {
+            "date": "2026-07-03",
             "peak": 2783
           }
         ]
@@ -663,6 +715,10 @@
           {
             "date": "2026-07-02",
             "peak": 2783
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 2783
           }
         ]
       }
@@ -671,7 +727,7 @@
       "rank": 5,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 19.19,
+      "score": 20.62,
       "fact_summary": "Angels Online Global 今日观测峰值 2,407，未超过过往最高峰值 2,679，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 2407,
@@ -686,9 +742,9 @@
         "raw_record_growth_score": 0.0,
         "growth_score_multiplier": 0.2407,
         "record_growth_score": 0.0,
-        "days_seen_score": 2.86,
+        "days_seen_score": 4.29,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 19.19,
+        "score_before_multiplier": 20.62,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
         "repeat_window_star_count": 0,
@@ -700,11 +756,11 @@
         "cumulative_star_count": 0,
         "review_ratio": 72.0,
         "review_total": 463,
-        "days_seen": 2,
+        "days_seen": 3,
         "comeback_gap_days": 1,
         "is_new_release": true,
-        "release_age_days": 15,
-        "steam_release_age_days": 15,
+        "release_age_days": 16,
+        "steam_release_age_days": 16,
         "release_age_basis": "steam",
         "release_verification_required": false,
         "release_verification": null,
@@ -725,6 +781,10 @@
           },
           {
             "date": "2026-07-02",
+            "peak": 2407
+          },
+          {
+            "date": "2026-07-03",
             "peak": 2407
           }
         ]
@@ -781,6 +841,10 @@
           },
           {
             "date": "2026-07-02",
+            "peak": 2407
+          },
+          {
+            "date": "2026-07-03",
             "peak": 2407
           }
         ]

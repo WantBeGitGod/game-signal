@@ -5,6 +5,8 @@
   "daily_star_review_release_age_days": 365,
   "daily_star_max_release_age_days": 730,
   "daily_star_repeat_block_release_age_days": 365,
+  "daily_star_repeat_window_days": 30,
+  "daily_star_repeat_window_max_wins": 3,
   "peak_score_weight": 35.0,
   "peak_score_cap": 100000,
   "low_peak_score_cap": 10000,
@@ -52,5 +54,8 @@
       "source": "Blizzard official launch schedule",
       "url": "https://news.blizzard.com/en-sg/diablo4/23954935/diablo-iv-launches-soon-here-s-what-you-need-to-know"
     }
+  },
+  "daily_star_game_aliases": {
+    "太吾绘卷：天幕心帷": "838350"
   }
 }

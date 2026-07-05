@@ -1,0 +1,29 @@
+{
+  "slug": "mortal-shell-ii-open-beta",
+  "appid": null,
+  "name": "Mortal Shell II - Open Beta",
+  "name_cn": null,
+  "description": "深入《致命躯壳 II》中满目疮痍的世界，并与先驱一同踏上征途。在本次限时公开测试中游玩游戏开场的三个小时内容，部分进度将能够继承至完整版。",
+  "release_date": "2026-06-05",
+  "genres": [
+    "动作"
+  ],
+  "tags": [],
+  "review_score": "特别好评",
+  "review_ratio": 93.0,
+  "review_total": 1102,
+  "developer": null,
+  "publisher": null,
+  "cover_image_url": null,
+  "steam_url": null,
+  "trend": [
+    {
+      "date": "2026-06-06",
+      "peak": 5276
+    },
+    {
+      "date": "2026-06-07",
+      "peak": 4952
+    }
+  ]
+}

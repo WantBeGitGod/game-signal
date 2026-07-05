@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "date": "2026-06-03",
-  "title": "06.03 今日之星",
+  "date": "2026-06-04",
+  "title": "06.04 今日之星",
   "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
   "status": "published",
   "hero_image": null,
@@ -10,40 +10,42 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 60.58,
-    "fact_summary": "TBH: Task Bar Hero 今日观测峰值 215,879，较过往最高峰值提升 +22%，被识别为「新作起量」。",
+    "score": 46.51,
+    "fact_summary": "TBH: Task Bar Hero 今日观测峰值 240,520，较过往最高峰值提升 +11%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 215879,
-      "previous_peak": 176259,
-      "previous_record_peak": 176259,
-      "growth_rate": 0.2248,
-      "record_growth_rate": 0.2248,
-      "scoring_peak": 215879,
+      "current_peak": 240520,
+      "previous_peak": 215879,
+      "previous_record_peak": 215879,
+      "growth_rate": 0.1141,
+      "record_growth_rate": 0.1141,
+      "scoring_peak": 240520,
       "player_discount": 1.0,
       "discount_reasons": [],
       "peak_score": 35.0,
-      "raw_record_growth_score": 7.87,
+      "raw_record_growth_score": 3.99,
       "growth_score_multiplier": 1.0,
-      "record_growth_score": 7.87,
-      "days_seen_score": 5.71,
+      "record_growth_score": 3.99,
+      "days_seen_score": 7.14,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 60.58,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
+      "score_before_multiplier": 58.14,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "review_ratio": 37.0,
       "review_total": 16555,
-      "days_seen": 4,
+      "days_seen": 5,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 7,
-      "steam_release_age_days": 7,
+      "release_age_days": 8,
+      "steam_release_age_days": 8,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -73,13 +75,17 @@
         {
           "date": "2026-06-03",
           "peak": 215879
+        },
+        {
+          "date": "2026-06-04",
+          "peak": 240520
         }
       ]
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
@@ -132,6 +138,10 @@
         {
           "date": "2026-06-03",
           "peak": 215879
+        },
+        {
+          "date": "2026-06-04",
+          "peak": 240520
         }
       ]
     }
@@ -140,40 +150,42 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 60.58,
-    "fact_summary": "TBH: Task Bar Hero 今日观测峰值 215,879，较过往最高峰值提升 +22%，被识别为「新作起量」。",
+    "score": 46.51,
+    "fact_summary": "TBH: Task Bar Hero 今日观测峰值 240,520，较过往最高峰值提升 +11%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 215879,
-      "previous_peak": 176259,
-      "previous_record_peak": 176259,
-      "growth_rate": 0.2248,
-      "record_growth_rate": 0.2248,
-      "scoring_peak": 215879,
+      "current_peak": 240520,
+      "previous_peak": 215879,
+      "previous_record_peak": 215879,
+      "growth_rate": 0.1141,
+      "record_growth_rate": 0.1141,
+      "scoring_peak": 240520,
       "player_discount": 1.0,
       "discount_reasons": [],
       "peak_score": 35.0,
-      "raw_record_growth_score": 7.87,
+      "raw_record_growth_score": 3.99,
       "growth_score_multiplier": 1.0,
-      "record_growth_score": 7.87,
-      "days_seen_score": 5.71,
+      "record_growth_score": 3.99,
+      "days_seen_score": 7.14,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 60.58,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
+      "score_before_multiplier": 58.14,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "review_ratio": 37.0,
       "review_total": 16555,
-      "days_seen": 4,
+      "days_seen": 5,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 7,
-      "steam_release_age_days": 7,
+      "release_age_days": 8,
+      "steam_release_age_days": 8,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -203,13 +215,17 @@
         {
           "date": "2026-06-03",
           "peak": 215879
+        },
+        {
+          "date": "2026-06-04",
+          "peak": 240520
         }
       ]
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
@@ -262,6 +278,10 @@
         {
           "date": "2026-06-03",
           "peak": 215879
+        },
+        {
+          "date": "2026-06-04",
+          "peak": 240520
         }
       ]
     }
@@ -272,24 +292,24 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 35.06,
-      "fact_summary": "Mina the Hollower 今日观测峰值 9,637，未超过过往最高峰值 12,916，被识别为「新作起量」。",
+      "score": 35.32,
+      "fact_summary": "Mina the Hollower 今日观测峰值 8,987，未超过过往最高峰值 12,916，被识别为「新作起量」。",
       "metrics": {
-        "current_peak": 9637,
+        "current_peak": 8987,
         "previous_peak": 12916,
         "previous_record_peak": 12916,
-        "growth_rate": -0.2539,
-        "record_growth_rate": -0.2539,
-        "scoring_peak": 9637,
+        "growth_rate": -0.3042,
+        "record_growth_rate": -0.3042,
+        "scoring_peak": 8987,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 17.35,
+        "peak_score": 16.18,
         "raw_record_growth_score": 0.0,
-        "growth_score_multiplier": 0.9637,
+        "growth_score_multiplier": 0.8987,
         "record_growth_score": 0.0,
-        "days_seen_score": 5.71,
+        "days_seen_score": 7.14,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 35.06,
+        "score_before_multiplier": 35.32,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
         "repeat_window_star_count": 0,
@@ -301,11 +321,11 @@
         "cumulative_star_count": 0,
         "review_ratio": 88.0,
         "review_total": 3824,
-        "days_seen": 4,
+        "days_seen": 5,
         "comeback_gap_days": 1,
         "is_new_release": true,
-        "release_age_days": 6,
-        "steam_release_age_days": 6,
+        "release_age_days": 7,
+        "steam_release_age_days": 7,
         "release_age_basis": "steam",
         "release_verification_required": false,
         "release_verification": null,
@@ -333,6 +353,10 @@
           {
             "date": "2026-06-03",
             "peak": 9637
+          },
+          {
+            "date": "2026-06-04",
+            "peak": 8987
           }
         ]
       },
@@ -393,6 +417,10 @@
           {
             "date": "2026-06-03",
             "peak": 9637
+          },
+          {
+            "date": "2026-06-04",
+            "peak": 8987
           }
         ]
       }
@@ -401,24 +429,24 @@
       "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 25.28,
-      "fact_summary": "Fortune Mill 今日观测峰值 6,583，首次进入当前观察窗口，被识别为「新作起量」。",
+      "score": 25.89,
+      "fact_summary": "Fortune Mill 今日观测峰值 6,129，未超过过往最高峰值 6,583，被识别为「新作起量」。",
       "metrics": {
-        "current_peak": 6583,
-        "previous_peak": 0,
-        "previous_record_peak": 0,
-        "growth_rate": 0.0,
-        "record_growth_rate": 0.0,
-        "scoring_peak": 6583,
+        "current_peak": 6129,
+        "previous_peak": 6583,
+        "previous_record_peak": 6583,
+        "growth_rate": -0.069,
+        "record_growth_rate": -0.069,
+        "scoring_peak": 6129,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 11.85,
+        "peak_score": 11.03,
         "raw_record_growth_score": 0.0,
-        "growth_score_multiplier": 0.6583,
+        "growth_score_multiplier": 0.6129,
         "record_growth_score": 0.0,
-        "days_seen_score": 1.43,
+        "days_seen_score": 2.86,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 25.28,
+        "score_before_multiplier": 25.89,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
         "repeat_window_star_count": 0,
@@ -430,11 +458,11 @@
         "cumulative_star_count": 0,
         "review_ratio": 83.0,
         "review_total": 1359,
-        "days_seen": 1,
+        "days_seen": 2,
         "comeback_gap_days": 0,
         "is_new_release": true,
-        "release_age_days": 1,
-        "steam_release_age_days": 1,
+        "release_age_days": 2,
+        "steam_release_age_days": 2,
         "release_age_basis": "steam",
         "release_verification_required": false,
         "release_verification": null,
@@ -451,6 +479,10 @@
           {
             "date": "2026-06-03",
             "peak": 6583
+          },
+          {
+            "date": "2026-06-04",
+            "peak": 6129
           }
         ]
       },
@@ -494,132 +526,36 @@
           {
             "date": "2026-06-03",
             "peak": 6583
+          },
+          {
+            "date": "2026-06-04",
+            "peak": 6129
           }
         ]
       }
     },
     {
       "rank": 4,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 25.02,
-      "fact_summary": "Fatekeeper 今日观测峰值 6,442，首次进入当前观察窗口，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 6442,
-        "previous_peak": 0,
-        "previous_record_peak": 0,
-        "growth_rate": 0.0,
-        "record_growth_rate": 0.0,
-        "scoring_peak": 6442,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 11.6,
-        "raw_record_growth_score": 0.0,
-        "growth_score_multiplier": 0.6442,
-        "record_growth_score": 0.0,
-        "days_seen_score": 1.43,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 25.02,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "repeat_window_star_count": 0,
-        "repeat_window_days": 30,
-        "repeat_window_max_wins": 3,
-        "prior_total_star_count": 0,
-        "total_star_count": 1,
-        "star_appearance_count": 1,
-        "cumulative_star_count": 0,
-        "review_ratio": 76.0,
-        "review_total": 3015,
-        "days_seen": 1,
-        "comeback_gap_days": 0,
-        "is_new_release": true,
-        "release_age_days": 1,
-        "steam_release_age_days": 1,
-        "release_age_basis": "steam",
-        "release_verification_required": false,
-        "release_verification": null,
-        "all_platform_release_date": null,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [
-          "动作",
-          "角色扮演",
-          "抢先体验"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-03",
-            "peak": 6442
-          }
-        ]
-      },
-      "star_appearance": {
-        "count": 1,
-        "prior_count": 0,
-        "repeat_window_prior_count": 0
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/2186990"
-        }
-      ],
-      "game": {
-        "slug": "fatekeeper",
-        "appid": "2186990",
-        "name": "Fatekeeper",
-        "name_cn": null,
-        "description": "踏入一个精心打造的世界，这里的残垣断壁低语诉说着昔日的剧变。精通剑术与魔法技艺，利用各种神器和咒语，并通过一系列的抉择，来开创你的道路，在这款第一人称角色扮演游戏中塑造属于你的传奇。",
-        "release_date": "2026-06-02",
-        "genres": [
-          "动作",
-          "角色扮演",
-          "抢先体验"
-        ],
-        "tags": [
-          "单人",
-          "Steam 云",
-          "家庭共享"
-        ],
-        "review_score": "多半好评",
-        "review_ratio": 76.0,
-        "review_total": 3015,
-        "developer": "Paraglacial",
-        "publisher": "THQ Nordic",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186990/4a98bac064656da89ddf8dedee1acd39405cac14/header_alt_assets_0.jpg?t=1780424266",
-        "steam_url": "https://store.steampowered.com/app/2186990",
-        "trend": [
-          {
-            "date": "2026-06-03",
-            "peak": 6442
-          }
-        ]
-      }
-    },
-    {
-      "rank": 5,
       "type": "content_update_comeback",
       "label": "内容更新回归",
-      "score": 23.55,
-      "fact_summary": "Escape the Backrooms 今日观测峰值 6,288，首次进入当前观察窗口，被识别为「内容更新回归」。",
+      "score": 24.8,
+      "fact_summary": "Escape the Backrooms 今日观测峰值 6,190，未超过过往最高峰值 6,288，被识别为「内容更新回归」。",
       "metrics": {
-        "current_peak": 6288,
-        "previous_peak": 0,
-        "previous_record_peak": 0,
-        "growth_rate": 0.0,
-        "record_growth_rate": 0.0,
-        "scoring_peak": 6288,
+        "current_peak": 6190,
+        "previous_peak": 6288,
+        "previous_record_peak": 6288,
+        "growth_rate": -0.0156,
+        "record_growth_rate": -0.0156,
+        "scoring_peak": 6190,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 11.32,
+        "peak_score": 11.14,
         "raw_record_growth_score": 0.0,
-        "growth_score_multiplier": 0.6288,
+        "growth_score_multiplier": 0.619,
         "record_growth_score": 0.0,
-        "days_seen_score": 1.43,
+        "days_seen_score": 2.86,
         "signal_type_score": 10.8,
-        "score_before_multiplier": 23.55,
+        "score_before_multiplier": 24.8,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
         "repeat_window_star_count": 0,
@@ -631,11 +567,11 @@
         "cumulative_star_count": 0,
         "review_ratio": 90.0,
         "review_total": 141212,
-        "days_seen": 1,
+        "days_seen": 2,
         "comeback_gap_days": 0,
         "is_new_release": false,
-        "release_age_days": 223,
-        "steam_release_age_days": 223,
+        "release_age_days": 224,
+        "steam_release_age_days": 224,
         "release_age_basis": "steam",
         "release_verification_required": false,
         "release_verification": null,
@@ -655,6 +591,10 @@
           {
             "date": "2026-06-03",
             "peak": 6288
+          },
+          {
+            "date": "2026-06-04",
+            "peak": 6190
           }
         ]
       },
@@ -707,6 +647,118 @@
           {
             "date": "2026-06-03",
             "peak": 6288
+          },
+          {
+            "date": "2026-06-04",
+            "peak": 6190
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 24.71,
+      "fact_summary": "Fatekeeper 今日观测峰值 5,475，未超过过往最高峰值 6,442，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 5475,
+        "previous_peak": 6442,
+        "previous_record_peak": 6442,
+        "growth_rate": -0.1501,
+        "record_growth_rate": -0.1501,
+        "scoring_peak": 5475,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 9.86,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.5475,
+        "record_growth_score": 0.0,
+        "days_seen_score": 2.86,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 24.71,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 76.0,
+        "review_total": 3015,
+        "days_seen": 2,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "release_age_days": 2,
+        "steam_release_age_days": 2,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "动作",
+          "角色扮演",
+          "抢先体验"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-03",
+            "peak": 6442
+          },
+          {
+            "date": "2026-06-04",
+            "peak": 5475
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "repeat_window_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2186990"
+        }
+      ],
+      "game": {
+        "slug": "fatekeeper",
+        "appid": "2186990",
+        "name": "Fatekeeper",
+        "name_cn": null,
+        "description": "踏入一个精心打造的世界，这里的残垣断壁低语诉说着昔日的剧变。精通剑术与魔法技艺，利用各种神器和咒语，并通过一系列的抉择，来开创你的道路，在这款第一人称角色扮演游戏中塑造属于你的传奇。",
+        "release_date": "2026-06-02",
+        "genres": [
+          "动作",
+          "角色扮演",
+          "抢先体验"
+        ],
+        "tags": [
+          "单人",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "多半好评",
+        "review_ratio": 76.0,
+        "review_total": 3015,
+        "developer": "Paraglacial",
+        "publisher": "THQ Nordic",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2186990/4a98bac064656da89ddf8dedee1acd39405cac14/header_alt_assets_0.jpg?t=1780424266",
+        "steam_url": "https://store.steampowered.com/app/2186990",
+        "trend": [
+          {
+            "date": "2026-06-03",
+            "peak": 6442
+          },
+          {
+            "date": "2026-06-04",
+            "peak": 5475
           }
         ]
       }

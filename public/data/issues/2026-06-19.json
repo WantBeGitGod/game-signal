@@ -10,38 +10,40 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 38.61,
-    "fact_summary": "Road to Empress Ⅱ 今日观测峰值 25,326，未超过过往最高峰值 30,357，被识别为「新作起量」。",
+    "score": 35.07,
+    "fact_summary": "The Scroll of Taiwu : Beyond The Dome 今日观测峰值 29,261，首次进入当前观察窗口，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 25326,
-      "previous_peak": 30357,
-      "previous_record_peak": 30357,
-      "growth_rate": -0.1657,
-      "record_growth_rate": -0.1657,
-      "scoring_peak": 25326,
+      "current_peak": 29261,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 29261,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 20.89,
+      "peak_score": 21.64,
       "raw_record_growth_score": 0.0,
       "growth_score_multiplier": 1.0,
       "record_growth_score": 0.0,
-      "days_seen_score": 5.71,
+      "days_seen_score": 1.43,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 38.61,
+      "score_before_multiplier": 35.07,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "monthly_star_count": 0,
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
       "prior_total_star_count": 0,
       "total_star_count": 1,
       "star_appearance_count": 1,
       "cumulative_star_count": 0,
-      "review_ratio": 83.0,
-      "review_total": 7161,
-      "days_seen": 4,
-      "comeback_gap_days": 4,
+      "review_ratio": 68.0,
+      "review_total": 66410,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
       "is_new_release": true,
-      "release_age_days": 11,
-      "steam_release_age_days": 11,
+      "release_age_days": 3,
+      "steam_release_age_days": 3,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -54,81 +56,58 @@
         "休闲",
         "独立",
         "角色扮演",
-        "模拟"
+        "策略"
       ],
       "trend": [
         {
-          "date": "2026-06-10",
-          "peak": 28665
-        },
-        {
-          "date": "2026-06-15",
-          "peak": 30357
-        },
-        {
-          "date": "2026-06-16",
-          "peak": 27748
-        },
-        {
           "date": "2026-06-19",
-          "peak": 25326
+          "peak": 29261
         }
       ]
     },
     "star_appearance": {
       "count": 1,
       "prior_count": 0,
-      "month_prior_count": 0
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4148240"
+        "url": "https://store.steampowered.com/app/838350"
       }
     ],
     "game": {
-      "slug": "road-to-empress",
-      "appid": "4148240",
-      "name": "Road to Empress Ⅱ",
+      "slug": "the-scroll-of-taiwu-beyond-the-dome",
+      "appid": "838350",
+      "name": "The Scroll of Taiwu : Beyond The Dome",
       "name_cn": null,
-      "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
-      "release_date": "2026-06-08",
+      "description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
+      "release_date": "2026-06-16",
       "genres": [
         "冒险",
         "休闲",
         "独立",
         "角色扮演",
-        "模拟"
+        "策略"
       ],
       "tags": [
         "单人",
         "Steam 成就",
-        "应用内购买",
+        "Steam 创意工坊",
+        "在平板上远程畅玩",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 83.0,
-      "review_total": 7161,
-      "developer": " New One Studio",
-      "publisher": " New One Studio, Ariel",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781677683",
-      "steam_url": "https://store.steampowered.com/app/4148240",
+      "review_score": "褒贬不一",
+      "review_ratio": 68.0,
+      "review_total": 66410,
+      "developer": "ConchShip Games",
+      "publisher": "ConchShip Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782113702",
+      "steam_url": "https://store.steampowered.com/app/838350",
       "trend": [
         {
-          "date": "2026-06-10",
-          "peak": 28665
-        },
-        {
-          "date": "2026-06-15",
-          "peak": 30357
-        },
-        {
-          "date": "2026-06-16",
-          "peak": 27748
-        },
-        {
           "date": "2026-06-19",
-          "peak": 25326
+          "peak": 29261
         }
       ]
     }
@@ -137,38 +116,40 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 38.61,
-    "fact_summary": "Road to Empress Ⅱ 今日观测峰值 25,326，未超过过往最高峰值 30,357，被识别为「新作起量」。",
+    "score": 35.07,
+    "fact_summary": "The Scroll of Taiwu : Beyond The Dome 今日观测峰值 29,261，首次进入当前观察窗口，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 25326,
-      "previous_peak": 30357,
-      "previous_record_peak": 30357,
-      "growth_rate": -0.1657,
-      "record_growth_rate": -0.1657,
-      "scoring_peak": 25326,
+      "current_peak": 29261,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 29261,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 20.89,
+      "peak_score": 21.64,
       "raw_record_growth_score": 0.0,
       "growth_score_multiplier": 1.0,
       "record_growth_score": 0.0,
-      "days_seen_score": 5.71,
+      "days_seen_score": 1.43,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 38.61,
+      "score_before_multiplier": 35.07,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "monthly_star_count": 0,
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
       "prior_total_star_count": 0,
       "total_star_count": 1,
       "star_appearance_count": 1,
       "cumulative_star_count": 0,
-      "review_ratio": 83.0,
-      "review_total": 7161,
-      "days_seen": 4,
-      "comeback_gap_days": 4,
+      "review_ratio": 68.0,
+      "review_total": 66410,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
       "is_new_release": true,
-      "release_age_days": 11,
-      "steam_release_age_days": 11,
+      "release_age_days": 3,
+      "steam_release_age_days": 3,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -181,81 +162,58 @@
         "休闲",
         "独立",
         "角色扮演",
-        "模拟"
+        "策略"
       ],
       "trend": [
         {
-          "date": "2026-06-10",
-          "peak": 28665
-        },
-        {
-          "date": "2026-06-15",
-          "peak": 30357
-        },
-        {
-          "date": "2026-06-16",
-          "peak": 27748
-        },
-        {
           "date": "2026-06-19",
-          "peak": 25326
+          "peak": 29261
         }
       ]
     },
     "star_appearance": {
       "count": 1,
       "prior_count": 0,
-      "month_prior_count": 0
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4148240"
+        "url": "https://store.steampowered.com/app/838350"
       }
     ],
     "game": {
-      "slug": "road-to-empress",
-      "appid": "4148240",
-      "name": "Road to Empress Ⅱ",
+      "slug": "the-scroll-of-taiwu-beyond-the-dome",
+      "appid": "838350",
+      "name": "The Scroll of Taiwu : Beyond The Dome",
       "name_cn": null,
-      "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
-      "release_date": "2026-06-08",
+      "description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
+      "release_date": "2026-06-16",
       "genres": [
         "冒险",
         "休闲",
         "独立",
         "角色扮演",
-        "模拟"
+        "策略"
       ],
       "tags": [
         "单人",
         "Steam 成就",
-        "应用内购买",
+        "Steam 创意工坊",
+        "在平板上远程畅玩",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 83.0,
-      "review_total": 7161,
-      "developer": " New One Studio",
-      "publisher": " New One Studio, Ariel",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781677683",
-      "steam_url": "https://store.steampowered.com/app/4148240",
+      "review_score": "褒贬不一",
+      "review_ratio": 68.0,
+      "review_total": 66410,
+      "developer": "ConchShip Games",
+      "publisher": "ConchShip Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782113702",
+      "steam_url": "https://store.steampowered.com/app/838350",
       "trend": [
         {
-          "date": "2026-06-10",
-          "peak": 28665
-        },
-        {
-          "date": "2026-06-15",
-          "peak": 30357
-        },
-        {
-          "date": "2026-06-16",
-          "peak": 27748
-        },
-        {
           "date": "2026-06-19",
-          "peak": 25326
+          "peak": 29261
         }
       ]
     }
@@ -264,389 +222,6 @@
   "candidate_signals": [
     {
       "rank": 2,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 35.07,
-      "fact_summary": "The Scroll of Taiwu : Beyond The Dome 今日观测峰值 29,261，首次进入当前观察窗口，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 29261,
-        "previous_peak": 0,
-        "previous_record_peak": 0,
-        "growth_rate": 0.0,
-        "record_growth_rate": 0.0,
-        "scoring_peak": 29261,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 21.64,
-        "raw_record_growth_score": 0.0,
-        "growth_score_multiplier": 1.0,
-        "record_growth_score": 0.0,
-        "days_seen_score": 1.43,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 35.07,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
-        "prior_total_star_count": 0,
-        "total_star_count": 1,
-        "star_appearance_count": 1,
-        "cumulative_star_count": 0,
-        "review_ratio": 68.0,
-        "review_total": 66410,
-        "days_seen": 1,
-        "comeback_gap_days": 0,
-        "is_new_release": true,
-        "release_age_days": 3,
-        "steam_release_age_days": 3,
-        "release_age_basis": "steam",
-        "release_verification_required": false,
-        "release_verification": null,
-        "all_platform_release_date": null,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "策略"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-19",
-            "peak": 29261
-          }
-        ]
-      },
-      "star_appearance": {
-        "count": 1,
-        "prior_count": 0,
-        "month_prior_count": 0
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/838350"
-        }
-      ],
-      "game": {
-        "slug": "the-scroll-of-taiwu-beyond-the-dome",
-        "appid": "838350",
-        "name": "The Scroll of Taiwu : Beyond The Dome",
-        "name_cn": null,
-        "description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
-        "release_date": "2026-06-16",
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "策略"
-        ],
-        "tags": [
-          "单人",
-          "Steam 成就",
-          "Steam 创意工坊",
-          "在平板上远程畅玩",
-          "家庭共享"
-        ],
-        "review_score": "褒贬不一",
-        "review_ratio": 68.0,
-        "review_total": 66410,
-        "developer": "ConchShip Games",
-        "publisher": "ConchShip Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782113702",
-        "steam_url": "https://store.steampowered.com/app/838350",
-        "trend": [
-          {
-            "date": "2026-06-19",
-            "peak": 29261
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 34.49,
-      "fact_summary": "Lost Castle 2 今日观测峰值 26,464，未超过过往最高峰值 28,835，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 26464,
-        "previous_peak": 28835,
-        "previous_record_peak": 28835,
-        "growth_rate": -0.0822,
-        "record_growth_rate": -0.0822,
-        "scoring_peak": 26464,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 21.11,
-        "raw_record_growth_score": 0.0,
-        "growth_score_multiplier": 1.0,
-        "record_growth_score": 0.0,
-        "days_seen_score": 10.0,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 43.11,
-        "score_multiplier": 0.8,
-        "score_multiplier_reasons": [
-          "monthly_star_1x"
-        ],
-        "monthly_star_count": 1,
-        "prior_total_star_count": 1,
-        "total_star_count": 2,
-        "star_appearance_count": 2,
-        "cumulative_star_count": 1,
-        "review_ratio": 78.0,
-        "review_total": 12095,
-        "days_seen": 7,
-        "comeback_gap_days": 2,
-        "is_new_release": true,
-        "release_age_days": 9,
-        "steam_release_age_days": 9,
-        "release_age_basis": "steam",
-        "release_verification_required": false,
-        "release_verification": null,
-        "all_platform_release_date": null,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "角色扮演"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-11",
-            "peak": 6290
-          },
-          {
-            "date": "2026-06-13",
-            "peak": 21326
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 25441
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 28725
-          },
-          {
-            "date": "2026-06-16",
-            "peak": 28279
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 28835
-          },
-          {
-            "date": "2026-06-19",
-            "peak": 26464
-          }
-        ]
-      },
-      "star_appearance": {
-        "count": 2,
-        "prior_count": 1,
-        "month_prior_count": 1
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/2445690"
-        }
-      ],
-      "game": {
-        "slug": "lost-castle-2",
-        "appid": "2445690",
-        "name": "Lost Castle 2",
-        "name_cn": null,
-        "description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
-        "release_date": "2026-06-10",
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "角色扮演"
-        ],
-        "tags": [
-          "单人",
-          "多人",
-          "合作",
-          "在线合作",
-          "局域网合作",
-          "同屏/分屏合作",
-          "同屏/分屏",
-          "Steam 成就",
-          "部分支持控制器",
-          "Steam 云",
-          "统计数据",
-          "远程同乐",
-          "家庭共享"
-        ],
-        "review_score": "多半好评",
-        "review_ratio": 78.0,
-        "review_total": 12095,
-        "developer": "Hunter Studio",
-        "publisher": "Hunter Studio",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203",
-        "steam_url": "https://store.steampowered.com/app/2445690",
-        "trend": [
-          {
-            "date": "2026-06-11",
-            "peak": 6290
-          },
-          {
-            "date": "2026-06-13",
-            "peak": 21326
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 25441
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 28725
-          },
-          {
-            "date": "2026-06-16",
-            "peak": 28279
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 28835
-          },
-          {
-            "date": "2026-06-19",
-            "peak": 26464
-          }
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 33.82,
-      "fact_summary": "Mistfall Hunter Demo 今日观测峰值 8,947，未超过过往最高峰值 9,288，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 8947,
-        "previous_peak": 9288,
-        "previous_record_peak": 9288,
-        "growth_rate": -0.0367,
-        "record_growth_rate": -0.0367,
-        "scoring_peak": 8947,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 16.1,
-        "raw_record_growth_score": 0.0,
-        "growth_score_multiplier": 0.8947,
-        "record_growth_score": 0.0,
-        "days_seen_score": 5.71,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 33.82,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
-        "prior_total_star_count": 0,
-        "total_star_count": 1,
-        "star_appearance_count": 1,
-        "cumulative_star_count": 0,
-        "review_ratio": null,
-        "review_total": 0,
-        "days_seen": 4,
-        "comeback_gap_days": 1,
-        "is_new_release": true,
-        "release_age_days": 6,
-        "steam_release_age_days": 6,
-        "release_age_basis": "steam",
-        "release_verification_required": false,
-        "release_verification": null,
-        "all_platform_release_date": null,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [],
-        "trend": [
-          {
-            "date": "2026-06-15",
-            "peak": 9288
-          },
-          {
-            "date": "2026-06-16",
-            "peak": 9162
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 8660
-          },
-          {
-            "date": "2026-06-19",
-            "peak": 8947
-          }
-        ]
-      },
-      "star_appearance": {
-        "count": 1,
-        "prior_count": 0,
-        "month_prior_count": 0
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/4282490"
-        }
-      ],
-      "game": {
-        "slug": "mistfall-hunter-demo",
-        "appid": "4282490",
-        "name": "Mistfall Hunter Demo",
-        "name_cn": null,
-        "description": "",
-        "release_date": "2026-06-13",
-        "genres": [],
-        "tags": [
-          "多人",
-          "玩家对战",
-          "线上玩家对战",
-          "合作",
-          "在线合作",
-          "游戏试用版",
-          "完全支持控制器",
-          "可用 HDR"
-        ],
-        "review_score": "暂无评价",
-        "review_ratio": null,
-        "review_total": 0,
-        "developer": "Bellring Games",
-        "publisher": "Skystone Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282490/cfa9fe92a707b5687f3e340f27d0325a4c4428a0/header.jpg?t=1781377380",
-        "steam_url": "https://store.steampowered.com/app/4282490",
-        "trend": [
-          {
-            "date": "2026-06-15",
-            "peak": 9288
-          },
-          {
-            "date": "2026-06-16",
-            "peak": 9162
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 8660
-          },
-          {
-            "date": "2026-06-19",
-            "peak": 8947
-          }
-        ]
-      }
-    },
-    {
-      "rank": 5,
       "type": "new_release_rise",
       "label": "新作起量",
       "score": 32.8,
@@ -669,7 +244,9 @@
         "score_before_multiplier": 32.8,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 0,
         "total_star_count": 1,
         "star_appearance_count": 1,
@@ -725,7 +302,7 @@
       "star_appearance": {
         "count": 1,
         "prior_count": 0,
-        "month_prior_count": 0
+        "repeat_window_prior_count": 0
       },
       "sources": [
         {
@@ -786,6 +363,447 @@
           {
             "date": "2026-06-19",
             "peak": 6795
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 32.75,
+      "fact_summary": "Gothic 1 Remake 今日观测峰值 45,947，未超过过往最高峰值 77,731，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 45947,
+        "previous_peak": 77731,
+        "previous_record_peak": 77731,
+        "growth_rate": -0.4089,
+        "record_growth_rate": -0.4089,
+        "scoring_peak": 45947,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 24.79,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
+        "record_growth_score": 0.0,
+        "days_seen_score": 10.0,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 46.79,
+        "score_multiplier": 0.7,
+        "score_multiplier_reasons": [
+          "repeat_window_star_2x"
+        ],
+        "repeat_window_star_count": 2,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 2,
+        "total_star_count": 3,
+        "star_appearance_count": 3,
+        "cumulative_star_count": 2,
+        "review_ratio": 88.0,
+        "review_total": 24951,
+        "days_seen": 7,
+        "comeback_gap_days": 7,
+        "is_new_release": true,
+        "release_age_days": 14,
+        "steam_release_age_days": 14,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "动作",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-06",
+            "peak": 60935
+          },
+          {
+            "date": "2026-06-07",
+            "peak": 63109
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 77731
+          },
+          {
+            "date": "2026-06-09",
+            "peak": 71991
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 70457
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 66744
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 45947
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 3,
+        "prior_count": 2,
+        "repeat_window_prior_count": 2
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/1297900"
+        }
+      ],
+      "game": {
+        "slug": "gothic-1-remake",
+        "appid": "1297900",
+        "name": "Gothic 1 Remake",
+        "name_cn": null,
+        "description": "传奇归来——在这款定义了一个类别的经典角色扮演游戏的忠实重制版中，重返采矿之谷。探索一个手把手打造的、栩栩如生的开放世界，这个世界会对您的各种行动做出动态反应，为您带来无与伦比、不受拘束的体验。",
+        "release_date": "2026-06-05",
+        "genres": [
+          "动作",
+          "角色扮演"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "完全支持控制器",
+          "Steam 集换式卡牌",
+          "视角舒适度",
+          "自定义音量控制",
+          "可调整难度",
+          "无需应对快速反应事件",
+          "随时保存",
+          "立体声",
+          "字幕选项",
+          "环绕声",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 88.0,
+        "review_total": 24951,
+        "developer": "Alkimia Interactive",
+        "publisher": "Alkimia Interactive, THQ Nordic",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1780965412",
+        "steam_url": "https://store.steampowered.com/app/1297900",
+        "trend": [
+          {
+            "date": "2026-06-06",
+            "peak": 60935
+          },
+          {
+            "date": "2026-06-07",
+            "peak": 63109
+          },
+          {
+            "date": "2026-06-08",
+            "peak": 77731
+          },
+          {
+            "date": "2026-06-09",
+            "peak": 71991
+          },
+          {
+            "date": "2026-06-10",
+            "peak": 70457
+          },
+          {
+            "date": "2026-06-11",
+            "peak": 66744
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 45947
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 31.42,
+      "fact_summary": "Burglin' Gnomes 今日观测峰值 5,231，未超过过往最高峰值 9,861，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 5231,
+        "previous_peak": 9861,
+        "previous_record_peak": 9861,
+        "growth_rate": -0.4695,
+        "record_growth_rate": -0.4695,
+        "scoring_peak": 5231,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 9.42,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.5231,
+        "record_growth_score": 0.0,
+        "days_seen_score": 10.0,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 31.42,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 85.0,
+        "review_total": 2587,
+        "days_seen": 7,
+        "comeback_gap_days": 2,
+        "is_new_release": true,
+        "release_age_days": 9,
+        "steam_release_age_days": 9,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 9861
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 9415
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 9792
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 9812
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 6810
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 6225
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 5231
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "repeat_window_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/3844970"
+        }
+      ],
+      "game": {
+        "slug": "burglin-gnomes",
+        "appid": "3844970",
+        "name": "Burglin' Gnomes",
+        "name_cn": null,
+        "description": "这是一款在线合作游戏，你将化身为一只小地精，闯入民宅制造混乱。躲避各种危险，改造偷来的家居物品，通过完成任务满足地精王的要求。制作装备并升级家园——让任务越做越顺手，捣蛋越来越成功。",
+        "release_date": "2026-06-10",
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "无需应对快速反应事件",
+          "立体声",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "特别好评",
+        "review_ratio": 85.0,
+        "review_total": 2587,
+        "developer": "Fobri",
+        "publisher": "Fobri",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d44e878d08426747cab87cd465ad1667fba5a6f8/header_schinese.jpg?t=1781100001",
+        "steam_url": "https://store.steampowered.com/app/3844970",
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 9861
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 9415
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 9792
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 9812
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 6810
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 6225
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 5231
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 30.89,
+      "fact_summary": "Road to Empress Ⅱ 今日观测峰值 25,326，未超过过往最高峰值 30,357，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 25326,
+        "previous_peak": 30357,
+        "previous_record_peak": 30357,
+        "growth_rate": -0.1657,
+        "record_growth_rate": -0.1657,
+        "scoring_peak": 25326,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 20.89,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
+        "record_growth_score": 0.0,
+        "days_seen_score": 5.71,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 38.61,
+        "score_multiplier": 0.8,
+        "score_multiplier_reasons": [
+          "repeat_window_star_1x"
+        ],
+        "repeat_window_star_count": 1,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 1,
+        "total_star_count": 2,
+        "star_appearance_count": 2,
+        "cumulative_star_count": 1,
+        "review_ratio": 83.0,
+        "review_total": 7161,
+        "days_seen": 4,
+        "comeback_gap_days": 4,
+        "is_new_release": true,
+        "release_age_days": 11,
+        "steam_release_age_days": 11,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 28665
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 30357
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 27748
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 25326
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 2,
+        "prior_count": 1,
+        "repeat_window_prior_count": 1
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4148240"
+        }
+      ],
+      "game": {
+        "slug": "road-to-empress",
+        "appid": "4148240",
+        "name": "Road to Empress Ⅱ",
+        "name_cn": null,
+        "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
+        "release_date": "2026-06-08",
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "应用内购买",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 83.0,
+        "review_total": 7161,
+        "developer": " New One Studio",
+        "publisher": " New One Studio, Ariel",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781677683",
+        "steam_url": "https://store.steampowered.com/app/4148240",
+        "trend": [
+          {
+            "date": "2026-06-10",
+            "peak": 28665
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 30357
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 27748
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 25326
           }
         ]
       }

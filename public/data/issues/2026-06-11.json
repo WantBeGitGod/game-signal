@@ -30,7 +30,9 @@
       "score_before_multiplier": 45.79,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "monthly_star_count": 0,
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
       "prior_total_star_count": 0,
       "total_star_count": 1,
       "star_appearance_count": 1,
@@ -66,7 +68,7 @@
     "star_appearance": {
       "count": 1,
       "prior_count": 0,
-      "month_prior_count": 0
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
@@ -138,7 +140,9 @@
       "score_before_multiplier": 45.79,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "monthly_star_count": 0,
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
       "prior_total_star_count": 0,
       "total_star_count": 1,
       "star_appearance_count": 1,
@@ -174,7 +178,7 @@
     "star_appearance": {
       "count": 1,
       "prior_count": 0,
-      "month_prior_count": 0
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
@@ -248,7 +252,9 @@
         "score_before_multiplier": 34.7,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 0,
         "total_star_count": 1,
         "star_appearance_count": 1,
@@ -284,7 +290,7 @@
       "star_appearance": {
         "count": 1,
         "prior_count": 0,
-        "month_prior_count": 0
+        "repeat_window_prior_count": 0
       },
       "sources": [],
       "game": {
@@ -341,9 +347,11 @@
         "score_before_multiplier": 49.29,
         "score_multiplier": 0.7,
         "score_multiplier_reasons": [
-          "monthly_star_2x"
+          "repeat_window_star_2x"
         ],
-        "monthly_star_count": 2,
+        "repeat_window_star_count": 2,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 2,
         "total_star_count": 3,
         "star_appearance_count": 3,
@@ -396,7 +404,7 @@
       "star_appearance": {
         "count": 3,
         "prior_count": 2,
-        "month_prior_count": 2
+        "repeat_window_prior_count": 2
       },
       "sources": [
         {
@@ -490,7 +498,9 @@
         "score_before_multiplier": 32.78,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 0,
         "total_star_count": 1,
         "star_appearance_count": 1,
@@ -532,7 +542,7 @@
       "star_appearance": {
         "count": 1,
         "prior_count": 0,
-        "month_prior_count": 0
+        "repeat_window_prior_count": 0
       },
       "sources": [
         {
@@ -612,7 +622,9 @@
         "score_before_multiplier": 32.26,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 0,
         "total_star_count": 1,
         "star_appearance_count": 1,
@@ -650,7 +662,7 @@
       "star_appearance": {
         "count": 1,
         "prior_count": 0,
-        "month_prior_count": 0
+        "repeat_window_prior_count": 0
       },
       "sources": [
         {

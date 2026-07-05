@@ -10,40 +10,40 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 38.76,
-    "fact_summary": "MECCHA CHAMELEON 今日观测峰值 209,667，较过往最高峰值提升 +59%，被识别为「新作起量」。",
+    "score": 31.87,
+    "fact_summary": "Mistfall Hunter Demo 今日观测峰值 8,660，未超过过往最高峰值 9,288，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 209667,
-      "previous_peak": 132154,
-      "previous_record_peak": 132154,
-      "growth_rate": 0.5865,
-      "record_growth_rate": 0.5865,
-      "scoring_peak": 209667,
+      "current_peak": 8660,
+      "previous_peak": 9288,
+      "previous_record_peak": 9288,
+      "growth_rate": -0.0676,
+      "record_growth_rate": -0.0676,
+      "scoring_peak": 8660,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 35.0,
-      "raw_record_growth_score": 20.53,
-      "growth_score_multiplier": 1.0,
-      "record_growth_score": 20.53,
-      "days_seen_score": 10.0,
+      "peak_score": 15.59,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.866,
+      "record_growth_score": 0.0,
+      "days_seen_score": 4.29,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 77.53,
-      "score_multiplier": 0.5,
-      "score_multiplier_reasons": [
-        "monthly_star_4x"
-      ],
-      "monthly_star_count": 4,
-      "prior_total_star_count": 4,
-      "total_star_count": 5,
-      "star_appearance_count": 5,
-      "cumulative_star_count": 4,
-      "review_ratio": 82.0,
-      "review_total": 18459,
-      "days_seen": 7,
-      "comeback_gap_days": 2,
+      "score_before_multiplier": 31.87,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 3,
+      "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 8,
-      "steam_release_age_days": 8,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -51,107 +51,70 @@
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
-      "genres": [
-        "休闲"
-      ],
+      "genres": [],
       "trend": [
         {
-          "date": "2026-06-10",
-          "peak": 15813
-        },
-        {
-          "date": "2026-06-11",
-          "peak": 20738
-        },
-        {
-          "date": "2026-06-13",
-          "peak": 43671
-        },
-        {
-          "date": "2026-06-14",
-          "peak": 61078
-        },
-        {
           "date": "2026-06-15",
-          "peak": 95482
+          "peak": 9288
         },
         {
           "date": "2026-06-16",
-          "peak": 132154
+          "peak": 9162
         },
         {
           "date": "2026-06-17",
-          "peak": 209667
+          "peak": 8660
         }
       ]
     },
     "star_appearance": {
-      "count": 5,
-      "prior_count": 4,
-      "month_prior_count": 4
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4704690"
+        "url": "https://store.steampowered.com/app/4282490"
       }
     ],
     "game": {
-      "slug": "meccha-chameleon",
-      "appid": "4704690",
-      "name": "MECCHA CHAMELEON",
+      "slug": "mistfall-hunter-demo",
+      "appid": "4282490",
+      "name": "Mistfall Hunter Demo",
       "name_cn": null,
-      "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
-      "release_date": "2026-06-09",
-      "genres": [
-        "休闲"
-      ],
+      "description": "",
+      "release_date": "2026-06-13",
+      "genres": [],
       "tags": [
         "多人",
         "玩家对战",
         "线上玩家对战",
-        "视角舒适度",
-        "自定义音量控制",
-        "无需应对快速反应事件",
-        "立体声",
-        "环绕声",
-        "家庭共享"
+        "合作",
+        "在线合作",
+        "游戏试用版",
+        "完全支持控制器",
+        "可用 HDR"
       ],
-      "review_score": "特别好评",
-      "review_ratio": 82.0,
-      "review_total": 18459,
-      "developer": "lemorion_1224",
-      "publisher": "lemorion_1224",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
-      "steam_url": "https://store.steampowered.com/app/4704690",
+      "review_score": "暂无评价",
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Bellring Games",
+      "publisher": "Skystone Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282490/cfa9fe92a707b5687f3e340f27d0325a4c4428a0/header.jpg?t=1781377380",
+      "steam_url": "https://store.steampowered.com/app/4282490",
       "trend": [
         {
-          "date": "2026-06-10",
-          "peak": 15813
-        },
-        {
-          "date": "2026-06-11",
-          "peak": 20738
-        },
-        {
-          "date": "2026-06-13",
-          "peak": 43671
-        },
-        {
-          "date": "2026-06-14",
-          "peak": 61078
-        },
-        {
           "date": "2026-06-15",
-          "peak": 95482
+          "peak": 9288
         },
         {
           "date": "2026-06-16",
-          "peak": 132154
+          "peak": 9162
         },
         {
           "date": "2026-06-17",
-          "peak": 209667
+          "peak": 8660
         }
       ]
     }
@@ -160,40 +123,40 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 38.76,
-    "fact_summary": "MECCHA CHAMELEON 今日观测峰值 209,667，较过往最高峰值提升 +59%，被识别为「新作起量」。",
+    "score": 31.87,
+    "fact_summary": "Mistfall Hunter Demo 今日观测峰值 8,660，未超过过往最高峰值 9,288，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 209667,
-      "previous_peak": 132154,
-      "previous_record_peak": 132154,
-      "growth_rate": 0.5865,
-      "record_growth_rate": 0.5865,
-      "scoring_peak": 209667,
+      "current_peak": 8660,
+      "previous_peak": 9288,
+      "previous_record_peak": 9288,
+      "growth_rate": -0.0676,
+      "record_growth_rate": -0.0676,
+      "scoring_peak": 8660,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 35.0,
-      "raw_record_growth_score": 20.53,
-      "growth_score_multiplier": 1.0,
-      "record_growth_score": 20.53,
-      "days_seen_score": 10.0,
+      "peak_score": 15.59,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.866,
+      "record_growth_score": 0.0,
+      "days_seen_score": 4.29,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 77.53,
-      "score_multiplier": 0.5,
-      "score_multiplier_reasons": [
-        "monthly_star_4x"
-      ],
-      "monthly_star_count": 4,
-      "prior_total_star_count": 4,
-      "total_star_count": 5,
-      "star_appearance_count": 5,
-      "cumulative_star_count": 4,
-      "review_ratio": 82.0,
-      "review_total": 18459,
-      "days_seen": 7,
-      "comeback_gap_days": 2,
+      "score_before_multiplier": 31.87,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 3,
+      "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 8,
-      "steam_release_age_days": 8,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -201,107 +164,70 @@
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
-      "genres": [
-        "休闲"
-      ],
+      "genres": [],
       "trend": [
         {
-          "date": "2026-06-10",
-          "peak": 15813
-        },
-        {
-          "date": "2026-06-11",
-          "peak": 20738
-        },
-        {
-          "date": "2026-06-13",
-          "peak": 43671
-        },
-        {
-          "date": "2026-06-14",
-          "peak": 61078
-        },
-        {
           "date": "2026-06-15",
-          "peak": 95482
+          "peak": 9288
         },
         {
           "date": "2026-06-16",
-          "peak": 132154
+          "peak": 9162
         },
         {
           "date": "2026-06-17",
-          "peak": 209667
+          "peak": 8660
         }
       ]
     },
     "star_appearance": {
-      "count": 5,
-      "prior_count": 4,
-      "month_prior_count": 4
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4704690"
+        "url": "https://store.steampowered.com/app/4282490"
       }
     ],
     "game": {
-      "slug": "meccha-chameleon",
-      "appid": "4704690",
-      "name": "MECCHA CHAMELEON",
+      "slug": "mistfall-hunter-demo",
+      "appid": "4282490",
+      "name": "Mistfall Hunter Demo",
       "name_cn": null,
-      "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
-      "release_date": "2026-06-09",
-      "genres": [
-        "休闲"
-      ],
+      "description": "",
+      "release_date": "2026-06-13",
+      "genres": [],
       "tags": [
         "多人",
         "玩家对战",
         "线上玩家对战",
-        "视角舒适度",
-        "自定义音量控制",
-        "无需应对快速反应事件",
-        "立体声",
-        "环绕声",
-        "家庭共享"
+        "合作",
+        "在线合作",
+        "游戏试用版",
+        "完全支持控制器",
+        "可用 HDR"
       ],
-      "review_score": "特别好评",
-      "review_ratio": 82.0,
-      "review_total": 18459,
-      "developer": "lemorion_1224",
-      "publisher": "lemorion_1224",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
-      "steam_url": "https://store.steampowered.com/app/4704690",
+      "review_score": "暂无评价",
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Bellring Games",
+      "publisher": "Skystone Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282490/cfa9fe92a707b5687f3e340f27d0325a4c4428a0/header.jpg?t=1781377380",
+      "steam_url": "https://store.steampowered.com/app/4282490",
       "trend": [
         {
-          "date": "2026-06-10",
-          "peak": 15813
-        },
-        {
-          "date": "2026-06-11",
-          "peak": 20738
-        },
-        {
-          "date": "2026-06-13",
-          "peak": 43671
-        },
-        {
-          "date": "2026-06-14",
-          "peak": 61078
-        },
-        {
           "date": "2026-06-15",
-          "peak": 95482
+          "peak": 9288
         },
         {
           "date": "2026-06-16",
-          "peak": 132154
+          "peak": 9162
         },
         {
           "date": "2026-06-17",
-          "peak": 209667
+          "peak": 8660
         }
       ]
     }
@@ -312,7 +238,289 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 33.81,
+      "score": 31.85,
+      "fact_summary": "SpaceCraft 今日观测峰值 7,058，未超过过往最高峰值 7,707，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 7058,
+        "previous_peak": 7707,
+        "previous_record_peak": 7707,
+        "growth_rate": -0.0842,
+        "record_growth_rate": -0.0842,
+        "scoring_peak": 7058,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 12.7,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.7058,
+        "record_growth_score": 0.0,
+        "days_seen_score": 7.14,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 31.85,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 69.0,
+        "review_total": 1662,
+        "days_seen": 5,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 6,
+        "steam_release_age_days": 6,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "冒险",
+          "独立",
+          "大型多人在线",
+          "模拟",
+          "抢先体验"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-13",
+            "peak": 5241
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 6620
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 7707
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 7146
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 7058
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "repeat_window_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/3276050"
+        }
+      ],
+      "game": {
+        "slug": "spacecraft",
+        "appid": "3276050",
+        "name": "SpaceCraft",
+        "name_cn": null,
+        "description": "宇宙在你掌控之中！《星际征程》是一款太空探索与建造的在线游戏。在浩瀚星际中穿梭探险，探索无数恒星和行星，采集和生产资源，设计并建造飞船，自动化管理行星基地和星际物流，展开贸易与合作。",
+        "release_date": "2026-06-11",
+        "genres": [
+          "冒险",
+          "独立",
+          "大型多人在线",
+          "模拟",
+          "抢先体验"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "大型多人在线",
+          "合作",
+          "在线合作",
+          "应用内购买"
+        ],
+        "review_score": "褒贬不一",
+        "review_ratio": 69.0,
+        "review_total": 1662,
+        "developer": "Shiro Games",
+        "publisher": "Shiro Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3276050/5c3fb496686b81ad694e250a3ac6707bde7372db/header_alt_assets_1_schinese.jpg?t=1781191112",
+        "steam_url": "https://store.steampowered.com/app/3276050",
+        "trend": [
+          {
+            "date": "2026-06-13",
+            "peak": 5241
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 6620
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 7707
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 7146
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 7058
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 31.78,
+      "fact_summary": "Burglin' Gnomes 今日观测峰值 6,225，未超过过往最高峰值 9,861，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 6225,
+        "previous_peak": 9861,
+        "previous_record_peak": 9861,
+        "growth_rate": -0.3687,
+        "record_growth_rate": -0.3687,
+        "scoring_peak": 6225,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 11.21,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.6225,
+        "record_growth_score": 0.0,
+        "days_seen_score": 8.57,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 31.78,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 85.0,
+        "review_total": 2587,
+        "days_seen": 6,
+        "comeback_gap_days": 2,
+        "is_new_release": true,
+        "release_age_days": 7,
+        "steam_release_age_days": 7,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 9861
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 9415
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 9792
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 9812
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 6810
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 6225
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "repeat_window_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/3844970"
+        }
+      ],
+      "game": {
+        "slug": "burglin-gnomes",
+        "appid": "3844970",
+        "name": "Burglin' Gnomes",
+        "name_cn": null,
+        "description": "这是一款在线合作游戏，你将化身为一只小地精，闯入民宅制造混乱。躲避各种危险，改造偷来的家居物品，通过完成任务满足地精王的要求。制作装备并升级家园——让任务越做越顺手，捣蛋越来越成功。",
+        "release_date": "2026-06-10",
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "tags": [
+          "单人",
+          "多人",
+          "合作",
+          "在线合作",
+          "无需应对快速反应事件",
+          "立体声",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "特别好评",
+        "review_ratio": 85.0,
+        "review_total": 2587,
+        "developer": "Fobri",
+        "publisher": "Fobri",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d44e878d08426747cab87cd465ad1667fba5a6f8/header_schinese.jpg?t=1781100001",
+        "steam_url": "https://store.steampowered.com/app/3844970",
+        "trend": [
+          {
+            "date": "2026-06-11",
+            "peak": 9861
+          },
+          {
+            "date": "2026-06-13",
+            "peak": 9415
+          },
+          {
+            "date": "2026-06-14",
+            "peak": 9792
+          },
+          {
+            "date": "2026-06-15",
+            "peak": 9812
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 6810
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 6225
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 29.58,
       "fact_summary": "Lost Castle 2 今日观测峰值 28,835，较过往最高峰值提升 +0%，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 28835,
@@ -330,15 +538,17 @@
         "days_seen_score": 8.57,
         "signal_type_score": 12.0,
         "score_before_multiplier": 42.26,
-        "score_multiplier": 0.8,
+        "score_multiplier": 0.7,
         "score_multiplier_reasons": [
-          "monthly_star_1x"
+          "repeat_window_star_2x"
         ],
-        "monthly_star_count": 1,
-        "prior_total_star_count": 1,
-        "total_star_count": 2,
-        "star_appearance_count": 2,
-        "cumulative_star_count": 1,
+        "repeat_window_star_count": 2,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 2,
+        "total_star_count": 3,
+        "star_appearance_count": 3,
+        "cumulative_star_count": 2,
         "review_ratio": 78.0,
         "review_total": 12095,
         "days_seen": 6,
@@ -387,9 +597,9 @@
         ]
       },
       "star_appearance": {
-        "count": 2,
-        "prior_count": 1,
-        "month_prior_count": 1
+        "count": 3,
+        "prior_count": 2,
+        "repeat_window_prior_count": 2
       },
       "sources": [
         {
@@ -461,286 +671,40 @@
       }
     },
     {
-      "rank": 3,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 31.87,
-      "fact_summary": "Mistfall Hunter Demo 今日观测峰值 8,660，未超过过往最高峰值 9,288，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 8660,
-        "previous_peak": 9288,
-        "previous_record_peak": 9288,
-        "growth_rate": -0.0676,
-        "record_growth_rate": -0.0676,
-        "scoring_peak": 8660,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 15.59,
-        "raw_record_growth_score": 0.0,
-        "growth_score_multiplier": 0.866,
-        "record_growth_score": 0.0,
-        "days_seen_score": 4.29,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 31.87,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
-        "prior_total_star_count": 0,
-        "total_star_count": 1,
-        "star_appearance_count": 1,
-        "cumulative_star_count": 0,
-        "review_ratio": null,
-        "review_total": 0,
-        "days_seen": 3,
-        "comeback_gap_days": 1,
-        "is_new_release": true,
-        "release_age_days": 4,
-        "steam_release_age_days": 4,
-        "release_age_basis": "steam",
-        "release_verification_required": false,
-        "release_verification": null,
-        "all_platform_release_date": null,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [],
-        "trend": [
-          {
-            "date": "2026-06-15",
-            "peak": 9288
-          },
-          {
-            "date": "2026-06-16",
-            "peak": 9162
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 8660
-          }
-        ]
-      },
-      "star_appearance": {
-        "count": 1,
-        "prior_count": 0,
-        "month_prior_count": 0
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/4282490"
-        }
-      ],
-      "game": {
-        "slug": "mistfall-hunter-demo",
-        "appid": "4282490",
-        "name": "Mistfall Hunter Demo",
-        "name_cn": null,
-        "description": "",
-        "release_date": "2026-06-13",
-        "genres": [],
-        "tags": [
-          "多人",
-          "玩家对战",
-          "线上玩家对战",
-          "合作",
-          "在线合作",
-          "游戏试用版",
-          "完全支持控制器",
-          "可用 HDR"
-        ],
-        "review_score": "暂无评价",
-        "review_ratio": null,
-        "review_total": 0,
-        "developer": "Bellring Games",
-        "publisher": "Skystone Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282490/cfa9fe92a707b5687f3e340f27d0325a4c4428a0/header.jpg?t=1781377380",
-        "steam_url": "https://store.steampowered.com/app/4282490",
-        "trend": [
-          {
-            "date": "2026-06-15",
-            "peak": 9288
-          },
-          {
-            "date": "2026-06-16",
-            "peak": 9162
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 8660
-          }
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 31.85,
-      "fact_summary": "SpaceCraft 今日观测峰值 7,058，未超过过往最高峰值 7,707，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 7058,
-        "previous_peak": 7707,
-        "previous_record_peak": 7707,
-        "growth_rate": -0.0842,
-        "record_growth_rate": -0.0842,
-        "scoring_peak": 7058,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 12.7,
-        "raw_record_growth_score": 0.0,
-        "growth_score_multiplier": 0.7058,
-        "record_growth_score": 0.0,
-        "days_seen_score": 7.14,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 31.85,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
-        "prior_total_star_count": 0,
-        "total_star_count": 1,
-        "star_appearance_count": 1,
-        "cumulative_star_count": 0,
-        "review_ratio": 69.0,
-        "review_total": 1662,
-        "days_seen": 5,
-        "comeback_gap_days": 1,
-        "is_new_release": true,
-        "release_age_days": 6,
-        "steam_release_age_days": 6,
-        "release_age_basis": "steam",
-        "release_verification_required": false,
-        "release_verification": null,
-        "all_platform_release_date": null,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [
-          "冒险",
-          "独立",
-          "大型多人在线",
-          "模拟",
-          "抢先体验"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-13",
-            "peak": 5241
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 6620
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 7707
-          },
-          {
-            "date": "2026-06-16",
-            "peak": 7146
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 7058
-          }
-        ]
-      },
-      "star_appearance": {
-        "count": 1,
-        "prior_count": 0,
-        "month_prior_count": 0
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/3276050"
-        }
-      ],
-      "game": {
-        "slug": "spacecraft",
-        "appid": "3276050",
-        "name": "SpaceCraft",
-        "name_cn": null,
-        "description": "宇宙在你掌控之中！《星际征程》是一款太空探索与建造的在线游戏。在浩瀚星际中穿梭探险，探索无数恒星和行星，采集和生产资源，设计并建造飞船，自动化管理行星基地和星际物流，展开贸易与合作。",
-        "release_date": "2026-06-11",
-        "genres": [
-          "冒险",
-          "独立",
-          "大型多人在线",
-          "模拟",
-          "抢先体验"
-        ],
-        "tags": [
-          "单人",
-          "多人",
-          "大型多人在线",
-          "合作",
-          "在线合作",
-          "应用内购买"
-        ],
-        "review_score": "褒贬不一",
-        "review_ratio": 69.0,
-        "review_total": 1662,
-        "developer": "Shiro Games",
-        "publisher": "Shiro Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3276050/5c3fb496686b81ad694e250a3ac6707bde7372db/header_alt_assets_1_schinese.jpg?t=1781191112",
-        "steam_url": "https://store.steampowered.com/app/3276050",
-        "trend": [
-          {
-            "date": "2026-06-13",
-            "peak": 5241
-          },
-          {
-            "date": "2026-06-14",
-            "peak": 6620
-          },
-          {
-            "date": "2026-06-15",
-            "peak": 7707
-          },
-          {
-            "date": "2026-06-16",
-            "peak": 7146
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 7058
-          }
-        ]
-      }
-    },
-    {
       "rank": 5,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 31.78,
-      "fact_summary": "Burglin' Gnomes 今日观测峰值 6,225，未超过过往最高峰值 9,861，被识别为「新作起量」。",
+      "score": 29.19,
+      "fact_summary": "33 Immortals 今日观测峰值 5,583，未超过过往最高峰值 7,811，被识别为「新作起量」。",
       "metrics": {
-        "current_peak": 6225,
-        "previous_peak": 9861,
-        "previous_record_peak": 9861,
-        "growth_rate": -0.3687,
-        "record_growth_rate": -0.3687,
-        "scoring_peak": 6225,
+        "current_peak": 5583,
+        "previous_peak": 7811,
+        "previous_record_peak": 7811,
+        "growth_rate": -0.2852,
+        "record_growth_rate": -0.2852,
+        "scoring_peak": 5583,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 11.21,
+        "peak_score": 10.05,
         "raw_record_growth_score": 0.0,
-        "growth_score_multiplier": 0.6225,
+        "growth_score_multiplier": 0.5583,
         "record_growth_score": 0.0,
-        "days_seen_score": 8.57,
+        "days_seen_score": 7.14,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 31.78,
+        "score_before_multiplier": 29.19,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 0,
         "total_star_count": 1,
         "star_appearance_count": 1,
         "cumulative_star_count": 0,
-        "review_ratio": 85.0,
-        "review_total": 2587,
-        "days_seen": 6,
-        "comeback_gap_days": 2,
+        "review_ratio": 78.0,
+        "review_total": 1195,
+        "days_seen": 5,
+        "comeback_gap_days": 1,
         "is_new_release": true,
         "release_age_days": 7,
         "steam_release_age_days": 7,
@@ -753,98 +717,96 @@
         "comeback_evidence": null,
         "genres": [
           "动作",
-          "冒险"
+          "独立",
+          "大型多人在线"
         ],
         "trend": [
           {
-            "date": "2026-06-11",
-            "peak": 9861
-          },
-          {
             "date": "2026-06-13",
-            "peak": 9415
+            "peak": 5705
           },
           {
             "date": "2026-06-14",
-            "peak": 9792
+            "peak": 7070
           },
           {
             "date": "2026-06-15",
-            "peak": 9812
+            "peak": 7811
           },
           {
             "date": "2026-06-16",
-            "peak": 6810
+            "peak": 6097
           },
           {
             "date": "2026-06-17",
-            "peak": 6225
+            "peak": 5583
           }
         ]
       },
       "star_appearance": {
         "count": 1,
         "prior_count": 0,
-        "month_prior_count": 0
+        "repeat_window_prior_count": 0
       },
       "sources": [
         {
           "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/3844970"
+          "url": "https://store.steampowered.com/app/958520"
         }
       ],
       "game": {
-        "slug": "burglin-gnomes",
-        "appid": "3844970",
-        "name": "Burglin' Gnomes",
+        "slug": "33-immortals",
+        "appid": "958520",
+        "name": "33 Immortals",
         "name_cn": null,
-        "description": "这是一款在线合作游戏，你将化身为一只小地精，闯入民宅制造混乱。躲避各种危险，改造偷来的家居物品，通过完成任务满足地精王的要求。制作装备并升级家园——让任务越做越顺手，捣蛋越来越成功。",
+        "description": "33不朽灵魂 是一款支持33位玩家一齐上阵的动作Roguelike合作游戏。立即开启冒险，既可单人作战，也可与好友组队。迎战狱魔大军，击败强大头目，在冒险中不断成长强大。使用游戏内表情与其他反抗者协力作战，共同直面神的怒火。",
         "release_date": "2026-06-10",
         "genres": [
           "动作",
-          "冒险"
+          "独立",
+          "大型多人在线"
         ],
         "tags": [
           "单人",
           "多人",
           "合作",
           "在线合作",
+          "跨平台多人",
+          "Steam 成就",
+          "完全支持控制器",
+          "Steam 集换式卡牌",
+          "自定义音量控制",
           "无需应对快速反应事件",
           "立体声",
-          "Steam 云",
           "家庭共享"
         ],
-        "review_score": "特别好评",
-        "review_ratio": 85.0,
-        "review_total": 2587,
-        "developer": "Fobri",
-        "publisher": "Fobri",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3844970/d44e878d08426747cab87cd465ad1667fba5a6f8/header_schinese.jpg?t=1781100001",
-        "steam_url": "https://store.steampowered.com/app/3844970",
+        "review_score": "多半好评",
+        "review_ratio": 78.0,
+        "review_total": 1195,
+        "developer": "Thunder Lotus",
+        "publisher": "Thunder Lotus, Kepler Ghost",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/958520/cb394a0b80c864bf75087390090dc212b3cbbc17/header_schinese.jpg?t=1781193618",
+        "steam_url": "https://store.steampowered.com/app/958520",
         "trend": [
           {
-            "date": "2026-06-11",
-            "peak": 9861
-          },
-          {
             "date": "2026-06-13",
-            "peak": 9415
+            "peak": 5705
           },
           {
             "date": "2026-06-14",
-            "peak": 9792
+            "peak": 7070
           },
           {
             "date": "2026-06-15",
-            "peak": 9812
+            "peak": 7811
           },
           {
             "date": "2026-06-16",
-            "peak": 6810
+            "peak": 6097
           },
           {
             "date": "2026-06-17",
-            "peak": 6225
+            "peak": 5583
           }
         ]
       }

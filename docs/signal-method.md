@@ -18,7 +18,7 @@ The score combines observed peak scale, positive change, observation depth and a
 
 The current public weight snapshot is exported to `public/data/scoring.json`. Games outside the configured 30-day new-release window are checked against recent Steam news. Chapter, DLC, expansion, season and major-update evidence is scored close to a new release; sale and discount evidence receives a lower signal score plus an additional final-score multiplier.
 
-Repeated daily-star wins in the same calendar month reduce final score through deterministic multipliers, so repeated exposure does not crowd out fresher signals. The public homepage also shows each star's all-time `摘星次数`.
+Repeated daily-star wins in the previous 30 days reduce final score through deterministic multipliers, and a game that already has 3 wins inside that rolling window is excluded until an earlier win ages out. The public homepage also shows each star's all-time `摘星次数`.
 
 ## Editorial boundary
 

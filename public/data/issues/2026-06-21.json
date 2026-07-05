@@ -10,38 +10,42 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 46.18,
-    "fact_summary": "Mistfall Hunter Demo 今日观测峰值 11,245，较过往最高峰值提升 +21%，被识别为「新作起量」。",
+    "score": 38.2,
+    "fact_summary": "The Scroll of Taiwu : Beyond The Dome 今日观测峰值 51,039，较过往最高峰值提升 +16%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 11245,
-      "previous_peak": 9288,
-      "previous_record_peak": 9288,
-      "growth_rate": 0.2107,
-      "record_growth_rate": 0.2107,
-      "scoring_peak": 11245,
+      "current_peak": 51039,
+      "previous_peak": 43882,
+      "previous_record_peak": 43882,
+      "growth_rate": 0.1631,
+      "record_growth_rate": 0.1631,
+      "scoring_peak": 51039,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 18.24,
-      "raw_record_growth_score": 7.37,
+      "peak_score": 25.75,
+      "raw_record_growth_score": 5.71,
       "growth_score_multiplier": 1.0,
-      "record_growth_score": 7.37,
-      "days_seen_score": 8.57,
+      "record_growth_score": 5.71,
+      "days_seen_score": 4.29,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 46.18,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "monthly_star_count": 0,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
-      "review_ratio": null,
-      "review_total": 0,
-      "days_seen": 6,
+      "score_before_multiplier": 47.75,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "review_ratio": 68.0,
+      "review_total": 66410,
+      "days_seen": 3,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 8,
-      "steam_release_age_days": 8,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -49,94 +53,79 @@
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
-      "genres": [],
+      "genres": [
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演",
+        "策略"
+      ],
       "trend": [
         {
-          "date": "2026-06-15",
-          "peak": 9288
-        },
-        {
-          "date": "2026-06-16",
-          "peak": 9162
-        },
-        {
-          "date": "2026-06-17",
-          "peak": 8660
-        },
-        {
           "date": "2026-06-19",
-          "peak": 8947
+          "peak": 29261
         },
         {
           "date": "2026-06-20",
-          "peak": 9066
+          "peak": 43882
         },
         {
           "date": "2026-06-21",
-          "peak": 11245
+          "peak": 51039
         }
       ]
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "month_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4282490"
+        "url": "https://store.steampowered.com/app/838350"
       }
     ],
     "game": {
-      "slug": "mistfall-hunter-demo",
-      "appid": "4282490",
-      "name": "Mistfall Hunter Demo",
+      "slug": "the-scroll-of-taiwu-beyond-the-dome",
+      "appid": "838350",
+      "name": "The Scroll of Taiwu : Beyond The Dome",
       "name_cn": null,
-      "description": "",
-      "release_date": "2026-06-13",
-      "genres": [],
-      "tags": [
-        "多人",
-        "玩家对战",
-        "线上玩家对战",
-        "合作",
-        "在线合作",
-        "游戏试用版",
-        "完全支持控制器",
-        "可用 HDR"
+      "description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
+      "release_date": "2026-06-16",
+      "genres": [
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演",
+        "策略"
       ],
-      "review_score": "暂无评价",
-      "review_ratio": null,
-      "review_total": 0,
-      "developer": "Bellring Games",
-      "publisher": "Skystone Games",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282490/cfa9fe92a707b5687f3e340f27d0325a4c4428a0/header.jpg?t=1781377380",
-      "steam_url": "https://store.steampowered.com/app/4282490",
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 创意工坊",
+        "在平板上远程畅玩",
+        "家庭共享"
+      ],
+      "review_score": "褒贬不一",
+      "review_ratio": 68.0,
+      "review_total": 66410,
+      "developer": "ConchShip Games",
+      "publisher": "ConchShip Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782113702",
+      "steam_url": "https://store.steampowered.com/app/838350",
       "trend": [
         {
-          "date": "2026-06-15",
-          "peak": 9288
-        },
-        {
-          "date": "2026-06-16",
-          "peak": 9162
-        },
-        {
-          "date": "2026-06-17",
-          "peak": 8660
-        },
-        {
           "date": "2026-06-19",
-          "peak": 8947
+          "peak": 29261
         },
         {
           "date": "2026-06-20",
-          "peak": 9066
+          "peak": 43882
         },
         {
           "date": "2026-06-21",
-          "peak": 11245
+          "peak": 51039
         }
       ]
     }
@@ -145,38 +134,42 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 46.18,
-    "fact_summary": "Mistfall Hunter Demo 今日观测峰值 11,245，较过往最高峰值提升 +21%，被识别为「新作起量」。",
+    "score": 38.2,
+    "fact_summary": "The Scroll of Taiwu : Beyond The Dome 今日观测峰值 51,039，较过往最高峰值提升 +16%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 11245,
-      "previous_peak": 9288,
-      "previous_record_peak": 9288,
-      "growth_rate": 0.2107,
-      "record_growth_rate": 0.2107,
-      "scoring_peak": 11245,
+      "current_peak": 51039,
+      "previous_peak": 43882,
+      "previous_record_peak": 43882,
+      "growth_rate": 0.1631,
+      "record_growth_rate": 0.1631,
+      "scoring_peak": 51039,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 18.24,
-      "raw_record_growth_score": 7.37,
+      "peak_score": 25.75,
+      "raw_record_growth_score": 5.71,
       "growth_score_multiplier": 1.0,
-      "record_growth_score": 7.37,
-      "days_seen_score": 8.57,
+      "record_growth_score": 5.71,
+      "days_seen_score": 4.29,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 46.18,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "monthly_star_count": 0,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
-      "review_ratio": null,
-      "review_total": 0,
-      "days_seen": 6,
+      "score_before_multiplier": 47.75,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "review_ratio": 68.0,
+      "review_total": 66410,
+      "days_seen": 3,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 8,
-      "steam_release_age_days": 8,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -184,94 +177,79 @@
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
-      "genres": [],
+      "genres": [
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演",
+        "策略"
+      ],
       "trend": [
         {
-          "date": "2026-06-15",
-          "peak": 9288
-        },
-        {
-          "date": "2026-06-16",
-          "peak": 9162
-        },
-        {
-          "date": "2026-06-17",
-          "peak": 8660
-        },
-        {
           "date": "2026-06-19",
-          "peak": 8947
+          "peak": 29261
         },
         {
           "date": "2026-06-20",
-          "peak": 9066
+          "peak": 43882
         },
         {
           "date": "2026-06-21",
-          "peak": 11245
+          "peak": 51039
         }
       ]
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "month_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4282490"
+        "url": "https://store.steampowered.com/app/838350"
       }
     ],
     "game": {
-      "slug": "mistfall-hunter-demo",
-      "appid": "4282490",
-      "name": "Mistfall Hunter Demo",
+      "slug": "the-scroll-of-taiwu-beyond-the-dome",
+      "appid": "838350",
+      "name": "The Scroll of Taiwu : Beyond The Dome",
       "name_cn": null,
-      "description": "",
-      "release_date": "2026-06-13",
-      "genres": [],
-      "tags": [
-        "多人",
-        "玩家对战",
-        "线上玩家对战",
-        "合作",
-        "在线合作",
-        "游戏试用版",
-        "完全支持控制器",
-        "可用 HDR"
+      "description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
+      "release_date": "2026-06-16",
+      "genres": [
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演",
+        "策略"
       ],
-      "review_score": "暂无评价",
-      "review_ratio": null,
-      "review_total": 0,
-      "developer": "Bellring Games",
-      "publisher": "Skystone Games",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282490/cfa9fe92a707b5687f3e340f27d0325a4c4428a0/header.jpg?t=1781377380",
-      "steam_url": "https://store.steampowered.com/app/4282490",
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 创意工坊",
+        "在平板上远程畅玩",
+        "家庭共享"
+      ],
+      "review_score": "褒贬不一",
+      "review_ratio": 68.0,
+      "review_total": 66410,
+      "developer": "ConchShip Games",
+      "publisher": "ConchShip Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782113702",
+      "steam_url": "https://store.steampowered.com/app/838350",
       "trend": [
         {
-          "date": "2026-06-15",
-          "peak": 9288
-        },
-        {
-          "date": "2026-06-16",
-          "peak": 9162
-        },
-        {
-          "date": "2026-06-17",
-          "peak": 8660
-        },
-        {
           "date": "2026-06-19",
-          "peak": 8947
+          "peak": 29261
         },
         {
           "date": "2026-06-20",
-          "peak": 9066
+          "peak": 43882
         },
         {
           "date": "2026-06-21",
-          "peak": 11245
+          "peak": 51039
         }
       ]
     }
@@ -282,278 +260,42 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 41.68,
-      "fact_summary": "IRON NEST: Heavy Turret Simulator Demo 今日观测峰值 10,942，较过往最高峰值提升 +12%，被识别为「新作起量」。",
+      "score": 36.94,
+      "fact_summary": "Mistfall Hunter Demo 今日观测峰值 11,245，较过往最高峰值提升 +21%，被识别为「新作起量」。",
       "metrics": {
-        "current_peak": 10942,
-        "previous_peak": 9730,
-        "previous_record_peak": 9730,
-        "growth_rate": 0.1246,
-        "record_growth_rate": 0.1246,
-        "scoring_peak": 10942,
+        "current_peak": 11245,
+        "previous_peak": 9288,
+        "previous_record_peak": 9288,
+        "growth_rate": 0.2107,
+        "record_growth_rate": 0.2107,
+        "scoring_peak": 11245,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 18.18,
-        "raw_record_growth_score": 4.36,
+        "peak_score": 18.24,
+        "raw_record_growth_score": 7.37,
         "growth_score_multiplier": 1.0,
-        "record_growth_score": 4.36,
-        "days_seen_score": 7.14,
+        "record_growth_score": 7.37,
+        "days_seen_score": 8.57,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 41.68,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
-        "prior_total_star_count": 0,
-        "total_star_count": 1,
-        "star_appearance_count": 1,
-        "cumulative_star_count": 0,
-        "review_ratio": 99.0,
-        "review_total": 4751,
-        "days_seen": 5,
-        "comeback_gap_days": 1,
-        "is_new_release": true,
-        "release_age_days": 6,
-        "steam_release_age_days": 6,
-        "release_age_basis": "steam",
-        "release_verification_required": false,
-        "release_verification": null,
-        "all_platform_release_date": null,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [
-          "动作",
-          "独立",
-          "模拟",
-          "免费"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-16",
-            "peak": 6011
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 4754
-          },
-          {
-            "date": "2026-06-19",
-            "peak": 6457
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 9730
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 10942
-          }
-        ]
-      },
-      "star_appearance": {
-        "count": 1,
-        "prior_count": 0,
-        "month_prior_count": 0
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/4300500"
-        }
-      ],
-      "game": {
-        "slug": "iron-nest-heavy-turret-simulator-demo",
-        "appid": "4300500",
-        "name": "IRON NEST: Heavy Turret Simulator Demo",
-        "name_cn": null,
-        "description": "《铁巢重炮》是一款残酷的柴油朋克重型火炮游戏，你将驾驶一台巨型战争机器，统治整个战场。 依照接收到的座标进行地图测距，将液压系统推到极限，校准火炮并发起毁灭性的打击 ⟹ 操作员，你会服从最高统帅部的命令吗？",
-        "release_date": "2026-06-15",
-        "genres": [
-          "动作",
-          "独立",
-          "模拟",
-          "免费"
-        ],
-        "tags": [
-          "单人",
-          "游戏试用版",
-          "完全支持控制器",
-          "可选颜色",
-          "自定义音量控制",
-          "无需应对快速反应事件",
-          "立体声",
-          "环绕声"
-        ],
-        "review_score": "好评如潮",
-        "review_ratio": 99.0,
-        "review_total": 4751,
-        "developer": "Nick Nieuwoudt, Dominik Latos",
-        "publisher": "Nick Nieuwoudt, Dominik Latos",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300500/6f0aa68814c48b298debab1028307e6aa4e6d7d4/header.jpg?t=1781623490",
-        "steam_url": "https://store.steampowered.com/app/4300500",
-        "trend": [
-          {
-            "date": "2026-06-16",
-            "peak": 6011
-          },
-          {
-            "date": "2026-06-17",
-            "peak": 4754
-          },
-          {
-            "date": "2026-06-19",
-            "peak": 6457
-          },
-          {
-            "date": "2026-06-20",
-            "peak": 9730
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 10942
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 41.12,
-      "fact_summary": "太吾绘卷：天幕心帷 今日观测峰值 45,766，较过往最高峰值提升 +4%，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 45766,
-        "previous_peak": 43882,
-        "previous_record_peak": 43882,
-        "growth_rate": 0.0429,
-        "record_growth_rate": 0.0429,
-        "scoring_peak": 45766,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 24.76,
-        "raw_record_growth_score": 1.5,
-        "growth_score_multiplier": 1.0,
-        "record_growth_score": 1.5,
-        "days_seen_score": 2.86,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 41.12,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
-        "prior_total_star_count": 0,
-        "total_star_count": 1,
-        "star_appearance_count": 1,
-        "cumulative_star_count": 0,
-        "review_ratio": 69.0,
-        "review_total": 65300,
-        "days_seen": 2,
-        "comeback_gap_days": 0,
-        "is_new_release": true,
-        "release_age_days": 5,
-        "steam_release_age_days": 5,
-        "release_age_basis": "steam",
-        "release_verification_required": false,
-        "release_verification": null,
-        "all_platform_release_date": null,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "策略"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-20",
-            "peak": 43882
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 45766
-          }
-        ]
-      },
-      "star_appearance": {
-        "count": 1,
-        "prior_count": 0,
-        "month_prior_count": 0
-      },
-      "sources": [],
-      "game": {
-        "slug": "case",
-        "appid": null,
-        "name": "太吾绘卷：天幕心帷",
-        "name_cn": null,
-        "description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
-        "release_date": "2026-06-16",
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "策略"
-        ],
-        "tags": [],
-        "review_score": "褒贬不一",
-        "review_ratio": 69.0,
-        "review_total": 65300,
-        "developer": null,
-        "publisher": null,
-        "cover_image_url": null,
-        "steam_url": null,
-        "trend": [
-          {
-            "date": "2026-06-20",
-            "peak": 43882
-          },
-          {
-            "date": "2026-06-21",
-            "peak": 45766
-          }
-        ]
-      }
-    },
-    {
-      "rank": 4,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 38.41,
-      "fact_summary": "The Scroll of Taiwu : Beyond The Dome 今日观测峰值 51,039，较过往最高峰值提升 +17%，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 51039,
-        "previous_peak": 43594,
-        "previous_record_peak": 43594,
-        "growth_rate": 0.1708,
-        "record_growth_rate": 0.1708,
-        "scoring_peak": 51039,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 25.75,
-        "raw_record_growth_score": 5.98,
-        "growth_score_multiplier": 1.0,
-        "record_growth_score": 5.98,
-        "days_seen_score": 4.29,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 48.01,
+        "score_before_multiplier": 46.18,
         "score_multiplier": 0.8,
         "score_multiplier_reasons": [
-          "monthly_star_1x"
+          "repeat_window_star_1x"
         ],
-        "monthly_star_count": 1,
+        "repeat_window_star_count": 1,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 1,
         "total_star_count": 2,
         "star_appearance_count": 2,
         "cumulative_star_count": 1,
-        "review_ratio": 68.0,
-        "review_total": 66410,
-        "days_seen": 3,
+        "review_ratio": null,
+        "review_total": 0,
+        "days_seen": 6,
         "comeback_gap_days": 1,
         "is_new_release": true,
-        "release_age_days": 5,
-        "steam_release_age_days": 5,
+        "release_age_days": 8,
+        "steam_release_age_days": 8,
         "release_age_basis": "steam",
         "release_verification_required": false,
         "release_verification": null,
@@ -561,85 +303,100 @@
         "is_comeback_age": false,
         "comeback_reason": "not_comeback_age",
         "comeback_evidence": null,
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "策略"
-        ],
+        "genres": [],
         "trend": [
           {
+            "date": "2026-06-15",
+            "peak": 9288
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 9162
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 8660
+          },
+          {
             "date": "2026-06-19",
-            "peak": 29261
+            "peak": 8947
           },
           {
             "date": "2026-06-20",
-            "peak": 43594
+            "peak": 9066
           },
           {
             "date": "2026-06-21",
-            "peak": 51039
+            "peak": 11245
           }
         ]
       },
       "star_appearance": {
         "count": 2,
         "prior_count": 1,
-        "month_prior_count": 1
+        "repeat_window_prior_count": 1
       },
       "sources": [
         {
           "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/838350"
+          "url": "https://store.steampowered.com/app/4282490"
         }
       ],
       "game": {
-        "slug": "the-scroll-of-taiwu-beyond-the-dome",
-        "appid": "838350",
-        "name": "The Scroll of Taiwu : Beyond The Dome",
+        "slug": "mistfall-hunter-demo",
+        "appid": "4282490",
+        "name": "Mistfall Hunter Demo",
         "name_cn": null,
-        "description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
-        "release_date": "2026-06-16",
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "策略"
-        ],
+        "description": "",
+        "release_date": "2026-06-13",
+        "genres": [],
         "tags": [
-          "单人",
-          "Steam 成就",
-          "Steam 创意工坊",
-          "在平板上远程畅玩",
-          "家庭共享"
+          "多人",
+          "玩家对战",
+          "线上玩家对战",
+          "合作",
+          "在线合作",
+          "游戏试用版",
+          "完全支持控制器",
+          "可用 HDR"
         ],
-        "review_score": "褒贬不一",
-        "review_ratio": 68.0,
-        "review_total": 66410,
-        "developer": "ConchShip Games",
-        "publisher": "ConchShip Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782113702",
-        "steam_url": "https://store.steampowered.com/app/838350",
+        "review_score": "暂无评价",
+        "review_ratio": null,
+        "review_total": 0,
+        "developer": "Bellring Games",
+        "publisher": "Skystone Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282490/cfa9fe92a707b5687f3e340f27d0325a4c4428a0/header.jpg?t=1781377380",
+        "steam_url": "https://store.steampowered.com/app/4282490",
         "trend": [
           {
+            "date": "2026-06-15",
+            "peak": 9288
+          },
+          {
+            "date": "2026-06-16",
+            "peak": 9162
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 8660
+          },
+          {
             "date": "2026-06-19",
-            "peak": 29261
+            "peak": 8947
           },
           {
             "date": "2026-06-20",
-            "peak": 43594
+            "peak": 9066
           },
           {
             "date": "2026-06-21",
-            "peak": 51039
+            "peak": 11245
           }
         ]
       }
     },
     {
-      "rank": 5,
+      "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
       "score": 34.93,
@@ -662,7 +419,9 @@
         "score_before_multiplier": 34.93,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 0,
         "total_star_count": 1,
         "star_appearance_count": 1,
@@ -726,7 +485,7 @@
       "star_appearance": {
         "count": 1,
         "prior_count": 0,
-        "month_prior_count": 0
+        "repeat_window_prior_count": 0
       },
       "sources": [
         {
@@ -795,6 +554,242 @@
           {
             "date": "2026-06-21",
             "peak": 7182
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 34.44,
+      "fact_summary": "Road to Empress Ⅱ 今日观测峰值 25,926，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 25926,
+        "previous_peak": 0,
+        "previous_record_peak": 0,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 25926,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 21.01,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 34.44,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 83.0,
+        "review_total": 7008,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "release_age_days": 13,
+        "steam_release_age_days": 13,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-21",
+            "peak": 25926
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "repeat_window_prior_count": 0
+      },
+      "sources": [],
+      "game": {
+        "slug": "road-to-empress",
+        "appid": null,
+        "name": "Road to Empress Ⅱ",
+        "name_cn": null,
+        "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
+        "release_date": "2026-06-08",
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "tags": [],
+        "review_score": "特别好评",
+        "review_ratio": 83.0,
+        "review_total": 7008,
+        "developer": null,
+        "publisher": null,
+        "cover_image_url": null,
+        "steam_url": null,
+        "trend": [
+          {
+            "date": "2026-06-21",
+            "peak": 25926
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 33.34,
+      "fact_summary": "IRON NEST: Heavy Turret Simulator Demo 今日观测峰值 10,942，较过往最高峰值提升 +12%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 10942,
+        "previous_peak": 9730,
+        "previous_record_peak": 9730,
+        "growth_rate": 0.1246,
+        "record_growth_rate": 0.1246,
+        "scoring_peak": 10942,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 18.18,
+        "raw_record_growth_score": 4.36,
+        "growth_score_multiplier": 1.0,
+        "record_growth_score": 4.36,
+        "days_seen_score": 7.14,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 41.68,
+        "score_multiplier": 0.8,
+        "score_multiplier_reasons": [
+          "repeat_window_star_1x"
+        ],
+        "repeat_window_star_count": 1,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 1,
+        "total_star_count": 2,
+        "star_appearance_count": 2,
+        "cumulative_star_count": 1,
+        "review_ratio": 99.0,
+        "review_total": 4751,
+        "days_seen": 5,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 6,
+        "steam_release_age_days": 6,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "动作",
+          "独立",
+          "模拟",
+          "免费"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-16",
+            "peak": 6011
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 4754
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 6457
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 9730
+          },
+          {
+            "date": "2026-06-21",
+            "peak": 10942
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 2,
+        "prior_count": 1,
+        "repeat_window_prior_count": 1
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4300500"
+        }
+      ],
+      "game": {
+        "slug": "iron-nest-heavy-turret-simulator-demo",
+        "appid": "4300500",
+        "name": "IRON NEST: Heavy Turret Simulator Demo",
+        "name_cn": null,
+        "description": "《铁巢重炮》是一款残酷的柴油朋克重型火炮游戏，你将驾驶一台巨型战争机器，统治整个战场。 依照接收到的座标进行地图测距，将液压系统推到极限，校准火炮并发起毁灭性的打击 ⟹ 操作员，你会服从最高统帅部的命令吗？",
+        "release_date": "2026-06-15",
+        "genres": [
+          "动作",
+          "独立",
+          "模拟",
+          "免费"
+        ],
+        "tags": [
+          "单人",
+          "游戏试用版",
+          "完全支持控制器",
+          "可选颜色",
+          "自定义音量控制",
+          "无需应对快速反应事件",
+          "立体声",
+          "环绕声"
+        ],
+        "review_score": "好评如潮",
+        "review_ratio": 99.0,
+        "review_total": 4751,
+        "developer": "Nick Nieuwoudt, Dominik Latos",
+        "publisher": "Nick Nieuwoudt, Dominik Latos",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300500/6f0aa68814c48b298debab1028307e6aa4e6d7d4/header.jpg?t=1781623490",
+        "steam_url": "https://store.steampowered.com/app/4300500",
+        "trend": [
+          {
+            "date": "2026-06-16",
+            "peak": 6011
+          },
+          {
+            "date": "2026-06-17",
+            "peak": 4754
+          },
+          {
+            "date": "2026-06-19",
+            "peak": 6457
+          },
+          {
+            "date": "2026-06-20",
+            "peak": 9730
+          },
+          {
+            "date": "2026-06-21",
+            "peak": 10942
           }
         ]
       }

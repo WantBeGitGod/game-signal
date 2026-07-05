@@ -1,0 +1,38 @@
+{
+  "slug": "empulse",
+  "appid": "4323990",
+  "name": "EMPULSE",
+  "name_cn": null,
+  "description": "EMPULSE 是一款即将上线的高速6v6移动射击游戏。跑墙、钩爪、Holojump、驾驶机甲、用 P.A.I.N.T. 征服 Freehold 的垂直街道。比对手跑得更快，否则只能被打倒。",
+  "release_date": "2026-06-24",
+  "genres": [
+    "动作",
+    "抢先体验"
+  ],
+  "tags": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "跨平台多人",
+    "Steam 成就",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "部分支持控制器",
+    "家庭共享"
+  ],
+  "review_score": "Mostly Positive",
+  "review_ratio": 74.0,
+  "review_total": 1295,
+  "developer": "1047 Games",
+  "publisher": "1047 Games",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323990/0c3db5731395be25b56008bffda2f27ed08e703d/header.jpg?t=1782317659",
+  "steam_url": "https://store.steampowered.com/app/4323990",
+  "trend": [
+    {
+      "date": "2026-06-30",
+      "peak": 2296
+    }
+  ]
+}

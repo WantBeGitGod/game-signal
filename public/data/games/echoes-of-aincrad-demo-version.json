@@ -1,0 +1,27 @@
+{
+  "slug": "echoes-of-aincrad-demo-version",
+  "appid": "4148250",
+  "name": "Echoes of Aincrad DEMO Version",
+  "name_cn": null,
+  "description": "踏入艾恩葛朗特，这是一个充满美丽与危险的世界，每一场战斗都可能是你的最后一场。该演示版本允许您玩 Beta 测试章节。演示版中的保存数据可以延续到完整版。",
+  "release_date": "2026-06-15",
+  "genres": [],
+  "tags": [
+    "单人",
+    "游戏试用版",
+    "Steam 云"
+  ],
+  "review_score": "暂无评价",
+  "review_ratio": null,
+  "review_total": 0,
+  "developer": "Game Studio Inc.",
+  "publisher": "Bandai Namco Entertainment Inc.",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148250/6c1a7122664bf56783dd4f471c4381f3f9f09b23/header_schinese.jpg?t=1781625833",
+  "steam_url": "https://store.steampowered.com/app/4148250",
+  "trend": [
+    {
+      "date": "2026-06-16",
+      "peak": 9533
+    }
+  ]
+}

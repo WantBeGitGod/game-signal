@@ -10,40 +10,40 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 38.77,
-    "fact_summary": "Sand 今日观测峰值 41,679，较过往最高峰值提升 +27%，被识别为「新作起量」。",
+    "score": 28.49,
+    "fact_summary": "Master Healer Kale with useless party 今日观测峰值 2,303，较过往最高峰值提升 +143%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 41679,
-      "previous_peak": 32856,
-      "previous_record_peak": 32856,
-      "growth_rate": 0.2685,
-      "record_growth_rate": 0.2685,
-      "scoring_peak": 41679,
+      "current_peak": 2303,
+      "previous_peak": 947,
+      "previous_record_peak": 947,
+      "growth_rate": 1.4319,
+      "record_growth_rate": 1.4319,
+      "scoring_peak": 2303,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 23.98,
-      "raw_record_growth_score": 9.4,
-      "growth_score_multiplier": 1.0,
-      "record_growth_score": 9.4,
-      "days_seen_score": 10.0,
+      "peak_score": 4.15,
+      "raw_record_growth_score": 35.0,
+      "growth_score_multiplier": 0.2303,
+      "record_growth_score": 8.06,
+      "days_seen_score": 4.29,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 55.38,
-      "score_multiplier": 0.7,
-      "score_multiplier_reasons": [
-        "monthly_star_2x"
-      ],
-      "monthly_star_count": 2,
-      "prior_total_star_count": 6,
-      "total_star_count": 7,
-      "star_appearance_count": 7,
-      "cumulative_star_count": 2,
-      "review_ratio": 55.0,
-      "review_total": 7016,
-      "days_seen": 11,
+      "score_before_multiplier": 28.49,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 98.0,
+      "review_total": 212,
+      "days_seen": 3,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 12,
-      "steam_release_age_days": 12,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -52,138 +52,84 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
-        "抢先体验"
+        "独立",
+        "角色扮演",
+        "策略"
       ],
       "trend": [
         {
-          "date": "2026-06-23",
-          "peak": 15703
-        },
-        {
-          "date": "2026-06-24",
-          "peak": 13358
-        },
-        {
-          "date": "2026-06-25",
-          "peak": 13882
-        },
-        {
-          "date": "2026-06-26",
-          "peak": 15627
-        },
-        {
-          "date": "2026-06-27",
-          "peak": 21659
-        },
-        {
-          "date": "2026-06-28",
-          "peak": 31756
-        },
-        {
-          "date": "2026-06-30",
-          "peak": 25134
-        },
-        {
-          "date": "2026-07-01",
-          "peak": 22167
-        },
-        {
           "date": "2026-07-02",
-          "peak": 32856
+          "peak": 947
         },
         {
           "date": "2026-07-03",
-          "peak": 32856
+          "peak": 947
         },
         {
           "date": "2026-07-04",
-          "peak": 41679
+          "peak": 2303
         }
       ]
     },
     "star_appearance": {
-      "count": 7,
-      "prior_count": 6,
-      "month_prior_count": 2
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1431300"
+        "url": "https://store.steampowered.com/app/4634490"
       }
     ],
     "game": {
-      "slug": "sand",
-      "appid": "1431300",
-      "name": "Sand",
+      "slug": "master-healer-kale-with-useless-party",
+      "appid": "4634490",
+      "name": "Master Healer Kale with useless party",
       "name_cn": null,
-      "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
-      "release_date": "2026-06-22",
+      "description": "A short incremental game where you play as a Healer in a party. Your main job is to keep your party alive. Upgrade 200+ skills in a skill tree, from healing to party damage. Designed to be completed in around 4 hours.",
+      "release_date": "2026-07-02",
       "genres": [
-        "动作",
-        "冒险",
-        "抢先体验"
+        "独立",
+        "角色扮演",
+        "策略"
       ],
       "tags": [
-        "多人",
-        "玩家对战",
-        "线上玩家对战",
+        "单人",
         "Steam 成就",
+        "完全支持控制器",
+        "自定义音量控制",
+        "可以仅用键盘",
+        "可以仅用鼠标",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "随时保存",
+        "Steam 输入 API 支持",
+        "可以仅用触控",
         "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 55.0,
-      "review_total": 7016,
-      "developer": "Hologryph, TowerHaus",
-      "publisher": "tinyBuild",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
-      "steam_url": "https://store.steampowered.com/app/1431300",
+      "review_score": "Very Positive",
+      "review_ratio": 98.0,
+      "review_total": 212,
+      "developer": "Evrac Studio",
+      "publisher": "Evrac Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634490/088b9ab009bb95af23d5e8662ad572c38aad14f0/header.jpg?t=1783051217",
+      "steam_url": "https://store.steampowered.com/app/4634490",
       "trend": [
         {
-          "date": "2026-06-23",
-          "peak": 15703
-        },
-        {
-          "date": "2026-06-24",
-          "peak": 13358
-        },
-        {
-          "date": "2026-06-25",
-          "peak": 13882
-        },
-        {
-          "date": "2026-06-26",
-          "peak": 15627
-        },
-        {
-          "date": "2026-06-27",
-          "peak": 21659
-        },
-        {
-          "date": "2026-06-28",
-          "peak": 31756
-        },
-        {
-          "date": "2026-06-30",
-          "peak": 25134
-        },
-        {
-          "date": "2026-07-01",
-          "peak": 22167
-        },
-        {
           "date": "2026-07-02",
-          "peak": 32856
+          "peak": 947
         },
         {
           "date": "2026-07-03",
-          "peak": 32856
+          "peak": 947
         },
         {
           "date": "2026-07-04",
-          "peak": 41679
+          "peak": 2303
         }
       ]
     }
@@ -192,40 +138,40 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 38.77,
-    "fact_summary": "Sand 今日观测峰值 41,679，较过往最高峰值提升 +27%，被识别为「新作起量」。",
+    "score": 28.49,
+    "fact_summary": "Master Healer Kale with useless party 今日观测峰值 2,303，较过往最高峰值提升 +143%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 41679,
-      "previous_peak": 32856,
-      "previous_record_peak": 32856,
-      "growth_rate": 0.2685,
-      "record_growth_rate": 0.2685,
-      "scoring_peak": 41679,
+      "current_peak": 2303,
+      "previous_peak": 947,
+      "previous_record_peak": 947,
+      "growth_rate": 1.4319,
+      "record_growth_rate": 1.4319,
+      "scoring_peak": 2303,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 23.98,
-      "raw_record_growth_score": 9.4,
-      "growth_score_multiplier": 1.0,
-      "record_growth_score": 9.4,
-      "days_seen_score": 10.0,
+      "peak_score": 4.15,
+      "raw_record_growth_score": 35.0,
+      "growth_score_multiplier": 0.2303,
+      "record_growth_score": 8.06,
+      "days_seen_score": 4.29,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 55.38,
-      "score_multiplier": 0.7,
-      "score_multiplier_reasons": [
-        "monthly_star_2x"
-      ],
-      "monthly_star_count": 2,
-      "prior_total_star_count": 6,
-      "total_star_count": 7,
-      "star_appearance_count": 7,
-      "cumulative_star_count": 2,
-      "review_ratio": 55.0,
-      "review_total": 7016,
-      "days_seen": 11,
+      "score_before_multiplier": 28.49,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 98.0,
+      "review_total": 212,
+      "days_seen": 3,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 12,
-      "steam_release_age_days": 12,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -234,138 +180,84 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
-        "抢先体验"
+        "独立",
+        "角色扮演",
+        "策略"
       ],
       "trend": [
         {
-          "date": "2026-06-23",
-          "peak": 15703
-        },
-        {
-          "date": "2026-06-24",
-          "peak": 13358
-        },
-        {
-          "date": "2026-06-25",
-          "peak": 13882
-        },
-        {
-          "date": "2026-06-26",
-          "peak": 15627
-        },
-        {
-          "date": "2026-06-27",
-          "peak": 21659
-        },
-        {
-          "date": "2026-06-28",
-          "peak": 31756
-        },
-        {
-          "date": "2026-06-30",
-          "peak": 25134
-        },
-        {
-          "date": "2026-07-01",
-          "peak": 22167
-        },
-        {
           "date": "2026-07-02",
-          "peak": 32856
+          "peak": 947
         },
         {
           "date": "2026-07-03",
-          "peak": 32856
+          "peak": 947
         },
         {
           "date": "2026-07-04",
-          "peak": 41679
+          "peak": 2303
         }
       ]
     },
     "star_appearance": {
-      "count": 7,
-      "prior_count": 6,
-      "month_prior_count": 2
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1431300"
+        "url": "https://store.steampowered.com/app/4634490"
       }
     ],
     "game": {
-      "slug": "sand",
-      "appid": "1431300",
-      "name": "Sand",
+      "slug": "master-healer-kale-with-useless-party",
+      "appid": "4634490",
+      "name": "Master Healer Kale with useless party",
       "name_cn": null,
-      "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
-      "release_date": "2026-06-22",
+      "description": "A short incremental game where you play as a Healer in a party. Your main job is to keep your party alive. Upgrade 200+ skills in a skill tree, from healing to party damage. Designed to be completed in around 4 hours.",
+      "release_date": "2026-07-02",
       "genres": [
-        "动作",
-        "冒险",
-        "抢先体验"
+        "独立",
+        "角色扮演",
+        "策略"
       ],
       "tags": [
-        "多人",
-        "玩家对战",
-        "线上玩家对战",
+        "单人",
         "Steam 成就",
+        "完全支持控制器",
+        "自定义音量控制",
+        "可以仅用键盘",
+        "可以仅用鼠标",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "随时保存",
+        "Steam 输入 API 支持",
+        "可以仅用触控",
         "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 55.0,
-      "review_total": 7016,
-      "developer": "Hologryph, TowerHaus",
-      "publisher": "tinyBuild",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
-      "steam_url": "https://store.steampowered.com/app/1431300",
+      "review_score": "Very Positive",
+      "review_ratio": 98.0,
+      "review_total": 212,
+      "developer": "Evrac Studio",
+      "publisher": "Evrac Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634490/088b9ab009bb95af23d5e8662ad572c38aad14f0/header.jpg?t=1783051217",
+      "steam_url": "https://store.steampowered.com/app/4634490",
       "trend": [
         {
-          "date": "2026-06-23",
-          "peak": 15703
-        },
-        {
-          "date": "2026-06-24",
-          "peak": 13358
-        },
-        {
-          "date": "2026-06-25",
-          "peak": 13882
-        },
-        {
-          "date": "2026-06-26",
-          "peak": 15627
-        },
-        {
-          "date": "2026-06-27",
-          "peak": 21659
-        },
-        {
-          "date": "2026-06-28",
-          "peak": 31756
-        },
-        {
-          "date": "2026-06-30",
-          "peak": 25134
-        },
-        {
-          "date": "2026-07-01",
-          "peak": 22167
-        },
-        {
           "date": "2026-07-02",
-          "peak": 32856
+          "peak": 947
         },
         {
           "date": "2026-07-03",
-          "peak": 32856
+          "peak": 947
         },
         {
           "date": "2026-07-04",
-          "peak": 41679
+          "peak": 2303
         }
       ]
     }
@@ -376,7 +268,147 @@
       "rank": 2,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 28.88,
+      "score": 25.53,
+      "fact_summary": "Gloria Victis 今日观测峰值 3,259，较过往最高峰值提升 +17%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 3259,
+        "previous_peak": 2783,
+        "previous_record_peak": 2783,
+        "growth_rate": 0.171,
+        "record_growth_rate": 0.171,
+        "scoring_peak": 3259,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 5.87,
+        "raw_record_growth_score": 5.99,
+        "growth_score_multiplier": 0.3259,
+        "record_growth_score": 1.95,
+        "days_seen_score": 5.71,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 25.53,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 69.0,
+        "review_total": 11326,
+        "days_seen": 4,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 17,
+        "steam_release_age_days": 17,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "大型多人在线",
+          "角色扮演",
+          "模拟",
+          "免费"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 2780
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 2783
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 2783
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 3259
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "repeat_window_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/327070"
+        }
+      ],
+      "game": {
+        "slug": "gloria-victis",
+        "appid": "327070",
+        "name": "Gloria Victis",
+        "name_cn": null,
+        "description": "《Gloria Victis》是一款侧重真实性的开放世界大型多人在线角色扮演游戏，背景设定为略带魔幻风格的中世纪。本游戏战斗系统无目标锁定机制，依赖玩家操作，玩家可在开放式的PVP战斗中争夺领土控制权。游戏的制造系统有深度而无所不包，经济系统由玩家主导，剧情成熟而宏大，画面写实而绚丽，向玩家呈现沉浸式的游戏体验。 游戏有两大阵营：居住在大草原上的自豪的中土人，以及住在寒冷北方又复仇心切的伊斯米尔人。玩家将选择一方加入，然后奔赴战场！",
+        "release_date": "2026-06-17",
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "大型多人在线",
+          "角色扮演",
+          "模拟",
+          "免费"
+        ],
+        "tags": [
+          "多人",
+          "大型多人在线",
+          "玩家对战",
+          "线上玩家对战",
+          "合作",
+          "在线合作",
+          "Steam 成就",
+          "Steam 集换式卡牌",
+          "应用内购买",
+          "统计数据",
+          "家庭共享"
+        ],
+        "review_score": "Mixed",
+        "review_ratio": 69.0,
+        "review_total": 11326,
+        "developer": "gamigo US",
+        "publisher": "gamigo US",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327070/ee34cd9e855b2a4e20682c2ae6b12a27ccf042aa/header.jpg?t=1782471732",
+        "steam_url": "https://store.steampowered.com/app/327070",
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 2780
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 2783
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 2783
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 3259
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 23.11,
       "fact_summary": "Orb of Creation 今日观测峰值 3,823，未超过过往最高峰值 5,626，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 3823,
@@ -394,13 +426,17 @@
         "days_seen_score": 10.0,
         "signal_type_score": 12.0,
         "score_before_multiplier": 28.88,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
+        "score_multiplier": 0.8,
+        "score_multiplier_reasons": [
+          "repeat_window_star_1x"
+        ],
+        "repeat_window_star_count": 1,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 1,
         "total_star_count": 2,
         "star_appearance_count": 2,
-        "cumulative_star_count": 0,
+        "cumulative_star_count": 1,
         "review_ratio": 87.0,
         "review_total": 1925,
         "days_seen": 8,
@@ -458,7 +494,7 @@
       "star_appearance": {
         "count": 2,
         "prior_count": 1,
-        "month_prior_count": 0
+        "repeat_window_prior_count": 1
       },
       "sources": [
         {
@@ -528,10 +564,10 @@
       }
     },
     {
-      "rank": 3,
+      "rank": 4,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 28.75,
+      "score": 23.0,
       "fact_summary": "Supermarket Chaos 今日观测峰值 4,233，较过往最高峰值提升 +23%，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 4233,
@@ -549,13 +585,17 @@
         "days_seen_score": 5.71,
         "signal_type_score": 12.0,
         "score_before_multiplier": 28.75,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
-        "prior_total_star_count": 0,
-        "total_star_count": 1,
-        "star_appearance_count": 1,
-        "cumulative_star_count": 0,
+        "score_multiplier": 0.8,
+        "score_multiplier_reasons": [
+          "repeat_window_star_1x"
+        ],
+        "repeat_window_star_count": 1,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 1,
+        "total_star_count": 2,
+        "star_appearance_count": 2,
+        "cumulative_star_count": 1,
         "review_ratio": 88.0,
         "review_total": 475,
         "days_seen": 4,
@@ -594,9 +634,9 @@
         ]
       },
       "star_appearance": {
-        "count": 1,
-        "prior_count": 0,
-        "month_prior_count": 0
+        "count": 2,
+        "prior_count": 1,
+        "repeat_window_prior_count": 1
       },
       "sources": [
         {
@@ -658,162 +698,38 @@
       }
     },
     {
-      "rank": 4,
-      "type": "new_release_rise",
-      "label": "新作起量",
-      "score": 28.49,
-      "fact_summary": "Master Healer Kale with useless party 今日观测峰值 2,303，较过往最高峰值提升 +143%，被识别为「新作起量」。",
-      "metrics": {
-        "current_peak": 2303,
-        "previous_peak": 947,
-        "previous_record_peak": 947,
-        "growth_rate": 1.4319,
-        "record_growth_rate": 1.4319,
-        "scoring_peak": 2303,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 4.15,
-        "raw_record_growth_score": 35.0,
-        "growth_score_multiplier": 0.2303,
-        "record_growth_score": 8.06,
-        "days_seen_score": 4.29,
-        "signal_type_score": 12.0,
-        "score_before_multiplier": 28.49,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
-        "prior_total_star_count": 0,
-        "total_star_count": 1,
-        "star_appearance_count": 1,
-        "cumulative_star_count": 0,
-        "review_ratio": 98.0,
-        "review_total": 212,
-        "days_seen": 3,
-        "comeback_gap_days": 1,
-        "is_new_release": true,
-        "release_age_days": 2,
-        "steam_release_age_days": 2,
-        "release_age_basis": "steam",
-        "release_verification_required": false,
-        "release_verification": null,
-        "all_platform_release_date": null,
-        "is_comeback_age": false,
-        "comeback_reason": "not_comeback_age",
-        "comeback_evidence": null,
-        "genres": [
-          "独立",
-          "角色扮演",
-          "策略"
-        ],
-        "trend": [
-          {
-            "date": "2026-07-02",
-            "peak": 947
-          },
-          {
-            "date": "2026-07-03",
-            "peak": 947
-          },
-          {
-            "date": "2026-07-04",
-            "peak": 2303
-          }
-        ]
-      },
-      "star_appearance": {
-        "count": 1,
-        "prior_count": 0,
-        "month_prior_count": 0
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/4634490"
-        }
-      ],
-      "game": {
-        "slug": "master-healer-kale-with-useless-party",
-        "appid": "4634490",
-        "name": "Master Healer Kale with useless party",
-        "name_cn": null,
-        "description": "A short incremental game where you play as a Healer in a party. Your main job is to keep your party alive. Upgrade 200+ skills in a skill tree, from healing to party damage. Designed to be completed in around 4 hours.",
-        "release_date": "2026-07-02",
-        "genres": [
-          "独立",
-          "角色扮演",
-          "策略"
-        ],
-        "tags": [
-          "单人",
-          "Steam 成就",
-          "完全支持控制器",
-          "自定义音量控制",
-          "可以仅用键盘",
-          "可以仅用鼠标",
-          "无需应对快速反应事件",
-          "DUALSHOCK 控制器支持",
-          "DUALSHOCK 控制器支持",
-          "DUALSHOCK 控制器支持",
-          "DUALSHOCK 控制器支持",
-          "随时保存",
-          "Steam 输入 API 支持",
-          "可以仅用触控",
-          "家庭共享"
-        ],
-        "review_score": "Very Positive",
-        "review_ratio": 98.0,
-        "review_total": 212,
-        "developer": "Evrac Studio",
-        "publisher": "Evrac Studio",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634490/088b9ab009bb95af23d5e8662ad572c38aad14f0/header.jpg?t=1783051217",
-        "steam_url": "https://store.steampowered.com/app/4634490",
-        "trend": [
-          {
-            "date": "2026-07-02",
-            "peak": 947
-          },
-          {
-            "date": "2026-07-03",
-            "peak": 947
-          },
-          {
-            "date": "2026-07-04",
-            "peak": 2303
-          }
-        ]
-      }
-    },
-    {
       "rank": 5,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 25.53,
-      "fact_summary": "Gloria Victis 今日观测峰值 3,259，较过往最高峰值提升 +17%，被识别为「新作起量」。",
+      "score": 21.95,
+      "fact_summary": "Angels Online Global 今日观测峰值 2,355，未超过过往最高峰值 2,679，被识别为「新作起量」。",
       "metrics": {
-        "current_peak": 3259,
-        "previous_peak": 2783,
-        "previous_record_peak": 2783,
-        "growth_rate": 0.171,
-        "record_growth_rate": 0.171,
-        "scoring_peak": 3259,
+        "current_peak": 2355,
+        "previous_peak": 2679,
+        "previous_record_peak": 2679,
+        "growth_rate": -0.1209,
+        "record_growth_rate": -0.1209,
+        "scoring_peak": 2355,
         "player_discount": 1.0,
         "discount_reasons": [],
-        "peak_score": 5.87,
-        "raw_record_growth_score": 5.99,
-        "growth_score_multiplier": 0.3259,
-        "record_growth_score": 1.95,
+        "peak_score": 4.24,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.2355,
+        "record_growth_score": 0.0,
         "days_seen_score": 5.71,
         "signal_type_score": 12.0,
-        "score_before_multiplier": 25.53,
+        "score_before_multiplier": 21.95,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 0,
         "total_star_count": 1,
         "star_appearance_count": 1,
         "cumulative_star_count": 0,
-        "review_ratio": 69.0,
-        "review_total": 11326,
+        "review_ratio": 72.0,
+        "review_total": 463,
         "days_seen": 4,
         "comeback_gap_days": 1,
         "is_new_release": true,
@@ -827,58 +743,52 @@
         "comeback_reason": "not_comeback_age",
         "comeback_evidence": null,
         "genres": [
-          "动作",
           "冒险",
-          "独立",
           "大型多人在线",
           "角色扮演",
-          "模拟",
           "免费"
         ],
         "trend": [
           {
             "date": "2026-06-30",
-            "peak": 2780
+            "peak": 2679
           },
           {
             "date": "2026-07-02",
-            "peak": 2783
+            "peak": 2407
           },
           {
             "date": "2026-07-03",
-            "peak": 2783
+            "peak": 2407
           },
           {
             "date": "2026-07-04",
-            "peak": 3259
+            "peak": 2355
           }
         ]
       },
       "star_appearance": {
         "count": 1,
         "prior_count": 0,
-        "month_prior_count": 0
+        "repeat_window_prior_count": 0
       },
       "sources": [
         {
           "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/327070"
+          "url": "https://store.steampowered.com/app/4018020"
         }
       ],
       "game": {
-        "slug": "gloria-victis",
-        "appid": "327070",
-        "name": "Gloria Victis",
+        "slug": "angels-online-global",
+        "appid": "4018020",
+        "name": "Angels Online Global",
         "name_cn": null,
-        "description": "《Gloria Victis》是一款侧重真实性的开放世界大型多人在线角色扮演游戏，背景设定为略带魔幻风格的中世纪。本游戏战斗系统无目标锁定机制，依赖玩家操作，玩家可在开放式的PVP战斗中争夺领土控制权。游戏的制造系统有深度而无所不包，经济系统由玩家主导，剧情成熟而宏大，画面写实而绚丽，向玩家呈现沉浸式的游戏体验。 游戏有两大阵营：居住在大草原上的自豪的中土人，以及住在寒冷北方又复仇心切的伊斯米尔人。玩家将选择一方加入，然后奔赴战场！",
+        "description": "《天使之恋Online 国际版》是一款2D可爱奇幻风格的线上 MMORPG，主打高度自由的养成、多样玩法与跨国共玩体验，让新旧玩家都能轻松投入、长久游玩。可自由选择阵营、搭配技能来培养角色，创造出专属于个人的游戏风格。国际版更提供四倍速练等，加速角色成长，优化背包空间，让收集与探索更无负担。同时支援即时聊天翻译，可与全球玩家一同冒险。游戏装扮可由副本直接掉落，并追加分解、融合系统，将外观转化为实力。",
         "release_date": "2026-06-17",
         "genres": [
-          "动作",
           "冒险",
-          "独立",
           "大型多人在线",
           "角色扮演",
-          "模拟",
           "免费"
         ],
         "tags": [
@@ -888,35 +798,36 @@
           "线上玩家对战",
           "合作",
           "在线合作",
-          "Steam 成就",
-          "Steam 集换式卡牌",
           "应用内购买",
-          "统计数据",
+          "自定义音量控制",
+          "可以仅用键盘",
+          "无需应对快速反应事件",
+          "随时保存",
           "家庭共享"
         ],
-        "review_score": "Mixed",
-        "review_ratio": 69.0,
-        "review_total": 11326,
-        "developer": "gamigo US",
-        "publisher": "gamigo US",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327070/ee34cd9e855b2a4e20682c2ae6b12a27ccf042aa/header.jpg?t=1782471732",
-        "steam_url": "https://store.steampowered.com/app/327070",
+        "review_score": "Mostly Positive",
+        "review_ratio": 72.0,
+        "review_total": 463,
+        "developer": "USERJOY Technology Co.,Ltd.",
+        "publisher": "USERJOY Technology Co.,Ltd.",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018020/6c712c5ca3f34291e596a2d60f2b3961a168c851/header.jpg?t=1782272656",
+        "steam_url": "https://store.steampowered.com/app/4018020",
         "trend": [
           {
             "date": "2026-06-30",
-            "peak": 2780
+            "peak": 2679
           },
           {
             "date": "2026-07-02",
-            "peak": 2783
+            "peak": 2407
           },
           {
             "date": "2026-07-03",
-            "peak": 2783
+            "peak": 2407
           },
           {
             "date": "2026-07-04",
-            "peak": 3259
+            "peak": 2355
           }
         ]
       }

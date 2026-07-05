@@ -8,284 +8,300 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 35.4,
-    "fact_summary": "Sand 今日观测峰值 31,756，较过往最高峰值提升 +47%，被识别为「新作起量」。",
+    "type": "content_update_comeback",
+    "label": "内容更新回归",
+    "score": 29.78,
+    "fact_summary": "Fellowship 今日观测峰值 5,780，未超过过往最高峰值 6,915，被识别为「内容更新回归」。",
     "metrics": {
-      "current_peak": 31756,
-      "previous_peak": 21659,
-      "previous_record_peak": 21659,
-      "growth_rate": 0.4662,
-      "record_growth_rate": 0.4662,
-      "scoring_peak": 31756,
+      "current_peak": 5780,
+      "previous_peak": 6915,
+      "previous_record_peak": 6915,
+      "growth_rate": -0.1641,
+      "record_growth_rate": -0.1641,
+      "scoring_peak": 5780,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 22.11,
-      "raw_record_growth_score": 16.32,
-      "growth_score_multiplier": 1.0,
-      "record_growth_score": 16.32,
+      "peak_score": 10.4,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.578,
+      "record_growth_score": 0.0,
       "days_seen_score": 8.57,
-      "signal_type_score": 12.0,
-      "score_before_multiplier": 59.0,
-      "score_multiplier": 0.6,
-      "score_multiplier_reasons": [
-        "monthly_star_3x"
-      ],
-      "monthly_star_count": 3,
-      "prior_total_star_count": 3,
-      "total_star_count": 4,
-      "star_appearance_count": 4,
-      "cumulative_star_count": 3,
-      "review_ratio": 55.0,
-      "review_total": 7016,
+      "signal_type_score": 10.8,
+      "score_before_multiplier": 29.78,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 75.0,
+      "review_total": 17040,
       "days_seen": 6,
       "comeback_gap_days": 1,
-      "is_new_release": true,
-      "release_age_days": 6,
-      "steam_release_age_days": 6,
+      "is_new_release": false,
+      "release_age_days": 255,
+      "steam_release_age_days": 255,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
       "all_platform_release_date": null,
-      "is_comeback_age": false,
-      "comeback_reason": "not_comeback_age",
-      "comeback_evidence": null,
+      "is_comeback_age": true,
+      "comeback_reason": "content_update",
+      "comeback_evidence": {
+        "title": "Patch Notes - Hotfix 0.4.0.5",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165557934",
+        "date": 1782643403
+      },
       "genres": [
-        "动作",
-        "冒险",
+        "角色扮演",
         "抢先体验"
       ],
       "trend": [
         {
           "date": "2026-06-23",
-          "peak": 15703
+          "peak": 6915
         },
         {
           "date": "2026-06-24",
-          "peak": 13358
+          "peak": 5701
         },
         {
           "date": "2026-06-25",
-          "peak": 13882
+          "peak": 5778
         },
         {
           "date": "2026-06-26",
-          "peak": 15627
+          "peak": 5022
         },
         {
           "date": "2026-06-27",
-          "peak": 21659
+          "peak": 5501
         },
         {
           "date": "2026-06-28",
-          "peak": 31756
+          "peak": 5780
         }
       ]
     },
     "star_appearance": {
-      "count": 4,
-      "prior_count": 3,
-      "month_prior_count": 3
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1431300"
+        "url": "https://store.steampowered.com/app/2352620"
       }
     ],
     "game": {
-      "slug": "sand",
-      "appid": "1431300",
-      "name": "Sand",
+      "slug": "fellowship",
+      "appid": "2352620",
+      "name": "Fellowship",
       "name_cn": null,
-      "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
-      "release_date": "2026-06-22",
+      "description": "《秘境战盟》是一款多人在线地下城冒险游戏，背景设定在一个激动人心的奇幻世界中，拥有无限升级的地下城挑战。",
+      "release_date": "2025-10-16",
       "genres": [
-        "动作",
-        "冒险",
+        "角色扮演",
         "抢先体验"
       ],
       "tags": [
         "多人",
-        "玩家对战",
-        "线上玩家对战",
-        "Steam 成就",
+        "合作",
+        "在线合作",
+        "应用内购买",
+        "可调整文字大小",
+        "视角舒适度",
+        "自定义音量控制",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "立体声",
         "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 55.0,
-      "review_total": 7016,
-      "developer": "Hologryph, TowerHaus",
-      "publisher": "tinyBuild",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
-      "steam_url": "https://store.steampowered.com/app/1431300",
+      "review_score": "多半好评",
+      "review_ratio": 75.0,
+      "review_total": 17040,
+      "developer": "Chief Rebel",
+      "publisher": "Coffee Stain Publishing, Arc Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2352620/84990f2cebb8a836229b318d194160d823d67cd8/header_alt_assets_2.jpg?t=1782140326",
+      "steam_url": "https://store.steampowered.com/app/2352620",
       "trend": [
         {
           "date": "2026-06-23",
-          "peak": 15703
+          "peak": 6915
         },
         {
           "date": "2026-06-24",
-          "peak": 13358
+          "peak": 5701
         },
         {
           "date": "2026-06-25",
-          "peak": 13882
+          "peak": 5778
         },
         {
           "date": "2026-06-26",
-          "peak": 15627
+          "peak": 5022
         },
         {
           "date": "2026-06-27",
-          "peak": 21659
+          "peak": 5501
         },
         {
           "date": "2026-06-28",
-          "peak": 31756
+          "peak": 5780
         }
       ]
     }
   },
   "main_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 35.4,
-    "fact_summary": "Sand 今日观测峰值 31,756，较过往最高峰值提升 +47%，被识别为「新作起量」。",
+    "type": "content_update_comeback",
+    "label": "内容更新回归",
+    "score": 29.78,
+    "fact_summary": "Fellowship 今日观测峰值 5,780，未超过过往最高峰值 6,915，被识别为「内容更新回归」。",
     "metrics": {
-      "current_peak": 31756,
-      "previous_peak": 21659,
-      "previous_record_peak": 21659,
-      "growth_rate": 0.4662,
-      "record_growth_rate": 0.4662,
-      "scoring_peak": 31756,
+      "current_peak": 5780,
+      "previous_peak": 6915,
+      "previous_record_peak": 6915,
+      "growth_rate": -0.1641,
+      "record_growth_rate": -0.1641,
+      "scoring_peak": 5780,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 22.11,
-      "raw_record_growth_score": 16.32,
-      "growth_score_multiplier": 1.0,
-      "record_growth_score": 16.32,
+      "peak_score": 10.4,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.578,
+      "record_growth_score": 0.0,
       "days_seen_score": 8.57,
-      "signal_type_score": 12.0,
-      "score_before_multiplier": 59.0,
-      "score_multiplier": 0.6,
-      "score_multiplier_reasons": [
-        "monthly_star_3x"
-      ],
-      "monthly_star_count": 3,
-      "prior_total_star_count": 3,
-      "total_star_count": 4,
-      "star_appearance_count": 4,
-      "cumulative_star_count": 3,
-      "review_ratio": 55.0,
-      "review_total": 7016,
+      "signal_type_score": 10.8,
+      "score_before_multiplier": 29.78,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 75.0,
+      "review_total": 17040,
       "days_seen": 6,
       "comeback_gap_days": 1,
-      "is_new_release": true,
-      "release_age_days": 6,
-      "steam_release_age_days": 6,
+      "is_new_release": false,
+      "release_age_days": 255,
+      "steam_release_age_days": 255,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
       "all_platform_release_date": null,
-      "is_comeback_age": false,
-      "comeback_reason": "not_comeback_age",
-      "comeback_evidence": null,
+      "is_comeback_age": true,
+      "comeback_reason": "content_update",
+      "comeback_evidence": {
+        "title": "Patch Notes - Hotfix 0.4.0.5",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165557934",
+        "date": 1782643403
+      },
       "genres": [
-        "动作",
-        "冒险",
+        "角色扮演",
         "抢先体验"
       ],
       "trend": [
         {
           "date": "2026-06-23",
-          "peak": 15703
+          "peak": 6915
         },
         {
           "date": "2026-06-24",
-          "peak": 13358
+          "peak": 5701
         },
         {
           "date": "2026-06-25",
-          "peak": 13882
+          "peak": 5778
         },
         {
           "date": "2026-06-26",
-          "peak": 15627
+          "peak": 5022
         },
         {
           "date": "2026-06-27",
-          "peak": 21659
+          "peak": 5501
         },
         {
           "date": "2026-06-28",
-          "peak": 31756
+          "peak": 5780
         }
       ]
     },
     "star_appearance": {
-      "count": 4,
-      "prior_count": 3,
-      "month_prior_count": 3
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1431300"
+        "url": "https://store.steampowered.com/app/2352620"
       }
     ],
     "game": {
-      "slug": "sand",
-      "appid": "1431300",
-      "name": "Sand",
+      "slug": "fellowship",
+      "appid": "2352620",
+      "name": "Fellowship",
       "name_cn": null,
-      "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
-      "release_date": "2026-06-22",
+      "description": "《秘境战盟》是一款多人在线地下城冒险游戏，背景设定在一个激动人心的奇幻世界中，拥有无限升级的地下城挑战。",
+      "release_date": "2025-10-16",
       "genres": [
-        "动作",
-        "冒险",
+        "角色扮演",
         "抢先体验"
       ],
       "tags": [
         "多人",
-        "玩家对战",
-        "线上玩家对战",
-        "Steam 成就",
+        "合作",
+        "在线合作",
+        "应用内购买",
+        "可调整文字大小",
+        "视角舒适度",
+        "自定义音量控制",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "立体声",
         "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 55.0,
-      "review_total": 7016,
-      "developer": "Hologryph, TowerHaus",
-      "publisher": "tinyBuild",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
-      "steam_url": "https://store.steampowered.com/app/1431300",
+      "review_score": "多半好评",
+      "review_ratio": 75.0,
+      "review_total": 17040,
+      "developer": "Chief Rebel",
+      "publisher": "Coffee Stain Publishing, Arc Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2352620/84990f2cebb8a836229b318d194160d823d67cd8/header_alt_assets_2.jpg?t=1782140326",
+      "steam_url": "https://store.steampowered.com/app/2352620",
       "trend": [
         {
           "date": "2026-06-23",
-          "peak": 15703
+          "peak": 6915
         },
         {
           "date": "2026-06-24",
-          "peak": 13358
+          "peak": 5701
         },
         {
           "date": "2026-06-25",
-          "peak": 13882
+          "peak": 5778
         },
         {
           "date": "2026-06-26",
-          "peak": 15627
+          "peak": 5022
         },
         {
           "date": "2026-06-27",
-          "peak": 21659
+          "peak": 5501
         },
         {
           "date": "2026-06-28",
-          "peak": 31756
+          "peak": 5780
         }
       ]
     }
@@ -294,154 +310,6 @@
   "candidate_signals": [
     {
       "rank": 2,
-      "type": "content_update_comeback",
-      "label": "内容更新回归",
-      "score": 29.78,
-      "fact_summary": "Fellowship 今日观测峰值 5,780，未超过过往最高峰值 6,915，被识别为「内容更新回归」。",
-      "metrics": {
-        "current_peak": 5780,
-        "previous_peak": 6915,
-        "previous_record_peak": 6915,
-        "growth_rate": -0.1641,
-        "record_growth_rate": -0.1641,
-        "scoring_peak": 5780,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "peak_score": 10.4,
-        "raw_record_growth_score": 0.0,
-        "growth_score_multiplier": 0.578,
-        "record_growth_score": 0.0,
-        "days_seen_score": 8.57,
-        "signal_type_score": 10.8,
-        "score_before_multiplier": 29.78,
-        "score_multiplier": 1.0,
-        "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
-        "prior_total_star_count": 0,
-        "total_star_count": 1,
-        "star_appearance_count": 1,
-        "cumulative_star_count": 0,
-        "review_ratio": 75.0,
-        "review_total": 17040,
-        "days_seen": 6,
-        "comeback_gap_days": 1,
-        "is_new_release": false,
-        "release_age_days": 255,
-        "steam_release_age_days": 255,
-        "release_age_basis": "steam",
-        "release_verification_required": false,
-        "release_verification": null,
-        "all_platform_release_date": null,
-        "is_comeback_age": true,
-        "comeback_reason": "content_update",
-        "comeback_evidence": {
-          "title": "Patch Notes - Hotfix 0.4.0.5",
-          "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1836506165557934",
-          "date": 1782643403
-        },
-        "genres": [
-          "角色扮演",
-          "抢先体验"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-23",
-            "peak": 6915
-          },
-          {
-            "date": "2026-06-24",
-            "peak": 5701
-          },
-          {
-            "date": "2026-06-25",
-            "peak": 5778
-          },
-          {
-            "date": "2026-06-26",
-            "peak": 5022
-          },
-          {
-            "date": "2026-06-27",
-            "peak": 5501
-          },
-          {
-            "date": "2026-06-28",
-            "peak": 5780
-          }
-        ]
-      },
-      "star_appearance": {
-        "count": 1,
-        "prior_count": 0,
-        "month_prior_count": 0
-      },
-      "sources": [
-        {
-          "title": "Steam 商店",
-          "url": "https://store.steampowered.com/app/2352620"
-        }
-      ],
-      "game": {
-        "slug": "fellowship",
-        "appid": "2352620",
-        "name": "Fellowship",
-        "name_cn": null,
-        "description": "《秘境战盟》是一款多人在线地下城冒险游戏，背景设定在一个激动人心的奇幻世界中，拥有无限升级的地下城挑战。",
-        "release_date": "2025-10-16",
-        "genres": [
-          "角色扮演",
-          "抢先体验"
-        ],
-        "tags": [
-          "多人",
-          "合作",
-          "在线合作",
-          "应用内购买",
-          "可调整文字大小",
-          "视角舒适度",
-          "自定义音量控制",
-          "可调整难度",
-          "无需应对快速反应事件",
-          "立体声",
-          "家庭共享"
-        ],
-        "review_score": "多半好评",
-        "review_ratio": 75.0,
-        "review_total": 17040,
-        "developer": "Chief Rebel",
-        "publisher": "Coffee Stain Publishing, Arc Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2352620/84990f2cebb8a836229b318d194160d823d67cd8/header_alt_assets_2.jpg?t=1782140326",
-        "steam_url": "https://store.steampowered.com/app/2352620",
-        "trend": [
-          {
-            "date": "2026-06-23",
-            "peak": 6915
-          },
-          {
-            "date": "2026-06-24",
-            "peak": 5701
-          },
-          {
-            "date": "2026-06-25",
-            "peak": 5778
-          },
-          {
-            "date": "2026-06-26",
-            "peak": 5022
-          },
-          {
-            "date": "2026-06-27",
-            "peak": 5501
-          },
-          {
-            "date": "2026-06-28",
-            "peak": 5780
-          }
-        ]
-      }
-    },
-    {
-      "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
       "score": 26.98,
@@ -464,7 +332,9 @@
         "score_before_multiplier": 26.98,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 0,
         "total_star_count": 1,
         "star_appearance_count": 1,
@@ -510,7 +380,7 @@
       "star_appearance": {
         "count": 1,
         "prior_count": 0,
-        "month_prior_count": 0
+        "repeat_window_prior_count": 0
       },
       "sources": [
         {

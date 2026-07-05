@@ -30,9 +30,11 @@
       "score_before_multiplier": 52.62,
       "score_multiplier": 0.7,
       "score_multiplier_reasons": [
-        "monthly_star_2x"
+        "repeat_window_star_2x"
       ],
-      "monthly_star_count": 2,
+      "repeat_window_star_count": 2,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
       "prior_total_star_count": 2,
       "total_star_count": 3,
       "star_appearance_count": 3,
@@ -82,7 +84,7 @@
     "star_appearance": {
       "count": 3,
       "prior_count": 2,
-      "month_prior_count": 2
+      "repeat_window_prior_count": 2
     },
     "sources": [
       {
@@ -164,9 +166,11 @@
       "score_before_multiplier": 52.62,
       "score_multiplier": 0.7,
       "score_multiplier_reasons": [
-        "monthly_star_2x"
+        "repeat_window_star_2x"
       ],
-      "monthly_star_count": 2,
+      "repeat_window_star_count": 2,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
       "prior_total_star_count": 2,
       "total_star_count": 3,
       "star_appearance_count": 3,
@@ -216,7 +220,7 @@
     "star_appearance": {
       "count": 3,
       "prior_count": 2,
-      "month_prior_count": 2
+      "repeat_window_prior_count": 2
     },
     "sources": [
       {
@@ -300,7 +304,9 @@
         "score_before_multiplier": 27.84,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 0,
         "total_star_count": 1,
         "star_appearance_count": 1,
@@ -353,7 +359,7 @@
       "star_appearance": {
         "count": 1,
         "prior_count": 0,
-        "month_prior_count": 0
+        "repeat_window_prior_count": 0
       },
       "sources": [
         {
@@ -440,7 +446,9 @@
         "score_before_multiplier": 25.55,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 0,
         "total_star_count": 1,
         "star_appearance_count": 1,
@@ -482,7 +490,7 @@
       "star_appearance": {
         "count": 1,
         "prior_count": 0,
-        "month_prior_count": 0
+        "repeat_window_prior_count": 0
       },
       "sources": [
         {

@@ -30,7 +30,9 @@
       "score_before_multiplier": 39.18,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "monthly_star_count": 0,
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
       "prior_total_star_count": 0,
       "total_star_count": 1,
       "star_appearance_count": 1,
@@ -72,7 +74,7 @@
     "star_appearance": {
       "count": 1,
       "prior_count": 0,
-      "month_prior_count": 0
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
@@ -149,7 +151,9 @@
       "score_before_multiplier": 39.18,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "monthly_star_count": 0,
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
       "prior_total_star_count": 0,
       "total_star_count": 1,
       "star_appearance_count": 1,
@@ -191,7 +195,7 @@
     "star_appearance": {
       "count": 1,
       "prior_count": 0,
-      "month_prior_count": 0
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
@@ -270,7 +274,9 @@
         "score_before_multiplier": 32.51,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 0,
         "total_star_count": 1,
         "star_appearance_count": 1,
@@ -304,7 +310,7 @@
       "star_appearance": {
         "count": 1,
         "prior_count": 0,
-        "month_prior_count": 0
+        "repeat_window_prior_count": 0
       },
       "sources": [
         {
@@ -350,7 +356,7 @@
       "rank": 3,
       "type": "new_release_rise",
       "label": "新作起量",
-      "score": 32.38,
+      "score": 28.33,
       "fact_summary": "The Scroll of Taiwu : Beyond The Dome 今日观测峰值 27,640，未超过过往最高峰值 51,039，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 27640,
@@ -368,15 +374,17 @@
         "days_seen_score": 7.14,
         "signal_type_score": 12.0,
         "score_before_multiplier": 40.47,
-        "score_multiplier": 0.8,
+        "score_multiplier": 0.7,
         "score_multiplier_reasons": [
-          "monthly_star_1x"
+          "repeat_window_star_2x"
         ],
-        "monthly_star_count": 1,
-        "prior_total_star_count": 1,
-        "total_star_count": 2,
-        "star_appearance_count": 2,
-        "cumulative_star_count": 1,
+        "repeat_window_star_count": 2,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 2,
+        "total_star_count": 3,
+        "star_appearance_count": 3,
+        "cumulative_star_count": 2,
         "review_ratio": 68.0,
         "review_total": 66410,
         "days_seen": 5,
@@ -405,7 +413,7 @@
           },
           {
             "date": "2026-06-20",
-            "peak": 43594
+            "peak": 43882
           },
           {
             "date": "2026-06-21",
@@ -422,9 +430,9 @@
         ]
       },
       "star_appearance": {
-        "count": 2,
-        "prior_count": 1,
-        "month_prior_count": 1
+        "count": 3,
+        "prior_count": 2,
+        "repeat_window_prior_count": 2
       },
       "sources": [
         {
@@ -467,7 +475,7 @@
           },
           {
             "date": "2026-06-20",
-            "peak": 43594
+            "peak": 43882
           },
           {
             "date": "2026-06-21",
@@ -508,7 +516,9 @@
         "score_before_multiplier": 28.21,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 0,
         "total_star_count": 1,
         "star_appearance_count": 1,
@@ -558,7 +568,7 @@
       "star_appearance": {
         "count": 1,
         "prior_count": 0,
-        "month_prior_count": 0
+        "repeat_window_prior_count": 0
       },
       "sources": [
         {
@@ -650,7 +660,9 @@
         "score_before_multiplier": 17.88,
         "score_multiplier": 1.0,
         "score_multiplier_reasons": [],
-        "monthly_star_count": 0,
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
         "prior_total_star_count": 0,
         "total_star_count": 1,
         "star_appearance_count": 1,
@@ -683,7 +695,7 @@
       "star_appearance": {
         "count": 1,
         "prior_count": 0,
-        "month_prior_count": 0
+        "repeat_window_prior_count": 0
       },
       "sources": [
         {

@@ -32,7 +32,7 @@ export type Signal = {
   star_appearance?: {
     count: number
     prior_count: number
-    month_prior_count: number
+    repeat_window_prior_count: number
   }
   sources: Array<{ title: string; url: string }>
   game: PublicGame
@@ -55,6 +55,8 @@ export type DailyIssue = {
 export type ScoringSnapshot = {
   schema_version: string
   new_release_window_days: number
+  daily_star_repeat_window_days?: number
+  daily_star_repeat_window_max_wins?: number
   peak_score_weight: number
   peak_score_cap: number
   record_growth_weight: number
@@ -75,6 +77,7 @@ export type ScoringSnapshot = {
   consecutive_star_case_threshold: number
   daily_signal_type_scores: Record<string, number>
   signal_bonuses: Record<string, number>
+  daily_star_game_aliases?: Record<string, string>
 }
 
 export type Manifest = {

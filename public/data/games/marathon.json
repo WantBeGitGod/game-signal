@@ -1,0 +1,54 @@
+{
+  "slug": "marathon",
+  "appid": "3065800",
+  "name": "Marathon",
+  "name_cn": null,
+  "description": "《光环》和《命运》创作者推出高风险生存第一人称射击游戏，玩家将探索失落的天仓五IV殖民地并搜寻物资。",
+  "release_date": "2026-03-05",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "跨平台多人",
+    "Steam 成就",
+    "可调整文字大小",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "可以仅用键盘",
+    "可以仅用鼠标",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "立体声",
+    "字幕选项",
+    "环绕声",
+    "可以仅用触控",
+    "部分支持控制器",
+    "家庭共享"
+  ],
+  "review_score": "Mostly Positive",
+  "review_ratio": 78.0,
+  "review_total": 61661,
+  "developer": "Bungie",
+  "publisher": "Bungie",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3065800/4b7961273ef37ef82119c804ae6087fbbed69dfd/header_schinese.jpg?t=1781731674",
+  "steam_url": "https://store.steampowered.com/app/3065800",
+  "trend": [
+    {
+      "date": "2026-06-04",
+      "peak": 12152
+    },
+    {
+      "date": "2026-06-05",
+      "peak": 11900
+    },
+    {
+      "date": "2026-06-06",
+      "peak": 14488
+    }
+  ]
+}
