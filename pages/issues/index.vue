@@ -10,7 +10,7 @@
         <span class="issue-date">{{ issue.date }}</span>
         <div>
           <SignalTag :type="starSignal(issue).type" :label="starSignal(issue).label" />
-          <h2>{{ starSignal(issue).game.name }}</h2>
+          <h2>{{ displayGameName(starSignal(issue).game) }}</h2>
           <p>{{ starSignal(issue).fact_summary }}</p>
         </div>
         <ArrowUpRight :size="22" />

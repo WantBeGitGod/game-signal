@@ -78,6 +78,7 @@ export type ScoringSnapshot = {
   daily_signal_type_scores: Record<string, number>
   signal_bonuses: Record<string, number>
   daily_star_game_aliases?: Record<string, string>
+  public_game_name_overrides?: Record<string, string>
 }
 
 export type Manifest = {

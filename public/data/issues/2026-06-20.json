@@ -275,7 +275,7 @@
       "type": "new_release_rise",
       "label": "新作起量",
       "score": 45.4,
-      "fact_summary": "The Scroll of Taiwu : Beyond The Dome 今日观测峰值 43,882，较过往最高峰值提升 +50%，被识别为「新作起量」。",
+      "fact_summary": "太吾绘卷：天幕心帷 今日观测峰值 43,882，较过往最高峰值提升 +50%，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 43882,
         "previous_peak": 29261,
@@ -350,7 +350,7 @@
         "slug": "the-scroll-of-taiwu-beyond-the-dome",
         "appid": "838350",
         "name": "The Scroll of Taiwu : Beyond The Dome",
-        "name_cn": null,
+        "name_cn": "太吾绘卷：天幕心帷",
         "description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
         "release_date": "2026-06-16",
         "genres": [

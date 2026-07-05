@@ -450,7 +450,7 @@
       "type": "new_release_rise",
       "label": "新作起量",
       "score": 34.42,
-      "fact_summary": "Road to Empress Ⅱ 今日观测峰值 26,001，未超过过往最高峰值 30,357，被识别为「新作起量」。",
+      "fact_summary": "女王的游戏：盛世天下女帝篇 今日观测峰值 26,001，未超过过往最高峰值 30,357，被识别为「新作起量」。",
       "metrics": {
         "current_peak": 26001,
         "previous_peak": 30357,
@@ -545,7 +545,7 @@
         "slug": "road-to-empress",
         "appid": "4148240",
         "name": "Road to Empress Ⅱ",
-        "name_cn": null,
+        "name_cn": "女王的游戏：盛世天下女帝篇",
         "description": "你，可曾幻想过真正主宰一个王朝的命运？这一次，你不再是旁观者，而是化身主角，进入这部真人互动的宫廷生存影视作品！《女王的游戏：盛世天下》女帝篇 ——全新推出！你将挣脱命运的枷锁，一步步走上那座象征着至高无上的龙椅。你将如何书写你的盛世天下？一切，由你亲手决定！",
         "release_date": "2026-06-08",
         "genres": [

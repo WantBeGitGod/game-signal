@@ -2,12 +2,12 @@
   <div v-if="game" class="page-shell">
     <header class="game-profile">
       <div class="game-profile-art">
-        <img v-if="game.cover_image_url" :src="game.cover_image_url" :alt="game.name" />
+        <img v-if="game.cover_image_url" :src="game.cover_image_url" :alt="displayGameName(game)" />
         <span class="source-credit">IMAGE: STEAM CDN</span>
       </div>
       <div class="game-profile-copy">
         <p class="eyebrow">SELECTED GAME SIGNAL</p>
-        <h1>{{ game.name }}</h1>
+        <h1>{{ displayGameName(game) }}</h1>
         <p class="game-description">{{ game.description || "暂无公开简介。" }}</p>
         <div class="tag-row">
           <span v-for="genre in game.genres" :key="genre" class="plain-tag">{{ genre }}</span>
@@ -37,7 +37,7 @@
         <h2>公开趋势序列</h2>
         <p>图中只展示进入今日之星或周刊时使用的整理后趋势数据。</p>
       </div>
-      <TrendSparkline :trend="game.trend" :label="game.name" />
+      <TrendSparkline :trend="game.trend" :label="displayGameName(game)" />
     </section>
   </div>
 </template>
@@ -54,5 +54,5 @@ const { data: publishedCases } = await useAsyncData("published-game-cases", () =
 const publishedCase = computed(() =>
   publishedCases.value?.find(item => item.game_appid === game.value?.appid)
 )
-useSeoMeta({ title: game.value.name, description: game.value.description })
+useSeoMeta({ title: displayGameName(game.value), description: game.value.description })
 </script>

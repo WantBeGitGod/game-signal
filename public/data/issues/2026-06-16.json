@@ -11,7 +11,7 @@
     "type": "new_release_rise",
     "label": "新作起量",
     "score": 32.48,
-    "fact_summary": "Lost Castle 2 今日观测峰值 28,279，未超过过往最高峰值 28,725，被识别为「新作起量」。",
+    "fact_summary": "失落城堡2 今日观测峰值 28,279，未超过过往最高峰值 28,725，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 28279,
       "previous_peak": 28725,
@@ -97,7 +97,7 @@
       "slug": "lost-castle-2",
       "appid": "2445690",
       "name": "Lost Castle 2",
-      "name_cn": null,
+      "name_cn": "失落城堡2",
       "description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
       "release_date": "2026-06-10",
       "genres": [
@@ -157,7 +157,7 @@
     "type": "new_release_rise",
     "label": "新作起量",
     "score": 32.48,
-    "fact_summary": "Lost Castle 2 今日观测峰值 28,279，未超过过往最高峰值 28,725，被识别为「新作起量」。",
+    "fact_summary": "失落城堡2 今日观测峰值 28,279，未超过过往最高峰值 28,725，被识别为「新作起量」。",
     "metrics": {
       "current_peak": 28279,
       "previous_peak": 28725,
@@ -243,7 +243,7 @@
       "slug": "lost-castle-2",
       "appid": "2445690",
       "name": "Lost Castle 2",
-      "name_cn": null,
+      "name_cn": "失落城堡2",
       "description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
       "release_date": "2026-06-10",
       "genres": [

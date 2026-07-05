@@ -20,6 +20,8 @@ The current public weight snapshot is exported to `public/data/scoring.json`. Ga
 
 Repeated daily-star wins in the previous 30 days reduce final score through deterministic multipliers, and a game that already has 3 wins inside that rolling window is excluded until an earlier win ages out. The public homepage also shows each star's all-time `摘星次数`.
 
+For public Chinese-language pages, verified Chinese titles are preferred for display. This does not change ranking identity: appid and canonical aliases remain the source of truth for repeat-window debt.
+
 ## Editorial boundary
 
 The daily issue publishes one verifiable `今日之星`. Weekly issues keep five observed signals, but only two become deep-reading slots by default; the remaining three stay in the watch table with lighter context and full curves. A weekly case adds source-backed interpretation, transferable publishing lessons and concrete next actions after human review. Cases receive a 30-day follow-up.

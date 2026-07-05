@@ -3,7 +3,7 @@
     <div v-if="issue.hero_image" class="daily-cover-image" :style="{ backgroundImage: `url(${publicAsset(issue.hero_image)})` }" />
     <div v-else class="data-cover-feature" aria-hidden="true">
       <div class="feature-game-art">
-        <span class="feature-game-fallback">{{ starSignal.game.name }}</span>
+        <span class="feature-game-fallback">{{ displayGameName(starSignal.game) }}</span>
         <img
           v-if="starSignal.game.cover_image_url && !mainCoverFailed"
           :src="starSignal.game.cover_image_url"
@@ -23,7 +23,7 @@
         <SignalTag :type="starSignal.type" :label="starSignal.label" />
       </div>
       <p class="cover-edition">TODAY'S STAR / ISSUE {{ issue.date.replaceAll("-", "") }}</p>
-      <h1>{{ starSignal.game.name }}</h1>
+      <h1>{{ displayGameName(starSignal.game) }}</h1>
       <p class="cover-deck">{{ starSignal.fact_summary }}</p>
       <div class="cover-metrics">
         <div>
