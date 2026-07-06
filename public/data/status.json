@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T17:33:38",
+  "generated_at": "2026-07-06T18:12:44",
   "data_state": "live",
-  "latest_collection_at": "2026-07-04 22:42:50",
-  "latest_live_collection_at": "2026-07-04 22:42:50",
-  "latest_issue_date": "2026-07-04",
-  "latest_publish_at": "2026-07-05 17:33:38",
+  "latest_collection_at": "2026-07-06 18:02:00",
+  "latest_live_collection_at": "2026-07-05 17:31:55",
+  "latest_issue_date": "2026-07-06",
+  "latest_publish_at": "2026-07-06 18:12:44",
   "latest_publish_status": "completed",
-  "continuous_live_days": 2,
+  "continuous_live_days": 3,
   "is_delayed": false
 }

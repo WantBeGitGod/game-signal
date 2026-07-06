@@ -25,11 +25,11 @@
     "家庭共享"
   ],
   "review_score": "Very Positive",
-  "review_ratio": 88.0,
-  "review_total": 475,
+  "review_ratio": 90.0,
+  "review_total": 717,
   "developer": "BunnyHop",
   "publisher": "BunnyHopHome",
-  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1782778526",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1783224963",
   "steam_url": "https://store.steampowered.com/app/4800590",
   "trend": [
     {
@@ -47,6 +47,14 @@
     {
       "date": "2026-07-04",
       "peak": 4233
+    },
+    {
+      "date": "2026-07-05",
+      "peak": 4327
+    },
+    {
+      "date": "2026-07-06",
+      "peak": 4665
     }
   ]
 }

@@ -1,0 +1,30 @@
+{
+  "slug": "arena-breakout-infinite",
+  "appid": null,
+  "name": "Arena Breakout: Infinite",
+  "name_cn": null,
+  "description": "《暗区突围：无限》是一款高风险的战术撤离射击游戏，每一次决策都至关重要。​​ 在激烈交火中生存，搜寻珍贵物资并活着逃脱——否则将失去一切。凭借令人惊叹的真实画面、贴近真实的音效设计，以及残酷的PvPvE战斗，每一次突袭都是一场关乎荣耀或毁灭的豪赌。",
+  "release_date": "2025-09-15",
+  "genres": [
+    "动作",
+    "冒险",
+    "大型多人在线",
+    "角色扮演",
+    "策略",
+    "免费"
+  ],
+  "tags": [],
+  "review_score": "Mostly Positive",
+  "review_ratio": 73.0,
+  "review_total": 63952,
+  "developer": null,
+  "publisher": null,
+  "cover_image_url": null,
+  "steam_url": null,
+  "trend": [
+    {
+      "date": "2026-07-06",
+      "peak": 18275
+    }
+  ]
+}

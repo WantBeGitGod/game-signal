@@ -1,0 +1,868 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-06",
+  "title": "07.06 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 26.84,
+    "fact_summary": "Gloria Victis 今日观测峰值 3,380，较过往最高峰值提升 +2%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 3380,
+      "previous_peak": 3329,
+      "previous_record_peak": 3329,
+      "growth_rate": 0.0153,
+      "record_growth_rate": 0.0153,
+      "scoring_peak": 3380,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 6.08,
+      "raw_record_growth_score": 0.54,
+      "growth_score_multiplier": 0.338,
+      "record_growth_score": 0.18,
+      "days_seen_score": 8.57,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 26.84,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 69.0,
+      "review_total": 11366,
+      "days_seen": 6,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 19,
+      "steam_release_age_days": 19,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "大型多人在线",
+        "角色扮演",
+        "模拟",
+        "免费"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-30",
+          "peak": 2780
+        },
+        {
+          "date": "2026-07-02",
+          "peak": 2783
+        },
+        {
+          "date": "2026-07-03",
+          "peak": 2783
+        },
+        {
+          "date": "2026-07-04",
+          "peak": 3259
+        },
+        {
+          "date": "2026-07-05",
+          "peak": 3329
+        },
+        {
+          "date": "2026-07-06",
+          "peak": 3380
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/327070"
+      }
+    ],
+    "game": {
+      "slug": "gloria-victis",
+      "appid": "327070",
+      "name": "Gloria Victis",
+      "name_cn": null,
+      "description": "《Gloria Victis》是一款侧重真实性的开放世界大型多人在线角色扮演游戏，背景设定为略带魔幻风格的中世纪。本游戏战斗系统无目标锁定机制，依赖玩家操作，玩家可在开放式的PVP战斗中争夺领土控制权。游戏的制造系统有深度而无所不包，经济系统由玩家主导，剧情成熟而宏大，画面写实而绚丽，向玩家呈现沉浸式的游戏体验。 游戏有两大阵营：居住在大草原上的自豪的中土人，以及住在寒冷北方又复仇心切的伊斯米尔人。玩家将选择一方加入，然后奔赴战场！",
+      "release_date": "2026-06-17",
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "大型多人在线",
+        "角色扮演",
+        "模拟",
+        "免费"
+      ],
+      "tags": [
+        "多人",
+        "大型多人在线",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "Steam 集换式卡牌",
+        "应用内购买",
+        "统计数据",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 69.0,
+      "review_total": 11366,
+      "developer": "gamigo US",
+      "publisher": "gamigo US",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327070/ee34cd9e855b2a4e20682c2ae6b12a27ccf042aa/header.jpg?t=1782471732",
+      "steam_url": "https://store.steampowered.com/app/327070",
+      "trend": [
+        {
+          "date": "2026-06-30",
+          "peak": 2780
+        },
+        {
+          "date": "2026-07-02",
+          "peak": 2783
+        },
+        {
+          "date": "2026-07-03",
+          "peak": 2783
+        },
+        {
+          "date": "2026-07-04",
+          "peak": 3259
+        },
+        {
+          "date": "2026-07-05",
+          "peak": 3329
+        },
+        {
+          "date": "2026-07-06",
+          "peak": 3380
+        }
+      ]
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 26.84,
+    "fact_summary": "Gloria Victis 今日观测峰值 3,380，较过往最高峰值提升 +2%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 3380,
+      "previous_peak": 3329,
+      "previous_record_peak": 3329,
+      "growth_rate": 0.0153,
+      "record_growth_rate": 0.0153,
+      "scoring_peak": 3380,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 6.08,
+      "raw_record_growth_score": 0.54,
+      "growth_score_multiplier": 0.338,
+      "record_growth_score": 0.18,
+      "days_seen_score": 8.57,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 26.84,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 69.0,
+      "review_total": 11366,
+      "days_seen": 6,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 19,
+      "steam_release_age_days": 19,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "大型多人在线",
+        "角色扮演",
+        "模拟",
+        "免费"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-30",
+          "peak": 2780
+        },
+        {
+          "date": "2026-07-02",
+          "peak": 2783
+        },
+        {
+          "date": "2026-07-03",
+          "peak": 2783
+        },
+        {
+          "date": "2026-07-04",
+          "peak": 3259
+        },
+        {
+          "date": "2026-07-05",
+          "peak": 3329
+        },
+        {
+          "date": "2026-07-06",
+          "peak": 3380
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/327070"
+      }
+    ],
+    "game": {
+      "slug": "gloria-victis",
+      "appid": "327070",
+      "name": "Gloria Victis",
+      "name_cn": null,
+      "description": "《Gloria Victis》是一款侧重真实性的开放世界大型多人在线角色扮演游戏，背景设定为略带魔幻风格的中世纪。本游戏战斗系统无目标锁定机制，依赖玩家操作，玩家可在开放式的PVP战斗中争夺领土控制权。游戏的制造系统有深度而无所不包，经济系统由玩家主导，剧情成熟而宏大，画面写实而绚丽，向玩家呈现沉浸式的游戏体验。 游戏有两大阵营：居住在大草原上的自豪的中土人，以及住在寒冷北方又复仇心切的伊斯米尔人。玩家将选择一方加入，然后奔赴战场！",
+      "release_date": "2026-06-17",
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "大型多人在线",
+        "角色扮演",
+        "模拟",
+        "免费"
+      ],
+      "tags": [
+        "多人",
+        "大型多人在线",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "Steam 集换式卡牌",
+        "应用内购买",
+        "统计数据",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 69.0,
+      "review_total": 11366,
+      "developer": "gamigo US",
+      "publisher": "gamigo US",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327070/ee34cd9e855b2a4e20682c2ae6b12a27ccf042aa/header.jpg?t=1782471732",
+      "steam_url": "https://store.steampowered.com/app/327070",
+      "trend": [
+        {
+          "date": "2026-06-30",
+          "peak": 2780
+        },
+        {
+          "date": "2026-07-02",
+          "peak": 2783
+        },
+        {
+          "date": "2026-07-03",
+          "peak": 2783
+        },
+        {
+          "date": "2026-07-04",
+          "peak": 3259
+        },
+        {
+          "date": "2026-07-05",
+          "peak": 3329
+        },
+        {
+          "date": "2026-07-06",
+          "peak": 3380
+        }
+      ]
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": [
+    {
+      "rank": 2,
+      "type": "comeback",
+      "label": "老游戏回归",
+      "score": 24.99,
+      "fact_summary": "Arena Breakout: Infinite 今日观测峰值 18,275，首次进入当前观察窗口，被识别为「老游戏回归」。",
+      "metrics": {
+        "current_peak": 18275,
+        "previous_peak": 0,
+        "previous_record_peak": 0,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 18275,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 19.56,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 4.0,
+        "score_before_multiplier": 24.99,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 73.0,
+        "review_total": 63952,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": false,
+        "release_age_days": 294,
+        "steam_release_age_days": 294,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": true,
+        "comeback_reason": "generic",
+        "comeback_evidence": null,
+        "genres": [
+          "动作",
+          "冒险",
+          "大型多人在线",
+          "角色扮演",
+          "策略",
+          "免费"
+        ],
+        "trend": [
+          {
+            "date": "2026-07-06",
+            "peak": 18275
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "repeat_window_prior_count": 0
+      },
+      "sources": [],
+      "game": {
+        "slug": "arena-breakout-infinite",
+        "appid": null,
+        "name": "Arena Breakout: Infinite",
+        "name_cn": null,
+        "description": "《暗区突围：无限》是一款高风险的战术撤离射击游戏，每一次决策都至关重要。​​ 在激烈交火中生存，搜寻珍贵物资并活着逃脱——否则将失去一切。凭借令人惊叹的真实画面、贴近真实的音效设计，以及残酷的PvPvE战斗，每一次突袭都是一场关乎荣耀或毁灭的豪赌。",
+        "release_date": "2025-09-15",
+        "genres": [
+          "动作",
+          "冒险",
+          "大型多人在线",
+          "角色扮演",
+          "策略",
+          "免费"
+        ],
+        "tags": [],
+        "review_score": "Mostly Positive",
+        "review_ratio": 73.0,
+        "review_total": 63952,
+        "developer": null,
+        "publisher": null,
+        "cover_image_url": null,
+        "steam_url": null,
+        "trend": [
+          {
+            "date": "2026-07-06",
+            "peak": 18275
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 24.6,
+      "fact_summary": "Angels Online Global 今日观测峰值 2,240，未超过过往最高峰值 2,679，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 2240,
+        "previous_peak": 2679,
+        "previous_record_peak": 2679,
+        "growth_rate": -0.1639,
+        "record_growth_rate": -0.1639,
+        "scoring_peak": 2240,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 4.03,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.224,
+        "record_growth_score": 0.0,
+        "days_seen_score": 8.57,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 24.6,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 72.0,
+        "review_total": 475,
+        "days_seen": 6,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 19,
+        "steam_release_age_days": 19,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "冒险",
+          "大型多人在线",
+          "角色扮演",
+          "免费"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 2679
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 2407
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 2407
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 2355
+          },
+          {
+            "date": "2026-07-05",
+            "peak": 2274
+          },
+          {
+            "date": "2026-07-06",
+            "peak": 2240
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "repeat_window_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4018020"
+        }
+      ],
+      "game": {
+        "slug": "angels-online-global",
+        "appid": "4018020",
+        "name": "Angels Online Global",
+        "name_cn": null,
+        "description": "《天使之恋Online 国际版》是一款2D可爱奇幻风格的线上 MMORPG，主打高度自由的养成、多样玩法与跨国共玩体验，让新旧玩家都能轻松投入、长久游玩。可自由选择阵营、搭配技能来培养角色，创造出专属于个人的游戏风格。国际版更提供四倍速练等，加速角色成长，优化背包空间，让收集与探索更无负担。同时支援即时聊天翻译，可与全球玩家一同冒险。游戏装扮可由副本直接掉落，并追加分解、融合系统，将外观转化为实力。",
+        "release_date": "2026-06-17",
+        "genres": [
+          "冒险",
+          "大型多人在线",
+          "角色扮演",
+          "免费"
+        ],
+        "tags": [
+          "多人",
+          "大型多人在线",
+          "玩家对战",
+          "线上玩家对战",
+          "合作",
+          "在线合作",
+          "应用内购买",
+          "自定义音量控制",
+          "可以仅用键盘",
+          "无需应对快速反应事件",
+          "随时保存",
+          "家庭共享"
+        ],
+        "review_score": "Mostly Positive",
+        "review_ratio": 72.0,
+        "review_total": 475,
+        "developer": "USERJOY Technology Co.,Ltd.",
+        "publisher": "USERJOY Technology Co.,Ltd.",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4018020/6c712c5ca3f34291e596a2d60f2b3961a168c851/header.jpg?t=1782272656",
+        "steam_url": "https://store.steampowered.com/app/4018020",
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 2679
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 2407
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 2407
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 2355
+          },
+          {
+            "date": "2026-07-05",
+            "peak": 2274
+          },
+          {
+            "date": "2026-07-06",
+            "peak": 2240
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 24.2,
+      "fact_summary": "Supermarket Chaos 今日观测峰值 4,665，较过往最高峰值提升 +8%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 4665,
+        "previous_peak": 4327,
+        "previous_record_peak": 4327,
+        "growth_rate": 0.0781,
+        "record_growth_rate": 0.0781,
+        "scoring_peak": 4665,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 8.4,
+        "raw_record_growth_score": 2.73,
+        "growth_score_multiplier": 0.4665,
+        "record_growth_score": 1.28,
+        "days_seen_score": 8.57,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 30.24,
+        "score_multiplier": 0.8,
+        "score_multiplier_reasons": [
+          "repeat_window_star_1x"
+        ],
+        "repeat_window_star_count": 1,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 1,
+        "total_star_count": 2,
+        "star_appearance_count": 2,
+        "cumulative_star_count": 1,
+        "review_ratio": 90.0,
+        "review_total": 717,
+        "days_seen": 6,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 7,
+        "steam_release_age_days": 7,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "独立",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 1027
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 3440
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 3440
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 4233
+          },
+          {
+            "date": "2026-07-05",
+            "peak": 4327
+          },
+          {
+            "date": "2026-07-06",
+            "peak": 4665
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 2,
+        "prior_count": 1,
+        "repeat_window_prior_count": 1
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4800590"
+        }
+      ],
+      "game": {
+        "slug": "supermarket-chaos",
+        "appid": "4800590",
+        "name": "Supermarket Chaos",
+        "name_cn": null,
+        "description": "Supermarket Chaos 是一款治愈系整理模拟游戏，你将在杂乱的大型超市中整理 4,668 件商品。在轻松安静的氛围中，享受陈列带来的满足感。",
+        "release_date": "2026-06-29",
+        "genres": [
+          "独立",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "完全支持控制器",
+          "视角舒适度",
+          "自定义音量控制",
+          "无需应对快速反应事件",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "随时保存",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 90.0,
+        "review_total": 717,
+        "developer": "BunnyHop",
+        "publisher": "BunnyHopHome",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1783224963",
+        "steam_url": "https://store.steampowered.com/app/4800590",
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 1027
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 3440
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 3440
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 4233
+          },
+          {
+            "date": "2026-07-05",
+            "peak": 4327
+          },
+          {
+            "date": "2026-07-06",
+            "peak": 4665
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 23.92,
+      "fact_summary": "EMPULSE 今日观测峰值 1,863，未超过过往最高峰值 2,296，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 1863,
+        "previous_peak": 2296,
+        "previous_record_peak": 2296,
+        "growth_rate": -0.1886,
+        "record_growth_rate": -0.1886,
+        "scoring_peak": 1863,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 3.35,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.1863,
+        "record_growth_score": 0.0,
+        "days_seen_score": 8.57,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 23.92,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 74.0,
+        "review_total": 1341,
+        "days_seen": 6,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 12,
+        "steam_release_age_days": 12,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "动作",
+          "抢先体验"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 2296
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 2098
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 2098
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 1954
+          },
+          {
+            "date": "2026-07-05",
+            "peak": 1812
+          },
+          {
+            "date": "2026-07-06",
+            "peak": 1863
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "repeat_window_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4323990"
+        }
+      ],
+      "game": {
+        "slug": "empulse",
+        "appid": "4323990",
+        "name": "EMPULSE",
+        "name_cn": null,
+        "description": "EMPULSE 是一款即将上线的高速6v6移动射击游戏。跑墙、钩爪、Holojump、驾驶机甲、用 P.A.I.N.T. 征服 Freehold 的垂直街道。比对手跑得更快，否则只能被打倒。",
+        "release_date": "2026-06-24",
+        "genres": [
+          "动作",
+          "抢先体验"
+        ],
+        "tags": [
+          "多人",
+          "玩家对战",
+          "线上玩家对战",
+          "跨平台多人",
+          "Steam 成就",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "部分支持控制器",
+          "家庭共享"
+        ],
+        "review_score": "Mostly Positive",
+        "review_ratio": 74.0,
+        "review_total": 1341,
+        "developer": "1047 Games",
+        "publisher": "1047 Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323990/0c3db5731395be25b56008bffda2f27ed08e703d/header.jpg?t=1782317659",
+        "steam_url": "https://store.steampowered.com/app/4323990",
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 2296
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 2098
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 2098
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 1954
+          },
+          {
+            "date": "2026-07-05",
+            "peak": 1812
+          },
+          {
+            "date": "2026-07-06",
+            "peak": 1863
+          }
+        ]
+      }
+    }
+  ]
+}
