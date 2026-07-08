@@ -1,0 +1,59 @@
+{
+  "slug": "godius",
+  "appid": "4559140",
+  "name": "Godius",
+  "name_cn": null,
+  "description": "一款经典的 2D 像素大型多人在线角色扮演游戏，灵感源自在线角色扮演游戏的黄金时代。加入国家战争，探索开放的多人游戏世界，与玩家进行交易，在 PvP 中战斗，并体验自 1999 年以来一直持续的社区驱动的冒险。",
+  "release_date": "2026-06-27",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立",
+    "大型多人在线",
+    "角色扮演",
+    "免费"
+  ],
+  "tags": [
+    "多人",
+    "大型多人在线",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "自定义音量控制",
+    "可以仅用键盘",
+    "可以仅用鼠标",
+    "无需应对快速反应事件",
+    "随时保存",
+    "家庭共享"
+  ],
+  "review_score": "Mostly Negative",
+  "review_ratio": 40.0,
+  "review_total": 81,
+  "developer": "playinworld",
+  "publisher": "playinworld",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559140/d0dc52625c604bf57727545666bd29e766e7a4d9/header.jpg?t=1782989516",
+  "steam_url": "https://store.steampowered.com/app/4559140",
+  "trend": [
+    {
+      "date": "2026-06-30",
+      "peak": 488
+    },
+    {
+      "date": "2026-07-02",
+      "peak": 545
+    },
+    {
+      "date": "2026-07-03",
+      "peak": 545
+    },
+    {
+      "date": "2026-07-07",
+      "peak": 638
+    },
+    {
+      "date": "2026-07-08",
+      "peak": 630
+    }
+  ]
+}

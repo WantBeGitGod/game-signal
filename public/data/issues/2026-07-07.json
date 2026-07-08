@@ -1,0 +1,893 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-07",
+  "title": "07.07 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 25.13,
+    "fact_summary": "EMPULSE 今日观测峰值 1,739，未超过过往最高峰值 2,296，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 1739,
+      "previous_peak": 2296,
+      "previous_record_peak": 2296,
+      "growth_rate": -0.2426,
+      "record_growth_rate": -0.2426,
+      "scoring_peak": 1739,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 3.13,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.1739,
+      "record_growth_score": 0.0,
+      "days_seen_score": 10.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 25.13,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 74.0,
+      "review_total": 1357,
+      "days_seen": 7,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 13,
+      "steam_release_age_days": 13,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "抢先体验"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-30",
+          "peak": 2296
+        },
+        {
+          "date": "2026-07-02",
+          "peak": 2098
+        },
+        {
+          "date": "2026-07-03",
+          "peak": 2098
+        },
+        {
+          "date": "2026-07-04",
+          "peak": 1954
+        },
+        {
+          "date": "2026-07-05",
+          "peak": 1812
+        },
+        {
+          "date": "2026-07-06",
+          "peak": 1863
+        },
+        {
+          "date": "2026-07-07",
+          "peak": 1739
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4323990"
+      }
+    ],
+    "game": {
+      "slug": "empulse",
+      "appid": "4323990",
+      "name": "EMPULSE",
+      "name_cn": null,
+      "description": "EMPULSE 是一款即将上线的高速6v6移动射击游戏。跑墙、钩爪、Holojump、驾驶机甲、用 P.A.I.N.T. 征服 Freehold 的垂直街道。比对手跑得更快，否则只能被打倒。",
+      "release_date": "2026-06-24",
+      "genres": [
+        "动作",
+        "抢先体验"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "跨平台多人",
+        "Steam 成就",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "部分支持控制器",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 74.0,
+      "review_total": 1357,
+      "developer": "1047 Games",
+      "publisher": "1047 Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323990/0c3db5731395be25b56008bffda2f27ed08e703d/header.jpg?t=1782317659",
+      "steam_url": "https://store.steampowered.com/app/4323990",
+      "trend": [
+        {
+          "date": "2026-06-30",
+          "peak": 2296
+        },
+        {
+          "date": "2026-07-02",
+          "peak": 2098
+        },
+        {
+          "date": "2026-07-03",
+          "peak": 2098
+        },
+        {
+          "date": "2026-07-04",
+          "peak": 1954
+        },
+        {
+          "date": "2026-07-05",
+          "peak": 1812
+        },
+        {
+          "date": "2026-07-06",
+          "peak": 1863
+        },
+        {
+          "date": "2026-07-07",
+          "peak": 1739
+        }
+      ]
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 25.13,
+    "fact_summary": "EMPULSE 今日观测峰值 1,739，未超过过往最高峰值 2,296，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 1739,
+      "previous_peak": 2296,
+      "previous_record_peak": 2296,
+      "growth_rate": -0.2426,
+      "record_growth_rate": -0.2426,
+      "scoring_peak": 1739,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 3.13,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.1739,
+      "record_growth_score": 0.0,
+      "days_seen_score": 10.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 25.13,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 74.0,
+      "review_total": 1357,
+      "days_seen": 7,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 13,
+      "steam_release_age_days": 13,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "抢先体验"
+      ],
+      "trend": [
+        {
+          "date": "2026-06-30",
+          "peak": 2296
+        },
+        {
+          "date": "2026-07-02",
+          "peak": 2098
+        },
+        {
+          "date": "2026-07-03",
+          "peak": 2098
+        },
+        {
+          "date": "2026-07-04",
+          "peak": 1954
+        },
+        {
+          "date": "2026-07-05",
+          "peak": 1812
+        },
+        {
+          "date": "2026-07-06",
+          "peak": 1863
+        },
+        {
+          "date": "2026-07-07",
+          "peak": 1739
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4323990"
+      }
+    ],
+    "game": {
+      "slug": "empulse",
+      "appid": "4323990",
+      "name": "EMPULSE",
+      "name_cn": null,
+      "description": "EMPULSE 是一款即将上线的高速6v6移动射击游戏。跑墙、钩爪、Holojump、驾驶机甲、用 P.A.I.N.T. 征服 Freehold 的垂直街道。比对手跑得更快，否则只能被打倒。",
+      "release_date": "2026-06-24",
+      "genres": [
+        "动作",
+        "抢先体验"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "跨平台多人",
+        "Steam 成就",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "部分支持控制器",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 74.0,
+      "review_total": 1357,
+      "developer": "1047 Games",
+      "publisher": "1047 Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323990/0c3db5731395be25b56008bffda2f27ed08e703d/header.jpg?t=1782317659",
+      "steam_url": "https://store.steampowered.com/app/4323990",
+      "trend": [
+        {
+          "date": "2026-06-30",
+          "peak": 2296
+        },
+        {
+          "date": "2026-07-02",
+          "peak": 2098
+        },
+        {
+          "date": "2026-07-03",
+          "peak": 2098
+        },
+        {
+          "date": "2026-07-04",
+          "peak": 1954
+        },
+        {
+          "date": "2026-07-05",
+          "peak": 1812
+        },
+        {
+          "date": "2026-07-06",
+          "peak": 1863
+        },
+        {
+          "date": "2026-07-07",
+          "peak": 1739
+        }
+      ]
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": [
+    {
+      "rank": 2,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 23.07,
+      "fact_summary": "Supermarket Chaos 今日观测峰值 3,798，未超过过往最高峰值 4,665，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 3798,
+        "previous_peak": 4665,
+        "previous_record_peak": 4665,
+        "growth_rate": -0.1859,
+        "record_growth_rate": -0.1859,
+        "scoring_peak": 3798,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 6.84,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.3798,
+        "record_growth_score": 0.0,
+        "days_seen_score": 10.0,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 28.84,
+        "score_multiplier": 0.8,
+        "score_multiplier_reasons": [
+          "repeat_window_star_1x"
+        ],
+        "repeat_window_star_count": 1,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 1,
+        "total_star_count": 2,
+        "star_appearance_count": 2,
+        "cumulative_star_count": 1,
+        "review_ratio": 91.0,
+        "review_total": 820,
+        "days_seen": 7,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 8,
+        "steam_release_age_days": 8,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "独立",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 1027
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 3440
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 3440
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 4233
+          },
+          {
+            "date": "2026-07-05",
+            "peak": 4327
+          },
+          {
+            "date": "2026-07-06",
+            "peak": 4665
+          },
+          {
+            "date": "2026-07-07",
+            "peak": 3798
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 2,
+        "prior_count": 1,
+        "repeat_window_prior_count": 1
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4800590"
+        }
+      ],
+      "game": {
+        "slug": "supermarket-chaos",
+        "appid": "4800590",
+        "name": "Supermarket Chaos",
+        "name_cn": null,
+        "description": "Supermarket Chaos 是一款治愈系整理模拟游戏，你将在杂乱的大型超市中整理 4,668 件商品。在轻松安静的氛围中，享受陈列带来的满足感。",
+        "release_date": "2026-06-29",
+        "genres": [
+          "独立",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "完全支持控制器",
+          "视角舒适度",
+          "自定义音量控制",
+          "无需应对快速反应事件",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "随时保存",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 91.0,
+        "review_total": 820,
+        "developer": "BunnyHop",
+        "publisher": "BunnyHopHome",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1783224963",
+        "steam_url": "https://store.steampowered.com/app/4800590",
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 1027
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 3440
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 3440
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 4233
+          },
+          {
+            "date": "2026-07-05",
+            "peak": 4327
+          },
+          {
+            "date": "2026-07-06",
+            "peak": 4665
+          },
+          {
+            "date": "2026-07-07",
+            "peak": 3798
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 22.7,
+      "fact_summary": "Esports Manager 2026 今日观测峰值 5,151，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 5151,
+        "previous_peak": 0,
+        "previous_record_peak": 0,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 5151,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 9.27,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.5151,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 22.7,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 79.0,
+        "review_total": 322,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "release_age_days": 1,
+        "steam_release_age_days": 1,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "独立",
+          "模拟",
+          "体育",
+          "策略"
+        ],
+        "trend": [
+          {
+            "date": "2026-07-07",
+            "peak": 5151
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "repeat_window_prior_count": 0
+      },
+      "sources": [],
+      "game": {
+        "slug": "esports-manager-2026",
+        "appid": null,
+        "name": "Esports Manager 2026",
+        "name_cn": null,
+        "description": "建立并领导您自己的职业电子竞技组织。招募球员、管理合同、培养人才、聘请员工、打造品牌，并在深度逼真的管理模拟中争夺冠军头衔。",
+        "release_date": "2026-07-06",
+        "genres": [
+          "独立",
+          "模拟",
+          "体育",
+          "策略"
+        ],
+        "tags": [],
+        "review_score": "Mostly Positive",
+        "review_ratio": 79.0,
+        "review_total": 322,
+        "developer": null,
+        "publisher": null,
+        "cover_image_url": null,
+        "steam_url": null,
+        "trend": [
+          {
+            "date": "2026-07-07",
+            "peak": 5151
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 22.13,
+      "fact_summary": "Orb of Creation 今日观测峰值 3,146，未超过过往最高峰值 5,626，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 3146,
+        "previous_peak": 5626,
+        "previous_record_peak": 5626,
+        "growth_rate": -0.4408,
+        "record_growth_rate": -0.4408,
+        "scoring_peak": 3146,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 5.66,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.3146,
+        "record_growth_score": 0.0,
+        "days_seen_score": 10.0,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 27.66,
+        "score_multiplier": 0.8,
+        "score_multiplier_reasons": [
+          "repeat_window_star_1x"
+        ],
+        "repeat_window_star_count": 1,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 1,
+        "total_star_count": 2,
+        "star_appearance_count": 2,
+        "cumulative_star_count": 1,
+        "review_ratio": 87.0,
+        "review_total": 1961,
+        "days_seen": 11,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 14,
+        "steam_release_age_days": 14,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "休闲",
+          "独立",
+          "策略"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-25",
+            "peak": 5592
+          },
+          {
+            "date": "2026-06-26",
+            "peak": 5626
+          },
+          {
+            "date": "2026-06-27",
+            "peak": 5146
+          },
+          {
+            "date": "2026-06-28",
+            "peak": 5148
+          },
+          {
+            "date": "2026-06-30",
+            "peak": 4662
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 3890
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 3890
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 3823
+          },
+          {
+            "date": "2026-07-05",
+            "peak": 3622
+          },
+          {
+            "date": "2026-07-06",
+            "peak": 3497
+          },
+          {
+            "date": "2026-07-07",
+            "peak": 3146
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 2,
+        "prior_count": 1,
+        "repeat_window_prior_count": 1
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/1910680"
+        }
+      ],
+      "game": {
+        "slug": "orb-of-creation",
+        "appid": "1910680",
+        "name": "Orb of Creation",
+        "name_cn": null,
+        "description": "Orb of Creation 是一款非闲置的增量益智游戏，您只需使用魔法和独创性即可重新创造世界。召唤资源，购买升级，成为全能的巫师！",
+        "release_date": "2026-06-23",
+        "genres": [
+          "休闲",
+          "独立",
+          "策略"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 87.0,
+        "review_total": 1961,
+        "developer": "MarpleGames",
+        "publisher": "MarpleGames",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910680/28cbe4a8420b96a025958a161203b5603a17daed/header.jpg?t=1782342864",
+        "steam_url": "https://store.steampowered.com/app/1910680",
+        "trend": [
+          {
+            "date": "2026-06-25",
+            "peak": 5592
+          },
+          {
+            "date": "2026-06-26",
+            "peak": 5626
+          },
+          {
+            "date": "2026-06-27",
+            "peak": 5146
+          },
+          {
+            "date": "2026-06-28",
+            "peak": 5148
+          },
+          {
+            "date": "2026-06-30",
+            "peak": 4662
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 3890
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 3890
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 3823
+          },
+          {
+            "date": "2026-07-05",
+            "peak": 3622
+          },
+          {
+            "date": "2026-07-06",
+            "peak": 3497
+          },
+          {
+            "date": "2026-07-07",
+            "peak": 3146
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 19.24,
+      "fact_summary": "Godius 今日观测峰值 638，较过往最高峰值提升 +17%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 638,
+        "previous_peak": 545,
+        "previous_record_peak": 545,
+        "growth_rate": 0.1706,
+        "record_growth_rate": 0.1706,
+        "scoring_peak": 638,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 1.15,
+        "raw_record_growth_score": 5.97,
+        "growth_score_multiplier": 0.0638,
+        "record_growth_score": 0.38,
+        "days_seen_score": 5.71,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 19.24,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 39.0,
+        "review_total": 79,
+        "days_seen": 4,
+        "comeback_gap_days": 4,
+        "is_new_release": true,
+        "release_age_days": 10,
+        "steam_release_age_days": 10,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "大型多人在线",
+          "角色扮演",
+          "免费"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 488
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 545
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 545
+          },
+          {
+            "date": "2026-07-07",
+            "peak": 638
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "repeat_window_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4559140"
+        }
+      ],
+      "game": {
+        "slug": "godius",
+        "appid": "4559140",
+        "name": "Godius",
+        "name_cn": null,
+        "description": "一款经典的 2D 像素大型多人在线角色扮演游戏，灵感源自在线角色扮演游戏的黄金时代。加入国家战争，探索开放的多人游戏世界，与玩家进行交易，在 PvP 中战斗，并体验自 1999 年以来一直持续的社区驱动的冒险。",
+        "release_date": "2026-06-27",
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "大型多人在线",
+          "角色扮演",
+          "免费"
+        ],
+        "tags": [
+          "多人",
+          "大型多人在线",
+          "玩家对战",
+          "线上玩家对战",
+          "合作",
+          "在线合作",
+          "自定义音量控制",
+          "可以仅用键盘",
+          "可以仅用鼠标",
+          "无需应对快速反应事件",
+          "随时保存",
+          "家庭共享"
+        ],
+        "review_score": "Mostly Negative",
+        "review_ratio": 39.0,
+        "review_total": 79,
+        "developer": "playinworld",
+        "publisher": "playinworld",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4559140/d0dc52625c604bf57727545666bd29e766e7a4d9/header.jpg?t=1782989516",
+        "steam_url": "https://store.steampowered.com/app/4559140",
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 488
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 545
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 545
+          },
+          {
+            "date": "2026-07-07",
+            "peak": 638
+          }
+        ]
+      }
+    }
+  ]
+}
