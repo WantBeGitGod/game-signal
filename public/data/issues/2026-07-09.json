@@ -1,0 +1,696 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-09",
+  "title": "07.09 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 54.55,
+    "fact_summary": "Destiny of Immortal 今日观测峰值 8,102，较过往最高峰值提升 +89%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 8102,
+      "previous_peak": 4297,
+      "previous_record_peak": 4297,
+      "growth_rate": 0.8855,
+      "record_growth_rate": 0.8855,
+      "scoring_peak": 8102,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 14.58,
+      "raw_record_growth_score": 30.99,
+      "growth_score_multiplier": 0.8102,
+      "record_growth_score": 25.11,
+      "days_seen_score": 2.86,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 54.55,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 83.0,
+      "review_total": 332,
+      "days_seen": 2,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "冒险",
+        "独立",
+        "角色扮演",
+        "模拟",
+        "策略",
+        "抢先体验"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-08",
+          "peak": 4297
+        },
+        {
+          "date": "2026-07-09",
+          "peak": 8102
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2377930"
+      }
+    ],
+    "game": {
+      "slug": "destiny-of-immortal",
+      "appid": "2377930",
+      "name": "Destiny of Immortal",
+      "name_cn": null,
+      "description": "《造化仙缘》是一款修仙题材的角色扮演游戏，本作最大魅力在于多路线剧情选择分支与高密度爽点的爽文式剧情。传说在宇宙开辟之初，诞生了几件造化至宝，各自拥有逆天的功能。你无意中获得其中一件造化至宝，开始了如同开挂一般的修仙之旅。",
+      "release_date": "2026-07-07",
+      "genres": [
+        "冒险",
+        "独立",
+        "角色扮演",
+        "模拟",
+        "策略",
+        "抢先体验"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 83.0,
+      "review_total": 332,
+      "developer": "LeiYun Games",
+      "publisher": "2P Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2377930/9c6a07a623a1854d3759d1b75c64971f564d9d84/header_schinese.jpg?t=1783536331",
+      "steam_url": "https://store.steampowered.com/app/2377930",
+      "trend": [
+        {
+          "date": "2026-07-08",
+          "peak": 4297
+        },
+        {
+          "date": "2026-07-09",
+          "peak": 8102
+        }
+      ]
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 54.55,
+    "fact_summary": "Destiny of Immortal 今日观测峰值 8,102，较过往最高峰值提升 +89%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 8102,
+      "previous_peak": 4297,
+      "previous_record_peak": 4297,
+      "growth_rate": 0.8855,
+      "record_growth_rate": 0.8855,
+      "scoring_peak": 8102,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 14.58,
+      "raw_record_growth_score": 30.99,
+      "growth_score_multiplier": 0.8102,
+      "record_growth_score": 25.11,
+      "days_seen_score": 2.86,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 54.55,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 83.0,
+      "review_total": 332,
+      "days_seen": 2,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "冒险",
+        "独立",
+        "角色扮演",
+        "模拟",
+        "策略",
+        "抢先体验"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-08",
+          "peak": 4297
+        },
+        {
+          "date": "2026-07-09",
+          "peak": 8102
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2377930"
+      }
+    ],
+    "game": {
+      "slug": "destiny-of-immortal",
+      "appid": "2377930",
+      "name": "Destiny of Immortal",
+      "name_cn": null,
+      "description": "《造化仙缘》是一款修仙题材的角色扮演游戏，本作最大魅力在于多路线剧情选择分支与高密度爽点的爽文式剧情。传说在宇宙开辟之初，诞生了几件造化至宝，各自拥有逆天的功能。你无意中获得其中一件造化至宝，开始了如同开挂一般的修仙之旅。",
+      "release_date": "2026-07-07",
+      "genres": [
+        "冒险",
+        "独立",
+        "角色扮演",
+        "模拟",
+        "策略",
+        "抢先体验"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 83.0,
+      "review_total": 332,
+      "developer": "LeiYun Games",
+      "publisher": "2P Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2377930/9c6a07a623a1854d3759d1b75c64971f564d9d84/header_schinese.jpg?t=1783536331",
+      "steam_url": "https://store.steampowered.com/app/2377930",
+      "trend": [
+        {
+          "date": "2026-07-08",
+          "peak": 4297
+        },
+        {
+          "date": "2026-07-09",
+          "peak": 8102
+        }
+      ]
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": [
+    {
+      "rank": 2,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 54.53,
+      "fact_summary": "Esports Manager 2026 今日观测峰值 9,936，较过往最高峰值提升 +59%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 9936,
+        "previous_peak": 6267,
+        "previous_record_peak": 6267,
+        "growth_rate": 0.5854,
+        "record_growth_rate": 0.5854,
+        "scoring_peak": 9936,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 17.88,
+        "raw_record_growth_score": 20.49,
+        "growth_score_multiplier": 0.9936,
+        "record_growth_score": 20.36,
+        "days_seen_score": 4.29,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 54.53,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 78.0,
+        "review_total": 968,
+        "days_seen": 3,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 3,
+        "steam_release_age_days": 3,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "独立",
+          "模拟",
+          "体育",
+          "策略"
+        ],
+        "trend": [
+          {
+            "date": "2026-07-07",
+            "peak": 5151
+          },
+          {
+            "date": "2026-07-08",
+            "peak": 6267
+          },
+          {
+            "date": "2026-07-09",
+            "peak": 9936
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "repeat_window_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2749950"
+        }
+      ],
+      "game": {
+        "slug": "esports-manager-2026",
+        "appid": "2749950",
+        "name": "Esports Manager 2026",
+        "name_cn": null,
+        "description": "建立并领导您自己的职业电子竞技组织。招募球员、管理合同、培养人才、聘请员工、打造品牌，并在深度逼真的管理模拟中争夺冠军头衔。",
+        "release_date": "2026-07-06",
+        "genres": [
+          "独立",
+          "模拟",
+          "体育",
+          "策略"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Mostly Positive",
+        "review_ratio": 78.0,
+        "review_total": 968,
+        "developer": "Neurona Games",
+        "publisher": "indie.io",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749950/c996835deb9fd4b481b498f10c0c85ecc8725986/header.jpg?t=1783451404",
+        "steam_url": "https://store.steampowered.com/app/2749950",
+        "trend": [
+          {
+            "date": "2026-07-07",
+            "peak": 5151
+          },
+          {
+            "date": "2026-07-08",
+            "peak": 6267
+          },
+          {
+            "date": "2026-07-09",
+            "peak": 9936
+          }
+        ]
+      }
+    },
+    {
+      "rank": 3,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 44.18,
+      "fact_summary": "Assassin's Creed Black Flag Resynced 今日观测峰值 77,525，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 77525,
+        "previous_peak": 0,
+        "previous_record_peak": 0,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 77525,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 30.75,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 1.0,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 44.18,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 36.0,
+        "review_total": 122,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "release_age_days": 0,
+        "steam_release_age_days": 0,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "trend": [
+          {
+            "date": "2026-07-09",
+            "peak": 77525
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "repeat_window_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/3751950"
+        }
+      ],
+      "game": {
+        "slug": "assassin-s-creed-black-flag-resynced",
+        "appid": "3751950",
+        "name": "Assassin's Creed Black Flag Resynced",
+        "name_cn": null,
+        "description": "经典单人海盗冒险之旅现已回归。在这部忠实还原且经过优化的重制版中，你将扮演爱德华·肯威，在海盗的黄金时代扬帆加勒比海。本作拥有惊艳的视觉效果、经过升级的玩法以及全新的内容。",
+        "release_date": "2026-07-09",
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "Steam 集换式卡牌",
+          "支持字幕",
+          "应用内购买",
+          "可调整文字大小",
+          "视角舒适度",
+          "可选颜色",
+          "自定义音量控制",
+          "可调整难度",
+          "可以仅用键盘",
+          "可以仅用鼠标",
+          "朗读游戏菜单",
+          "无需应对快速反应事件",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "随时保存",
+          "立体声",
+          "字幕选项",
+          "环绕声",
+          "部分支持控制器",
+          "可用 HDR"
+        ],
+        "review_score": "Mostly Negative",
+        "review_ratio": 36.0,
+        "review_total": 122,
+        "developer": "Ubisoft Singapore, Ubisoft Barcelona, Ubisoft Bordeaux, Ubisoft Belgrade, Ubisoft Chengdu, Ubisoft India, Ubisoft Kyiv, Ubisoft Montpellier, Ubisoft Philippines, Ubisoft Quebec, Ubisoft Shanghai",
+        "publisher": "Ubisoft",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/777795886ee7d2fc9f1e84aacc75f82baf75defb/header_schinese.jpg?t=1783605522",
+        "steam_url": "https://store.steampowered.com/app/3751950",
+        "trend": [
+          {
+            "date": "2026-07-09",
+            "peak": 77525
+          }
+        ]
+      }
+    },
+    {
+      "rank": 4,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 27.09,
+      "fact_summary": "Sudden Attack Zero Point Playtest 今日观测峰值 7,588，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 7588,
+        "previous_peak": 0,
+        "previous_record_peak": 0,
+        "growth_rate": 0.0,
+        "record_growth_rate": 0.0,
+        "scoring_peak": 7588,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 13.66,
+        "raw_record_growth_score": 0.0,
+        "growth_score_multiplier": 0.7588,
+        "record_growth_score": 0.0,
+        "days_seen_score": 1.43,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 27.09,
+        "score_multiplier": 1.0,
+        "score_multiplier_reasons": [],
+        "repeat_window_star_count": 0,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 0,
+        "total_star_count": 1,
+        "star_appearance_count": 1,
+        "cumulative_star_count": 0,
+        "review_ratio": 83.0,
+        "review_total": 6,
+        "days_seen": 1,
+        "comeback_gap_days": 0,
+        "is_new_release": true,
+        "release_age_days": 3,
+        "steam_release_age_days": 3,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [],
+        "trend": [
+          {
+            "date": "2026-07-09",
+            "peak": 7588
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 1,
+        "prior_count": 0,
+        "repeat_window_prior_count": 0
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/4663610"
+        }
+      ],
+      "game": {
+        "slug": "sudden-attack-zero-point-playtest",
+        "appid": "4663610",
+        "name": "Sudden Attack Zero Point Playtest",
+        "name_cn": null,
+        "description": "",
+        "release_date": "2026-07-06",
+        "genres": [],
+        "tags": [],
+        "review_score": "6 user reviews",
+        "review_ratio": 83.0,
+        "review_total": 6,
+        "developer": "",
+        "publisher": "",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4663610/06160fc52bb56bb96f1113ae3271a72558f056e6/header.jpg?t=1783392861",
+        "steam_url": "https://store.steampowered.com/app/4663610",
+        "trend": [
+          {
+            "date": "2026-07-09",
+            "peak": 7588
+          }
+        ]
+      }
+    },
+    {
+      "rank": 5,
+      "type": "new_release_rise",
+      "label": "新作起量",
+      "score": 23.52,
+      "fact_summary": "Moonlight Peaks 今日观测峰值 6,012，较过往最高峰值提升 +11%，被识别为「新作起量」。",
+      "metrics": {
+        "current_peak": 6012,
+        "previous_peak": 5422,
+        "previous_record_peak": 5422,
+        "growth_rate": 0.1088,
+        "record_growth_rate": 0.1088,
+        "scoring_peak": 6012,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "peak_score": 10.82,
+        "raw_record_growth_score": 3.81,
+        "growth_score_multiplier": 0.6012,
+        "record_growth_score": 2.29,
+        "days_seen_score": 4.29,
+        "signal_type_score": 12.0,
+        "score_before_multiplier": 29.4,
+        "score_multiplier": 0.8,
+        "score_multiplier_reasons": [
+          "repeat_window_star_1x"
+        ],
+        "repeat_window_star_count": 1,
+        "repeat_window_days": 30,
+        "repeat_window_max_wins": 3,
+        "prior_total_star_count": 1,
+        "total_star_count": 2,
+        "star_appearance_count": 2,
+        "cumulative_star_count": 1,
+        "review_ratio": 88.0,
+        "review_total": 430,
+        "days_seen": 3,
+        "comeback_gap_days": 1,
+        "is_new_release": true,
+        "release_age_days": 3,
+        "steam_release_age_days": 3,
+        "release_age_basis": "steam",
+        "release_verification_required": false,
+        "release_verification": null,
+        "all_platform_release_date": null,
+        "is_comeback_age": false,
+        "comeback_reason": "not_comeback_age",
+        "comeback_evidence": null,
+        "genres": [
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-07-07",
+            "peak": 2176
+          },
+          {
+            "date": "2026-07-08",
+            "peak": 5422
+          },
+          {
+            "date": "2026-07-09",
+            "peak": 6012
+          }
+        ]
+      },
+      "star_appearance": {
+        "count": 2,
+        "prior_count": 1,
+        "repeat_window_prior_count": 1
+      },
+      "sources": [
+        {
+          "title": "Steam 商店",
+          "url": "https://store.steampowered.com/app/2209900"
+        }
+      ],
+      "game": {
+        "slug": "moonlight-peaks",
+        "appid": "2209900",
+        "name": "Moonlight Peaks",
+        "name_cn": null,
+        "description": "在《Moonlight Peaks》中体验吸血鬼的生活！掌握药水制作和咒语施放的艺术，悉心照料你的超自然农场，并与本地狼人、女巫和美人鱼成为好友——甚至坠入爱河。永恒唾手可得！",
+        "release_date": "2026-07-06",
+        "genres": [
+          "休闲",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "tags": [
+          "单人",
+          "Steam 成就",
+          "完全支持控制器",
+          "Steam 集换式卡牌",
+          "推荐使用手柄",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "DUALSHOCK 控制器支持",
+          "Steam 云",
+          "家庭共享"
+        ],
+        "review_score": "Very Positive",
+        "review_ratio": 88.0,
+        "review_total": 430,
+        "developer": "Little Chicken",
+        "publisher": "XSEED Games, Marvelous Europe",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/9a9b199531ec49be95ea2d34e67dfab47106584b/header.jpg?t=1783444081",
+        "steam_url": "https://store.steampowered.com/app/2209900",
+        "trend": [
+          {
+            "date": "2026-07-07",
+            "peak": 2176
+          },
+          {
+            "date": "2026-07-08",
+            "peak": 5422
+          },
+          {
+            "date": "2026-07-09",
+            "peak": 6012
+          }
+        ]
+      }
+    }
+  ]
+}

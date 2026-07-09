@@ -1,0 +1,51 @@
+{
+  "slug": "assassin-s-creed-black-flag-resynced",
+  "appid": "3751950",
+  "name": "Assassin's Creed Black Flag Resynced",
+  "name_cn": null,
+  "description": "经典单人海盗冒险之旅现已回归。在这部忠实还原且经过优化的重制版中，你将扮演爱德华·肯威，在海盗的黄金时代扬帆加勒比海。本作拥有惊艳的视觉效果、经过升级的玩法以及全新的内容。",
+  "release_date": "2026-07-09",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "支持字幕",
+    "应用内购买",
+    "可调整文字大小",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "可调整难度",
+    "可以仅用键盘",
+    "可以仅用鼠标",
+    "朗读游戏菜单",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "随时保存",
+    "立体声",
+    "字幕选项",
+    "环绕声",
+    "部分支持控制器",
+    "可用 HDR"
+  ],
+  "review_score": "Mostly Negative",
+  "review_ratio": 36.0,
+  "review_total": 122,
+  "developer": "Ubisoft Singapore, Ubisoft Barcelona, Ubisoft Bordeaux, Ubisoft Belgrade, Ubisoft Chengdu, Ubisoft India, Ubisoft Kyiv, Ubisoft Montpellier, Ubisoft Philippines, Ubisoft Quebec, Ubisoft Shanghai",
+  "publisher": "Ubisoft",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/777795886ee7d2fc9f1e84aacc75f82baf75defb/header_schinese.jpg?t=1783605522",
+  "steam_url": "https://store.steampowered.com/app/3751950",
+  "trend": [
+    {
+      "date": "2026-07-09",
+      "peak": 77525
+    }
+  ]
+}
