@@ -1,8 +1,18 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-01T00:47:50",
-  "latest_weekly": "2026-06-22-week",
+  "generated_at": "2026-07-11T02:42:55",
+  "latest_weekly": "2026-06-29-week",
   "issues": [
+    {
+      "slug": "2026-06-29-week",
+      "issue_number": 6,
+      "week_start": "2026-06-29",
+      "week_end": "2026-07-05",
+      "title": "超市越乱越想整理！\n废柴队伍全靠奶妈续命",
+      "summary": "本期深度案例：Supermarket Chaos 与 Master Healer Kale with useless party，分别对应「新作起量」和「突然爆发」。",
+      "status": "published",
+      "published_at": "2026-07-11 02:42:55"
+    },
     {
       "slug": "2026-06-22-week",
       "issue_number": 5,

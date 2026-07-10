@@ -1,809 +1,645 @@
 {
-  "appid": "1431300",
+  "appid": "4800590",
   "source": "SteamDB charts export",
-  "source_url": "https://steamdb.info/app/1431300/charts/",
+  "source_url": "https://steamdb.info/app/4800590/charts/",
   "points": [
     {
-      "datetime": "2026-06-22 00:00:00",
-      "players": 15703
-    },
-    {
-      "datetime": "2026-06-23 00:00:00",
-      "players": 13358
-    },
-    {
-      "datetime": "2026-06-24 00:00:00",
-      "players": 13626
-    },
-    {
-      "datetime": "2026-06-25 00:00:00",
-      "players": 15627
-    },
-    {
-      "datetime": "2026-06-26 00:00:00",
-      "players": 20240
-    },
-    {
-      "datetime": "2026-06-27 00:00:00",
-      "players": 31028
-    },
-    {
-      "datetime": "2026-06-28 00:00:00",
-      "players": 38336
-    },
-    {
-      "datetime": "2026-06-29 00:00:00",
-      "players": 30111
-    },
-    {
-      "datetime": "2026-06-29 01:00:00",
-      "players": 30136
-    },
-    {
-      "datetime": "2026-06-29 02:00:00",
-      "players": 29096
-    },
-    {
-      "datetime": "2026-06-29 03:00:00",
-      "players": 27426
-    },
-    {
-      "datetime": "2026-06-29 04:00:00",
-      "players": 24763
-    },
-    {
-      "datetime": "2026-06-29 05:00:00",
-      "players": 21473
-    },
-    {
-      "datetime": "2026-06-29 06:00:00",
-      "players": 18331
-    },
-    {
-      "datetime": "2026-06-29 07:00:00",
-      "players": 16213
-    },
-    {
-      "datetime": "2026-06-29 08:00:00",
-      "players": 15188
-    },
-    {
-      "datetime": "2026-06-29 09:00:00",
-      "players": 14763
-    },
-    {
-      "datetime": "2026-06-29 10:00:00",
-      "players": 15382
-    },
-    {
-      "datetime": "2026-06-29 11:00:00",
-      "players": 16136
-    },
-    {
-      "datetime": "2026-06-29 12:00:00",
-      "players": 17656
-    },
-    {
-      "datetime": "2026-06-29 13:00:00",
-      "players": 17761
-    },
-    {
-      "datetime": "2026-06-29 14:00:00",
-      "players": 17857
-    },
-    {
-      "datetime": "2026-06-29 15:00:00",
-      "players": 18958
-    },
-    {
-      "datetime": "2026-06-29 16:00:00",
-      "players": 20238
-    },
-    {
-      "datetime": "2026-06-29 17:00:00",
-      "players": 20729
-    },
-    {
-      "datetime": "2026-06-29 18:00:00",
-      "players": 22461
-    },
-    {
-      "datetime": "2026-06-29 19:00:00",
-      "players": 24929
-    },
-    {
-      "datetime": "2026-06-29 20:00:00",
-      "players": 25134
-    },
-    {
-      "datetime": "2026-06-29 21:00:00",
-      "players": 24412
-    },
-    {
-      "datetime": "2026-06-29 22:00:00",
-      "players": 22411
-    },
-    {
-      "datetime": "2026-06-29 23:00:00",
-      "players": 23295
-    },
-    {
       "datetime": "2026-06-30 00:00:00",
-      "players": 24539
+      "players": 646
     },
     {
       "datetime": "2026-06-30 01:00:00",
-      "players": 24978
+      "players": 1000
     },
     {
       "datetime": "2026-06-30 02:00:00",
-      "players": 24748
+      "players": 1027
     },
     {
       "datetime": "2026-06-30 03:00:00",
-      "players": 23078
+      "players": 1004
     },
     {
       "datetime": "2026-06-30 04:00:00",
-      "players": 20409
+      "players": 883
     },
     {
       "datetime": "2026-06-30 05:00:00",
-      "players": 17454
+      "players": 850
     },
     {
       "datetime": "2026-06-30 06:00:00",
-      "players": 14635
+      "players": 753
     },
     {
       "datetime": "2026-06-30 07:00:00",
-      "players": 12496
+      "players": 705
     },
     {
       "datetime": "2026-06-30 08:00:00",
-      "players": 11292
+      "players": 703
     },
     {
       "datetime": "2026-06-30 09:00:00",
-      "players": 10875
+      "players": 739
     },
     {
       "datetime": "2026-06-30 10:00:00",
-      "players": 11459
+      "players": 798
     },
     {
       "datetime": "2026-06-30 11:00:00",
-      "players": 12024
+      "players": 954
     },
     {
       "datetime": "2026-06-30 12:00:00",
-      "players": 13326
+      "players": 1220
     },
     {
       "datetime": "2026-06-30 13:00:00",
-      "players": 14540
+      "players": 1459
     },
     {
       "datetime": "2026-06-30 14:00:00",
-      "players": 15481
+      "players": 1705
     },
     {
       "datetime": "2026-06-30 15:00:00",
-      "players": 16930
+      "players": 1723
     },
     {
       "datetime": "2026-06-30 16:00:00",
-      "players": 18143
+      "players": 1728
     },
     {
       "datetime": "2026-06-30 17:00:00",
-      "players": 19678
+      "players": 1771
     },
     {
       "datetime": "2026-06-30 18:00:00",
-      "players": 21339
+      "players": 1824
     },
     {
       "datetime": "2026-06-30 19:00:00",
-      "players": 22167
+      "players": 1913
     },
     {
       "datetime": "2026-06-30 20:00:00",
-      "players": 22109
+      "players": 1913
     },
     {
       "datetime": "2026-06-30 21:00:00",
-      "players": 22027
+      "players": 1837
     },
     {
       "datetime": "2026-06-30 22:00:00",
-      "players": 20092
+      "players": 1723
     },
     {
       "datetime": "2026-06-30 23:00:00",
-      "players": 18412
+      "players": 1697
     },
     {
       "datetime": "2026-07-01 00:00:00",
-      "players": 19503
+      "players": 1731
     },
     {
       "datetime": "2026-07-01 01:00:00",
-      "players": 19938
+      "players": 1788
     },
     {
       "datetime": "2026-07-01 02:00:00",
-      "players": 19902
+      "players": 1788
     },
     {
       "datetime": "2026-07-01 03:00:00",
-      "players": 18527
+      "players": 1698
     },
     {
       "datetime": "2026-07-01 04:00:00",
-      "players": 15942
+      "players": 1543
     },
     {
       "datetime": "2026-07-01 05:00:00",
-      "players": 13127
+      "players": 1415
     },
     {
       "datetime": "2026-07-01 06:00:00",
-      "players": 10756
+      "players": 1385
     },
     {
       "datetime": "2026-07-01 07:00:00",
-      "players": 9073
+      "players": 1440
     },
     {
       "datetime": "2026-07-01 08:00:00",
-      "players": 7917
+      "players": 1592
     },
     {
       "datetime": "2026-07-01 09:00:00",
-      "players": 7692
+      "players": 1715
     },
     {
       "datetime": "2026-07-01 10:00:00",
-      "players": 7950
+      "players": 1883
     },
     {
       "datetime": "2026-07-01 11:00:00",
-      "players": 8830
+      "players": 2160
     },
     {
       "datetime": "2026-07-01 12:00:00",
-      "players": 10042
+      "players": 2409
     },
     {
       "datetime": "2026-07-01 13:00:00",
-      "players": 11269
+      "players": 2668
     },
     {
       "datetime": "2026-07-01 14:00:00",
-      "players": 12488
+      "players": 2818
     },
     {
       "datetime": "2026-07-01 15:00:00",
-      "players": 13644
+      "players": 2858
     },
     {
       "datetime": "2026-07-01 16:00:00",
-      "players": 14613
+      "players": 2839
     },
     {
       "datetime": "2026-07-01 17:00:00",
-      "players": 16904
+      "players": 2819
     },
     {
       "datetime": "2026-07-01 18:00:00",
-      "players": 22742
+      "players": 2848
     },
     {
       "datetime": "2026-07-01 19:00:00",
-      "players": 30641
+      "players": 2910
     },
     {
       "datetime": "2026-07-01 20:00:00",
-      "players": 31102
+      "players": 2849
     },
     {
       "datetime": "2026-07-01 21:00:00",
-      "players": 30866
+      "players": 2648
     },
     {
       "datetime": "2026-07-01 22:00:00",
-      "players": 29781
+      "players": 2439
     },
     {
       "datetime": "2026-07-01 23:00:00",
-      "players": 29028
+      "players": 2199
     },
     {
       "datetime": "2026-07-02 00:00:00",
-      "players": 28571
+      "players": 2136
     },
     {
       "datetime": "2026-07-02 01:00:00",
-      "players": 28286
+      "players": 2248
     },
     {
       "datetime": "2026-07-02 02:00:00",
-      "players": 27883
+      "players": 2229
     },
     {
       "datetime": "2026-07-02 03:00:00",
-      "players": 26739
+      "players": 2123
     },
     {
       "datetime": "2026-07-02 04:00:00",
-      "players": 24514
+      "players": 1980
     },
     {
       "datetime": "2026-07-02 05:00:00",
-      "players": 21722
+      "players": 1851
     },
     {
       "datetime": "2026-07-02 06:00:00",
-      "players": 19359
+      "players": 1829
     },
     {
       "datetime": "2026-07-02 07:00:00",
-      "players": 17212
+      "players": 1823
     },
     {
       "datetime": "2026-07-02 08:00:00",
-      "players": 16025
+      "players": 1963
     },
     {
       "datetime": "2026-07-02 09:00:00",
-      "players": 16088
+      "players": 2127
     },
     {
       "datetime": "2026-07-02 10:00:00",
-      "players": 16960
+      "players": 2239
     },
     {
       "datetime": "2026-07-02 11:00:00",
-      "players": 18847
+      "players": 2619
     },
     {
       "datetime": "2026-07-02 12:00:00",
-      "players": 19868
+      "players": 2922
     },
     {
       "datetime": "2026-07-02 13:00:00",
-      "players": 19904
+      "players": 3204
     },
     {
       "datetime": "2026-07-02 14:00:00",
-      "players": 18089
+      "players": 3362
     },
     {
       "datetime": "2026-07-02 15:00:00",
-      "players": 24747
+      "players": 3424
     },
     {
       "datetime": "2026-07-02 16:00:00",
-      "players": 25387
+      "players": 3383
     },
     {
       "datetime": "2026-07-02 17:00:00",
-      "players": 25825
+      "players": 3355
     },
     {
       "datetime": "2026-07-02 18:00:00",
-      "players": 25067
+      "players": 3376
     },
     {
       "datetime": "2026-07-02 19:00:00",
-      "players": 25105
+      "players": 3440
     },
     {
       "datetime": "2026-07-02 20:00:00",
-      "players": 24781
+      "players": 3368
     },
     {
       "datetime": "2026-07-02 21:00:00",
-      "players": 25536
+      "players": 3108
     },
     {
       "datetime": "2026-07-02 22:00:00",
-      "players": 29139
+      "players": 2799
     },
     {
       "datetime": "2026-07-02 23:00:00",
-      "players": 30560
+      "players": 2483
     },
     {
       "datetime": "2026-07-03 00:00:00",
-      "players": 31423
+      "players": 2409
     },
     {
       "datetime": "2026-07-03 01:00:00",
-      "players": 32641
+      "players": 2488
     },
     {
       "datetime": "2026-07-03 02:00:00",
-      "players": 32856
+      "players": 2504
     },
     {
       "datetime": "2026-07-03 03:00:00",
-      "players": 32292
+      "players": 2465
     },
     {
       "datetime": "2026-07-03 04:00:00",
-      "players": 30458
+      "players": 2341
     },
     {
       "datetime": "2026-07-03 05:00:00",
-      "players": 27542
+      "players": 2209
     },
     {
       "datetime": "2026-07-03 06:00:00",
-      "players": 24493
+      "players": 2109
     },
     {
       "datetime": "2026-07-03 07:00:00",
-      "players": 21624
+      "players": 2222
     },
     {
       "datetime": "2026-07-03 08:00:00",
-      "players": 19995
+      "players": 2364
     },
     {
       "datetime": "2026-07-03 09:00:00",
-      "players": 19049
+      "players": 2459
     },
     {
       "datetime": "2026-07-03 10:00:00",
-      "players": 19458
+      "players": 2663
     },
     {
       "datetime": "2026-07-03 11:00:00",
-      "players": 20140
+      "players": 3066
     },
     {
       "datetime": "2026-07-03 12:00:00",
-      "players": 20197
+      "players": 3483
     },
     {
       "datetime": "2026-07-03 13:00:00",
-      "players": 19170
+      "players": 3797
     },
     {
       "datetime": "2026-07-03 14:00:00",
-      "players": 24869
+      "players": 4076
     },
     {
       "datetime": "2026-07-03 15:00:00",
-      "players": 31018
+      "players": 4141
     },
     {
       "datetime": "2026-07-03 16:00:00",
-      "players": 32975
+      "players": 4075
     },
     {
       "datetime": "2026-07-03 17:00:00",
-      "players": 34989
+      "players": 3999
     },
     {
       "datetime": "2026-07-03 18:00:00",
-      "players": 38179
+      "players": 3994
     },
     {
       "datetime": "2026-07-03 19:00:00",
-      "players": 39987
+      "players": 3955
     },
     {
       "datetime": "2026-07-03 20:00:00",
-      "players": 41679
+      "players": 3944
     },
     {
       "datetime": "2026-07-03 21:00:00",
-      "players": 41589
+      "players": 3757
     },
     {
       "datetime": "2026-07-03 22:00:00",
-      "players": 40436
+      "players": 3349
     },
     {
       "datetime": "2026-07-03 23:00:00",
-      "players": 38264
+      "players": 3002
     },
     {
       "datetime": "2026-07-04 00:00:00",
-      "players": 36437
+      "players": 2709
     },
     {
       "datetime": "2026-07-04 01:00:00",
-      "players": 36393
+      "players": 2791
     },
     {
       "datetime": "2026-07-04 02:00:00",
-      "players": 36740
+      "players": 2869
     },
     {
       "datetime": "2026-07-04 03:00:00",
-      "players": 36717
+      "players": 2880
     },
     {
       "datetime": "2026-07-04 04:00:00",
-      "players": 35619
+      "players": 2814
     },
     {
       "datetime": "2026-07-04 05:00:00",
-      "players": 33883
+      "players": 2770
     },
     {
       "datetime": "2026-07-04 06:00:00",
-      "players": 30838
+      "players": 2760
     },
     {
       "datetime": "2026-07-04 07:00:00",
-      "players": 28077
+      "players": 2815
     },
     {
       "datetime": "2026-07-04 08:00:00",
-      "players": 25843
+      "players": 2957
     },
     {
       "datetime": "2026-07-04 09:00:00",
-      "players": 24737
+      "players": 3034
     },
     {
       "datetime": "2026-07-04 10:00:00",
-      "players": 24671
+      "players": 3224
     },
     {
       "datetime": "2026-07-04 11:00:00",
-      "players": 23770
+      "players": 3453
     },
     {
       "datetime": "2026-07-04 12:00:00",
-      "players": 24688
+      "players": 3760
     },
     {
       "datetime": "2026-07-04 13:00:00",
-      "players": 24280
+      "players": 4066
     },
     {
       "datetime": "2026-07-04 14:00:00",
-      "players": 23527
+      "players": 4286
     },
     {
       "datetime": "2026-07-04 15:00:00",
-      "players": 22202
+      "players": 4327
     },
     {
       "datetime": "2026-07-04 16:00:00",
-      "players": 20706
+      "players": 4305
     },
     {
       "datetime": "2026-07-04 17:00:00",
-      "players": 20805
+      "players": 4180
     },
     {
       "datetime": "2026-07-04 18:00:00",
-      "players": 22276
+      "players": 4166
     },
     {
       "datetime": "2026-07-04 19:00:00",
-      "players": 23574
+      "players": 4183
     },
     {
       "datetime": "2026-07-04 20:00:00",
-      "players": 27651
+      "players": 4033
     },
     {
       "datetime": "2026-07-04 21:00:00",
-      "players": 30038
+      "players": 3730
     },
     {
       "datetime": "2026-07-04 22:00:00",
-      "players": 30646
+      "players": 3454
     },
     {
       "datetime": "2026-07-04 23:00:00",
-      "players": 35841
+      "players": 3006
     },
     {
       "datetime": "2026-07-05 00:00:00",
-      "players": 36141
+      "players": 2796
     },
     {
       "datetime": "2026-07-05 01:00:00",
-      "players": 34436
+      "players": 2693
     },
     {
       "datetime": "2026-07-05 02:00:00",
-      "players": 33708
+      "players": 2855
     },
     {
       "datetime": "2026-07-05 03:00:00",
-      "players": 33899
+      "players": 2839
     },
     {
       "datetime": "2026-07-05 04:00:00",
-      "players": 33731
+      "players": 2828
     },
     {
       "datetime": "2026-07-05 05:00:00",
-      "players": 32536
+      "players": 2809
     },
     {
       "datetime": "2026-07-05 06:00:00",
-      "players": 31081
+      "players": 2836
     },
     {
       "datetime": "2026-07-05 07:00:00",
-      "players": 29218
+      "players": 2957
     },
     {
       "datetime": "2026-07-05 08:00:00",
-      "players": 27234
+      "players": 3157
     },
     {
       "datetime": "2026-07-05 09:00:00",
-      "players": 25395
+      "players": 3334
     },
     {
       "datetime": "2026-07-05 10:00:00",
-      "players": 23200
+      "players": 3608
     },
     {
       "datetime": "2026-07-05 11:00:00",
-      "players": 19161
+      "players": 3839
     },
     {
       "datetime": "2026-07-05 12:00:00",
-      "players": 18938
+      "players": 4095
     },
     {
       "datetime": "2026-07-05 13:00:00",
-      "players": 19080
+      "players": 4359
     },
     {
       "datetime": "2026-07-05 14:00:00",
-      "players": 19459
+      "players": 4534
     },
     {
       "datetime": "2026-07-05 15:00:00",
-      "players": 19438
+      "players": 4615
     },
     {
       "datetime": "2026-07-05 16:00:00",
-      "players": 20306
+      "players": 4616
     },
     {
       "datetime": "2026-07-05 17:00:00",
-      "players": 21732
+      "players": 4560
     },
     {
       "datetime": "2026-07-05 18:00:00",
-      "players": 25947
+      "players": 4654
     },
     {
       "datetime": "2026-07-05 19:00:00",
-      "players": 28737
+      "players": 4665
     },
     {
       "datetime": "2026-07-05 20:00:00",
-      "players": 28714
+      "players": 4496
     },
     {
       "datetime": "2026-07-05 21:00:00",
-      "players": 27341
+      "players": 4215
     },
     {
       "datetime": "2026-07-05 22:00:00",
-      "players": 25169
+      "players": 3754
     },
     {
       "datetime": "2026-07-05 23:00:00",
-      "players": 23253
+      "players": 3333
     },
     {
       "datetime": "2026-07-06 00:00:00",
-      "players": 22770
+      "players": 3049
     },
     {
       "datetime": "2026-07-06 01:00:00",
-      "players": 21100
+      "players": 2923
     },
     {
       "datetime": "2026-07-06 02:00:00",
-      "players": 20180
+      "players": 2840
     },
     {
       "datetime": "2026-07-06 03:00:00",
-      "players": 18360
+      "players": 2609
     },
     {
       "datetime": "2026-07-06 04:00:00",
-      "players": 16347
+      "players": 2445
     }
   ],
   "daily_peaks": [
     {
-      "date": "2026-06-22",
-      "peak": 15703,
-      "peak_time": "2026-06-22 00:00:00"
-    },
-    {
-      "date": "2026-06-23",
-      "peak": 13358,
-      "peak_time": "2026-06-23 00:00:00"
-    },
-    {
-      "date": "2026-06-24",
-      "peak": 13626,
-      "peak_time": "2026-06-24 00:00:00"
-    },
-    {
-      "date": "2026-06-25",
-      "peak": 15627,
-      "peak_time": "2026-06-25 00:00:00"
-    },
-    {
-      "date": "2026-06-26",
-      "peak": 20240,
-      "peak_time": "2026-06-26 00:00:00"
-    },
-    {
-      "date": "2026-06-27",
-      "peak": 31028,
-      "peak_time": "2026-06-27 00:00:00"
-    },
-    {
-      "date": "2026-06-28",
-      "peak": 38336,
-      "peak_time": "2026-06-28 00:00:00"
-    },
-    {
-      "date": "2026-06-29",
-      "peak": 30136,
-      "peak_time": "2026-06-29 01:00:00"
-    },
-    {
       "date": "2026-06-30",
-      "peak": 24978,
-      "peak_time": "2026-06-30 01:00:00"
+      "peak": 1913,
+      "peak_time": "2026-06-30 19:00:00"
     },
     {
       "date": "2026-07-01",
-      "peak": 31102,
-      "peak_time": "2026-07-01 20:00:00"
+      "peak": 2910,
+      "peak_time": "2026-07-01 19:00:00"
     },
     {
       "date": "2026-07-02",
-      "peak": 30560,
-      "peak_time": "2026-07-02 23:00:00"
+      "peak": 3440,
+      "peak_time": "2026-07-02 19:00:00"
     },
     {
       "date": "2026-07-03",
-      "peak": 41679,
-      "peak_time": "2026-07-03 20:00:00"
+      "peak": 4141,
+      "peak_time": "2026-07-03 15:00:00"
     },
     {
       "date": "2026-07-04",
-      "peak": 36740,
-      "peak_time": "2026-07-04 02:00:00"
+      "peak": 4327,
+      "peak_time": "2026-07-04 15:00:00"
     },
     {
       "date": "2026-07-05",
-      "peak": 36141,
-      "peak_time": "2026-07-05 00:00:00"
+      "peak": 4665,
+      "peak_time": "2026-07-05 19:00:00"
     },
     {
       "date": "2026-07-06",
-      "peak": 22770,
+      "peak": 3049,
       "peak_time": "2026-07-06 00:00:00"
     }
   ],
   "all_time_or_window_peak": {
-    "players": 41679,
-    "datetime": "2026-07-03 20:00:00"
+    "players": 4665,
+    "datetime": "2026-07-05 19:00:00"
   },
-  "imported_at": "2026-07-06 13:03:20"
+  "imported_at": "2026-07-06 13:05:43"
 }

@@ -1,0 +1,333 @@
+{
+  "schema_version": "1.0.0",
+  "slug": "2026-06-29-week",
+  "issue_number": 6,
+  "week_start": "2026-06-29",
+  "week_end": "2026-07-05",
+  "title": "超市越乱越想整理！\n废柴队伍全靠奶妈续命",
+  "summary": "本期深度案例：Supermarket Chaos 与 Master Healer Kale with useless party，分别对应「新作起量」和「突然爆发」。",
+  "status": "published",
+  "published_at": "2026-07-11 02:42:55",
+  "signals": [
+    {
+      "rank": 1,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 101.56,
+      "selection_reason": "Sand 上周窗口峰值 41,679，较前一周窗口变化 +31%，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 41679,
+        "previous_week_peak": 31756,
+        "growth_rate": 0.3125,
+        "scoring_peak": 41679.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 54.0,
+        "review_total": 7816,
+        "days_seen": 6,
+        "is_new_release": true,
+        "genres": [
+          "动作",
+          "冒险",
+          "抢先体验"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 25134
+          },
+          {
+            "date": "2026-07-01",
+            "peak": 22167
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 32856
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 32856
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 41679
+          },
+          {
+            "date": "2026-07-05",
+            "peak": 36141
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/1431300.json",
+      "game": {
+        "slug": "sand",
+        "appid": "1431300",
+        "name": "Sand",
+        "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
+        "developer": "Hologryph, TowerHaus",
+        "publisher": "tinyBuild",
+        "release_date": "2026-06-22",
+        "review_ratio": 54.0,
+        "review_total": 7816,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
+        "steam_url": "https://store.steampowered.com/app/1431300"
+      }
+    },
+    {
+      "rank": 2,
+      "signal_type": "review_heat_gap",
+      "label": "口碑与热度背离",
+      "score": 90.17,
+      "selection_reason": "Diablo® IV 上周窗口峰值 42,379，首次进入当前观察窗口，被识别为「口碑与热度背离」。",
+      "metrics": {
+        "weekly_peak": 42379,
+        "previous_week_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 29665.3,
+        "player_discount": 0.7,
+        "discount_reasons": [
+          "old_game"
+        ],
+        "review_ratio": 65.0,
+        "review_total": 73524,
+        "days_seen": 5,
+        "is_new_release": false,
+        "genres": [
+          "动作",
+          "冒险",
+          "休闲",
+          "大型多人在线",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-07-01",
+            "peak": 22833
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 22930
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 22930
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 42379
+          },
+          {
+            "date": "2026-07-05",
+            "peak": 36174
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/2344520.json",
+      "game": {
+        "slug": "diablo-iv",
+        "appid": "2344520",
+        "name": "Diablo® IV",
+        "description": "进入《暗黑破坏神® IV》的世界，在捍卫庇护之地的战斗中，开启前所未有的动作 RPG 冒险。亲身体验备受赞誉的游戏剧情和全新赛季内容。",
+        "developer": "Blizzard Entertainment, Inc.",
+        "publisher": "Blizzard Entertainment, Inc.",
+        "release_date": "2023-10-17",
+        "review_ratio": 65.0,
+        "review_total": 73524,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2344520/80f21a42e378b93e8fbb68ee43103be8ab84891b/header.jpg?t=1782839766",
+        "steam_url": "https://store.steampowered.com/app/2344520"
+      }
+    },
+    {
+      "rank": 3,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 85.52,
+      "selection_reason": "Orb of Creation 上周窗口峰值 4,662，较前一周窗口变化 -17%，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 4662,
+        "previous_week_peak": 5626,
+        "growth_rate": -0.1713,
+        "scoring_peak": 4662.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 87.0,
+        "review_total": 1961,
+        "days_seen": 5,
+        "is_new_release": true,
+        "genres": [
+          "休闲",
+          "独立",
+          "策略"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 4662
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 3890
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 3890
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 3823
+          },
+          {
+            "date": "2026-07-05",
+            "peak": 3622
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/1910680.json",
+      "game": {
+        "slug": "orb-of-creation",
+        "appid": "1910680",
+        "name": "Orb of Creation",
+        "description": "Orb of Creation 是一款非闲置的增量益智游戏，您只需使用魔法和独创性即可重新创造世界。召唤资源，购买升级，成为全能的巫师！",
+        "developer": "MarpleGames",
+        "publisher": "MarpleGames",
+        "release_date": "2026-06-23",
+        "review_ratio": 87.0,
+        "review_total": 1961,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910680/28cbe4a8420b96a025958a161203b5603a17daed/header.jpg?t=1782342864",
+        "steam_url": "https://store.steampowered.com/app/1910680"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 85.14,
+      "selection_reason": "Supermarket Chaos 上周窗口峰值 4,327，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 4327,
+        "previous_week_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 4327.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 91.0,
+        "review_total": 915,
+        "days_seen": 5,
+        "is_new_release": true,
+        "genres": [
+          "独立",
+          "模拟"
+        ],
+        "trend": [
+          {
+            "date": "2026-06-30",
+            "peak": 1027
+          },
+          {
+            "date": "2026-07-02",
+            "peak": 3440
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 3440
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 4233
+          },
+          {
+            "date": "2026-07-05",
+            "peak": 4327
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": true,
+      "case_slug": "supermarket-chaos",
+      "chart_path": "/data/charts/4800590.json",
+      "game": {
+        "slug": "supermarket-chaos",
+        "appid": "4800590",
+        "name": "Supermarket Chaos",
+        "description": "Supermarket Chaos 是一款治愈系整理模拟游戏，你将在杂乱的大型超市中整理 4,668 件商品。在轻松安静的氛围中，享受陈列带来的满足感。",
+        "developer": "BunnyHop",
+        "publisher": "BunnyHopHome",
+        "release_date": "2026-06-29",
+        "review_ratio": 91.0,
+        "review_total": 915,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1783340377",
+        "steam_url": "https://store.steampowered.com/app/4800590"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "sudden_breakout",
+      "label": "突然爆发",
+      "score": 48.49,
+      "selection_reason": "Master Healer Kale with useless party 上周窗口峰值 2,303，首次进入当前观察窗口，被识别为「突然爆发」。",
+      "metrics": {
+        "weekly_peak": 2303,
+        "previous_week_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 1612.1,
+        "player_discount": 0.7,
+        "discount_reasons": [
+          "old_game"
+        ],
+        "review_ratio": 97.0,
+        "review_total": 730,
+        "days_seen": 4,
+        "is_new_release": false,
+        "genres": [
+          "独立",
+          "角色扮演",
+          "策略"
+        ],
+        "trend": [
+          {
+            "date": "2026-07-02",
+            "peak": 947
+          },
+          {
+            "date": "2026-07-03",
+            "peak": 947
+          },
+          {
+            "date": "2026-07-04",
+            "peak": 2303
+          },
+          {
+            "date": "2026-07-05",
+            "peak": 1964
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": true,
+      "case_slug": "master-healer-kale-with-useless-party",
+      "chart_path": "/data/charts/4634490.json",
+      "game": {
+        "slug": "master-healer-kale-with-useless-party",
+        "appid": "4634490",
+        "name": "Master Healer Kale with useless party",
+        "description": "一款简短的增量游戏，您在派对中扮演治疗师。你的主要工作是让你的队伍保持活力。升级技能树中的 200 多种技能，从治疗到队伍伤害。预计4小时左右完成。",
+        "developer": "Evrac Studio",
+        "publisher": "Evrac Studio",
+        "release_date": "2026-07-02",
+        "review_ratio": 97.0,
+        "review_total": 730,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634490/088b9ab009bb95af23d5e8662ad572c38aad14f0/header.jpg?t=1783585346",
+        "steam_url": "https://store.steampowered.com/app/4634490"
+      }
+    }
+  ]
+}
