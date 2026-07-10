@@ -26,8 +26,8 @@
     "无需应对快速反应事件",
     "DUALSHOCK 控制器支持",
     "DUALSHOCK 控制器支持",
-    "DUALSHOCK 控制器支持",
-    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
     "随时保存",
     "立体声",
     "字幕选项",
@@ -35,17 +35,21 @@
     "部分支持控制器",
     "可用 HDR"
   ],
-  "review_score": "Mostly Negative",
-  "review_ratio": 36.0,
-  "review_total": 122,
+  "review_score": "Mixed",
+  "review_ratio": 67.0,
+  "review_total": 6337,
   "developer": "Ubisoft Singapore, Ubisoft Barcelona, Ubisoft Bordeaux, Ubisoft Belgrade, Ubisoft Chengdu, Ubisoft India, Ubisoft Kyiv, Ubisoft Montpellier, Ubisoft Philippines, Ubisoft Quebec, Ubisoft Shanghai",
   "publisher": "Ubisoft",
-  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/777795886ee7d2fc9f1e84aacc75f82baf75defb/header_schinese.jpg?t=1783605522",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/777795886ee7d2fc9f1e84aacc75f82baf75defb/header_schinese.jpg?t=1783617053",
   "steam_url": "https://store.steampowered.com/app/3751950",
   "trend": [
     {
       "date": "2026-07-09",
       "peak": 77525
+    },
+    {
+      "date": "2026-07-10",
+      "peak": 99451
     }
   ]
 }
