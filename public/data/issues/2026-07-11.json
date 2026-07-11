@@ -1,0 +1,255 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-11",
+  "title": "07.11 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 83.29,
+    "fact_summary": "Palworld 今日观测峰值 517,612，较过往最高峰值提升 +96%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 517612,
+      "previous_peak": 264737,
+      "previous_record_peak": 264737,
+      "growth_rate": 0.9552,
+      "record_growth_rate": 0.9552,
+      "scoring_peak": 517612,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 35.0,
+      "raw_record_growth_score": 33.43,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 33.43,
+      "days_seen_score": 2.86,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 83.29,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 94.0,
+      "review_total": 429345,
+      "days_seen": 2,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "角色扮演"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-10",
+          "peak": 264737
+        },
+        {
+          "date": "2026-07-11",
+          "peak": 517612
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1623730"
+      }
+    ],
+    "game": {
+      "slug": "palworld",
+      "appid": "1623730",
+      "name": "Palworld",
+      "name_cn": null,
+      "description": "在广阔的世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活，工业生产等，这是一款支持多人游戏模式的全新开放世界生存制作游戏。",
+      "release_date": "2026-07-09",
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "跨平台多人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "Steam 创意工坊",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 94.0,
+      "review_total": 429345,
+      "developer": "Pocketpair",
+      "publisher": "Pocketpair",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1783654507",
+      "steam_url": "https://store.steampowered.com/app/1623730",
+      "trend": [
+        {
+          "date": "2026-07-10",
+          "peak": 264737
+        },
+        {
+          "date": "2026-07-11",
+          "peak": 517612
+        }
+      ]
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 83.29,
+    "fact_summary": "Palworld 今日观测峰值 517,612，较过往最高峰值提升 +96%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 517612,
+      "previous_peak": 264737,
+      "previous_record_peak": 264737,
+      "growth_rate": 0.9552,
+      "record_growth_rate": 0.9552,
+      "scoring_peak": 517612,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 35.0,
+      "raw_record_growth_score": 33.43,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 33.43,
+      "days_seen_score": 2.86,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 83.29,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 94.0,
+      "review_total": 429345,
+      "days_seen": 2,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "角色扮演"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-10",
+          "peak": 264737
+        },
+        {
+          "date": "2026-07-11",
+          "peak": 517612
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1623730"
+      }
+    ],
+    "game": {
+      "slug": "palworld",
+      "appid": "1623730",
+      "name": "Palworld",
+      "name_cn": null,
+      "description": "在广阔的世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活，工业生产等，这是一款支持多人游戏模式的全新开放世界生存制作游戏。",
+      "release_date": "2026-07-09",
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "跨平台多人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "Steam 创意工坊",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 94.0,
+      "review_total": 429345,
+      "developer": "Pocketpair",
+      "publisher": "Pocketpair",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1783654507",
+      "steam_url": "https://store.steampowered.com/app/1623730",
+      "trend": [
+        {
+          "date": "2026-07-10",
+          "peak": 264737
+        },
+        {
+          "date": "2026-07-11",
+          "peak": 517612
+        }
+      ]
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
