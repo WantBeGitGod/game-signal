@@ -30,7 +30,7 @@
   ],
   "review_score": "Very Positive",
   "review_ratio": 94.0,
-  "review_total": 429345,
+  "review_total": 430991,
   "developer": "Pocketpair",
   "publisher": "Pocketpair",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1783654507",
@@ -43,6 +43,10 @@
     {
       "date": "2026-07-11",
       "peak": 517612
+    },
+    {
+      "date": "2026-07-12",
+      "peak": 725212
     }
   ]
 }
