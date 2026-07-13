@@ -1,0 +1,317 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-13",
+  "title": "07.13 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 44.81,
+    "fact_summary": "Assassin's Creed Black Flag Resynced 今日观测峰值 104,756，较过往最高峰值提升 +5%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 104756,
+      "previous_peak": 99451,
+      "previous_record_peak": 99451,
+      "growth_rate": 0.0533,
+      "record_growth_rate": 0.0533,
+      "scoring_peak": 104756,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 35.0,
+      "raw_record_growth_score": 1.87,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 1.87,
+      "days_seen_score": 7.14,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 56.01,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "review_ratio": 74.0,
+      "review_total": 13756,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-09",
+          "peak": 77525
+        },
+        {
+          "date": "2026-07-10",
+          "peak": 99451
+        },
+        {
+          "date": "2026-07-11",
+          "peak": 82683
+        },
+        {
+          "date": "2026-07-12",
+          "peak": 97858
+        },
+        {
+          "date": "2026-07-13",
+          "peak": 104756
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3751950"
+      }
+    ],
+    "game": {
+      "slug": "assassin-s-creed-black-flag-resynced",
+      "appid": "3751950",
+      "name": "Assassin's Creed Black Flag Resynced",
+      "name_cn": null,
+      "description": "经典单人海盗冒险之旅现已回归。在这部忠实还原且经过优化的重制版中，你将扮演爱德华·肯威，在海盗的黄金时代扬帆加勒比海。本作拥有惊艳的视觉效果、经过升级的玩法以及全新的内容。",
+      "release_date": "2026-07-09",
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 集换式卡牌",
+        "支持字幕",
+        "应用内购买",
+        "可调整文字大小",
+        "视角舒适度",
+        "可选颜色",
+        "自定义音量控制",
+        "可调整难度",
+        "可以仅用键盘",
+        "可以仅用鼠标",
+        "朗读游戏菜单",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "部分支持控制器",
+        "可用 HDR"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 74.0,
+      "review_total": 13756,
+      "developer": "Ubisoft Singapore, Ubisoft Barcelona, Ubisoft Bordeaux, Ubisoft Belgrade, Ubisoft Chengdu, Ubisoft India, Ubisoft Kyiv, Ubisoft Montpellier, Ubisoft Philippines, Ubisoft Quebec, Ubisoft Shanghai",
+      "publisher": "Ubisoft",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/777795886ee7d2fc9f1e84aacc75f82baf75defb/header_schinese.jpg?t=1783617053",
+      "steam_url": "https://store.steampowered.com/app/3751950",
+      "trend": [
+        {
+          "date": "2026-07-09",
+          "peak": 77525
+        },
+        {
+          "date": "2026-07-10",
+          "peak": 99451
+        },
+        {
+          "date": "2026-07-11",
+          "peak": 82683
+        },
+        {
+          "date": "2026-07-12",
+          "peak": 97858
+        },
+        {
+          "date": "2026-07-13",
+          "peak": 104756
+        }
+      ]
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 44.81,
+    "fact_summary": "Assassin's Creed Black Flag Resynced 今日观测峰值 104,756，较过往最高峰值提升 +5%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 104756,
+      "previous_peak": 99451,
+      "previous_record_peak": 99451,
+      "growth_rate": 0.0533,
+      "record_growth_rate": 0.0533,
+      "scoring_peak": 104756,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 35.0,
+      "raw_record_growth_score": 1.87,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 1.87,
+      "days_seen_score": 7.14,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 56.01,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "review_ratio": 74.0,
+      "review_total": 13756,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-09",
+          "peak": 77525
+        },
+        {
+          "date": "2026-07-10",
+          "peak": 99451
+        },
+        {
+          "date": "2026-07-11",
+          "peak": 82683
+        },
+        {
+          "date": "2026-07-12",
+          "peak": 97858
+        },
+        {
+          "date": "2026-07-13",
+          "peak": 104756
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3751950"
+      }
+    ],
+    "game": {
+      "slug": "assassin-s-creed-black-flag-resynced",
+      "appid": "3751950",
+      "name": "Assassin's Creed Black Flag Resynced",
+      "name_cn": null,
+      "description": "经典单人海盗冒险之旅现已回归。在这部忠实还原且经过优化的重制版中，你将扮演爱德华·肯威，在海盗的黄金时代扬帆加勒比海。本作拥有惊艳的视觉效果、经过升级的玩法以及全新的内容。",
+      "release_date": "2026-07-09",
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 集换式卡牌",
+        "支持字幕",
+        "应用内购买",
+        "可调整文字大小",
+        "视角舒适度",
+        "可选颜色",
+        "自定义音量控制",
+        "可调整难度",
+        "可以仅用键盘",
+        "可以仅用鼠标",
+        "朗读游戏菜单",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "部分支持控制器",
+        "可用 HDR"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 74.0,
+      "review_total": 13756,
+      "developer": "Ubisoft Singapore, Ubisoft Barcelona, Ubisoft Bordeaux, Ubisoft Belgrade, Ubisoft Chengdu, Ubisoft India, Ubisoft Kyiv, Ubisoft Montpellier, Ubisoft Philippines, Ubisoft Quebec, Ubisoft Shanghai",
+      "publisher": "Ubisoft",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/777795886ee7d2fc9f1e84aacc75f82baf75defb/header_schinese.jpg?t=1783617053",
+      "steam_url": "https://store.steampowered.com/app/3751950",
+      "trend": [
+        {
+          "date": "2026-07-09",
+          "peak": 77525
+        },
+        {
+          "date": "2026-07-10",
+          "peak": 99451
+        },
+        {
+          "date": "2026-07-11",
+          "peak": 82683
+        },
+        {
+          "date": "2026-07-12",
+          "peak": 97858
+        },
+        {
+          "date": "2026-07-13",
+          "peak": 104756
+        }
+      ]
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

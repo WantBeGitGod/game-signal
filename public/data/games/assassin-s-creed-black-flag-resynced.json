@@ -35,9 +35,9 @@
     "部分支持控制器",
     "可用 HDR"
   ],
-  "review_score": "Mixed",
-  "review_ratio": 67.0,
-  "review_total": 6337,
+  "review_score": "Mostly Positive",
+  "review_ratio": 74.0,
+  "review_total": 13756,
   "developer": "Ubisoft Singapore, Ubisoft Barcelona, Ubisoft Bordeaux, Ubisoft Belgrade, Ubisoft Chengdu, Ubisoft India, Ubisoft Kyiv, Ubisoft Montpellier, Ubisoft Philippines, Ubisoft Quebec, Ubisoft Shanghai",
   "publisher": "Ubisoft",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/777795886ee7d2fc9f1e84aacc75f82baf75defb/header_schinese.jpg?t=1783617053",
@@ -50,6 +50,18 @@
     {
       "date": "2026-07-10",
       "peak": 99451
+    },
+    {
+      "date": "2026-07-11",
+      "peak": 82683
+    },
+    {
+      "date": "2026-07-12",
+      "peak": 97858
+    },
+    {
+      "date": "2026-07-13",
+      "peak": 104756
     }
   ]
 }
