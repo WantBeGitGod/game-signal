@@ -10,6 +10,7 @@
   --sans: "Noto Sans SC", sans-serif;
   --serif: "Noto Serif SC", serif;
   --mono: "IBM Plex Mono", monospace;
+  --case-sans: "Microsoft YaHei", "Microsoft YaHei UI", "PingFang SC", "Hiragino Sans GB", "Noto Sans CJK SC", "Source Han Sans SC", sans-serif;
 }
 
 * {
@@ -1638,6 +1639,24 @@ a {
   padding-top: 16px;
   border-top: 3px solid var(--line);
   font-size: clamp(28px, 4vw, 48px);
+}
+
+.case-article,
+.case-prose {
+  font-family: var(--case-sans);
+  font-synthesis: none;
+}
+
+.case-article .access-notice h2,
+.case-prose h1,
+.case-prose h2,
+.case-prose h3,
+.case-index .page-intro h1,
+.case-index .content-row h2,
+.case-index .empty-state h2 {
+  font-family: var(--case-sans);
+  font-weight: 700;
+  font-synthesis: none;
 }
 
 .prose a {

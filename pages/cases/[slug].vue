@@ -1,7 +1,7 @@
 <template>
-  <div class="page-shell article-shell">
+  <div class="page-shell article-shell case-article">
     <AccessNotice v-if="doc" :access="doc.access" :available-at="doc.available_at" />
-    <ContentRenderer v-if="doc" :value="doc" class="prose" />
+    <ContentRenderer v-if="doc" :value="doc" class="prose case-prose" />
   </div>
 </template>
 

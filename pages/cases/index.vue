@@ -1,5 +1,5 @@
 <template>
-  <div class="page-shell">
+  <div class="page-shell case-index">
     <header class="page-intro case-intro">
       <p class="eyebrow">WHY NOW?</p>
       <h1>深度案例</h1>
