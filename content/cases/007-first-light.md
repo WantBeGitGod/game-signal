@@ -11,6 +11,7 @@ available_at: 2026-06-16
 follow_up_due: 2026-07-16
 weekly_issue: 2026-06-01-week
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/ed212e7615947389b4eb0783ebbf7fc726839893/header_schinese.jpg?t=1780344100"
 ---
 
 # 007初露锋芒-邦↑邦↓邦↑邦↓从杀手到邦德

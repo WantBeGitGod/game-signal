@@ -15,7 +15,7 @@ npm run typecheck
 npm run generate
 ```
 
-The private production pipeline writes public data under `public/data/` and approved cases under `content/`.
+The private production pipeline writes public data under `public/data/` and approved cases under `content/`. Case exports carry a resolved `cover_image_url`, normally reusing the canonical game's Steam preview image, so the case index and article page share one visual identity.
 
 ## Information architecture
 

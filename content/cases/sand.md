@@ -12,6 +12,7 @@ available_at: 2026-07-14
 follow_up_due: 2026-08-14
 weekly_issue: 2026-06-22-week
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789"
 ---
 
 # SAND-粗糙沙船，撞沉暴雪老兵的星舰

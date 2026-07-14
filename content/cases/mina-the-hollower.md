@@ -11,6 +11,7 @@ published_at: 2026-06-05
 available_at: 2026-06-05
 company_slugs:
   - yacht-club-games
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875580/368fcff2cd8f5ef01c5a89060a49f9a333076a87/header.jpg?t=1780266529"
 ---
 
 # 挖掘者米娜-类银领域最好的铲子使用者

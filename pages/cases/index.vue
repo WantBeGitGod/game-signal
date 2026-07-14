@@ -7,7 +7,7 @@
     </header>
     <div v-if="cases?.length" class="content-index">
       <NuxtLink v-for="item in cases" :key="item._path" :to="item._path" class="content-row">
-        <div>
+        <div class="content-row-copy">
           <div class="content-row-meta">
             <span>{{ item.published_at || "研究中" }}</span>
             <span class="mini-access-badge" :data-access="item.access || 'free'">{{ accessLabel(item.access) }}</span>
@@ -15,7 +15,13 @@
           <h2>{{ item.title }}</h2>
           <p>{{ item.description }}</p>
         </div>
-        <ArrowUpRight :size="22" />
+        <CaseCover
+          :src="item.cover_image_url"
+          :title="item.title || '未命名案例'"
+          :appid="item.game_appid"
+          compact
+        />
+        <ArrowUpRight class="content-row-arrow" :size="22" />
       </NuxtLink>
     </div>
     <div v-else class="empty-state">

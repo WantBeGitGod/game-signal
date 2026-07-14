@@ -722,6 +722,15 @@ a {
   grid-template-columns: minmax(0, 1fr) 32px;
 }
 
+.case-index .content-row {
+  grid-template-columns: minmax(0, 1fr) clamp(280px, 28vw, 520px) 32px;
+  align-items: center;
+}
+
+.case-index .content-row-copy {
+  min-width: 0;
+}
+
 .content-row-meta {
   display: flex;
   flex-wrap: wrap;
@@ -776,6 +785,104 @@ a {
   max-width: 780px;
   margin: 0;
   color: #56544c;
+}
+
+.case-index .content-row h2,
+.case-index .content-row p {
+  overflow-wrap: anywhere;
+}
+
+.case-index .content-row .case-cover {
+  grid-column: 2;
+}
+
+.case-index .content-row-arrow {
+  grid-column: 3;
+  align-self: start;
+}
+
+.case-cover {
+  min-width: 0;
+  margin: 0;
+  overflow: hidden;
+  border: 2px solid var(--line);
+  background: var(--ink);
+}
+
+.case-cover-media {
+  position: relative;
+  aspect-ratio: 460 / 215;
+  overflow: hidden;
+  background: var(--acid);
+}
+
+.case-cover-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.case-cover-fallback {
+  position: relative;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: clamp(16px, 3vw, 30px);
+  overflow: hidden;
+  background: var(--acid);
+  color: var(--ink);
+}
+
+.case-cover-fallback::after {
+  position: absolute;
+  right: -12%;
+  bottom: -58%;
+  width: 58%;
+  aspect-ratio: 1;
+  border: clamp(18px, 4vw, 46px) solid var(--coral);
+  border-radius: 50%;
+  content: "";
+}
+
+.case-cover-fallback span {
+  position: relative;
+  z-index: 1;
+  font-family: var(--mono);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+}
+
+.case-cover-fallback strong {
+  position: relative;
+  z-index: 1;
+  max-width: 82%;
+  font-family: var(--case-sans);
+  font-size: clamp(18px, 2.2vw, 34px);
+  line-height: 1.08;
+}
+
+.case-cover figcaption {
+  display: flex;
+  min-height: 38px;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: center;
+  padding: 8px 12px;
+  border-top: 2px solid var(--line);
+  background: var(--ink);
+  color: var(--paper-bright);
+  font-family: var(--mono);
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.case-cover--compact figcaption {
+  min-height: 32px;
+  padding: 6px 10px;
 }
 
 .weekly-shelf {
@@ -1498,6 +1605,43 @@ a {
   padding: clamp(70px, 9vw, 130px) clamp(20px, 6vw, 90px);
 }
 
+.article-shell.case-article {
+  max-width: none;
+}
+
+.case-article-layout {
+  display: grid;
+  grid-template-areas:
+    "access visual"
+    "copy visual";
+  grid-template-columns: minmax(0, 1.55fr) minmax(340px, 0.85fr);
+  column-gap: clamp(40px, 5vw, 90px);
+  max-width: 1720px;
+  margin: 0 auto;
+}
+
+.case-article-access {
+  grid-area: access;
+}
+
+.case-prose {
+  grid-area: copy;
+  min-width: 0;
+}
+
+.case-article-visual {
+  position: sticky;
+  top: 96px;
+  grid-area: visual;
+  min-width: 0;
+  align-self: start;
+  padding-bottom: 12px;
+}
+
+.case-article-visual .case-cover {
+  box-shadow: 12px 12px 0 var(--coral);
+}
+
 .access-notice {
   display: grid;
   grid-template-columns: minmax(0, 1fr) auto;
@@ -1672,6 +1816,57 @@ a {
   font-weight: 700;
 }
 
+.prose-table-scroll {
+  width: 100%;
+  margin: 30px 0;
+  overflow-x: auto;
+  overscroll-behavior-inline: contain;
+  scrollbar-color: var(--coral) var(--paper-bright);
+  -webkit-overflow-scrolling: touch;
+}
+
+.prose-table-scroll:focus-visible {
+  outline: 3px solid var(--blue);
+  outline-offset: 4px;
+}
+
+.prose-table-scroll table {
+  width: 100%;
+  min-width: 760px;
+  border: 2px solid var(--line);
+  border-collapse: collapse;
+  background: var(--paper-bright);
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.prose-table-scroll th,
+.prose-table-scroll td {
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  vertical-align: top;
+  overflow-wrap: break-word;
+}
+
+.prose-table-scroll th:not([align]),
+.prose-table-scroll td:not([align]) {
+  text-align: left;
+}
+
+.prose-table-scroll thead th {
+  background: var(--ink);
+  color: var(--paper-bright);
+  font-weight: 700;
+}
+
+.prose-table-scroll tbody tr:nth-child(even) td {
+  background: #f0f1e7;
+}
+
+.prose-table-scroll tbody tr:hover td {
+  background: #edf8c9;
+}
+
 .empty-state,
 .empty-page {
   display: grid;
@@ -1753,6 +1948,23 @@ a {
   display: flex;
   gap: 24px;
   font-size: 12px;
+}
+
+@media (max-width: 1280px) {
+  .case-article-layout {
+    grid-template-areas:
+      "access"
+      "visual"
+      "copy";
+    grid-template-columns: minmax(0, 1fr);
+    max-width: 1000px;
+  }
+
+  .case-article-visual {
+    position: static;
+    width: min(760px, 100%);
+    margin: 0 0 clamp(42px, 7vw, 72px);
+  }
 }
 
 @media (max-width: 1100px) {
@@ -1972,10 +2184,27 @@ a {
   }
 
   .issue-row,
-  .content-row {
+  .content-row,
+  .case-index .content-row {
     grid-template-columns: 1fr 26px;
     gap: 12px;
     padding: 24px 18px;
+  }
+
+  .case-index .content-row-copy {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  .case-index .content-row .case-cover {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    margin-top: 8px;
+  }
+
+  .case-index .content-row-arrow {
+    grid-column: 2;
+    grid-row: 1;
   }
 
   .issue-date {
@@ -2111,6 +2340,34 @@ a {
 
   .access-token {
     justify-items: start;
+  }
+
+  .article-shell.case-article {
+    padding: 42px 18px 72px;
+  }
+
+  .case-article .case-article-access {
+    margin: 0 0 28px;
+  }
+
+  .case-article-visual {
+    width: 100%;
+    margin-bottom: 40px;
+  }
+
+  .case-article-visual .case-cover {
+    box-shadow: 7px 7px 0 var(--coral);
+  }
+
+  .case-prose h1 {
+    font-size: clamp(36px, 11vw, 48px);
+    line-height: 1.12;
+    overflow-wrap: anywhere;
+  }
+
+  .case-prose h2,
+  .case-prose h3 {
+    overflow-wrap: anywhere;
   }
 
   .detail-access-grid {

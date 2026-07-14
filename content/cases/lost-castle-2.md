@@ -11,6 +11,7 @@ available_at: 2026-07-11
 follow_up_due: 2026-08-10
 weekly_issue: 2026-06-15-week
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203"
 ---
 
 # 失落城堡2-我要稳稳的幸福

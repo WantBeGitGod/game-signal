@@ -11,6 +11,7 @@ available_at: 2026-06-08
 follow_up_due: 2026-07-08
 weekly_issue: 2026-06-08-week
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1780965412"
 ---
 
 # 哥特王朝1重制版-欲与老滚试比高

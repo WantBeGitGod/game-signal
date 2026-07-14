@@ -11,6 +11,7 @@ available_at: 2026-06-20
 follow_up_due: 2026-07-20
 weekly_issue: 2026-05-15-week
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526710/c2e89fd394d904bd9d565fbfed51625bb2023526/header_schinese.jpg?t=1778230287"
 ---
 
 # 万物皆可蟹-蟹邀，感觉不如孢子

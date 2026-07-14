@@ -12,7 +12,7 @@ The public repository receives reviewed publication data only. Raw SQLite files,
 - `public/data/weekly/<slug>.json`: one weekly issue with five signals, two selected deep case slots, three watch-table signals and chart JSON references. The weekly `title` is an editorial hook, not a date range or a repeat of the selected game names; `summary` names the two selected deep cases instead of describing automation. Use `week_start` and `week_end` for coverage dates and `published_at` only for publication time.
 - `public/data/charts/<appid>.json`: derived hour-level player curve, daily peaks and window peak from reviewed SteamDB chart imports.
 - `public/data/games/<slug>.json`: game metadata and the published trend series. `name` keeps the Steam/source title, while `name_cn` is the preferred public display title when a Chinese name has been verified.
-- `content/cases/<slug>.md`: reviewed deep case.
+- `content/cases/<slug>.md`: reviewed deep case. `game_appid` identifies the subject game and the public export materializes its resolved `cover_image_url` for list, article and social-preview rendering.
 - `content/companies/<slug>.md`: reviewed company profile.
 - `public/images/issues/`: approved editorial cover images only.
 
@@ -27,6 +27,10 @@ Reviewed markdown content can reserve a future commercial boundary through front
 - `available_at: YYYY-MM-DD` records the planned public unlock date when relevant.
 
 These fields are presentation metadata only. They are not security. Do not put paid full text, private databases, detailed raw metrics, user data or credentials into `content/` or `public/data/` until a real server-side entitlement layer exists.
+
+## Case preview image
+
+The case preview image is identity metadata, not an editorial illustration. The private publisher normally resolves it from the canonical game's Steam `cover_image_url` by `game_appid`; an editor can explicitly override the same field with a public HTTP(S) URL or root-relative public asset. Local absolute paths are rejected. The case index, case article and social metadata consume this one resolved value, while the UI supplies a branded fallback if the image is absent or fails to load.
 
 ## Guarantees
 
