@@ -10,35 +10,35 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 38.77,
-    "fact_summary": "Echoes of Aincrad 今日观测峰值 11,025，未超过过往最高峰值 19,901，被识别为「新作起量」。",
+    "score": 38.24,
+    "fact_summary": "EA SPORTS™ College Football 27 今日观测峰值 9,814，未超过过往最高峰值 11,578，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 11025,
-      "previous_peak": 19901,
-      "previous_record_peak": 19901,
-      "growth_rate": -0.446,
-      "record_growth_rate": -0.446,
-      "scoring_peak": 11025,
+      "current_peak": 9814,
+      "previous_peak": 11578,
+      "previous_record_peak": 11578,
+      "growth_rate": -0.1524,
+      "record_growth_rate": -0.1524,
+      "scoring_peak": 9814,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 18.19,
+      "peak_score": 17.67,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 1.0,
+      "growth_score_multiplier": 0.9814,
       "record_growth_score": 0.0,
       "days_seen_score": 8.57,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 38.77,
+      "score_before_multiplier": 38.24,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "repeat_window_star_count": 1,
+      "repeat_window_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
-      "review_ratio": 50.0,
-      "review_total": 3138,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 39.0,
+      "review_total": 1382,
       "days_seen": 6,
       "comeback_gap_days": 1,
       "is_new_release": true,
@@ -52,100 +52,116 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "角色扮演"
+        "模拟",
+        "体育"
       ],
       "trend": [
         {
           "date": "2026-07-10",
-          "peak": 19901
+          "peak": 11144
         },
         {
           "date": "2026-07-11",
-          "peak": 18431
+          "peak": 10339
         },
         {
           "date": "2026-07-12",
-          "peak": 17928
+          "peak": 10174
         },
         {
           "date": "2026-07-13",
-          "peak": 17336
+          "peak": 11578
         },
         {
           "date": "2026-07-14",
-          "peak": 12174
+          "peak": 10519
         },
         {
           "date": "2026-07-15",
-          "peak": 11025
+          "peak": 9814
         }
       ]
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/2244210"
+        "url": "https://store.steampowered.com/app/4032350"
       }
     ],
     "game": {
-      "slug": "echoes-of-aincrad",
-      "appid": "2244210",
-      "name": "Echoes of Aincrad",
+      "slug": "ea-sports-college-football-27",
+      "appid": "4032350",
+      "name": "EA SPORTS™ College Football 27",
       "name_cn": null,
-      "description": "这是一款描写玩家们被困于生死一线牵的虚拟世界浮游城“艾恩葛朗特”的烦恼、纠葛的启程PRG。为了在化为死亡游戏的完全潜行型MMORPG《Sword Art Online》生存下去，最不可或缺的便是能共进退的同伴。这个远比现实残酷，却也更温暖的世界里，能建立起人与人之间的羁绊吗？",
+      "description": "踏入大学橄榄球的现代时代，在个人抱负与校队荣誉的交汇中展开征程。在沉浸于比赛日传统与盛典氛围的同时，平衡各方期望、自身特质以及周六赛事所要求的一切。",
       "release_date": "2026-07-09",
       "genres": [
-        "动作",
-        "角色扮演"
+        "模拟",
+        "体育"
       ],
       "tags": [
         "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "同屏/分屏玩家对战",
+        "合作",
+        "在线合作",
+        "同屏/分屏合作",
+        "同屏/分屏",
+        "跨平台多人",
         "Steam 成就",
         "完全支持控制器",
-        "DUALSHOCK 控制器支持",
+        "应用内购买",
+        "视角舒适度",
+        "聊天语音转文字",
+        "聊天文字转语音",
+        "可调整难度",
+        "推荐使用手柄",
+        "无需应对快速反应事件",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
         "DualSense 控制器支持",
-        "Steam 云",
-        "家庭共享"
+        "立体声",
+        "环绕声",
+        "可用 HDR"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 50.0,
-      "review_total": 3138,
-      "developer": "Game Studio Inc.",
-      "publisher": "Bandai Namco Entertainment Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/b3adf8e273abedc20c83fc2ca2ba65261b187909/header_schinese.jpg?t=1783634634",
-      "steam_url": "https://store.steampowered.com/app/2244210",
+      "review_score": "Mostly Negative",
+      "review_ratio": 39.0,
+      "review_total": 1382,
+      "developer": "Tiburon",
+      "publisher": "Electronic Arts",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032350/1c628b40d5aa8dcf26e0ac9d394f0fbe1b8dc879/header.jpg?t=1783700053",
+      "steam_url": "https://store.steampowered.com/app/4032350",
       "trend": [
         {
           "date": "2026-07-10",
-          "peak": 19901
+          "peak": 11144
         },
         {
           "date": "2026-07-11",
-          "peak": 18431
+          "peak": 10339
         },
         {
           "date": "2026-07-12",
-          "peak": 17928
+          "peak": 10174
         },
         {
           "date": "2026-07-13",
-          "peak": 17336
+          "peak": 11578
         },
         {
           "date": "2026-07-14",
-          "peak": 12174
+          "peak": 10519
         },
         {
           "date": "2026-07-15",
-          "peak": 11025
+          "peak": 9814
         }
       ]
     }
@@ -154,35 +170,35 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 38.77,
-    "fact_summary": "Echoes of Aincrad 今日观测峰值 11,025，未超过过往最高峰值 19,901，被识别为「新作起量」。",
+    "score": 38.24,
+    "fact_summary": "EA SPORTS™ College Football 27 今日观测峰值 9,814，未超过过往最高峰值 11,578，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 11025,
-      "previous_peak": 19901,
-      "previous_record_peak": 19901,
-      "growth_rate": -0.446,
-      "record_growth_rate": -0.446,
-      "scoring_peak": 11025,
+      "current_peak": 9814,
+      "previous_peak": 11578,
+      "previous_record_peak": 11578,
+      "growth_rate": -0.1524,
+      "record_growth_rate": -0.1524,
+      "scoring_peak": 9814,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 18.19,
+      "peak_score": 17.67,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 1.0,
+      "growth_score_multiplier": 0.9814,
       "record_growth_score": 0.0,
       "days_seen_score": 8.57,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 38.77,
+      "score_before_multiplier": 38.24,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "repeat_window_star_count": 1,
+      "repeat_window_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
-      "review_ratio": 50.0,
-      "review_total": 3138,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 39.0,
+      "review_total": 1382,
       "days_seen": 6,
       "comeback_gap_days": 1,
       "is_new_release": true,
@@ -196,100 +212,116 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "角色扮演"
+        "模拟",
+        "体育"
       ],
       "trend": [
         {
           "date": "2026-07-10",
-          "peak": 19901
+          "peak": 11144
         },
         {
           "date": "2026-07-11",
-          "peak": 18431
+          "peak": 10339
         },
         {
           "date": "2026-07-12",
-          "peak": 17928
+          "peak": 10174
         },
         {
           "date": "2026-07-13",
-          "peak": 17336
+          "peak": 11578
         },
         {
           "date": "2026-07-14",
-          "peak": 12174
+          "peak": 10519
         },
         {
           "date": "2026-07-15",
-          "peak": 11025
+          "peak": 9814
         }
       ]
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/2244210"
+        "url": "https://store.steampowered.com/app/4032350"
       }
     ],
     "game": {
-      "slug": "echoes-of-aincrad",
-      "appid": "2244210",
-      "name": "Echoes of Aincrad",
+      "slug": "ea-sports-college-football-27",
+      "appid": "4032350",
+      "name": "EA SPORTS™ College Football 27",
       "name_cn": null,
-      "description": "这是一款描写玩家们被困于生死一线牵的虚拟世界浮游城“艾恩葛朗特”的烦恼、纠葛的启程PRG。为了在化为死亡游戏的完全潜行型MMORPG《Sword Art Online》生存下去，最不可或缺的便是能共进退的同伴。这个远比现实残酷，却也更温暖的世界里，能建立起人与人之间的羁绊吗？",
+      "description": "踏入大学橄榄球的现代时代，在个人抱负与校队荣誉的交汇中展开征程。在沉浸于比赛日传统与盛典氛围的同时，平衡各方期望、自身特质以及周六赛事所要求的一切。",
       "release_date": "2026-07-09",
       "genres": [
-        "动作",
-        "角色扮演"
+        "模拟",
+        "体育"
       ],
       "tags": [
         "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "同屏/分屏玩家对战",
+        "合作",
+        "在线合作",
+        "同屏/分屏合作",
+        "同屏/分屏",
+        "跨平台多人",
         "Steam 成就",
         "完全支持控制器",
-        "DUALSHOCK 控制器支持",
+        "应用内购买",
+        "视角舒适度",
+        "聊天语音转文字",
+        "聊天文字转语音",
+        "可调整难度",
+        "推荐使用手柄",
+        "无需应对快速反应事件",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
         "DualSense 控制器支持",
-        "Steam 云",
-        "家庭共享"
+        "立体声",
+        "环绕声",
+        "可用 HDR"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 50.0,
-      "review_total": 3138,
-      "developer": "Game Studio Inc.",
-      "publisher": "Bandai Namco Entertainment Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/b3adf8e273abedc20c83fc2ca2ba65261b187909/header_schinese.jpg?t=1783634634",
-      "steam_url": "https://store.steampowered.com/app/2244210",
+      "review_score": "Mostly Negative",
+      "review_ratio": 39.0,
+      "review_total": 1382,
+      "developer": "Tiburon",
+      "publisher": "Electronic Arts",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032350/1c628b40d5aa8dcf26e0ac9d394f0fbe1b8dc879/header.jpg?t=1783700053",
+      "steam_url": "https://store.steampowered.com/app/4032350",
       "trend": [
         {
           "date": "2026-07-10",
-          "peak": 19901
+          "peak": 11144
         },
         {
           "date": "2026-07-11",
-          "peak": 18431
+          "peak": 10339
         },
         {
           "date": "2026-07-12",
-          "peak": 17928
+          "peak": 10174
         },
         {
           "date": "2026-07-13",
-          "peak": 17336
+          "peak": 11578
         },
         {
           "date": "2026-07-14",
-          "peak": 12174
+          "peak": 10519
         },
         {
           "date": "2026-07-15",
-          "peak": 11025
+          "peak": 9814
         }
       ]
     }

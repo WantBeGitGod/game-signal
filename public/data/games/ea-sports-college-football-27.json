@@ -1,0 +1,72 @@
+{
+  "slug": "ea-sports-college-football-27",
+  "appid": "4032350",
+  "name": "EA SPORTS™ College Football 27",
+  "name_cn": null,
+  "description": "踏入大学橄榄球的现代时代，在个人抱负与校队荣誉的交汇中展开征程。在沉浸于比赛日传统与盛典氛围的同时，平衡各方期望、自身特质以及周六赛事所要求的一切。",
+  "release_date": "2026-07-09",
+  "genres": [
+    "模拟",
+    "体育"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "同屏/分屏玩家对战",
+    "合作",
+    "在线合作",
+    "同屏/分屏合作",
+    "同屏/分屏",
+    "跨平台多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "应用内购买",
+    "视角舒适度",
+    "聊天语音转文字",
+    "聊天文字转语音",
+    "可调整难度",
+    "推荐使用手柄",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "立体声",
+    "环绕声",
+    "可用 HDR"
+  ],
+  "review_score": "Mostly Negative",
+  "review_ratio": 39.0,
+  "review_total": 1382,
+  "developer": "Tiburon",
+  "publisher": "Electronic Arts",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032350/1c628b40d5aa8dcf26e0ac9d394f0fbe1b8dc879/header.jpg?t=1783700053",
+  "steam_url": "https://store.steampowered.com/app/4032350",
+  "trend": [
+    {
+      "date": "2026-07-10",
+      "peak": 11144
+    },
+    {
+      "date": "2026-07-11",
+      "peak": 10339
+    },
+    {
+      "date": "2026-07-12",
+      "peak": 10174
+    },
+    {
+      "date": "2026-07-13",
+      "peak": 11578
+    },
+    {
+      "date": "2026-07-14",
+      "peak": 10519
+    },
+    {
+      "date": "2026-07-15",
+      "peak": 9814
+    }
+  ]
+}
