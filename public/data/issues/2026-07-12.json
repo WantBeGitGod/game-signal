@@ -10,37 +10,35 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 52.26,
-    "fact_summary": "Palworld 今日观测峰值 725,212，较过往最高峰值提升 +40%，被识别为「新作起量」。",
+    "score": 38.75,
+    "fact_summary": "Cat Mail Co. 今日观测峰值 8,689，较过往最高峰值提升 +22%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 725212,
-      "previous_peak": 517612,
-      "previous_record_peak": 517612,
-      "growth_rate": 0.4011,
-      "record_growth_rate": 0.4011,
-      "scoring_peak": 725212,
+      "current_peak": 8689,
+      "previous_peak": 7096,
+      "previous_record_peak": 7096,
+      "growth_rate": 0.2245,
+      "record_growth_rate": 0.2245,
+      "scoring_peak": 8689,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 35.0,
-      "raw_record_growth_score": 14.04,
-      "growth_score_multiplier": 1.0,
-      "record_growth_score": 14.04,
+      "peak_score": 15.64,
+      "raw_record_growth_score": 7.86,
+      "growth_score_multiplier": 0.8689,
+      "record_growth_score": 6.83,
       "days_seen_score": 4.29,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 65.32,
-      "score_multiplier": 0.8,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
+      "score_before_multiplier": 38.75,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
-      "review_ratio": 94.0,
-      "review_total": 430991,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 90.0,
+      "review_total": 1155,
       "days_seen": 3,
       "comeback_gap_days": 1,
       "is_new_release": true,
@@ -54,86 +52,77 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
         "独立",
-        "角色扮演"
+        "模拟"
       ],
       "trend": [
         {
           "date": "2026-07-10",
-          "peak": 264737
+          "peak": 6887
         },
         {
           "date": "2026-07-11",
-          "peak": 517612
+          "peak": 7096
         },
         {
           "date": "2026-07-12",
-          "peak": 725212
+          "peak": 8689
         }
       ]
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1623730"
+        "url": "https://store.steampowered.com/app/4380490"
       }
     ],
     "game": {
-      "slug": "palworld",
-      "appid": "1623730",
-      "name": "Palworld",
+      "slug": "cat-mail-co",
+      "appid": "4380490",
+      "name": "Cat Mail Co.",
       "name_cn": null,
-      "description": "在广阔的世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活，工业生产等，这是一款支持多人游戏模式的全新开放世界生存制作游戏。",
+      "description": "和好友一起变成猫猫，把邮局做大做强！我是一只猫，一夜之间继承了整个邮局...包裹如潮水般涌来！打包、分类、配送，把猫岛村民的心意寄往远方。把凌乱货架变得整整齐齐，享受治愈的慢时光。夜晚还会有神秘的魔法包裹悄然出现...总之，神奇的猫咪邮政，为您服务！",
       "release_date": "2026-07-09",
       "genres": [
-        "动作",
-        "冒险",
         "独立",
-        "角色扮演"
+        "模拟"
       ],
       "tags": [
         "单人",
         "多人",
         "合作",
         "在线合作",
-        "跨平台多人",
         "Steam 成就",
-        "完全支持控制器",
-        "Steam 集换式卡牌",
-        "Steam 创意工坊",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DualSense 控制器支持",
-        "DualSense 控制器支持",
+        "自定义音量控制",
+        "可调整难度",
+        "无需应对快速反应事件",
         "Steam 云",
         "家庭共享"
       ],
       "review_score": "Very Positive",
-      "review_ratio": 94.0,
-      "review_total": 430991,
-      "developer": "Pocketpair",
-      "publisher": "Pocketpair",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1783654507",
-      "steam_url": "https://store.steampowered.com/app/1623730",
+      "review_ratio": 91.0,
+      "review_total": 2050,
+      "developer": "Maracas Studio",
+      "publisher": "Maracas Studio, Gamersky Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/1e2614baa1383177d6c3e9fbf6bcc3f2ccf5152d/header_schinese.jpg?t=1784045214",
+      "steam_url": "https://store.steampowered.com/app/4380490",
       "trend": [
         {
           "date": "2026-07-10",
-          "peak": 264737
+          "peak": 6887
         },
         {
           "date": "2026-07-11",
-          "peak": 517612
+          "peak": 7096
         },
         {
           "date": "2026-07-12",
-          "peak": 725212
+          "peak": 8689
         }
       ]
     }
@@ -142,37 +131,35 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 52.26,
-    "fact_summary": "Palworld 今日观测峰值 725,212，较过往最高峰值提升 +40%，被识别为「新作起量」。",
+    "score": 38.75,
+    "fact_summary": "Cat Mail Co. 今日观测峰值 8,689，较过往最高峰值提升 +22%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 725212,
-      "previous_peak": 517612,
-      "previous_record_peak": 517612,
-      "growth_rate": 0.4011,
-      "record_growth_rate": 0.4011,
-      "scoring_peak": 725212,
+      "current_peak": 8689,
+      "previous_peak": 7096,
+      "previous_record_peak": 7096,
+      "growth_rate": 0.2245,
+      "record_growth_rate": 0.2245,
+      "scoring_peak": 8689,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 35.0,
-      "raw_record_growth_score": 14.04,
-      "growth_score_multiplier": 1.0,
-      "record_growth_score": 14.04,
+      "peak_score": 15.64,
+      "raw_record_growth_score": 7.86,
+      "growth_score_multiplier": 0.8689,
+      "record_growth_score": 6.83,
       "days_seen_score": 4.29,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 65.32,
-      "score_multiplier": 0.8,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
+      "score_before_multiplier": 38.75,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
-      "review_ratio": 94.0,
-      "review_total": 430991,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 90.0,
+      "review_total": 1155,
       "days_seen": 3,
       "comeback_gap_days": 1,
       "is_new_release": true,
@@ -186,86 +173,77 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
         "独立",
-        "角色扮演"
+        "模拟"
       ],
       "trend": [
         {
           "date": "2026-07-10",
-          "peak": 264737
+          "peak": 6887
         },
         {
           "date": "2026-07-11",
-          "peak": 517612
+          "peak": 7096
         },
         {
           "date": "2026-07-12",
-          "peak": 725212
+          "peak": 8689
         }
       ]
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1623730"
+        "url": "https://store.steampowered.com/app/4380490"
       }
     ],
     "game": {
-      "slug": "palworld",
-      "appid": "1623730",
-      "name": "Palworld",
+      "slug": "cat-mail-co",
+      "appid": "4380490",
+      "name": "Cat Mail Co.",
       "name_cn": null,
-      "description": "在广阔的世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活，工业生产等，这是一款支持多人游戏模式的全新开放世界生存制作游戏。",
+      "description": "和好友一起变成猫猫，把邮局做大做强！我是一只猫，一夜之间继承了整个邮局...包裹如潮水般涌来！打包、分类、配送，把猫岛村民的心意寄往远方。把凌乱货架变得整整齐齐，享受治愈的慢时光。夜晚还会有神秘的魔法包裹悄然出现...总之，神奇的猫咪邮政，为您服务！",
       "release_date": "2026-07-09",
       "genres": [
-        "动作",
-        "冒险",
         "独立",
-        "角色扮演"
+        "模拟"
       ],
       "tags": [
         "单人",
         "多人",
         "合作",
         "在线合作",
-        "跨平台多人",
         "Steam 成就",
-        "完全支持控制器",
-        "Steam 集换式卡牌",
-        "Steam 创意工坊",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DualSense 控制器支持",
-        "DualSense 控制器支持",
+        "自定义音量控制",
+        "可调整难度",
+        "无需应对快速反应事件",
         "Steam 云",
         "家庭共享"
       ],
       "review_score": "Very Positive",
-      "review_ratio": 94.0,
-      "review_total": 430991,
-      "developer": "Pocketpair",
-      "publisher": "Pocketpair",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1783654507",
-      "steam_url": "https://store.steampowered.com/app/1623730",
+      "review_ratio": 91.0,
+      "review_total": 2050,
+      "developer": "Maracas Studio",
+      "publisher": "Maracas Studio, Gamersky Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/1e2614baa1383177d6c3e9fbf6bcc3f2ccf5152d/header_schinese.jpg?t=1784045214",
+      "steam_url": "https://store.steampowered.com/app/4380490",
       "trend": [
         {
           "date": "2026-07-10",
-          "peak": 264737
+          "peak": 6887
         },
         {
           "date": "2026-07-11",
-          "peak": 517612
+          "peak": 7096
         },
         {
           "date": "2026-07-12",
-          "peak": 725212
+          "peak": 8689
         }
       ]
     }

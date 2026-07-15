@@ -1,0 +1,45 @@
+{
+  "slug": "cat-mail-co",
+  "appid": "4380490",
+  "name": "Cat Mail Co.",
+  "name_cn": null,
+  "description": "和好友一起变成猫猫，把邮局做大做强！我是一只猫，一夜之间继承了整个邮局...包裹如潮水般涌来！打包、分类、配送，把猫岛村民的心意寄往远方。把凌乱货架变得整整齐齐，享受治愈的慢时光。夜晚还会有神秘的魔法包裹悄然出现...总之，神奇的猫咪邮政，为您服务！",
+  "release_date": "2026-07-09",
+  "genres": [
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "自定义音量控制",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 91.0,
+  "review_total": 2050,
+  "developer": "Maracas Studio",
+  "publisher": "Maracas Studio, Gamersky Games",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/1e2614baa1383177d6c3e9fbf6bcc3f2ccf5152d/header_schinese.jpg?t=1784045214",
+  "steam_url": "https://store.steampowered.com/app/4380490",
+  "trend": [
+    {
+      "date": "2026-07-10",
+      "peak": 6887
+    },
+    {
+      "date": "2026-07-11",
+      "peak": 7096
+    },
+    {
+      "date": "2026-07-12",
+      "peak": 8689
+    }
+  ]
+}
