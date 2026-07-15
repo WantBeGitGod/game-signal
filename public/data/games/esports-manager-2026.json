@@ -18,8 +18,8 @@
     "家庭共享"
   ],
   "review_score": "Mostly Positive",
-  "review_ratio": 78.0,
-  "review_total": 968,
+  "review_ratio": 77.0,
+  "review_total": 1844,
   "developer": "Neurona Games",
   "publisher": "indie.io",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749950/c996835deb9fd4b481b498f10c0c85ecc8725986/header.jpg?t=1783451404",
@@ -36,6 +36,22 @@
     {
       "date": "2026-07-09",
       "peak": 9936
+    },
+    {
+      "date": "2026-07-10",
+      "peak": 10149
+    },
+    {
+      "date": "2026-07-11",
+      "peak": 9542
+    },
+    {
+      "date": "2026-07-12",
+      "peak": 9129
+    },
+    {
+      "date": "2026-07-13",
+      "peak": 8842
     }
   ]
 }
