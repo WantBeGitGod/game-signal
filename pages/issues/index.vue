@@ -1,5 +1,5 @@
 <template>
-  <div class="page-shell">
+  <div class="page-shell issue-archive">
     <header class="page-intro">
       <p class="eyebrow">PAST STARS</p>
       <h1>往日之星</h1>
@@ -8,12 +8,19 @@
     <div class="issue-list">
       <NuxtLink v-for="issue in issues" :key="issue.date" :to="`/issues/${issue.date}`" class="issue-row">
         <span class="issue-date">{{ issue.date }}</span>
-        <div>
+        <div class="issue-row-copy">
           <SignalTag :type="starSignal(issue).type" :label="starSignal(issue).label" />
           <h2>{{ displayGameName(starSignal(issue).game) }}</h2>
           <p>{{ starSignal(issue).fact_summary }}</p>
         </div>
-        <ArrowUpRight :size="22" />
+        <CaseCover
+          :src="starSignal(issue).game.cover_image_url"
+          :title="displayGameName(starSignal(issue).game)"
+          :appid="starSignal(issue).game.appid"
+          label="DAILY STAR"
+          compact
+        />
+        <ArrowUpRight class="issue-row-arrow" :size="22" />
       </NuxtLink>
     </div>
   </div>

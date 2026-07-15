@@ -21,7 +21,7 @@
       </div>
     </div>
     <figcaption>
-      <span>CASE VISUAL</span>
+      <span>{{ label }}</span>
       <span v-if="appid">STEAM {{ appid }}</span>
     </figcaption>
   </figure>
@@ -34,11 +34,13 @@ const props = withDefaults(
     title: string
     appid?: string | null
     compact?: boolean
+    label?: string
   }>(),
   {
     src: null,
     appid: null,
-    compact: false
+    compact: false,
+    label: "CASE VISUAL"
   }
 )
 
