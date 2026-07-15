@@ -1,0 +1,56 @@
+{
+  "slug": "echoes-of-aincrad",
+  "appid": "2244210",
+  "name": "Echoes of Aincrad",
+  "name_cn": null,
+  "description": "这是一款描写玩家们被困于生死一线牵的虚拟世界浮游城“艾恩葛朗特”的烦恼、纠葛的启程PRG。为了在化为死亡游戏的完全潜行型MMORPG《Sword Art Online》生存下去，最不可或缺的便是能共进退的同伴。这个远比现实残酷，却也更温暖的世界里，能建立起人与人之间的羁绊吗？",
+  "release_date": "2026-07-09",
+  "genres": [
+    "动作",
+    "角色扮演"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Mixed",
+  "review_ratio": 50.0,
+  "review_total": 3138,
+  "developer": "Game Studio Inc.",
+  "publisher": "Bandai Namco Entertainment Inc.",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/b3adf8e273abedc20c83fc2ca2ba65261b187909/header_schinese.jpg?t=1783634634",
+  "steam_url": "https://store.steampowered.com/app/2244210",
+  "trend": [
+    {
+      "date": "2026-07-10",
+      "peak": 19901
+    },
+    {
+      "date": "2026-07-11",
+      "peak": 18431
+    },
+    {
+      "date": "2026-07-12",
+      "peak": 17928
+    },
+    {
+      "date": "2026-07-13",
+      "peak": 17336
+    },
+    {
+      "date": "2026-07-14",
+      "peak": 12174
+    },
+    {
+      "date": "2026-07-15",
+      "peak": 11025
+    }
+  ]
+}

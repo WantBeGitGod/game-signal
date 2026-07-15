@@ -1,0 +1,299 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-15",
+  "title": "07.15 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 38.77,
+    "fact_summary": "Echoes of Aincrad 今日观测峰值 11,025，未超过过往最高峰值 19,901，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 11025,
+      "previous_peak": 19901,
+      "previous_record_peak": 19901,
+      "growth_rate": -0.446,
+      "record_growth_rate": -0.446,
+      "scoring_peak": 11025,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.19,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 8.57,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 38.77,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 50.0,
+      "review_total": 3138,
+      "days_seen": 6,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 6,
+      "steam_release_age_days": 6,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-10",
+          "peak": 19901
+        },
+        {
+          "date": "2026-07-11",
+          "peak": 18431
+        },
+        {
+          "date": "2026-07-12",
+          "peak": 17928
+        },
+        {
+          "date": "2026-07-13",
+          "peak": 17336
+        },
+        {
+          "date": "2026-07-14",
+          "peak": 12174
+        },
+        {
+          "date": "2026-07-15",
+          "peak": 11025
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2244210"
+      }
+    ],
+    "game": {
+      "slug": "echoes-of-aincrad",
+      "appid": "2244210",
+      "name": "Echoes of Aincrad",
+      "name_cn": null,
+      "description": "这是一款描写玩家们被困于生死一线牵的虚拟世界浮游城“艾恩葛朗特”的烦恼、纠葛的启程PRG。为了在化为死亡游戏的完全潜行型MMORPG《Sword Art Online》生存下去，最不可或缺的便是能共进退的同伴。这个远比现实残酷，却也更温暖的世界里，能建立起人与人之间的羁绊吗？",
+      "release_date": "2026-07-09",
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 50.0,
+      "review_total": 3138,
+      "developer": "Game Studio Inc.",
+      "publisher": "Bandai Namco Entertainment Inc.",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/b3adf8e273abedc20c83fc2ca2ba65261b187909/header_schinese.jpg?t=1783634634",
+      "steam_url": "https://store.steampowered.com/app/2244210",
+      "trend": [
+        {
+          "date": "2026-07-10",
+          "peak": 19901
+        },
+        {
+          "date": "2026-07-11",
+          "peak": 18431
+        },
+        {
+          "date": "2026-07-12",
+          "peak": 17928
+        },
+        {
+          "date": "2026-07-13",
+          "peak": 17336
+        },
+        {
+          "date": "2026-07-14",
+          "peak": 12174
+        },
+        {
+          "date": "2026-07-15",
+          "peak": 11025
+        }
+      ]
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 38.77,
+    "fact_summary": "Echoes of Aincrad 今日观测峰值 11,025，未超过过往最高峰值 19,901，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 11025,
+      "previous_peak": 19901,
+      "previous_record_peak": 19901,
+      "growth_rate": -0.446,
+      "record_growth_rate": -0.446,
+      "scoring_peak": 11025,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.19,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 8.57,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 38.77,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 50.0,
+      "review_total": 3138,
+      "days_seen": 6,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 6,
+      "steam_release_age_days": 6,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-10",
+          "peak": 19901
+        },
+        {
+          "date": "2026-07-11",
+          "peak": 18431
+        },
+        {
+          "date": "2026-07-12",
+          "peak": 17928
+        },
+        {
+          "date": "2026-07-13",
+          "peak": 17336
+        },
+        {
+          "date": "2026-07-14",
+          "peak": 12174
+        },
+        {
+          "date": "2026-07-15",
+          "peak": 11025
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2244210"
+      }
+    ],
+    "game": {
+      "slug": "echoes-of-aincrad",
+      "appid": "2244210",
+      "name": "Echoes of Aincrad",
+      "name_cn": null,
+      "description": "这是一款描写玩家们被困于生死一线牵的虚拟世界浮游城“艾恩葛朗特”的烦恼、纠葛的启程PRG。为了在化为死亡游戏的完全潜行型MMORPG《Sword Art Online》生存下去，最不可或缺的便是能共进退的同伴。这个远比现实残酷，却也更温暖的世界里，能建立起人与人之间的羁绊吗？",
+      "release_date": "2026-07-09",
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 50.0,
+      "review_total": 3138,
+      "developer": "Game Studio Inc.",
+      "publisher": "Bandai Namco Entertainment Inc.",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/b3adf8e273abedc20c83fc2ca2ba65261b187909/header_schinese.jpg?t=1783634634",
+      "steam_url": "https://store.steampowered.com/app/2244210",
+      "trend": [
+        {
+          "date": "2026-07-10",
+          "peak": 19901
+        },
+        {
+          "date": "2026-07-11",
+          "peak": 18431
+        },
+        {
+          "date": "2026-07-12",
+          "peak": 17928
+        },
+        {
+          "date": "2026-07-13",
+          "peak": 17336
+        },
+        {
+          "date": "2026-07-14",
+          "peak": 12174
+        },
+        {
+          "date": "2026-07-15",
+          "peak": 11025
+        }
+      ]
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
