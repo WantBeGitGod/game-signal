@@ -730,21 +730,43 @@ a {
   min-width: 0;
 }
 
+.issue-row-topline {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: baseline;
+  margin: 12px 0;
+}
+
+.issue-row-heading {
+  display: flex;
+  flex: 1 1 auto;
+  min-width: 0;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.issue-row-heading .signal-tag {
+  flex: 0 0 auto;
+}
+
+.issue-archive .issue-row-heading h2 {
+  flex: 1;
+  min-width: 0;
+  margin: 0;
+}
+
 .issue-archive .issue-row h2,
 .issue-archive .issue-row p {
   overflow-wrap: anywhere;
 }
 
 .issue-row-peak {
-  display: grid;
-  grid-template-areas:
-    "label label"
-    "value unit";
-  grid-template-columns: max-content max-content;
-  gap: 8px 10px;
-  justify-content: start;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
   align-items: baseline;
-  margin: 18px 0 12px;
+  white-space: nowrap;
   font-variant-numeric: tabular-nums;
 }
 
@@ -757,15 +779,12 @@ a {
 }
 
 .issue-row-peak-label {
-  grid-area: label;
-  justify-self: start;
   padding: 3px 6px;
   border: 1px solid var(--blue);
   color: var(--blue);
 }
 
 .issue-row-peak strong {
-  grid-area: value;
   color: var(--blue);
   font-family: var(--mono);
   font-size: clamp(32px, 3vw, 48px);
@@ -776,7 +795,6 @@ a {
 }
 
 .issue-row-peak-unit {
-  grid-area: unit;
   color: var(--ink);
   white-space: nowrap;
 }

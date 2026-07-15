@@ -9,12 +9,16 @@
       <NuxtLink v-for="issue in issues" :key="issue.date" :to="`/issues/${issue.date}`" class="issue-row">
         <span class="issue-date">{{ issue.date }}</span>
         <div class="issue-row-copy">
-          <SignalTag :type="starSignal(issue).type" :label="starSignal(issue).label" />
-          <h2>{{ displayGameName(starSignal(issue).game) }}</h2>
-          <div v-if="observedPeak(issue)" class="issue-row-peak">
-            <span class="issue-row-peak-label">今日观测峰值</span>
-            <strong>{{ observedPeak(issue) }}</strong>
-            <span class="issue-row-peak-unit">人在线</span>
+          <div class="issue-row-topline">
+            <div class="issue-row-heading">
+              <SignalTag :type="starSignal(issue).type" :label="starSignal(issue).label" />
+              <h2>{{ displayGameName(starSignal(issue).game) }}</h2>
+            </div>
+            <div v-if="observedPeak(issue)" class="issue-row-peak">
+              <span class="issue-row-peak-label">今日观测峰值</span>
+              <strong>{{ observedPeak(issue) }}</strong>
+              <span class="issue-row-peak-unit">人在线</span>
+            </div>
           </div>
           <p class="issue-row-summary">{{ starSignal(issue).fact_summary }}</p>
         </div>
