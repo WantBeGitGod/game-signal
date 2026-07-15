@@ -1,8 +1,18 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-11T02:42:55",
-  "latest_weekly": "2026-06-29-week",
+  "generated_at": "2026-07-16T03:04:43",
+  "latest_weekly": "2026-07-06-week",
   "issues": [
+    {
+      "slug": "2026-07-06-week",
+      "issue_number": 7,
+      "week_start": "2026-07-06",
+      "week_end": "2026-07-12",
+      "title": "世界树终于结算！\n海盗重制不靠念旧",
+      "summary": "本期深度案例：Palworld 与 Assassin's Creed Black Flag Resynced，分别对应「持续增长」和「突然爆发」。",
+      "status": "published",
+      "published_at": "2026-07-16 03:04:43"
+    },
     {
       "slug": "2026-06-29-week",
       "issue_number": 6,

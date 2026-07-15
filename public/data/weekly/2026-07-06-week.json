@@ -1,0 +1,307 @@
+{
+  "schema_version": "1.0.0",
+  "slug": "2026-07-06-week",
+  "issue_number": 7,
+  "week_start": "2026-07-06",
+  "week_end": "2026-07-12",
+  "title": "世界树终于结算！\n海盗重制不靠念旧",
+  "summary": "本期深度案例：Palworld 与 Assassin's Creed Black Flag Resynced，分别对应「持续增长」和「突然爆发」。",
+  "status": "published",
+  "published_at": "2026-07-16 03:04:43",
+  "signals": [
+    {
+      "rank": 1,
+      "signal_type": "sustained_growth",
+      "label": "持续增长",
+      "score": 104.97,
+      "selection_reason": "Palworld 上周窗口峰值 725,212，首次进入当前观察窗口，被识别为「持续增长」。",
+      "metrics": {
+        "weekly_peak": 725212,
+        "previous_week_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 507648.4,
+        "player_discount": 0.7,
+        "discount_reasons": [
+          "old_game"
+        ],
+        "review_ratio": 94.0,
+        "review_total": 430991,
+        "days_seen": 3,
+        "is_new_release": false,
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-07-10",
+            "peak": 264737
+          },
+          {
+            "date": "2026-07-11",
+            "peak": 517612
+          },
+          {
+            "date": "2026-07-12",
+            "peak": 725212
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": true,
+      "case_slug": "palworld",
+      "chart_path": "/data/charts/1623730.json",
+      "game": {
+        "slug": "palworld",
+        "appid": "1623730",
+        "name": "Palworld",
+        "description": "在广阔的世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活，工业生产等，这是一款支持多人游戏模式的全新开放世界生存制作游戏。",
+        "developer": "Pocketpair",
+        "publisher": "Pocketpair",
+        "release_date": "2026-07-09",
+        "review_ratio": 94.0,
+        "review_total": 436006,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1783654507",
+        "steam_url": "https://store.steampowered.com/app/1623730"
+      }
+    },
+    {
+      "rank": 2,
+      "signal_type": "sustained_growth",
+      "label": "持续增长",
+      "score": 94.73,
+      "selection_reason": "Granblue Fantasy: Relink 上周窗口峰值 76,227，首次进入当前观察窗口，被识别为「持续增长」。",
+      "metrics": {
+        "weekly_peak": 76227,
+        "previous_week_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 53358.9,
+        "player_discount": 0.7,
+        "discount_reasons": [
+          "old_game"
+        ],
+        "review_ratio": 90.0,
+        "review_total": 52961,
+        "days_seen": 4,
+        "is_new_release": false,
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "trend": [
+          {
+            "date": "2026-07-09",
+            "peak": 75743
+          },
+          {
+            "date": "2026-07-10",
+            "peak": 45484
+          },
+          {
+            "date": "2026-07-11",
+            "peak": 69388
+          },
+          {
+            "date": "2026-07-12",
+            "peak": 76227
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/881020.json",
+      "game": {
+        "slug": "granblue-fantasy-relink",
+        "appid": "881020",
+        "name": "Granblue Fantasy: Relink",
+        "description": "可4人联机！实打实的ARPG！ 大量动作风格独特的游戏角色将登场。玩家可操作各自的角色接连发动攻击，4人联合发动“连锁攻击”“奥义连锁”，华丽地击溃敌人吧！ 本作除构思巧妙的对战及个性化的养成系统以外，还有可根据玩家技术设置的辅助功能，即便是新手玩家也可轻松上手！ 和朋友一起组队，体验冒险与对战吧！",
+        "developer": "Cygames, Inc.",
+        "publisher": "Cygames, Inc.",
+        "release_date": "2024-01-31",
+        "review_ratio": 90.0,
+        "review_total": 53402,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg?t=1783524179",
+        "steam_url": "https://store.steampowered.com/app/881020"
+      }
+    },
+    {
+      "rank": 3,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 91.08,
+      "selection_reason": "Esports Manager 2026 上周窗口峰值 10,149，首次进入当前观察窗口，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 10149,
+        "previous_week_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 10149.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 77.0,
+        "review_total": 1643,
+        "days_seen": 6,
+        "is_new_release": true,
+        "genres": [
+          "独立",
+          "模拟",
+          "体育",
+          "策略"
+        ],
+        "trend": [
+          {
+            "date": "2026-07-07",
+            "peak": 5151
+          },
+          {
+            "date": "2026-07-08",
+            "peak": 6267
+          },
+          {
+            "date": "2026-07-09",
+            "peak": 9936
+          },
+          {
+            "date": "2026-07-10",
+            "peak": 10149
+          },
+          {
+            "date": "2026-07-11",
+            "peak": 9542
+          },
+          {
+            "date": "2026-07-12",
+            "peak": 9129
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/2749950.json",
+      "game": {
+        "slug": "esports-manager-2026",
+        "appid": "2749950",
+        "name": "Esports Manager 2026",
+        "description": "建立并领导您自己的职业电子竞技组织。招募球员、管理合同、培养人才、聘请员工、打造品牌，并在深度逼真的管理模拟中争夺冠军头衔。",
+        "developer": "Neurona Games",
+        "publisher": "indie.io",
+        "release_date": "2026-07-06",
+        "review_ratio": 77.0,
+        "review_total": 1844,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749950/c996835deb9fd4b481b498f10c0c85ecc8725986/header.jpg?t=1783451404",
+        "steam_url": "https://store.steampowered.com/app/2749950"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 89.54,
+      "selection_reason": "Sand 上周窗口峰值 31,878，较前一周窗口变化 -24%，被识别为「新作起量」。",
+      "metrics": {
+        "weekly_peak": 31878,
+        "previous_week_peak": 41679,
+        "growth_rate": -0.2352,
+        "scoring_peak": 31878.0,
+        "player_discount": 1.0,
+        "discount_reasons": [],
+        "review_ratio": 54.0,
+        "review_total": 7816,
+        "days_seen": 1,
+        "is_new_release": true,
+        "genres": [
+          "动作",
+          "冒险",
+          "抢先体验"
+        ],
+        "trend": [
+          {
+            "date": "2026-07-06",
+            "peak": 31878
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": false,
+      "case_slug": null,
+      "chart_path": "/data/charts/1431300.json",
+      "game": {
+        "slug": "sand",
+        "appid": "1431300",
+        "name": "Sand",
+        "description": "在架空的1910年，驾驶巨型“践踏者”穿越索菲的沙海展开搜刮。建造你高度可自定义的步行基地，单人或组队行动，收集战利品、武器与珍贵遗物。在历史与混乱锻造的程序生成荒漠中，与其他玩家激烈交锋。",
+        "developer": "Hologryph, TowerHaus",
+        "publisher": "tinyBuild",
+        "release_date": "2026-06-22",
+        "review_ratio": 54.0,
+        "review_total": 7816,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
+        "steam_url": "https://store.steampowered.com/app/1431300"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "sudden_breakout",
+      "label": "突然爆发",
+      "score": 68.11,
+      "selection_reason": "Assassin's Creed Black Flag Resynced 上周窗口峰值 99,451，首次进入当前观察窗口，被识别为「突然爆发」。",
+      "metrics": {
+        "weekly_peak": 99451,
+        "previous_week_peak": 0,
+        "growth_rate": 0.0,
+        "scoring_peak": 69615.7,
+        "player_discount": 0.7,
+        "discount_reasons": [
+          "old_game"
+        ],
+        "review_ratio": 72.0,
+        "review_total": 11880,
+        "days_seen": 4,
+        "is_new_release": false,
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "trend": [
+          {
+            "date": "2026-07-09",
+            "peak": 77525
+          },
+          {
+            "date": "2026-07-10",
+            "peak": 99451
+          },
+          {
+            "date": "2026-07-11",
+            "peak": 82683
+          },
+          {
+            "date": "2026-07-12",
+            "peak": 97858
+          }
+        ]
+      },
+      "chart_status": "ready",
+      "case_selected": true,
+      "case_slug": "assassin-s-creed-black-flag-resynced",
+      "chart_path": "/data/charts/3751950.json",
+      "game": {
+        "slug": "assassin-s-creed-black-flag-resynced",
+        "appid": "3751950",
+        "name": "Assassin's Creed Black Flag Resynced",
+        "description": "经典单人海盗冒险之旅现已回归。在这部忠实还原且经过优化的重制版中，你将扮演爱德华·肯威，在海盗的黄金时代扬帆加勒比海。本作拥有惊艳的视觉效果、经过升级的玩法以及全新的内容。",
+        "developer": "Ubisoft Singapore, Ubisoft Barcelona, Ubisoft Bordeaux, Ubisoft Belgrade, Ubisoft Chengdu, Ubisoft India, Ubisoft Kyiv, Ubisoft Montpellier, Ubisoft Philippines, Ubisoft Quebec, Ubisoft Shanghai",
+        "publisher": "Ubisoft",
+        "release_date": "2026-07-09",
+        "review_ratio": 75.0,
+        "review_total": 16047,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/777795886ee7d2fc9f1e84aacc75f82baf75defb/header_schinese.jpg?t=1783617053",
+        "steam_url": "https://store.steampowered.com/app/3751950"
+      }
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "appid": "2749950",
+  "source": "SteamDB charts export",
+  "source_url": "https://steamdb.info/app/2749950/charts/",
+  "points": [
+    {
+      "datetime": "2026-07-07 20:07:00",
+      "players": 5151
+    },
+    {
+      "datetime": "2026-07-08 17:36:56",
+      "players": 6267
+    },
+    {
+      "datetime": "2026-07-09 22:59:35",
+      "players": 9936
+    },
+    {
+      "datetime": "2026-07-10 17:37:23",
+      "players": 10149
+    },
+    {
+      "datetime": "2026-07-11 17:38:07",
+      "players": 9542
+    },
+    {
+      "datetime": "2026-07-12 17:36:24",
+      "players": 9129
+    }
+  ],
+  "daily_peaks": [
+    {
+      "date": "2026-07-07",
+      "peak": 5151,
+      "peak_time": "2026-07-07 20:07:00"
+    },
+    {
+      "date": "2026-07-08",
+      "peak": 6267,
+      "peak_time": "2026-07-08 17:36:56"
+    },
+    {
+      "date": "2026-07-09",
+      "peak": 9936,
+      "peak_time": "2026-07-09 22:59:35"
+    },
+    {
+      "date": "2026-07-10",
+      "peak": 10149,
+      "peak_time": "2026-07-10 17:37:23"
+    },
+    {
+      "date": "2026-07-11",
+      "peak": 9542,
+      "peak_time": "2026-07-11 17:38:07"
+    },
+    {
+      "date": "2026-07-12",
+      "peak": 9129,
+      "peak_time": "2026-07-12 17:36:24"
+    }
+  ],
+  "all_time_or_window_peak": {
+    "players": 10149,
+    "datetime": "2026-07-10 17:37:23"
+  },
+  "imported_at": "2026-07-16 03:02:06"
+}
