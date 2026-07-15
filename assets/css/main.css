@@ -731,29 +731,27 @@ a {
 }
 
 .issue-row-topline {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) max-content;
   gap: 12px;
-  align-items: baseline;
+  align-items: start;
   margin: 12px 0;
 }
 
 .issue-row-heading {
-  display: flex;
-  flex: 1 1 auto;
+  display: grid;
   min-width: 0;
-  align-items: baseline;
   gap: 8px;
 }
 
 .issue-row-heading .signal-tag {
-  flex: 0 0 auto;
+  justify-self: start;
 }
 
 .issue-archive .issue-row-heading h2 {
-  flex: 1;
   min-width: 0;
   margin: 0;
+  font-size: clamp(34px, 3vw, 54px);
 }
 
 .issue-archive .issue-row h2,
@@ -762,11 +760,13 @@ a {
 }
 
 .issue-row-peak {
-  display: flex;
-  flex: 0 0 auto;
-  gap: 8px;
+  display: grid;
+  grid-template-areas:
+    "label label"
+    "value unit";
+  grid-template-columns: max-content max-content;
+  gap: 8px 10px;
   align-items: baseline;
-  white-space: nowrap;
   font-variant-numeric: tabular-nums;
 }
 
@@ -779,12 +779,18 @@ a {
 }
 
 .issue-row-peak-label {
-  padding: 3px 6px;
-  border: 1px solid var(--blue);
+  display: inline-flex;
+  grid-area: label;
+  min-height: 25px;
+  align-items: center;
+  justify-self: start;
+  padding: 2px 8px;
+  border: 2px solid var(--blue);
   color: var(--blue);
 }
 
 .issue-row-peak strong {
+  grid-area: value;
   color: var(--blue);
   font-family: var(--mono);
   font-size: clamp(32px, 3vw, 48px);
@@ -795,6 +801,7 @@ a {
 }
 
 .issue-row-peak-unit {
+  grid-area: unit;
   color: var(--ink);
   white-space: nowrap;
 }
@@ -2325,6 +2332,14 @@ a {
 
   .issue-date {
     grid-column: 1 / -1;
+  }
+
+  .issue-row-topline {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .issue-archive .issue-row-heading h2 {
+    font-size: clamp(26px, 8vw, 34px);
   }
 
   .game-profile,
