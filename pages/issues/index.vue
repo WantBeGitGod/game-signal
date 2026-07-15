@@ -11,7 +11,12 @@
         <div class="issue-row-copy">
           <SignalTag :type="starSignal(issue).type" :label="starSignal(issue).label" />
           <h2>{{ displayGameName(starSignal(issue).game) }}</h2>
-          <p>{{ starSignal(issue).fact_summary }}</p>
+          <div v-if="observedPeak(issue)" class="issue-row-peak">
+            <span class="issue-row-peak-label">今日观测峰值</span>
+            <strong>{{ observedPeak(issue) }}</strong>
+            <span class="issue-row-peak-unit">人在线</span>
+          </div>
+          <p class="issue-row-summary">{{ starSignal(issue).fact_summary }}</p>
         </div>
         <CaseCover
           :src="starSignal(issue).game.cover_image_url"
@@ -37,5 +42,13 @@ const { data: issues } = await useAsyncData("issue-archive", async () => {
 })
 function starSignal(issue: DailyIssue) {
   return issue.star_signal || issue.main_signal
+}
+
+const peakFormatter = new Intl.NumberFormat("zh-CN")
+
+function observedPeak(issue: DailyIssue) {
+  const value = starSignal(issue).metrics.current_peak
+  if (typeof value !== "number" || !Number.isFinite(value) || value < 0) return null
+  return peakFormatter.format(value)
 }
 </script>

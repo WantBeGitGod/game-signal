@@ -735,6 +735,46 @@ a {
   overflow-wrap: anywhere;
 }
 
+.issue-row-peak {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 10px;
+  align-items: baseline;
+  margin: 18px 0 12px;
+  font-variant-numeric: tabular-nums;
+}
+
+.issue-row-peak-label,
+.issue-row-peak-unit {
+  font-family: var(--mono);
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+.issue-row-peak-label {
+  padding: 3px 6px;
+  border: 1px solid var(--blue);
+  color: var(--blue);
+}
+
+.issue-row-peak strong {
+  color: var(--blue);
+  font-family: var(--mono);
+  font-size: clamp(32px, 3vw, 48px);
+  font-weight: 600;
+  letter-spacing: -0.055em;
+  line-height: 0.9;
+}
+
+.issue-row-peak-unit {
+  color: var(--ink);
+}
+
+.issue-row-summary {
+  line-height: 1.65;
+}
+
 .issue-archive .issue-row .case-cover {
   grid-column: 3;
 }
