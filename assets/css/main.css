@@ -736,9 +736,13 @@ a {
 }
 
 .issue-row-peak {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-areas:
+    "label label"
+    "value unit";
+  grid-template-columns: max-content max-content;
   gap: 8px 10px;
+  justify-content: start;
   align-items: baseline;
   margin: 18px 0 12px;
   font-variant-numeric: tabular-nums;
@@ -753,22 +757,28 @@ a {
 }
 
 .issue-row-peak-label {
+  grid-area: label;
+  justify-self: start;
   padding: 3px 6px;
   border: 1px solid var(--blue);
   color: var(--blue);
 }
 
 .issue-row-peak strong {
+  grid-area: value;
   color: var(--blue);
   font-family: var(--mono);
   font-size: clamp(32px, 3vw, 48px);
   font-weight: 600;
   letter-spacing: -0.055em;
   line-height: 0.9;
+  white-space: nowrap;
 }
 
 .issue-row-peak-unit {
+  grid-area: unit;
   color: var(--ink);
+  white-space: nowrap;
 }
 
 .issue-row-summary {
