@@ -30,10 +30,10 @@
   ],
   "review_score": "Very Positive",
   "review_ratio": 94.0,
-  "review_total": 434237,
+  "review_total": 438257,
   "developer": "Pocketpair",
   "publisher": "Pocketpair",
-  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1783654507",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1784190284",
   "steam_url": "https://store.steampowered.com/app/1623730",
   "trend": [
     {
@@ -55,6 +55,14 @@
     {
       "date": "2026-07-14",
       "peak": 825513
+    },
+    {
+      "date": "2026-07-15",
+      "peak": 858562
+    },
+    {
+      "date": "2026-07-16",
+      "peak": 812133
     }
   ]
 }
