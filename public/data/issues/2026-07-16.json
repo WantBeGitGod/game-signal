@@ -10,44 +10,42 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 45.6,
-    "fact_summary": "Palworld 今日观测峰值 812,133，未超过过往最高峰值 858,562，被识别为「新作起量」。",
+    "score": 32.4,
+    "fact_summary": "SpiritVale 今日观测峰值 15,125，首次进入当前观察窗口，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 812133,
-      "previous_peak": 858562,
-      "previous_record_peak": 858562,
-      "growth_rate": -0.0541,
-      "record_growth_rate": -0.0541,
-      "scoring_peak": 812133,
+      "current_peak": 15125,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 15125,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 35.0,
+      "peak_score": 18.97,
       "raw_record_growth_score": 0.0,
       "growth_score_multiplier": 1.0,
       "record_growth_score": 0.0,
-      "days_seen_score": 10.0,
+      "days_seen_score": 1.43,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 57.0,
-      "score_multiplier": 0.8,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
+      "score_before_multiplier": 32.4,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
-      "review_ratio": 94.0,
-      "review_total": 438257,
-      "days_seen": 7,
-      "comeback_gap_days": 1,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 47.0,
+      "review_total": 818,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
       "is_new_release": true,
-      "release_age_days": 7,
-      "steam_release_age_days": 7,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -57,117 +55,61 @@
       "comeback_evidence": null,
       "genres": [
         "动作",
-        "冒险",
         "独立",
-        "角色扮演"
+        "大型多人在线",
+        "角色扮演",
+        "抢先体验"
       ],
       "trend": [
         {
-          "date": "2026-07-10",
-          "peak": 264737
-        },
-        {
-          "date": "2026-07-11",
-          "peak": 517612
-        },
-        {
-          "date": "2026-07-12",
-          "peak": 725212
-        },
-        {
-          "date": "2026-07-13",
-          "peak": 855525
-        },
-        {
-          "date": "2026-07-14",
-          "peak": 825513
-        },
-        {
-          "date": "2026-07-15",
-          "peak": 858562
-        },
-        {
           "date": "2026-07-16",
-          "peak": 812133
+          "peak": 15125
         }
       ]
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1623730"
+        "url": "https://store.steampowered.com/app/3767850"
       }
     ],
     "game": {
-      "slug": "palworld",
-      "appid": "1623730",
-      "name": "Palworld",
+      "slug": "spiritvale",
+      "appid": "3767850",
+      "name": "SpiritVale",
       "name_cn": null,
-      "description": "在广阔的世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活，工业生产等，这是一款支持多人游戏模式的全新开放世界生存制作游戏。",
-      "release_date": "2026-07-09",
+      "description": "一款受经典角色扮演游戏启发的基于职业的动作 MMO。探索充满怪物和废墟的支离破碎的世界，建立自己的游戏风格，并与朋友一起进行实时合作战斗。",
+      "release_date": "2026-07-15",
       "genres": [
         "动作",
-        "冒险",
         "独立",
-        "角色扮演"
+        "大型多人在线",
+        "角色扮演",
+        "抢先体验"
       ],
       "tags": [
-        "单人",
         "多人",
-        "合作",
-        "在线合作",
-        "跨平台多人",
-        "Steam 成就",
-        "完全支持控制器",
-        "Steam 集换式卡牌",
-        "Steam 创意工坊",
+        "大型多人在线",
+        "应用内购买",
         "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DualSense 控制器支持",
-        "DualSense 控制器支持",
-        "Steam 云",
-        "家庭共享"
+        "部分支持控制器"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 94.0,
-      "review_total": 438257,
-      "developer": "Pocketpair",
-      "publisher": "Pocketpair",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1784190284",
-      "steam_url": "https://store.steampowered.com/app/1623730",
+      "review_score": "Mixed",
+      "review_ratio": 50.0,
+      "review_total": 1850,
+      "developer": "Baikun Interactive",
+      "publisher": "Baikun Interactive",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767850/7048933d069ef057bcd5571f99b4e2d5b8744b31/header.jpg?t=1784127621",
+      "steam_url": "https://store.steampowered.com/app/3767850",
       "trend": [
         {
-          "date": "2026-07-10",
-          "peak": 264737
-        },
-        {
-          "date": "2026-07-11",
-          "peak": 517612
-        },
-        {
-          "date": "2026-07-12",
-          "peak": 725212
-        },
-        {
-          "date": "2026-07-13",
-          "peak": 855525
-        },
-        {
-          "date": "2026-07-14",
-          "peak": 825513
-        },
-        {
-          "date": "2026-07-15",
-          "peak": 858562
-        },
-        {
           "date": "2026-07-16",
-          "peak": 812133
+          "peak": 15125
         }
       ]
     }
@@ -176,44 +118,42 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 45.6,
-    "fact_summary": "Palworld 今日观测峰值 812,133，未超过过往最高峰值 858,562，被识别为「新作起量」。",
+    "score": 32.4,
+    "fact_summary": "SpiritVale 今日观测峰值 15,125，首次进入当前观察窗口，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 812133,
-      "previous_peak": 858562,
-      "previous_record_peak": 858562,
-      "growth_rate": -0.0541,
-      "record_growth_rate": -0.0541,
-      "scoring_peak": 812133,
+      "current_peak": 15125,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 15125,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 35.0,
+      "peak_score": 18.97,
       "raw_record_growth_score": 0.0,
       "growth_score_multiplier": 1.0,
       "record_growth_score": 0.0,
-      "days_seen_score": 10.0,
+      "days_seen_score": 1.43,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 57.0,
-      "score_multiplier": 0.8,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
+      "score_before_multiplier": 32.4,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
-      "review_ratio": 94.0,
-      "review_total": 438257,
-      "days_seen": 7,
-      "comeback_gap_days": 1,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "review_ratio": 47.0,
+      "review_total": 818,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
       "is_new_release": true,
-      "release_age_days": 7,
-      "steam_release_age_days": 7,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -223,117 +163,61 @@
       "comeback_evidence": null,
       "genres": [
         "动作",
-        "冒险",
         "独立",
-        "角色扮演"
+        "大型多人在线",
+        "角色扮演",
+        "抢先体验"
       ],
       "trend": [
         {
-          "date": "2026-07-10",
-          "peak": 264737
-        },
-        {
-          "date": "2026-07-11",
-          "peak": 517612
-        },
-        {
-          "date": "2026-07-12",
-          "peak": 725212
-        },
-        {
-          "date": "2026-07-13",
-          "peak": 855525
-        },
-        {
-          "date": "2026-07-14",
-          "peak": 825513
-        },
-        {
-          "date": "2026-07-15",
-          "peak": 858562
-        },
-        {
           "date": "2026-07-16",
-          "peak": 812133
+          "peak": 15125
         }
       ]
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1623730"
+        "url": "https://store.steampowered.com/app/3767850"
       }
     ],
     "game": {
-      "slug": "palworld",
-      "appid": "1623730",
-      "name": "Palworld",
+      "slug": "spiritvale",
+      "appid": "3767850",
+      "name": "SpiritVale",
       "name_cn": null,
-      "description": "在广阔的世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活，工业生产等，这是一款支持多人游戏模式的全新开放世界生存制作游戏。",
-      "release_date": "2026-07-09",
+      "description": "一款受经典角色扮演游戏启发的基于职业的动作 MMO。探索充满怪物和废墟的支离破碎的世界，建立自己的游戏风格，并与朋友一起进行实时合作战斗。",
+      "release_date": "2026-07-15",
       "genres": [
         "动作",
-        "冒险",
         "独立",
-        "角色扮演"
+        "大型多人在线",
+        "角色扮演",
+        "抢先体验"
       ],
       "tags": [
-        "单人",
         "多人",
-        "合作",
-        "在线合作",
-        "跨平台多人",
-        "Steam 成就",
-        "完全支持控制器",
-        "Steam 集换式卡牌",
-        "Steam 创意工坊",
+        "大型多人在线",
+        "应用内购买",
         "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DualSense 控制器支持",
-        "DualSense 控制器支持",
-        "Steam 云",
-        "家庭共享"
+        "部分支持控制器"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 94.0,
-      "review_total": 438257,
-      "developer": "Pocketpair",
-      "publisher": "Pocketpair",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1784190284",
-      "steam_url": "https://store.steampowered.com/app/1623730",
+      "review_score": "Mixed",
+      "review_ratio": 50.0,
+      "review_total": 1850,
+      "developer": "Baikun Interactive",
+      "publisher": "Baikun Interactive",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767850/7048933d069ef057bcd5571f99b4e2d5b8744b31/header.jpg?t=1784127621",
+      "steam_url": "https://store.steampowered.com/app/3767850",
       "trend": [
         {
-          "date": "2026-07-10",
-          "peak": 264737
-        },
-        {
-          "date": "2026-07-11",
-          "peak": 517612
-        },
-        {
-          "date": "2026-07-12",
-          "peak": 725212
-        },
-        {
-          "date": "2026-07-13",
-          "peak": 855525
-        },
-        {
-          "date": "2026-07-14",
-          "peak": 825513
-        },
-        {
-          "date": "2026-07-15",
-          "peak": 858562
-        },
-        {
           "date": "2026-07-16",
-          "peak": 812133
+          "peak": 15125
         }
       ]
     }
