@@ -30,15 +30,15 @@
       "score_before_multiplier": 35.46,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
+      "repeat_window_star_count": 2,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 2,
+      "total_star_count": 3,
+      "star_appearance_count": 3,
+      "cumulative_star_count": 2,
       "review_ratio": 50.0,
       "review_total": 1850,
       "days_seen": 3,
@@ -76,9 +76,9 @@
       ]
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 3,
+      "prior_count": 2,
+      "repeat_window_prior_count": 2
     },
     "sources": [
       {
@@ -154,15 +154,15 @@
       "score_before_multiplier": 35.46,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
+      "repeat_window_star_count": 2,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 2,
+      "total_star_count": 3,
+      "star_appearance_count": 3,
+      "cumulative_star_count": 2,
       "review_ratio": 50.0,
       "review_total": 1850,
       "days_seen": 3,
@@ -200,9 +200,9 @@
       ]
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 3,
+      "prior_count": 2,
+      "repeat_window_prior_count": 2
     },
     "sources": [
       {
