@@ -10,42 +10,45 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 35.46,
-    "fact_summary": "SpiritVale 今日观测峰值 15,208，较过往最高峰值提升 +1%，被识别为「新作起量」。",
+    "score": 31.25,
+    "fact_summary": "Happy's Humble Burger Cult 今日观测峰值 3,633，较过往最高峰值提升 +118%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 15208,
-      "previous_peak": 15125,
-      "previous_record_peak": 15125,
-      "growth_rate": 0.0055,
-      "record_growth_rate": 0.0055,
-      "scoring_peak": 15208,
+      "current_peak": 3633,
+      "previous_peak": 1663,
+      "previous_record_peak": 1663,
+      "growth_rate": 1.1846,
+      "record_growth_rate": 1.1846,
+      "scoring_peak": 3633,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 18.98,
-      "raw_record_growth_score": 0.19,
-      "growth_score_multiplier": 1.0,
-      "record_growth_score": 0.19,
-      "days_seen_score": 4.29,
+      "peak_score": 6.54,
+      "raw_record_growth_score": 35.0,
+      "growth_score_multiplier": 0.3633,
+      "record_growth_score": 12.72,
+      "days_seen_score": 0.0,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 35.46,
+      "score_before_multiplier": 31.25,
+      "base_score": 31.25,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "repeat_window_star_count": 2,
+      "repeat_window_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 2,
-      "total_star_count": 3,
-      "star_appearance_count": 3,
-      "cumulative_star_count": 2,
-      "review_ratio": 50.0,
-      "review_total": 1850,
-      "days_seen": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 79.0,
+      "review_total": 192,
+      "days_seen": 2,
       "comeback_gap_days": 0,
       "is_new_release": true,
-      "release_age_days": 3,
-      "steam_release_age_days": 3,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -56,76 +59,68 @@
       "genres": [
         "动作",
         "独立",
-        "大型多人在线",
-        "角色扮演",
-        "抢先体验"
+        "模拟"
       ],
       "trend": [
         {
-          "date": "2026-07-16",
-          "peak": 15125
-        },
-        {
           "date": "2026-07-17",
-          "peak": 14281
+          "peak": 1663
         },
         {
           "date": "2026-07-18",
-          "peak": 15208
+          "peak": 3633
         }
       ]
     },
     "star_appearance": {
-      "count": 3,
-      "prior_count": 2,
-      "repeat_window_prior_count": 2
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
-        "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/3767850"
+        "title": "Steam ??",
+        "url": "https://store.steampowered.com/app/3453910"
       }
     ],
     "game": {
-      "slug": "spiritvale",
-      "appid": "3767850",
-      "name": "SpiritVale",
+      "slug": "happy-s-humble-burger-cult",
+      "appid": "3453910",
+      "name": "Happy's Humble Burger Cult",
       "name_cn": null,
-      "description": "一款受经典角色扮演游戏启发的基于职业的动作 MMO。探索充满怪物和废墟的支离破碎的世界，建立自己的游戏风格，并与朋友一起进行实时合作战斗。",
-      "release_date": "2026-07-15",
+      "description": "经典烹饪+恐怖游戏续作正式上线，支持 1-4 人游戏，开启惊险刺激的冒险之旅。制作汉堡，接待顾客，赶在厨房彻底沦为噩梦之前完成营业任务。当乔伊开始狩猎时，务必拼死逃出生天，带上辛苦赚来的报酬，撑过下次轮班挑战。",
+      "release_date": "2026-07-16",
       "genres": [
         "动作",
         "独立",
-        "大型多人在线",
-        "角色扮演",
-        "抢先体验"
+        "模拟"
       ],
       "tags": [
+        "单人",
         "多人",
-        "大型多人在线",
-        "应用内购买",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
         "DUALSHOCK 控制器支持",
-        "部分支持控制器"
+        "DualSense 控制器支持",
+        "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 50.0,
-      "review_total": 1850,
-      "developer": "Baikun Interactive",
-      "publisher": "Baikun Interactive",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767850/7048933d069ef057bcd5571f99b4e2d5b8744b31/header.jpg?t=1784127621",
-      "steam_url": "https://store.steampowered.com/app/3767850",
+      "review_score": "Mostly Positive",
+      "review_ratio": 79.0,
+      "review_total": 192,
+      "developer": "Scythe Dev Team",
+      "publisher": "tinyBuild",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453910/9cc27ec2c690ca34d4440b9ca8eb03e15b963fb1/header.jpg?t=1784365074",
+      "steam_url": "https://store.steampowered.com/app/3453910",
       "trend": [
         {
-          "date": "2026-07-16",
-          "peak": 15125
-        },
-        {
           "date": "2026-07-17",
-          "peak": 14281
+          "peak": 1663
         },
         {
           "date": "2026-07-18",
-          "peak": 15208
+          "peak": 3633
         }
       ]
     }
@@ -134,42 +129,45 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 35.46,
-    "fact_summary": "SpiritVale 今日观测峰值 15,208，较过往最高峰值提升 +1%，被识别为「新作起量」。",
+    "score": 31.25,
+    "fact_summary": "Happy's Humble Burger Cult 今日观测峰值 3,633，较过往最高峰值提升 +118%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 15208,
-      "previous_peak": 15125,
-      "previous_record_peak": 15125,
-      "growth_rate": 0.0055,
-      "record_growth_rate": 0.0055,
-      "scoring_peak": 15208,
+      "current_peak": 3633,
+      "previous_peak": 1663,
+      "previous_record_peak": 1663,
+      "growth_rate": 1.1846,
+      "record_growth_rate": 1.1846,
+      "scoring_peak": 3633,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 18.98,
-      "raw_record_growth_score": 0.19,
-      "growth_score_multiplier": 1.0,
-      "record_growth_score": 0.19,
-      "days_seen_score": 4.29,
+      "peak_score": 6.54,
+      "raw_record_growth_score": 35.0,
+      "growth_score_multiplier": 0.3633,
+      "record_growth_score": 12.72,
+      "days_seen_score": 0.0,
       "signal_type_score": 12.0,
-      "score_before_multiplier": 35.46,
+      "score_before_multiplier": 31.25,
+      "base_score": 31.25,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
-      "repeat_window_star_count": 2,
+      "repeat_window_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 2,
-      "total_star_count": 3,
-      "star_appearance_count": 3,
-      "cumulative_star_count": 2,
-      "review_ratio": 50.0,
-      "review_total": 1850,
-      "days_seen": 3,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 79.0,
+      "review_total": 192,
+      "days_seen": 2,
       "comeback_gap_days": 0,
       "is_new_release": true,
-      "release_age_days": 3,
-      "steam_release_age_days": 3,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
       "release_age_basis": "steam",
       "release_verification_required": false,
       "release_verification": null,
@@ -180,76 +178,68 @@
       "genres": [
         "动作",
         "独立",
-        "大型多人在线",
-        "角色扮演",
-        "抢先体验"
+        "模拟"
       ],
       "trend": [
         {
-          "date": "2026-07-16",
-          "peak": 15125
-        },
-        {
           "date": "2026-07-17",
-          "peak": 14281
+          "peak": 1663
         },
         {
           "date": "2026-07-18",
-          "peak": 15208
+          "peak": 3633
         }
       ]
     },
     "star_appearance": {
-      "count": 3,
-      "prior_count": 2,
-      "repeat_window_prior_count": 2
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
-        "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/3767850"
+        "title": "Steam ??",
+        "url": "https://store.steampowered.com/app/3453910"
       }
     ],
     "game": {
-      "slug": "spiritvale",
-      "appid": "3767850",
-      "name": "SpiritVale",
+      "slug": "happy-s-humble-burger-cult",
+      "appid": "3453910",
+      "name": "Happy's Humble Burger Cult",
       "name_cn": null,
-      "description": "一款受经典角色扮演游戏启发的基于职业的动作 MMO。探索充满怪物和废墟的支离破碎的世界，建立自己的游戏风格，并与朋友一起进行实时合作战斗。",
-      "release_date": "2026-07-15",
+      "description": "经典烹饪+恐怖游戏续作正式上线，支持 1-4 人游戏，开启惊险刺激的冒险之旅。制作汉堡，接待顾客，赶在厨房彻底沦为噩梦之前完成营业任务。当乔伊开始狩猎时，务必拼死逃出生天，带上辛苦赚来的报酬，撑过下次轮班挑战。",
+      "release_date": "2026-07-16",
       "genres": [
         "动作",
         "独立",
-        "大型多人在线",
-        "角色扮演",
-        "抢先体验"
+        "模拟"
       ],
       "tags": [
+        "单人",
         "多人",
-        "大型多人在线",
-        "应用内购买",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
         "DUALSHOCK 控制器支持",
-        "部分支持控制器"
+        "DualSense 控制器支持",
+        "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 50.0,
-      "review_total": 1850,
-      "developer": "Baikun Interactive",
-      "publisher": "Baikun Interactive",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767850/7048933d069ef057bcd5571f99b4e2d5b8744b31/header.jpg?t=1784127621",
-      "steam_url": "https://store.steampowered.com/app/3767850",
+      "review_score": "Mostly Positive",
+      "review_ratio": 79.0,
+      "review_total": 192,
+      "developer": "Scythe Dev Team",
+      "publisher": "tinyBuild",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453910/9cc27ec2c690ca34d4440b9ca8eb03e15b963fb1/header.jpg?t=1784365074",
+      "steam_url": "https://store.steampowered.com/app/3453910",
       "trend": [
         {
-          "date": "2026-07-16",
-          "peak": 15125
-        },
-        {
           "date": "2026-07-17",
-          "peak": 14281
+          "peak": 1663
         },
         {
           "date": "2026-07-18",
-          "peak": 15208
+          "peak": 3633
         }
       ]
     }

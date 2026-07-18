@@ -1,0 +1,41 @@
+{
+  "slug": "happy-s-humble-burger-cult",
+  "appid": "3453910",
+  "name": "Happy's Humble Burger Cult",
+  "name_cn": null,
+  "description": "经典烹饪+恐怖游戏续作正式上线，支持 1-4 人游戏，开启惊险刺激的冒险之旅。制作汉堡，接待顾客，赶在厨房彻底沦为噩梦之前完成营业任务。当乔伊开始狩猎时，务必拼死逃出生天，带上辛苦赚来的报酬，撑过下次轮班挑战。",
+  "release_date": "2026-07-16",
+  "genres": [
+    "动作",
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "家庭共享"
+  ],
+  "review_score": "Mostly Positive",
+  "review_ratio": 79.0,
+  "review_total": 192,
+  "developer": "Scythe Dev Team",
+  "publisher": "tinyBuild",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453910/9cc27ec2c690ca34d4440b9ca8eb03e15b963fb1/header.jpg?t=1784365074",
+  "steam_url": "https://store.steampowered.com/app/3453910",
+  "trend": [
+    {
+      "date": "2026-07-17",
+      "peak": 1663
+    },
+    {
+      "date": "2026-07-18",
+      "peak": 3633
+    }
+  ]
+}

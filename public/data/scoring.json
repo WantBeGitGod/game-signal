@@ -14,8 +14,11 @@
   "record_growth_weight": 35.0,
   "record_growth_cap": 1.0,
   "growth_full_credit_peak": 10000,
-  "days_seen_score_weight": 10.0,
+  "days_seen_score_weight": 0.0,
   "signal_type_score_weight": 10.0,
+  "unstarred_runner_up_bonus_start_days": 3,
+  "unstarred_runner_up_bonus_step": 1.5,
+  "unstarred_runner_up_bonus_cap": 6.0,
   "yesterday_star_score_multiplier": 0.8,
   "cumulative_star_score_multipliers": [
     0.8,
