@@ -1,0 +1,271 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-19",
+  "title": "07.19 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 65.14,
+    "fact_summary": "Strikers Club 今日观测峰值 10,749，较过往最高峰值提升 +140%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 10749,
+      "previous_peak": 4484,
+      "previous_record_peak": 4484,
+      "growth_rate": 1.3972,
+      "record_growth_rate": 1.3972,
+      "scoring_peak": 10749,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.14,
+      "raw_record_growth_score": 35.0,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 35.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 65.14,
+      "base_score": 65.14,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 72.0,
+      "review_total": 905,
+      "days_seen": 2,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "独立",
+        "模拟",
+        "体育",
+        "免费",
+        "抢先体验"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-18",
+          "peak": 4484
+        },
+        {
+          "date": "2026-07-19",
+          "peak": 10749
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1952920"
+      }
+    ],
+    "game": {
+      "slug": "strikers-club",
+      "appid": "1952920",
+      "name": "Strikers Club",
+      "name_cn": null,
+      "description": "Strikers Club 是一款多人足球游戏，您可以作为一名球员进行比赛，并与其他球员进行激烈的比赛。每一步都很重要。掌握运球、传球和投篮，同时与你的团队合作击败对手。",
+      "release_date": "2026-07-17",
+      "genres": [
+        "动作",
+        "独立",
+        "模拟",
+        "体育",
+        "免费",
+        "抢先体验"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "应用内购买",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "部分支持控制器",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 72.0,
+      "review_total": 905,
+      "developer": "Oddshot Games",
+      "publisher": "Oddshot Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952920/134cf5a567b4ee04a70712a786b5a5a4bf536647/header.jpg?t=1784307546",
+      "steam_url": "https://store.steampowered.com/app/1952920",
+      "trend": [
+        {
+          "date": "2026-07-18",
+          "peak": 4484
+        },
+        {
+          "date": "2026-07-19",
+          "peak": 10749
+        }
+      ]
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 65.14,
+    "fact_summary": "Strikers Club 今日观测峰值 10,749，较过往最高峰值提升 +140%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 10749,
+      "previous_peak": 4484,
+      "previous_record_peak": 4484,
+      "growth_rate": 1.3972,
+      "record_growth_rate": 1.3972,
+      "scoring_peak": 10749,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.14,
+      "raw_record_growth_score": 35.0,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 35.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 65.14,
+      "base_score": 65.14,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 72.0,
+      "review_total": 905,
+      "days_seen": 2,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "独立",
+        "模拟",
+        "体育",
+        "免费",
+        "抢先体验"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-18",
+          "peak": 4484
+        },
+        {
+          "date": "2026-07-19",
+          "peak": 10749
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1952920"
+      }
+    ],
+    "game": {
+      "slug": "strikers-club",
+      "appid": "1952920",
+      "name": "Strikers Club",
+      "name_cn": null,
+      "description": "Strikers Club 是一款多人足球游戏，您可以作为一名球员进行比赛，并与其他球员进行激烈的比赛。每一步都很重要。掌握运球、传球和投篮，同时与你的团队合作击败对手。",
+      "release_date": "2026-07-17",
+      "genres": [
+        "动作",
+        "独立",
+        "模拟",
+        "体育",
+        "免费",
+        "抢先体验"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "应用内购买",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "部分支持控制器",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 72.0,
+      "review_total": 905,
+      "developer": "Oddshot Games",
+      "publisher": "Oddshot Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952920/134cf5a567b4ee04a70712a786b5a5a4bf536647/header.jpg?t=1784307546",
+      "steam_url": "https://store.steampowered.com/app/1952920",
+      "trend": [
+        {
+          "date": "2026-07-18",
+          "peak": 4484
+        },
+        {
+          "date": "2026-07-19",
+          "peak": 10749
+        }
+      ]
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
