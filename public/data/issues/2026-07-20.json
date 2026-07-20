@@ -1,0 +1,293 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-20",
+  "title": "07.20 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 32.1,
+    "fact_summary": "Ore Factory Squad ⛏️ 今日观测峰值 8,703，较过往最高峰值提升 +15%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 8703,
+      "previous_peak": 7598,
+      "previous_record_peak": 7598,
+      "growth_rate": 0.1454,
+      "record_growth_rate": 0.1454,
+      "scoring_peak": 8703,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 15.67,
+      "raw_record_growth_score": 5.09,
+      "growth_score_multiplier": 0.8703,
+      "record_growth_score": 4.43,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 32.1,
+      "base_score": 32.1,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 92.0,
+      "review_total": 485,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-17",
+          "peak": 5522
+        },
+        {
+          "date": "2026-07-18",
+          "peak": 6196
+        },
+        {
+          "date": "2026-07-19",
+          "peak": 7598
+        },
+        {
+          "date": "2026-07-20",
+          "peak": 8703
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4210580"
+      }
+    ],
+    "game": {
+      "slug": "ore-factory-squad",
+      "appid": "4210580",
+      "name": "Ore Factory Squad ⛏️",
+      "name_cn": null,
+      "description": "《矿石工厂小队》是一款合作型采矿和工厂建设游戏，核心玩法为程序生成的采矿系统！单人游玩或与朋友一起玩，购买地产，深入挖掘有价值的资源，完成合同，升级并自动化生产线，将你的工厂发展成庞大的工业帝国！",
+      "release_date": "2026-07-16",
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "视角舒适度",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 92.0,
+      "review_total": 485,
+      "developer": "threeW",
+      "publisher": "PlayWay S.A.",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b305646840dc9db685bc40596da7bdaea388c694/header.jpg?t=1784286903",
+      "steam_url": "https://store.steampowered.com/app/4210580",
+      "trend": [
+        {
+          "date": "2026-07-17",
+          "peak": 5522
+        },
+        {
+          "date": "2026-07-18",
+          "peak": 6196
+        },
+        {
+          "date": "2026-07-19",
+          "peak": 7598
+        },
+        {
+          "date": "2026-07-20",
+          "peak": 8703
+        }
+      ]
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 32.1,
+    "fact_summary": "Ore Factory Squad ⛏️ 今日观测峰值 8,703，较过往最高峰值提升 +15%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 8703,
+      "previous_peak": 7598,
+      "previous_record_peak": 7598,
+      "growth_rate": 0.1454,
+      "record_growth_rate": 0.1454,
+      "scoring_peak": 8703,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 15.67,
+      "raw_record_growth_score": 5.09,
+      "growth_score_multiplier": 0.8703,
+      "record_growth_score": 4.43,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 32.1,
+      "base_score": 32.1,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 92.0,
+      "review_total": 485,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-17",
+          "peak": 5522
+        },
+        {
+          "date": "2026-07-18",
+          "peak": 6196
+        },
+        {
+          "date": "2026-07-19",
+          "peak": 7598
+        },
+        {
+          "date": "2026-07-20",
+          "peak": 8703
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4210580"
+      }
+    ],
+    "game": {
+      "slug": "ore-factory-squad",
+      "appid": "4210580",
+      "name": "Ore Factory Squad ⛏️",
+      "name_cn": null,
+      "description": "《矿石工厂小队》是一款合作型采矿和工厂建设游戏，核心玩法为程序生成的采矿系统！单人游玩或与朋友一起玩，购买地产，深入挖掘有价值的资源，完成合同，升级并自动化生产线，将你的工厂发展成庞大的工业帝国！",
+      "release_date": "2026-07-16",
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "视角舒适度",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 92.0,
+      "review_total": 485,
+      "developer": "threeW",
+      "publisher": "PlayWay S.A.",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b305646840dc9db685bc40596da7bdaea388c694/header.jpg?t=1784286903",
+      "steam_url": "https://store.steampowered.com/app/4210580",
+      "trend": [
+        {
+          "date": "2026-07-17",
+          "peak": 5522
+        },
+        {
+          "date": "2026-07-18",
+          "peak": 6196
+        },
+        {
+          "date": "2026-07-19",
+          "peak": 7598
+        },
+        {
+          "date": "2026-07-20",
+          "peak": 8703
+        }
+      ]
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
