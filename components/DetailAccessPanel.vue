@@ -11,7 +11,7 @@
       <article>
         <span>FREE</span>
         <strong>公开摘要</strong>
-        <p>基础事实、趋势片段、Steam 链接和已发布案例入口。</p>
+        <p>基础事实、趋势片段、Steam 链接和已发布 Article 入口。</p>
       </article>
       <article>
         <span>MEMBER / PAID</span>

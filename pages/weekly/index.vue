@@ -3,7 +3,7 @@
     <header class="page-intro case-intro">
       <p class="eyebrow">WEEKLY ISSUES</p>
       <h1>发行人的电子周刊</h1>
-      <p>每周从 Steam 趋势里筛出 5 个发行信号，用完整曲线、案例和团队档案追问：为什么是现在。</p>
+      <p>把一周的今日之星重新排在一起：先看谁稳定出现，再用两篇完整文章回答它为什么值得继续追。</p>
     </header>
     <div v-if="manifest?.issues.length" class="weekly-shelf">
       <NuxtLink v-for="issue in manifest.issues" :key="issue.slug" :to="`/weekly/${issue.slug}`" class="weekly-cover-card">

@@ -123,10 +123,10 @@ export type WeeklySignal = {
   label: string
   score: number
   selection_reason: string
-  metrics: Record<string, number | string | boolean | null | TrendPoint[]>
+  metrics: Record<string, unknown>
   chart_status: string
-  case_selected: boolean
-  case_slug?: string | null
+  article_selected: boolean
+  article_slug?: string | null
   chart_path?: string | null
   game: {
     slug: string

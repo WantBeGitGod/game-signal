@@ -1,77 +1,17 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-16T03:12:49",
-  "latest_weekly": "2026-07-06-week",
+  "generated_at": "2026-07-21T19:17:50",
+  "latest_weekly": "2026-05-15-week",
   "issues": [
-    {
-      "slug": "2026-07-06-week",
-      "issue_number": 7,
-      "week_start": "2026-07-06",
-      "week_end": "2026-07-12",
-      "title": "世界树终于结算！\n海盗重制不靠念旧",
-      "summary": "本期深度案例：Palworld 与 Assassin's Creed Black Flag Resynced，分别对应「持续增长」和「突然爆发」。",
-      "status": "published",
-      "published_at": "2026-07-16 03:12:49"
-    },
-    {
-      "slug": "2026-06-29-week",
-      "issue_number": 6,
-      "week_start": "2026-06-29",
-      "week_end": "2026-07-05",
-      "title": "超市越乱越想整理！\n废柴队伍全靠奶妈续命",
-      "summary": "本期深度案例：Supermarket Chaos 与 Master Healer Kale with useless party，分别对应「新作起量」和「突然爆发」。",
-      "status": "published",
-      "published_at": "2026-07-11 02:42:55"
-    },
-    {
-      "slug": "2026-06-22-week",
-      "issue_number": 5,
-      "week_start": "2026-06-22",
-      "week_end": "2026-06-28",
-      "title": "躲猫猫王朝建立！\n沙漠'盗贼之海'强势来袭",
-      "summary": "本期深度案例：MECCHA CHAMELEON 与 Sand，两个都被识别为「新作起量」。",
-      "status": "published",
-      "published_at": "2026-07-01 00:47:50"
-    },
-    {
-      "slug": "2026-06-15-week",
-      "issue_number": 4,
-      "week_start": "2026-06-15",
-      "week_end": "2026-06-21",
-      "title": "让躲猫猫再次伟大！\n国产佳作终于上线",
-      "summary": "本期深度案例：MECCHA CHAMELEON 与 Lost Castle 2，分别对应「突然爆发」和「新作起量」。",
-      "status": "published",
-      "published_at": "2026-06-22 12:25:31"
-    },
-    {
-      "slug": "2026-06-08-week",
-      "issue_number": 3,
-      "week_start": "2026-06-08",
-      "week_end": "2026-06-15",
-      "title": "经典玩法文艺复兴？\n再创辉煌还是陈年老菜？",
-      "summary": "本期深度案例：Gothic 1 Remake 与 MECCHA CHAMELEON，分别对应「新作起量」和「持续增长」。",
-      "status": "published",
-      "published_at": "2026-06-16 13:40:46"
-    },
-    {
-      "slug": "2026-06-01-week",
-      "issue_number": 2,
-      "week_start": "2026-06-01",
-      "week_end": "2026-06-07",
-      "title": "挂机游戏新篇章？\n光头杀手如何成为007",
-      "summary": "本期深度案例：TBH: Task Bar Hero 与 007 First Light，分别对应「突然爆发」和「新作起量」。",
-      "status": "published",
-      "published_at": "2026-06-07 13:17:32"
-    },
     {
       "slug": "2026-05-15-week",
       "issue_number": 1,
       "week_start": "2026-05-15",
       "week_end": "2026-05-20",
       "title": "深海不止利维坦\n螃蟹也成大怪物",
-      "summary": "本期深度案例：Subnautica 2 与 Everything is Crab，分别对应「新作起量」和「突然爆发」。",
+      "summary": "本期复选文章：Subnautica 2 与 Everything is Crab，分别对应「新作起量」和「突然爆发」。",
       "status": "published",
-      "published_at": "2026-06-07 13:32:09"
+      "published_at": "2026-07-21 19:17:50"
     }
   ],
   "preview": true

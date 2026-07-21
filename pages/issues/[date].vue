@@ -13,7 +13,7 @@
     </section>
     <aside class="source-note">
       <Database :size="20" />
-      <p>公开日更只保留一个今日之星。候选池进入私有编辑包和周刊筛选，经过人工核验后才会成为深度案例。</p>
+      <p>公开日更只保留一个今日之星。候选池进入私有编辑包和周刊复选，只有入选游戏才会获得完整 Article。</p>
     </aside>
   </div>
 </template>

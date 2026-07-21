@@ -17,7 +17,8 @@
     <nav aria-label="主导航">
       <NuxtLink to="/weekly">周刊</NuxtLink>
       <NuxtLink to="/issues">往日之星</NuxtLink>
-      <NuxtLink to="/cases">案例</NuxtLink>
+      <NuxtLink to="/articles">文章</NuxtLink>
+      <NuxtLink to="/cases">游戏档案</NuxtLink>
       <NuxtLink to="/companies">团队</NuxtLink>
     </nav>
     <NuxtLink to="/author" class="icon-link" title="作者">

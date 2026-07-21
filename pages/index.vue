@@ -16,7 +16,7 @@
       </div>
       <p class="star-note">
         今日之星来自规则评分：它降低老游戏和 30 天内重复摘星项目的人数体量优势，但保留增长、口碑背离和发行窗口带来的编辑价值。
-        如果同一游戏连续三天胜出，系统会自动创建私有深度案例草稿。
+        如果同一游戏连续三天胜出，系统会自动锁定一个周刊 Article 名额。
       </p>
     </section>
 
@@ -26,16 +26,16 @@
         <h2 class="editorial-bridge-title">
           <span>榜单告诉你</span>
           <span>发生了什么。</span>
-          <span>案例继续追问，</span>
+          <span>文章继续追问，</span>
           <span>为什么偏偏是现在。</span>
         </h2>
       </div>
       <p>
-        Game Signal 每天只公开一个最值得追问的游戏；每周再把候选池收束成两个深度案例。
+        Game Signal 每天只公开一个最值得追问的游戏；每周再把连续排名收束成两篇完整文章。
         周刊负责解释共同点、差异点和可迁移的发行判断。
       </p>
-      <NuxtLink to="/cases" class="command-link dark">
-        阅读深度案例
+      <NuxtLink to="/articles" class="command-link dark">
+        阅读文章
         <ArrowUpRight :size="18" />
       </NuxtLink>
     </section>

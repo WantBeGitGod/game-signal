@@ -1084,6 +1084,75 @@ a {
   background: var(--paper);
 }
 
+.weekly-coverage-note {
+  width: fit-content;
+  margin-top: 18px !important;
+  padding: 8px 10px;
+  border: 2px solid var(--line);
+  background: var(--paper-bright);
+  font-family: var(--mono);
+  font-size: 12px !important;
+}
+
+.weekly-star-timeline {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 8px;
+  margin-bottom: 30px;
+}
+
+.weekly-star-day {
+  display: flex;
+  min-height: 116px;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 14px;
+  border: 2px solid var(--line);
+  background: var(--acid);
+}
+
+.weekly-star-day span,
+.weekly-star-day small {
+  font-family: var(--mono);
+  font-size: 10px;
+  font-weight: 900;
+}
+
+.weekly-star-day strong {
+  font-family: var(--serif);
+  font-size: 20px;
+  line-height: 1.05;
+  overflow-wrap: anywhere;
+}
+
+.weekly-ranking-table {
+  border-top: 2px solid var(--line);
+  border-left: 2px solid var(--line);
+  background: var(--paper-bright);
+  overflow-x: auto;
+}
+
+.weekly-ranking-row {
+  display: grid;
+  min-width: 780px;
+  grid-template-columns: 70px minmax(240px, 1fr) repeat(5, minmax(76px, 0.35fr));
+}
+
+.weekly-ranking-row > * {
+  padding: 13px 12px;
+  border-right: 2px solid var(--line);
+  border-bottom: 2px solid var(--line);
+  font-weight: 800;
+}
+
+.weekly-ranking-row.is-head {
+  background: var(--line);
+  color: var(--paper-bright);
+  font-family: var(--mono);
+  font-size: 10px;
+  text-transform: uppercase;
+}
+
 .weekly-signal-block {
   display: grid;
   grid-template-columns: 92px minmax(0, 1fr);

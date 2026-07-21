@@ -24,7 +24,7 @@
           <ExternalLink :size="17" />
         </a>
         <NuxtLink v-if="publishedCase" :to="publishedCase._path" class="command-link case-link">
-          查看深度案例
+          查看文章
           <BookOpenText :size="17" />
         </NuxtLink>
         </div>
@@ -49,7 +49,7 @@ const route = useRoute()
 const { data: game } = await useGame(String(route.params.slug))
 if (!game.value) throw createError({ statusCode: 404, statusMessage: "Game not found" })
 const { data: publishedCases } = await useAsyncData("published-game-cases", () =>
-  queryContent("/cases").where({ status: "published" }).find()
+  queryContent("/articles").where({ status: "published" }).find()
 )
 const publishedCase = computed(() =>
   publishedCases.value?.find(item => item.game_appid === game.value?.appid)

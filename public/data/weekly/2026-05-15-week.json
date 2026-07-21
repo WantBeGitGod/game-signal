@@ -1,59 +1,38 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "slug": "2026-05-15-week",
   "issue_number": 1,
   "week_start": "2026-05-15",
   "week_end": "2026-05-20",
   "title": "深海不止利维坦\n螃蟹也成大怪物",
-  "summary": "本期深度案例：Subnautica 2 与 Everything is Crab，分别对应「新作起量」和「突然爆发」。",
+  "summary": "本期复选文章：Subnautica 2 与 Everything is Crab，分别对应「新作起量」和「突然爆发」。",
   "status": "published",
-  "published_at": "2026-06-07 13:32:09",
+  "published_at": "2026-07-21 19:17:50",
   "signals": [
     {
       "rank": 1,
       "signal_type": "new_release_rise",
       "label": "新作起量",
-      "score": 109.54,
-      "selection_reason": "Subnautica 2 上周窗口峰值 467,582，首次进入当前观察窗口，被识别为「新作起量」。",
+      "score": 0.0,
+      "selection_reason": "主编历史复选：第一期未留存每日前五排名，保留同期可核验资料边界，不补算周复选分。",
       "metrics": {
-        "weekly_peak": 467582,
-        "previous_week_peak": 0,
-        "growth_rate": 0,
-        "review_ratio": 92,
-        "review_total": 73533,
-        "days_seen": 5,
-        "is_new_release": true,
-        "genres": [
-          "动作",
-          "冒险",
-          "抢先体验"
-        ],
-        "trend": [
-          {
-            "date": "2026-05-15",
-            "peak": 467582
-          },
-          {
-            "date": "2026-05-16",
-            "peak": 376676
-          },
-          {
-            "date": "2026-05-18",
-            "peak": 326851
-          },
-          {
-            "date": "2026-05-19",
-            "peak": 213101
-          },
-          {
-            "date": "2026-05-20",
-            "peak": 167817
-          }
-        ]
+        "actual_star_count": null,
+        "top_two_days": null,
+        "top_five_days": null,
+        "average_rank": null,
+        "weekly_score": null,
+        "coverage_days": null,
+        "coverage_total_days": 6,
+        "daily_ranks": [],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": null,
+        "historical_daily_ranks_retained": false,
+        "manual_editorial_reconstruction": true
       },
       "chart_status": "ready",
-      "case_selected": true,
-      "case_slug": "subnautica-2",
+      "article_selected": true,
+      "article_slug": "subnautica-2",
       "chart_path": "/data/charts/1962700.json",
       "game": {
         "slug": "subnautica-2",
@@ -63,8 +42,8 @@
         "developer": "Unknown Worlds Entertainment",
         "publisher": "Unknown Worlds Entertainment",
         "release_date": "2026-05-14",
-        "review_ratio": 92,
-        "review_total": 73533,
+        "review_ratio": 92.0,
+        "review_total": 16960,
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/998f14fffb6e9917639ce4ba992c7e9f4a0157b5/header_schinese.jpg?t=1778777511",
         "steam_url": "https://store.steampowered.com/app/1962700"
       }
@@ -73,32 +52,26 @@
       "rank": 2,
       "signal_type": "sudden_breakout",
       "label": "突然爆发",
-      "score": 99.3,
-      "selection_reason": "Everything is Crab 上周窗口峰值 12,865，较前一周窗口变化 +95%，被识别为「突然爆发」。",
+      "score": 0.0,
+      "selection_reason": "主编历史复选：第一期未留存每日前五排名，保留同期可核验资料边界，不补算周复选分。",
       "metrics": {
-        "weekly_peak": 12865,
-        "previous_week_peak": 6601,
-        "growth_rate": 0.9489,
-        "review_ratio": 80,
-        "review_total": 3217,
-        "days_seen": 1,
-        "is_new_release": true,
-        "genres": [
-          "动作",
-          "独立",
-          "模拟",
-          "策略"
-        ],
-        "trend": [
-          {
-            "date": "2026-05-15",
-            "peak": 12865
-          }
-        ]
+        "actual_star_count": null,
+        "top_two_days": null,
+        "top_five_days": null,
+        "average_rank": null,
+        "weekly_score": null,
+        "coverage_days": null,
+        "coverage_total_days": 6,
+        "daily_ranks": [],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": null,
+        "historical_daily_ranks_retained": false,
+        "manual_editorial_reconstruction": true
       },
       "chart_status": "ready",
-      "case_selected": true,
-      "case_slug": "everything-is-crab",
+      "article_selected": true,
+      "article_slug": "everything-is-crab",
       "chart_path": "/data/charts/3526710.json",
       "game": {
         "slug": "everything-is-crab",
@@ -108,8 +81,8 @@
         "developer": "Odd Dreams Digital",
         "publisher": "Secret Mode",
         "release_date": "2026-05-08",
-        "review_ratio": 80,
-        "review_total": 3217,
+        "review_ratio": 80.0,
+        "review_total": 3154,
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526710/c2e89fd394d904bd9d565fbfed51625bb2023526/header_schinese.jpg?t=1778230287",
         "steam_url": "https://store.steampowered.com/app/3526710"
       }
@@ -118,47 +91,27 @@
       "rank": 3,
       "signal_type": "new_release_rise",
       "label": "新作起量",
-      "score": 92.33,
-      "selection_reason": "Game of Thrones Kingsroad 上周窗口峰值 17,224，首次进入当前观察窗口，被识别为「新作起量」。",
+      "score": 0.0,
+      "selection_reason": "第一期历史观察池：每日前五排名未留存，不参与周复选分计算。",
       "metrics": {
-        "weekly_peak": 17224,
-        "previous_week_peak": 0,
-        "growth_rate": 0,
-        "review_ratio": 70,
-        "review_total": 2427,
-        "days_seen": 5,
-        "is_new_release": true,
-        "genres": [
-          "动作",
-          "免费"
-        ],
-        "trend": [
-          {
-            "date": "2026-05-15",
-            "peak": 17224
-          },
-          {
-            "date": "2026-05-16",
-            "peak": 12715
-          },
-          {
-            "date": "2026-05-18",
-            "peak": 12937
-          },
-          {
-            "date": "2026-05-19",
-            "peak": 12289
-          },
-          {
-            "date": "2026-05-20",
-            "peak": 11581
-          }
-        ]
+        "actual_star_count": null,
+        "top_two_days": null,
+        "top_five_days": null,
+        "average_rank": null,
+        "weekly_score": null,
+        "coverage_days": null,
+        "coverage_total_days": 6,
+        "daily_ranks": [],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": null,
+        "historical_daily_ranks_retained": false,
+        "manual_editorial_reconstruction": false
       },
-      "chart_status": "ready",
-      "case_selected": false,
-      "case_slug": null,
-      "chart_path": "/data/charts/4214820.json",
+      "chart_status": "not_required",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
       "game": {
         "slug": "game-of-thrones-kingsroad",
         "appid": "4214820",
@@ -167,8 +120,8 @@
         "developer": "Netmarble Neo",
         "publisher": "Netmarble",
         "release_date": "2026-05-14",
-        "review_ratio": 70,
-        "review_total": 2427,
+        "review_ratio": 76.0,
+        "review_total": 931,
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4214820/ec0d5c522bc0f9bf8e935127725b1b9c2acf3ca0/header.jpg?t=1778835317",
         "steam_url": "https://store.steampowered.com/app/4214820"
       }
@@ -177,39 +130,27 @@
       "rank": 4,
       "signal_type": "new_release_rise",
       "label": "新作起量",
-      "score": 85.11,
-      "selection_reason": "今古群侠传 上周窗口峰值 7,653，首次进入当前观察窗口，被识别为「新作起量」。",
+      "score": 0.0,
+      "selection_reason": "第一期历史观察池：每日前五排名未留存，不参与周复选分计算。",
       "metrics": {
-        "weekly_peak": 7653,
-        "previous_week_peak": 0,
-        "growth_rate": 0,
-        "review_ratio": 63,
-        "review_total": 1028,
-        "days_seen": 3,
-        "is_new_release": true,
-        "genres": [
-          "独立",
-          "角色扮演"
-        ],
-        "trend": [
-          {
-            "date": "2026-05-16",
-            "peak": 7653
-          },
-          {
-            "date": "2026-05-18",
-            "peak": 7391
-          },
-          {
-            "date": "2026-05-19",
-            "peak": 5633
-          }
-        ]
+        "actual_star_count": null,
+        "top_two_days": null,
+        "top_five_days": null,
+        "average_rank": null,
+        "weekly_score": null,
+        "coverage_days": null,
+        "coverage_total_days": 6,
+        "daily_ranks": [],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": null,
+        "historical_daily_ranks_retained": false,
+        "manual_editorial_reconstruction": false
       },
-      "chart_status": "ready",
-      "case_selected": false,
-      "case_slug": null,
-      "chart_path": "/data/charts/3313720.json",
+      "chart_status": "not_required",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
       "game": {
         "slug": "case",
         "appid": "3313720",
@@ -218,7 +159,7 @@
         "developer": "金十四工作室",
         "publisher": "噪点游戏 SERICA GAMES",
         "release_date": "2026-05-14",
-        "review_ratio": 63,
+        "review_ratio": 63.0,
         "review_total": 1028,
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3313720/07a461558451f3cbbc1e7e7a9c21b7e0186bdb5a/header_schinese.jpg?t=1778812686",
         "steam_url": "https://store.steampowered.com/app/3313720"
@@ -228,41 +169,27 @@
       "rank": 5,
       "signal_type": "new_release_rise",
       "label": "新作起量",
-      "score": 83.98,
-      "selection_reason": "Space Haven 上周窗口峰值 6,160，首次进入当前观察窗口，被识别为「新作起量」。",
+      "score": 0.0,
+      "selection_reason": "第一期历史观察池：每日前五排名未留存，不参与周复选分计算。",
       "metrics": {
-        "weekly_peak": 6160,
-        "previous_week_peak": 0,
-        "growth_rate": 0,
-        "review_ratio": 86,
-        "review_total": 10214,
-        "days_seen": 3,
-        "is_new_release": true,
-        "genres": [
-          "独立",
-          "角色扮演",
-          "模拟",
-          "策略"
-        ],
-        "trend": [
-          {
-            "date": "2026-05-18",
-            "peak": 6160
-          },
-          {
-            "date": "2026-05-19",
-            "peak": 5353
-          },
-          {
-            "date": "2026-05-20",
-            "peak": 5426
-          }
-        ]
+        "actual_star_count": null,
+        "top_two_days": null,
+        "top_five_days": null,
+        "average_rank": null,
+        "weekly_score": null,
+        "coverage_days": null,
+        "coverage_total_days": 6,
+        "daily_ranks": [],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": null,
+        "historical_daily_ranks_retained": false,
+        "manual_editorial_reconstruction": false
       },
-      "chart_status": "ready",
-      "case_selected": false,
-      "case_slug": null,
-      "chart_path": "/data/charts/979110.json",
+      "chart_status": "not_required",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
       "game": {
         "slug": "space-haven",
         "appid": "979110",
@@ -271,7 +198,7 @@
         "developer": "Bugbyte Ltd.",
         "publisher": "Bugbyte Ltd.",
         "release_date": "2026-05-13",
-        "review_ratio": 86,
+        "review_ratio": 86.0,
         "review_total": 10214,
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/979110/73529f7afc14ec281cad99fe0284cbed06c552f0/header.jpg?t=1778684449",
         "steam_url": "https://store.steampowered.com/app/979110"

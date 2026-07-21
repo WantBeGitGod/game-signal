@@ -18,6 +18,13 @@ const gameRoutes = existsSync(gamesRoot)
       .filter(file => file.endsWith(".json"))
       .map(file => `/games/${file.replace(/\.json$/, "")}`)
   : []
+const articlesRoot = resolve(process.cwd(), "content", "articles")
+const articleRoutes = existsSync(articlesRoot)
+  ? readdirSync(articlesRoot)
+      .filter(file => file.endsWith(".md"))
+      .map(file => `/articles/${file.replace(/\.md$/, "")}`)
+  : []
+const legacyCaseRoutes = articleRoutes.map(route => route.replace("/articles/", "/cases/"))
 
 export default defineNuxtConfig({
   compatibilityDate: "2025-01-01",
@@ -59,6 +66,7 @@ export default defineNuxtConfig({
         "/",
         "/weekly",
         "/issues",
+        "/articles",
         "/cases",
         "/companies",
         "/methodology",
@@ -66,7 +74,9 @@ export default defineNuxtConfig({
         "/author",
         ...weeklyRoutes,
         ...issueRoutes,
-        ...gameRoutes
+        ...gameRoutes,
+        ...articleRoutes,
+        ...legacyCaseRoutes
       ]
     }
   },
