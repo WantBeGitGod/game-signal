@@ -1,8 +1,18 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-21T19:18:16",
-  "latest_weekly": "2026-05-15-week",
+  "generated_at": "2026-07-21T19:18:27",
+  "latest_weekly": "2026-06-01-week",
   "issues": [
+    {
+      "slug": "2026-06-01-week",
+      "issue_number": 2,
+      "week_start": "2026-06-01",
+      "week_end": "2026-06-07",
+      "title": "新作窗口开始挤了：谁能把首周热度留住？",
+      "summary": "本期复选文章：TBH: Task Bar Hero 与 Fortune Mill，两个都被识别为「新作起量」。",
+      "status": "published",
+      "published_at": "2026-07-21 19:18:27"
+    },
     {
       "slug": "2026-05-15-week",
       "issue_number": 1,

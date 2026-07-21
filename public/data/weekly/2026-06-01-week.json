@@ -1,52 +1,52 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "slug": "2026-06-01-week",
   "issue_number": 2,
   "week_start": "2026-06-01",
   "week_end": "2026-06-07",
-  "title": "挂机游戏新篇章？\n光头杀手如何成为007",
-  "summary": "本期深度案例：TBH: Task Bar Hero 与 007 First Light，分别对应「突然爆发」和「新作起量」。",
+  "title": "新作窗口开始挤了：谁能把首周热度留住？",
+  "summary": "本期复选文章：TBH: Task Bar Hero 与 Fortune Mill，两个都被识别为「新作起量」。",
   "status": "published",
-  "published_at": "2026-06-07 13:17:32",
+  "published_at": "2026-07-21 19:18:27",
   "signals": [
     {
       "rank": 1,
-      "signal_type": "sudden_breakout",
-      "label": "突然爆发",
-      "score": 113.69,
-      "selection_reason": "TBH: Task Bar Hero 上周窗口峰值 215,879，较前一周窗口变化 +62%，被识别为「突然爆发」。",
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 24.0,
+      "selection_reason": "TBH: Task Bar Hero 在 5 个已保存日榜中进入前五 3 天、前二 3 天，实际摘星 3 次，周复选分 24。",
       "metrics": {
-        "weekly_peak": 215879,
-        "previous_week_peak": 133408,
-        "growth_rate": 0.6182,
-        "review_ratio": 51,
-        "review_total": 7927,
-        "days_seen": 3,
-        "is_new_release": true,
-        "genres": [
-          "休闲",
-          "独立",
-          "角色扮演",
-          "免费"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-01",
-            "peak": 145268
-          },
-          {
-            "date": "2026-06-02",
-            "peak": 176259
-          },
+        "actual_star_count": 3,
+        "top_two_days": 3,
+        "top_five_days": 3,
+        "average_rank": 1.0,
+        "weekly_score": 24,
+        "coverage_days": 5,
+        "coverage_total_days": 7,
+        "daily_ranks": [
           {
             "date": "2026-06-03",
-            "peak": 215879
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-06-04",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-06-05",
+            "rank": 1,
+            "actual_star": true
           }
-        ]
+        ],
+        "triple_star": true,
+        "triple_star_date": "2026-06-05",
+        "last_appearance": "2026-06-05"
       },
       "chart_status": "ready",
-      "case_selected": true,
-      "case_slug": "tbh-task-bar-hero",
+      "article_selected": true,
+      "article_slug": "tbh-task-bar-hero",
       "chart_path": "/data/charts/3678970.json",
       "game": {
         "slug": "tbh-task-bar-hero",
@@ -56,8 +56,8 @@
         "developer": "Nugem Studio, Tesseract Studio",
         "publisher": "Nugem Studio",
         "release_date": "2026-05-27",
-        "review_ratio": 51,
-        "review_total": 7927,
+        "review_ratio": 37.0,
+        "review_total": 16555,
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg?t=1780112834",
         "steam_url": "https://store.steampowered.com/app/3678970"
       }
@@ -66,179 +66,104 @@
       "rank": 2,
       "signal_type": "new_release_rise",
       "label": "新作起量",
-      "score": 95.35,
-      "selection_reason": "007 First Light 上周窗口峰值 71,073，较前一周窗口变化 +1%，被识别为「新作起量」。",
+      "score": 14.0,
+      "selection_reason": "Fortune Mill 在 5 个已保存日榜中进入前五 5 天、前二 1 天，实际摘星 0 次，周复选分 14。",
       "metrics": {
-        "weekly_peak": 71073,
-        "previous_week_peak": 70141,
-        "growth_rate": 0.0133,
-        "review_ratio": 93,
-        "review_total": 21667,
-        "days_seen": 2,
-        "is_new_release": true,
-        "genres": [
-          "动作",
-          "冒险"
-        ],
-        "trend": [
+        "actual_star_count": 0,
+        "top_two_days": 1,
+        "top_five_days": 5,
+        "average_rank": 3.2,
+        "weekly_score": 14,
+        "coverage_days": 5,
+        "coverage_total_days": 7,
+        "daily_ranks": [
           {
-            "date": "2026-06-01",
-            "peak": 71073
+            "date": "2026-06-03",
+            "rank": 3,
+            "actual_star": false
           },
           {
-            "date": "2026-06-02",
-            "peak": 46272
+            "date": "2026-06-04",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-06-05",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-06-06",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-06-07",
+            "rank": 2,
+            "actual_star": false
           }
-        ]
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-06-07"
       },
       "chart_status": "ready",
-      "case_selected": true,
-      "case_slug": "007-first-light",
-      "chart_path": "/data/charts/3768760.json",
+      "article_selected": true,
+      "article_slug": "fortune-mill",
+      "chart_path": "/data/charts/4731620.json",
       "game": {
-        "slug": "007-first-light",
-        "appid": "3768760",
-        "name": "007 First Light",
-        "description": "赢得编号。007 初露锋芒 是IO Interactive出品的惊险刺激的间谍动作冒险游戏。跟随年轻、机智但偶尔鲁莽的詹姆斯·邦德的脚步，他是军情六处训练项目中的新兵，一起探索这位世界最著名间谍的起源故事。",
-        "developer": "IO Interactive A/S",
-        "publisher": "IO Interactive A/S",
-        "release_date": "2026-05-26",
-        "review_ratio": 93,
-        "review_total": 21667,
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/ed212e7615947389b4eb0783ebbf7fc726839893/header_schinese.jpg?t=1780344100",
-        "steam_url": "https://store.steampowered.com/app/3768760"
+        "slug": "fortune-mill",
+        "appid": "4731620",
+        "name": "Fortune Mill",
+        "description": "在这款增量游戏中，你必须在每个房间赚到$1,000,000才能逃出该房间。投掷飞镖、玩刮刮乐彩票、解锁自动化，并谨慎选择升级，因为每个房间都会影响所有其他房间。你能逃出财富磨坊吗？",
+        "developer": "Lavaflame2",
+        "publisher": "Lavaflame2",
+        "release_date": "2026-06-02",
+        "review_ratio": 83.0,
+        "review_total": 1359,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1780959523",
+        "steam_url": "https://store.steampowered.com/app/4731620"
       }
     },
     {
       "rank": 3,
       "signal_type": "new_release_rise",
       "label": "新作起量",
-      "score": 93.51,
-      "selection_reason": "Romestead 上周窗口峰值 37,047，较前一周窗口变化 +17%，被识别为「新作起量」。",
+      "score": 12.0,
+      "selection_reason": "Mina the Hollower 在 5 个已保存日榜中进入前五 3 天、前二 3 天，实际摘星 0 次，周复选分 12。",
       "metrics": {
-        "weekly_peak": 37047,
-        "previous_week_peak": 31706,
-        "growth_rate": 0.1685,
-        "review_ratio": 75,
-        "review_total": 1821,
-        "days_seen": 2,
-        "is_new_release": true,
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "角色扮演",
-          "抢先体验"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-01",
-            "peak": 37047
-          },
-          {
-            "date": "2026-06-02",
-            "peak": 35138
-          }
-        ]
-      },
-      "chart_status": "ready",
-      "case_selected": false,
-      "case_slug": null,
-      "chart_path": "/data/charts/1805320.json",
-      "game": {
-        "slug": "romestead",
-        "appid": "1805320",
-        "name": "Romestead",
-        "description": "罗马已然陨落！但是这不影响你白天种田搞搞基建，晚上开荒刷刷僵尸。你可以享受单人的惬意时光，没事陪一下罗马的神明，抑或是和你的最多7位朋友们共同享受共同经营的乐趣！",
-        "developer": "Beartwigs",
-        "publisher": "Three Friends",
-        "release_date": "2026-05-25",
-        "review_ratio": 75,
-        "review_total": 1821,
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805320/7b4b95bbd6b67e283a8dfe36e9a9f64c3ca62036/header_schinese.jpg?t=1780391053",
-        "steam_url": "https://store.steampowered.com/app/1805320"
-      }
-    },
-    {
-      "rank": 4,
-      "signal_type": "new_release_rise",
-      "label": "新作起量",
-      "score": 91.78,
-      "selection_reason": "Paralives 上周窗口峰值 45,675，较前一周窗口变化 +4%，被识别为「新作起量」。",
-      "metrics": {
-        "weekly_peak": 45675,
-        "previous_week_peak": 44068,
-        "growth_rate": 0.0365,
-        "review_ratio": 90,
-        "review_total": 12028,
-        "days_seen": 1,
-        "is_new_release": true,
-        "genres": [
-          "模拟",
-          "抢先体验"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-01",
-            "peak": 45675
-          }
-        ]
-      },
-      "chart_status": "ready",
-      "case_selected": false,
-      "case_slug": null,
-      "chart_path": "/data/charts/1118520.json",
-      "game": {
-        "slug": "paralives",
-        "appid": "1118520",
-        "name": "Paralives",
-        "description": "《平行人生》是一款围绕“家、人生与羁绊”展开的生活模拟游戏。无论顺境逆境，你的故事，会走向何方？",
-        "developer": "Alex Massé and team",
-        "publisher": "Paralives Studio",
-        "release_date": "2026-05-25",
-        "review_ratio": 90,
-        "review_total": 12028,
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1118520/277ab7a2ad1bbce0f4837bb37a3c86d109bd5258/header.jpg?t=1779721278",
-        "steam_url": "https://store.steampowered.com/app/1118520"
-      }
-    },
-    {
-      "rank": 5,
-      "signal_type": "new_release_rise",
-      "label": "新作起量",
-      "score": 88.88,
-      "selection_reason": "Mina the Hollower 上周窗口峰值 12,916，较前一周窗口变化 +10%，被识别为「新作起量」。",
-      "metrics": {
-        "weekly_peak": 12916,
-        "previous_week_peak": 11690,
-        "growth_rate": 0.1049,
-        "review_ratio": 87,
-        "review_total": 3235,
-        "days_seen": 3,
-        "is_new_release": true,
-        "genres": [
-          "动作",
-          "冒险"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-01",
-            "peak": 12916
-          },
-          {
-            "date": "2026-06-02",
-            "peak": 10887
-          },
+        "actual_star_count": 0,
+        "top_two_days": 3,
+        "top_five_days": 3,
+        "average_rank": 2.0,
+        "weekly_score": 12,
+        "coverage_days": 5,
+        "coverage_total_days": 7,
+        "daily_ranks": [
           {
             "date": "2026-06-03",
-            "peak": 9637
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-06-04",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-06-05",
+            "rank": 2,
+            "actual_star": false
           }
-        ]
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-06-05"
       },
-      "chart_status": "ready",
-      "case_selected": false,
-      "case_slug": null,
-      "chart_path": "/data/charts/1875580.json",
+      "chart_status": "not_required",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
       "game": {
         "slug": "mina-the-hollower",
         "appid": "1875580",
@@ -247,10 +172,101 @@
         "developer": "Yacht Club Games",
         "publisher": "Yacht Club Games",
         "release_date": "2026-05-28",
-        "review_ratio": 87,
-        "review_total": 3235,
+        "review_ratio": 88.0,
+        "review_total": 3824,
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875580/368fcff2cd8f5ef01c5a89060a49f9a333076a87/header.jpg?t=1780266529",
         "steam_url": "https://store.steampowered.com/app/1875580"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 11.0,
+      "selection_reason": "Gothic 1 Remake 在 5 个已保存日榜中进入前五 2 天、前二 1 天，实际摘星 1 次，周复选分 11。",
+      "metrics": {
+        "actual_star_count": 1,
+        "top_two_days": 1,
+        "top_five_days": 2,
+        "average_rank": 2.0,
+        "weekly_score": 11,
+        "coverage_days": 5,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-06-06",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-06-07",
+            "rank": 3,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-06-07"
+      },
+      "chart_status": "not_required",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
+      "game": {
+        "slug": "gothic-1-remake",
+        "appid": "1297900",
+        "name": "Gothic 1 Remake",
+        "description": "传奇归来——在这款定义了一个类别的经典角色扮演游戏的忠实重制版中，重返采矿之谷。探索一个手把手打造的、栩栩如生的开放世界，这个世界会对您的各种行动做出动态反应，为您带来无与伦比、不受拘束的体验。",
+        "developer": "Alkimia Interactive",
+        "publisher": "Alkimia Interactive, THQ Nordic",
+        "release_date": "2026-06-05",
+        "review_ratio": 88.0,
+        "review_total": 24951,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1780965412",
+        "steam_url": "https://store.steampowered.com/app/1297900"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 8.0,
+      "selection_reason": "Sand Playtest 在 5 个已保存日榜中进入前五 1 天、前二 1 天，实际摘星 1 次，周复选分 8。",
+      "metrics": {
+        "actual_star_count": 1,
+        "top_two_days": 1,
+        "top_five_days": 1,
+        "average_rank": 1.0,
+        "weekly_score": 8,
+        "coverage_days": 5,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-06-07",
+            "rank": 1,
+            "actual_star": true
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-06-07"
+      },
+      "chart_status": "not_required",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
+      "game": {
+        "slug": "sand-playtest",
+        "appid": "2981610",
+        "name": "Sand Playtest",
+        "description": "",
+        "developer": "",
+        "publisher": "",
+        "release_date": "2026-05-14",
+        "review_ratio": 57.0,
+        "review_total": 673,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2981610/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1780658196",
+        "steam_url": "https://store.steampowered.com/app/2981610"
       }
     }
   ]
