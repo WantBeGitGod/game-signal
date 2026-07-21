@@ -1,10 +1,6 @@
 <template>
   <article class="signal-card">
     <div class="signal-card-index">{{ String(signal.rank).padStart(2, "0") }}</div>
-    <div class="signal-card-media">
-      <img v-if="signal.game.cover_image_url" :src="signal.game.cover_image_url" :alt="displayGameName(signal.game)" />
-      <div v-else class="media-placeholder">{{ displayGameName(signal.game).slice(0, 2) }}</div>
-    </div>
     <div class="signal-card-copy">
       <div class="signal-card-meta">
         <SignalTag :type="signal.type" :label="signal.label" />

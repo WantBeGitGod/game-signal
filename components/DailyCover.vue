@@ -15,7 +15,6 @@
         />
         <span class="feature-game-credit">TODAY'S STAR / STEAM STORE ART</span>
       </div>
-      <span class="data-cover-stamp">DATA COVER<br />AWAITING ART</span>
     </div>
     <div class="daily-cover-copy">
       <div class="cover-kicker">
