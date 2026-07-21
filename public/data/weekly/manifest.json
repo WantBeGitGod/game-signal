@@ -1,8 +1,18 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-21T19:18:35",
-  "latest_weekly": "2026-06-15-week",
+  "generated_at": "2026-07-21T19:18:39",
+  "latest_weekly": "2026-06-22-week",
   "issues": [
+    {
+      "slug": "2026-06-22-week",
+      "issue_number": 5,
+      "week_start": "2026-06-22",
+      "week_end": "2026-06-28",
+      "title": "新作窗口开始挤了：谁能把首周热度留住？",
+      "summary": "本期复选文章：Sand 与 BOMBANANA! Demo，两个都被识别为「新作起量」。",
+      "status": "published",
+      "published_at": "2026-07-21 19:18:39"
+    },
     {
       "slug": "2026-06-15-week",
       "issue_number": 4,

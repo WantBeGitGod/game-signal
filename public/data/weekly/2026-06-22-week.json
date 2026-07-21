@@ -1,111 +1,62 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
   "slug": "2026-06-22-week",
   "issue_number": 5,
   "week_start": "2026-06-22",
   "week_end": "2026-06-28",
-  "title": "躲猫猫王朝建立！\n沙漠'盗贼之海'强势来袭",
-  "summary": "本期深度案例：MECCHA CHAMELEON 与 Sand，两个都被识别为「新作起量」。",
+  "title": "新作窗口开始挤了：谁能把首周热度留住？",
+  "summary": "本期复选文章：Sand 与 BOMBANANA! Demo，两个都被识别为「新作起量」。",
   "status": "published",
-  "published_at": "2026-07-01 00:47:50",
+  "published_at": "2026-07-21 19:18:39",
   "signals": [
     {
       "rank": 1,
       "signal_type": "new_release_rise",
       "label": "新作起量",
-      "score": 103.54,
-      "selection_reason": "MECCHA CHAMELEON 上周窗口峰值 340,534，较前一周窗口变化 +17%，被识别为「新作起量」。",
+      "score": 32.0,
+      "selection_reason": "Sand 在 7 个已保存日榜中进入前五 5 天、前二 5 天，实际摘星 3 次，周复选分 32。",
       "metrics": {
-        "weekly_peak": 340534,
-        "previous_week_peak": 292248,
-        "growth_rate": 0.1652,
-        "scoring_peak": 340534.0,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "review_ratio": 82.0,
-        "review_total": 18459,
-        "days_seen": 1,
-        "is_new_release": true,
-        "genres": [
-          "休闲"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-22",
-            "peak": 340534
-          }
-        ]
-      },
-      "chart_status": "ready",
-      "case_selected": true,
-      "case_slug": "meccha-chameleon",
-      "chart_path": "/data/charts/4704690.json",
-      "game": {
-        "slug": "meccha-chameleon",
-        "appid": "4704690",
-        "name": "MECCHA CHAMELEON",
-        "description": "把自己涂满颜色，融入背景吧！《Meccha Chameleon》是一款全新感觉的捉迷藏游戏，玩家需要在自己纯白的身体上绘图以拟态成关卡中的样子。躲藏地点、姿势，以及最重要的“画功”是生存的关键。用连变色龙都自愧不如的技术欺骗追捕者的眼睛，在时限内逃出生天吧！您还可以轻松享受随机匹配或观众参与型直播。",
-        "developer": "lemorion_1224",
-        "publisher": "lemorion_1224",
-        "release_date": "2026-06-09",
-        "review_ratio": 82.0,
-        "review_total": 18459,
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
-        "steam_url": "https://store.steampowered.com/app/4704690"
-      }
-    },
-    {
-      "rank": 2,
-      "signal_type": "new_release_rise",
-      "label": "新作起量",
-      "score": 97.02,
-      "selection_reason": "Sand 上周窗口峰值 31,756，首次进入当前观察窗口，被识别为「新作起量」。",
-      "metrics": {
-        "weekly_peak": 31756,
-        "previous_week_peak": 0,
-        "growth_rate": 0.0,
-        "scoring_peak": 31756.0,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "review_ratio": 57.0,
-        "review_total": 3927,
-        "days_seen": 6,
-        "is_new_release": true,
-        "genres": [
-          "动作",
-          "冒险",
-          "抢先体验"
-        ],
-        "trend": [
+        "actual_star_count": 3,
+        "top_two_days": 5,
+        "top_five_days": 5,
+        "average_rank": 1.4,
+        "weekly_score": 32,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
           {
             "date": "2026-06-23",
-            "peak": 15703
+            "rank": 2,
+            "actual_star": false
           },
           {
             "date": "2026-06-24",
-            "peak": 13358
+            "rank": 1,
+            "actual_star": true
           },
           {
             "date": "2026-06-25",
-            "peak": 13882
+            "rank": 2,
+            "actual_star": false
           },
           {
             "date": "2026-06-26",
-            "peak": 15627
+            "rank": 1,
+            "actual_star": true
           },
           {
             "date": "2026-06-27",
-            "peak": 21659
-          },
-          {
-            "date": "2026-06-28",
-            "peak": 31756
+            "rank": 1,
+            "actual_star": true
           }
-        ]
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-06-27"
       },
       "chart_status": "ready",
-      "case_selected": true,
-      "case_slug": "sand",
+      "article_selected": true,
+      "article_slug": "sand",
       "chart_path": "/data/charts/1431300.json",
       "game": {
         "slug": "sand",
@@ -115,117 +66,55 @@
         "developer": "Hologryph, TowerHaus",
         "publisher": "tinyBuild",
         "release_date": "2026-06-22",
-        "review_ratio": 55.0,
-        "review_total": 4987,
+        "review_ratio": 54.0,
+        "review_total": 7816,
         "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
         "steam_url": "https://store.steampowered.com/app/1431300"
       }
     },
     {
-      "rank": 3,
+      "rank": 2,
       "signal_type": "new_release_rise",
       "label": "新作起量",
-      "score": 92.14,
-      "selection_reason": "The Scroll of Taiwu : Beyond The Dome 上周窗口峰值 29,493，较前一周窗口变化 -42%，被识别为「新作起量」。",
+      "score": 24.0,
+      "selection_reason": "BOMBANANA! Demo 在 7 个已保存日榜中进入前五 4 天、前二 4 天，实际摘星 2 次，周复选分 24。",
       "metrics": {
-        "weekly_peak": 29493,
-        "previous_week_peak": 51039,
-        "growth_rate": -0.4221,
-        "scoring_peak": 29493.0,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "review_ratio": 68.0,
-        "review_total": 66410,
-        "days_seen": 3,
-        "is_new_release": true,
-        "genres": [
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演",
-          "策略"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-22",
-            "peak": 29493
-          },
+        "actual_star_count": 2,
+        "top_two_days": 4,
+        "top_five_days": 4,
+        "average_rank": 1.5,
+        "weekly_score": 24,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
           {
             "date": "2026-06-23",
-            "peak": 27640
+            "rank": 1,
+            "actual_star": true
           },
           {
             "date": "2026-06-24",
-            "peak": 19695
-          }
-        ]
-      },
-      "chart_status": "ready",
-      "case_selected": false,
-      "case_slug": null,
-      "chart_path": "/data/charts/838350.json",
-      "game": {
-        "slug": "the-scroll-of-taiwu-beyond-the-dome",
-        "appid": "838350",
-        "name": "The Scroll of Taiwu : Beyond The Dome",
-        "description": "《太吾绘卷》是一款以神话和武侠为题材的独立游戏。玩家将扮演神秘的“太吾氏传人”，在以古代中华神州为背景的架空世界中，通过一代又一代传人的努力和牺牲，最终击败强大的宿敌，决定人世的命运。",
-        "developer": "ConchShip Games",
-        "publisher": "ConchShip Games",
-        "release_date": "2026-06-16",
-        "review_ratio": 68.0,
-        "review_total": 66410,
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782113702",
-        "steam_url": "https://store.steampowered.com/app/838350"
-      }
-    },
-    {
-      "rank": 4,
-      "signal_type": "new_release_rise",
-      "label": "新作起量",
-      "score": 91.06,
-      "selection_reason": "BOMBANANA! Demo 上周窗口峰值 10,343，较前一周窗口变化 +14%，被识别为「新作起量」。",
-      "metrics": {
-        "weekly_peak": 10343,
-        "previous_week_peak": 9088,
-        "growth_rate": 0.1381,
-        "scoring_peak": 10343.0,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "review_ratio": 98.0,
-        "review_total": 1498,
-        "days_seen": 5,
-        "is_new_release": true,
-        "genres": [
-          "休闲",
-          "独立",
-          "策略"
-        ],
-        "trend": [
-          {
-            "date": "2026-06-22",
-            "peak": 6328
-          },
-          {
-            "date": "2026-06-23",
-            "peak": 10343
-          },
-          {
-            "date": "2026-06-24",
-            "peak": 9806
+            "rank": 2,
+            "actual_star": false
           },
           {
             "date": "2026-06-25",
-            "peak": 9835
+            "rank": 1,
+            "actual_star": true
           },
           {
             "date": "2026-06-26",
-            "peak": 9502
+            "rank": 2,
+            "actual_star": false
           }
-        ]
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-06-26"
       },
       "chart_status": "ready",
-      "case_selected": false,
-      "case_slug": null,
+      "article_selected": true,
+      "article_slug": "bombanana-demo",
       "chart_path": "/data/charts/4747510.json",
       "game": {
         "slug": "bombanana-demo",
@@ -242,51 +131,172 @@
       }
     },
     {
+      "rank": 3,
+      "signal_type": "content_update_comeback",
+      "label": "内容更新回归",
+      "score": 20.0,
+      "selection_reason": "Fellowship 在 7 个已保存日榜中进入前五 6 天、前二 2 天，实际摘星 1 次，周复选分 20。",
+      "metrics": {
+        "actual_star_count": 1,
+        "top_two_days": 2,
+        "top_five_days": 6,
+        "average_rank": 3.17,
+        "weekly_score": 20,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-06-23",
+            "rank": 5,
+            "actual_star": false
+          },
+          {
+            "date": "2026-06-24",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-06-25",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-06-26",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-06-27",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-06-28",
+            "rank": 1,
+            "actual_star": true
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-06-28"
+      },
+      "chart_status": "not_required",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
+      "game": {
+        "slug": "fellowship",
+        "appid": "2352620",
+        "name": "Fellowship",
+        "description": "《秘境战盟》是一款多人在线地下城冒险游戏，背景设定在一个激动人心的奇幻世界中，拥有无限升级的地下城挑战。",
+        "developer": "Chief Rebel",
+        "publisher": "Coffee Stain Publishing, Arc Games",
+        "release_date": "2025-10-16",
+        "review_ratio": 75.0,
+        "review_total": 17040,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2352620/84990f2cebb8a836229b318d194160d823d67cd8/header_alt_assets_2.jpg?t=1782140326",
+        "steam_url": "https://store.steampowered.com/app/2352620"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 12.0,
+      "selection_reason": "Orb of Creation 在 7 个已保存日榜中进入前五 4 天、前二 1 天，实际摘星 0 次，周复选分 12。",
+      "metrics": {
+        "actual_star_count": 0,
+        "top_two_days": 1,
+        "top_five_days": 4,
+        "average_rank": 3.0,
+        "weekly_score": 12,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-06-25",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-06-26",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-06-27",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-06-28",
+            "rank": 2,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-06-28"
+      },
+      "chart_status": "not_required",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
+      "game": {
+        "slug": "orb-of-creation",
+        "appid": "1910680",
+        "name": "Orb of Creation",
+        "description": "Orb of Creation 是一款非闲置的增量益智游戏，您只需使用魔法和独创性即可重新创造世界。召唤资源，购买升级，成为全能的巫师！",
+        "developer": "MarpleGames",
+        "publisher": "MarpleGames",
+        "release_date": "2026-06-23",
+        "review_ratio": 87.0,
+        "review_total": 1961,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910680/28cbe4a8420b96a025958a161203b5603a17daed/header.jpg?t=1782342864",
+        "steam_url": "https://store.steampowered.com/app/1910680"
+      }
+    },
+    {
       "rank": 5,
       "signal_type": "new_release_rise",
       "label": "新作起量",
-      "score": 88.87,
-      "selection_reason": "Lost Castle 2 上周窗口峰值 28,005，较前一周窗口变化 -3%，被识别为「新作起量」。",
+      "score": 8.0,
+      "selection_reason": "SpaceCraft 在 7 个已保存日榜中进入前五 1 天、前二 1 天，实际摘星 1 次，周复选分 8。",
       "metrics": {
-        "weekly_peak": 28005,
-        "previous_week_peak": 28835,
-        "growth_rate": -0.0288,
-        "scoring_peak": 28005.0,
-        "player_discount": 1.0,
-        "discount_reasons": [],
-        "review_ratio": 78.0,
-        "review_total": 12095,
-        "days_seen": 1,
-        "is_new_release": true,
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "角色扮演"
-        ],
-        "trend": [
+        "actual_star_count": 1,
+        "top_two_days": 1,
+        "top_five_days": 1,
+        "average_rank": 1.0,
+        "weekly_score": 8,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
           {
             "date": "2026-06-22",
-            "peak": 28005
+            "rank": 1,
+            "actual_star": true
           }
-        ]
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-06-22"
       },
-      "chart_status": "ready",
-      "case_selected": false,
-      "case_slug": null,
-      "chart_path": "/data/charts/2445690.json",
+      "chart_status": "not_required",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
       "game": {
-        "slug": "lost-castle-2",
-        "appid": "2445690",
-        "name": "Lost Castle 2",
-        "description": "失落城堡2是一款2D卡通横版Rogue-Lite游戏。探寻丰富宝物道具强化自己，精通各类武器玩出花样，挑战强大魔物展现实力。新的冒险正召唤着宝藏猎人们！",
-        "developer": "Hunter Studio",
-        "publisher": "Hunter Studio",
-        "release_date": "2026-06-10",
-        "review_ratio": 78.0,
-        "review_total": 12095,
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203",
-        "steam_url": "https://store.steampowered.com/app/2445690"
+        "slug": "spacecraft",
+        "appid": "3276050",
+        "name": "SpaceCraft",
+        "description": "宇宙在你掌控之中！《星际征程》是一款太空探索与建造的在线游戏。在浩瀚星际中穿梭探险，探索无数恒星和行星，采集和生产资源，设计并建造飞船，自动化管理行星基地和星际物流，展开贸易与合作。",
+        "developer": "Shiro Games",
+        "publisher": "Shiro Games",
+        "release_date": "2026-06-11",
+        "review_ratio": 69.0,
+        "review_total": 1662,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3276050/5c3fb496686b81ad694e250a3ac6707bde7372db/header_alt_assets_1_schinese.jpg?t=1781191112",
+        "steam_url": "https://store.steampowered.com/app/3276050"
       }
     }
   ]
