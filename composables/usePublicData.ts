@@ -104,6 +104,35 @@ export function useGame(slug: MaybeRefOrGetter<string>) {
   return useAsyncData<PublicGame>(`game-${value}`, () => loadPublicJson(`/data/games/${value}.json`))
 }
 
+export function useLatestGameQuickTake(game: PublicGame, starDates: string[]) {
+  const dates = [...starDates].sort().reverse()
+
+  return useAsyncData(`game-quick-take-${game.slug}`, async () => {
+    for (const date of dates) {
+      const issue = await loadPublicJsonOrDefault<DailyIssue | null>(`/data/issues/${date}.json`, null)
+      if (!issue) continue
+
+      const signals = [issue.star_signal, issue.main_signal, ...(issue.secondary_signals || [])]
+      const matchingSignal = signals.find(signal =>
+        signal?.quick_take
+        && (signal.game.slug === game.slug || (game.appid && signal.game.appid === game.appid))
+      )
+
+      if (matchingSignal?.quick_take) {
+        return {
+          issue_date: date,
+          brief: matchingSignal.quick_take
+        }
+      }
+    }
+
+    return {
+      issue_date: null,
+      brief: null
+    }
+  })
+}
+
 export function useWeeklyIssue(slug: MaybeRefOrGetter<string>) {
   const value = toValue(slug)
   return useAsyncData<WeeklyIssue>(`weekly-${value}`, () => loadPublicJson(`/data/weekly/${value}.json`))

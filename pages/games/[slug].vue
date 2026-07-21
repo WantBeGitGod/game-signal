@@ -30,7 +30,6 @@
         </div>
       </div>
     </header>
-    <DetailAccessPanel />
     <section class="trend-panel">
       <div>
         <p class="eyebrow">OBSERVED TREND</p>
@@ -39,6 +38,11 @@
       </div>
       <TrendSparkline :trend="game.trend" :label="displayGameName(game)" />
     </section>
+    <DailyStarQuickTake
+      v-if="latestQuickTake?.brief"
+      class="game-profile-quick-take"
+      :brief="latestQuickTake.brief"
+    />
   </div>
 </template>
 
@@ -48,11 +52,18 @@ import { BookOpenText, ExternalLink } from "lucide-vue-next"
 const route = useRoute()
 const { data: game } = await useGame(String(route.params.slug))
 if (!game.value) throw createError({ statusCode: 404, statusMessage: "Game not found" })
+const resolvedGame = game.value
+const { data: archive } = await useGameArchive()
+const archiveEntry = archive.value?.games.find(entry =>
+  entry.game.slug === resolvedGame.slug
+  || (resolvedGame.appid && entry.game.appid === resolvedGame.appid)
+)
+const { data: latestQuickTake } = await useLatestGameQuickTake(resolvedGame, archiveEntry?.star_dates || [])
 const { data: publishedCases } = await useAsyncData("published-game-cases", () =>
   queryContent("/articles").where({ status: "published" }).find()
 )
 const publishedCase = computed(() =>
-  publishedCases.value?.find(item => item.game_appid === game.value?.appid)
+  publishedCases.value?.find(item => item.game_appid === resolvedGame.appid)
 )
-useSeoMeta({ title: displayGameName(game.value), description: game.value.description })
+useSeoMeta({ title: displayGameName(resolvedGame), description: resolvedGame.description })
 </script>
