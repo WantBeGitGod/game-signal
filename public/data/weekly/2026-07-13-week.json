@@ -1,0 +1,303 @@
+{
+  "schema_version": "2.0.0",
+  "slug": "2026-07-13-week",
+  "issue_number": 8,
+  "week_start": "2026-07-13",
+  "week_end": "2026-07-19",
+  "title": "新作窗口开始挤了：谁能把首周热度留住？",
+  "summary": "本期复选文章：Palworld 与 SpiritVale，两个都被识别为「新作起量」。",
+  "status": "published",
+  "published_at": "2026-07-21 19:18:51",
+  "signals": [
+    {
+      "rank": 1,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 19.0,
+      "selection_reason": "Palworld 在 7 个已保存日榜中进入前五 4 天、前二 4 天，实际摘星 0 次，周复选分 19。",
+      "metrics": {
+        "actual_star_count": 0,
+        "top_two_days": 4,
+        "top_five_days": 4,
+        "average_rank": 1.25,
+        "weekly_score": 19,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-07-13",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-14",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-16",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-17",
+            "rank": 1,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-07-17"
+      },
+      "chart_status": "ready",
+      "article_selected": true,
+      "article_slug": "palworld",
+      "chart_path": "/data/charts/1623730.json",
+      "game": {
+        "slug": "palworld",
+        "appid": "1623730",
+        "name": "Palworld",
+        "description": "在广阔的世界中收集神奇的生物“帕鲁”，派他们进行战斗、建造、做农活，工业生产等，这是一款支持多人游戏模式的全新开放世界生存制作游戏。",
+        "developer": "Pocketpair",
+        "publisher": "Pocketpair",
+        "release_date": "2026-07-09",
+        "review_ratio": 94.0,
+        "review_total": 444770,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1784190284",
+        "steam_url": "https://store.steampowered.com/app/1623730"
+      }
+    },
+    {
+      "rank": 2,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 16.0,
+      "selection_reason": "SpiritVale 在 7 个已保存日榜中进入前五 4 天、前二 1 天，实际摘星 2 次，周复选分 16。",
+      "metrics": {
+        "actual_star_count": 2,
+        "top_two_days": 1,
+        "top_five_days": 4,
+        "average_rank": 3.5,
+        "weekly_score": 16,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-07-16",
+            "rank": 3,
+            "actual_star": true
+          },
+          {
+            "date": "2026-07-17",
+            "rank": 2,
+            "actual_star": true
+          },
+          {
+            "date": "2026-07-18",
+            "rank": 5,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-19",
+            "rank": 4,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-07-19"
+      },
+      "chart_status": "ready",
+      "article_selected": true,
+      "article_slug": "spiritvale",
+      "chart_path": "/data/charts/3767850.json",
+      "game": {
+        "slug": "spiritvale",
+        "appid": "3767850",
+        "name": "SpiritVale",
+        "description": "一款受经典角色扮演游戏启发的基于职业的动作 MMO。探索充满怪物和废墟的支离破碎的世界，建立自己的游戏风格，并与朋友一起进行实时合作战斗。",
+        "developer": "Baikun Interactive",
+        "publisher": "Baikun Interactive",
+        "release_date": "2026-07-15",
+        "review_ratio": 55.0,
+        "review_total": 2645,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767850/7048933d069ef057bcd5571f99b4e2d5b8744b31/header.jpg?t=1784127621",
+        "steam_url": "https://store.steampowered.com/app/3767850"
+      }
+    },
+    {
+      "rank": 3,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 14.0,
+      "selection_reason": "Echoes of Aincrad 在 7 个已保存日榜中进入前五 4 天、前二 2 天，实际摘星 1 次，周复选分 14。",
+      "metrics": {
+        "actual_star_count": 1,
+        "top_two_days": 2,
+        "top_five_days": 4,
+        "average_rank": 3.25,
+        "weekly_score": 14,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-07-13",
+            "rank": 5,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-14",
+            "rank": 2,
+            "actual_star": true
+          },
+          {
+            "date": "2026-07-15",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-16",
+            "rank": 5,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-07-16"
+      },
+      "chart_status": "not_required",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
+      "game": {
+        "slug": "echoes-of-aincrad",
+        "appid": "2244210",
+        "name": "Echoes of Aincrad",
+        "description": "这是一款描写玩家们被困于生死一线牵的虚拟世界浮游城“艾恩葛朗特”的烦恼、纠葛的启程PRG。为了在化为死亡游戏的完全潜行型MMORPG《Sword Art Online》生存下去，最不可或缺的便是能共进退的同伴。这个远比现实残酷，却也更温暖的世界里，能建立起人与人之间的羁绊吗？",
+        "developer": "Game Studio Inc.",
+        "publisher": "Bandai Namco Entertainment Inc.",
+        "release_date": "2026-07-09",
+        "review_ratio": 50.0,
+        "review_total": 3336,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/b3adf8e273abedc20c83fc2ca2ba65261b187909/header_schinese.jpg?t=1784167139",
+        "steam_url": "https://store.steampowered.com/app/2244210"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 14.0,
+      "selection_reason": "EA SPORTS™ College Football 27 在 7 个已保存日榜中进入前五 4 天、前二 1 天，实际摘星 1 次，周复选分 14。",
+      "metrics": {
+        "actual_star_count": 1,
+        "top_two_days": 1,
+        "top_five_days": 4,
+        "average_rank": 3.25,
+        "weekly_score": 14,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-07-13",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-14",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-15",
+            "rank": 2,
+            "actual_star": true
+          },
+          {
+            "date": "2026-07-16",
+            "rank": 4,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-07-16"
+      },
+      "chart_status": "not_required",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
+      "game": {
+        "slug": "ea-sports-college-football-27",
+        "appid": "4032350",
+        "name": "EA SPORTS™ College Football 27",
+        "description": "踏入大学橄榄球的现代时代，在个人抱负与校队荣誉的交汇中展开征程。在沉浸于比赛日传统与盛典氛围的同时，平衡各方期望、自身特质以及周六赛事所要求的一切。",
+        "developer": "Tiburon",
+        "publisher": "Electronic Arts",
+        "release_date": "2026-07-09",
+        "review_ratio": 39.0,
+        "review_total": 1447,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032350/1c628b40d5aa8dcf26e0ac9d394f0fbe1b8dc879/header.jpg?t=1784128711",
+        "steam_url": "https://store.steampowered.com/app/4032350"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 14.0,
+      "selection_reason": "Assassin's Creed Black Flag Resynced 在 7 个已保存日榜中进入前五 4 天、前二 2 天，实际摘星 0 次，周复选分 14。",
+      "metrics": {
+        "actual_star_count": 0,
+        "top_two_days": 2,
+        "top_five_days": 4,
+        "average_rank": 2.5,
+        "weekly_score": 14,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-07-13",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-14",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-15",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-16",
+            "rank": 2,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-07-16"
+      },
+      "chart_status": "not_required",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
+      "game": {
+        "slug": "assassin-s-creed-black-flag-resynced",
+        "appid": "3751950",
+        "name": "Assassin's Creed Black Flag Resynced",
+        "description": "经典单人海盗冒险之旅现已回归。在这部忠实还原且经过优化的重制版中，你将扮演爱德华·肯威，在海盗的黄金时代扬帆加勒比海。本作拥有惊艳的视觉效果、经过升级的玩法以及全新的内容。",
+        "developer": "Ubisoft Singapore, Ubisoft Barcelona, Ubisoft Bordeaux, Ubisoft Belgrade, Ubisoft Chengdu, Ubisoft India, Ubisoft Kyiv, Ubisoft Montpellier, Ubisoft Philippines, Ubisoft Quebec, Ubisoft Shanghai",
+        "publisher": "Ubisoft",
+        "release_date": "2026-07-09",
+        "review_ratio": 76.0,
+        "review_total": 16936,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/777795886ee7d2fc9f1e84aacc75f82baf75defb/header_schinese.jpg?t=1783617053",
+        "steam_url": "https://store.steampowered.com/app/3751950"
+      }
+    }
+  ]
+}

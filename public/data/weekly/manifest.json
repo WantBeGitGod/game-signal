@@ -1,8 +1,18 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-21T19:18:47",
-  "latest_weekly": "2026-07-06-week",
+  "generated_at": "2026-07-21T19:18:51",
+  "latest_weekly": "2026-07-13-week",
   "issues": [
+    {
+      "slug": "2026-07-13-week",
+      "issue_number": 8,
+      "week_start": "2026-07-13",
+      "week_end": "2026-07-19",
+      "title": "新作窗口开始挤了：谁能把首周热度留住？",
+      "summary": "本期复选文章：Palworld 与 SpiritVale，两个都被识别为「新作起量」。",
+      "status": "published",
+      "published_at": "2026-07-21 19:18:51"
+    },
     {
       "slug": "2026-07-06-week",
       "issue_number": 7,
