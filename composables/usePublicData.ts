@@ -1,4 +1,4 @@
-import type { DailyIssue, Manifest, PublicGame, PublicStatus, ScoringSnapshot, WeeklyIssue, WeeklyManifest } from "~/types/public"
+import type { DailyIssue, GameArchiveManifest, Manifest, PublicGame, PublicStatus, ScoringSnapshot, WeeklyIssue, WeeklyManifest } from "~/types/public"
 
 export function publicAsset(path: string) {
   const base = useRuntimeConfig().app.baseURL || "/"
@@ -34,6 +34,16 @@ export function useWeeklyManifest() {
       generated_at: "",
       issues: [],
       preview: true
+    })
+  )
+}
+
+export function useGameArchive() {
+  return useAsyncData<GameArchiveManifest>("game-archive", () =>
+    loadPublicJsonOrDefault<GameArchiveManifest>("/data/game-archive.json", {
+      schema_version: "1.0.0",
+      generated_at: "",
+      games: []
     })
   )
 }

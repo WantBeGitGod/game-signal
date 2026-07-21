@@ -12,6 +12,7 @@ The public repository receives reviewed publication data only. Raw SQLite files,
 - `public/data/weekly/<slug>.json`: one weekly Collection with the reselected top five, the actual-star timeline and exactly two selected Article references. Only those two Articles may carry one-month chart JSON references. The public fields are `article_selected` and `article_slug`; the weekly page owns no long-form body.
 - `public/data/charts/<appid>.json`: derived hour-level player curve, daily peaks and window peak from reviewed SteamDB chart imports.
 - `public/data/games/<slug>.json`: game metadata and the published trend series. `name` keeps the Steam/source title, while `name_cn` is the preferred public display title when a Chinese name has been verified.
+- `public/data/game-archive.json`: the game-oriented Collection generated from actual daily stars and published Articles. It stores game identity, star dates and Article references, but never duplicates an Article body.
 - `content/articles/<slug>.md`: the sole maintained long-form body for a game. `game_appid` identifies the subject game and the public export materializes its resolved `cover_image_url` for list, article and social-preview rendering.
 - `content/companies/<slug>.md`: reviewed company profile.
 - `public/images/issues/`: approved editorial cover images only.

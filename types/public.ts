@@ -36,6 +36,18 @@ export type Signal = {
   }
   sources: Array<{ title: string; url: string }>
   game: PublicGame
+  quick_take?: DailyStarQuickTake
+}
+
+export type DailyStarQuickTake = {
+  schema_version: string
+  positioning: string
+  reference_frame: string
+  core_loop: string[]
+  for_players: string
+  not_for_players: string
+  star_reason: string
+  content_length: number
 }
 
 export type DailyIssue = {
@@ -171,4 +183,20 @@ export type WeeklyManifest = {
     published_at?: string | null
   }>
   preview: boolean
+}
+
+export type GameArchiveEntry = {
+  game: Pick<PublicGame, "slug" | "appid" | "name" | "name_cn" | "description" | "genres" | "developer" | "publisher" | "cover_image_url">
+  article_slugs: string[]
+  article_title?: string | null
+  article_published_at?: string | null
+  article_count: number
+  star_dates: string[]
+  latest_star_date?: string | null
+}
+
+export type GameArchiveManifest = {
+  schema_version: string
+  generated_at: string
+  games: GameArchiveEntry[]
 }

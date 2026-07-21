@@ -3,10 +3,10 @@
     <header class="page-intro case-intro">
       <p class="eyebrow">COLLECTION BY GAME</p>
       <h1>游戏档案</h1>
-      <p>这里不保存第二份正文。每个游戏只引用它唯一的 Article，以及曾经出现过的今日之星与周刊记录。</p>
+      <p>每次今日之星和文章发布都会在这里留下一个游戏身份。档案汇总封面、摘星记录与文章入口，但不复制正文。</p>
     </header>
-    <div v-if="cases?.length" class="game-archive-index">
-      <NuxtLink v-for="entry in cases" :key="entry.game.slug" :to="`/games/${entry.game.slug}`" class="game-archive-card">
+    <div v-if="archive?.games.length" class="game-archive-index">
+      <NuxtLink v-for="entry in archive?.games" :key="entry.game.slug" :to="`/games/${entry.game.slug}`" class="game-archive-card">
         <CaseCover
           :src="entry.game.cover_image_url"
           :title="displayGameName(entry.game)"
@@ -16,10 +16,10 @@
         <div class="game-archive-copy">
           <div class="game-archive-meta">
             <span>{{ entry.game.genres.slice(0, 2).join(" / ") || "待分类" }}</span>
-            <span>收录 1 篇文章</span>
+            <span>{{ entry.star_dates.length ? `摘星 ${entry.star_dates.length} 次` : `收录 ${entry.article_count} 篇文章` }}</span>
           </div>
           <h2>{{ displayGameName(entry.game) }}</h2>
-          <p>{{ entry.game.description || entry.article.description }}</p>
+          <p>{{ entry.game.description || "暂无公开简介。" }}</p>
           <div class="game-archive-footer">
             <span>{{ entry.game.developer || "开发团队待核验" }}</span>
             <span class="game-archive-action">打开游戏档案 <ArrowUpRight :size="18" /></span>
@@ -36,19 +36,7 @@
 
 <script setup lang="ts">
 import { ArrowUpRight } from "lucide-vue-next"
-import type { PublicGame } from "~/types/public"
 
 useSeoMeta({ title: "游戏档案" })
-const { data: cases } = await useAsyncData("game-article-collection", async () => {
-  const articles = await queryContent("/articles").sort({ published_at: -1, created_at: -1 }).find()
-  const records: Array<{ article: (typeof articles)[number]; game: PublicGame }> = []
-
-  for (const article of articles) {
-    if (!article.slug) continue
-    const game = await loadPublicJsonOrDefault<PublicGame | null>(`/data/games/${article.slug}.json`, null)
-    if (game) records.push({ article, game })
-  }
-
-  return records
-})
+const { data: archive } = await useGameArchive()
 </script>
