@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-21T19:18:51",
+  "generated_at": "2026-07-21T19:23:41",
   "latest_weekly": "2026-07-13-week",
   "issues": [
     {
@@ -8,8 +8,8 @@
       "issue_number": 8,
       "week_start": "2026-07-13",
       "week_end": "2026-07-19",
-      "title": "新作窗口开始挤了：谁能把首周热度留住？",
-      "summary": "本期复选文章：Palworld 与 SpiritVale，两个都被识别为「新作起量」。",
+      "title": "帕鲁回到世界树，复古 MMO 寻找新服务器",
+      "summary": "《幻兽帕鲁》用 1.0 兑现两年 Early Access，SpiritVale 则用职业、卡片和地图召回复古 MMO 人群；一个验证大规模回流，一个验证小型服务器社会能否成立。",
       "status": "published",
       "published_at": "2026-07-21 19:18:51"
     },
@@ -18,8 +18,8 @@
       "issue_number": 7,
       "week_start": "2026-07-06",
       "week_end": "2026-07-12",
-      "title": "新作窗口开始挤了：谁能把首周热度留住？",
-      "summary": "本期复选文章：Assassin's Creed Black Flag Resynced 与 Esports Manager 2026，两个都被识别为「新作起量」。",
+      "title": "海盗重制起量，电竞经理稳在第二",
+      "summary": "《黑旗 Resynced》靠一次摘星和连续前二拿到第一展示位；Esports Manager 2026 六天进前五、一次没摘星，却以同样 19 分证明稳定第二同样值得写。",
       "status": "published",
       "published_at": "2026-07-21 19:18:47"
     },
@@ -28,8 +28,8 @@
       "issue_number": 6,
       "week_start": "2026-06-29",
       "week_end": "2026-07-05",
-      "title": "新作窗口开始挤了：谁能把首周热度留住？",
-      "summary": "本期复选文章：Orb of Creation 与 The Adventures of Elliot: The Millennium Tales，两个都被识别为「新作起量」。",
+      "title": "增长公式写进魔法，HD-2D 换成动作",
+      "summary": "Orb of Creation 的 1.0 让老增量游戏重新进入视野，Elliot 则测试 HD-2D 能否离开回合制舒适区。残缺四天数据只确认连续出现，不补造缺失排名。",
       "status": "published",
       "published_at": "2026-07-21 19:18:43"
     },
@@ -38,8 +38,8 @@
       "issue_number": 5,
       "week_start": "2026-06-22",
       "week_end": "2026-06-28",
-      "title": "新作窗口开始挤了：谁能把首周热度留住？",
-      "summary": "本期复选文章：Sand 与 BOMBANANA! Demo，两个都被识别为「新作起量」。",
+      "title": "一艘沙船，和一场三人拆弹",
+      "summary": "SAND 把六人共同载具变成可失去的跨局资产；BOMBANANA! 把视觉、听觉和说话权拆给三个人。两款游戏都把朋友之间的分工直接做成产品钩子。",
       "status": "published",
       "published_at": "2026-07-21 19:18:39"
     },
@@ -48,8 +48,8 @@
       "issue_number": 4,
       "week_start": "2026-06-15",
       "week_end": "2026-06-21",
-      "title": "新作窗口开始挤了：谁能把首周热度留住？",
-      "summary": "本期复选文章：The Scroll of Taiwu : Beyond The Dome 与 Mistfall Hunter Demo，两个都被识别为「新作起量」。",
+      "title": "八年江湖再回流，黑魂搜打撤抢试玩",
+      "summary": "《太吾绘卷》用重大版本召回旧玩家，Mistfall Hunter 用第三人称暗黑动作拿到试玩注意力：前者要证明复杂系统仍能生成一生，后者要证明高损失玩法值得信任。",
       "status": "published",
       "published_at": "2026-07-21 19:18:35"
     },
@@ -58,8 +58,8 @@
       "issue_number": 3,
       "week_start": "2026-06-08",
       "week_end": "2026-06-14",
-      "title": "经典玩法文艺复兴？\n再创辉煌还是陈年老菜？",
-      "summary": "本期复选文章：MECCHA CHAMELEON 与 Gothic 1 Remake，两个都被识别为「新作起量」。",
+      "title": "会画画的躲猫猫，和拒绝讨好你的老派 RPG",
+      "summary": "MECCHA CHAMELEON 用玩家亲手画出的伪装制造传播，《哥特王朝1重制版》则重新验证老派开放世界的拒绝感；两者都不是靠内容数量被看见。",
       "status": "published",
       "published_at": "2026-07-21 19:18:31"
     },
@@ -68,8 +68,8 @@
       "issue_number": 2,
       "week_start": "2026-06-01",
       "week_end": "2026-06-07",
-      "title": "新作窗口开始挤了：谁能把首周热度留住？",
-      "summary": "本期复选文章：TBH: Task Bar Hero 与 Fortune Mill，两个都被识别为「新作起量」。",
+      "title": "任务栏里刷装备，磨坊里滚雪球",
+      "summary": "仅存五天排名仍看出两条连续信号：TBH 连续摘星，把桌面挂机接上交易经济；Fortune Mill 没有成为日冠军，却靠房间之间互相喂数值稳定留在前列。",
       "status": "published",
       "published_at": "2026-07-21 19:18:27"
     },
@@ -78,10 +78,10 @@
       "issue_number": 1,
       "week_start": "2026-05-15",
       "week_end": "2026-05-20",
-      "title": "深海不止利维坦\n螃蟹也成大怪物",
-      "summary": "本期复选文章：Subnautica 2 与 Everything is Crab，分别对应「新作起量」和「突然爆发」。",
+      "title": "当深海续作撞上螃蟹进化",
+      "summary": "第一期没有留存日榜前五，因此保留主编当时选出的《深海迷航2》和《万物皆可蟹》：一边是大 IP 把孤独深海推向四人合作，一边是小体量 Roguelite 让每次进化都长在角色身上。",
       "status": "published",
-      "published_at": "2026-07-21 19:18:16"
+      "published_at": "2026-07-21 19:23:41"
     }
   ],
   "preview": true
