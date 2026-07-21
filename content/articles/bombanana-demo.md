@@ -8,6 +8,7 @@ game_appid: "4747510"
 created_at: 2026-07-21
 weekly_issue: 2026-06-22-week
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747510/54d624f1d6ea0b30bafb736ef940bb6b78f4ba78/header.jpg?t=1782230961"
 ---
 
 # BOMBANANA!：看不见、听不见、说不出，三个人把说明书吵成内容

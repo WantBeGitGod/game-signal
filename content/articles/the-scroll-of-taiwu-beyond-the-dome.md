@@ -8,6 +8,7 @@ game_appid: "838350"
 created_at: 2026-07-21
 weekly_issue: 2026-06-15-week
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782113702"
 ---
 
 # 太吾绘卷：从大而全，到底还有多少人愿意回来过一生

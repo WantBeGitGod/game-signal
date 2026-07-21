@@ -8,6 +8,7 @@ game_appid: "3483510"
 created_at: 2026-07-21
 weekly_issue: 2026-06-29-week
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1782353681"
 ---
 
 # Elliot：HD-2D 不只卖怀旧，这次拿动作冒险当入口

@@ -8,6 +8,7 @@ game_appid: "3767850"
 created_at: 2026-07-21
 weekly_issue: 2026-07-13-week
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767850/7048933d069ef057bcd5571f99b4e2d5b8744b31/header.jpg?t=1784127621"
 ---
 
 # SpiritVale：RO 式怀旧还能不能养出一个新 MMO

@@ -8,6 +8,7 @@ game_appid: "2749950"
 created_at: 2026-07-21
 weekly_issue: 2026-07-06-week
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749950/c996835deb9fd4b481b498f10c0c85ecc8725986/header.jpg?t=1783451404"
 ---
 
 # Esports Manager 2026：把电竞经理做成一家公司，而不是一张阵容表

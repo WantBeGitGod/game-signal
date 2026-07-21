@@ -1,0 +1,33 @@
+{
+  "slug": "everything-is-crab",
+  "appid": "3526710",
+  "name": "Everything is Crab",
+  "name_cn": null,
+  "description": "一款以动物进化为核心的 Roguelite 游戏。 在充满生机的生态系统中捕猎、逃生、觅食并茁壮成长。每局游戏都可从 125 +种进化与特化方向中做出选择，打造独一无二的生物构筑。顺应自然法则以求生存，最终打破“蟹化”的宿命……否则，就只能在进化的长河中沦为炮灰！",
+  "release_date": "2026-05-08",
+  "genres": [
+    "动作",
+    "独立",
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "自定义音量控制",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "特别好评",
+  "review_ratio": 80.0,
+  "review_total": 3154,
+  "developer": "Odd Dreams Digital",
+  "publisher": "Secret Mode",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526710/c2e89fd394d904bd9d565fbfed51625bb2023526/header_schinese.jpg?t=1778230287",
+  "steam_url": "https://store.steampowered.com/app/3526710",
+  "trend": []
+}

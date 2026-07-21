@@ -8,6 +8,7 @@ game_appid: "4282490"
 created_at: 2026-07-21
 weekly_issue: 2026-06-15-week
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282490/cfa9fe92a707b5687f3e340f27d0325a4c4428a0/header.jpg?t=1781377380"
 ---
 
 # Mistfall Hunter：把黑魂动作套进搜打撤，试玩节拿到的只是排队资格

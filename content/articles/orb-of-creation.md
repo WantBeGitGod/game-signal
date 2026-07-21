@@ -8,6 +8,7 @@ game_appid: "1910680"
 created_at: 2026-07-21
 weekly_issue: 2026-06-29-week
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910680/28cbe4a8420b96a025958a161203b5603a17daed/header.jpg?t=1782342864"
 ---
 
 # Orb of Creation：把法术写成增量游戏的公式

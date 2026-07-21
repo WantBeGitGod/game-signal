@@ -11,6 +11,7 @@ created_at: 2026-06-04
 follow_up_due: 2026-07-04
 company_slugs:
   - nugem-studio
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg?t=1780112834"
 ---
 
 # 塔斯克巴英雄-重铸桌面放置游戏荣光！

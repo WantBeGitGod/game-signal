@@ -897,6 +897,106 @@ a {
   align-self: start;
 }
 
+.game-archive-index {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(18px, 2.4vw, 34px);
+  padding: 0 clamp(18px, 6vw, 90px) clamp(70px, 8vw, 120px);
+}
+
+.game-archive-card {
+  display: flex;
+  min-width: 0;
+  flex-direction: column;
+  border: 2px solid var(--line);
+  background: var(--paper-bright);
+  box-shadow: 9px 10px 0 var(--coral);
+  color: var(--ink);
+  transition: transform 160ms ease, box-shadow 160ms ease;
+}
+
+.game-archive-card:nth-child(3n + 2) {
+  box-shadow-color: var(--blue);
+}
+
+.game-archive-card:hover {
+  transform: translate(-3px, -3px);
+  box-shadow: 13px 14px 0 var(--acid);
+}
+
+.game-archive-card .case-cover {
+  border: 0;
+  border-bottom: 2px solid var(--line);
+}
+
+.game-archive-copy {
+  display: flex;
+  min-height: 320px;
+  flex: 1;
+  flex-direction: column;
+  padding: clamp(20px, 2.4vw, 30px);
+}
+
+.game-archive-meta,
+.game-archive-footer,
+.game-archive-action {
+  display: flex;
+  align-items: center;
+}
+
+.game-archive-meta,
+.game-archive-footer {
+  justify-content: space-between;
+  gap: 14px;
+  font-family: var(--mono);
+  font-size: 10px;
+  font-weight: 700;
+}
+
+.game-archive-meta span:last-child {
+  padding: 4px 7px;
+  background: var(--acid);
+  white-space: nowrap;
+}
+
+.game-archive-copy h2 {
+  margin: 26px 0 12px;
+  font-family: var(--serif);
+  font-size: clamp(30px, 3vw, 48px);
+  line-height: 1.04;
+  overflow-wrap: anywhere;
+}
+
+.game-archive-copy > p {
+  display: -webkit-box;
+  margin: 0;
+  overflow: hidden;
+  color: #56544c;
+  line-height: 1.7;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+}
+
+.game-archive-footer {
+  margin-top: auto;
+  padding-top: 28px;
+  border-top: 1px solid var(--line);
+}
+
+.game-archive-footer > span:first-child {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.game-archive-action {
+  flex: 0 0 auto;
+  gap: 6px;
+  color: var(--blue);
+  white-space: nowrap;
+}
+
 .case-cover {
   min-width: 0;
   margin: 0;
@@ -2161,6 +2261,10 @@ a {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
+  .game-archive-index {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
   .weekly-watch-grid,
   .scoring-sheet dl {
     grid-template-columns: 1fr;
@@ -2403,6 +2507,20 @@ a {
   .case-index .content-row-arrow {
     grid-column: 2;
     grid-row: 1;
+  }
+
+  .game-archive-index {
+    grid-template-columns: minmax(0, 1fr);
+    padding-right: 18px;
+    padding-left: 18px;
+  }
+
+  .game-archive-copy {
+    min-height: 300px;
+  }
+
+  .game-archive-footer {
+    align-items: flex-end;
   }
 
   .issue-date {

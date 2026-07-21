@@ -12,6 +12,7 @@ weekly_issue: 2026-06-08-week
 trigger: three_day_today_star
 consecutive_star_days: 3
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1780965412"
 ---
 
 # 哥特王朝1重制版-欲与老滚试比高

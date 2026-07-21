@@ -1,0 +1,40 @@
+{
+  "slug": "subnautica-2",
+  "appid": "1962700",
+  "name": "Subnautica 2",
+  "name_cn": null,
+  "description": "《Subnautica 2：异星水域》是背景设定在全新外星世界的水下生存冒险游戏，由Unknown Worlds倾力打造。可以单人游玩，也可以与好友组队开启四人合作模式。建造专属基地，制作不同工具，适应环境，水下求生。探索未知世界，揭开深海中隐藏的谜团。",
+  "release_date": "2026-05-14",
+  "genres": [
+    "动作",
+    "冒险",
+    "抢先体验"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "跨平台多人",
+    "完全支持控制器",
+    "可调整文字大小",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "随时保存",
+    "立体声",
+    "字幕选项",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "特别好评",
+  "review_ratio": 92.0,
+  "review_total": 16960,
+  "developer": "Unknown Worlds Entertainment",
+  "publisher": "Unknown Worlds Entertainment",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/998f14fffb6e9917639ce4ba992c7e9f4a0157b5/header_schinese.jpg?t=1778777511",
+  "steam_url": "https://store.steampowered.com/app/1962700",
+  "trend": []
+}

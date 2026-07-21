@@ -8,6 +8,7 @@ game_appid: "1623730"
 created_at: 2026-07-11
 weekly_issue: 2026-07-06-week
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1784190284"
 ---
 
 # 幻兽帕鲁-帕鲁再打工，世界树终于结算

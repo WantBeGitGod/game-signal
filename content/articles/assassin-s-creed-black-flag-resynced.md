@@ -8,6 +8,7 @@ created_at: 2026-07-12
 follow_up_due: 2026-08-11
 weekly_issue: "2026-07-06-week"
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/777795886ee7d2fc9f1e84aacc75f82baf75defb/header_schinese.jpg?t=1783617053"
 ---
 
 # 刺客信条4：黑旗 Resynced-海盗重制不靠念旧

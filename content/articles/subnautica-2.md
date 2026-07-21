@@ -11,6 +11,7 @@ available_at: 2026-06-07
 follow_up_due: 2026-07-07
 weekly_issue: 2026-05-15-week
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/998f14fffb6e9917639ce4ba992c7e9f4a0157b5/header_schinese.jpg?t=1778777511"
 ---
 
 # 深海迷航2-深海模拟最严厉的父亲

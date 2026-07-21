@@ -11,6 +11,7 @@ available_at: 2026-06-18
 follow_up_due: 2026-07-18
 weekly_issue: 2026-06-08-week
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224"
 ---
 
 # 变色龙-涂鸦躲猫猫王朝了

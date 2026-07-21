@@ -8,6 +8,7 @@ game_appid: "4731620"
 created_at: 2026-07-21
 weekly_issue: 2026-06-01-week
 company_slugs: []
+cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1780959523"
 ---
 
 # Fortune Mill：把增量游戏塞进一栋互相喂数值的房子
