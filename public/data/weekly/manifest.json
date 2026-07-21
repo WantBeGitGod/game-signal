@@ -1,8 +1,18 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-21T19:18:31",
-  "latest_weekly": "2026-06-08-week",
+  "generated_at": "2026-07-21T19:18:35",
+  "latest_weekly": "2026-06-15-week",
   "issues": [
+    {
+      "slug": "2026-06-15-week",
+      "issue_number": 4,
+      "week_start": "2026-06-15",
+      "week_end": "2026-06-21",
+      "title": "新作窗口开始挤了：谁能把首周热度留住？",
+      "summary": "本期复选文章：The Scroll of Taiwu : Beyond The Dome 与 Mistfall Hunter Demo，两个都被识别为「新作起量」。",
+      "status": "published",
+      "published_at": "2026-07-21 19:18:35"
+    },
     {
       "slug": "2026-06-08-week",
       "issue_number": 3,
