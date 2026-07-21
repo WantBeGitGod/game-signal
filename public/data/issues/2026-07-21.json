@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-21",
+  "title": "07.21 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 28.73,
+    "fact_summary": "Guildrun Demo 今日观测峰值 7,751，较过往最高峰值提升 +10%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 7751,
+      "previous_peak": 7030,
+      "previous_record_peak": 7030,
+      "growth_rate": 0.1026,
+      "record_growth_rate": 0.1026,
+      "scoring_peak": 7751,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 13.95,
+      "raw_record_growth_score": 3.59,
+      "growth_score_multiplier": 0.7751,
+      "record_growth_score": 2.78,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 28.73,
+      "base_score": 28.73,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 95.0,
+      "review_total": 564,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "独立",
+        "策略"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-18",
+          "peak": 4698
+        },
+        {
+          "date": "2026-07-19",
+          "peak": 7030
+        },
+        {
+          "date": "2026-07-20",
+          "peak": 6518
+        },
+        {
+          "date": "2026-07-21",
+          "peak": 7751
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4425970"
+      }
+    ],
+    "game": {
+      "slug": "guildrun-demo",
+      "appid": "4425970",
+      "name": "Guildrun Demo",
+      "name_cn": null,
+      "description": "在这款 PvE Roguelike 自走棋中，玩家需要将一支普通小队培养成势不可挡的战斗机器，击溃一波又一波怪物。在这里，你可以打破职业限制，打造超乎想象的英雄流派，发掘无数流派与协同组合。按自己的节奏封印裂隙，并揭开撕裂世界的幕后真相。",
+      "release_date": "2026-07-16",
+      "genres": [
+        "独立",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "游戏试用版",
+        "自定义音量控制",
+        "可调整难度",
+        "可以仅用鼠标",
+        "无需应对快速反应事件",
+        "立体声",
+        "Steam 云"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 95.0,
+      "review_total": 564,
+      "developer": "Leyline",
+      "publisher": "Leyline",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425970/19f2fde865dafdd6f7e1b0e73f991e918f6a97a0/header_schinese.jpg?t=1784536831",
+      "steam_url": "https://store.steampowered.com/app/4425970",
+      "trend": [
+        {
+          "date": "2026-07-18",
+          "peak": 4698
+        },
+        {
+          "date": "2026-07-19",
+          "peak": 7030
+        },
+        {
+          "date": "2026-07-20",
+          "peak": 6518
+        },
+        {
+          "date": "2026-07-21",
+          "peak": 7751
+        }
+      ]
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 28.73,
+    "fact_summary": "Guildrun Demo 今日观测峰值 7,751，较过往最高峰值提升 +10%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 7751,
+      "previous_peak": 7030,
+      "previous_record_peak": 7030,
+      "growth_rate": 0.1026,
+      "record_growth_rate": 0.1026,
+      "scoring_peak": 7751,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 13.95,
+      "raw_record_growth_score": 3.59,
+      "growth_score_multiplier": 0.7751,
+      "record_growth_score": 2.78,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 28.73,
+      "base_score": 28.73,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 95.0,
+      "review_total": 564,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "独立",
+        "策略"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-18",
+          "peak": 4698
+        },
+        {
+          "date": "2026-07-19",
+          "peak": 7030
+        },
+        {
+          "date": "2026-07-20",
+          "peak": 6518
+        },
+        {
+          "date": "2026-07-21",
+          "peak": 7751
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4425970"
+      }
+    ],
+    "game": {
+      "slug": "guildrun-demo",
+      "appid": "4425970",
+      "name": "Guildrun Demo",
+      "name_cn": null,
+      "description": "在这款 PvE Roguelike 自走棋中，玩家需要将一支普通小队培养成势不可挡的战斗机器，击溃一波又一波怪物。在这里，你可以打破职业限制，打造超乎想象的英雄流派，发掘无数流派与协同组合。按自己的节奏封印裂隙，并揭开撕裂世界的幕后真相。",
+      "release_date": "2026-07-16",
+      "genres": [
+        "独立",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "游戏试用版",
+        "自定义音量控制",
+        "可调整难度",
+        "可以仅用鼠标",
+        "无需应对快速反应事件",
+        "立体声",
+        "Steam 云"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 95.0,
+      "review_total": 564,
+      "developer": "Leyline",
+      "publisher": "Leyline",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425970/19f2fde865dafdd6f7e1b0e73f991e918f6a97a0/header_schinese.jpg?t=1784536831",
+      "steam_url": "https://store.steampowered.com/app/4425970",
+      "trend": [
+        {
+          "date": "2026-07-18",
+          "peak": 4698
+        },
+        {
+          "date": "2026-07-19",
+          "peak": 7030
+        },
+        {
+          "date": "2026-07-20",
+          "peak": 6518
+        },
+        {
+          "date": "2026-07-21",
+          "peak": 7751
+        }
+      ]
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
