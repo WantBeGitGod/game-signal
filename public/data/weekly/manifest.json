@@ -1,8 +1,18 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-21T19:18:27",
-  "latest_weekly": "2026-06-01-week",
+  "generated_at": "2026-07-21T19:18:31",
+  "latest_weekly": "2026-06-08-week",
   "issues": [
+    {
+      "slug": "2026-06-08-week",
+      "issue_number": 3,
+      "week_start": "2026-06-08",
+      "week_end": "2026-06-14",
+      "title": "经典玩法文艺复兴？\n再创辉煌还是陈年老菜？",
+      "summary": "本期复选文章：MECCHA CHAMELEON 与 Gothic 1 Remake，两个都被识别为「新作起量」。",
+      "status": "published",
+      "published_at": "2026-07-21 19:18:31"
+    },
     {
       "slug": "2026-06-01-week",
       "issue_number": 2,
