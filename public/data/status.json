@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T19:17:50",
+  "generated_at": "2026-07-21T19:18:16",
   "data_state": "live",
   "latest_collection_at": "2026-07-21 17:30:06",
   "latest_live_collection_at": "2026-07-21 17:30:06",
   "latest_issue_date": "2026-07-20",
-  "latest_publish_at": "2026-07-21 19:17:50",
-  "latest_publish_status": "staged",
+  "latest_publish_at": "2026-07-21 19:18:16",
+  "latest_publish_status": "completed",
   "continuous_live_days": 14,
   "is_delayed": false,
   "collection_window": null
