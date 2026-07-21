@@ -29,6 +29,9 @@ useSeoMeta({ title: "周刊" })
 const { data: manifest } = await useWeeklyManifest()
 
 function titleLines(title: string) {
-  return title.split(/\r?\n/).map(line => line.trim()).filter(Boolean)
+  return title
+    .split(/\r?\n|[，,、：:；;。！？!?]+/)
+    .map(line => line.trim())
+    .filter(Boolean)
 }
 </script>
