@@ -1,0 +1,351 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-22",
+  "title": "07.22 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 24.2,
+    "fact_summary": "Strikers Club 今日观测峰值 11,345，未超过过往最高峰值 11,828，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 11345,
+      "previous_peak": 11828,
+      "previous_record_peak": 11828,
+      "growth_rate": -0.0408,
+      "record_growth_rate": -0.0408,
+      "scoring_peak": 11345,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.25,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 30.25,
+      "base_score": 24.2,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 77.0,
+      "review_total": 1991,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "独立",
+        "模拟",
+        "体育",
+        "免费",
+        "抢先体验"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-18",
+          "peak": 4484
+        },
+        {
+          "date": "2026-07-19",
+          "peak": 10749
+        },
+        {
+          "date": "2026-07-20",
+          "peak": 10476
+        },
+        {
+          "date": "2026-07-21",
+          "peak": 11828
+        },
+        {
+          "date": "2026-07-22",
+          "peak": 11345
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1952920"
+      }
+    ],
+    "game": {
+      "slug": "strikers-club",
+      "appid": "1952920",
+      "name": "Strikers Club",
+      "name_cn": null,
+      "description": "Strikers Club 是一款多人足球游戏，您可以作为一名球员进行比赛，并与其他球员进行激烈的比赛。每一步都很重要。掌握运球、传球和投篮，同时与你的团队合作击败对手。",
+      "release_date": "2026-07-17",
+      "genres": [
+        "动作",
+        "独立",
+        "模拟",
+        "体育",
+        "免费",
+        "抢先体验"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "应用内购买",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "部分支持控制器",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 77.0,
+      "review_total": 1991,
+      "developer": "Oddshot Games",
+      "publisher": "Oddshot Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952920/134cf5a567b4ee04a70712a786b5a5a4bf536647/header.jpg?t=1784307546",
+      "steam_url": "https://store.steampowered.com/app/1952920",
+      "trend": [
+        {
+          "date": "2026-07-18",
+          "peak": 4484
+        },
+        {
+          "date": "2026-07-19",
+          "peak": 10749
+        },
+        {
+          "date": "2026-07-20",
+          "peak": 10476
+        },
+        {
+          "date": "2026-07-21",
+          "peak": 11828
+        },
+        {
+          "date": "2026-07-22",
+          "peak": 11345
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Strikers Club 是一款免费抢先体验的多人足球对抗游戏。你控制一名场上球员，靠跑位、运球、传球和射门把局面推向己方；它把街头足球的即时对抗拆成需要队友接力完成的连续回合。",
+      "reference_frame": "可以把它理解成一套以手感和空间判断为核心的在线足球对局：个人带球能制造突破口，但最后的机会往往取决于队友是否读懂你的线路、补上接应，或及时回防。比起排兵布阵，重点是每一次触球后如何把球权变成下一步选择。",
+      "for_players": "它适合喜欢多人竞技、愿意反复练传球角度和无球跑动，也享受“这脚配合终于打出来了”那一刻的玩家。若你偏爱靠个人操作持续制造高光，也能从带球和射门里找到练习空间，但仍要接受队友配合会决定很多回合的上限。",
+      "not_for_players": "如果你更想要离线生涯、稳定推进的单人养成，或不喜欢在线对局里因陌生队友、失误和节奏变化反复调整决策，它可能不太对胃口。对操作反馈要求极低、希望用固定套路轻松取胜的玩家，也会被频繁的攻防转换和位置判断劝退。",
+      "star_reason": "Strikers Club 在 7 月 18 日观测峰值 4,484，至 7 月 22 日为 11,345，四天约增 153%，公开评价为 77% 好评、1,991 条评测。它仍在新作起量窗口里，拉升和持续涌入的评价让这款强调即时配合的足球对抗值得被看见。",
+      "core_loop": [
+        "在攻防转换里观察空当，带球摆脱或把球送到队友能继续处理的位置。",
+        "跟着队友的跑位接应、协防和压迫，把一次推进接成更接近球门的配合。",
+        "在射门或丢球后立刻重置站位，从下一次争球开始修正传球时机与风险判断。"
+      ],
+      "content_length": 599
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 24.2,
+    "fact_summary": "Strikers Club 今日观测峰值 11,345，未超过过往最高峰值 11,828，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 11345,
+      "previous_peak": 11828,
+      "previous_record_peak": 11828,
+      "growth_rate": -0.0408,
+      "record_growth_rate": -0.0408,
+      "scoring_peak": 11345,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.25,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 30.25,
+      "base_score": 24.2,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 77.0,
+      "review_total": 1991,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "独立",
+        "模拟",
+        "体育",
+        "免费",
+        "抢先体验"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-18",
+          "peak": 4484
+        },
+        {
+          "date": "2026-07-19",
+          "peak": 10749
+        },
+        {
+          "date": "2026-07-20",
+          "peak": 10476
+        },
+        {
+          "date": "2026-07-21",
+          "peak": 11828
+        },
+        {
+          "date": "2026-07-22",
+          "peak": 11345
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1952920"
+      }
+    ],
+    "game": {
+      "slug": "strikers-club",
+      "appid": "1952920",
+      "name": "Strikers Club",
+      "name_cn": null,
+      "description": "Strikers Club 是一款多人足球游戏，您可以作为一名球员进行比赛，并与其他球员进行激烈的比赛。每一步都很重要。掌握运球、传球和投篮，同时与你的团队合作击败对手。",
+      "release_date": "2026-07-17",
+      "genres": [
+        "动作",
+        "独立",
+        "模拟",
+        "体育",
+        "免费",
+        "抢先体验"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "应用内购买",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "部分支持控制器",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 77.0,
+      "review_total": 1991,
+      "developer": "Oddshot Games",
+      "publisher": "Oddshot Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952920/134cf5a567b4ee04a70712a786b5a5a4bf536647/header.jpg?t=1784307546",
+      "steam_url": "https://store.steampowered.com/app/1952920",
+      "trend": [
+        {
+          "date": "2026-07-18",
+          "peak": 4484
+        },
+        {
+          "date": "2026-07-19",
+          "peak": 10749
+        },
+        {
+          "date": "2026-07-20",
+          "peak": 10476
+        },
+        {
+          "date": "2026-07-21",
+          "peak": 11828
+        },
+        {
+          "date": "2026-07-22",
+          "peak": 11345
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Strikers Club 是一款免费抢先体验的多人足球对抗游戏。你控制一名场上球员，靠跑位、运球、传球和射门把局面推向己方；它把街头足球的即时对抗拆成需要队友接力完成的连续回合。",
+      "reference_frame": "可以把它理解成一套以手感和空间判断为核心的在线足球对局：个人带球能制造突破口，但最后的机会往往取决于队友是否读懂你的线路、补上接应，或及时回防。比起排兵布阵，重点是每一次触球后如何把球权变成下一步选择。",
+      "for_players": "它适合喜欢多人竞技、愿意反复练传球角度和无球跑动，也享受“这脚配合终于打出来了”那一刻的玩家。若你偏爱靠个人操作持续制造高光，也能从带球和射门里找到练习空间，但仍要接受队友配合会决定很多回合的上限。",
+      "not_for_players": "如果你更想要离线生涯、稳定推进的单人养成，或不喜欢在线对局里因陌生队友、失误和节奏变化反复调整决策，它可能不太对胃口。对操作反馈要求极低、希望用固定套路轻松取胜的玩家，也会被频繁的攻防转换和位置判断劝退。",
+      "star_reason": "Strikers Club 在 7 月 18 日观测峰值 4,484，至 7 月 22 日为 11,345，四天约增 153%，公开评价为 77% 好评、1,991 条评测。它仍在新作起量窗口里，拉升和持续涌入的评价让这款强调即时配合的足球对抗值得被看见。",
+      "core_loop": [
+        "在攻防转换里观察空当，带球摆脱或把球送到队友能继续处理的位置。",
+        "跟着队友的跑位接应、协防和压迫，把一次推进接成更接近球门的配合。",
+        "在射门或丢球后立刻重置站位，从下一次争球开始修正传球时机与风险判断。"
+      ],
+      "content_length": 599
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
