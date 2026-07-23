@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-23",
+  "title": "07.23 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 30.48,
+    "fact_summary": "Shift At Midnight 今日观测峰值 12,556，首次进入当前观察窗口，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 12556,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 12556,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.48,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 30.48,
+      "base_score": 30.48,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 90.0,
+      "review_total": 747,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-23",
+          "peak": 12556
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3722330"
+      }
+    ],
+    "game": {
+      "slug": "shift-at-midnight",
+      "appid": "3722330",
+      "name": "Shift At Midnight",
+      "name_cn": null,
+      "description": "一款支持最多 3 名玩家联机的合作侦探恐怖游戏。在随机生成的班次中，玩家需携手合作，调查前来的顾客。当心，并不是所有的顾客都是人类。一旦犯错，你们就得被迫封堵门窗、设置陷阱并躲藏起来。",
+      "release_date": "2026-07-22",
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "可调整文字大小",
+        "自定义音量控制",
+        "立体声",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 90.0,
+      "review_total": 747,
+      "developer": "Bun Muen",
+      "publisher": "Kwalee",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/7c230e17ecfde78d8c52b5d2e5e4aabbc10f5014/header_schinese.jpg?t=1784732222",
+      "steam_url": "https://store.steampowered.com/app/3722330",
+      "trend": [
+        {
+          "date": "2026-07-23",
+          "peak": 12556
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Shift At Midnight 是一款最多三人联机的侦探恐怖游戏：你们在随机夜班核查顾客，辨认谁并非人类；判断失手，接待工作就会变成封门、设陷阱与躲藏的求生局。",
+      "reference_frame": "它把合作推理和守点惊悚拧在同一个夜班里。恐怖感来自危险，也来自队伍能否说清异常并在失控前留出退路。",
+      "for_players": "它适合喜欢和熟人一起拆线索、愿意及时交流信息的玩家，也适合享受一次迟疑就全队救火。若你喜欢轮流观察和应急，能接受判断没有标准答案、还要在压力下执行分工，这个夜班会很对胃口。",
+      "not_for_players": "如果你更想独自按固定路线推进，或希望恐怖主要来自剧情而不是多人沟通与突发处置，它可能不合适。讨厌队友信息不全、意见相左，或不愿在失误后转入防守和躲藏的玩家，也容易被合作摩擦打断兴致。",
+      "star_reason": "Shift At Midnight 在 7 月 23 日的日峰值达到 12,556 人；7 月 22 日上线便进入趋势窗口，公开评价为 90% 好评、747 条。首轮峰值和快速累积的评价，让这场把顾客核查变成合作求生的夜班值得今天被看见。",
+      "core_loop": [
+        "观察前来的顾客，交流线索并决定是否把对方当作威胁处理。",
+        "判断出错或危险逼近时，与队友封堵入口、布置陷阱，给躲藏和脱身争取时间。",
+        "在下一批顾客到来前复盘异常，调整观察、沟通与应急分工。"
+      ],
+      "content_length": 498
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 30.48,
+    "fact_summary": "Shift At Midnight 今日观测峰值 12,556，首次进入当前观察窗口，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 12556,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 12556,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.48,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 30.48,
+      "base_score": 30.48,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 90.0,
+      "review_total": 747,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-23",
+          "peak": 12556
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3722330"
+      }
+    ],
+    "game": {
+      "slug": "shift-at-midnight",
+      "appid": "3722330",
+      "name": "Shift At Midnight",
+      "name_cn": null,
+      "description": "一款支持最多 3 名玩家联机的合作侦探恐怖游戏。在随机生成的班次中，玩家需携手合作，调查前来的顾客。当心，并不是所有的顾客都是人类。一旦犯错，你们就得被迫封堵门窗、设置陷阱并躲藏起来。",
+      "release_date": "2026-07-22",
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "可调整文字大小",
+        "自定义音量控制",
+        "立体声",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 90.0,
+      "review_total": 747,
+      "developer": "Bun Muen",
+      "publisher": "Kwalee",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/7c230e17ecfde78d8c52b5d2e5e4aabbc10f5014/header_schinese.jpg?t=1784732222",
+      "steam_url": "https://store.steampowered.com/app/3722330",
+      "trend": [
+        {
+          "date": "2026-07-23",
+          "peak": 12556
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Shift At Midnight 是一款最多三人联机的侦探恐怖游戏：你们在随机夜班核查顾客，辨认谁并非人类；判断失手，接待工作就会变成封门、设陷阱与躲藏的求生局。",
+      "reference_frame": "它把合作推理和守点惊悚拧在同一个夜班里。恐怖感来自危险，也来自队伍能否说清异常并在失控前留出退路。",
+      "for_players": "它适合喜欢和熟人一起拆线索、愿意及时交流信息的玩家，也适合享受一次迟疑就全队救火。若你喜欢轮流观察和应急，能接受判断没有标准答案、还要在压力下执行分工，这个夜班会很对胃口。",
+      "not_for_players": "如果你更想独自按固定路线推进，或希望恐怖主要来自剧情而不是多人沟通与突发处置，它可能不合适。讨厌队友信息不全、意见相左，或不愿在失误后转入防守和躲藏的玩家，也容易被合作摩擦打断兴致。",
+      "star_reason": "Shift At Midnight 在 7 月 23 日的日峰值达到 12,556 人；7 月 22 日上线便进入趋势窗口，公开评价为 90% 好评、747 条。首轮峰值和快速累积的评价，让这场把顾客核查变成合作求生的夜班值得今天被看见。",
+      "core_loop": [
+        "观察前来的顾客，交流线索并决定是否把对方当作威胁处理。",
+        "判断出错或危险逼近时，与队友封堵入口、布置陷阱，给躲藏和脱身争取时间。",
+        "在下一批顾客到来前复盘异常，调整观察、沟通与应急分工。"
+      ],
+      "content_length": 498
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

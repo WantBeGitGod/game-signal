@@ -1,0 +1,36 @@
+{
+  "slug": "shift-at-midnight",
+  "appid": "3722330",
+  "name": "Shift At Midnight",
+  "name_cn": null,
+  "description": "一款支持最多 3 名玩家联机的合作侦探恐怖游戏。在随机生成的班次中，玩家需携手合作，调查前来的顾客。当心，并不是所有的顾客都是人类。一旦犯错，你们就得被迫封堵门窗、设置陷阱并躲藏起来。",
+  "release_date": "2026-07-22",
+  "genres": [
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "可调整文字大小",
+    "自定义音量控制",
+    "立体声",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 90.0,
+  "review_total": 747,
+  "developer": "Bun Muen",
+  "publisher": "Kwalee",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/7c230e17ecfde78d8c52b5d2e5e4aabbc10f5014/header_schinese.jpg?t=1784732222",
+  "steam_url": "https://store.steampowered.com/app/3722330",
+  "trend": [
+    {
+      "date": "2026-07-23",
+      "peak": 12556
+    }
+  ]
+}
