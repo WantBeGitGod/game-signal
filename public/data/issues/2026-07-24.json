@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-24",
+  "title": "07.24 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 60.06,
+    "fact_summary": "DragonSword : Awakening 今日观测峰值 12,619，较过往最高峰值提升 +84%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 12619,
+      "previous_peak": 6841,
+      "previous_record_peak": 6841,
+      "growth_rate": 0.8446,
+      "record_growth_rate": 0.8446,
+      "scoring_peak": 12619,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.49,
+      "raw_record_growth_score": 29.56,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 29.56,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 60.06,
+      "base_score": 60.06,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 90.0,
+      "review_total": 1638,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-23",
+          "peak": 6841
+        },
+        {
+          "date": "2026-07-24",
+          "peak": 12619
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4570720"
+      }
+    ],
+    "game": {
+      "slug": "dragonsword-awakening",
+      "appid": "4570720",
+      "name": "DragonSword : Awakening",
+      "name_cn": null,
+      "description": "踏入由虚幻引擎5打造的动画风格开放世界，探索奥尔比斯大陆！集结个性鲜明的伙伴，以状态异常触发华丽的接力连携，共同迎战沉寂60年后再度复苏的巨龙，踏上拯救世界的壮阔旅程。",
+      "release_date": "2026-07-22",
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "视角舒适度",
+        "自定义音量控制",
+        "可调整难度",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "环绕声",
+        "部分支持控制器",
+        "Steam 云",
+        "统计数据",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 90.0,
+      "review_total": 1638,
+      "developer": "Hound13 Inc.",
+      "publisher": "Hound13 Inc.",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1784795371",
+      "steam_url": "https://store.steampowered.com/app/4570720",
+      "trend": [
+        {
+          "date": "2026-07-23",
+          "peak": 6841
+        },
+        {
+          "date": "2026-07-24",
+          "peak": 12619
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "DragonSword : Awakening 是一款动画风格的开放世界动作 RPG：你会在奥尔比斯大陆探索、结识伙伴，并把一场场围绕状态异常与接力连携展开的战斗，接到一条对抗复苏巨龙的冒险线上。",
+      "reference_frame": "它的重心不是单纯赶剧情，而是把开放区域探索、队伍搭配和实时动作战斗放进同一段旅程；想在战斗里看见伙伴配合与连携节奏的人，会比只想轻松看一段奇幻故事的玩家更容易进入状态。",
+      "for_players": "它适合喜欢动作 RPG、愿意在探索间隙停下来研究队伍配合的玩家；若你享受观察异常效果何时生效、把角色出手衔接起来，并愿意接受冒险推进与战斗反复交替的节奏，这趟旅程会有明确的可玩抓手。",
+      "not_for_players": "如果你更想要短回合、极少养成负担的纯动作流程，或只希望靠单一角色一路快速推进，伙伴配置和连携触发可能会显得拖慢节奏。对开放区域探索、奇幻主线和重复磨合战斗耐心有限的玩家，也未必会喜欢它的展开方式。",
+      "star_reason": "DragonSword : Awakening 在 7 月 24 日的日峰值来到 12,619 人，比前一天的 6,841 人增长 84%；上线两天已累积 1,638 条公开评价，90% 为好评。人数与评价在首周同时抬升，让这款把伙伴连携做进开放世界动作 RPG 的新作值得今天被看见。",
+      "core_loop": [
+        "在区域里推进探索与任务，寻找下一处战斗、目标和可继续前进的线索。",
+        "围绕伙伴与状态异常安排出手，用触发条件接上连携，把一轮进攻打完整。",
+        "面对更强敌人时调整队伍与战斗节奏，再回到大陆继续探索和积累。"
+      ],
+      "content_length": 587
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 60.06,
+    "fact_summary": "DragonSword : Awakening 今日观测峰值 12,619，较过往最高峰值提升 +84%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 12619,
+      "previous_peak": 6841,
+      "previous_record_peak": 6841,
+      "growth_rate": 0.8446,
+      "record_growth_rate": 0.8446,
+      "scoring_peak": 12619,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.49,
+      "raw_record_growth_score": 29.56,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 29.56,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 60.06,
+      "base_score": 60.06,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 90.0,
+      "review_total": 1638,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-23",
+          "peak": 6841
+        },
+        {
+          "date": "2026-07-24",
+          "peak": 12619
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4570720"
+      }
+    ],
+    "game": {
+      "slug": "dragonsword-awakening",
+      "appid": "4570720",
+      "name": "DragonSword : Awakening",
+      "name_cn": null,
+      "description": "踏入由虚幻引擎5打造的动画风格开放世界，探索奥尔比斯大陆！集结个性鲜明的伙伴，以状态异常触发华丽的接力连携，共同迎战沉寂60年后再度复苏的巨龙，踏上拯救世界的壮阔旅程。",
+      "release_date": "2026-07-22",
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "视角舒适度",
+        "自定义音量控制",
+        "可调整难度",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "环绕声",
+        "部分支持控制器",
+        "Steam 云",
+        "统计数据",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 90.0,
+      "review_total": 1638,
+      "developer": "Hound13 Inc.",
+      "publisher": "Hound13 Inc.",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1784795371",
+      "steam_url": "https://store.steampowered.com/app/4570720",
+      "trend": [
+        {
+          "date": "2026-07-23",
+          "peak": 6841
+        },
+        {
+          "date": "2026-07-24",
+          "peak": 12619
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "DragonSword : Awakening 是一款动画风格的开放世界动作 RPG：你会在奥尔比斯大陆探索、结识伙伴，并把一场场围绕状态异常与接力连携展开的战斗，接到一条对抗复苏巨龙的冒险线上。",
+      "reference_frame": "它的重心不是单纯赶剧情，而是把开放区域探索、队伍搭配和实时动作战斗放进同一段旅程；想在战斗里看见伙伴配合与连携节奏的人，会比只想轻松看一段奇幻故事的玩家更容易进入状态。",
+      "for_players": "它适合喜欢动作 RPG、愿意在探索间隙停下来研究队伍配合的玩家；若你享受观察异常效果何时生效、把角色出手衔接起来，并愿意接受冒险推进与战斗反复交替的节奏，这趟旅程会有明确的可玩抓手。",
+      "not_for_players": "如果你更想要短回合、极少养成负担的纯动作流程，或只希望靠单一角色一路快速推进，伙伴配置和连携触发可能会显得拖慢节奏。对开放区域探索、奇幻主线和重复磨合战斗耐心有限的玩家，也未必会喜欢它的展开方式。",
+      "star_reason": "DragonSword : Awakening 在 7 月 24 日的日峰值来到 12,619 人，比前一天的 6,841 人增长 84%；上线两天已累积 1,638 条公开评价，90% 为好评。人数与评价在首周同时抬升，让这款把伙伴连携做进开放世界动作 RPG 的新作值得今天被看见。",
+      "core_loop": [
+        "在区域里推进探索与任务，寻找下一处战斗、目标和可继续前进的线索。",
+        "围绕伙伴与状态异常安排出手，用触发条件接上连携，把一轮进攻打完整。",
+        "面对更强敌人时调整队伍与战斗节奏，再回到大陆继续探索和积累。"
+      ],
+      "content_length": 587
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
