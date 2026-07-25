@@ -1,0 +1,309 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-25",
+  "title": "07.25 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 52.2,
+    "fact_summary": "Pass the Fear 今日观测峰值 14,582，较过往最高峰值提升 +61%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 14582,
+      "previous_peak": 9059,
+      "previous_record_peak": 9059,
+      "growth_rate": 0.6097,
+      "record_growth_rate": 0.6097,
+      "scoring_peak": 14582,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.87,
+      "raw_record_growth_score": 21.34,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 21.34,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 52.2,
+      "base_score": 52.2,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 85.0,
+      "review_total": 679,
+      "days_seen": 3,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 3,
+      "steam_release_age_days": 3,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演",
+        "模拟",
+        "策略"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-23",
+          "peak": 2808
+        },
+        {
+          "date": "2026-07-24",
+          "peak": 9059
+        },
+        {
+          "date": "2026-07-25",
+          "peak": 14582
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3561220"
+      }
+    ],
+    "game": {
+      "slug": "pass-the-fear",
+      "appid": "3561220",
+      "name": "Pass the Fear",
+      "name_cn": null,
+      "description": "《风暴怕死队》是一款Roguelite弹幕射击游戏。一场魔女之灾突然来临，混沌的魔力化作了风暴之墙，巨大海浪与风暴将主岛围住，没有任何东西可以穿过它。在风暴之墙内，混沌魔力的侵蚀正在扩散，生灵正在逐渐腐化为怪物。身为猎魔人的你需要想尽一切办法逃离这座已经变成人间地狱的小岛。",
+      "release_date": "2026-07-22",
+      "genres": [
+        "动作",
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演",
+        "模拟",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 云",
+        "统计数据",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 85.0,
+      "review_total": 679,
+      "developer": "PlayMud Studio",
+      "publisher": "Paras Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/49cc489596676c359ed9289bddfdb93bc214eddf/header_schinese.jpg?t=1784799208",
+      "steam_url": "https://store.steampowered.com/app/3561220",
+      "trend": [
+        {
+          "date": "2026-07-23",
+          "peak": 2808
+        },
+        {
+          "date": "2026-07-24",
+          "peak": 9059
+        },
+        {
+          "date": "2026-07-25",
+          "peak": 14582
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Pass the Fear 是一款把逃离孤岛做成反复突围的 Roguelite 弹幕射击：风暴封住去路，混沌侵蚀把岛上的生灵变成怪物，你要在一局局高压移动与射击中找出活着离开的办法。",
+      "reference_frame": "它的重心是合作或单人都能成立的怪潮突围，而非慢慢解谜的恐怖探索；紧张感来自不断逼近的敌群、有限的生存空间，以及每次重开后还要重新处理的逃生节奏。",
+      "for_players": "适合喜欢在压力下保持走位、愿意反复练熟一局节奏的动作射击玩家；如果你想和朋友一起处理怪潮、互相补位，合作模式也给了这类逃生循环明确入口。能接受反复重开、看重操作与临场判断的人，会更容易从中得到乐趣。",
+      "not_for_players": "如果你更想要低压力的探索、以剧情和解谜为主的恐怖体验，或不喜欢一次失误就重新投入一局的 Roguelite 节奏，这种持续被怪潮追赶的推进方式可能会显得疲惫。只想站桩清图、不愿频繁移动调整的人，也未必适应它的核心压力。",
+      "star_reason": "Pass the Fear 在 7 月 25 日的日峰值达到 14,582 人，比此前 9,059 人的峰值提升 61%；7 月 22 日上线后已积累 679 条公开评价，其中 85% 为好评。上线第三天，人数和评价量同时继续抬升，因此今天值得被看见。",
+      "core_loop": [
+        "在被风暴围困的小岛上推进逃生路线，穿过被侵蚀的区域，寻找下一段能继续前进的空间。",
+        "一边移动和闪避，一边持续射击清理成群怪物，把短暂的安全位置换成下一次推进机会。",
+        "失手后重新开局，把对怪群节奏、路线和操作窗口的判断带回下一轮突围。"
+      ],
+      "content_length": 583
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 52.2,
+    "fact_summary": "Pass the Fear 今日观测峰值 14,582，较过往最高峰值提升 +61%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 14582,
+      "previous_peak": 9059,
+      "previous_record_peak": 9059,
+      "growth_rate": 0.6097,
+      "record_growth_rate": 0.6097,
+      "scoring_peak": 14582,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.87,
+      "raw_record_growth_score": 21.34,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 21.34,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 52.2,
+      "base_score": 52.2,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 85.0,
+      "review_total": 679,
+      "days_seen": 3,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 3,
+      "steam_release_age_days": 3,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演",
+        "模拟",
+        "策略"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-23",
+          "peak": 2808
+        },
+        {
+          "date": "2026-07-24",
+          "peak": 9059
+        },
+        {
+          "date": "2026-07-25",
+          "peak": 14582
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3561220"
+      }
+    ],
+    "game": {
+      "slug": "pass-the-fear",
+      "appid": "3561220",
+      "name": "Pass the Fear",
+      "name_cn": null,
+      "description": "《风暴怕死队》是一款Roguelite弹幕射击游戏。一场魔女之灾突然来临，混沌的魔力化作了风暴之墙，巨大海浪与风暴将主岛围住，没有任何东西可以穿过它。在风暴之墙内，混沌魔力的侵蚀正在扩散，生灵正在逐渐腐化为怪物。身为猎魔人的你需要想尽一切办法逃离这座已经变成人间地狱的小岛。",
+      "release_date": "2026-07-22",
+      "genres": [
+        "动作",
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演",
+        "模拟",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 云",
+        "统计数据",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 85.0,
+      "review_total": 679,
+      "developer": "PlayMud Studio",
+      "publisher": "Paras Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/49cc489596676c359ed9289bddfdb93bc214eddf/header_schinese.jpg?t=1784799208",
+      "steam_url": "https://store.steampowered.com/app/3561220",
+      "trend": [
+        {
+          "date": "2026-07-23",
+          "peak": 2808
+        },
+        {
+          "date": "2026-07-24",
+          "peak": 9059
+        },
+        {
+          "date": "2026-07-25",
+          "peak": 14582
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Pass the Fear 是一款把逃离孤岛做成反复突围的 Roguelite 弹幕射击：风暴封住去路，混沌侵蚀把岛上的生灵变成怪物，你要在一局局高压移动与射击中找出活着离开的办法。",
+      "reference_frame": "它的重心是合作或单人都能成立的怪潮突围，而非慢慢解谜的恐怖探索；紧张感来自不断逼近的敌群、有限的生存空间，以及每次重开后还要重新处理的逃生节奏。",
+      "for_players": "适合喜欢在压力下保持走位、愿意反复练熟一局节奏的动作射击玩家；如果你想和朋友一起处理怪潮、互相补位，合作模式也给了这类逃生循环明确入口。能接受反复重开、看重操作与临场判断的人，会更容易从中得到乐趣。",
+      "not_for_players": "如果你更想要低压力的探索、以剧情和解谜为主的恐怖体验，或不喜欢一次失误就重新投入一局的 Roguelite 节奏，这种持续被怪潮追赶的推进方式可能会显得疲惫。只想站桩清图、不愿频繁移动调整的人，也未必适应它的核心压力。",
+      "star_reason": "Pass the Fear 在 7 月 25 日的日峰值达到 14,582 人，比此前 9,059 人的峰值提升 61%；7 月 22 日上线后已积累 679 条公开评价，其中 85% 为好评。上线第三天，人数和评价量同时继续抬升，因此今天值得被看见。",
+      "core_loop": [
+        "在被风暴围困的小岛上推进逃生路线，穿过被侵蚀的区域，寻找下一段能继续前进的空间。",
+        "一边移动和闪避，一边持续射击清理成群怪物，把短暂的安全位置换成下一次推进机会。",
+        "失手后重新开局，把对怪群节奏、路线和操作窗口的判断带回下一轮突围。"
+      ],
+      "content_length": 583
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

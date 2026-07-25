@@ -1,0 +1,49 @@
+{
+  "slug": "pass-the-fear",
+  "appid": "3561220",
+  "name": "Pass the Fear",
+  "name_cn": null,
+  "description": "《风暴怕死队》是一款Roguelite弹幕射击游戏。一场魔女之灾突然来临，混沌的魔力化作了风暴之墙，巨大海浪与风暴将主岛围住，没有任何东西可以穿过它。在风暴之墙内，混沌魔力的侵蚀正在扩散，生灵正在逐渐腐化为怪物。身为猎魔人的你需要想尽一切办法逃离这座已经变成人间地狱的小岛。",
+  "release_date": "2026-07-22",
+  "genres": [
+    "动作",
+    "冒险",
+    "休闲",
+    "独立",
+    "角色扮演",
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 云",
+    "统计数据",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 85.0,
+  "review_total": 679,
+  "developer": "PlayMud Studio",
+  "publisher": "Paras Games",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/49cc489596676c359ed9289bddfdb93bc214eddf/header_schinese.jpg?t=1784799208",
+  "steam_url": "https://store.steampowered.com/app/3561220",
+  "trend": [
+    {
+      "date": "2026-07-23",
+      "peak": 2808
+    },
+    {
+      "date": "2026-07-24",
+      "peak": 9059
+    },
+    {
+      "date": "2026-07-25",
+      "peak": 14582
+    }
+  ]
+}
