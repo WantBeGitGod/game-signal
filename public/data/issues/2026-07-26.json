@@ -1,0 +1,309 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-26",
+  "title": "07.26 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 38.35,
+    "fact_summary": "Shift At Midnight 今日观测峰值 33,057，较过往最高峰值提升 +39%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 33057,
+      "previous_peak": 23817,
+      "previous_record_peak": 23817,
+      "growth_rate": 0.388,
+      "record_growth_rate": 0.388,
+      "scoring_peak": 33057,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 22.36,
+      "raw_record_growth_score": 13.58,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 13.58,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 47.93,
+      "base_score": 38.35,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 91.0,
+      "review_total": 2769,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-23",
+          "peak": 12556
+        },
+        {
+          "date": "2026-07-24",
+          "peak": 17328
+        },
+        {
+          "date": "2026-07-25",
+          "peak": 23817
+        },
+        {
+          "date": "2026-07-26",
+          "peak": 33057
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3722330"
+      }
+    ],
+    "game": {
+      "slug": "shift-at-midnight",
+      "appid": "3722330",
+      "name": "Shift At Midnight",
+      "name_cn": null,
+      "description": "一款支持最多 3 名玩家联机的合作侦探恐怖游戏。在随机生成的班次中，玩家需携手合作，调查前来的顾客。当心，并不是所有的顾客都是人类。一旦犯错，你们就得被迫封堵门窗、设置陷阱并躲藏起来。",
+      "release_date": "2026-07-22",
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "可调整文字大小",
+        "自定义音量控制",
+        "立体声",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 91.0,
+      "review_total": 2769,
+      "developer": "Bun Muen",
+      "publisher": "Kwalee",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/7c230e17ecfde78d8c52b5d2e5e4aabbc10f5014/header_schinese.jpg?t=1784981268",
+      "steam_url": "https://store.steampowered.com/app/3722330",
+      "trend": [
+        {
+          "date": "2026-07-23",
+          "peak": 12556
+        },
+        {
+          "date": "2026-07-24",
+          "peak": 17328
+        },
+        {
+          "date": "2026-07-25",
+          "peak": 23817
+        },
+        {
+          "date": "2026-07-26",
+          "peak": 33057
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Shift At Midnight 是一款最多三人联机的侦探恐怖游戏：夜班里，你们要核查上门的顾客，辨认谁仍是人类；一旦放错人进来，接待工作会变成封门、设陷阱与躲藏的求生局。",
+      "reference_frame": "它把合作推理和守点惊悚压进不断来客的夜班。紧张不只来自怪物现身，还来自队友能否说清各自看到的异常，并在失手前留出撤退路线。",
+      "for_players": "适合喜欢和熟人一起拆线索、愿意及时报点并接受信息不完整的合作玩家。它的乐趣在于一句迟疑就可能全队救火：如果你享受轮流观察、临场分工和把小失误补救回来的过程，这个夜班会很对胃口；不追求纯枪法，但需要愿意开口并听队友说话。",
+      "not_for_players": "如果你更想独自按固定路线推进，或希望恐怖主要由剧情和演出推动，它可能不合适。讨厌队友意见相左、无法忍受判断没有标准答案，或不愿在失手后转入防守与躲藏的玩家，也容易被它的合作摩擦打断兴致；随机班次的不确定性是整局压力的来源。",
+      "star_reason": "Shift At Midnight 在 7 月 26 日的日峰值达到 33,057 人，较此前峰值提升 39%；Steam 公开评价现为 91% 好评、2,769 条。它上线仅数日仍在把首轮热度推高，今天值得再看一眼这场把顾客核查变成合作求生的夜班。",
+      "core_loop": [
+        "观察前来报到的顾客，核对异常、交换线索，并决定要放行、盘问还是先把对方当作威胁处理。",
+        "危险逼近时和队友封堵门窗、布置陷阱、分配躲藏与牵制的位置，把混乱压回可控范围。",
+        "在下一批顾客到来前复盘误判，调整观察重点、沟通方式和应急分工，迎接更难预测的一轮夜班。"
+      ],
+      "content_length": 600
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 38.35,
+    "fact_summary": "Shift At Midnight 今日观测峰值 33,057，较过往最高峰值提升 +39%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 33057,
+      "previous_peak": 23817,
+      "previous_record_peak": 23817,
+      "growth_rate": 0.388,
+      "record_growth_rate": 0.388,
+      "scoring_peak": 33057,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 22.36,
+      "raw_record_growth_score": 13.58,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 13.58,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 47.93,
+      "base_score": 38.35,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 91.0,
+      "review_total": 2769,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-23",
+          "peak": 12556
+        },
+        {
+          "date": "2026-07-24",
+          "peak": 17328
+        },
+        {
+          "date": "2026-07-25",
+          "peak": 23817
+        },
+        {
+          "date": "2026-07-26",
+          "peak": 33057
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3722330"
+      }
+    ],
+    "game": {
+      "slug": "shift-at-midnight",
+      "appid": "3722330",
+      "name": "Shift At Midnight",
+      "name_cn": null,
+      "description": "一款支持最多 3 名玩家联机的合作侦探恐怖游戏。在随机生成的班次中，玩家需携手合作，调查前来的顾客。当心，并不是所有的顾客都是人类。一旦犯错，你们就得被迫封堵门窗、设置陷阱并躲藏起来。",
+      "release_date": "2026-07-22",
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "可调整文字大小",
+        "自定义音量控制",
+        "立体声",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 91.0,
+      "review_total": 2769,
+      "developer": "Bun Muen",
+      "publisher": "Kwalee",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/7c230e17ecfde78d8c52b5d2e5e4aabbc10f5014/header_schinese.jpg?t=1784981268",
+      "steam_url": "https://store.steampowered.com/app/3722330",
+      "trend": [
+        {
+          "date": "2026-07-23",
+          "peak": 12556
+        },
+        {
+          "date": "2026-07-24",
+          "peak": 17328
+        },
+        {
+          "date": "2026-07-25",
+          "peak": 23817
+        },
+        {
+          "date": "2026-07-26",
+          "peak": 33057
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Shift At Midnight 是一款最多三人联机的侦探恐怖游戏：夜班里，你们要核查上门的顾客，辨认谁仍是人类；一旦放错人进来，接待工作会变成封门、设陷阱与躲藏的求生局。",
+      "reference_frame": "它把合作推理和守点惊悚压进不断来客的夜班。紧张不只来自怪物现身，还来自队友能否说清各自看到的异常，并在失手前留出撤退路线。",
+      "for_players": "适合喜欢和熟人一起拆线索、愿意及时报点并接受信息不完整的合作玩家。它的乐趣在于一句迟疑就可能全队救火：如果你享受轮流观察、临场分工和把小失误补救回来的过程，这个夜班会很对胃口；不追求纯枪法，但需要愿意开口并听队友说话。",
+      "not_for_players": "如果你更想独自按固定路线推进，或希望恐怖主要由剧情和演出推动，它可能不合适。讨厌队友意见相左、无法忍受判断没有标准答案，或不愿在失手后转入防守与躲藏的玩家，也容易被它的合作摩擦打断兴致；随机班次的不确定性是整局压力的来源。",
+      "star_reason": "Shift At Midnight 在 7 月 26 日的日峰值达到 33,057 人，较此前峰值提升 39%；Steam 公开评价现为 91% 好评、2,769 条。它上线仅数日仍在把首轮热度推高，今天值得再看一眼这场把顾客核查变成合作求生的夜班。",
+      "core_loop": [
+        "观察前来报到的顾客，核对异常、交换线索，并决定要放行、盘问还是先把对方当作威胁处理。",
+        "危险逼近时和队友封堵门窗、布置陷阱、分配躲藏与牵制的位置，把混乱压回可控范围。",
+        "在下一批顾客到来前复盘误判，调整观察重点、沟通方式和应急分工，迎接更难预测的一轮夜班。"
+      ],
+      "content_length": 600
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
