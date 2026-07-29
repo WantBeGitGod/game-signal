@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-27",
+  "title": "07.27 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 37.87,
+    "fact_summary": "Scrap Mechanic 今日观测峰值 37,801，较过往最高峰值提升 +7%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 37801,
+      "previous_peak": 35169,
+      "previous_record_peak": 35169,
+      "growth_rate": 0.0748,
+      "record_growth_rate": 0.0748,
+      "scoring_peak": 37801,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 23.25,
+      "raw_record_growth_score": 2.62,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 2.62,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 37.87,
+      "base_score": 37.87,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 92.0,
+      "review_total": 120026,
+      "days_seen": 3,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 3,
+      "steam_release_age_days": 3,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "模拟"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-25",
+          "peak": 35169
+        },
+        {
+          "date": "2026-07-26",
+          "peak": 33690
+        },
+        {
+          "date": "2026-07-27",
+          "peak": 37801
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/387990"
+      }
+    ],
+    "game": {
+      "slug": "scrap-mechanic",
+      "appid": "387990",
+      "name": "Scrap Mechanic",
+      "name_cn": null,
+      "description": "Enter the creative paradise of Scrap Mechanic! Build fantastic machines, go on adventures with your friends and defend against waves of evil Farmbots in this imaginative multiplayer survival sandbox. With Scrap Mechanic’s powerful creation tools you can engineer your own adventures!",
+      "release_date": "2026-07-24",
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 创意工坊",
+        "Steam 云",
+        "包含关卡编辑器",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 92.0,
+      "review_total": 120026,
+      "developer": "Axolot Games",
+      "publisher": "Axolot Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/5c31bde0a901d9459a8d8c556c5a44262b5f57e4/header.jpg?t=1784914037",
+      "steam_url": "https://store.steampowered.com/app/387990",
+      "trend": [
+        {
+          "date": "2026-07-25",
+          "peak": 35169
+        },
+        {
+          "date": "2026-07-26",
+          "peak": 33690
+        },
+        {
+          "date": "2026-07-27",
+          "peak": 37801
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Scrap Mechanic 是一款围绕物理搭建展开的沙盒生存冒险。你坠落在失控的农业星球，一边搜集材料、种田和探索，一边把零件拼成载具、自动机器与基地，用自己的造物解决移动、防守和战斗问题。",
+      "reference_frame": "它不是照着固定配方把装备做出来就结束，真正的考题是“这台东西能不能工作”：创意模式给你四百多种部件自由试造，生存模式则让每次搭建都要接受地形、资源和敌对机器人的检验；挑战模式还用四十个关卡单独考机械思路。",
+      "for_players": "适合喜欢物理建造、愿意自己设目标并从失败里找结构问题的人。和朋友分工搜资源、造机器、守基地，会让合作乐趣更明显；只想安静试验奇怪载具，也可以直接进入创意模式。",
+      "not_for_players": "如果你更想要一路明确指路的线性冒险，或希望战斗主要靠角色技能和即时操作取胜，它未必对胃口。搭建、试车、翻车、再修改会占掉大量时间，乐趣也很依赖你是否享受这个过程。",
+      "star_reason": "Scrap Mechanic 在 7 月 27 日达到 37,801 的观测峰值，比此前纪录高约 7%，是当天模型第一的「新作起量」。当日公开评价为 119,691 条、92% 好评；正式发行后的新高与长期积累的口碑同时出现，值得补回当天的今日之星。",
+      "core_loop": [
+        "探索地表与地下，收集材料、经营农田，把冒险所得换成下一轮建造需要的资源。",
+        "围绕当前问题搭载部件，造出能运输、采掘、防守或战斗的载具与设施，再实际开动测试。",
+        "带着造物对付失控的农场机器人、保护物资；发现结构或功能短板后，回到工位继续拆改升级。"
+      ],
+      "content_length": 587
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 37.87,
+    "fact_summary": "Scrap Mechanic 今日观测峰值 37,801，较过往最高峰值提升 +7%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 37801,
+      "previous_peak": 35169,
+      "previous_record_peak": 35169,
+      "growth_rate": 0.0748,
+      "record_growth_rate": 0.0748,
+      "scoring_peak": 37801,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 23.25,
+      "raw_record_growth_score": 2.62,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 2.62,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 37.87,
+      "base_score": 37.87,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 92.0,
+      "review_total": 120026,
+      "days_seen": 3,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 3,
+      "steam_release_age_days": 3,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "模拟"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-25",
+          "peak": 35169
+        },
+        {
+          "date": "2026-07-26",
+          "peak": 33690
+        },
+        {
+          "date": "2026-07-27",
+          "peak": 37801
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/387990"
+      }
+    ],
+    "game": {
+      "slug": "scrap-mechanic",
+      "appid": "387990",
+      "name": "Scrap Mechanic",
+      "name_cn": null,
+      "description": "Enter the creative paradise of Scrap Mechanic! Build fantastic machines, go on adventures with your friends and defend against waves of evil Farmbots in this imaginative multiplayer survival sandbox. With Scrap Mechanic’s powerful creation tools you can engineer your own adventures!",
+      "release_date": "2026-07-24",
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 创意工坊",
+        "Steam 云",
+        "包含关卡编辑器",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 92.0,
+      "review_total": 120026,
+      "developer": "Axolot Games",
+      "publisher": "Axolot Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/5c31bde0a901d9459a8d8c556c5a44262b5f57e4/header.jpg?t=1784914037",
+      "steam_url": "https://store.steampowered.com/app/387990",
+      "trend": [
+        {
+          "date": "2026-07-25",
+          "peak": 35169
+        },
+        {
+          "date": "2026-07-26",
+          "peak": 33690
+        },
+        {
+          "date": "2026-07-27",
+          "peak": 37801
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Scrap Mechanic 是一款围绕物理搭建展开的沙盒生存冒险。你坠落在失控的农业星球，一边搜集材料、种田和探索，一边把零件拼成载具、自动机器与基地，用自己的造物解决移动、防守和战斗问题。",
+      "reference_frame": "它不是照着固定配方把装备做出来就结束，真正的考题是“这台东西能不能工作”：创意模式给你四百多种部件自由试造，生存模式则让每次搭建都要接受地形、资源和敌对机器人的检验；挑战模式还用四十个关卡单独考机械思路。",
+      "for_players": "适合喜欢物理建造、愿意自己设目标并从失败里找结构问题的人。和朋友分工搜资源、造机器、守基地，会让合作乐趣更明显；只想安静试验奇怪载具，也可以直接进入创意模式。",
+      "not_for_players": "如果你更想要一路明确指路的线性冒险，或希望战斗主要靠角色技能和即时操作取胜，它未必对胃口。搭建、试车、翻车、再修改会占掉大量时间，乐趣也很依赖你是否享受这个过程。",
+      "star_reason": "Scrap Mechanic 在 7 月 27 日达到 37,801 的观测峰值，比此前纪录高约 7%，是当天模型第一的「新作起量」。当日公开评价为 119,691 条、92% 好评；正式发行后的新高与长期积累的口碑同时出现，值得补回当天的今日之星。",
+      "core_loop": [
+        "探索地表与地下，收集材料、经营农田，把冒险所得换成下一轮建造需要的资源。",
+        "围绕当前问题搭载部件，造出能运输、采掘、防守或战斗的载具与设施，再实际开动测试。",
+        "带着造物对付失控的农场机器人、保护物资；发现结构或功能短板后，回到工位继续拆改升级。"
+      ],
+      "content_length": 587
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
