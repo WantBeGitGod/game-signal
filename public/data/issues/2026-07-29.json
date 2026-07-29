@@ -1,0 +1,349 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-29",
+  "title": "07.29 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 42.33,
+    "fact_summary": "Halo: Campaign Evolved 今日观测峰值 25,376，较过往最高峰值提升 +27%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 25376,
+      "previous_peak": 19992,
+      "previous_record_peak": 19992,
+      "growth_rate": 0.2693,
+      "record_growth_rate": 0.2693,
+      "scoring_peak": 25376,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 20.9,
+      "raw_record_growth_score": 9.43,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 9.43,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 42.33,
+      "base_score": 42.33,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 69.0,
+      "review_total": 6510,
+      "days_seen": 5,
+      "comeback_gap_days": 2,
+      "is_new_release": true,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-24",
+          "peak": 19992
+        },
+        {
+          "date": "2026-07-25",
+          "peak": 15840
+        },
+        {
+          "date": "2026-07-26",
+          "peak": 12747
+        },
+        {
+          "date": "2026-07-27",
+          "peak": 10398
+        },
+        {
+          "date": "2026-07-29",
+          "peak": 25376
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2806050"
+      }
+    ],
+    "game": {
+      "slug": "halo-campaign-evolved",
+      "appid": "2806050",
+      "name": "Halo: Campaign Evolved",
+      "name_cn": null,
+      "description": "体验传奇的起点.",
+      "release_date": "2026-07-28",
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "可调整文字大小",
+        "视角舒适度",
+        "聊天语音转文字",
+        "聊天文字转语音",
+        "可选颜色",
+        "自定义音量控制",
+        "可调整难度",
+        "朗读游戏菜单",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 69.0,
+      "review_total": 6510,
+      "developer": "Halo Studios",
+      "publisher": "Xbox Game Studios",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1785260966",
+      "steam_url": "https://store.steampowered.com/app/2806050",
+      "trend": [
+        {
+          "date": "2026-07-24",
+          "peak": 19992
+        },
+        {
+          "date": "2026-07-25",
+          "peak": 15840
+        },
+        {
+          "date": "2026-07-26",
+          "peak": 12747
+        },
+        {
+          "date": "2026-07-27",
+          "peak": 10398
+        },
+        {
+          "date": "2026-07-29",
+          "peak": 25376
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Halo: Campaign Evolved 是把《Halo: Combat Evolved》战役从头重制的第一人称科幻射击游戏：士官长仍在环带世界推进、夺回阵地、对抗星盟，关卡、过场和操控则按今天的节奏重做。",
+      "reference_frame": "它的乐趣在于枪、雷、载具和遭遇战空间彼此咬合：新增武器、可夺取的敌方载具和 Skull 修正项让老战役多了新的处理方式；单人清关，或四人协同推进，都能成立。",
+      "for_players": "适合喜欢关卡式 FPS，愿意在同一场遭遇战里切换枪械、手雷和载具的人。和朋友一起清点敌人、互相补位、稳定推进长战役，能放大四人联机的乐趣；想回到经典战役结构、又希望操作和演出更现代的玩家，也容易进入状态。",
+      "not_for_players": "如果你更想要开放世界养成、每局彻底不同的随机流程，或把 PvP 当作 Halo 的主要乐趣，这部线性战役重制未必对胃口。它仍要你反复处理遭遇战，并在高强度战斗里取舍弹药、掩体和载具。",
+      "star_reason": "Halo: Campaign Evolved 在 7 月 29 日的观测峰值为 25,376，较此前峰值提升 27%，是当天模型第一的「新作起量」。当日公开评价为 6,510 条、69% 好评；首发后的人数抬升与仍在形成的反馈，让它值得在今天被看见。",
+      "core_loop": [
+        "观察敌人、掩体和载具位置，挑好武器与手雷，先撕开眼前遭遇战的火力缺口。",
+        "推进时根据弹药和队友位置改打法，必要时夺取敌方载具，换一条更安全的进攻路线。",
+        "通关后开 Skull 重玩任务，改变武器、敌人或环境限制，重新找适合这套规则的节奏。"
+      ],
+      "content_length": 590
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 42.33,
+    "fact_summary": "Halo: Campaign Evolved 今日观测峰值 25,376，较过往最高峰值提升 +27%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 25376,
+      "previous_peak": 19992,
+      "previous_record_peak": 19992,
+      "growth_rate": 0.2693,
+      "record_growth_rate": 0.2693,
+      "scoring_peak": 25376,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 20.9,
+      "raw_record_growth_score": 9.43,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 9.43,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 42.33,
+      "base_score": 42.33,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 69.0,
+      "review_total": 6510,
+      "days_seen": 5,
+      "comeback_gap_days": 2,
+      "is_new_release": true,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-24",
+          "peak": 19992
+        },
+        {
+          "date": "2026-07-25",
+          "peak": 15840
+        },
+        {
+          "date": "2026-07-26",
+          "peak": 12747
+        },
+        {
+          "date": "2026-07-27",
+          "peak": 10398
+        },
+        {
+          "date": "2026-07-29",
+          "peak": 25376
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2806050"
+      }
+    ],
+    "game": {
+      "slug": "halo-campaign-evolved",
+      "appid": "2806050",
+      "name": "Halo: Campaign Evolved",
+      "name_cn": null,
+      "description": "体验传奇的起点.",
+      "release_date": "2026-07-28",
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "可调整文字大小",
+        "视角舒适度",
+        "聊天语音转文字",
+        "聊天文字转语音",
+        "可选颜色",
+        "自定义音量控制",
+        "可调整难度",
+        "朗读游戏菜单",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 69.0,
+      "review_total": 6510,
+      "developer": "Halo Studios",
+      "publisher": "Xbox Game Studios",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1785260966",
+      "steam_url": "https://store.steampowered.com/app/2806050",
+      "trend": [
+        {
+          "date": "2026-07-24",
+          "peak": 19992
+        },
+        {
+          "date": "2026-07-25",
+          "peak": 15840
+        },
+        {
+          "date": "2026-07-26",
+          "peak": 12747
+        },
+        {
+          "date": "2026-07-27",
+          "peak": 10398
+        },
+        {
+          "date": "2026-07-29",
+          "peak": 25376
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Halo: Campaign Evolved 是把《Halo: Combat Evolved》战役从头重制的第一人称科幻射击游戏：士官长仍在环带世界推进、夺回阵地、对抗星盟，关卡、过场和操控则按今天的节奏重做。",
+      "reference_frame": "它的乐趣在于枪、雷、载具和遭遇战空间彼此咬合：新增武器、可夺取的敌方载具和 Skull 修正项让老战役多了新的处理方式；单人清关，或四人协同推进，都能成立。",
+      "for_players": "适合喜欢关卡式 FPS，愿意在同一场遭遇战里切换枪械、手雷和载具的人。和朋友一起清点敌人、互相补位、稳定推进长战役，能放大四人联机的乐趣；想回到经典战役结构、又希望操作和演出更现代的玩家，也容易进入状态。",
+      "not_for_players": "如果你更想要开放世界养成、每局彻底不同的随机流程，或把 PvP 当作 Halo 的主要乐趣，这部线性战役重制未必对胃口。它仍要你反复处理遭遇战，并在高强度战斗里取舍弹药、掩体和载具。",
+      "star_reason": "Halo: Campaign Evolved 在 7 月 29 日的观测峰值为 25,376，较此前峰值提升 27%，是当天模型第一的「新作起量」。当日公开评价为 6,510 条、69% 好评；首发后的人数抬升与仍在形成的反馈，让它值得在今天被看见。",
+      "core_loop": [
+        "观察敌人、掩体和载具位置，挑好武器与手雷，先撕开眼前遭遇战的火力缺口。",
+        "推进时根据弹药和队友位置改打法，必要时夺取敌方载具，换一条更安全的进攻路线。",
+        "通关后开 Skull 重玩任务，改变武器、敌人或环境限制，重新找适合这套规则的节奏。"
+      ],
+      "content_length": 590
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

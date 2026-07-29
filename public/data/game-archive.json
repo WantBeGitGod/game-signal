@@ -1,7 +1,31 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-26T18:17:18",
+  "generated_at": "2026-07-29T18:17:08",
   "games": [
+    {
+      "game": {
+        "slug": "halo-campaign-evolved",
+        "appid": "2806050",
+        "name": "Halo: Campaign Evolved",
+        "name_cn": null,
+        "description": "体验传奇的起点.",
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "developer": "Halo Studios",
+        "publisher": "Xbox Game Studios",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1785260966"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-07-29"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-07-29"
+    },
     {
       "game": {
         "slug": "shift-at-midnight",
