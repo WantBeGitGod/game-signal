@@ -1,0 +1,41 @@
+{
+  "slug": "mistfall-hunter",
+  "appid": "3282300",
+  "name": "Mistfall Hunter",
+  "name_cn": null,
+  "description": "《雾影猎人》是一款黑暗奇幻动作搜打撤游戏。 根据不同职业精心搭配技能、天赋、装备，领略第三人称视角下的精彩动作战斗！或与队友密切配合，或孤身一人加入战场，唯有杀出重围，方能满载而归。猎金人，祝你好运。",
+  "release_date": "2026-07-29",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "应用内购买",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "部分支持控制器",
+    "可用 HDR",
+    "家庭共享"
+  ],
+  "review_score": "Mixed",
+  "review_ratio": 57.0,
+  "review_total": 672,
+  "developer": "Bellring Games",
+  "publisher": "Skystone Games",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/7419c62546f87086783090714bfe090ebc030606/header_alt_assets_8_schinese.jpg?t=1785374850",
+  "steam_url": "https://store.steampowered.com/app/3282300",
+  "trend": [
+    {
+      "date": "2026-07-30",
+      "peak": 21844
+    }
+  ]
+}

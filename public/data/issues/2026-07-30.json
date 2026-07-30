@@ -1,0 +1,267 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-30",
+  "title": "07.30 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 32.24,
+    "fact_summary": "Mistfall Hunter 今日观测峰值 21,844，首次进入当前观察窗口，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 21844,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 21844,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 20.24,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 32.24,
+      "base_score": 32.24,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 57.0,
+      "review_total": 672,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-30",
+          "peak": 21844
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3282300"
+      }
+    ],
+    "game": {
+      "slug": "mistfall-hunter",
+      "appid": "3282300",
+      "name": "Mistfall Hunter",
+      "name_cn": null,
+      "description": "《雾影猎人》是一款黑暗奇幻动作搜打撤游戏。 根据不同职业精心搭配技能、天赋、装备，领略第三人称视角下的精彩动作战斗！或与队友密切配合，或孤身一人加入战场，唯有杀出重围，方能满载而归。猎金人，祝你好运。",
+      "release_date": "2026-07-29",
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "应用内购买",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "部分支持控制器",
+        "可用 HDR",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 57.0,
+      "review_total": 672,
+      "developer": "Bellring Games",
+      "publisher": "Skystone Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/7419c62546f87086783090714bfe090ebc030606/header_alt_assets_8_schinese.jpg?t=1785374850",
+      "steam_url": "https://store.steampowered.com/app/3282300",
+      "trend": [
+        {
+          "date": "2026-07-30",
+          "peak": 21844
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Mistfall Hunter 是一款把黑暗奇幻近战、职业 Build 和带着战利品撤出的风险放进同一局里的第三人称动作搜打撤：单人或组队进场，在 PvE 威胁与其他玩家之间找一条能活着带货离开的路。",
+      "reference_frame": "它把闪避、格挡和技能时机这些动作 RPG 的交手，接到会损失装备、会被伏击打断的撤离流程上。职业、天赋和装备决定你愿意接什么风险，也决定队伍里能承担什么位置。",
+      "for_players": "适合喜欢第三人称动作对抗、愿意练近战节奏和技能衔接，也愿意为装备价值、路线判断和队友配合负责的人。想把职业构筑做出差异，同时享受“这一趟能否安全带回去”的紧张感，会更容易进入状态。",
+      "not_for_players": "如果你更想要完全可控的单人 PvE、低惩罚的刷装成长，或不喜欢资源到手后仍要防备埋伏与第三方介入，它的压力点可能会盖过动作战斗本身。",
+      "star_reason": "Mistfall Hunter 在 7 月 30 日观测到 21,844 的当日峰值，作为刚上线的新作进入当天模型第 1 名，得到「新作起量」信号。同期公开 Steam 评价为 672 条、57% 好评：首日人流已很大，口碑仍在形成，正适合现在看清它的适配与摩擦。",
+      "core_loop": [
+        "进场前按职业挑选技能、天赋和装备，决定这趟是保守找资源，还是带足战力去碰更高价值的目标。",
+        "清理威胁、搜集战利品，同时判断别的玩家或队伍会不会把 PvE 遭遇变成抢夺战；有收获后决定继续深入还是撤出。",
+        "成功带回资源后调整下一次的 Build 和组队分工，失败则承受这趟投入的损失。"
+      ],
+      "content_length": 576
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 32.24,
+    "fact_summary": "Mistfall Hunter 今日观测峰值 21,844，首次进入当前观察窗口，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 21844,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 21844,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 20.24,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 12.0,
+      "score_before_multiplier": 32.24,
+      "base_score": 32.24,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 57.0,
+      "review_total": 672,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "steam",
+      "release_verification_required": false,
+      "release_verification": null,
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "trend": [
+        {
+          "date": "2026-07-30",
+          "peak": 21844
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3282300"
+      }
+    ],
+    "game": {
+      "slug": "mistfall-hunter",
+      "appid": "3282300",
+      "name": "Mistfall Hunter",
+      "name_cn": null,
+      "description": "《雾影猎人》是一款黑暗奇幻动作搜打撤游戏。 根据不同职业精心搭配技能、天赋、装备，领略第三人称视角下的精彩动作战斗！或与队友密切配合，或孤身一人加入战场，唯有杀出重围，方能满载而归。猎金人，祝你好运。",
+      "release_date": "2026-07-29",
+      "genres": [
+        "动作",
+        "冒险"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "应用内购买",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "部分支持控制器",
+        "可用 HDR",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 57.0,
+      "review_total": 672,
+      "developer": "Bellring Games",
+      "publisher": "Skystone Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/7419c62546f87086783090714bfe090ebc030606/header_alt_assets_8_schinese.jpg?t=1785374850",
+      "steam_url": "https://store.steampowered.com/app/3282300",
+      "trend": [
+        {
+          "date": "2026-07-30",
+          "peak": 21844
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Mistfall Hunter 是一款把黑暗奇幻近战、职业 Build 和带着战利品撤出的风险放进同一局里的第三人称动作搜打撤：单人或组队进场，在 PvE 威胁与其他玩家之间找一条能活着带货离开的路。",
+      "reference_frame": "它把闪避、格挡和技能时机这些动作 RPG 的交手，接到会损失装备、会被伏击打断的撤离流程上。职业、天赋和装备决定你愿意接什么风险，也决定队伍里能承担什么位置。",
+      "for_players": "适合喜欢第三人称动作对抗、愿意练近战节奏和技能衔接，也愿意为装备价值、路线判断和队友配合负责的人。想把职业构筑做出差异，同时享受“这一趟能否安全带回去”的紧张感，会更容易进入状态。",
+      "not_for_players": "如果你更想要完全可控的单人 PvE、低惩罚的刷装成长，或不喜欢资源到手后仍要防备埋伏与第三方介入，它的压力点可能会盖过动作战斗本身。",
+      "star_reason": "Mistfall Hunter 在 7 月 30 日观测到 21,844 的当日峰值，作为刚上线的新作进入当天模型第 1 名，得到「新作起量」信号。同期公开 Steam 评价为 672 条、57% 好评：首日人流已很大，口碑仍在形成，正适合现在看清它的适配与摩擦。",
+      "core_loop": [
+        "进场前按职业挑选技能、天赋和装备，决定这趟是保守找资源，还是带足战力去碰更高价值的目标。",
+        "清理威胁、搜集战利品，同时判断别的玩家或队伍会不会把 PvE 遭遇变成抢夺战；有收获后决定继续深入还是撤出。",
+        "成功带回资源后调整下一次的 Build 和组队分工，失败则承受这趟投入的损失。"
+      ],
+      "content_length": 576
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
