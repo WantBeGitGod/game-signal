@@ -21,9 +21,11 @@
     "聊天语音转文字",
     "聊天文字转语音",
     "可选颜色",
+    "#category_contrast_controls",
     "自定义音量控制",
     "可调整难度",
     "朗读游戏菜单",
+    "#category_playable_at_your_own_pace",
     "无需应对快速反应事件",
     "DUALSHOCK 控制器支持",
     "DUALSHOCK 控制器支持",
@@ -35,11 +37,11 @@
     "家庭共享"
   ],
   "review_score": "Mixed",
-  "review_ratio": 69.0,
-  "review_total": 6510,
+  "review_ratio": 66.0,
+  "review_total": 7792,
   "developer": "Halo Studios",
   "publisher": "Xbox Game Studios",
-  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1785260966",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1785367749",
   "steam_url": "https://store.steampowered.com/app/2806050",
   "trend": [
     {
@@ -59,8 +61,8 @@
       "peak": 10398
     },
     {
-      "date": "2026-07-29",
-      "peak": 25376
+      "date": "2026-07-28",
+      "peak": 18003
     }
   ]
 }
