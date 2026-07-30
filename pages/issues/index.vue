@@ -15,7 +15,7 @@
               <h2>{{ displayGameName(starSignal(issue).game) }}</h2>
             </div>
             <div v-if="observedPeak(issue)" class="issue-row-peak">
-              <span class="issue-row-peak-label">今日观测峰值</span>
+              <span class="issue-row-peak-label">{{ observedMetricLabel(issue) }}</span>
               <strong>{{ observedPeak(issue) }}</strong>
               <span class="issue-row-peak-unit">人在线</span>
             </div>
@@ -54,5 +54,12 @@ function observedPeak(issue: DailyIssue) {
   const value = starSignal(issue).metrics.current_peak
   if (typeof value !== "number" || !Number.isFinite(value) || value < 0) return null
   return peakFormatter.format(value)
+}
+
+function observedMetricLabel(issue: DailyIssue) {
+  const observationKind = starSignal(issue).metrics.recovery_observation_kind
+  if (observationKind === "players_now") return "归档时点在线"
+  if (observationKind === "players_now_and_peak_24h") return "归档 24h 峰值"
+  return "今日观测峰值"
 }
 </script>

@@ -26,7 +26,7 @@
       <p class="cover-deck">{{ starSignal.fact_summary }}</p>
       <div class="cover-metrics">
         <div>
-          <span>观察峰值</span>
+          <span>{{ peakMetricLabel }}</span>
           <strong>{{ formatNumber(Number(starSignal.metrics.current_peak)) }}</strong>
         </div>
         <div>
@@ -53,6 +53,12 @@ import type { DailyIssue } from "~/types/public"
 const props = defineProps<{ issue: DailyIssue }>()
 const mainCoverFailed = ref(false)
 const starSignal = computed(() => props.issue.star_signal || props.issue.main_signal)
+const peakMetricLabel = computed(() => {
+  const observationKind = starSignal.value.metrics.recovery_observation_kind
+  if (observationKind === "players_now") return "归档时点在线"
+  if (observationKind === "players_now_and_peak_24h") return "归档 24h 峰值"
+  return "观察峰值"
+})
 const starAppearanceCount = computed(() => {
   const explicit = starSignal.value.star_appearance?.count
   const fallback = Number(starSignal.value.metrics.star_appearance_count || starSignal.value.metrics.total_star_count || 1)
