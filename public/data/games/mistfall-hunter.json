@@ -25,17 +25,28 @@
     "可用 HDR",
     "家庭共享"
   ],
-  "review_score": "Mixed",
-  "review_ratio": 57.0,
-  "review_total": 672,
+  "review_score": "Mostly Positive",
+  "review_ratio": 70.0,
+  "review_total": 3838,
   "developer": "Bellring Games",
   "publisher": "Skystone Games",
-  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/7419c62546f87086783090714bfe090ebc030606/header_alt_assets_8_schinese.jpg?t=1785374850",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/1e28be5b34623f5cf841d10172f3df83774596d9/header_schinese.jpg?t=1785472771",
   "steam_url": "https://store.steampowered.com/app/3282300",
+  "product_family_identity": "appid:3282300",
+  "product_family_appid": "3282300",
+  "product_family_role": "full",
   "trend": [
     {
       "date": "2026-07-30",
       "peak": 21844
+    },
+    {
+      "date": "2026-07-31",
+      "peak": 23895
+    },
+    {
+      "date": "2026-08-01",
+      "peak": 30220
     }
   ]
 }

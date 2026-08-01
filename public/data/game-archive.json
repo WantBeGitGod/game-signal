@@ -1,7 +1,38 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-01T15:44:16",
+  "generated_at": "2026-08-01T18:15:43",
   "games": [
+    {
+      "game": {
+        "slug": "mistfall-hunter",
+        "appid": "3282300",
+        "name": "Mistfall Hunter",
+        "name_cn": null,
+        "description": "《雾影猎人》是一款黑暗奇幻动作搜打撤游戏。 根据不同职业精心搭配技能、天赋、装备，领略第三人称视角下的精彩动作战斗！或与队友密切配合，或孤身一人加入战场，唯有杀出重围，方能满载而归。猎金人，祝你好运。",
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "developer": "Bellring Games",
+        "publisher": "Skystone Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/7419c62546f87086783090714bfe090ebc030606/header_alt_assets_8_schinese.jpg?t=1785374850",
+        "product_family_identity": "appid:3282300",
+        "product_family_appid": "3282300",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-08-01",
+        "2026-07-30"
+      ],
+      "member_appids": [
+        "3282300"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-08-01"
+    },
     {
       "game": {
         "slug": "bills-must-be-paid",
@@ -34,36 +65,6 @@
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-31"
-    },
-    {
-      "game": {
-        "slug": "mistfall-hunter",
-        "appid": "3282300",
-        "name": "Mistfall Hunter",
-        "name_cn": null,
-        "description": "《雾影猎人》是一款黑暗奇幻动作搜打撤游戏。 根据不同职业精心搭配技能、天赋、装备，领略第三人称视角下的精彩动作战斗！或与队友密切配合，或孤身一人加入战场，唯有杀出重围，方能满载而归。猎金人，祝你好运。",
-        "genres": [
-          "动作",
-          "冒险"
-        ],
-        "developer": "Bellring Games",
-        "publisher": "Skystone Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/7419c62546f87086783090714bfe090ebc030606/header_alt_assets_8_schinese.jpg?t=1785374850",
-        "product_family_identity": "appid:3282300",
-        "product_family_appid": "3282300",
-        "product_family_role": "full"
-      },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
-      "star_dates": [
-        "2026-07-30"
-      ],
-      "member_appids": [
-        "3282300"
-      ],
-      "article_count": 0,
-      "latest_star_date": "2026-07-30"
     },
     {
       "game": {
