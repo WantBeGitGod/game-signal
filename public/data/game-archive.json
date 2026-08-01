@@ -1,24 +1,26 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-01T13:40:52",
+  "generated_at": "2026-08-01T15:44:16",
   "games": [
     {
       "game": {
-        "slug": "sudden-attack-zero-point",
-        "appid": "3576070",
-        "name": "Sudden Attack Zero Point",
+        "slug": "bills-must-be-paid",
+        "appid": "4421010",
+        "name": "Bills Must Be Paid",
         "name_cn": null,
-        "description": "20年来深受喜爱的《突击风暴》，如今迎将开启一段无尽的旅程。 升级版本保留了经典拆弹模式的快节奏战斗和策略性游戏玩法，同时引入了更精美的画面和全新的游戏系统。现在，赶紧加入这场动作盛宴，探索全新维度的刺激体验吧！",
+        "description": "你破产了，砸碎存钱罐，《账单必须支付》。一款短小精悍的主动式放置游戏。赚钱、升级，摆脱债务！",
         "genres": [
           "动作",
-          "免费",
-          "抢先体验"
+          "休闲",
+          "独立",
+          "模拟",
+          "策略"
         ],
-        "developer": "NEXON Games Co., Ltd.",
-        "publisher": "NEXON",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3576070/a49df50ab2d45bac938ec8c6f01d9a362da6c034/header.jpg?t=1785384406",
-        "product_family_identity": "appid:3576070",
-        "product_family_appid": "3576070",
+        "developer": "Rike Games",
+        "publisher": "Rike Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/19abfca5c44bcab9a23b62576dcf6a2eb206e19b/header_schinese.jpg?t=1785482020",
+        "product_family_identity": "appid:4421010",
+        "product_family_appid": "4421010",
         "product_family_role": "full"
       },
       "article_slugs": [],
@@ -28,7 +30,7 @@
         "2026-07-31"
       ],
       "member_appids": [
-        "3576070"
+        "4421010"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-31"

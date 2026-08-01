@@ -10,28 +10,28 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 31.88,
-    "fact_summary": "Sudden Attack Zero Point 今日观测峰值 6,856，较过往最高峰值提升 +81%，被识别为「新作起量」。",
+    "score": 22.92,
+    "fact_summary": "Bills Must Be Paid 今日观测峰值 5,940，较过往最高峰值提升 +59%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 6856,
-      "previous_peak": 3779,
-      "previous_record_peak": 3779,
-      "growth_rate": 0.8142,
-      "record_growth_rate": 0.8142,
-      "scoring_peak": 6856,
+      "current_peak": 5940,
+      "previous_peak": 3740,
+      "previous_record_peak": 3740,
+      "growth_rate": 0.5882,
+      "record_growth_rate": 0.5882,
+      "scoring_peak": 5940,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 12.34,
-      "raw_record_growth_score": 28.5,
-      "growth_score_multiplier": 0.6856,
-      "record_growth_score": 19.54,
+      "peak_score": 10.69,
+      "raw_record_growth_score": 20.59,
+      "growth_score_multiplier": 0.594,
+      "record_growth_score": 12.23,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 31.88,
-      "event_adjusted_score": 31.88,
+      "score_before_multiplier": 22.92,
+      "event_adjusted_score": 22.92,
       "event_multiplier": 1.0,
       "combined_score_multiplier": 1.0,
-      "base_score": 31.88,
+      "base_score": 22.92,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -47,10 +47,10 @@
       "total_star_count": 1,
       "star_appearance_count": 1,
       "cumulative_star_count": 0,
-      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_streak_days": 1,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 29.0,
-      "review_total": 579,
+      "review_ratio": 97.0,
+      "review_total": 1126,
       "days_seen": 2,
       "comeback_gap_days": 1,
       "is_new_release": true,
@@ -60,7 +60,7 @@
       "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 166,
+        "initial_review_total": 390,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -70,8 +70,10 @@
       "comeback_evidence": null,
       "genres": [
         "动作",
-        "免费",
-        "抢先体验"
+        "休闲",
+        "独立",
+        "模拟",
+        "策略"
       ],
       "scoring_version": "release_event_v2",
       "release_event_type": "true_new",
@@ -81,7 +83,7 @@
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 166,
+        "initial_review_total": 390,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -89,11 +91,11 @@
       "trend": [
         {
           "date": "2026-07-30",
-          "peak": 3779
+          "peak": 3740
         },
         {
           "date": "2026-07-31",
-          "peak": 6856
+          "peak": 5940
         }
       ]
     },
@@ -105,90 +107,102 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/3576070"
+        "url": "https://store.steampowered.com/app/4421010"
       }
     ],
     "game": {
-      "slug": "sudden-attack-zero-point",
-      "appid": "3576070",
-      "name": "Sudden Attack Zero Point",
+      "slug": "bills-must-be-paid",
+      "appid": "4421010",
+      "name": "Bills Must Be Paid",
       "name_cn": null,
-      "description": "20年来深受喜爱的《突击风暴》，如今迎将开启一段无尽的旅程。 升级版本保留了经典拆弹模式的快节奏战斗和策略性游戏玩法，同时引入了更精美的画面和全新的游戏系统。现在，赶紧加入这场动作盛宴，探索全新维度的刺激体验吧！",
+      "description": "你破产了，砸碎存钱罐，《账单必须支付》。一款短小精悍的主动式放置游戏。赚钱、升级，摆脱债务！",
       "release_date": "2026-07-29",
       "genres": [
         "动作",
-        "免费",
-        "抢先体验"
+        "休闲",
+        "独立",
+        "模拟",
+        "策略"
       ],
       "tags": [
-        "多人",
-        "玩家对战",
-        "线上玩家对战",
-        "应用内购买",
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "视角舒适度",
+        "可选颜色",
+        "自定义音量控制",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Mostly Negative",
-      "review_ratio": 29.0,
-      "review_total": 579,
-      "developer": "NEXON Games Co., Ltd.",
-      "publisher": "NEXON",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3576070/a49df50ab2d45bac938ec8c6f01d9a362da6c034/header.jpg?t=1785384406",
-      "steam_url": "https://store.steampowered.com/app/3576070",
-      "product_family_identity": "appid:3576070",
-      "product_family_appid": "3576070",
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 97.0,
+      "review_total": 1126,
+      "developer": "Rike Games",
+      "publisher": "Rike Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/19abfca5c44bcab9a23b62576dcf6a2eb206e19b/header_schinese.jpg?t=1785482020",
+      "steam_url": "https://store.steampowered.com/app/4421010",
+      "product_family_identity": "appid:4421010",
+      "product_family_appid": "4421010",
       "product_family_role": "full",
       "trend": [
         {
           "date": "2026-07-30",
-          "peak": 3779
+          "peak": 3740
         },
         {
           "date": "2026-07-31",
-          "peak": 6856
+          "peak": 5940
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "Sudden Attack Zero Point 是一款融合快节奏枪法对抗、拆弹回合与枪械改装的免费 PvP 第一人称射击游戏：重点是快速抢到交火和目标处理的主动权。",
-      "reference_frame": "它走经典战术拆弹的回合压力：用瞄准、走位和信息判断赢下交火，再和队友围绕安放、拆除、守点或回防做决定。配件会改变后坐力和换弹手感。",
-      "for_players": "适合喜欢传统 FPS 回合制对抗、愿意练瞄准和预瞄，也享受和固定队友用报点、补枪、守点配合的人。若你会为了不同枪械的手感微调配置，且想迅速进入正题，它的节奏会比较对味。",
-      "not_for_players": "如果你更需要单人 PvE、开放地图探索，或希望失败后也能靠长期养成获得稳定正反馈，这款以 PvP 回合胜负为核心的游戏可能过于直接。不喜欢重复练枪和处理拆弹目标的玩家，也应先确认能否承受这种压力。",
-      "star_reason": "它在 7 月 31 日观测到 6,856 的当日峰值，比此前最高峰值高出 81%，以 31.88 分排在当天模型第 1 名，信号为「新作起量」。同日公开 Steam 评价为 579 条、29% 好评：首发人流已明显抬升，但玩家反馈分歧很大，正适合现在看清它的适配与摩擦。",
+      "positioning": "Bills Must Be Paid 是一款以“破产后还债”为目标的短小主动式放置游戏。玩家赚钱、购买升级，再用更高的收益推进清债；它支持单人、随时保存，也允许玩家按自己的节奏游玩。",
+      "reference_frame": "可以把它理解成一条需要玩家持续介入的增量循环：赚钱带来升级，升级反过来抬高后续收入，偿清债务则给不断增长的数字一个明确终点。",
+      "for_players": "适合喜欢数字增长、低反应压力和单人自定节奏，也愿意围绕一个明确目标反复优化效率的玩家。它的吸引力更偏向看着收入循环逐渐加速，而非处理复杂的经营关系。",
+      "not_for_players": "如果你需要复杂剧情、开放探索、高操作战斗或很深的长期 Build 才会入场，现有公开材料不足以证明它能满足这些需求。不喜欢重复积累和升级循环的玩家，也可能很快失去目标感。",
+      "star_reason": "它在 7 月 31 日原模型中排名第 2，得分 22.92；当日峰值 5,940，较此前纪录 3,740 增长 59%，Steam 评价为 1,126 条、97% 好评。按已经确认的低好评率折算口径，原冠军降至 22.32 分，本作因此成为当天的纠正后今日之星。",
       "core_loop": [
-        "进局前按枪械和配件调整配置，决定抢点、架枪或补位的打法。",
-        "围绕炸弹目标推进或回防，用枪法、报点和道具争取优势。",
-        "一局结束后微调配置，再进入下一回合。"
+        "通过当前可用的主动操作积累资金，让最基础的收入开始运转。",
+        "把收入投入升级，抬高后续赚钱效率，再选择下一项投入。",
+        "重复这套积累与升级循环，逐步逼近偿清债务的目标。"
       ],
-      "content_length": 510
+      "content_length": 499
     }
   },
   "main_signal": {
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 31.88,
-    "fact_summary": "Sudden Attack Zero Point 今日观测峰值 6,856，较过往最高峰值提升 +81%，被识别为「新作起量」。",
+    "score": 22.92,
+    "fact_summary": "Bills Must Be Paid 今日观测峰值 5,940，较过往最高峰值提升 +59%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 6856,
-      "previous_peak": 3779,
-      "previous_record_peak": 3779,
-      "growth_rate": 0.8142,
-      "record_growth_rate": 0.8142,
-      "scoring_peak": 6856,
+      "current_peak": 5940,
+      "previous_peak": 3740,
+      "previous_record_peak": 3740,
+      "growth_rate": 0.5882,
+      "record_growth_rate": 0.5882,
+      "scoring_peak": 5940,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 12.34,
-      "raw_record_growth_score": 28.5,
-      "growth_score_multiplier": 0.6856,
-      "record_growth_score": 19.54,
+      "peak_score": 10.69,
+      "raw_record_growth_score": 20.59,
+      "growth_score_multiplier": 0.594,
+      "record_growth_score": 12.23,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 31.88,
-      "event_adjusted_score": 31.88,
+      "score_before_multiplier": 22.92,
+      "event_adjusted_score": 22.92,
       "event_multiplier": 1.0,
       "combined_score_multiplier": 1.0,
-      "base_score": 31.88,
+      "base_score": 22.92,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -204,10 +218,10 @@
       "total_star_count": 1,
       "star_appearance_count": 1,
       "cumulative_star_count": 0,
-      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_streak_days": 1,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 29.0,
-      "review_total": 579,
+      "review_ratio": 97.0,
+      "review_total": 1126,
       "days_seen": 2,
       "comeback_gap_days": 1,
       "is_new_release": true,
@@ -217,7 +231,7 @@
       "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 166,
+        "initial_review_total": 390,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -227,8 +241,10 @@
       "comeback_evidence": null,
       "genres": [
         "动作",
-        "免费",
-        "抢先体验"
+        "休闲",
+        "独立",
+        "模拟",
+        "策略"
       ],
       "scoring_version": "release_event_v2",
       "release_event_type": "true_new",
@@ -238,7 +254,7 @@
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 166,
+        "initial_review_total": 390,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -246,11 +262,11 @@
       "trend": [
         {
           "date": "2026-07-30",
-          "peak": 3779
+          "peak": 3740
         },
         {
           "date": "2026-07-31",
-          "peak": 6856
+          "peak": 5940
         }
       ]
     },
@@ -262,62 +278,74 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/3576070"
+        "url": "https://store.steampowered.com/app/4421010"
       }
     ],
     "game": {
-      "slug": "sudden-attack-zero-point",
-      "appid": "3576070",
-      "name": "Sudden Attack Zero Point",
+      "slug": "bills-must-be-paid",
+      "appid": "4421010",
+      "name": "Bills Must Be Paid",
       "name_cn": null,
-      "description": "20年来深受喜爱的《突击风暴》，如今迎将开启一段无尽的旅程。 升级版本保留了经典拆弹模式的快节奏战斗和策略性游戏玩法，同时引入了更精美的画面和全新的游戏系统。现在，赶紧加入这场动作盛宴，探索全新维度的刺激体验吧！",
+      "description": "你破产了，砸碎存钱罐，《账单必须支付》。一款短小精悍的主动式放置游戏。赚钱、升级，摆脱债务！",
       "release_date": "2026-07-29",
       "genres": [
         "动作",
-        "免费",
-        "抢先体验"
+        "休闲",
+        "独立",
+        "模拟",
+        "策略"
       ],
       "tags": [
-        "多人",
-        "玩家对战",
-        "线上玩家对战",
-        "应用内购买",
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "视角舒适度",
+        "可选颜色",
+        "自定义音量控制",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Mostly Negative",
-      "review_ratio": 29.0,
-      "review_total": 579,
-      "developer": "NEXON Games Co., Ltd.",
-      "publisher": "NEXON",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3576070/a49df50ab2d45bac938ec8c6f01d9a362da6c034/header.jpg?t=1785384406",
-      "steam_url": "https://store.steampowered.com/app/3576070",
-      "product_family_identity": "appid:3576070",
-      "product_family_appid": "3576070",
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 97.0,
+      "review_total": 1126,
+      "developer": "Rike Games",
+      "publisher": "Rike Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/19abfca5c44bcab9a23b62576dcf6a2eb206e19b/header_schinese.jpg?t=1785482020",
+      "steam_url": "https://store.steampowered.com/app/4421010",
+      "product_family_identity": "appid:4421010",
+      "product_family_appid": "4421010",
       "product_family_role": "full",
       "trend": [
         {
           "date": "2026-07-30",
-          "peak": 3779
+          "peak": 3740
         },
         {
           "date": "2026-07-31",
-          "peak": 6856
+          "peak": 5940
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "Sudden Attack Zero Point 是一款融合快节奏枪法对抗、拆弹回合与枪械改装的免费 PvP 第一人称射击游戏：重点是快速抢到交火和目标处理的主动权。",
-      "reference_frame": "它走经典战术拆弹的回合压力：用瞄准、走位和信息判断赢下交火，再和队友围绕安放、拆除、守点或回防做决定。配件会改变后坐力和换弹手感。",
-      "for_players": "适合喜欢传统 FPS 回合制对抗、愿意练瞄准和预瞄，也享受和固定队友用报点、补枪、守点配合的人。若你会为了不同枪械的手感微调配置，且想迅速进入正题，它的节奏会比较对味。",
-      "not_for_players": "如果你更需要单人 PvE、开放地图探索，或希望失败后也能靠长期养成获得稳定正反馈，这款以 PvP 回合胜负为核心的游戏可能过于直接。不喜欢重复练枪和处理拆弹目标的玩家，也应先确认能否承受这种压力。",
-      "star_reason": "它在 7 月 31 日观测到 6,856 的当日峰值，比此前最高峰值高出 81%，以 31.88 分排在当天模型第 1 名，信号为「新作起量」。同日公开 Steam 评价为 579 条、29% 好评：首发人流已明显抬升，但玩家反馈分歧很大，正适合现在看清它的适配与摩擦。",
+      "positioning": "Bills Must Be Paid 是一款以“破产后还债”为目标的短小主动式放置游戏。玩家赚钱、购买升级，再用更高的收益推进清债；它支持单人、随时保存，也允许玩家按自己的节奏游玩。",
+      "reference_frame": "可以把它理解成一条需要玩家持续介入的增量循环：赚钱带来升级，升级反过来抬高后续收入，偿清债务则给不断增长的数字一个明确终点。",
+      "for_players": "适合喜欢数字增长、低反应压力和单人自定节奏，也愿意围绕一个明确目标反复优化效率的玩家。它的吸引力更偏向看着收入循环逐渐加速，而非处理复杂的经营关系。",
+      "not_for_players": "如果你需要复杂剧情、开放探索、高操作战斗或很深的长期 Build 才会入场，现有公开材料不足以证明它能满足这些需求。不喜欢重复积累和升级循环的玩家，也可能很快失去目标感。",
+      "star_reason": "它在 7 月 31 日原模型中排名第 2，得分 22.92；当日峰值 5,940，较此前纪录 3,740 增长 59%，Steam 评价为 1,126 条、97% 好评。按已经确认的低好评率折算口径，原冠军降至 22.32 分，本作因此成为当天的纠正后今日之星。",
       "core_loop": [
-        "进局前按枪械和配件调整配置，决定抢点、架枪或补位的打法。",
-        "围绕炸弹目标推进或回防，用枪法、报点和道具争取优势。",
-        "一局结束后微调配置，再进入下一回合。"
+        "通过当前可用的主动操作积累资金，让最基础的收入开始运转。",
+        "把收入投入升级，抬高后续赚钱效率，再选择下一项投入。",
+        "重复这套积累与升级循环，逐步逼近偿清债务的目标。"
       ],
-      "content_length": 510
+      "content_length": 499
     }
   },
   "secondary_signals": [],

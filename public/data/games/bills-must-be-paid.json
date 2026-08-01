@@ -1,0 +1,52 @@
+{
+  "slug": "bills-must-be-paid",
+  "appid": "4421010",
+  "name": "Bills Must Be Paid",
+  "name_cn": null,
+  "description": "你破产了，砸碎存钱罐，《账单必须支付》。一款短小精悍的主动式放置游戏。赚钱、升级，摆脱债务！",
+  "release_date": "2026-07-29",
+  "genres": [
+    "动作",
+    "休闲",
+    "独立",
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "#category_playable_at_your_own_pace",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "随时保存",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Overwhelmingly Positive",
+  "review_ratio": 97.0,
+  "review_total": 1126,
+  "developer": "Rike Games",
+  "publisher": "Rike Games",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/19abfca5c44bcab9a23b62576dcf6a2eb206e19b/header_schinese.jpg?t=1785482020",
+  "steam_url": "https://store.steampowered.com/app/4421010",
+  "product_family_identity": "appid:4421010",
+  "product_family_appid": "4421010",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-07-30",
+      "peak": 3740
+    },
+    {
+      "date": "2026-07-31",
+      "peak": 5940
+    }
+  ]
+}
