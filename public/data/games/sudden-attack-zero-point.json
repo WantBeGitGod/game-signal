@@ -1,0 +1,40 @@
+{
+  "slug": "sudden-attack-zero-point",
+  "appid": "3576070",
+  "name": "Sudden Attack Zero Point",
+  "name_cn": null,
+  "description": "20年来深受喜爱的《突击风暴》，如今迎将开启一段无尽的旅程。 升级版本保留了经典拆弹模式的快节奏战斗和策略性游戏玩法，同时引入了更精美的画面和全新的游戏系统。现在，赶紧加入这场动作盛宴，探索全新维度的刺激体验吧！",
+  "release_date": "2026-07-29",
+  "genres": [
+    "动作",
+    "免费",
+    "抢先体验"
+  ],
+  "tags": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "应用内购买",
+    "家庭共享"
+  ],
+  "review_score": "Mostly Negative",
+  "review_ratio": 29.0,
+  "review_total": 579,
+  "developer": "NEXON Games Co., Ltd.",
+  "publisher": "NEXON",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3576070/a49df50ab2d45bac938ec8c6f01d9a362da6c034/header.jpg?t=1785384406",
+  "steam_url": "https://store.steampowered.com/app/3576070",
+  "product_family_identity": "appid:3576070",
+  "product_family_appid": "3576070",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-07-30",
+      "peak": 3779
+    },
+    {
+      "date": "2026-07-31",
+      "peak": 6856
+    }
+  ]
+}

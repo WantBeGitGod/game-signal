@@ -1,0 +1,325 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-07-31",
+  "title": "07.31 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 31.88,
+    "fact_summary": "Sudden Attack Zero Point 今日观测峰值 6,856，较过往最高峰值提升 +81%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 6856,
+      "previous_peak": 3779,
+      "previous_record_peak": 3779,
+      "growth_rate": 0.8142,
+      "record_growth_rate": 0.8142,
+      "scoring_peak": 6856,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 12.34,
+      "raw_record_growth_score": 28.5,
+      "growth_score_multiplier": 0.6856,
+      "record_growth_score": 19.54,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 31.88,
+      "event_adjusted_score": 31.88,
+      "event_multiplier": 1.0,
+      "combined_score_multiplier": 1.0,
+      "base_score": 31.88,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 29.0,
+      "review_total": 579,
+      "days_seen": 2,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 166,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "免费",
+        "抢先体验"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-07-29",
+      "release_event_age_days": 2,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 166,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-07-30",
+          "peak": 3779
+        },
+        {
+          "date": "2026-07-31",
+          "peak": 6856
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3576070"
+      }
+    ],
+    "game": {
+      "slug": "sudden-attack-zero-point",
+      "appid": "3576070",
+      "name": "Sudden Attack Zero Point",
+      "name_cn": null,
+      "description": "20年来深受喜爱的《突击风暴》，如今迎将开启一段无尽的旅程。 升级版本保留了经典拆弹模式的快节奏战斗和策略性游戏玩法，同时引入了更精美的画面和全新的游戏系统。现在，赶紧加入这场动作盛宴，探索全新维度的刺激体验吧！",
+      "release_date": "2026-07-29",
+      "genres": [
+        "动作",
+        "免费",
+        "抢先体验"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "应用内购买",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Negative",
+      "review_ratio": 29.0,
+      "review_total": 579,
+      "developer": "NEXON Games Co., Ltd.",
+      "publisher": "NEXON",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3576070/a49df50ab2d45bac938ec8c6f01d9a362da6c034/header.jpg?t=1785384406",
+      "steam_url": "https://store.steampowered.com/app/3576070",
+      "product_family_identity": "appid:3576070",
+      "product_family_appid": "3576070",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-07-30",
+          "peak": 3779
+        },
+        {
+          "date": "2026-07-31",
+          "peak": 6856
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Sudden Attack Zero Point 是一款融合快节奏枪法对抗、拆弹回合与枪械改装的免费 PvP 第一人称射击游戏：重点是快速抢到交火和目标处理的主动权。",
+      "reference_frame": "它走经典战术拆弹的回合压力：用瞄准、走位和信息判断赢下交火，再和队友围绕安放、拆除、守点或回防做决定。配件会改变后坐力和换弹手感。",
+      "for_players": "适合喜欢传统 FPS 回合制对抗、愿意练瞄准和预瞄，也享受和固定队友用报点、补枪、守点配合的人。若你会为了不同枪械的手感微调配置，且想迅速进入正题，它的节奏会比较对味。",
+      "not_for_players": "如果你更需要单人 PvE、开放地图探索，或希望失败后也能靠长期养成获得稳定正反馈，这款以 PvP 回合胜负为核心的游戏可能过于直接。不喜欢重复练枪和处理拆弹目标的玩家，也应先确认能否承受这种压力。",
+      "star_reason": "它在 7 月 31 日观测到 6,856 的当日峰值，比此前最高峰值高出 81%，以 31.88 分排在当天模型第 1 名，信号为「新作起量」。同日公开 Steam 评价为 579 条、29% 好评：首发人流已明显抬升，但玩家反馈分歧很大，正适合现在看清它的适配与摩擦。",
+      "core_loop": [
+        "进局前按枪械和配件调整配置，决定抢点、架枪或补位的打法。",
+        "围绕炸弹目标推进或回防，用枪法、报点和道具争取优势。",
+        "一局结束后微调配置，再进入下一回合。"
+      ],
+      "content_length": 510
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 31.88,
+    "fact_summary": "Sudden Attack Zero Point 今日观测峰值 6,856，较过往最高峰值提升 +81%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 6856,
+      "previous_peak": 3779,
+      "previous_record_peak": 3779,
+      "growth_rate": 0.8142,
+      "record_growth_rate": 0.8142,
+      "scoring_peak": 6856,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 12.34,
+      "raw_record_growth_score": 28.5,
+      "growth_score_multiplier": 0.6856,
+      "record_growth_score": 19.54,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 31.88,
+      "event_adjusted_score": 31.88,
+      "event_multiplier": 1.0,
+      "combined_score_multiplier": 1.0,
+      "base_score": 31.88,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 29.0,
+      "review_total": 579,
+      "days_seen": 2,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 166,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "免费",
+        "抢先体验"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-07-29",
+      "release_event_age_days": 2,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 166,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-07-30",
+          "peak": 3779
+        },
+        {
+          "date": "2026-07-31",
+          "peak": 6856
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3576070"
+      }
+    ],
+    "game": {
+      "slug": "sudden-attack-zero-point",
+      "appid": "3576070",
+      "name": "Sudden Attack Zero Point",
+      "name_cn": null,
+      "description": "20年来深受喜爱的《突击风暴》，如今迎将开启一段无尽的旅程。 升级版本保留了经典拆弹模式的快节奏战斗和策略性游戏玩法，同时引入了更精美的画面和全新的游戏系统。现在，赶紧加入这场动作盛宴，探索全新维度的刺激体验吧！",
+      "release_date": "2026-07-29",
+      "genres": [
+        "动作",
+        "免费",
+        "抢先体验"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "应用内购买",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Negative",
+      "review_ratio": 29.0,
+      "review_total": 579,
+      "developer": "NEXON Games Co., Ltd.",
+      "publisher": "NEXON",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3576070/a49df50ab2d45bac938ec8c6f01d9a362da6c034/header.jpg?t=1785384406",
+      "steam_url": "https://store.steampowered.com/app/3576070",
+      "product_family_identity": "appid:3576070",
+      "product_family_appid": "3576070",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-07-30",
+          "peak": 3779
+        },
+        {
+          "date": "2026-07-31",
+          "peak": 6856
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Sudden Attack Zero Point 是一款融合快节奏枪法对抗、拆弹回合与枪械改装的免费 PvP 第一人称射击游戏：重点是快速抢到交火和目标处理的主动权。",
+      "reference_frame": "它走经典战术拆弹的回合压力：用瞄准、走位和信息判断赢下交火，再和队友围绕安放、拆除、守点或回防做决定。配件会改变后坐力和换弹手感。",
+      "for_players": "适合喜欢传统 FPS 回合制对抗、愿意练瞄准和预瞄，也享受和固定队友用报点、补枪、守点配合的人。若你会为了不同枪械的手感微调配置，且想迅速进入正题，它的节奏会比较对味。",
+      "not_for_players": "如果你更需要单人 PvE、开放地图探索，或希望失败后也能靠长期养成获得稳定正反馈，这款以 PvP 回合胜负为核心的游戏可能过于直接。不喜欢重复练枪和处理拆弹目标的玩家，也应先确认能否承受这种压力。",
+      "star_reason": "它在 7 月 31 日观测到 6,856 的当日峰值，比此前最高峰值高出 81%，以 31.88 分排在当天模型第 1 名，信号为「新作起量」。同日公开 Steam 评价为 579 条、29% 好评：首发人流已明显抬升，但玩家反馈分歧很大，正适合现在看清它的适配与摩擦。",
+      "core_loop": [
+        "进局前按枪械和配件调整配置，决定抢点、架枪或补位的打法。",
+        "围绕炸弹目标推进或回防，用枪法、报点和道具争取优势。",
+        "一局结束后微调配置，再进入下一回合。"
+      ],
+      "content_length": 510
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

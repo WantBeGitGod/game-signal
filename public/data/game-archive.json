@@ -1,7 +1,38 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-31T02:15:08",
+  "generated_at": "2026-08-01T13:40:52",
   "games": [
+    {
+      "game": {
+        "slug": "sudden-attack-zero-point",
+        "appid": "3576070",
+        "name": "Sudden Attack Zero Point",
+        "name_cn": null,
+        "description": "20年来深受喜爱的《突击风暴》，如今迎将开启一段无尽的旅程。 升级版本保留了经典拆弹模式的快节奏战斗和策略性游戏玩法，同时引入了更精美的画面和全新的游戏系统。现在，赶紧加入这场动作盛宴，探索全新维度的刺激体验吧！",
+        "genres": [
+          "动作",
+          "免费",
+          "抢先体验"
+        ],
+        "developer": "NEXON Games Co., Ltd.",
+        "publisher": "NEXON",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3576070/a49df50ab2d45bac938ec8c6f01d9a362da6c034/header.jpg?t=1785384406",
+        "product_family_identity": "appid:3576070",
+        "product_family_appid": "3576070",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-07-31"
+      ],
+      "member_appids": [
+        "3576070"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-07-31"
+    },
     {
       "game": {
         "slug": "mistfall-hunter",
@@ -15,13 +46,19 @@
         ],
         "developer": "Bellring Games",
         "publisher": "Skystone Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/7419c62546f87086783090714bfe090ebc030606/header_alt_assets_8_schinese.jpg?t=1785374850"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/7419c62546f87086783090714bfe090ebc030606/header_alt_assets_8_schinese.jpg?t=1785374850",
+        "product_family_identity": "appid:3282300",
+        "product_family_appid": "3282300",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-07-30"
+      ],
+      "member_appids": [
+        "3282300"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-30"
@@ -39,7 +76,10 @@
         ],
         "developer": "Halo Studios",
         "publisher": "Xbox Game Studios",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1785367749"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1785367749",
+        "product_family_identity": "appid:2806050",
+        "product_family_appid": "2806050",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
@@ -47,6 +87,9 @@
       "star_dates": [
         "2026-07-29",
         "2026-07-28"
+      ],
+      "member_appids": [
+        "2806050"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-29"
@@ -66,13 +109,19 @@
         ],
         "developer": "Axolot Games",
         "publisher": "Axolot Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/5c31bde0a901d9459a8d8c556c5a44262b5f57e4/header.jpg?t=1784914037"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/5c31bde0a901d9459a8d8c556c5a44262b5f57e4/header.jpg?t=1784914037",
+        "product_family_identity": "appid:387990",
+        "product_family_appid": "387990",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-07-27"
+      ],
+      "member_appids": [
+        "387990"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-27"
@@ -90,7 +139,10 @@
         ],
         "developer": "Bun Muen",
         "publisher": "Kwalee",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/7c230e17ecfde78d8c52b5d2e5e4aabbc10f5014/header_schinese.jpg?t=1784732222"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/7c230e17ecfde78d8c52b5d2e5e4aabbc10f5014/header_schinese.jpg?t=1784732222",
+        "product_family_identity": "appid:3722330",
+        "product_family_appid": "3722330",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
@@ -98,6 +150,9 @@
       "star_dates": [
         "2026-07-26",
         "2026-07-23"
+      ],
+      "member_appids": [
+        "3722330"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-26"
@@ -120,13 +175,19 @@
         ],
         "developer": "PlayMud Studio",
         "publisher": "Paras Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/49cc489596676c359ed9289bddfdb93bc214eddf/header_schinese.jpg?t=1784799208"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/49cc489596676c359ed9289bddfdb93bc214eddf/header_schinese.jpg?t=1784799208",
+        "product_family_identity": "appid:3561220",
+        "product_family_appid": "3561220",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-07-25"
+      ],
+      "member_appids": [
+        "3561220"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-25"
@@ -145,13 +206,19 @@
         ],
         "developer": "Hound13 Inc.",
         "publisher": "Hound13 Inc.",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1784795371"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1784795371",
+        "product_family_identity": "appid:4570720",
+        "product_family_appid": "4570720",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-07-24"
+      ],
+      "member_appids": [
+        "4570720"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-24"
@@ -173,7 +240,10 @@
         ],
         "developer": "Oddshot Games",
         "publisher": "Oddshot Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952920/134cf5a567b4ee04a70712a786b5a5a4bf536647/header.jpg?t=1784307546"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952920/134cf5a567b4ee04a70712a786b5a5a4bf536647/header.jpg?t=1784307546",
+        "product_family_identity": "appid:1952920",
+        "product_family_appid": "1952920",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
@@ -181,6 +251,9 @@
       "star_dates": [
         "2026-07-22",
         "2026-07-19"
+      ],
+      "member_appids": [
+        "1952920"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-22"
@@ -198,13 +271,19 @@
         ],
         "developer": "Leyline",
         "publisher": "Leyline",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425970/19f2fde865dafdd6f7e1b0e73f991e918f6a97a0/header_schinese.jpg?t=1784536831"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425970/19f2fde865dafdd6f7e1b0e73f991e918f6a97a0/header_schinese.jpg?t=1784536831",
+        "product_family_identity": "appid:4425970",
+        "product_family_appid": "4425970",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-07-21"
+      ],
+      "member_appids": [
+        "4425970"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-21"
@@ -222,13 +301,19 @@
         ],
         "developer": "threeW",
         "publisher": "PlayWay S.A.",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b305646840dc9db685bc40596da7bdaea388c694/header.jpg?t=1784286903"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4210580/b305646840dc9db685bc40596da7bdaea388c694/header.jpg?t=1784286903",
+        "product_family_identity": "appid:4210580",
+        "product_family_appid": "4210580",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-07-20"
+      ],
+      "member_appids": [
+        "4210580"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-20"
@@ -247,13 +332,19 @@
         ],
         "developer": "Scythe Dev Team",
         "publisher": "tinyBuild",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453910/9cc27ec2c690ca34d4440b9ca8eb03e15b963fb1/header.jpg?t=1784365074"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3453910/9cc27ec2c690ca34d4440b9ca8eb03e15b963fb1/header.jpg?t=1784365074",
+        "product_family_identity": "appid:3453910",
+        "product_family_appid": "3453910",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-07-18"
+      ],
+      "member_appids": [
+        "3453910"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-18"
@@ -274,7 +365,10 @@
         ],
         "developer": "Baikun Interactive",
         "publisher": "Baikun Interactive",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767850/7048933d069ef057bcd5571f99b4e2d5b8744b31/header.jpg?t=1784127621"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3767850/7048933d069ef057bcd5571f99b4e2d5b8744b31/header.jpg?t=1784127621",
+        "product_family_identity": "appid:3767850",
+        "product_family_appid": "3767850",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "spiritvale"
@@ -284,6 +378,9 @@
       "star_dates": [
         "2026-07-17",
         "2026-07-16"
+      ],
+      "member_appids": [
+        "3767850"
       ],
       "article_count": 1,
       "latest_star_date": "2026-07-17"
@@ -301,13 +398,19 @@
         ],
         "developer": "Tiburon",
         "publisher": "Electronic Arts",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032350/1c628b40d5aa8dcf26e0ac9d394f0fbe1b8dc879/header.jpg?t=1783700053"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4032350/1c628b40d5aa8dcf26e0ac9d394f0fbe1b8dc879/header.jpg?t=1783700053",
+        "product_family_identity": "appid:4032350",
+        "product_family_appid": "4032350",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-07-15"
+      ],
+      "member_appids": [
+        "4032350"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-15"
@@ -325,13 +428,19 @@
         ],
         "developer": "Game Studio Inc.",
         "publisher": "Bandai Namco Entertainment Inc.",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/b3adf8e273abedc20c83fc2ca2ba65261b187909/header_schinese.jpg?t=1783634634"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244210/b3adf8e273abedc20c83fc2ca2ba65261b187909/header_schinese.jpg?t=1783634634",
+        "product_family_identity": "appid:2244210",
+        "product_family_appid": "2244210",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-07-14"
+      ],
+      "member_appids": [
+        "2244210"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-14"
@@ -351,7 +460,10 @@
         ],
         "developer": "Neurona Games",
         "publisher": "indie.io",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749950/c996835deb9fd4b481b498f10c0c85ecc8725986/header.jpg?t=1783451404"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2749950/c996835deb9fd4b481b498f10c0c85ecc8725986/header.jpg?t=1783451404",
+        "product_family_identity": "appid:2749950",
+        "product_family_appid": "2749950",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "esports-manager-2026"
@@ -360,6 +472,9 @@
       "article_published_at": "2026-07-21",
       "star_dates": [
         "2026-07-13"
+      ],
+      "member_appids": [
+        "2749950"
       ],
       "article_count": 1,
       "latest_star_date": "2026-07-13"
@@ -377,13 +492,19 @@
         ],
         "developer": "Maracas Studio",
         "publisher": "Maracas Studio, Gamersky Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/1e2614baa1383177d6c3e9fbf6bcc3f2ccf5152d/header_schinese.jpg?t=1784045214"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4380490/1e2614baa1383177d6c3e9fbf6bcc3f2ccf5152d/header_schinese.jpg?t=1784045214",
+        "product_family_identity": "appid:4380490",
+        "product_family_appid": "4380490",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-07-12"
+      ],
+      "member_appids": [
+        "4380490"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-12"
@@ -403,7 +524,10 @@
         ],
         "developer": "Pocketpair",
         "publisher": "Pocketpair",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1784190284"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1784190284",
+        "product_family_identity": "appid:1623730",
+        "product_family_appid": "1623730",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "palworld"
@@ -412,6 +536,9 @@
       "article_published_at": "2026-07-11",
       "star_dates": [
         "2026-07-11"
+      ],
+      "member_appids": [
+        "1623730"
       ],
       "article_count": 1,
       "latest_star_date": "2026-07-11"
@@ -429,7 +556,10 @@
         ],
         "developer": "Ubisoft Singapore, Ubisoft Barcelona, Ubisoft Bordeaux, Ubisoft Belgrade, Ubisoft Chengdu, Ubisoft India, Ubisoft Kyiv, Ubisoft Montpellier, Ubisoft Philippines, Ubisoft Quebec, Ubisoft Shanghai",
         "publisher": "Ubisoft",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/777795886ee7d2fc9f1e84aacc75f82baf75defb/header_schinese.jpg?t=1783617053"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/777795886ee7d2fc9f1e84aacc75f82baf75defb/header_schinese.jpg?t=1783617053",
+        "product_family_identity": "appid:3751950",
+        "product_family_appid": "3751950",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "assassin-s-creed-black-flag-resynced"
@@ -438,6 +568,9 @@
       "article_published_at": "2026-07-12",
       "star_dates": [
         "2026-07-10"
+      ],
+      "member_appids": [
+        "3751950"
       ],
       "article_count": 1,
       "latest_star_date": "2026-07-10"
@@ -459,13 +592,19 @@
         ],
         "developer": "LeiYun Games",
         "publisher": "2P Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2377930/9c6a07a623a1854d3759d1b75c64971f564d9d84/header_schinese.jpg?t=1783536331"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2377930/9c6a07a623a1854d3759d1b75c64971f564d9d84/header_schinese.jpg?t=1783536331",
+        "product_family_identity": "appid:2377930",
+        "product_family_appid": "2377930",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-07-09"
+      ],
+      "member_appids": [
+        "2377930"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-09"
@@ -485,13 +624,19 @@
         ],
         "developer": "Little Chicken",
         "publisher": "XSEED Games, Marvelous Europe",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/9a9b199531ec49be95ea2d34e67dfab47106584b/header.jpg?t=1783444081"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2209900/9a9b199531ec49be95ea2d34e67dfab47106584b/header.jpg?t=1783444081",
+        "product_family_identity": "appid:2209900",
+        "product_family_appid": "2209900",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-07-08"
+      ],
+      "member_appids": [
+        "2209900"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-08"
@@ -509,13 +654,19 @@
         ],
         "developer": "1047 Games",
         "publisher": "1047 Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323990/0c3db5731395be25b56008bffda2f27ed08e703d/header.jpg?t=1782317659"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4323990/0c3db5731395be25b56008bffda2f27ed08e703d/header.jpg?t=1782317659",
+        "product_family_identity": "appid:4323990",
+        "product_family_appid": "4323990",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-07-07"
+      ],
+      "member_appids": [
+        "4323990"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-07"
@@ -538,13 +689,19 @@
         ],
         "developer": "gamigo US",
         "publisher": "gamigo US",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327070/ee34cd9e855b2a4e20682c2ae6b12a27ccf042aa/header.jpg?t=1782471732"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327070/ee34cd9e855b2a4e20682c2ae6b12a27ccf042aa/header.jpg?t=1782471732",
+        "product_family_identity": "appid:327070",
+        "product_family_appid": "327070",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-07-06"
+      ],
+      "member_appids": [
+        "327070"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-06"
@@ -563,13 +720,19 @@
         ],
         "developer": "Evrac Studio",
         "publisher": "Evrac Studio",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634490/088b9ab009bb95af23d5e8662ad572c38aad14f0/header.jpg?t=1783051217"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4634490/088b9ab009bb95af23d5e8662ad572c38aad14f0/header.jpg?t=1783051217",
+        "product_family_identity": "appid:4634490",
+        "product_family_appid": "4634490",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-07-04"
+      ],
+      "member_appids": [
+        "4634490"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-04"
@@ -588,7 +751,10 @@
         ],
         "developer": "Square Enix, Claytechworks",
         "publisher": "Square Enix",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1782353681"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3483510/b92cf9642ddb36bc4e339c388cd0eb83c2183e15/header_schinese.jpg?t=1782353681",
+        "product_family_identity": "appid:3483510",
+        "product_family_appid": "3483510",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "the-adventures-of-elliot-the-millennium-tales"
@@ -597,6 +763,9 @@
       "article_published_at": "2026-07-21",
       "star_dates": [
         "2026-07-03"
+      ],
+      "member_appids": [
+        "3483510"
       ],
       "article_count": 1,
       "latest_star_date": "2026-07-03"
@@ -614,13 +783,19 @@
         ],
         "developer": "BunnyHop",
         "publisher": "BunnyHopHome",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1782778526"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1782778526",
+        "product_family_identity": "appid:4800590",
+        "product_family_appid": "4800590",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-07-02"
+      ],
+      "member_appids": [
+        "4800590"
       ],
       "article_count": 0,
       "latest_star_date": "2026-07-02"
@@ -639,7 +814,10 @@
         ],
         "developer": "MarpleGames",
         "publisher": "MarpleGames",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910680/28cbe4a8420b96a025958a161203b5603a17daed/header.jpg?t=1782342864"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910680/28cbe4a8420b96a025958a161203b5603a17daed/header.jpg?t=1782342864",
+        "product_family_identity": "appid:1910680",
+        "product_family_appid": "1910680",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "orb-of-creation"
@@ -648,6 +826,9 @@
       "article_published_at": "2026-07-21",
       "star_dates": [
         "2026-06-30"
+      ],
+      "member_appids": [
+        "1910680"
       ],
       "article_count": 1,
       "latest_star_date": "2026-06-30"
@@ -665,13 +846,19 @@
         ],
         "developer": "Chief Rebel",
         "publisher": "Coffee Stain Publishing, Arc Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2352620/84990f2cebb8a836229b318d194160d823d67cd8/header_alt_assets_2.jpg?t=1782140326"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2352620/84990f2cebb8a836229b318d194160d823d67cd8/header_alt_assets_2.jpg?t=1782140326",
+        "product_family_identity": "appid:2352620",
+        "product_family_appid": "2352620",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-06-28"
+      ],
+      "member_appids": [
+        "2352620"
       ],
       "article_count": 0,
       "latest_star_date": "2026-06-28"
@@ -690,7 +877,10 @@
         ],
         "developer": "Hologryph, TowerHaus",
         "publisher": "tinyBuild",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1431300/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1782290789",
+        "product_family_identity": "appid:1431300",
+        "product_family_appid": "1431300",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "sand"
@@ -701,6 +891,9 @@
         "2026-06-27",
         "2026-06-26",
         "2026-06-24"
+      ],
+      "member_appids": [
+        "1431300"
       ],
       "article_count": 1,
       "latest_star_date": "2026-06-27"
@@ -719,7 +912,10 @@
         ],
         "developer": "Lefto Studio",
         "publisher": "Lefto Studio",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747510/54d624f1d6ea0b30bafb736ef940bb6b78f4ba78/header.jpg?t=1782230961"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4747510/54d624f1d6ea0b30bafb736ef940bb6b78f4ba78/header.jpg?t=1782230961",
+        "product_family_identity": "appid:4747510",
+        "product_family_appid": "4747510",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "bombanana-demo"
@@ -729,6 +925,9 @@
       "star_dates": [
         "2026-06-25",
         "2026-06-23"
+      ],
+      "member_appids": [
+        "4747510"
       ],
       "article_count": 1,
       "latest_star_date": "2026-06-25"
@@ -749,13 +948,19 @@
         ],
         "developer": "Shiro Games",
         "publisher": "Shiro Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3276050/5c3fb496686b81ad694e250a3ac6707bde7372db/header_alt_assets_1_schinese.jpg?t=1781191112"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3276050/5c3fb496686b81ad694e250a3ac6707bde7372db/header_alt_assets_1_schinese.jpg?t=1781191112",
+        "product_family_identity": "appid:3276050",
+        "product_family_appid": "3276050",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-06-22"
+      ],
+      "member_appids": [
+        "3276050"
       ],
       "article_count": 0,
       "latest_star_date": "2026-06-22"
@@ -776,7 +981,10 @@
         ],
         "developer": "ConchShip Games",
         "publisher": "ConchShip Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782113702"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/838350/5075c66fa004eb92147367c3a65f5b972fed4ac8/header_schinese.jpg?t=1782113702",
+        "product_family_identity": "appid:838350",
+        "product_family_appid": "838350",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "the-scroll-of-taiwu-beyond-the-dome"
@@ -786,6 +994,9 @@
       "star_dates": [
         "2026-06-21",
         "2026-06-19"
+      ],
+      "member_appids": [
+        "838350"
       ],
       "article_count": 1,
       "latest_star_date": "2026-06-21"
@@ -805,13 +1016,19 @@
         ],
         "developer": "Nick Nieuwoudt, Dominik Latos",
         "publisher": "Nick Nieuwoudt, Dominik Latos",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300500/6f0aa68814c48b298debab1028307e6aa4e6d7d4/header.jpg?t=1781623490"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4300500/6f0aa68814c48b298debab1028307e6aa4e6d7d4/header.jpg?t=1781623490",
+        "product_family_identity": "appid:4300500",
+        "product_family_appid": "4300500",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-06-20"
+      ],
+      "member_appids": [
+        "4300500"
       ],
       "article_count": 0,
       "latest_star_date": "2026-06-20"
@@ -831,7 +1048,10 @@
         ],
         "developer": "Odd Dreams Digital",
         "publisher": "Secret Mode",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526710/c2e89fd394d904bd9d565fbfed51625bb2023526/header_schinese.jpg?t=1778230287"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3526710/c2e89fd394d904bd9d565fbfed51625bb2023526/header_schinese.jpg?t=1778230287",
+        "product_family_identity": "appid:3526710",
+        "product_family_appid": "3526710",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "everything-is-crab"
@@ -839,6 +1059,9 @@
       "article_title": "万物皆可蟹-蟹邀，感觉不如孢子",
       "article_published_at": "2026-06-18",
       "star_dates": [],
+      "member_appids": [
+        "3526710"
+      ],
       "article_count": 1,
       "latest_star_date": null
     },
@@ -852,7 +1075,10 @@
         "genres": [],
         "developer": "Bellring Games",
         "publisher": "Skystone Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282490/cfa9fe92a707b5687f3e340f27d0325a4c4428a0/header.jpg?t=1781377380"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282490/cfa9fe92a707b5687f3e340f27d0325a4c4428a0/header.jpg?t=1781377380",
+        "product_family_identity": "appid:4282490",
+        "product_family_appid": "4282490",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "mistfall-hunter-demo"
@@ -861,6 +1087,9 @@
       "article_published_at": "2026-07-21",
       "star_dates": [
         "2026-06-17"
+      ],
+      "member_appids": [
+        "4282490"
       ],
       "article_count": 1,
       "latest_star_date": "2026-06-17"
@@ -880,7 +1109,10 @@
         ],
         "developer": "Hunter Studio",
         "publisher": "Hunter Studio",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2445690/6ba48b065007d13e96a5e01a4976139ad96480ac/header_schinese.jpg?t=1781770203",
+        "product_family_identity": "appid:2445690",
+        "product_family_appid": "2445690",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "lost-castle-2"
@@ -890,6 +1122,9 @@
       "star_dates": [
         "2026-06-16",
         "2026-06-13"
+      ],
+      "member_appids": [
+        "2445690"
       ],
       "article_count": 1,
       "latest_star_date": "2026-06-16"
@@ -907,7 +1142,10 @@
         ],
         "developer": "IO Interactive A/S",
         "publisher": "IO Interactive A/S",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/ed212e7615947389b4eb0783ebbf7fc726839893/header_schinese.jpg?t=1780344100"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/ed212e7615947389b4eb0783ebbf7fc726839893/header_schinese.jpg?t=1780344100",
+        "product_family_identity": "appid:3768760",
+        "product_family_appid": "3768760",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "007-first-light"
@@ -915,6 +1153,9 @@
       "article_title": "007初露锋芒-邦↑邦↓邦↑邦↓从杀手到邦德",
       "article_published_at": "2026-06-16",
       "star_dates": [],
+      "member_appids": [
+        "3768760"
+      ],
       "article_count": 1,
       "latest_star_date": null
     },
@@ -930,7 +1171,10 @@
         ],
         "developer": "lemorion_1224",
         "publisher": "lemorion_1224",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4704690/163e2a742e5fb8e1f5d1e3a890da98f04ab809d4/header.jpg?t=1781108224",
+        "product_family_identity": "appid:4704690",
+        "product_family_appid": "4704690",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "meccha-chameleon"
@@ -941,6 +1185,9 @@
         "2026-06-15",
         "2026-06-14",
         "2026-06-11"
+      ],
+      "member_appids": [
+        "4704690"
       ],
       "article_count": 1,
       "latest_star_date": "2026-06-15"
@@ -961,13 +1208,19 @@
         ],
         "developer": " New One Studio",
         "publisher": " New One Studio, Ariel",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781677683"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4148240/134b120e45bee703fac67f3c03e79c3673979565/header_schinese.jpg?t=1781677683",
+        "product_family_identity": "appid:4148240",
+        "product_family_appid": "4148240",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-06-10"
+      ],
+      "member_appids": [
+        "4148240"
       ],
       "article_count": 0,
       "latest_star_date": "2026-06-10"
@@ -986,7 +1239,10 @@
         ],
         "developer": "Lavaflame2",
         "publisher": "Lavaflame2",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1780959523"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4731620/98980e1f706a6ba8ffefd2a372160d6a73173443/header_schinese.jpg?t=1780959523",
+        "product_family_identity": "appid:4731620",
+        "product_family_appid": "4731620",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "fortune-mill"
@@ -995,6 +1251,9 @@
       "article_published_at": "2026-07-21",
       "star_dates": [
         "2026-06-09"
+      ],
+      "member_appids": [
+        "4731620"
       ],
       "article_count": 1,
       "latest_star_date": "2026-06-09"
@@ -1012,7 +1271,10 @@
         ],
         "developer": "Alkimia Interactive",
         "publisher": "Alkimia Interactive, THQ Nordic",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1780965412"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1297900/6bc8c205a107e552f14631524f25cdf88743515a/header.jpg?t=1780965412",
+        "product_family_identity": "appid:1297900",
+        "product_family_appid": "1297900",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "gothic-1-remake"
@@ -1022,6 +1284,9 @@
       "star_dates": [
         "2026-06-08",
         "2026-06-06"
+      ],
+      "member_appids": [
+        "1297900"
       ],
       "article_count": 1,
       "latest_star_date": "2026-06-08"
@@ -1040,7 +1305,10 @@
         ],
         "developer": "Unknown Worlds Entertainment",
         "publisher": "Unknown Worlds Entertainment",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/998f14fffb6e9917639ce4ba992c7e9f4a0157b5/header_schinese.jpg?t=1778777511"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962700/998f14fffb6e9917639ce4ba992c7e9f4a0157b5/header_schinese.jpg?t=1778777511",
+        "product_family_identity": "appid:1962700",
+        "product_family_appid": "1962700",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "subnautica-2"
@@ -1048,6 +1316,9 @@
       "article_title": "深海迷航2-深海模拟最严厉的父亲",
       "article_published_at": "2026-06-07",
       "star_dates": [],
+      "member_appids": [
+        "1962700"
+      ],
       "article_count": 1,
       "latest_star_date": null
     },
@@ -1061,13 +1332,19 @@
         "genres": [],
         "developer": "",
         "publisher": "",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2981610/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1780658196"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2981610/cb9c54133c4f0bcada158d2da8cb47575914e89d/header.jpg?t=1780658196",
+        "product_family_identity": "appid:2981610",
+        "product_family_appid": "2981610",
+        "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
         "2026-06-07"
+      ],
+      "member_appids": [
+        "2981610"
       ],
       "article_count": 0,
       "latest_star_date": "2026-06-07"
@@ -1087,7 +1364,10 @@
         ],
         "developer": "Nugem Studio, Tesseract Studio",
         "publisher": "Nugem Studio",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg?t=1780112834"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3678970/be640d1ea4db8d9139069e3799d8d4553f0c2131/header.jpg?t=1780112834",
+        "product_family_identity": "appid:3678970",
+        "product_family_appid": "3678970",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "tbh-task-bar-hero"
@@ -1098,6 +1378,9 @@
         "2026-06-05",
         "2026-06-04",
         "2026-06-03"
+      ],
+      "member_appids": [
+        "3678970"
       ],
       "article_count": 1,
       "latest_star_date": "2026-06-05"
@@ -1115,7 +1398,10 @@
         ],
         "developer": "Yacht Club Games",
         "publisher": "Yacht Club Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875580/368fcff2cd8f5ef01c5a89060a49f9a333076a87/header.jpg?t=1780266529"
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1875580/368fcff2cd8f5ef01c5a89060a49f9a333076a87/header.jpg?t=1780266529",
+        "product_family_identity": "appid:1875580",
+        "product_family_appid": "1875580",
+        "product_family_role": "full"
       },
       "article_slugs": [
         "mina-the-hollower"
@@ -1123,6 +1409,9 @@
       "article_title": "挖掘者米娜-类银领域最好的铲子使用者",
       "article_published_at": "2026-06-05",
       "star_dates": [],
+      "member_appids": [
+        "1875580"
+      ],
       "article_count": 1,
       "latest_star_date": null
     }
