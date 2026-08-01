@@ -27,7 +27,7 @@ useSeoMeta({ title: "制作系统" })
 const { data: status } = await useStatus()
 const steps = [
   { icon: Database, title: "采集", text: "每天两次采集 Steam 趋势与商店公开信息，并记录数据完整度。" },
-  { icon: Filter, title: "评分", text: "可解释规则每天选出一个今日之星，每周整理五个发行信号，AI 不参与排名。" },
+  { icon: Filter, title: "评分", text: "可解释规则每天从合格发行事件中选出一个今日之星，并把一周的完整日排名收束成两个文章名额；AI 不参与排名。" },
   { icon: SearchCheck, title: "研究", text: "本地 Agent 准备官方优先的证据包与原因假设。" },
   { icon: PenLine, title: "审核", text: "Article、团队档案与主图经过人工核验和编辑。" },
   { icon: Send, title: "发布", text: "整理后的静态数据自动进入公开仓库，并由 GitHub Pages 部署。" }

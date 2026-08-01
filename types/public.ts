@@ -19,6 +19,9 @@ export type PublicGame = {
   publisher?: string
   cover_image_url?: string
   steam_url?: string
+  product_family_identity?: string
+  product_family_appid?: string
+  product_family_role?: "trial" | "full"
   trend: TrendPoint[]
 }
 
@@ -66,9 +69,14 @@ export type DailyIssue = {
 
 export type ScoringSnapshot = {
   schema_version: string
+  release_event_scoring_effective_date?: string
   new_release_window_days: number
   daily_star_repeat_window_days?: number
   daily_star_repeat_window_max_wins?: number
+  product_family_repeat_window_max_wins?: number
+  product_family_trial_window_max_wins?: number
+  release_review_verification_threshold?: number
+  major_update_window_days?: number
   peak_score_weight: number
   peak_score_cap: number
   record_growth_weight: number
@@ -88,6 +96,7 @@ export type ScoringSnapshot = {
   yesterday_star_player_discount: number
   consecutive_star_case_threshold: number
   daily_signal_type_scores: Record<string, number>
+  release_event_multipliers?: Record<string, number>
   signal_bonuses: Record<string, number>
   daily_star_game_aliases?: Record<string, string>
   public_game_name_overrides?: Record<string, string>
@@ -186,12 +195,13 @@ export type WeeklyManifest = {
 }
 
 export type GameArchiveEntry = {
-  game: Pick<PublicGame, "slug" | "appid" | "name" | "name_cn" | "description" | "genres" | "developer" | "publisher" | "cover_image_url">
+  game: Pick<PublicGame, "slug" | "appid" | "name" | "name_cn" | "description" | "genres" | "developer" | "publisher" | "cover_image_url" | "product_family_identity" | "product_family_appid" | "product_family_role">
   article_slugs: string[]
   article_title?: string | null
   article_published_at?: string | null
   article_count: number
   star_dates: string[]
+  member_appids?: string[]
   latest_star_date?: string | null
 }
 

@@ -57,13 +57,25 @@ const { data: archive } = await useGameArchive()
 const archiveEntry = archive.value?.games.find(entry =>
   entry.game.slug === resolvedGame.slug
   || (resolvedGame.appid && entry.game.appid === resolvedGame.appid)
+  || Boolean(resolvedGame.appid && (entry.member_appids || []).includes(resolvedGame.appid))
+  || (
+    resolvedGame.product_family_identity
+    && entry.game.product_family_identity === resolvedGame.product_family_identity
+  )
 )
-const { data: latestQuickTake } = await useLatestGameQuickTake(resolvedGame, archiveEntry?.star_dates || [])
+const { data: latestQuickTake } = await useLatestGameQuickTake(
+  resolvedGame,
+  archiveEntry?.star_dates || [],
+  archiveEntry?.member_appids || []
+)
 const { data: publishedCases } = await useAsyncData("published-game-cases", () =>
   queryContent("/articles").where({ status: "published" }).find()
 )
 const publishedCase = computed(() =>
-  publishedCases.value?.find(item => item.game_appid === resolvedGame.appid)
+  publishedCases.value?.find(item =>
+    item.game_appid === resolvedGame.appid
+    || archiveEntry?.article_slugs.includes(String(item.slug || ""))
+  )
 )
 useSeoMeta({ title: displayGameName(resolvedGame), description: resolvedGame.description })
 </script>

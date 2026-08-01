@@ -1,5 +1,6 @@
 {
-  "schema_version": "1.0.0",
+  "schema_version": "2.0.0",
+  "release_event_scoring_effective_date": "2026-07-31",
   "new_release_window_days": 30,
   "comeback_release_age_days": 180,
   "daily_star_review_release_age_days": 365,
@@ -7,6 +8,10 @@
   "daily_star_repeat_block_release_age_days": 365,
   "daily_star_repeat_window_days": 30,
   "daily_star_repeat_window_max_wins": 3,
+  "product_family_repeat_window_max_wins": 4,
+  "product_family_trial_window_max_wins": 3,
+  "release_review_verification_threshold": 5000,
+  "major_update_window_days": 14,
   "peak_score_weight": 35.0,
   "peak_score_cap": 100000,
   "low_peak_score_cap": 10000,
@@ -15,7 +20,7 @@
   "record_growth_cap": 1.0,
   "growth_full_credit_peak": 10000,
   "days_seen_score_weight": 0.0,
-  "signal_type_score_weight": 10.0,
+  "signal_type_score_weight": 0.0,
   "unstarred_runner_up_bonus_start_days": 3,
   "unstarred_runner_up_bonus_step": 1.5,
   "unstarred_runner_up_bonus_cap": 6.0,
@@ -37,12 +42,22 @@
   "yesterday_star_player_discount": 0.7,
   "consecutive_star_case_threshold": 3,
   "daily_signal_type_scores": {
-    "new_release_rise": 12.0,
-    "review_heat_gap": 8.0,
-    "sustained_growth": 6.0,
-    "content_update_comeback": 10.8,
-    "discount_comeback": 2.0,
-    "comeback": 4.0
+    "new_release_rise": 0.0,
+    "trial_release_rise": 0.0,
+    "formal_release_rise": 0.0,
+    "release_event_rise": 0.0,
+    "content_update_comeback": 0.0,
+    "review_heat_gap": 0.0,
+    "sustained_growth": 0.0,
+    "discount_comeback": 0.0,
+    "comeback": 0.0
+  },
+  "release_event_multipliers": {
+    "true_new": 1.0,
+    "trial": 1.0,
+    "formal_release": 0.85,
+    "pending": 0.85,
+    "major_update": 0.7
   },
   "signal_bonuses": {
     "sudden_breakout": 35.0,
@@ -58,9 +73,11 @@
       "url": "https://news.blizzard.com/en-sg/diablo4/23954935/diablo-iv-launches-soon-here-s-what-you-need-to-know"
     }
   },
+  "release_event_overrides": {},
   "daily_star_game_aliases": {
     "太吾绘卷：天幕心帷": "838350"
   },
+  "product_family_appids": {},
   "public_game_name_overrides": {
     "4148240": "女王的游戏：盛世天下女帝篇",
     "2445690": "失落城堡2",
