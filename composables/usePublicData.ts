@@ -55,8 +55,14 @@ export function useStatus() {
 export function useScoring() {
   return useAsyncData<ScoringSnapshot>("scoring", () =>
     loadPublicJsonOrDefault<ScoringSnapshot>("/data/scoring.json", {
-      schema_version: "2.0.0",
+      schema_version: "2.1.0",
       release_event_scoring_effective_date: "2026-07-31",
+      review_ratio_scoring_effective_date: "2026-08-01",
+      review_ratio_multipliers: {
+        below_30: 0.7,
+        below_50: 0.8,
+        otherwise: 1
+      },
       new_release_window_days: 30,
       product_family_repeat_window_max_wins: 4,
       product_family_trial_window_max_wins: 3,

@@ -20,6 +20,13 @@
       <div class="cover-kicker">
         <span>{{ formatDate(issue.date) }}</span>
         <SignalTag :type="starSignal.type" :label="starSignal.label" />
+        <SignalTag
+          v-for="label in starSignal.secondary_labels || []"
+          :key="label"
+          :type="starSignal.type"
+          :label="label"
+          secondary
+        />
       </div>
       <p class="cover-edition">TODAY'S STAR / ISSUE {{ issue.date.replaceAll("-", "") }}</p>
       <h1>{{ displayGameName(starSignal.game) }}</h1>

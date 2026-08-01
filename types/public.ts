@@ -29,6 +29,7 @@ export type Signal = {
   rank: number
   type: string
   label: string
+  secondary_labels?: string[]
   score: number
   fact_summary: string
   metrics: Record<string, unknown>
@@ -70,6 +71,12 @@ export type DailyIssue = {
 export type ScoringSnapshot = {
   schema_version: string
   release_event_scoring_effective_date?: string
+  review_ratio_scoring_effective_date?: string
+  review_ratio_multipliers?: {
+    below_30: number
+    below_50: number
+    otherwise: number
+  }
   new_release_window_days: number
   daily_star_repeat_window_days?: number
   daily_star_repeat_window_max_wins?: number

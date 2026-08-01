@@ -3,7 +3,16 @@
     <div class="signal-card-index">{{ String(signal.rank).padStart(2, "0") }}</div>
     <div class="signal-card-copy">
       <div class="signal-card-meta">
-        <SignalTag :type="signal.type" :label="signal.label" />
+        <span class="signal-card-tags">
+          <SignalTag :type="signal.type" :label="signal.label" />
+          <SignalTag
+            v-for="label in signal.secondary_labels || []"
+            :key="label"
+            :type="signal.type"
+            :label="label"
+            secondary
+          />
+        </span>
         <span>{{ appearanceLabel }} / {{ signal.score.toFixed(1) }} pts</span>
       </div>
       <h3>{{ displayGameName(signal.game) }}</h3>
@@ -29,3 +38,11 @@ const appearanceCount = computed(() => {
 })
 const appearanceLabel = computed(() => `第 ${appearanceCount.value} 次摘星`)
 </script>
+
+<style scoped>
+.signal-card-tags {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+</style>

@@ -1,6 +1,12 @@
 {
-  "schema_version": "2.0.0",
+  "schema_version": "2.1.0",
   "release_event_scoring_effective_date": "2026-07-31",
+  "review_ratio_scoring_effective_date": "2026-08-01",
+  "review_ratio_multipliers": {
+    "below_30": 0.7,
+    "below_50": 0.8,
+    "otherwise": 1.0
+  },
   "new_release_window_days": 30,
   "comeback_release_age_days": 180,
   "daily_star_review_release_age_days": 365,

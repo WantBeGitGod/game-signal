@@ -24,6 +24,7 @@
       <p>
         系统先判断当天是否存在合格发行事件，再比较峰值规模和是否突破历史高点；连续出现只保留为审计材料，不额外得分。
         同一 App ID 在过去 30 天重复摘星时会承担自己的分数折算；已确认的试玩版与正式版共享公开曝光次数，但不互相传递分数债务。
+        低于 50% 的可靠好评率会从 2026 年 8 月 1 日起触发折算并附加“评分背离”标签，但不会直接淘汰产品。
       </p>
     </section>
     <section v-if="scoring" class="scoring-sheet">
@@ -55,6 +56,10 @@
         <div>
           <dt>发行事件倍率</dt>
           <dd>{{ eventRule }}</dd>
+        </div>
+        <div>
+          <dt>好评率折算</dt>
+          <dd>{{ scoring.review_ratio_scoring_effective_date || "2026-08-01" }} 起：{{ reviewRatioRule }}</dd>
         </div>
         <div>
           <dt>固定类型加分</dt>
@@ -101,6 +106,15 @@ const eventRule = computed(() => {
     major_update: 0.7
   }
   return `新作/试玩 ${percent(values.true_new)}；正式版/待核验 ${percent(values.formal_release)}；重大更新 ${percent(values.major_update)}`
+})
+const reviewRatioRule = computed(() => {
+  if (!scoring.value) return ""
+  const values = scoring.value.review_ratio_multipliers || {
+    below_30: 0.7,
+    below_50: 0.8,
+    otherwise: 1
+  }
+  return `低于 30% ${percent(values.below_30)}；30%–低于 50% ${percent(values.below_50)}；50% 及以上或未知 ${percent(values.otherwise)}。强热度产品仍可凭折算后得分胜出`
 })
 const methods = [
   { code: "01", title: "新作起量", text: "首次进入市场的产品在 30 天窗口内快速进入可见区间；有官方 Advanced Access 时，从实际开放游玩的日期起算。" },
