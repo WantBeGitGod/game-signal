@@ -1,7 +1,37 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-01T18:15:43",
+  "generated_at": "2026-08-02T18:17:56",
   "games": [
+    {
+      "game": {
+        "slug": "corsair-cove",
+        "appid": "1368140",
+        "name": "Corsair Cove",
+        "name_cn": null,
+        "description": "建立一座庞大的海盗避风港，组建舰队探索广阔海域，挑战王权让海盗时代得以延续！从麦酒到燧发手枪，从无名喽啰到侠盗剑客，你需要驾驭复杂的生产链，号令一群桀骜不驯的船员，方能称霸七海！",
+        "genres": [
+          "模拟",
+          "策略"
+        ],
+        "developer": "Limbic Entertainment",
+        "publisher": "Hooded Horse",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/6e08c557dfc1d84e5642bcbffcdc527f1614258f/header_schinese.jpg?t=1785527747",
+        "product_family_identity": "appid:1368140",
+        "product_family_appid": "1368140",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-08-02"
+      ],
+      "member_appids": [
+        "1368140"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-08-02"
+    },
     {
       "game": {
         "slug": "mistfall-hunter",

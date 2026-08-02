@@ -1,0 +1,50 @@
+{
+  "slug": "corsair-cove",
+  "appid": "1368140",
+  "name": "Corsair Cove",
+  "name_cn": null,
+  "description": "建立一座庞大的海盗避风港，组建舰队探索广阔海域，挑战王权让海盗时代得以延续！从麦酒到燧发手枪，从无名喽啰到侠盗剑客，你需要驾驭复杂的生产链，号令一群桀骜不驯的船员，方能称霸七海！",
+  "release_date": "2026-07-31",
+  "genres": [
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "可调整文字大小",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "可调整难度",
+    "可以仅用鼠标",
+    "#category_playable_at_your_own_pace",
+    "无需应对快速反应事件",
+    "随时保存",
+    "立体声",
+    "字幕选项",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 89.0,
+  "review_total": 720,
+  "developer": "Limbic Entertainment",
+  "publisher": "Hooded Horse",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/6e08c557dfc1d84e5642bcbffcdc527f1614258f/header_schinese.jpg?t=1785527747",
+  "steam_url": "https://store.steampowered.com/app/1368140",
+  "product_family_identity": "appid:1368140",
+  "product_family_appid": "1368140",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-08-01",
+      "peak": 7169
+    },
+    {
+      "date": "2026-08-02",
+      "peak": 10174
+    }
+  ]
+}

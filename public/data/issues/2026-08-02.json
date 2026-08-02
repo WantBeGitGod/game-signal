@@ -1,0 +1,351 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-08-02",
+  "title": "08.02 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 32.7,
+    "fact_summary": "Corsair Cove 今日观测峰值 10,174，较过往最高峰值提升 +42%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 10174,
+      "previous_peak": 7169,
+      "previous_record_peak": 7169,
+      "growth_rate": 0.4192,
+      "record_growth_rate": 0.4192,
+      "scoring_peak": 10174,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.03,
+      "raw_record_growth_score": 14.67,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 14.67,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 32.7,
+      "event_adjusted_score": 32.7,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 32.7,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 32.7,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 89.0,
+      "review_total": 720,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 720,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "模拟",
+        "策略"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-07-31",
+      "release_event_age_days": 2,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 720,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-01",
+          "peak": 7169
+        },
+        {
+          "date": "2026-08-02",
+          "peak": 10174
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1368140"
+      }
+    ],
+    "game": {
+      "slug": "corsair-cove",
+      "appid": "1368140",
+      "name": "Corsair Cove",
+      "name_cn": null,
+      "description": "建立一座庞大的海盗避风港，组建舰队探索广阔海域，挑战王权让海盗时代得以延续！从麦酒到燧发手枪，从无名喽啰到侠盗剑客，你需要驾驭复杂的生产链，号令一群桀骜不驯的船员，方能称霸七海！",
+      "release_date": "2026-07-31",
+      "genres": [
+        "模拟",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 集换式卡牌",
+        "可调整文字大小",
+        "视角舒适度",
+        "可选颜色",
+        "自定义音量控制",
+        "可调整难度",
+        "可以仅用鼠标",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "随时保存",
+        "立体声",
+        "字幕选项",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 89.0,
+      "review_total": 720,
+      "developer": "Limbic Entertainment",
+      "publisher": "Hooded Horse",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/6e08c557dfc1d84e5642bcbffcdc527f1614258f/header_schinese.jpg?t=1785527747",
+      "steam_url": "https://store.steampowered.com/app/1368140",
+      "product_family_identity": "appid:1368140",
+      "product_family_appid": "1368140",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-01",
+          "peak": 7169
+        },
+        {
+          "date": "2026-08-02",
+          "peak": 10174
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Corsair Cove 是一款把海盗题材放进港口经营里的策略模拟游戏：从一座避风港起家，把货物、船员和船队接成能影响整片海域的海盗基地。",
+      "reference_frame": "它是围绕生产链和舰队调度展开的海上经营局。重点在于让港口供给、船只用途与扩张目标彼此接上，而不是亲自掌舵打炮。",
+      "for_players": "适合喜欢看基地从杂乱工坊变成顺畅系统、愿意反复调配资源和岗位的玩家。享受“这条链终于转起来了”的反馈，也能接受进度由规划和积累推动的人，会比较对胃口。",
+      "not_for_players": "想直接操控一艘船航行、即时瞄准开炮，或每几分钟都要强烈动作反馈的玩家，可能会嫌它节奏偏慢。对生产关系、船员安排和持续扩张没耐心的人，也容易觉得它把时间花在准备上。",
+      "star_reason": "它在 8 月 2 日观测到 10,174 的在线峰值，比此前纪录高出 42%；公开评价为 89% 好评、共 720 条。作为 7 月 31 日上线的新作，这个起量让海盗港口经营的组合值得被看见。",
+      "core_loop": [
+        "规划港口资源与生产链，做出朗姆酒、武器等货物，再安排船员上岗。",
+        "编组舰队驶向更远海域，在补给、扩张和冲突之间作出取舍。",
+        "把远航带回的资源回灌港口，继续拉高生产与船队的承载力。"
+      ],
+      "content_length": 445
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 32.7,
+    "fact_summary": "Corsair Cove 今日观测峰值 10,174，较过往最高峰值提升 +42%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 10174,
+      "previous_peak": 7169,
+      "previous_record_peak": 7169,
+      "growth_rate": 0.4192,
+      "record_growth_rate": 0.4192,
+      "scoring_peak": 10174,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.03,
+      "raw_record_growth_score": 14.67,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 14.67,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 32.7,
+      "event_adjusted_score": 32.7,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 32.7,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 32.7,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 89.0,
+      "review_total": 720,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 720,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "模拟",
+        "策略"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-07-31",
+      "release_event_age_days": 2,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 720,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-01",
+          "peak": 7169
+        },
+        {
+          "date": "2026-08-02",
+          "peak": 10174
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1368140"
+      }
+    ],
+    "game": {
+      "slug": "corsair-cove",
+      "appid": "1368140",
+      "name": "Corsair Cove",
+      "name_cn": null,
+      "description": "建立一座庞大的海盗避风港，组建舰队探索广阔海域，挑战王权让海盗时代得以延续！从麦酒到燧发手枪，从无名喽啰到侠盗剑客，你需要驾驭复杂的生产链，号令一群桀骜不驯的船员，方能称霸七海！",
+      "release_date": "2026-07-31",
+      "genres": [
+        "模拟",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 集换式卡牌",
+        "可调整文字大小",
+        "视角舒适度",
+        "可选颜色",
+        "自定义音量控制",
+        "可调整难度",
+        "可以仅用鼠标",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "随时保存",
+        "立体声",
+        "字幕选项",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 89.0,
+      "review_total": 720,
+      "developer": "Limbic Entertainment",
+      "publisher": "Hooded Horse",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368140/6e08c557dfc1d84e5642bcbffcdc527f1614258f/header_schinese.jpg?t=1785527747",
+      "steam_url": "https://store.steampowered.com/app/1368140",
+      "product_family_identity": "appid:1368140",
+      "product_family_appid": "1368140",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-01",
+          "peak": 7169
+        },
+        {
+          "date": "2026-08-02",
+          "peak": 10174
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Corsair Cove 是一款把海盗题材放进港口经营里的策略模拟游戏：从一座避风港起家，把货物、船员和船队接成能影响整片海域的海盗基地。",
+      "reference_frame": "它是围绕生产链和舰队调度展开的海上经营局。重点在于让港口供给、船只用途与扩张目标彼此接上，而不是亲自掌舵打炮。",
+      "for_players": "适合喜欢看基地从杂乱工坊变成顺畅系统、愿意反复调配资源和岗位的玩家。享受“这条链终于转起来了”的反馈，也能接受进度由规划和积累推动的人，会比较对胃口。",
+      "not_for_players": "想直接操控一艘船航行、即时瞄准开炮，或每几分钟都要强烈动作反馈的玩家，可能会嫌它节奏偏慢。对生产关系、船员安排和持续扩张没耐心的人，也容易觉得它把时间花在准备上。",
+      "star_reason": "它在 8 月 2 日观测到 10,174 的在线峰值，比此前纪录高出 42%；公开评价为 89% 好评、共 720 条。作为 7 月 31 日上线的新作，这个起量让海盗港口经营的组合值得被看见。",
+      "core_loop": [
+        "规划港口资源与生产链，做出朗姆酒、武器等货物，再安排船员上岗。",
+        "编组舰队驶向更远海域，在补给、扩张和冲突之间作出取舍。",
+        "把远航带回的资源回灌港口，继续拉高生产与船队的承载力。"
+      ],
+      "content_length": 445
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
