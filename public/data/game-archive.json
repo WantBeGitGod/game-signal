@@ -1,7 +1,37 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-02T18:17:56",
+  "generated_at": "2026-08-03T18:16:14",
   "games": [
+    {
+      "game": {
+        "slug": "machine-party",
+        "appid": "4108000",
+        "name": "Machine Party",
+        "name_cn": null,
+        "description": "《机械狂欢》是一款主打暴力美学的派对游戏合集。本作中，失败不仅仅是输掉比赛，更意味着“命丧黄泉”。召集您的冤种朋友，并在这场以命搏命的较量中，证明自己“命不该绝”吧。危险与机会共存！",
+        "genres": [
+          "动作",
+          "独立"
+        ],
+        "developer": "Mike Klubnika, GDeavid",
+        "publisher": "Oro Interactive",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/bf97e80547a68eac1ad2c481c2f64b6e276d5801/header_schinese.jpg?t=1785746697",
+        "product_family_identity": "appid:4108000",
+        "product_family_appid": "4108000",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-08-03"
+      ],
+      "member_appids": [
+        "4108000"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-08-03"
+    },
     {
       "game": {
         "slug": "corsair-cove",

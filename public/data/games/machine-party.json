@@ -1,0 +1,49 @@
+{
+  "slug": "machine-party",
+  "appid": "4108000",
+  "name": "Machine Party",
+  "name_cn": null,
+  "description": "《机械狂欢》是一款主打暴力美学的派对游戏合集。本作中，失败不仅仅是输掉比赛，更意味着“命丧黄泉”。召集您的冤种朋友，并在这场以命搏命的较量中，证明自己“命不该绝”吧。危险与机会共存！",
+  "release_date": "2026-07-30",
+  "genres": [
+    "动作",
+    "独立"
+  ],
+  "tags": [
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "DUALSHOCK 控制器支持",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 89.0,
+  "review_total": 1455,
+  "developer": "Mike Klubnika, GDeavid",
+  "publisher": "Oro Interactive",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/bf97e80547a68eac1ad2c481c2f64b6e276d5801/header_schinese.jpg?t=1785746697",
+  "steam_url": "https://store.steampowered.com/app/4108000",
+  "product_family_identity": "appid:4108000",
+  "product_family_appid": "4108000",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-07-31",
+      "peak": 2888
+    },
+    {
+      "date": "2026-08-01",
+      "peak": 3375
+    },
+    {
+      "date": "2026-08-02",
+      "peak": 5890
+    },
+    {
+      "date": "2026-08-03",
+      "peak": 14979
+    }
+  ]
+}
