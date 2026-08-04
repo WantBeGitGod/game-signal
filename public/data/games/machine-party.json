@@ -20,7 +20,7 @@
   ],
   "review_score": "Very Positive",
   "review_ratio": 89.0,
-  "review_total": 1455,
+  "review_total": 1711,
   "developer": "Mike Klubnika, GDeavid",
   "publisher": "Oro Interactive",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/bf97e80547a68eac1ad2c481c2f64b6e276d5801/header_schinese.jpg?t=1785746697",
@@ -44,6 +44,10 @@
     {
       "date": "2026-08-03",
       "peak": 14979
+    },
+    {
+      "date": "2026-08-04",
+      "peak": 22567
     }
   ]
 }

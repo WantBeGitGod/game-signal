@@ -1,0 +1,385 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-08-04",
+  "title": "08.04 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 30.48,
+    "fact_summary": "Machine Party 今日观测峰值 22,567，较过往最高峰值提升 +51%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 22567,
+      "previous_peak": 14979,
+      "previous_record_peak": 14979,
+      "growth_rate": 0.5066,
+      "record_growth_rate": 0.5066,
+      "scoring_peak": 22567,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 20.37,
+      "raw_record_growth_score": 17.73,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 17.73,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 38.1,
+      "event_adjusted_score": 38.1,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 38.1,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.8,
+      "base_score": 30.48,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 89.0,
+      "review_total": 1711,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 562,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "独立"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-07-30",
+      "release_event_age_days": 5,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 562,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-07-31",
+          "peak": 2888
+        },
+        {
+          "date": "2026-08-01",
+          "peak": 3375
+        },
+        {
+          "date": "2026-08-02",
+          "peak": 5890
+        },
+        {
+          "date": "2026-08-03",
+          "peak": 14979
+        },
+        {
+          "date": "2026-08-04",
+          "peak": 22567
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4108000"
+      }
+    ],
+    "game": {
+      "slug": "machine-party",
+      "appid": "4108000",
+      "name": "Machine Party",
+      "name_cn": null,
+      "description": "《机械狂欢》是一款主打暴力美学的派对游戏合集。本作中，失败不仅仅是输掉比赛，更意味着“命丧黄泉”。召集您的冤种朋友，并在这场以命搏命的较量中，证明自己“命不该绝”吧。危险与机会共存！",
+      "release_date": "2026-07-30",
+      "genres": [
+        "动作",
+        "独立"
+      ],
+      "tags": [
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "DUALSHOCK 控制器支持",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 89.0,
+      "review_total": 1711,
+      "developer": "Mike Klubnika, GDeavid",
+      "publisher": "Oro Interactive",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/bf97e80547a68eac1ad2c481c2f64b6e276d5801/header_schinese.jpg?t=1785746697",
+      "steam_url": "https://store.steampowered.com/app/4108000",
+      "product_family_identity": "appid:4108000",
+      "product_family_appid": "4108000",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-07-31",
+          "peak": 2888
+        },
+        {
+          "date": "2026-08-01",
+          "peak": 3375
+        },
+        {
+          "date": "2026-08-02",
+          "peak": 5890
+        },
+        {
+          "date": "2026-08-03",
+          "peak": 14979
+        },
+        {
+          "date": "2026-08-04",
+          "peak": 22567
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Machine Party 是一款把多人派对小玩法塞进工业恐怖场景的动作游戏：失败不只是丢一分，而是当场出局，朋友立刻看到这场事故。",
+      "reference_frame": "它是快节奏的高风险派对闯关：重点不是长线养成，而是在不断更换规则的短回合里读懂危险、抢到时机，并把别人的失误变成下一轮情报。",
+      "for_players": "适合愿意和熟人一起大笑、能接受频繁翻车，也喜欢反复开局的人。你若偏爱规则很快能懂、操作和反应立刻见分晓的多人游戏，这种把失误公开成笑点的节奏会很对胃口。",
+      "not_for_players": "想要稳定合作、长线 Build 成长，或希望每一局都能按计划推进的玩家，可能会觉得它太依赖临场失误和朋友之间的互相折腾。特别在意突然出局、反复重开的玩家，也未必喜欢它的残酷派对节奏。",
+      "star_reason": "Machine Party 今日 24 小时峰值为 22,567，比此前纪录高出 51%；Steam 公开评价为 89% 好评、共 1,711 条。它在 7 月 30 日上线后仍继续抬高峰值，值得今天再看。",
+      "core_loop": [
+        "和朋友进入一轮致命小游戏，先辨认场地规则、机关位置和最容易翻车的动作。",
+        "在跳跃、躲避、抢位或互相干扰中争取活到最后；有人出局后，剩下的人得立刻根据现场变化调整判断。",
+        "切到下一项小游戏，带着刚才的失败经验重新适应节奏，让熟人局的混乱持续滚动起来。"
+      ],
+      "content_length": 499
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 30.48,
+    "fact_summary": "Machine Party 今日观测峰值 22,567，较过往最高峰值提升 +51%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 22567,
+      "previous_peak": 14979,
+      "previous_record_peak": 14979,
+      "growth_rate": 0.5066,
+      "record_growth_rate": 0.5066,
+      "scoring_peak": 22567,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 20.37,
+      "raw_record_growth_score": 17.73,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 17.73,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 38.1,
+      "event_adjusted_score": 38.1,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 38.1,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.8,
+      "base_score": 30.48,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 89.0,
+      "review_total": 1711,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 562,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "独立"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-07-30",
+      "release_event_age_days": 5,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 562,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-07-31",
+          "peak": 2888
+        },
+        {
+          "date": "2026-08-01",
+          "peak": 3375
+        },
+        {
+          "date": "2026-08-02",
+          "peak": 5890
+        },
+        {
+          "date": "2026-08-03",
+          "peak": 14979
+        },
+        {
+          "date": "2026-08-04",
+          "peak": 22567
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4108000"
+      }
+    ],
+    "game": {
+      "slug": "machine-party",
+      "appid": "4108000",
+      "name": "Machine Party",
+      "name_cn": null,
+      "description": "《机械狂欢》是一款主打暴力美学的派对游戏合集。本作中，失败不仅仅是输掉比赛，更意味着“命丧黄泉”。召集您的冤种朋友，并在这场以命搏命的较量中，证明自己“命不该绝”吧。危险与机会共存！",
+      "release_date": "2026-07-30",
+      "genres": [
+        "动作",
+        "独立"
+      ],
+      "tags": [
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "DUALSHOCK 控制器支持",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 89.0,
+      "review_total": 1711,
+      "developer": "Mike Klubnika, GDeavid",
+      "publisher": "Oro Interactive",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/bf97e80547a68eac1ad2c481c2f64b6e276d5801/header_schinese.jpg?t=1785746697",
+      "steam_url": "https://store.steampowered.com/app/4108000",
+      "product_family_identity": "appid:4108000",
+      "product_family_appid": "4108000",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-07-31",
+          "peak": 2888
+        },
+        {
+          "date": "2026-08-01",
+          "peak": 3375
+        },
+        {
+          "date": "2026-08-02",
+          "peak": 5890
+        },
+        {
+          "date": "2026-08-03",
+          "peak": 14979
+        },
+        {
+          "date": "2026-08-04",
+          "peak": 22567
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Machine Party 是一款把多人派对小玩法塞进工业恐怖场景的动作游戏：失败不只是丢一分，而是当场出局，朋友立刻看到这场事故。",
+      "reference_frame": "它是快节奏的高风险派对闯关：重点不是长线养成，而是在不断更换规则的短回合里读懂危险、抢到时机，并把别人的失误变成下一轮情报。",
+      "for_players": "适合愿意和熟人一起大笑、能接受频繁翻车，也喜欢反复开局的人。你若偏爱规则很快能懂、操作和反应立刻见分晓的多人游戏，这种把失误公开成笑点的节奏会很对胃口。",
+      "not_for_players": "想要稳定合作、长线 Build 成长，或希望每一局都能按计划推进的玩家，可能会觉得它太依赖临场失误和朋友之间的互相折腾。特别在意突然出局、反复重开的玩家，也未必喜欢它的残酷派对节奏。",
+      "star_reason": "Machine Party 今日 24 小时峰值为 22,567，比此前纪录高出 51%；Steam 公开评价为 89% 好评、共 1,711 条。它在 7 月 30 日上线后仍继续抬高峰值，值得今天再看。",
+      "core_loop": [
+        "和朋友进入一轮致命小游戏，先辨认场地规则、机关位置和最容易翻车的动作。",
+        "在跳跃、躲避、抢位或互相干扰中争取活到最后；有人出局后，剩下的人得立刻根据现场变化调整判断。",
+        "切到下一项小游戏，带着刚才的失败经验重新适应节奏，让熟人局的混乱持续滚动起来。"
+      ],
+      "content_length": 499
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
