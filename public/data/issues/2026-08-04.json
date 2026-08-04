@@ -8,67 +8,65 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 30.48,
-    "fact_summary": "Machine Party 今日观测峰值 22,567，较过往最高峰值提升 +51%，被识别为「新作起量」。",
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 22.22,
+    "fact_summary": "Sephiria 今日观测峰值 25,859，较过往最高峰值提升 +5%，被识别为「发行节点起量」。",
     "metrics": {
-      "current_peak": 22567,
-      "previous_peak": 14979,
-      "previous_record_peak": 14979,
-      "growth_rate": 0.5066,
-      "record_growth_rate": 0.5066,
-      "scoring_peak": 22567,
+      "current_peak": 25859,
+      "previous_peak": 24720,
+      "previous_record_peak": 24720,
+      "growth_rate": 0.0461,
+      "record_growth_rate": 0.0461,
+      "scoring_peak": 25859,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 20.37,
-      "raw_record_growth_score": 17.73,
+      "peak_score": 21.0,
+      "raw_record_growth_score": 1.61,
       "growth_score_multiplier": 1.0,
-      "record_growth_score": 17.73,
+      "record_growth_score": 1.61,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 38.1,
-      "event_adjusted_score": 38.1,
-      "event_multiplier": 1.0,
+      "score_before_multiplier": 22.61,
+      "event_adjusted_score": 19.22,
+      "event_multiplier": 0.85,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 38.1,
+      "review_adjusted_score": 19.22,
       "review_penalty_reason": null,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.8,
-      "base_score": 30.48,
-      "score_multiplier": 0.8,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "combined_score_multiplier": 0.85,
+      "base_score": 19.22,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
-      "unstarred_runner_up_streak_days": 0,
-      "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 89.0,
-      "review_total": 1711,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 4,
+      "unstarred_runner_up_bonus": 3.0,
+      "review_ratio": 93.0,
+      "review_total": 7093,
       "days_seen": 5,
       "comeback_gap_days": 1,
-      "is_new_release": true,
-      "release_age_days": 5,
-      "steam_release_age_days": 5,
-      "release_age_basis": "confirmed_identity",
-      "release_verification_required": false,
+      "is_new_release": false,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 562,
+        "initial_review_total": 6251,
         "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "verification_status": "pending"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
@@ -76,186 +74,193 @@
       "comeback_evidence": null,
       "genres": [
         "动作",
-        "独立"
+        "冒险",
+        "独立",
+        "角色扮演"
       ],
       "scoring_version": "release_event_v2",
-      "release_event_type": "true_new",
-      "release_event_date": "2026-07-30",
-      "release_event_age_days": 5,
+      "release_event_type": "pending",
+      "release_event_date": "2026-07-31",
+      "release_event_age_days": 4,
       "release_event_window_days": 30,
-      "release_event_multiplier": 1.0,
+      "release_event_multiplier": 0.85,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 562,
+        "initial_review_total": 6251,
         "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "verification_status": "pending"
       },
-      "release_event_date_basis": "confirmed_identity",
+      "release_event_date_basis": "actual_open_date",
       "trend": [
         {
           "date": "2026-07-31",
-          "peak": 2888
+          "peak": 11967
         },
         {
           "date": "2026-08-01",
-          "peak": 3375
+          "peak": 14734
         },
         {
           "date": "2026-08-02",
-          "peak": 5890
+          "peak": 19413
         },
         {
           "date": "2026-08-03",
-          "peak": 14979
+          "peak": 24720
         },
         {
           "date": "2026-08-04",
-          "peak": 22567
+          "peak": 25859
         }
       ]
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4108000"
+        "url": "https://store.steampowered.com/app/2436940"
       }
     ],
     "game": {
-      "slug": "machine-party",
-      "appid": "4108000",
-      "name": "Machine Party",
+      "slug": "sephiria",
+      "appid": "2436940",
+      "name": "Sephiria",
       "name_cn": null,
-      "description": "《机械狂欢》是一款主打暴力美学的派对游戏合集。本作中，失败不仅仅是输掉比赛，更意味着“命丧黄泉”。召集您的冤种朋友，并在这场以命搏命的较量中，证明自己“命不该绝”吧。危险与机会共存！",
-      "release_date": "2026-07-30",
+      "description": "《Dungreed》原班人马打造的俯视角动作 RPG 肉鸽游戏。潜入高塔深处探索，收集并强化神器，击退成群涌来的恶魔，守护危在旦夕的兔子村！",
+      "release_date": "2026-07-31",
       "genres": [
         "动作",
-        "独立"
+        "冒险",
+        "独立",
+        "角色扮演"
       ],
       "tags": [
+        "单人",
         "多人",
         "合作",
         "在线合作",
         "Steam 成就",
         "完全支持控制器",
         "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 云",
         "家庭共享"
       ],
       "review_score": "Very Positive",
-      "review_ratio": 89.0,
-      "review_total": 1711,
-      "developer": "Mike Klubnika, GDeavid",
-      "publisher": "Oro Interactive",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/bf97e80547a68eac1ad2c481c2f64b6e276d5801/header_schinese.jpg?t=1785746697",
-      "steam_url": "https://store.steampowered.com/app/4108000",
-      "product_family_identity": "appid:4108000",
-      "product_family_appid": "4108000",
+      "review_ratio": 93.0,
+      "review_total": 7093,
+      "developer": "TEAM HORAY",
+      "publisher": "TEAM HORAY",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/21b1476794fd8a2e0a3076448d28929e8139aad0/header_alt_assets_0.jpg?t=1785481238",
+      "steam_url": "https://store.steampowered.com/app/2436940",
+      "product_family_identity": "appid:2436940",
+      "product_family_appid": "2436940",
       "product_family_role": "full",
       "trend": [
         {
           "date": "2026-07-31",
-          "peak": 2888
+          "peak": 11967
         },
         {
           "date": "2026-08-01",
-          "peak": 3375
+          "peak": 14734
         },
         {
           "date": "2026-08-02",
-          "peak": 5890
+          "peak": 19413
         },
         {
           "date": "2026-08-03",
-          "peak": 14979
+          "peak": 24720
         },
         {
           "date": "2026-08-04",
-          "peak": 22567
+          "peak": 25859
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "Machine Party 是一款把多人派对小玩法塞进工业恐怖场景的动作游戏：失败不只是丢一分，而是当场出局，朋友立刻看到这场事故。",
-      "reference_frame": "它是快节奏的高风险派对闯关：重点不是长线养成，而是在不断更换规则的短回合里读懂危险、抢到时机，并把别人的失误变成下一轮情报。",
-      "for_players": "适合愿意和熟人一起大笑、能接受频繁翻车，也喜欢反复开局的人。你若偏爱规则很快能懂、操作和反应立刻见分晓的多人游戏，这种把失误公开成笑点的节奏会很对胃口。",
-      "not_for_players": "想要稳定合作、长线 Build 成长，或希望每一局都能按计划推进的玩家，可能会觉得它太依赖临场失误和朋友之间的互相折腾。特别在意突然出局、反复重开的玩家，也未必喜欢它的残酷派对节奏。",
-      "star_reason": "Machine Party 今日 24 小时峰值为 22,567，比此前纪录高出 51%；Steam 公开评价为 89% 好评、共 1,711 条。它在 7 月 30 日上线后仍继续抬高峰值，值得今天再看。",
+      "positioning": "Sephiria 是一款俯视角动作 Roguelite RPG：你钻进不断加深的高塔，在一轮轮战斗里拿到更适合自己的神器组合，再带着收获守住兔子村。",
+      "reference_frame": "它的重点在于短局探索和即时战斗的衔接：不是慢慢铺一套长期养成，而是每次下塔都根据眼前掉落调整攻击、移动和生存手段。",
+      "for_players": "适合喜欢一局一局试神器组合，也愿意在敌群压力下练走位、闪避和临场判断的玩家。若你享受每次掉落都让打法稍微拐弯、并愿意把失败当成下一局配装线索，这种循环会有吸引力。",
+      "not_for_players": "想要一条稳定的主线叙事、固定角色成长，或不喜欢反复从头进入战斗流程的玩家，可能会觉得它的节奏太依赖重复尝试。对即时操作和随机掉落都缺乏耐心的人，也未必适合。",
+      "star_reason": "Sephiria 今日 24 小时峰值为 25,859，比此前纪录高出 5%；Steam 公开评价为 93% 好评、共 7,093 条。作为仍在发行节点窗口内的作品，这股继续上扬的在线热度值得今天摘星。",
       "core_loop": [
-        "和朋友进入一轮致命小游戏，先辨认场地规则、机关位置和最容易翻车的动作。",
-        "在跳跃、躲避、抢位或互相干扰中争取活到最后；有人出局后，剩下的人得立刻根据现场变化调整判断。",
-        "切到下一项小游戏，带着刚才的失败经验重新适应节奏，让熟人局的混乱持续滚动起来。"
+        "潜入高塔，观察敌群和地形，在移动、闪避与攻击之间找出能穿过战斗的节奏。",
+        "收集并强化神器，按本局拿到的效果调整自己的攻击方式和风险取舍。",
+        "带着这一趟的资源回到村庄，重新整理下一次深入高塔的打法。"
       ],
-      "content_length": 499
+      "content_length": 472
     }
   },
   "main_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 30.48,
-    "fact_summary": "Machine Party 今日观测峰值 22,567，较过往最高峰值提升 +51%，被识别为「新作起量」。",
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 22.22,
+    "fact_summary": "Sephiria 今日观测峰值 25,859，较过往最高峰值提升 +5%，被识别为「发行节点起量」。",
     "metrics": {
-      "current_peak": 22567,
-      "previous_peak": 14979,
-      "previous_record_peak": 14979,
-      "growth_rate": 0.5066,
-      "record_growth_rate": 0.5066,
-      "scoring_peak": 22567,
+      "current_peak": 25859,
+      "previous_peak": 24720,
+      "previous_record_peak": 24720,
+      "growth_rate": 0.0461,
+      "record_growth_rate": 0.0461,
+      "scoring_peak": 25859,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 20.37,
-      "raw_record_growth_score": 17.73,
+      "peak_score": 21.0,
+      "raw_record_growth_score": 1.61,
       "growth_score_multiplier": 1.0,
-      "record_growth_score": 17.73,
+      "record_growth_score": 1.61,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 38.1,
-      "event_adjusted_score": 38.1,
-      "event_multiplier": 1.0,
+      "score_before_multiplier": 22.61,
+      "event_adjusted_score": 19.22,
+      "event_multiplier": 0.85,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 38.1,
+      "review_adjusted_score": 19.22,
       "review_penalty_reason": null,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.8,
-      "base_score": 30.48,
-      "score_multiplier": 0.8,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "combined_score_multiplier": 0.85,
+      "base_score": 19.22,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
-      "unstarred_runner_up_streak_days": 0,
-      "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 89.0,
-      "review_total": 1711,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 4,
+      "unstarred_runner_up_bonus": 3.0,
+      "review_ratio": 93.0,
+      "review_total": 7093,
       "days_seen": 5,
       "comeback_gap_days": 1,
-      "is_new_release": true,
-      "release_age_days": 5,
-      "steam_release_age_days": 5,
-      "release_age_basis": "confirmed_identity",
-      "release_verification_required": false,
+      "is_new_release": false,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 562,
+        "initial_review_total": 6251,
         "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "verification_status": "pending"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
@@ -263,121 +268,130 @@
       "comeback_evidence": null,
       "genres": [
         "动作",
-        "独立"
+        "冒险",
+        "独立",
+        "角色扮演"
       ],
       "scoring_version": "release_event_v2",
-      "release_event_type": "true_new",
-      "release_event_date": "2026-07-30",
-      "release_event_age_days": 5,
+      "release_event_type": "pending",
+      "release_event_date": "2026-07-31",
+      "release_event_age_days": 4,
       "release_event_window_days": 30,
-      "release_event_multiplier": 1.0,
+      "release_event_multiplier": 0.85,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 562,
+        "initial_review_total": 6251,
         "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "verification_status": "pending"
       },
-      "release_event_date_basis": "confirmed_identity",
+      "release_event_date_basis": "actual_open_date",
       "trend": [
         {
           "date": "2026-07-31",
-          "peak": 2888
+          "peak": 11967
         },
         {
           "date": "2026-08-01",
-          "peak": 3375
+          "peak": 14734
         },
         {
           "date": "2026-08-02",
-          "peak": 5890
+          "peak": 19413
         },
         {
           "date": "2026-08-03",
-          "peak": 14979
+          "peak": 24720
         },
         {
           "date": "2026-08-04",
-          "peak": 22567
+          "peak": 25859
         }
       ]
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4108000"
+        "url": "https://store.steampowered.com/app/2436940"
       }
     ],
     "game": {
-      "slug": "machine-party",
-      "appid": "4108000",
-      "name": "Machine Party",
+      "slug": "sephiria",
+      "appid": "2436940",
+      "name": "Sephiria",
       "name_cn": null,
-      "description": "《机械狂欢》是一款主打暴力美学的派对游戏合集。本作中，失败不仅仅是输掉比赛，更意味着“命丧黄泉”。召集您的冤种朋友，并在这场以命搏命的较量中，证明自己“命不该绝”吧。危险与机会共存！",
-      "release_date": "2026-07-30",
+      "description": "《Dungreed》原班人马打造的俯视角动作 RPG 肉鸽游戏。潜入高塔深处探索，收集并强化神器，击退成群涌来的恶魔，守护危在旦夕的兔子村！",
+      "release_date": "2026-07-31",
       "genres": [
         "动作",
-        "独立"
+        "冒险",
+        "独立",
+        "角色扮演"
       ],
       "tags": [
+        "单人",
         "多人",
         "合作",
         "在线合作",
         "Steam 成就",
         "完全支持控制器",
         "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 云",
         "家庭共享"
       ],
       "review_score": "Very Positive",
-      "review_ratio": 89.0,
-      "review_total": 1711,
-      "developer": "Mike Klubnika, GDeavid",
-      "publisher": "Oro Interactive",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4108000/bf97e80547a68eac1ad2c481c2f64b6e276d5801/header_schinese.jpg?t=1785746697",
-      "steam_url": "https://store.steampowered.com/app/4108000",
-      "product_family_identity": "appid:4108000",
-      "product_family_appid": "4108000",
+      "review_ratio": 93.0,
+      "review_total": 7093,
+      "developer": "TEAM HORAY",
+      "publisher": "TEAM HORAY",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/21b1476794fd8a2e0a3076448d28929e8139aad0/header_alt_assets_0.jpg?t=1785481238",
+      "steam_url": "https://store.steampowered.com/app/2436940",
+      "product_family_identity": "appid:2436940",
+      "product_family_appid": "2436940",
       "product_family_role": "full",
       "trend": [
         {
           "date": "2026-07-31",
-          "peak": 2888
+          "peak": 11967
         },
         {
           "date": "2026-08-01",
-          "peak": 3375
+          "peak": 14734
         },
         {
           "date": "2026-08-02",
-          "peak": 5890
+          "peak": 19413
         },
         {
           "date": "2026-08-03",
-          "peak": 14979
+          "peak": 24720
         },
         {
           "date": "2026-08-04",
-          "peak": 22567
+          "peak": 25859
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "Machine Party 是一款把多人派对小玩法塞进工业恐怖场景的动作游戏：失败不只是丢一分，而是当场出局，朋友立刻看到这场事故。",
-      "reference_frame": "它是快节奏的高风险派对闯关：重点不是长线养成，而是在不断更换规则的短回合里读懂危险、抢到时机，并把别人的失误变成下一轮情报。",
-      "for_players": "适合愿意和熟人一起大笑、能接受频繁翻车，也喜欢反复开局的人。你若偏爱规则很快能懂、操作和反应立刻见分晓的多人游戏，这种把失误公开成笑点的节奏会很对胃口。",
-      "not_for_players": "想要稳定合作、长线 Build 成长，或希望每一局都能按计划推进的玩家，可能会觉得它太依赖临场失误和朋友之间的互相折腾。特别在意突然出局、反复重开的玩家，也未必喜欢它的残酷派对节奏。",
-      "star_reason": "Machine Party 今日 24 小时峰值为 22,567，比此前纪录高出 51%；Steam 公开评价为 89% 好评、共 1,711 条。它在 7 月 30 日上线后仍继续抬高峰值，值得今天再看。",
+      "positioning": "Sephiria 是一款俯视角动作 Roguelite RPG：你钻进不断加深的高塔，在一轮轮战斗里拿到更适合自己的神器组合，再带着收获守住兔子村。",
+      "reference_frame": "它的重点在于短局探索和即时战斗的衔接：不是慢慢铺一套长期养成，而是每次下塔都根据眼前掉落调整攻击、移动和生存手段。",
+      "for_players": "适合喜欢一局一局试神器组合，也愿意在敌群压力下练走位、闪避和临场判断的玩家。若你享受每次掉落都让打法稍微拐弯、并愿意把失败当成下一局配装线索，这种循环会有吸引力。",
+      "not_for_players": "想要一条稳定的主线叙事、固定角色成长，或不喜欢反复从头进入战斗流程的玩家，可能会觉得它的节奏太依赖重复尝试。对即时操作和随机掉落都缺乏耐心的人，也未必适合。",
+      "star_reason": "Sephiria 今日 24 小时峰值为 25,859，比此前纪录高出 5%；Steam 公开评价为 93% 好评、共 7,093 条。作为仍在发行节点窗口内的作品，这股继续上扬的在线热度值得今天摘星。",
       "core_loop": [
-        "和朋友进入一轮致命小游戏，先辨认场地规则、机关位置和最容易翻车的动作。",
-        "在跳跃、躲避、抢位或互相干扰中争取活到最后；有人出局后，剩下的人得立刻根据现场变化调整判断。",
-        "切到下一项小游戏，带着刚才的失败经验重新适应节奏，让熟人局的混乱持续滚动起来。"
+        "潜入高塔，观察敌群和地形，在移动、闪避与攻击之间找出能穿过战斗的节奏。",
+        "收集并强化神器，按本局拿到的效果调整自己的攻击方式和风险取舍。",
+        "带着这一趟的资源回到村庄，重新整理下一次深入高塔的打法。"
       ],
-      "content_length": 499
+      "content_length": 472
     }
   },
   "secondary_signals": [],

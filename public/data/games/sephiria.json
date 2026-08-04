@@ -1,0 +1,60 @@
+{
+  "slug": "sephiria",
+  "appid": "2436940",
+  "name": "Sephiria",
+  "name_cn": null,
+  "description": "《Dungreed》原班人马打造的俯视角动作 RPG 肉鸽游戏。潜入高塔深处探索，收集并强化神器，击退成群涌来的恶魔，守护危在旦夕的兔子村！",
+  "release_date": "2026-07-31",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 93.0,
+  "review_total": 7093,
+  "developer": "TEAM HORAY",
+  "publisher": "TEAM HORAY",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436940/21b1476794fd8a2e0a3076448d28929e8139aad0/header_alt_assets_0.jpg?t=1785481238",
+  "steam_url": "https://store.steampowered.com/app/2436940",
+  "product_family_identity": "appid:2436940",
+  "product_family_appid": "2436940",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-07-31",
+      "peak": 11967
+    },
+    {
+      "date": "2026-08-01",
+      "peak": 14734
+    },
+    {
+      "date": "2026-08-02",
+      "peak": 19413
+    },
+    {
+      "date": "2026-08-03",
+      "peak": 24720
+    },
+    {
+      "date": "2026-08-04",
+      "peak": 25859
+    }
+  ]
+}
