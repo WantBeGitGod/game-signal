@@ -1,7 +1,38 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-04T18:16:46",
+  "generated_at": "2026-08-05T18:16:15",
   "games": [
+    {
+      "game": {
+        "slug": "beast-of-reincarnation",
+        "appid": "2001760",
+        "name": "Beast of Reincarnation",
+        "name_cn": null,
+        "description": "Game Freak 诚意新作：《轮回之兽》是一款融合了即时与回合制战斗的动作角色扮演游戏。在美丽而又严酷的《轮回之兽》世界中，享受创新的“一人一狗协作动作角色扮演”体验。在艾玛和小库的旅程终点会有什么在等待着他们呢？",
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "developer": "GAME FREAK inc.",
+        "publisher": "Fictions",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/59d5f1ce88f6ab3388c578dff543997e088c805d/header_schinese.jpg?t=1785818525",
+        "product_family_identity": "appid:2001760",
+        "product_family_appid": "2001760",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-08-05"
+      ],
+      "member_appids": [
+        "2001760"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-08-05"
+    },
     {
       "game": {
         "slug": "sephiria",

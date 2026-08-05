@@ -1,0 +1,349 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-08-05",
+  "title": "08.05 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 25.56,
+    "fact_summary": "Beast of Reincarnation 今日观测峰值 15,001，较过往最高峰值提升 +19%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 15001,
+      "previous_peak": 12615,
+      "previous_record_peak": 12615,
+      "growth_rate": 0.1891,
+      "record_growth_rate": 0.1891,
+      "scoring_peak": 15001,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.94,
+      "raw_record_growth_score": 6.62,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 6.62,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 25.56,
+      "event_adjusted_score": 25.56,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 25.56,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 25.56,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 56.0,
+      "review_total": 2221,
+      "days_seen": 2,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 1000,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-03",
+      "release_event_age_days": 2,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 1000,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-04",
+          "peak": 12615
+        },
+        {
+          "date": "2026-08-05",
+          "peak": 15001
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2001760"
+      }
+    ],
+    "game": {
+      "slug": "beast-of-reincarnation",
+      "appid": "2001760",
+      "name": "Beast of Reincarnation",
+      "name_cn": null,
+      "description": "Game Freak 诚意新作：《轮回之兽》是一款融合了即时与回合制战斗的动作角色扮演游戏。在美丽而又严酷的《轮回之兽》世界中，享受创新的“一人一狗协作动作角色扮演”体验。在艾玛和小库的旅程终点会有什么在等待着他们呢？",
+      "release_date": "2026-08-03",
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "自定义音量控制",
+        "可调整难度",
+        "推荐使用手柄",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "字幕选项",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 56.0,
+      "review_total": 2221,
+      "developer": "GAME FREAK inc.",
+      "publisher": "Fictions",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/59d5f1ce88f6ab3388c578dff543997e088c805d/header_schinese.jpg?t=1785818525",
+      "steam_url": "https://store.steampowered.com/app/2001760",
+      "product_family_identity": "appid:2001760",
+      "product_family_appid": "2001760",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-04",
+          "peak": 12615
+        },
+        {
+          "date": "2026-08-05",
+          "peak": 15001
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《轮回之兽》是一款让艾玛与伙伴小库并肩作战的动作角色扮演游戏：你既要即时移动、攻击和闪避，也要调度伙伴行动，把两种节奏接到同一场战斗中。",
+      "reference_frame": "它把即时操作和回合制指令咬在一起：你要在敌人攻击间隙找位置，也要在关键时刻安排小库的技能与协作，把行动顺序和战场空间一起想清楚。",
+      "for_players": "适合喜欢动作 RPG 手感，又希望伙伴不只是跟在身后输出的玩家。愿意在快速操作之外停下来想一步、享受两名角色配合逐渐顺手的人，会很喜欢这套双节奏战斗；偏好单人冒险却仍想要策略协作感的人也值得留意。",
+      "not_for_players": "只想持续高速连招、不愿处理指令与行动顺序，或偏好纯回合制慢慢推演的玩家，可能会觉得它两边都不够彻底。对伙伴协作、站位和反复适应敌人招式没有耐心的人，也可能被节奏切换打断兴致。",
+      "star_reason": "《轮回之兽》今天的在线峰值为 15,001，比此前纪录提高 19%，以 25.56 分排在原模型第 1，信号为「新作起量」。Steam 当前公开评价为 2,221 条、56% 好评，热度已经明显抬升，口碑仍在形成；这款把伙伴协作放到战斗核心的新作，值得今天先看见。",
+      "core_loop": [
+        "在探索和遭遇战中观察敌人，用移动、攻击与闪避先稳住艾玛的位置。",
+        "抓住协作时机安排小库行动，把两人的技能接成能处理当前威胁的节奏。",
+        "赢下战斗后继续向前推进，用新经验应对更严酷的区域和敌人。"
+      ],
+      "content_length": 529
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 25.56,
+    "fact_summary": "Beast of Reincarnation 今日观测峰值 15,001，较过往最高峰值提升 +19%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 15001,
+      "previous_peak": 12615,
+      "previous_record_peak": 12615,
+      "growth_rate": 0.1891,
+      "record_growth_rate": 0.1891,
+      "scoring_peak": 15001,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.94,
+      "raw_record_growth_score": 6.62,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 6.62,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 25.56,
+      "event_adjusted_score": 25.56,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 25.56,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 25.56,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 56.0,
+      "review_total": 2221,
+      "days_seen": 2,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 1000,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-03",
+      "release_event_age_days": 2,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 1000,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-04",
+          "peak": 12615
+        },
+        {
+          "date": "2026-08-05",
+          "peak": 15001
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2001760"
+      }
+    ],
+    "game": {
+      "slug": "beast-of-reincarnation",
+      "appid": "2001760",
+      "name": "Beast of Reincarnation",
+      "name_cn": null,
+      "description": "Game Freak 诚意新作：《轮回之兽》是一款融合了即时与回合制战斗的动作角色扮演游戏。在美丽而又严酷的《轮回之兽》世界中，享受创新的“一人一狗协作动作角色扮演”体验。在艾玛和小库的旅程终点会有什么在等待着他们呢？",
+      "release_date": "2026-08-03",
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "自定义音量控制",
+        "可调整难度",
+        "推荐使用手柄",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "字幕选项",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 56.0,
+      "review_total": 2221,
+      "developer": "GAME FREAK inc.",
+      "publisher": "Fictions",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2001760/59d5f1ce88f6ab3388c578dff543997e088c805d/header_schinese.jpg?t=1785818525",
+      "steam_url": "https://store.steampowered.com/app/2001760",
+      "product_family_identity": "appid:2001760",
+      "product_family_appid": "2001760",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-04",
+          "peak": 12615
+        },
+        {
+          "date": "2026-08-05",
+          "peak": 15001
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《轮回之兽》是一款让艾玛与伙伴小库并肩作战的动作角色扮演游戏：你既要即时移动、攻击和闪避，也要调度伙伴行动，把两种节奏接到同一场战斗中。",
+      "reference_frame": "它把即时操作和回合制指令咬在一起：你要在敌人攻击间隙找位置，也要在关键时刻安排小库的技能与协作，把行动顺序和战场空间一起想清楚。",
+      "for_players": "适合喜欢动作 RPG 手感，又希望伙伴不只是跟在身后输出的玩家。愿意在快速操作之外停下来想一步、享受两名角色配合逐渐顺手的人，会很喜欢这套双节奏战斗；偏好单人冒险却仍想要策略协作感的人也值得留意。",
+      "not_for_players": "只想持续高速连招、不愿处理指令与行动顺序，或偏好纯回合制慢慢推演的玩家，可能会觉得它两边都不够彻底。对伙伴协作、站位和反复适应敌人招式没有耐心的人，也可能被节奏切换打断兴致。",
+      "star_reason": "《轮回之兽》今天的在线峰值为 15,001，比此前纪录提高 19%，以 25.56 分排在原模型第 1，信号为「新作起量」。Steam 当前公开评价为 2,221 条、56% 好评，热度已经明显抬升，口碑仍在形成；这款把伙伴协作放到战斗核心的新作，值得今天先看见。",
+      "core_loop": [
+        "在探索和遭遇战中观察敌人，用移动、攻击与闪避先稳住艾玛的位置。",
+        "抓住协作时机安排小库行动，把两人的技能接成能处理当前威胁的节奏。",
+        "赢下战斗后继续向前推进，用新经验应对更严酷的区域和敌人。"
+      ],
+      "content_length": 529
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
