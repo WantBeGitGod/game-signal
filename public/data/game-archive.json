@@ -1,7 +1,37 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-06T19:43:41",
+  "generated_at": "2026-08-09T02:51:38",
   "games": [
+    {
+      "game": {
+        "slug": "restory-chill-electronics-repairs",
+        "appid": "3812600",
+        "name": "ReStory: Chill Electronics Repairs",
+        "name_cn": null,
+        "description": "在2005年左右的东京开一间古朴的电子产品维修店，通过认真修复标志性的电子游戏主机、手机、音乐播放器及其他怀旧设备来扩大经营。与顾客交谈，聆听他们的故事，见证你的决定将如何影响他们的人生以及你的店铺的发展。",
+        "genres": [
+          "独立",
+          "模拟"
+        ],
+        "developer": "Mandragora",
+        "publisher": "tinyBuild",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/7f08f08a410a8d41e7b6faa322804c7676a87977/header_alt_assets_3_schinese.jpg?t=1786119982",
+        "product_family_identity": "appid:3812600",
+        "product_family_appid": "3812600",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-08-08"
+      ],
+      "member_appids": [
+        "3812600"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-08-08"
+    },
     {
       "game": {
         "slug": "big-walk",

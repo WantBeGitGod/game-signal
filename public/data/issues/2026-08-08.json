@@ -1,0 +1,323 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-08-08",
+  "title": "08.08 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 19.14,
+    "fact_summary": "ReStory: Chill Electronics Repairs 今日观测峰值 16,041，首次进入当前观察窗口，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 16041,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 16041,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 19.14,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 19.14,
+      "event_adjusted_score": 19.14,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 19.14,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 19.14,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 98.0,
+      "review_total": 912,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 912,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-06",
+      "release_event_age_days": 2,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 912,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-08",
+          "peak": 16041
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3812600"
+      }
+    ],
+    "game": {
+      "slug": "restory-chill-electronics-repairs",
+      "appid": "3812600",
+      "name": "ReStory: Chill Electronics Repairs",
+      "name_cn": null,
+      "description": "在2005年左右的东京开一间古朴的电子产品维修店，通过认真修复标志性的电子游戏主机、手机、音乐播放器及其他怀旧设备来扩大经营。与顾客交谈，聆听他们的故事，见证你的决定将如何影响他们的人生以及你的店铺的发展。",
+      "release_date": "2026-08-06",
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 集换式卡牌",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "部分支持控制器",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 98.0,
+      "review_total": 912,
+      "developer": "Mandragora",
+      "publisher": "tinyBuild",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/7f08f08a410a8d41e7b6faa322804c7676a87977/header_alt_assets_3_schinese.jpg?t=1786119982",
+      "steam_url": "https://store.steampowered.com/app/3812600",
+      "product_family_identity": "appid:3812600",
+      "product_family_appid": "3812600",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-08",
+          "peak": 16041
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "ReStory: Chill Electronics Repairs 是一款旧电子设备修复小店经营游戏：你在约 2005 年的东京接下坏掉的游戏机、手机和音乐播放器，把手艺活重新接回顾客的日常。",
+      "reference_frame": "它更像一段“看懂故障—动手复原—听见后续”的慢节奏过程。每台设备既是工作台，也是把经营和人物故事连在一起的入口。",
+      "for_players": "适合喜欢细看物件、愿意按自己的节奏完成一件手艺活的人；如果你对旧游戏机和随身电子产品有感情，也喜欢由具体订单累积起来的经营和人物关系，它的安静回报会很对味。",
+      "not_for_players": "如果你期待高频挑战、复杂数值经营，或希望每次操作都靠反应速度制造刺激，这里可能太慢。只想把维修压缩成最快刷钱流程的玩家，也未必能享受它的重心。",
+      "star_reason": "ReStory 在 8 月 8 日录得 16,041 人的 24 小时峰值，以 19.14 分位列今日原模型第 1，信号为「新作起量」。Steam 当日累计 912 条评价、98% 好评；上线不久就同时进入趋势与热门新作区，值得今天先看见。",
+      "core_loop": [
+        "接下顾客带来的旧设备，观察问题、拆开部件，再用合适的步骤把它修好。",
+        "根据维修成果和顾客交流推进订单，逐步扩充店铺能接手的活。",
+        "在一台台修复之间听见顾客的处境，让选择影响店铺和故事走向。"
+      ],
+      "content_length": 490
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 19.14,
+    "fact_summary": "ReStory: Chill Electronics Repairs 今日观测峰值 16,041，首次进入当前观察窗口，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 16041,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 16041,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 19.14,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 19.14,
+      "event_adjusted_score": 19.14,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 19.14,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 19.14,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 98.0,
+      "review_total": 912,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 912,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-06",
+      "release_event_age_days": 2,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 912,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-08",
+          "peak": 16041
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3812600"
+      }
+    ],
+    "game": {
+      "slug": "restory-chill-electronics-repairs",
+      "appid": "3812600",
+      "name": "ReStory: Chill Electronics Repairs",
+      "name_cn": null,
+      "description": "在2005年左右的东京开一间古朴的电子产品维修店，通过认真修复标志性的电子游戏主机、手机、音乐播放器及其他怀旧设备来扩大经营。与顾客交谈，聆听他们的故事，见证你的决定将如何影响他们的人生以及你的店铺的发展。",
+      "release_date": "2026-08-06",
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 集换式卡牌",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "部分支持控制器",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 98.0,
+      "review_total": 912,
+      "developer": "Mandragora",
+      "publisher": "tinyBuild",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3812600/7f08f08a410a8d41e7b6faa322804c7676a87977/header_alt_assets_3_schinese.jpg?t=1786119982",
+      "steam_url": "https://store.steampowered.com/app/3812600",
+      "product_family_identity": "appid:3812600",
+      "product_family_appid": "3812600",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-08",
+          "peak": 16041
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "ReStory: Chill Electronics Repairs 是一款旧电子设备修复小店经营游戏：你在约 2005 年的东京接下坏掉的游戏机、手机和音乐播放器，把手艺活重新接回顾客的日常。",
+      "reference_frame": "它更像一段“看懂故障—动手复原—听见后续”的慢节奏过程。每台设备既是工作台，也是把经营和人物故事连在一起的入口。",
+      "for_players": "适合喜欢细看物件、愿意按自己的节奏完成一件手艺活的人；如果你对旧游戏机和随身电子产品有感情，也喜欢由具体订单累积起来的经营和人物关系，它的安静回报会很对味。",
+      "not_for_players": "如果你期待高频挑战、复杂数值经营，或希望每次操作都靠反应速度制造刺激，这里可能太慢。只想把维修压缩成最快刷钱流程的玩家，也未必能享受它的重心。",
+      "star_reason": "ReStory 在 8 月 8 日录得 16,041 人的 24 小时峰值，以 19.14 分位列今日原模型第 1，信号为「新作起量」。Steam 当日累计 912 条评价、98% 好评；上线不久就同时进入趋势与热门新作区，值得今天先看见。",
+      "core_loop": [
+        "接下顾客带来的旧设备，观察问题、拆开部件，再用合适的步骤把它修好。",
+        "根据维修成果和顾客交流推进订单，逐步扩充店铺能接手的活。",
+        "在一台台修复之间听见顾客的处境，让选择影响店铺和故事走向。"
+      ],
+      "content_length": 490
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
