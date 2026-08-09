@@ -1,7 +1,38 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-09T02:51:38",
+  "generated_at": "2026-08-09T19:46:54",
   "games": [
+    {
+      "game": {
+        "slug": "fields-of-mistria",
+        "appid": "2142790",
+        "name": "Fields of Mistria",
+        "name_cn": null,
+        "description": "开启全新人生旅程！探索这个充满无限可能的世界，亲手打造你梦想中的农场。魔法、浪漫与冒险都在等你，快来体验这款充满怀旧风情的农场模拟/生活角色扮演游戏吧！",
+        "genres": [
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "developer": "NPC Studio",
+        "publisher": "NPC Studio",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/38313105cdcda9295fed4b124e5f5437872d35b4/header_alt_assets_4.jpg?t=1785944891",
+        "product_family_identity": "appid:2142790",
+        "product_family_appid": "2142790",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-08-09"
+      ],
+      "member_appids": [
+        "2142790"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-08-09"
+    },
     {
       "game": {
         "slug": "restory-chill-electronics-repairs",
