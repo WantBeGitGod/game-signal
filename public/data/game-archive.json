@@ -1,7 +1,38 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-09T19:46:54",
+  "generated_at": "2026-08-10T19:14:51",
   "games": [
+    {
+      "game": {
+        "slug": "iron-nest-heavy-turret-simulator",
+        "appid": "2950790",
+        "name": "IRON NEST: Heavy Turret Simulator",
+        "name_cn": null,
+        "description": "《铁巢重炮》是一款残酷的柴油朋克重型火炮游戏，你将驾驶一台巨型战争机器，统治整个战场。 依照接收到的坐标进行地图测距，将液压系统推到极限，校准火炮并发起毁灭性的打击 ⟹ 操作员，你会服从最高统帅部的命令吗？",
+        "genres": [
+          "动作",
+          "独立",
+          "模拟"
+        ],
+        "developer": "Nick Nieuwoudt, Dominik Latos",
+        "publisher": "Nick Nieuwoudt, Dominik Latos",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/eeb4015c042c98085b34e9a5417fb8b88ca0aa2e/header_schinese.jpg?t=1786028313",
+        "product_family_identity": "appid:2950790",
+        "product_family_appid": "2950790",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-08-10"
+      ],
+      "member_appids": [
+        "2950790"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-08-10"
+    },
     {
       "game": {
         "slug": "fields-of-mistria",

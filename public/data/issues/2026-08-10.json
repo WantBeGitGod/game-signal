@@ -1,0 +1,369 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-08-10",
+  "title": "08.10 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 20.77,
+    "fact_summary": "IRON NEST: Heavy Turret Simulator 今日观测峰值 17,599，较过往最高峰值提升 +4%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 17599,
+      "previous_peak": 16951,
+      "previous_record_peak": 16951,
+      "growth_rate": 0.0382,
+      "record_growth_rate": 0.0382,
+      "scoring_peak": 17599,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 19.44,
+      "raw_record_growth_score": 1.34,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 1.34,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 20.77,
+      "event_adjusted_score": 20.77,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 20.77,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 20.77,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 99.0,
+      "review_total": 5815,
+      "days_seen": 3,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 2515,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "独立",
+        "模拟"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-06",
+      "release_event_age_days": 4,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 2515,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-08",
+          "peak": 15230
+        },
+        {
+          "date": "2026-08-09",
+          "peak": 16951
+        },
+        {
+          "date": "2026-08-10",
+          "peak": 17599
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2950790"
+      }
+    ],
+    "game": {
+      "slug": "iron-nest-heavy-turret-simulator",
+      "appid": "2950790",
+      "name": "IRON NEST: Heavy Turret Simulator",
+      "name_cn": null,
+      "description": "《铁巢重炮》是一款残酷的柴油朋克重型火炮游戏，你将驾驶一台巨型战争机器，统治整个战场。 依照接收到的坐标进行地图测距，将液压系统推到极限，校准火炮并发起毁灭性的打击 ⟹ 操作员，你会服从最高统帅部的命令吗？",
+      "release_date": "2026-08-06",
+      "genres": [
+        "动作",
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "可选颜色",
+        "#category_contrast_controls",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "环绕声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 99.0,
+      "review_total": 5815,
+      "developer": "Nick Nieuwoudt, Dominik Latos",
+      "publisher": "Nick Nieuwoudt, Dominik Latos",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/eeb4015c042c98085b34e9a5417fb8b88ca0aa2e/header_schinese.jpg?t=1786028313",
+      "steam_url": "https://store.steampowered.com/app/2950790",
+      "product_family_identity": "appid:2950790",
+      "product_family_appid": "2950790",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-08",
+          "peak": 15230
+        },
+        {
+          "date": "2026-08-09",
+          "peak": 16951
+        },
+        {
+          "date": "2026-08-10",
+          "peak": 17599
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《铁巢重炮》是一款把你锁进巨型战争机器的柴油朋克重炮模拟：优势不靠冲锋，而靠把坐标、距离和落点算得足够准。",
+      "reference_frame": "它围绕测距、装填与校射展开。第一人称视角把仪表、液压和瞄准留在手上，爽点来自准备完成后那一下命中的重击。",
+      "for_players": "适合喜欢把操作流程玩出手感、愿意耐心对准一发炮弹的人；如果你享受机械面板、战场沉浸感和“看懂系统后命中”的满足感，它的慢一拍会让每次开火更有分量。",
+      "not_for_players": "如果你期待随时移动、快速换枪和连续击杀，或不愿反复处理测距、瞄准与装填这些前置步骤，固定在炮位上的节奏可能会显得笨重。它的压力来自流程精度，不是反应速度堆出来的热闹。",
+      "star_reason": "《铁巢重炮》在 8 月 10 日录得 17,599 人峰值，比此前最高峰值高出 4%，以 20.77 分排在模型第 1，信号为「新作起量」。Steam 公开评价现为 5,815 篇，其中约 99% 为好评；上线第四天仍在放大，说明这套重炮操作的吸引力正在从试玩热度走向更大的首发人群。",
+      "core_loop": [
+        "接收任务坐标，观察地形并换算距离、方位和射角，为这一发确定落点。",
+        "操作液压与炮塔，装填、校准并发射，再根据命中结果修正下一轮参数。",
+        "用完成任务获得的推进感继续处理更复杂的目标，在忙乱的操作台前维持自己的发射节奏。"
+      ],
+      "content_length": 492
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 20.77,
+    "fact_summary": "IRON NEST: Heavy Turret Simulator 今日观测峰值 17,599，较过往最高峰值提升 +4%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 17599,
+      "previous_peak": 16951,
+      "previous_record_peak": 16951,
+      "growth_rate": 0.0382,
+      "record_growth_rate": 0.0382,
+      "scoring_peak": 17599,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 19.44,
+      "raw_record_growth_score": 1.34,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 1.34,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 20.77,
+      "event_adjusted_score": 20.77,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 20.77,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 20.77,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 99.0,
+      "review_total": 5815,
+      "days_seen": 3,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 2515,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "独立",
+        "模拟"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-06",
+      "release_event_age_days": 4,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 2515,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-08",
+          "peak": 15230
+        },
+        {
+          "date": "2026-08-09",
+          "peak": 16951
+        },
+        {
+          "date": "2026-08-10",
+          "peak": 17599
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2950790"
+      }
+    ],
+    "game": {
+      "slug": "iron-nest-heavy-turret-simulator",
+      "appid": "2950790",
+      "name": "IRON NEST: Heavy Turret Simulator",
+      "name_cn": null,
+      "description": "《铁巢重炮》是一款残酷的柴油朋克重型火炮游戏，你将驾驶一台巨型战争机器，统治整个战场。 依照接收到的坐标进行地图测距，将液压系统推到极限，校准火炮并发起毁灭性的打击 ⟹ 操作员，你会服从最高统帅部的命令吗？",
+      "release_date": "2026-08-06",
+      "genres": [
+        "动作",
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "可选颜色",
+        "#category_contrast_controls",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "环绕声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 99.0,
+      "review_total": 5815,
+      "developer": "Nick Nieuwoudt, Dominik Latos",
+      "publisher": "Nick Nieuwoudt, Dominik Latos",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/eeb4015c042c98085b34e9a5417fb8b88ca0aa2e/header_schinese.jpg?t=1786028313",
+      "steam_url": "https://store.steampowered.com/app/2950790",
+      "product_family_identity": "appid:2950790",
+      "product_family_appid": "2950790",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-08",
+          "peak": 15230
+        },
+        {
+          "date": "2026-08-09",
+          "peak": 16951
+        },
+        {
+          "date": "2026-08-10",
+          "peak": 17599
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《铁巢重炮》是一款把你锁进巨型战争机器的柴油朋克重炮模拟：优势不靠冲锋，而靠把坐标、距离和落点算得足够准。",
+      "reference_frame": "它围绕测距、装填与校射展开。第一人称视角把仪表、液压和瞄准留在手上，爽点来自准备完成后那一下命中的重击。",
+      "for_players": "适合喜欢把操作流程玩出手感、愿意耐心对准一发炮弹的人；如果你享受机械面板、战场沉浸感和“看懂系统后命中”的满足感，它的慢一拍会让每次开火更有分量。",
+      "not_for_players": "如果你期待随时移动、快速换枪和连续击杀，或不愿反复处理测距、瞄准与装填这些前置步骤，固定在炮位上的节奏可能会显得笨重。它的压力来自流程精度，不是反应速度堆出来的热闹。",
+      "star_reason": "《铁巢重炮》在 8 月 10 日录得 17,599 人峰值，比此前最高峰值高出 4%，以 20.77 分排在模型第 1，信号为「新作起量」。Steam 公开评价现为 5,815 篇，其中约 99% 为好评；上线第四天仍在放大，说明这套重炮操作的吸引力正在从试玩热度走向更大的首发人群。",
+      "core_loop": [
+        "接收任务坐标，观察地形并换算距离、方位和射角，为这一发确定落点。",
+        "操作液压与炮塔，装填、校准并发射，再根据命中结果修正下一轮参数。",
+        "用完成任务获得的推进感继续处理更复杂的目标，在忙乱的操作台前维持自己的发射节奏。"
+      ],
+      "content_length": 492
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

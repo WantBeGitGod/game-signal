@@ -1,0 +1,54 @@
+{
+  "slug": "iron-nest-heavy-turret-simulator",
+  "appid": "2950790",
+  "name": "IRON NEST: Heavy Turret Simulator",
+  "name_cn": null,
+  "description": "《铁巢重炮》是一款残酷的柴油朋克重型火炮游戏，你将驾驶一台巨型战争机器，统治整个战场。 依照接收到的坐标进行地图测距，将液压系统推到极限，校准火炮并发起毁灭性的打击 ⟹ 操作员，你会服从最高统帅部的命令吗？",
+  "release_date": "2026-08-06",
+  "genres": [
+    "动作",
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "可选颜色",
+    "#category_contrast_controls",
+    "自定义音量控制",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "立体声",
+    "环绕声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Overwhelmingly Positive",
+  "review_ratio": 99.0,
+  "review_total": 5815,
+  "developer": "Nick Nieuwoudt, Dominik Latos",
+  "publisher": "Nick Nieuwoudt, Dominik Latos",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/eeb4015c042c98085b34e9a5417fb8b88ca0aa2e/header_schinese.jpg?t=1786028313",
+  "steam_url": "https://store.steampowered.com/app/2950790",
+  "product_family_identity": "appid:2950790",
+  "product_family_appid": "2950790",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-08-08",
+      "peak": 15230
+    },
+    {
+      "date": "2026-08-09",
+      "peak": 16951
+    },
+    {
+      "date": "2026-08-10",
+      "peak": 17599
+    }
+  ]
+}
