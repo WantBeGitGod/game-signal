@@ -1,0 +1,43 @@
+{
+  "slug": "peak",
+  "appid": "3527290",
+  "name": "PEAK",
+  "name_cn": null,
+  "description": "《PEAK》是一款需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？",
+  "release_date": "2025-06-16",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 95.0,
+  "review_total": 345885,
+  "developer": "Team PEAK",
+  "publisher": "Aggro Crab, Evil Landfall?",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571",
+  "steam_url": "https://store.steampowered.com/app/3527290",
+  "product_family_identity": "appid:3527290",
+  "product_family_appid": "3527290",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-08-12",
+      "peak": 48002
+    }
+  ]
+}

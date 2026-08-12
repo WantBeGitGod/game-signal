@@ -1,0 +1,341 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-08-12",
+  "title": "08.12 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "content_update_comeback",
+    "label": "重大更新回流",
+    "score": 17.62,
+    "fact_summary": "PEAK 今日观测峰值 48,002，首次进入当前观察窗口，被识别为「重大更新回流」。",
+    "metrics": {
+      "current_peak": 48002,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 48002,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 25.18,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 25.18,
+      "event_adjusted_score": 17.62,
+      "event_multiplier": 0.7,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 17.62,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.7,
+      "base_score": 17.62,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 95.0,
+      "review_total": 345885,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 1,
+      "steam_release_age_days": 422,
+      "release_age_basis": "official_major_update",
+      "release_verification_required": false,
+      "release_verification": {
+        "title": "As Peak gets its final big update, developers Landfall and Aggro Crab explain why it isn't a \"forever game\"",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1840944183772495",
+        "date": 1786485278,
+        "contents": "We have reached peak <a href=\"https://www.rockpapershotgun.com/games/peak\">Peak</a>. By that I mean, the final major update that was teased last week, The Final Ascent, is here and ready for you to try out. The big thing here is the two new variant biomes, Gloom and The Citadel. Gloom, unsurprisingly, is an incredibly foggy area filled with massive trees, ..."
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": true,
+      "comeback_reason": "content_update",
+      "comeback_evidence": {
+        "title": "As Peak gets its final big update, developers Landfall and Aggro Crab explain why it isn't a \"forever game\"",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1840944183772495",
+        "date": 1786485278,
+        "contents": "We have reached peak <a href=\"https://www.rockpapershotgun.com/games/peak\">Peak</a>. By that I mean, the final major update that was teased last week, The Final Ascent, is here and ready for you to try out. The big thing here is the two new variant biomes, Gloom and The Citadel. Gloom, unsurprisingly, is an incredibly foggy area filled with massive trees, ..."
+      },
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "major_update",
+      "release_event_date": "2026-08-11",
+      "release_event_age_days": 1,
+      "release_event_window_days": 14,
+      "release_event_multiplier": 0.7,
+      "release_event_evidence": {
+        "title": "As Peak gets its final big update, developers Landfall and Aggro Crab explain why it isn't a \"forever game\"",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1840944183772495",
+        "date": 1786485278,
+        "contents": "We have reached peak <a href=\"https://www.rockpapershotgun.com/games/peak\">Peak</a>. By that I mean, the final major update that was teased last week, The Final Ascent, is here and ready for you to try out. The big thing here is the two new variant biomes, Gloom and The Citadel. Gloom, unsurprisingly, is an incredibly foggy area filled with massive trees, ..."
+      },
+      "release_event_date_basis": "official_major_update",
+      "trend": [
+        {
+          "date": "2026-08-12",
+          "peak": 48002
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3527290"
+      }
+    ],
+    "game": {
+      "slug": "peak",
+      "appid": "3527290",
+      "name": "PEAK",
+      "name_cn": null,
+      "description": "《PEAK》是一款需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？",
+      "release_date": "2025-06-16",
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 95.0,
+      "review_total": 345885,
+      "developer": "Team PEAK",
+      "publisher": "Aggro Crab, Evil Landfall?",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571",
+      "steam_url": "https://store.steampowered.com/app/3527290",
+      "product_family_identity": "appid:3527290",
+      "product_family_appid": "3527290",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-12",
+          "peak": 48002
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "PEAK 是一款让一群人从荒岛山脚一起爬向山顶的合作攀登游戏。它不是比谁先冲线的跑酷，更像会不断失手、掉队、再把朋友拉回来的山路接力：体力、背包和落点都会拖累或救活整队。",
+      "reference_frame": "可以把它理解成“物理攀爬加合作救援”的远征。岩壁、天气和队友位置会改变下一步该抓哪里、该不该绕路，以及补给该留给自己还是递给快撑不住的人。",
+      "for_players": "适合有固定朋友、愿意把失败也当聊天素材的人。你会喜欢它，如果你享受临场分工、救援时机和“全队终于爬上来”的共同收获，也能接受操作失误让整段路线重新紧张起来。",
+      "not_for_players": "如果你更想单人稳定通关、追求可背的最优路线，或不愿等队友、反复处理体力和失足后的救援，PEAK 会显得太依赖同伴。它的乐趣很大一部分来自一起狼狈，不是独自完美执行。",
+      "star_reason": "8 月 11 日的大型最终更新加入新变体生态区后，PEAK 今天录得 48,002 人峰值，以 17.62 分成为模型第 1 的“重大更新回流”信号；Steam 公开评价约 95% 好评、345,885 篇评测。它值得今天重新看见。",
+      "core_loop": [
+        "观察山壁和环境，选一段能攀、能歇脚、也能让队友跟上的路线。",
+        "在体力耗尽前抓握、跳跃和用装备；有人失手时拉人、分物资或一起找替代路径。",
+        "到达营地和更高区域后补给、调整节奏，再出发。"
+      ],
+      "content_length": 501
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "content_update_comeback",
+    "label": "重大更新回流",
+    "score": 17.62,
+    "fact_summary": "PEAK 今日观测峰值 48,002，首次进入当前观察窗口，被识别为「重大更新回流」。",
+    "metrics": {
+      "current_peak": 48002,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 48002,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 25.18,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 25.18,
+      "event_adjusted_score": 17.62,
+      "event_multiplier": 0.7,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 17.62,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.7,
+      "base_score": 17.62,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 95.0,
+      "review_total": 345885,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 1,
+      "steam_release_age_days": 422,
+      "release_age_basis": "official_major_update",
+      "release_verification_required": false,
+      "release_verification": {
+        "title": "As Peak gets its final big update, developers Landfall and Aggro Crab explain why it isn't a \"forever game\"",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1840944183772495",
+        "date": 1786485278,
+        "contents": "We have reached peak <a href=\"https://www.rockpapershotgun.com/games/peak\">Peak</a>. By that I mean, the final major update that was teased last week, The Final Ascent, is here and ready for you to try out. The big thing here is the two new variant biomes, Gloom and The Citadel. Gloom, unsurprisingly, is an incredibly foggy area filled with massive trees, ..."
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": true,
+      "comeback_reason": "content_update",
+      "comeback_evidence": {
+        "title": "As Peak gets its final big update, developers Landfall and Aggro Crab explain why it isn't a \"forever game\"",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1840944183772495",
+        "date": 1786485278,
+        "contents": "We have reached peak <a href=\"https://www.rockpapershotgun.com/games/peak\">Peak</a>. By that I mean, the final major update that was teased last week, The Final Ascent, is here and ready for you to try out. The big thing here is the two new variant biomes, Gloom and The Citadel. Gloom, unsurprisingly, is an incredibly foggy area filled with massive trees, ..."
+      },
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "major_update",
+      "release_event_date": "2026-08-11",
+      "release_event_age_days": 1,
+      "release_event_window_days": 14,
+      "release_event_multiplier": 0.7,
+      "release_event_evidence": {
+        "title": "As Peak gets its final big update, developers Landfall and Aggro Crab explain why it isn't a \"forever game\"",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/1840944183772495",
+        "date": 1786485278,
+        "contents": "We have reached peak <a href=\"https://www.rockpapershotgun.com/games/peak\">Peak</a>. By that I mean, the final major update that was teased last week, The Final Ascent, is here and ready for you to try out. The big thing here is the two new variant biomes, Gloom and The Citadel. Gloom, unsurprisingly, is an incredibly foggy area filled with massive trees, ..."
+      },
+      "release_event_date_basis": "official_major_update",
+      "trend": [
+        {
+          "date": "2026-08-12",
+          "peak": 48002
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3527290"
+      }
+    ],
+    "game": {
+      "slug": "peak",
+      "appid": "3527290",
+      "name": "PEAK",
+      "name_cn": null,
+      "description": "《PEAK》是一款需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？",
+      "release_date": "2025-06-16",
+      "genres": [
+        "动作",
+        "冒险",
+        "独立"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 95.0,
+      "review_total": 345885,
+      "developer": "Team PEAK",
+      "publisher": "Aggro Crab, Evil Landfall?",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571",
+      "steam_url": "https://store.steampowered.com/app/3527290",
+      "product_family_identity": "appid:3527290",
+      "product_family_appid": "3527290",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-12",
+          "peak": 48002
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "PEAK 是一款让一群人从荒岛山脚一起爬向山顶的合作攀登游戏。它不是比谁先冲线的跑酷，更像会不断失手、掉队、再把朋友拉回来的山路接力：体力、背包和落点都会拖累或救活整队。",
+      "reference_frame": "可以把它理解成“物理攀爬加合作救援”的远征。岩壁、天气和队友位置会改变下一步该抓哪里、该不该绕路，以及补给该留给自己还是递给快撑不住的人。",
+      "for_players": "适合有固定朋友、愿意把失败也当聊天素材的人。你会喜欢它，如果你享受临场分工、救援时机和“全队终于爬上来”的共同收获，也能接受操作失误让整段路线重新紧张起来。",
+      "not_for_players": "如果你更想单人稳定通关、追求可背的最优路线，或不愿等队友、反复处理体力和失足后的救援，PEAK 会显得太依赖同伴。它的乐趣很大一部分来自一起狼狈，不是独自完美执行。",
+      "star_reason": "8 月 11 日的大型最终更新加入新变体生态区后，PEAK 今天录得 48,002 人峰值，以 17.62 分成为模型第 1 的“重大更新回流”信号；Steam 公开评价约 95% 好评、345,885 篇评测。它值得今天重新看见。",
+      "core_loop": [
+        "观察山壁和环境，选一段能攀、能歇脚、也能让队友跟上的路线。",
+        "在体力耗尽前抓握、跳跃和用装备；有人失手时拉人、分物资或一起找替代路径。",
+        "到达营地和更高区域后补给、调整节奏，再出发。"
+      ],
+      "content_length": 501
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

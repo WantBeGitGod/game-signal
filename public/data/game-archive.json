@@ -1,7 +1,38 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-11T18:18:30",
+  "generated_at": "2026-08-12T18:19:33",
   "games": [
+    {
+      "game": {
+        "slug": "peak",
+        "appid": "3527290",
+        "name": "PEAK",
+        "name_cn": null,
+        "description": "《PEAK》是一款需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？",
+        "genres": [
+          "动作",
+          "冒险",
+          "独立"
+        ],
+        "developer": "Team PEAK",
+        "publisher": "Aggro Crab, Evil Landfall?",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571",
+        "product_family_identity": "appid:3527290",
+        "product_family_appid": "3527290",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-08-12"
+      ],
+      "member_appids": [
+        "3527290"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-08-12"
+    },
     {
       "game": {
         "slug": "big-walk",
