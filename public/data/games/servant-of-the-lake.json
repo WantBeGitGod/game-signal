@@ -1,0 +1,38 @@
+{
+  "slug": "servant-of-the-lake",
+  "appid": "3636770",
+  "name": "Servant of the Lake",
+  "name_cn": null,
+  "description": "开启你的新工作，成为神秘的Vanderboom宅邸的仆人吧。在Servant of the Lake中解开谜题，侍奉家族，并揭开他们阴暗的炼金术秘密。Servant of the Lake是一款Rusty Lake即将推出的全新单人点击式解谜冒险游戏。",
+  "release_date": "2026-08-13",
+  "genres": [
+    "冒险",
+    "独立"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Overwhelmingly Positive",
+  "review_ratio": 97.0,
+  "review_total": 1193,
+  "developer": "Rusty Lake",
+  "publisher": "Rusty Lake",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636770/b744b35a64a8d04a3421b0f011113c0342789055/header.jpg?t=1786622239",
+  "steam_url": "https://store.steampowered.com/app/3636770",
+  "product_family_identity": "appid:3636770",
+  "product_family_appid": "3636770",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-08-13",
+      "peak": 21391
+    },
+    {
+      "date": "2026-08-14",
+      "peak": 28533
+    }
+  ]
+}

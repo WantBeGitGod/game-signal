@@ -1,0 +1,333 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-08-14",
+  "title": "08.14 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 32.22,
+    "fact_summary": "Servant of the Lake 今日观测峰值 28,533，较过往最高峰值提升 +33%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 28533,
+      "previous_peak": 21391,
+      "previous_record_peak": 21391,
+      "growth_rate": 0.3339,
+      "record_growth_rate": 0.3339,
+      "scoring_peak": 28533,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 21.5,
+      "raw_record_growth_score": 11.69,
+      "growth_score_multiplier": 0.9174,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.7321,
+      "growth_scale_crossing_component": 0.1853,
+      "record_growth_score": 10.72,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 32.22,
+      "event_adjusted_score": 32.22,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 32.22,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 32.22,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 97.0,
+      "review_total": 1193,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 6,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "冒险",
+        "独立"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-13",
+      "release_event_age_days": 1,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 6,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-13",
+          "peak": 21391
+        },
+        {
+          "date": "2026-08-14",
+          "peak": 28533
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3636770"
+      }
+    ],
+    "game": {
+      "slug": "servant-of-the-lake",
+      "appid": "3636770",
+      "name": "Servant of the Lake",
+      "name_cn": null,
+      "description": "开启你的新工作，成为神秘的Vanderboom宅邸的仆人吧。在Servant of the Lake中解开谜题，侍奉家族，并揭开他们阴暗的炼金术秘密。Servant of the Lake是一款Rusty Lake即将推出的全新单人点击式解谜冒险游戏。",
+      "release_date": "2026-08-13",
+      "genres": [
+        "冒险",
+        "独立"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 97.0,
+      "review_total": 1193,
+      "developer": "Rusty Lake",
+      "publisher": "Rusty Lake",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636770/b744b35a64a8d04a3421b0f011113c0342789055/header.jpg?t=1786622239",
+      "steam_url": "https://store.steampowered.com/app/3636770",
+      "product_family_identity": "appid:3636770",
+      "product_family_appid": "3636770",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-13",
+          "peak": 21391
+        },
+        {
+          "date": "2026-08-14",
+          "peak": 28533
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Servant of the Lake》是一款以诡异宅邸日常为外壳的单人点击式解谜冒险：你受雇照料 Vanderboom 一家，却会在家务里撞见炼金实验和家族秘密。",
+      "reference_frame": "它把观察场景、组合物件和破解机关藏进整理画像、洗衣、待客等差事里；重点不是自由探索，而是从荒诞细节中找出下一步。",
+      "for_players": "适合喜欢检查画面、把反常细节连成答案，也在意阴郁叙事的人。操作门槛不高，乐趣来自谜题的意外联想，以及日常工作逐渐变得不对劲。",
+      "not_for_players": "如果你不喜欢卡住后反复点场景、尝试物品组合，或期待动作操作、开放路线和长线养成，这种线性点击解谜会显得局促。无法接受碎片叙事的人也可能难以投入。",
+      "star_reason": "《Servant of the Lake》在 8 月 14 日录得 28,533 人峰值，较此前最高峰值提高 33%，以 32.22 分排在模型第 1，信号为「新作起量」。Steam 当日已有 1,193 条评价，97% 为好评；首发热度和公开口碑同时站稳，值得今天看见。",
+      "core_loop": [
+        "接下当天的仆人任务，逐个查看宅邸房间、人物和可交互物件。",
+        "收集并组合线索，解开机关或完成家务，让新的房间、事件与实验继续展开。",
+        "从结果中拼起 Vanderboom 家族的过去，再带着新信息处理下一项差事。"
+      ],
+      "content_length": 485
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 32.22,
+    "fact_summary": "Servant of the Lake 今日观测峰值 28,533，较过往最高峰值提升 +33%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 28533,
+      "previous_peak": 21391,
+      "previous_record_peak": 21391,
+      "growth_rate": 0.3339,
+      "record_growth_rate": 0.3339,
+      "scoring_peak": 28533,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 21.5,
+      "raw_record_growth_score": 11.69,
+      "growth_score_multiplier": 0.9174,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.7321,
+      "growth_scale_crossing_component": 0.1853,
+      "record_growth_score": 10.72,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 32.22,
+      "event_adjusted_score": 32.22,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 32.22,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 32.22,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 97.0,
+      "review_total": 1193,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 6,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "冒险",
+        "独立"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-13",
+      "release_event_age_days": 1,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 6,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-13",
+          "peak": 21391
+        },
+        {
+          "date": "2026-08-14",
+          "peak": 28533
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3636770"
+      }
+    ],
+    "game": {
+      "slug": "servant-of-the-lake",
+      "appid": "3636770",
+      "name": "Servant of the Lake",
+      "name_cn": null,
+      "description": "开启你的新工作，成为神秘的Vanderboom宅邸的仆人吧。在Servant of the Lake中解开谜题，侍奉家族，并揭开他们阴暗的炼金术秘密。Servant of the Lake是一款Rusty Lake即将推出的全新单人点击式解谜冒险游戏。",
+      "release_date": "2026-08-13",
+      "genres": [
+        "冒险",
+        "独立"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 97.0,
+      "review_total": 1193,
+      "developer": "Rusty Lake",
+      "publisher": "Rusty Lake",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636770/b744b35a64a8d04a3421b0f011113c0342789055/header.jpg?t=1786622239",
+      "steam_url": "https://store.steampowered.com/app/3636770",
+      "product_family_identity": "appid:3636770",
+      "product_family_appid": "3636770",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-13",
+          "peak": 21391
+        },
+        {
+          "date": "2026-08-14",
+          "peak": 28533
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Servant of the Lake》是一款以诡异宅邸日常为外壳的单人点击式解谜冒险：你受雇照料 Vanderboom 一家，却会在家务里撞见炼金实验和家族秘密。",
+      "reference_frame": "它把观察场景、组合物件和破解机关藏进整理画像、洗衣、待客等差事里；重点不是自由探索，而是从荒诞细节中找出下一步。",
+      "for_players": "适合喜欢检查画面、把反常细节连成答案，也在意阴郁叙事的人。操作门槛不高，乐趣来自谜题的意外联想，以及日常工作逐渐变得不对劲。",
+      "not_for_players": "如果你不喜欢卡住后反复点场景、尝试物品组合，或期待动作操作、开放路线和长线养成，这种线性点击解谜会显得局促。无法接受碎片叙事的人也可能难以投入。",
+      "star_reason": "《Servant of the Lake》在 8 月 14 日录得 28,533 人峰值，较此前最高峰值提高 33%，以 32.22 分排在模型第 1，信号为「新作起量」。Steam 当日已有 1,193 条评价，97% 为好评；首发热度和公开口碑同时站稳，值得今天看见。",
+      "core_loop": [
+        "接下当天的仆人任务，逐个查看宅邸房间、人物和可交互物件。",
+        "收集并组合线索，解开机关或完成家务，让新的房间、事件与实验继续展开。",
+        "从结果中拼起 Vanderboom 家族的过去，再带着新信息处理下一项差事。"
+      ],
+      "content_length": 485
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

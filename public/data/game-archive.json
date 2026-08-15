@@ -1,7 +1,37 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-15T17:57:41",
+  "generated_at": "2026-08-15T18:03:17",
   "games": [
+    {
+      "game": {
+        "slug": "servant-of-the-lake",
+        "appid": "3636770",
+        "name": "Servant of the Lake",
+        "name_cn": null,
+        "description": "开启你的新工作，成为神秘的Vanderboom宅邸的仆人吧。在Servant of the Lake中解开谜题，侍奉家族，并揭开他们阴暗的炼金术秘密。Servant of the Lake是一款Rusty Lake即将推出的全新单人点击式解谜冒险游戏。",
+        "genres": [
+          "冒险",
+          "独立"
+        ],
+        "developer": "Rusty Lake",
+        "publisher": "Rusty Lake",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636770/b744b35a64a8d04a3421b0f011113c0342789055/header.jpg?t=1786622239",
+        "product_family_identity": "appid:3636770",
+        "product_family_appid": "3636770",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-08-14"
+      ],
+      "member_appids": [
+        "3636770"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-08-14"
+    },
     {
       "game": {
         "slug": "survival-log",
