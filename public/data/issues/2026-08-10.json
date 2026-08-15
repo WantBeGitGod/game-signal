@@ -8,360 +8,364 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 20.77,
-    "fact_summary": "IRON NEST: Heavy Turret Simulator 今日观测峰值 17,599，较过往最高峰值提升 +4%，被识别为「新作起量」。",
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 19.75,
+    "fact_summary": "Fields of Mistria 今日观测峰值 39,233，较过往最高峰值提升 +16%，被识别为「发行节点起量」。",
     "metrics": {
-      "current_peak": 17599,
-      "previous_peak": 16951,
-      "previous_record_peak": 16951,
-      "growth_rate": 0.0382,
-      "record_growth_rate": 0.0382,
-      "scoring_peak": 17599,
+      "current_peak": 39233,
+      "previous_peak": 33891,
+      "previous_record_peak": 33891,
+      "growth_rate": 0.1576,
+      "record_growth_rate": 0.1576,
+      "scoring_peak": 39233,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 19.44,
-      "raw_record_growth_score": 1.34,
+      "peak_score": 23.52,
+      "raw_record_growth_score": 5.52,
       "growth_score_multiplier": 1.0,
-      "record_growth_score": 1.34,
+      "record_growth_score": 5.52,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 20.77,
-      "event_adjusted_score": 20.77,
-      "event_multiplier": 1.0,
+      "score_before_multiplier": 29.04,
+      "event_adjusted_score": 24.68,
+      "event_multiplier": 0.85,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 20.77,
+      "review_adjusted_score": 24.68,
       "review_penalty_reason": null,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.0,
-      "base_score": 20.77,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 0.68,
+      "base_score": 19.75,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 99.0,
-      "review_total": 5815,
-      "days_seen": 3,
+      "review_ratio": 97.0,
+      "review_total": 30749,
+      "days_seen": 4,
       "comeback_gap_days": 1,
-      "is_new_release": true,
-      "release_age_days": 4,
-      "steam_release_age_days": 4,
-      "release_age_basis": "confirmed_identity",
-      "release_verification_required": false,
+      "is_new_release": false,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 2515,
+        "initial_review_total": 29635,
         "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "verification_status": "pending"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
         "独立",
+        "角色扮演",
         "模拟"
       ],
       "scoring_version": "release_event_v2",
-      "release_event_type": "true_new",
-      "release_event_date": "2026-08-06",
-      "release_event_age_days": 4,
+      "release_event_type": "pending",
+      "release_event_date": "2026-08-05",
+      "release_event_age_days": 5,
       "release_event_window_days": 30,
-      "release_event_multiplier": 1.0,
+      "release_event_multiplier": 0.85,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 2515,
+        "initial_review_total": 29635,
         "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "verification_status": "pending"
       },
-      "release_event_date_basis": "confirmed_identity",
+      "release_event_date_basis": "actual_open_date",
       "trend": [
         {
+          "date": "2026-08-06",
+          "peak": 27074
+        },
+        {
           "date": "2026-08-08",
-          "peak": 15230
+          "peak": 27771
         },
         {
           "date": "2026-08-09",
-          "peak": 16951
+          "peak": 33891
         },
         {
           "date": "2026-08-10",
-          "peak": 17599
+          "peak": 39233
         }
       ]
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/2950790"
+        "url": "https://store.steampowered.com/app/2142790"
       }
     ],
     "game": {
-      "slug": "iron-nest-heavy-turret-simulator",
-      "appid": "2950790",
-      "name": "IRON NEST: Heavy Turret Simulator",
+      "slug": "fields-of-mistria",
+      "appid": "2142790",
+      "name": "Fields of Mistria",
       "name_cn": null,
-      "description": "《铁巢重炮》是一款残酷的柴油朋克重型火炮游戏，你将驾驶一台巨型战争机器，统治整个战场。 依照接收到的坐标进行地图测距，将液压系统推到极限，校准火炮并发起毁灭性的打击 ⟹ 操作员，你会服从最高统帅部的命令吗？",
-      "release_date": "2026-08-06",
+      "description": "开启全新人生旅程！探索这个充满无限可能的世界，亲手打造你梦想中的农场。魔法、浪漫与冒险都在等你，快来体验这款充满怀旧风情的农场模拟/生活角色扮演游戏吧！",
+      "release_date": "2026-08-05",
       "genres": [
-        "动作",
         "独立",
+        "角色扮演",
         "模拟"
       ],
       "tags": [
         "单人",
-        "Steam 成就",
         "完全支持控制器",
-        "可选颜色",
-        "#category_contrast_controls",
-        "自定义音量控制",
-        "无需应对快速反应事件",
-        "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
         "DualSense 控制器支持",
-        "立体声",
-        "环绕声",
         "Steam 云",
         "家庭共享"
       ],
       "review_score": "Overwhelmingly Positive",
-      "review_ratio": 99.0,
-      "review_total": 5815,
-      "developer": "Nick Nieuwoudt, Dominik Latos",
-      "publisher": "Nick Nieuwoudt, Dominik Latos",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/eeb4015c042c98085b34e9a5417fb8b88ca0aa2e/header_schinese.jpg?t=1786028313",
-      "steam_url": "https://store.steampowered.com/app/2950790",
-      "product_family_identity": "appid:2950790",
-      "product_family_appid": "2950790",
+      "review_ratio": 97.0,
+      "review_total": 31173,
+      "developer": "NPC Studio",
+      "publisher": "NPC Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/38313105cdcda9295fed4b124e5f5437872d35b4/header_alt_assets_4.jpg?t=1785944891",
+      "steam_url": "https://store.steampowered.com/app/2142790",
+      "product_family_identity": "appid:2142790",
+      "product_family_appid": "2142790",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-08-06",
+          "peak": 27074
+        },
+        {
           "date": "2026-08-08",
-          "peak": 15230
+          "peak": 27771
         },
         {
           "date": "2026-08-09",
-          "peak": 16951
+          "peak": 33891
         },
         {
           "date": "2026-08-10",
-          "peak": 17599
+          "peak": 39233
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《铁巢重炮》是一款把你锁进巨型战争机器的柴油朋克重炮模拟：优势不靠冲锋，而靠把坐标、距离和落点算得足够准。",
-      "reference_frame": "它围绕测距、装填与校射展开。第一人称视角把仪表、液压和瞄准留在手上，爽点来自准备完成后那一下命中的重击。",
-      "for_players": "适合喜欢把操作流程玩出手感、愿意耐心对准一发炮弹的人；如果你享受机械面板、战场沉浸感和“看懂系统后命中”的满足感，它的慢一拍会让每次开火更有分量。",
-      "not_for_players": "如果你期待随时移动、快速换枪和连续击杀，或不愿反复处理测距、瞄准与装填这些前置步骤，固定在炮位上的节奏可能会显得笨重。它的压力来自流程精度，不是反应速度堆出来的热闹。",
-      "star_reason": "《铁巢重炮》在 8 月 10 日录得 17,599 人峰值，比此前最高峰值高出 4%，以 20.77 分排在模型第 1，信号为「新作起量」。Steam 公开评价现为 5,815 篇，其中约 99% 为好评；上线第四天仍在放大，说明这套重炮操作的吸引力正在从试玩热度走向更大的首发人群。",
+      "positioning": "Fields of Mistria 是一款带有魔法和小镇人际关系的农场生活 RPG：你从荒地起步，把日常劳作慢慢铺成自己的生活节奏。",
+      "reference_frame": "它走的是复古像素农场模拟的路子，但不只守着田地；耕种、采集和制作会把你带进村庄、遗迹与人物故事。",
+      "for_players": "适合喜欢按自己的节奏经营一块地、把收集和布置做成长期目标的人；如果你享受像素画面的季节变化，也愿意在种田之外认识村民、跑庆典、挖遗迹，它会给你很多可自己安排的日常。",
+      "not_for_players": "如果你只想要高密度战斗、明确的主线冲刺，或希望经营系统迅速算出最优解，这里的慢热推进可能显得松散。它有战斗和探索，但重心仍是反复经营、关系积累与生活空间的成形。",
+      "star_reason": "Fields of Mistria 在 8 月 10 日录得 39,233 人峰值，较此前最高峰值提高 16%，信号为「发行节点起量」。Steam 当日已有 30,749 条评价，97% 为好评；1.0 节点后的峰值继续扩大，稳定口碑也没有松动，值得今天继续看见。",
       "core_loop": [
-        "接收任务坐标，观察地形并换算距离、方位和射角，为这一发确定落点。",
-        "操作液压与炮塔，装填、校准并发射，再根据命中结果修正下一轮参数。",
-        "用完成任务获得的推进感继续处理更复杂的目标，在忙乱的操作台前维持自己的发射节奏。"
+        "整理农场、种植作物或照看动物，把资源变成下一轮安排。",
+        "去钓鱼、采矿和探索遗迹，带回材料、宝物与魔法。",
+        "用制作、任务和送礼推进小镇与村民关系，再决定时间投向农场、恋爱还是探索。"
       ],
-      "content_length": 492
+      "content_length": 474
     }
   },
   "main_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 20.77,
-    "fact_summary": "IRON NEST: Heavy Turret Simulator 今日观测峰值 17,599，较过往最高峰值提升 +4%，被识别为「新作起量」。",
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 19.75,
+    "fact_summary": "Fields of Mistria 今日观测峰值 39,233，较过往最高峰值提升 +16%，被识别为「发行节点起量」。",
     "metrics": {
-      "current_peak": 17599,
-      "previous_peak": 16951,
-      "previous_record_peak": 16951,
-      "growth_rate": 0.0382,
-      "record_growth_rate": 0.0382,
-      "scoring_peak": 17599,
+      "current_peak": 39233,
+      "previous_peak": 33891,
+      "previous_record_peak": 33891,
+      "growth_rate": 0.1576,
+      "record_growth_rate": 0.1576,
+      "scoring_peak": 39233,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 19.44,
-      "raw_record_growth_score": 1.34,
+      "peak_score": 23.52,
+      "raw_record_growth_score": 5.52,
       "growth_score_multiplier": 1.0,
-      "record_growth_score": 1.34,
+      "record_growth_score": 5.52,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 20.77,
-      "event_adjusted_score": 20.77,
-      "event_multiplier": 1.0,
+      "score_before_multiplier": 29.04,
+      "event_adjusted_score": 24.68,
+      "event_multiplier": 0.85,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 20.77,
+      "review_adjusted_score": 24.68,
       "review_penalty_reason": null,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.0,
-      "base_score": 20.77,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 0.68,
+      "base_score": 19.75,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 99.0,
-      "review_total": 5815,
-      "days_seen": 3,
+      "review_ratio": 97.0,
+      "review_total": 30749,
+      "days_seen": 4,
       "comeback_gap_days": 1,
-      "is_new_release": true,
-      "release_age_days": 4,
-      "steam_release_age_days": 4,
-      "release_age_basis": "confirmed_identity",
-      "release_verification_required": false,
+      "is_new_release": false,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 2515,
+        "initial_review_total": 29635,
         "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "verification_status": "pending"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
         "独立",
+        "角色扮演",
         "模拟"
       ],
       "scoring_version": "release_event_v2",
-      "release_event_type": "true_new",
-      "release_event_date": "2026-08-06",
-      "release_event_age_days": 4,
+      "release_event_type": "pending",
+      "release_event_date": "2026-08-05",
+      "release_event_age_days": 5,
       "release_event_window_days": 30,
-      "release_event_multiplier": 1.0,
+      "release_event_multiplier": 0.85,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 2515,
+        "initial_review_total": 29635,
         "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "verification_status": "pending"
       },
-      "release_event_date_basis": "confirmed_identity",
+      "release_event_date_basis": "actual_open_date",
       "trend": [
         {
+          "date": "2026-08-06",
+          "peak": 27074
+        },
+        {
           "date": "2026-08-08",
-          "peak": 15230
+          "peak": 27771
         },
         {
           "date": "2026-08-09",
-          "peak": 16951
+          "peak": 33891
         },
         {
           "date": "2026-08-10",
-          "peak": 17599
+          "peak": 39233
         }
       ]
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/2950790"
+        "url": "https://store.steampowered.com/app/2142790"
       }
     ],
     "game": {
-      "slug": "iron-nest-heavy-turret-simulator",
-      "appid": "2950790",
-      "name": "IRON NEST: Heavy Turret Simulator",
+      "slug": "fields-of-mistria",
+      "appid": "2142790",
+      "name": "Fields of Mistria",
       "name_cn": null,
-      "description": "《铁巢重炮》是一款残酷的柴油朋克重型火炮游戏，你将驾驶一台巨型战争机器，统治整个战场。 依照接收到的坐标进行地图测距，将液压系统推到极限，校准火炮并发起毁灭性的打击 ⟹ 操作员，你会服从最高统帅部的命令吗？",
-      "release_date": "2026-08-06",
+      "description": "开启全新人生旅程！探索这个充满无限可能的世界，亲手打造你梦想中的农场。魔法、浪漫与冒险都在等你，快来体验这款充满怀旧风情的农场模拟/生活角色扮演游戏吧！",
+      "release_date": "2026-08-05",
       "genres": [
-        "动作",
         "独立",
+        "角色扮演",
         "模拟"
       ],
       "tags": [
         "单人",
-        "Steam 成就",
         "完全支持控制器",
-        "可选颜色",
-        "#category_contrast_controls",
-        "自定义音量控制",
-        "无需应对快速反应事件",
-        "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
         "DualSense 控制器支持",
-        "立体声",
-        "环绕声",
         "Steam 云",
         "家庭共享"
       ],
       "review_score": "Overwhelmingly Positive",
-      "review_ratio": 99.0,
-      "review_total": 5815,
-      "developer": "Nick Nieuwoudt, Dominik Latos",
-      "publisher": "Nick Nieuwoudt, Dominik Latos",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2950790/eeb4015c042c98085b34e9a5417fb8b88ca0aa2e/header_schinese.jpg?t=1786028313",
-      "steam_url": "https://store.steampowered.com/app/2950790",
-      "product_family_identity": "appid:2950790",
-      "product_family_appid": "2950790",
+      "review_ratio": 97.0,
+      "review_total": 31173,
+      "developer": "NPC Studio",
+      "publisher": "NPC Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/38313105cdcda9295fed4b124e5f5437872d35b4/header_alt_assets_4.jpg?t=1785944891",
+      "steam_url": "https://store.steampowered.com/app/2142790",
+      "product_family_identity": "appid:2142790",
+      "product_family_appid": "2142790",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-08-06",
+          "peak": 27074
+        },
+        {
           "date": "2026-08-08",
-          "peak": 15230
+          "peak": 27771
         },
         {
           "date": "2026-08-09",
-          "peak": 16951
+          "peak": 33891
         },
         {
           "date": "2026-08-10",
-          "peak": 17599
+          "peak": 39233
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《铁巢重炮》是一款把你锁进巨型战争机器的柴油朋克重炮模拟：优势不靠冲锋，而靠把坐标、距离和落点算得足够准。",
-      "reference_frame": "它围绕测距、装填与校射展开。第一人称视角把仪表、液压和瞄准留在手上，爽点来自准备完成后那一下命中的重击。",
-      "for_players": "适合喜欢把操作流程玩出手感、愿意耐心对准一发炮弹的人；如果你享受机械面板、战场沉浸感和“看懂系统后命中”的满足感，它的慢一拍会让每次开火更有分量。",
-      "not_for_players": "如果你期待随时移动、快速换枪和连续击杀，或不愿反复处理测距、瞄准与装填这些前置步骤，固定在炮位上的节奏可能会显得笨重。它的压力来自流程精度，不是反应速度堆出来的热闹。",
-      "star_reason": "《铁巢重炮》在 8 月 10 日录得 17,599 人峰值，比此前最高峰值高出 4%，以 20.77 分排在模型第 1，信号为「新作起量」。Steam 公开评价现为 5,815 篇，其中约 99% 为好评；上线第四天仍在放大，说明这套重炮操作的吸引力正在从试玩热度走向更大的首发人群。",
+      "positioning": "Fields of Mistria 是一款带有魔法和小镇人际关系的农场生活 RPG：你从荒地起步，把日常劳作慢慢铺成自己的生活节奏。",
+      "reference_frame": "它走的是复古像素农场模拟的路子，但不只守着田地；耕种、采集和制作会把你带进村庄、遗迹与人物故事。",
+      "for_players": "适合喜欢按自己的节奏经营一块地、把收集和布置做成长期目标的人；如果你享受像素画面的季节变化，也愿意在种田之外认识村民、跑庆典、挖遗迹，它会给你很多可自己安排的日常。",
+      "not_for_players": "如果你只想要高密度战斗、明确的主线冲刺，或希望经营系统迅速算出最优解，这里的慢热推进可能显得松散。它有战斗和探索，但重心仍是反复经营、关系积累与生活空间的成形。",
+      "star_reason": "Fields of Mistria 在 8 月 10 日录得 39,233 人峰值，较此前最高峰值提高 16%，信号为「发行节点起量」。Steam 当日已有 30,749 条评价，97% 为好评；1.0 节点后的峰值继续扩大，稳定口碑也没有松动，值得今天继续看见。",
       "core_loop": [
-        "接收任务坐标，观察地形并换算距离、方位和射角，为这一发确定落点。",
-        "操作液压与炮塔，装填、校准并发射，再根据命中结果修正下一轮参数。",
-        "用完成任务获得的推进感继续处理更复杂的目标，在忙乱的操作台前维持自己的发射节奏。"
+        "整理农场、种植作物或照看动物，把资源变成下一轮安排。",
+        "去钓鱼、采矿和探索遗迹，带回材料、宝物与魔法。",
+        "用制作、任务和送礼推进小镇与村民关系，再决定时间投向农场、恋爱还是探索。"
       ],
-      "content_length": 492
+      "content_length": 474
     }
   },
   "secondary_signals": [],
