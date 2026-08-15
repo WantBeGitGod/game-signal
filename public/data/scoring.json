@@ -1,5 +1,5 @@
 {
-  "schema_version": "2.1.0",
+  "schema_version": "2.2.0",
   "release_event_scoring_effective_date": "2026-07-31",
   "review_ratio_scoring_effective_date": "2026-08-01",
   "review_ratio_multipliers": {
@@ -25,6 +25,10 @@
   "record_growth_weight": 35.0,
   "record_growth_cap": 1.0,
   "growth_full_credit_peak": 10000,
+  "growth_scale_curve_effective_date": "2026-08-14",
+  "growth_scale_base_weight": 0.16,
+  "growth_scale_crossing_weight": 0.1,
+  "growth_scale_exponent": 2.0,
   "days_seen_score_weight": 0.0,
   "signal_type_score_weight": 0.0,
   "unstarred_runner_up_bonus_start_days": 3,

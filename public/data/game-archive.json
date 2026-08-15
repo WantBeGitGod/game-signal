@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-13T21:44:07",
+  "generated_at": "2026-08-15T17:57:41",
   "games": [
     {
       "game": {
@@ -149,7 +149,8 @@
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
-        "2026-08-09"
+        "2026-08-09",
+        "2026-08-07"
       ],
       "member_appids": [
         "2142790"

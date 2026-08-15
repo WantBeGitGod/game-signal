@@ -20,8 +20,8 @@
     "家庭共享"
   ],
   "review_score": "Overwhelmingly Positive",
-  "review_ratio": 98.0,
-  "review_total": 30442,
+  "review_ratio": 97.0,
+  "review_total": 31173,
   "developer": "NPC Studio",
   "publisher": "NPC Studio",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/38313105cdcda9295fed4b124e5f5437872d35b4/header_alt_assets_4.jpg?t=1785944891",
@@ -35,12 +35,8 @@
       "peak": 27074
     },
     {
-      "date": "2026-08-08",
-      "peak": 27771
-    },
-    {
-      "date": "2026-08-09",
-      "peak": 33891
+      "date": "2026-08-07",
+      "peak": 28030
     }
   ]
 }
