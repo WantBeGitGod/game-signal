@@ -1,0 +1,45 @@
+{
+  "slug": "sandustry",
+  "appid": "2764460",
+  "name": "Sandustry",
+  "name_cn": null,
+  "description": "在这个可以任意重塑的无垠世界探索、开发，打造复杂自动化产业链。深入挖掘，揭开远古文明留下的奥秘。在这款工厂建造游戏中，每个像素都是待开采的宝藏。学会拥抱金沙，与之为伴吧。",
+  "release_date": "2026-08-13",
+  "genres": [
+    "模拟",
+    "策略",
+    "抢先体验"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Overwhelmingly Positive",
+  "review_ratio": 98.0,
+  "review_total": 1240,
+  "developer": "Lantto Games",
+  "publisher": "Hooded Horse",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/c246f877faf435bbc07730f83ceef69a5e936331/header_schinese.jpg?t=1786703049",
+  "steam_url": "https://store.steampowered.com/app/2764460",
+  "product_family_identity": "appid:2764460",
+  "product_family_appid": "2764460",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-08-14",
+      "peak": 10114
+    },
+    {
+      "date": "2026-08-15",
+      "peak": 10142
+    },
+    {
+      "date": "2026-08-16",
+      "peak": 11494
+    }
+  ]
+}

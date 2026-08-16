@@ -1,0 +1,357 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-08-16",
+  "title": "08.16 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 19.12,
+    "fact_summary": "Sandustry 今日观测峰值 11,494，较过往最高峰值提升 +13%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 11494,
+      "previous_peak": 10142,
+      "previous_record_peak": 10142,
+      "growth_rate": 0.1333,
+      "record_growth_rate": 0.1333,
+      "scoring_peak": 11494,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.28,
+      "raw_record_growth_score": 4.67,
+      "growth_score_multiplier": 0.1795,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.1646,
+      "growth_scale_crossing_component": 0.0149,
+      "record_growth_score": 0.84,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 19.12,
+      "event_adjusted_score": 19.12,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 19.12,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 19.12,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 98.0,
+      "review_total": 1240,
+      "days_seen": 3,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 3,
+      "steam_release_age_days": 3,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 392,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "模拟",
+        "策略",
+        "抢先体验"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-13",
+      "release_event_age_days": 3,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 392,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-14",
+          "peak": 10114
+        },
+        {
+          "date": "2026-08-15",
+          "peak": 10142
+        },
+        {
+          "date": "2026-08-16",
+          "peak": 11494
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2764460"
+      }
+    ],
+    "game": {
+      "slug": "sandustry",
+      "appid": "2764460",
+      "name": "Sandustry",
+      "name_cn": null,
+      "description": "在这个可以任意重塑的无垠世界探索、开发，打造复杂自动化产业链。深入挖掘，揭开远古文明留下的奥秘。在这款工厂建造游戏中，每个像素都是待开采的宝藏。学会拥抱金沙，与之为伴吧。",
+      "release_date": "2026-08-13",
+      "genres": [
+        "模拟",
+        "策略",
+        "抢先体验"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 集换式卡牌",
+        "Steam 创意工坊",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 98.0,
+      "review_total": 1240,
+      "developer": "Lantto Games",
+      "publisher": "Hooded Horse",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/c246f877faf435bbc07730f83ceef69a5e936331/header_schinese.jpg?t=1786703049",
+      "steam_url": "https://store.steampowered.com/app/2764460",
+      "product_family_identity": "appid:2764460",
+      "product_family_appid": "2764460",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-14",
+          "peak": 10114
+        },
+        {
+          "date": "2026-08-15",
+          "peak": 10142
+        },
+        {
+          "date": "2026-08-16",
+          "peak": 11494
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《沙金工业 Sandustry》把工厂自动化放进可改造像素星球：你不只规划产线，还要处理会流动、受热和彼此反应的材料。",
+      "reference_frame": "它以采集、加工和物流优化为底盘；沙子会吸水，冰会融化，水能蒸发成雨，生产线也会改变开采与探索方式。",
+      "for_players": "适合享受从一条传送带慢慢搭出整座工厂的人。喜欢在开放地图自己定目标，也愿意花时间拆改布局、提高效率的玩家，会更容易沉进去。",
+      "not_for_players": "如果你希望任务持续给出明确方向，或更在意即时战斗、固定关卡节奏和很快收束的流程，沙金、物流与化学反应带来的反复调试会显得琐碎。它目前仍是抢先体验，内容和系统会继续变化。",
+      "star_reason": "《沙金工业 Sandustry》在 8 月 16 日录得 11,494 人峰值，较此前最高峰值提高 13%，以 19.12 分排在模型第 1，信号为「新作起量」。Steam 当日已有 1,202 条评价并显示“好评如潮”；首发三天仍在抬高在线峰值，自动化循环已被一批玩家接住。",
+      "core_loop": [
+        "在地表与地下开采沙、矿物和其他可反应资源，寻找更高价值的配方、技术与遗物。",
+        "用传送带、管道、过滤器、无人机等部件把原料接成能持续运作的加工链，并解决物流堵点。",
+        "拿新产出的材料和工具扩张工厂、改造环境，再回头优化旧产线，进入下一轮更复杂的生产问题。"
+      ],
+      "content_length": 497
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 19.12,
+    "fact_summary": "Sandustry 今日观测峰值 11,494，较过往最高峰值提升 +13%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 11494,
+      "previous_peak": 10142,
+      "previous_record_peak": 10142,
+      "growth_rate": 0.1333,
+      "record_growth_rate": 0.1333,
+      "scoring_peak": 11494,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.28,
+      "raw_record_growth_score": 4.67,
+      "growth_score_multiplier": 0.1795,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.1646,
+      "growth_scale_crossing_component": 0.0149,
+      "record_growth_score": 0.84,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 19.12,
+      "event_adjusted_score": 19.12,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 19.12,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 19.12,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 98.0,
+      "review_total": 1240,
+      "days_seen": 3,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 3,
+      "steam_release_age_days": 3,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 392,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "模拟",
+        "策略",
+        "抢先体验"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-13",
+      "release_event_age_days": 3,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 392,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-14",
+          "peak": 10114
+        },
+        {
+          "date": "2026-08-15",
+          "peak": 10142
+        },
+        {
+          "date": "2026-08-16",
+          "peak": 11494
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2764460"
+      }
+    ],
+    "game": {
+      "slug": "sandustry",
+      "appid": "2764460",
+      "name": "Sandustry",
+      "name_cn": null,
+      "description": "在这个可以任意重塑的无垠世界探索、开发，打造复杂自动化产业链。深入挖掘，揭开远古文明留下的奥秘。在这款工厂建造游戏中，每个像素都是待开采的宝藏。学会拥抱金沙，与之为伴吧。",
+      "release_date": "2026-08-13",
+      "genres": [
+        "模拟",
+        "策略",
+        "抢先体验"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 集换式卡牌",
+        "Steam 创意工坊",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 98.0,
+      "review_total": 1240,
+      "developer": "Lantto Games",
+      "publisher": "Hooded Horse",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/c246f877faf435bbc07730f83ceef69a5e936331/header_schinese.jpg?t=1786703049",
+      "steam_url": "https://store.steampowered.com/app/2764460",
+      "product_family_identity": "appid:2764460",
+      "product_family_appid": "2764460",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-14",
+          "peak": 10114
+        },
+        {
+          "date": "2026-08-15",
+          "peak": 10142
+        },
+        {
+          "date": "2026-08-16",
+          "peak": 11494
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《沙金工业 Sandustry》把工厂自动化放进可改造像素星球：你不只规划产线，还要处理会流动、受热和彼此反应的材料。",
+      "reference_frame": "它以采集、加工和物流优化为底盘；沙子会吸水，冰会融化，水能蒸发成雨，生产线也会改变开采与探索方式。",
+      "for_players": "适合享受从一条传送带慢慢搭出整座工厂的人。喜欢在开放地图自己定目标，也愿意花时间拆改布局、提高效率的玩家，会更容易沉进去。",
+      "not_for_players": "如果你希望任务持续给出明确方向，或更在意即时战斗、固定关卡节奏和很快收束的流程，沙金、物流与化学反应带来的反复调试会显得琐碎。它目前仍是抢先体验，内容和系统会继续变化。",
+      "star_reason": "《沙金工业 Sandustry》在 8 月 16 日录得 11,494 人峰值，较此前最高峰值提高 13%，以 19.12 分排在模型第 1，信号为「新作起量」。Steam 当日已有 1,202 条评价并显示“好评如潮”；首发三天仍在抬高在线峰值，自动化循环已被一批玩家接住。",
+      "core_loop": [
+        "在地表与地下开采沙、矿物和其他可反应资源，寻找更高价值的配方、技术与遗物。",
+        "用传送带、管道、过滤器、无人机等部件把原料接成能持续运作的加工链，并解决物流堵点。",
+        "拿新产出的材料和工具扩张工厂、改造环境，再回头优化旧产线，进入下一轮更复杂的生产问题。"
+      ],
+      "content_length": 497
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
