@@ -1,7 +1,40 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-16T18:18:47",
+  "generated_at": "2026-08-17T18:19:10",
   "games": [
+    {
+      "game": {
+        "slug": "path-of-idle-old-gods-rising",
+        "appid": "4243990",
+        "name": "Path of Idle: Old Gods Rising",
+        "name_cn": null,
+        "description": "这是一款克苏鲁题材，集自动战斗、刷宝、开箱子、策略搭配、城镇建设、装备打造、符文之语、推关、爬塔、异界、赛季玩法于一体的放置挂机游戏。你将成为古神最忠实的仆从，建设城镇，蛊惑神选者，为古神复苏而战！",
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "策略"
+        ],
+        "developer": "Small Mill, Small Mill",
+        "publisher": "Small Mill, Small Mill",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4243990/a99098033c593d8f2001933c47bf4d1f24666e84/header_schinese.jpg?t=1786667366",
+        "product_family_identity": "appid:4243990",
+        "product_family_appid": "4243990",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-08-17"
+      ],
+      "member_appids": [
+        "4243990"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-08-17"
+    },
     {
       "game": {
         "slug": "sandustry",
