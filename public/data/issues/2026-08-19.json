@@ -1,0 +1,441 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-08-19",
+  "title": "08.19 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 14.98,
+    "fact_summary": "Survival Log 今日观测峰值 11,221，较过往最高峰值提升 +8%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 11221,
+      "previous_peak": 10425,
+      "previous_record_peak": 10425,
+      "growth_rate": 0.0764,
+      "record_growth_rate": 0.0764,
+      "scoring_peak": 11221,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.23,
+      "raw_record_growth_score": 2.67,
+      "growth_score_multiplier": 0.1861,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.1739,
+      "growth_scale_crossing_component": 0.0122,
+      "record_growth_score": 0.5,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 18.73,
+      "event_adjusted_score": 18.73,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 18.73,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.8,
+      "base_score": 14.98,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 79.0,
+      "review_total": 994,
+      "days_seen": 8,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 7,
+      "steam_release_age_days": 7,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 1,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "冒险",
+        "角色扮演",
+        "模拟",
+        "策略"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-12",
+      "release_event_age_days": 7,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 1,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-12",
+          "peak": 2056
+        },
+        {
+          "date": "2026-08-13",
+          "peak": 4698
+        },
+        {
+          "date": "2026-08-14",
+          "peak": 6427
+        },
+        {
+          "date": "2026-08-15",
+          "peak": 6730
+        },
+        {
+          "date": "2026-08-16",
+          "peak": 8534
+        },
+        {
+          "date": "2026-08-17",
+          "peak": 9651
+        },
+        {
+          "date": "2026-08-18",
+          "peak": 10425
+        },
+        {
+          "date": "2026-08-19",
+          "peak": 11221
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4164790"
+      }
+    ],
+    "game": {
+      "slug": "survival-log",
+      "appid": "4164790",
+      "name": "Survival Log",
+      "name_cn": null,
+      "description": "《生存日志》是一款以丧尸末日为题材的囤货生存模拟游戏。你扮演一名预知丧尸危机爆发的普通人，利用重生优势，在灾难来临前疯狂囤积物资、加固住所，为生存而战。游戏聚焦策略规划与资源管理，带来独特的“囤货避难”沉浸体验。每一次死亡都会成为下一次轮回的经验，让你不断优化计划、突破极限——这次，一定要活下去！",
+      "release_date": "2026-08-12",
+      "genres": [
+        "冒险",
+        "角色扮演",
+        "模拟",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 79.0,
+      "review_total": 994,
+      "developer": "Midnight Workshop",
+      "publisher": "Lilith Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164790/8461750ba0da017389b2ad1d93b09480a30281e0/header_schinese.jpg?t=1786539085",
+      "steam_url": "https://store.steampowered.com/app/4164790",
+      "product_family_identity": "appid:4164790",
+      "product_family_appid": "4164790",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-12",
+          "peak": 2056
+        },
+        {
+          "date": "2026-08-13",
+          "peak": 4698
+        },
+        {
+          "date": "2026-08-14",
+          "peak": 6427
+        },
+        {
+          "date": "2026-08-15",
+          "peak": 6730
+        },
+        {
+          "date": "2026-08-16",
+          "peak": 8534
+        },
+        {
+          "date": "2026-08-17",
+          "peak": 9651
+        },
+        {
+          "date": "2026-08-18",
+          "peak": 10425
+        },
+        {
+          "date": "2026-08-19",
+          "peak": 11221
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《生存日志》是一款丧尸末日题材的囤货生存模拟游戏。玩家提前知道灾难将至，要在有限准备期里收集物资、加固住所，再检验这套避难计划能撑多久。",
+      "reference_frame": "它把末日生存的重点放在灾前规划和资源管理上：失败并非单纯结束，而会成为下一次轮回的信息，让玩家持续修改囤货顺序与防御安排。",
+      "for_players": "适合喜欢资源规划、库存取舍和反复优化的玩家。它的吸引力来自“这次能否准备得更周全”，愿意把一次失败拆成下一轮策略的人更容易进入节奏。",
+      "not_for_players": "如果你排斥重复开局，只想持续进行即时战斗，或更看重线性剧情推进，围绕囤货、加固和复盘展开的循环可能会显得慢。",
+      "star_reason": "《生存日志》在 8 月 19 日录得 11,221 人峰值，比此前最高观测提升约 8%，以 14.98 分排在模型第 1，再次成为今日之星。Steam 当日有 994 条评价，79% 为好评；热度仍在刷新，公开评价也保持多数正面。",
+      "core_loop": [
+        "在危机爆发前寻找和储备生存物资，判断哪些资源值得优先占用时间与空间。",
+        "加固住所并安排已有资源，用一套具体的避难方案迎接丧尸危机。",
+        "从死亡和物资短缺中找出计划漏洞，带着经验重新开始，再把准备做得更精确。"
+      ],
+      "content_length": 448
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 14.98,
+    "fact_summary": "Survival Log 今日观测峰值 11,221，较过往最高峰值提升 +8%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 11221,
+      "previous_peak": 10425,
+      "previous_record_peak": 10425,
+      "growth_rate": 0.0764,
+      "record_growth_rate": 0.0764,
+      "scoring_peak": 11221,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.23,
+      "raw_record_growth_score": 2.67,
+      "growth_score_multiplier": 0.1861,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.1739,
+      "growth_scale_crossing_component": 0.0122,
+      "record_growth_score": 0.5,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 18.73,
+      "event_adjusted_score": 18.73,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 18.73,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.8,
+      "base_score": 14.98,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 79.0,
+      "review_total": 994,
+      "days_seen": 8,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 7,
+      "steam_release_age_days": 7,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 1,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "冒险",
+        "角色扮演",
+        "模拟",
+        "策略"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-12",
+      "release_event_age_days": 7,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 1,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-12",
+          "peak": 2056
+        },
+        {
+          "date": "2026-08-13",
+          "peak": 4698
+        },
+        {
+          "date": "2026-08-14",
+          "peak": 6427
+        },
+        {
+          "date": "2026-08-15",
+          "peak": 6730
+        },
+        {
+          "date": "2026-08-16",
+          "peak": 8534
+        },
+        {
+          "date": "2026-08-17",
+          "peak": 9651
+        },
+        {
+          "date": "2026-08-18",
+          "peak": 10425
+        },
+        {
+          "date": "2026-08-19",
+          "peak": 11221
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4164790"
+      }
+    ],
+    "game": {
+      "slug": "survival-log",
+      "appid": "4164790",
+      "name": "Survival Log",
+      "name_cn": null,
+      "description": "《生存日志》是一款以丧尸末日为题材的囤货生存模拟游戏。你扮演一名预知丧尸危机爆发的普通人，利用重生优势，在灾难来临前疯狂囤积物资、加固住所，为生存而战。游戏聚焦策略规划与资源管理，带来独特的“囤货避难”沉浸体验。每一次死亡都会成为下一次轮回的经验，让你不断优化计划、突破极限——这次，一定要活下去！",
+      "release_date": "2026-08-12",
+      "genres": [
+        "冒险",
+        "角色扮演",
+        "模拟",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 79.0,
+      "review_total": 994,
+      "developer": "Midnight Workshop",
+      "publisher": "Lilith Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164790/8461750ba0da017389b2ad1d93b09480a30281e0/header_schinese.jpg?t=1786539085",
+      "steam_url": "https://store.steampowered.com/app/4164790",
+      "product_family_identity": "appid:4164790",
+      "product_family_appid": "4164790",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-12",
+          "peak": 2056
+        },
+        {
+          "date": "2026-08-13",
+          "peak": 4698
+        },
+        {
+          "date": "2026-08-14",
+          "peak": 6427
+        },
+        {
+          "date": "2026-08-15",
+          "peak": 6730
+        },
+        {
+          "date": "2026-08-16",
+          "peak": 8534
+        },
+        {
+          "date": "2026-08-17",
+          "peak": 9651
+        },
+        {
+          "date": "2026-08-18",
+          "peak": 10425
+        },
+        {
+          "date": "2026-08-19",
+          "peak": 11221
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《生存日志》是一款丧尸末日题材的囤货生存模拟游戏。玩家提前知道灾难将至，要在有限准备期里收集物资、加固住所，再检验这套避难计划能撑多久。",
+      "reference_frame": "它把末日生存的重点放在灾前规划和资源管理上：失败并非单纯结束，而会成为下一次轮回的信息，让玩家持续修改囤货顺序与防御安排。",
+      "for_players": "适合喜欢资源规划、库存取舍和反复优化的玩家。它的吸引力来自“这次能否准备得更周全”，愿意把一次失败拆成下一轮策略的人更容易进入节奏。",
+      "not_for_players": "如果你排斥重复开局，只想持续进行即时战斗，或更看重线性剧情推进，围绕囤货、加固和复盘展开的循环可能会显得慢。",
+      "star_reason": "《生存日志》在 8 月 19 日录得 11,221 人峰值，比此前最高观测提升约 8%，以 14.98 分排在模型第 1，再次成为今日之星。Steam 当日有 994 条评价，79% 为好评；热度仍在刷新，公开评价也保持多数正面。",
+      "core_loop": [
+        "在危机爆发前寻找和储备生存物资，判断哪些资源值得优先占用时间与空间。",
+        "加固住所并安排已有资源，用一套具体的避难方案迎接丧尸危机。",
+        "从死亡和物资短缺中找出计划漏洞，带着经验重新开始，再把准备做得更精确。"
+      ],
+      "content_length": 448
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

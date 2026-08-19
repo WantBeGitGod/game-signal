@@ -17,9 +17,9 @@
     "Steam 云",
     "家庭共享"
   ],
-  "review_score": "Mixed",
-  "review_ratio": 64.0,
-  "review_total": 188,
+  "review_score": "Mostly Positive",
+  "review_ratio": 79.0,
+  "review_total": 994,
   "developer": "Midnight Workshop",
   "publisher": "Lilith Games",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164790/8461750ba0da017389b2ad1d93b09480a30281e0/header_schinese.jpg?t=1786539085",
@@ -35,6 +35,30 @@
     {
       "date": "2026-08-13",
       "peak": 4698
+    },
+    {
+      "date": "2026-08-14",
+      "peak": 6427
+    },
+    {
+      "date": "2026-08-15",
+      "peak": 6730
+    },
+    {
+      "date": "2026-08-16",
+      "peak": 8534
+    },
+    {
+      "date": "2026-08-17",
+      "peak": 9651
+    },
+    {
+      "date": "2026-08-18",
+      "peak": 10425
+    },
+    {
+      "date": "2026-08-19",
+      "peak": 11221
     }
   ]
 }

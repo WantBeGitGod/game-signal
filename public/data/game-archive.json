@@ -1,7 +1,40 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-18T20:13:26",
+  "generated_at": "2026-08-19T23:18:41",
   "games": [
+    {
+      "game": {
+        "slug": "survival-log",
+        "appid": "4164790",
+        "name": "Survival Log",
+        "name_cn": null,
+        "description": "《生存日志》是一款以丧尸末日为题材的囤货生存模拟游戏。你扮演一名预知丧尸危机爆发的普通人，利用重生优势，在灾难来临前疯狂囤积物资、加固住所，为生存而战。游戏聚焦策略规划与资源管理，带来独特的“囤货避难”沉浸体验。每一次死亡都会成为下一次轮回的经验，让你不断优化计划、突破极限——这次，一定要活下去！",
+        "genres": [
+          "冒险",
+          "角色扮演",
+          "模拟",
+          "策略"
+        ],
+        "developer": "Midnight Workshop",
+        "publisher": "Lilith Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164790/8461750ba0da017389b2ad1d93b09480a30281e0/header_schinese.jpg?t=1786539085",
+        "product_family_identity": "appid:4164790",
+        "product_family_appid": "4164790",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-08-19",
+        "2026-08-13"
+      ],
+      "member_appids": [
+        "4164790"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-08-19"
+    },
     {
       "game": {
         "slug": "hell-let-loose-vietnam",
@@ -128,38 +161,6 @@
       ],
       "article_count": 0,
       "latest_star_date": "2026-08-14"
-    },
-    {
-      "game": {
-        "slug": "survival-log",
-        "appid": "4164790",
-        "name": "Survival Log",
-        "name_cn": null,
-        "description": "《生存日志》是一款以丧尸末日为题材的囤货生存模拟游戏。你扮演一名预知丧尸危机爆发的普通人，利用重生优势，在灾难来临前疯狂囤积物资、加固住所，为生存而战。游戏聚焦策略规划与资源管理，带来独特的“囤货避难”沉浸体验。每一次死亡都会成为下一次轮回的经验，让你不断优化计划、突破极限——这次，一定要活下去！",
-        "genres": [
-          "冒险",
-          "角色扮演",
-          "模拟",
-          "策略"
-        ],
-        "developer": "Midnight Workshop",
-        "publisher": "Lilith Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164790/8461750ba0da017389b2ad1d93b09480a30281e0/header_schinese.jpg?t=1786539085",
-        "product_family_identity": "appid:4164790",
-        "product_family_appid": "4164790",
-        "product_family_role": "full"
-      },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
-      "star_dates": [
-        "2026-08-13"
-      ],
-      "member_appids": [
-        "4164790"
-      ],
-      "article_count": 0,
-      "latest_star_date": "2026-08-13"
     },
     {
       "game": {
