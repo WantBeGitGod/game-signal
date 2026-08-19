@@ -83,7 +83,15 @@
       "url": "https://news.blizzard.com/en-sg/diablo4/23954935/diablo-iv-launches-soon-here-s-what-you-need-to-know"
     }
   },
-  "release_event_overrides": {},
+  "release_event_overrides": {
+    "2584270": {
+      "identity": "true_new",
+      "date": "2026-08-17",
+      "source": "Official Devout Edition advanced access",
+      "url": "https://store.steampowered.com/app/2584270/Mortal_Shell_II/",
+      "access_type": "deluxe_advanced_access"
+    }
+  },
   "daily_star_game_aliases": {
     "太吾绘卷：天幕心帷": "838350"
   },

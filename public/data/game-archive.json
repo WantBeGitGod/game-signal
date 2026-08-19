@@ -1,36 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-19T23:18:41",
+  "generated_at": "2026-08-19T23:40:36",
   "games": [
     {
       "game": {
-        "slug": "survival-log",
-        "appid": "4164790",
-        "name": "Survival Log",
+        "slug": "mortal-shell-ii",
+        "appid": "2584270",
+        "name": "Mortal Shell II",
         "name_cn": null,
-        "description": "《生存日志》是一款以丧尸末日为题材的囤货生存模拟游戏。你扮演一名预知丧尸危机爆发的普通人，利用重生优势，在灾难来临前疯狂囤积物资、加固住所，为生存而战。游戏聚焦策略规划与资源管理，带来独特的“囤货避难”沉浸体验。每一次死亡都会成为下一次轮回的经验，让你不断优化计划、突破极限——这次，一定要活下去！",
+        "description": "彼之血肉，你之兵戎。《Mortal Shell II》是一款独立续作动作RPG游戏，为你带来肾上腺素飙升的硬核战斗体验。将卓越的战士收入麾下，推翻伪神的统治，拯救残破的世界。",
         "genres": [
-          "冒险",
-          "角色扮演",
-          "模拟",
-          "策略"
+          "动作",
+          "角色扮演"
         ],
-        "developer": "Midnight Workshop",
-        "publisher": "Lilith Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164790/8461750ba0da017389b2ad1d93b09480a30281e0/header_schinese.jpg?t=1786539085",
-        "product_family_identity": "appid:4164790",
-        "product_family_appid": "4164790",
+        "developer": "Cold Symmetry",
+        "publisher": "Playstack",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787146410",
+        "product_family_identity": "appid:2584270",
+        "product_family_appid": "2584270",
         "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
-        "2026-08-19",
-        "2026-08-13"
+        "2026-08-19"
       ],
       "member_appids": [
-        "4164790"
+        "2584270"
       ],
       "article_count": 0,
       "latest_star_date": "2026-08-19"
@@ -161,6 +158,38 @@
       ],
       "article_count": 0,
       "latest_star_date": "2026-08-14"
+    },
+    {
+      "game": {
+        "slug": "survival-log",
+        "appid": "4164790",
+        "name": "Survival Log",
+        "name_cn": null,
+        "description": "《生存日志》是一款以丧尸末日为题材的囤货生存模拟游戏。你扮演一名预知丧尸危机爆发的普通人，利用重生优势，在灾难来临前疯狂囤积物资、加固住所，为生存而战。游戏聚焦策略规划与资源管理，带来独特的“囤货避难”沉浸体验。每一次死亡都会成为下一次轮回的经验，让你不断优化计划、突破极限——这次，一定要活下去！",
+        "genres": [
+          "冒险",
+          "角色扮演",
+          "模拟",
+          "策略"
+        ],
+        "developer": "Midnight Workshop",
+        "publisher": "Lilith Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164790/8461750ba0da017389b2ad1d93b09480a30281e0/header_schinese.jpg?t=1786539085",
+        "product_family_identity": "appid:4164790",
+        "product_family_appid": "4164790",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-08-13"
+      ],
+      "member_appids": [
+        "4164790"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-08-13"
     },
     {
       "game": {

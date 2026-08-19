@@ -10,431 +10,357 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 14.98,
-    "fact_summary": "Survival Log 今日观测峰值 11,221，较过往最高峰值提升 +8%，被识别为「新作起量」。",
+    "score": 25.99,
+    "fact_summary": "Mortal Shell II 今日观测峰值 23,375，较过往最高峰值提升 +21%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 11221,
-      "previous_peak": 10425,
-      "previous_record_peak": 10425,
-      "growth_rate": 0.0764,
-      "record_growth_rate": 0.0764,
-      "scoring_peak": 11221,
+      "current_peak": 23375,
+      "previous_peak": 19242,
+      "previous_record_peak": 19242,
+      "growth_rate": 0.2148,
+      "record_growth_rate": 0.2148,
+      "scoring_peak": 23375,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 18.23,
-      "raw_record_growth_score": 2.67,
-      "growth_score_multiplier": 0.1861,
+      "peak_score": 20.53,
+      "raw_record_growth_score": 7.52,
+      "growth_score_multiplier": 0.7262,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.1739,
-      "growth_scale_crossing_component": 0.0122,
-      "record_growth_score": 0.5,
+      "growth_scale_base_component": 0.5924,
+      "growth_scale_crossing_component": 0.1338,
+      "record_growth_score": 5.46,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 18.73,
-      "event_adjusted_score": 18.73,
+      "score_before_multiplier": 25.99,
+      "event_adjusted_score": 25.99,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 18.73,
+      "review_adjusted_score": 25.99,
       "review_penalty_reason": null,
-      "secondary_labels": [],
-      "combined_score_multiplier": 0.8,
-      "base_score": 14.98,
-      "score_multiplier": 0.8,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
+      "secondary_labels": [
+        "豪华先行版本"
       ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "combined_score_multiplier": 1.0,
+      "base_score": 25.99,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 79.0,
-      "review_total": 994,
-      "days_seen": 8,
+      "review_ratio": 82.0,
+      "review_total": 3022,
+      "days_seen": 2,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 7,
-      "steam_release_age_days": 7,
-      "release_age_basis": "confirmed_identity",
+      "release_age_days": 2,
+      "steam_release_age_days": -1,
+      "release_age_basis": "config_override",
       "release_verification_required": false,
       "release_verification": {
-        "source": "initial_review_observation",
-        "initial_review_total": 1,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "identity": "true_new",
+        "date": "2026-08-17",
+        "source": "Official Devout Edition advanced access",
+        "url": "https://store.steampowered.com/app/2584270/Mortal_Shell_II/",
+        "access_type": "deluxe_advanced_access"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "冒险",
-        "角色扮演",
-        "模拟",
-        "策略"
+        "动作",
+        "角色扮演"
       ],
       "scoring_version": "release_event_v2",
       "release_event_type": "true_new",
-      "release_event_date": "2026-08-12",
-      "release_event_age_days": 7,
+      "release_event_date": "2026-08-17",
+      "release_event_age_days": 2,
       "release_event_window_days": 30,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
-        "source": "initial_review_observation",
-        "initial_review_total": 1,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "identity": "true_new",
+        "date": "2026-08-17",
+        "source": "Official Devout Edition advanced access",
+        "url": "https://store.steampowered.com/app/2584270/Mortal_Shell_II/",
+        "access_type": "deluxe_advanced_access"
       },
-      "release_event_date_basis": "confirmed_identity",
+      "release_event_date_basis": "config_override",
       "trend": [
         {
-          "date": "2026-08-12",
-          "peak": 2056
-        },
-        {
-          "date": "2026-08-13",
-          "peak": 4698
-        },
-        {
-          "date": "2026-08-14",
-          "peak": 6427
-        },
-        {
-          "date": "2026-08-15",
-          "peak": 6730
-        },
-        {
-          "date": "2026-08-16",
-          "peak": 8534
-        },
-        {
-          "date": "2026-08-17",
-          "peak": 9651
-        },
-        {
           "date": "2026-08-18",
-          "peak": 10425
+          "peak": 19242
         },
         {
           "date": "2026-08-19",
-          "peak": 11221
+          "peak": 23375
         }
       ]
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4164790"
+        "url": "https://store.steampowered.com/app/2584270"
       }
     ],
     "game": {
-      "slug": "survival-log",
-      "appid": "4164790",
-      "name": "Survival Log",
+      "slug": "mortal-shell-ii",
+      "appid": "2584270",
+      "name": "Mortal Shell II",
       "name_cn": null,
-      "description": "《生存日志》是一款以丧尸末日为题材的囤货生存模拟游戏。你扮演一名预知丧尸危机爆发的普通人，利用重生优势，在灾难来临前疯狂囤积物资、加固住所，为生存而战。游戏聚焦策略规划与资源管理，带来独特的“囤货避难”沉浸体验。每一次死亡都会成为下一次轮回的经验，让你不断优化计划、突破极限——这次，一定要活下去！",
-      "release_date": "2026-08-12",
+      "description": "彼之血肉，你之兵戎。《Mortal Shell II》是一款独立续作动作RPG游戏，为你带来肾上腺素飙升的硬核战斗体验。将卓越的战士收入麾下，推翻伪神的统治，拯救残破的世界。",
+      "release_date": "2026-08-20",
       "genres": [
-        "冒险",
-        "角色扮演",
-        "模拟",
-        "策略"
+        "动作",
+        "角色扮演"
       ],
       "tags": [
         "单人",
         "Steam 成就",
+        "完全支持控制器",
+        "可调整文字大小",
+        "#category_contrast_controls",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "字幕选项",
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Mostly Positive",
-      "review_ratio": 79.0,
-      "review_total": 994,
-      "developer": "Midnight Workshop",
-      "publisher": "Lilith Games",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164790/8461750ba0da017389b2ad1d93b09480a30281e0/header_schinese.jpg?t=1786539085",
-      "steam_url": "https://store.steampowered.com/app/4164790",
-      "product_family_identity": "appid:4164790",
-      "product_family_appid": "4164790",
+      "review_score": "Very Positive",
+      "review_ratio": 82.0,
+      "review_total": 3022,
+      "developer": "Cold Symmetry",
+      "publisher": "Playstack",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787146410",
+      "steam_url": "https://store.steampowered.com/app/2584270",
+      "product_family_identity": "appid:2584270",
+      "product_family_appid": "2584270",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-08-12",
-          "peak": 2056
-        },
-        {
-          "date": "2026-08-13",
-          "peak": 4698
-        },
-        {
-          "date": "2026-08-14",
-          "peak": 6427
-        },
-        {
-          "date": "2026-08-15",
-          "peak": 6730
-        },
-        {
-          "date": "2026-08-16",
-          "peak": 8534
-        },
-        {
-          "date": "2026-08-17",
-          "peak": 9651
-        },
-        {
           "date": "2026-08-18",
-          "peak": 10425
+          "peak": 19242
         },
         {
           "date": "2026-08-19",
-          "peak": 11221
+          "peak": 23375
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《生存日志》是一款丧尸末日题材的囤货生存模拟游戏。玩家提前知道灾难将至，要在有限准备期里收集物资、加固住所，再检验这套避难计划能撑多久。",
-      "reference_frame": "它把末日生存的重点放在灾前规划和资源管理上：失败并非单纯结束，而会成为下一次轮回的信息，让玩家持续修改囤货顺序与防御安排。",
-      "for_players": "适合喜欢资源规划、库存取舍和反复优化的玩家。它的吸引力来自“这次能否准备得更周全”，愿意把一次失败拆成下一轮策略的人更容易进入节奏。",
-      "not_for_players": "如果你排斥重复开局，只想持续进行即时战斗，或更看重线性剧情推进，围绕囤货、加固和复盘展开的循环可能会显得慢。",
-      "star_reason": "《生存日志》在 8 月 19 日录得 11,221 人峰值，比此前最高观测提升约 8%，以 14.98 分排在模型第 1，再次成为今日之星。Steam 当日有 994 条评价，79% 为好评；热度仍在刷新，公开评价也保持多数正面。",
+      "positioning": "《Mortal Shell II》是一款强调高压近战与自由探索的硬核动作 RPG。玩家占据不同战士遗骸形成的 Shell，利用各自能力和武器配置，在紧凑的开放世界里推进战斗与探索。",
+      "reference_frame": "它延续前作“占据躯壳”的角色构筑思路，同时扩大武器升级和开放探索空间。角色选择不只是外观变化，而会直接改变战斗能力与应对方式。",
+      "for_players": "适合喜欢魂系动作、研究武器与角色能力组合，并愿意通过反复交战熟悉敌人节奏的玩家。紧凑开放世界也给主动探索留下了空间。",
+      "not_for_players": "如果你不喜欢失败后重新调整打法，排斥高压近战，或更希望由明确任务线持续引导，早期学习成本和探索压力可能会影响体验。",
+      "star_reason": "《Mortal Shell II》的 Devout Edition 于正式发售前开放完整游戏。8 月 19 日 Steam 峰值达到 23,375，比此前观测纪录提升约 21%，模型得分 25.99。能够付费提前进入的核心用户已经撑起这一规模，因此以“豪华先行版本”身份成为今日之星。",
       "core_loop": [
-        "在危机爆发前寻找和储备生存物资，判断哪些资源值得优先占用时间与空间。",
-        "加固住所并安排已有资源，用一套具体的避难方案迎接丧尸危机。",
-        "从死亡和物资短缺中找出计划漏洞，带着经验重新开始，再把准备做得更精确。"
+        "探索相互连接的区域，寻找新的 Shell、武器、升级资源和隐藏信息。",
+        "根据敌人和场景选择躯壳与武器，用闪避、招架和攻击节奏完成高风险交锋。",
+        "将获得的资源投入能力与武器成长，再进入更危险的区域检验当前构筑。"
       ],
-      "content_length": 448
-    }
+      "content_length": 492
+    },
+    "secondary_labels": [
+      "豪华先行版本"
+    ]
   },
   "main_signal": {
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 14.98,
-    "fact_summary": "Survival Log 今日观测峰值 11,221，较过往最高峰值提升 +8%，被识别为「新作起量」。",
+    "score": 25.99,
+    "fact_summary": "Mortal Shell II 今日观测峰值 23,375，较过往最高峰值提升 +21%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 11221,
-      "previous_peak": 10425,
-      "previous_record_peak": 10425,
-      "growth_rate": 0.0764,
-      "record_growth_rate": 0.0764,
-      "scoring_peak": 11221,
+      "current_peak": 23375,
+      "previous_peak": 19242,
+      "previous_record_peak": 19242,
+      "growth_rate": 0.2148,
+      "record_growth_rate": 0.2148,
+      "scoring_peak": 23375,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 18.23,
-      "raw_record_growth_score": 2.67,
-      "growth_score_multiplier": 0.1861,
+      "peak_score": 20.53,
+      "raw_record_growth_score": 7.52,
+      "growth_score_multiplier": 0.7262,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.1739,
-      "growth_scale_crossing_component": 0.0122,
-      "record_growth_score": 0.5,
+      "growth_scale_base_component": 0.5924,
+      "growth_scale_crossing_component": 0.1338,
+      "record_growth_score": 5.46,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 18.73,
-      "event_adjusted_score": 18.73,
+      "score_before_multiplier": 25.99,
+      "event_adjusted_score": 25.99,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 18.73,
+      "review_adjusted_score": 25.99,
       "review_penalty_reason": null,
-      "secondary_labels": [],
-      "combined_score_multiplier": 0.8,
-      "base_score": 14.98,
-      "score_multiplier": 0.8,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
+      "secondary_labels": [
+        "豪华先行版本"
       ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "combined_score_multiplier": 1.0,
+      "base_score": 25.99,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 79.0,
-      "review_total": 994,
-      "days_seen": 8,
+      "review_ratio": 82.0,
+      "review_total": 3022,
+      "days_seen": 2,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 7,
-      "steam_release_age_days": 7,
-      "release_age_basis": "confirmed_identity",
+      "release_age_days": 2,
+      "steam_release_age_days": -1,
+      "release_age_basis": "config_override",
       "release_verification_required": false,
       "release_verification": {
-        "source": "initial_review_observation",
-        "initial_review_total": 1,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "identity": "true_new",
+        "date": "2026-08-17",
+        "source": "Official Devout Edition advanced access",
+        "url": "https://store.steampowered.com/app/2584270/Mortal_Shell_II/",
+        "access_type": "deluxe_advanced_access"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "冒险",
-        "角色扮演",
-        "模拟",
-        "策略"
+        "动作",
+        "角色扮演"
       ],
       "scoring_version": "release_event_v2",
       "release_event_type": "true_new",
-      "release_event_date": "2026-08-12",
-      "release_event_age_days": 7,
+      "release_event_date": "2026-08-17",
+      "release_event_age_days": 2,
       "release_event_window_days": 30,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
-        "source": "initial_review_observation",
-        "initial_review_total": 1,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "identity": "true_new",
+        "date": "2026-08-17",
+        "source": "Official Devout Edition advanced access",
+        "url": "https://store.steampowered.com/app/2584270/Mortal_Shell_II/",
+        "access_type": "deluxe_advanced_access"
       },
-      "release_event_date_basis": "confirmed_identity",
+      "release_event_date_basis": "config_override",
       "trend": [
         {
-          "date": "2026-08-12",
-          "peak": 2056
-        },
-        {
-          "date": "2026-08-13",
-          "peak": 4698
-        },
-        {
-          "date": "2026-08-14",
-          "peak": 6427
-        },
-        {
-          "date": "2026-08-15",
-          "peak": 6730
-        },
-        {
-          "date": "2026-08-16",
-          "peak": 8534
-        },
-        {
-          "date": "2026-08-17",
-          "peak": 9651
-        },
-        {
           "date": "2026-08-18",
-          "peak": 10425
+          "peak": 19242
         },
         {
           "date": "2026-08-19",
-          "peak": 11221
+          "peak": 23375
         }
       ]
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4164790"
+        "url": "https://store.steampowered.com/app/2584270"
       }
     ],
     "game": {
-      "slug": "survival-log",
-      "appid": "4164790",
-      "name": "Survival Log",
+      "slug": "mortal-shell-ii",
+      "appid": "2584270",
+      "name": "Mortal Shell II",
       "name_cn": null,
-      "description": "《生存日志》是一款以丧尸末日为题材的囤货生存模拟游戏。你扮演一名预知丧尸危机爆发的普通人，利用重生优势，在灾难来临前疯狂囤积物资、加固住所，为生存而战。游戏聚焦策略规划与资源管理，带来独特的“囤货避难”沉浸体验。每一次死亡都会成为下一次轮回的经验，让你不断优化计划、突破极限——这次，一定要活下去！",
-      "release_date": "2026-08-12",
+      "description": "彼之血肉，你之兵戎。《Mortal Shell II》是一款独立续作动作RPG游戏，为你带来肾上腺素飙升的硬核战斗体验。将卓越的战士收入麾下，推翻伪神的统治，拯救残破的世界。",
+      "release_date": "2026-08-20",
       "genres": [
-        "冒险",
-        "角色扮演",
-        "模拟",
-        "策略"
+        "动作",
+        "角色扮演"
       ],
       "tags": [
         "单人",
         "Steam 成就",
+        "完全支持控制器",
+        "可调整文字大小",
+        "#category_contrast_controls",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "字幕选项",
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Mostly Positive",
-      "review_ratio": 79.0,
-      "review_total": 994,
-      "developer": "Midnight Workshop",
-      "publisher": "Lilith Games",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4164790/8461750ba0da017389b2ad1d93b09480a30281e0/header_schinese.jpg?t=1786539085",
-      "steam_url": "https://store.steampowered.com/app/4164790",
-      "product_family_identity": "appid:4164790",
-      "product_family_appid": "4164790",
+      "review_score": "Very Positive",
+      "review_ratio": 82.0,
+      "review_total": 3022,
+      "developer": "Cold Symmetry",
+      "publisher": "Playstack",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787146410",
+      "steam_url": "https://store.steampowered.com/app/2584270",
+      "product_family_identity": "appid:2584270",
+      "product_family_appid": "2584270",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-08-12",
-          "peak": 2056
-        },
-        {
-          "date": "2026-08-13",
-          "peak": 4698
-        },
-        {
-          "date": "2026-08-14",
-          "peak": 6427
-        },
-        {
-          "date": "2026-08-15",
-          "peak": 6730
-        },
-        {
-          "date": "2026-08-16",
-          "peak": 8534
-        },
-        {
-          "date": "2026-08-17",
-          "peak": 9651
-        },
-        {
           "date": "2026-08-18",
-          "peak": 10425
+          "peak": 19242
         },
         {
           "date": "2026-08-19",
-          "peak": 11221
+          "peak": 23375
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《生存日志》是一款丧尸末日题材的囤货生存模拟游戏。玩家提前知道灾难将至，要在有限准备期里收集物资、加固住所，再检验这套避难计划能撑多久。",
-      "reference_frame": "它把末日生存的重点放在灾前规划和资源管理上：失败并非单纯结束，而会成为下一次轮回的信息，让玩家持续修改囤货顺序与防御安排。",
-      "for_players": "适合喜欢资源规划、库存取舍和反复优化的玩家。它的吸引力来自“这次能否准备得更周全”，愿意把一次失败拆成下一轮策略的人更容易进入节奏。",
-      "not_for_players": "如果你排斥重复开局，只想持续进行即时战斗，或更看重线性剧情推进，围绕囤货、加固和复盘展开的循环可能会显得慢。",
-      "star_reason": "《生存日志》在 8 月 19 日录得 11,221 人峰值，比此前最高观测提升约 8%，以 14.98 分排在模型第 1，再次成为今日之星。Steam 当日有 994 条评价，79% 为好评；热度仍在刷新，公开评价也保持多数正面。",
+      "positioning": "《Mortal Shell II》是一款强调高压近战与自由探索的硬核动作 RPG。玩家占据不同战士遗骸形成的 Shell，利用各自能力和武器配置，在紧凑的开放世界里推进战斗与探索。",
+      "reference_frame": "它延续前作“占据躯壳”的角色构筑思路，同时扩大武器升级和开放探索空间。角色选择不只是外观变化，而会直接改变战斗能力与应对方式。",
+      "for_players": "适合喜欢魂系动作、研究武器与角色能力组合，并愿意通过反复交战熟悉敌人节奏的玩家。紧凑开放世界也给主动探索留下了空间。",
+      "not_for_players": "如果你不喜欢失败后重新调整打法，排斥高压近战，或更希望由明确任务线持续引导，早期学习成本和探索压力可能会影响体验。",
+      "star_reason": "《Mortal Shell II》的 Devout Edition 于正式发售前开放完整游戏。8 月 19 日 Steam 峰值达到 23,375，比此前观测纪录提升约 21%，模型得分 25.99。能够付费提前进入的核心用户已经撑起这一规模，因此以“豪华先行版本”身份成为今日之星。",
       "core_loop": [
-        "在危机爆发前寻找和储备生存物资，判断哪些资源值得优先占用时间与空间。",
-        "加固住所并安排已有资源，用一套具体的避难方案迎接丧尸危机。",
-        "从死亡和物资短缺中找出计划漏洞，带着经验重新开始，再把准备做得更精确。"
+        "探索相互连接的区域，寻找新的 Shell、武器、升级资源和隐藏信息。",
+        "根据敌人和场景选择躯壳与武器，用闪避、招架和攻击节奏完成高风险交锋。",
+        "将获得的资源投入能力与武器成长，再进入更危险的区域检验当前构筑。"
       ],
-      "content_length": 448
-    }
+      "content_length": 492
+    },
+    "secondary_labels": [
+      "豪华先行版本"
+    ]
   },
   "secondary_signals": [],
   "candidate_signals": []
