@@ -25,12 +25,12 @@
     "Steam 云",
     "家庭共享"
   ],
-  "review_score": "Very Positive",
-  "review_ratio": 82.0,
-  "review_total": 3022,
+  "review_score": "Mostly Positive",
+  "review_ratio": 80.0,
+  "review_total": 4286,
   "developer": "Cold Symmetry",
   "publisher": "Playstack",
-  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787146410",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787231571",
   "steam_url": "https://store.steampowered.com/app/2584270",
   "product_family_identity": "appid:2584270",
   "product_family_appid": "2584270",
@@ -43,6 +43,10 @@
     {
       "date": "2026-08-19",
       "peak": 23375
+    },
+    {
+      "date": "2026-08-20",
+      "peak": 33846
     }
   ]
 }

@@ -1,0 +1,387 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-08-20",
+  "title": "08.20 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 30.55,
+    "fact_summary": "Mortal Shell II 今日观测峰值 33,846，较过往最高峰值提升 +45%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 33846,
+      "previous_peak": 23375,
+      "previous_record_peak": 23375,
+      "growth_rate": 0.448,
+      "record_growth_rate": 0.448,
+      "scoring_peak": 33846,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 22.5,
+      "raw_record_growth_score": 15.68,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.8742,
+      "growth_scale_crossing_component": 0.2385,
+      "record_growth_score": 15.68,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 38.18,
+      "event_adjusted_score": 38.18,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 38.18,
+      "review_penalty_reason": null,
+      "secondary_labels": [
+        "豪华先行版本"
+      ],
+      "combined_score_multiplier": 0.8,
+      "base_score": 30.55,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 80.0,
+      "review_total": 4286,
+      "days_seen": 3,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 3,
+      "steam_release_age_days": 0,
+      "release_age_basis": "config_override",
+      "release_verification_required": false,
+      "release_verification": {
+        "identity": "true_new",
+        "date": "2026-08-17",
+        "source": "Official Devout Edition advanced access",
+        "url": "https://store.steampowered.com/app/2584270/Mortal_Shell_II/",
+        "access_type": "deluxe_advanced_access"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-17",
+      "release_event_age_days": 3,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "identity": "true_new",
+        "date": "2026-08-17",
+        "source": "Official Devout Edition advanced access",
+        "url": "https://store.steampowered.com/app/2584270/Mortal_Shell_II/",
+        "access_type": "deluxe_advanced_access"
+      },
+      "release_event_date_basis": "config_override",
+      "trend": [
+        {
+          "date": "2026-08-18",
+          "peak": 19242
+        },
+        {
+          "date": "2026-08-19",
+          "peak": 23375
+        },
+        {
+          "date": "2026-08-20",
+          "peak": 33846
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2584270"
+      }
+    ],
+    "game": {
+      "slug": "mortal-shell-ii",
+      "appid": "2584270",
+      "name": "Mortal Shell II",
+      "name_cn": null,
+      "description": "彼之血肉，你之兵戎。《Mortal Shell II》是一款独立续作动作RPG游戏，为你带来肾上腺素飙升的硬核战斗体验。将卓越的战士收入麾下，推翻伪神的统治，拯救残破的世界。",
+      "release_date": "2026-08-20",
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "可调整文字大小",
+        "#category_contrast_controls",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "字幕选项",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 80.0,
+      "review_total": 4286,
+      "developer": "Cold Symmetry",
+      "publisher": "Playstack",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787231571",
+      "steam_url": "https://store.steampowered.com/app/2584270",
+      "product_family_identity": "appid:2584270",
+      "product_family_appid": "2584270",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-18",
+          "peak": 19242
+        },
+        {
+          "date": "2026-08-19",
+          "peak": 23375
+        },
+        {
+          "date": "2026-08-20",
+          "peak": 33846
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Mortal Shell II》是一款强调高压近战与自由探索的硬核动作 RPG。玩家占据不同战士遗骸形成的 Shell，利用各自能力和武器配置，在紧凑的开放世界里推进战斗与探索。",
+      "reference_frame": "它延续前作“占据躯壳”的角色构筑思路，同时扩大武器升级和开放探索空间。角色选择不只改变外观，也会直接改变战斗能力与应对方式。",
+      "for_players": "适合喜欢魂系动作、研究武器与角色能力组合，并愿意通过反复交战熟悉敌人节奏的玩家。紧凑开放世界也给主动探索留下了空间。",
+      "not_for_players": "如果你不喜欢失败后重新调整打法，排斥高压近战，或更希望由明确任务线持续引导，早期学习成本和探索压力可能会影响体验。",
+      "star_reason": "8 月 20 日正式发售后，《Mortal Shell II》的 Steam 峰值升至 33,846，比前一日的 23,375 增长约 45%；当日 4,286 条评价中 80% 为好评。重复摘星债务将基础结果乘以 0.80 后，模型仍以 30.55 分把它排在首位，因此连续第二天成为今日之星。",
+      "core_loop": [
+        "探索相互连接的区域，寻找新的 Shell、武器、升级资源和隐藏信息。",
+        "根据敌人和场景选择躯壳与武器，用闪避、招架和攻击节奏完成高风险交锋。",
+        "将获得的资源投入能力与武器成长，再进入更危险的区域检验当前构筑。"
+      ],
+      "content_length": 491
+    },
+    "secondary_labels": [
+      "豪华先行版本"
+    ]
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 30.55,
+    "fact_summary": "Mortal Shell II 今日观测峰值 33,846，较过往最高峰值提升 +45%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 33846,
+      "previous_peak": 23375,
+      "previous_record_peak": 23375,
+      "growth_rate": 0.448,
+      "record_growth_rate": 0.448,
+      "scoring_peak": 33846,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 22.5,
+      "raw_record_growth_score": 15.68,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.8742,
+      "growth_scale_crossing_component": 0.2385,
+      "record_growth_score": 15.68,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 38.18,
+      "event_adjusted_score": 38.18,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 38.18,
+      "review_penalty_reason": null,
+      "secondary_labels": [
+        "豪华先行版本"
+      ],
+      "combined_score_multiplier": 0.8,
+      "base_score": 30.55,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 80.0,
+      "review_total": 4286,
+      "days_seen": 3,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 3,
+      "steam_release_age_days": 0,
+      "release_age_basis": "config_override",
+      "release_verification_required": false,
+      "release_verification": {
+        "identity": "true_new",
+        "date": "2026-08-17",
+        "source": "Official Devout Edition advanced access",
+        "url": "https://store.steampowered.com/app/2584270/Mortal_Shell_II/",
+        "access_type": "deluxe_advanced_access"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-17",
+      "release_event_age_days": 3,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "identity": "true_new",
+        "date": "2026-08-17",
+        "source": "Official Devout Edition advanced access",
+        "url": "https://store.steampowered.com/app/2584270/Mortal_Shell_II/",
+        "access_type": "deluxe_advanced_access"
+      },
+      "release_event_date_basis": "config_override",
+      "trend": [
+        {
+          "date": "2026-08-18",
+          "peak": 19242
+        },
+        {
+          "date": "2026-08-19",
+          "peak": 23375
+        },
+        {
+          "date": "2026-08-20",
+          "peak": 33846
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2584270"
+      }
+    ],
+    "game": {
+      "slug": "mortal-shell-ii",
+      "appid": "2584270",
+      "name": "Mortal Shell II",
+      "name_cn": null,
+      "description": "彼之血肉，你之兵戎。《Mortal Shell II》是一款独立续作动作RPG游戏，为你带来肾上腺素飙升的硬核战斗体验。将卓越的战士收入麾下，推翻伪神的统治，拯救残破的世界。",
+      "release_date": "2026-08-20",
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "可调整文字大小",
+        "#category_contrast_controls",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "字幕选项",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 80.0,
+      "review_total": 4286,
+      "developer": "Cold Symmetry",
+      "publisher": "Playstack",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1787231571",
+      "steam_url": "https://store.steampowered.com/app/2584270",
+      "product_family_identity": "appid:2584270",
+      "product_family_appid": "2584270",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-18",
+          "peak": 19242
+        },
+        {
+          "date": "2026-08-19",
+          "peak": 23375
+        },
+        {
+          "date": "2026-08-20",
+          "peak": 33846
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Mortal Shell II》是一款强调高压近战与自由探索的硬核动作 RPG。玩家占据不同战士遗骸形成的 Shell，利用各自能力和武器配置，在紧凑的开放世界里推进战斗与探索。",
+      "reference_frame": "它延续前作“占据躯壳”的角色构筑思路，同时扩大武器升级和开放探索空间。角色选择不只改变外观，也会直接改变战斗能力与应对方式。",
+      "for_players": "适合喜欢魂系动作、研究武器与角色能力组合，并愿意通过反复交战熟悉敌人节奏的玩家。紧凑开放世界也给主动探索留下了空间。",
+      "not_for_players": "如果你不喜欢失败后重新调整打法，排斥高压近战，或更希望由明确任务线持续引导，早期学习成本和探索压力可能会影响体验。",
+      "star_reason": "8 月 20 日正式发售后，《Mortal Shell II》的 Steam 峰值升至 33,846，比前一日的 23,375 增长约 45%；当日 4,286 条评价中 80% 为好评。重复摘星债务将基础结果乘以 0.80 后，模型仍以 30.55 分把它排在首位，因此连续第二天成为今日之星。",
+      "core_loop": [
+        "探索相互连接的区域，寻找新的 Shell、武器、升级资源和隐藏信息。",
+        "根据敌人和场景选择躯壳与武器，用闪避、招架和攻击节奏完成高风险交锋。",
+        "将获得的资源投入能力与武器成长，再进入更危险的区域检验当前构筑。"
+      ],
+      "content_length": 491
+    },
+    "secondary_labels": [
+      "豪华先行版本"
+    ]
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
