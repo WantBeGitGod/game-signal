@@ -1,0 +1,361 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-08-22",
+  "title": "08.22 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 50.12,
+    "fact_summary": "How to Fish 今日观测峰值 60,044，较过往最高峰值提升 +526%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 60044,
+      "previous_peak": 9594,
+      "previous_record_peak": 9594,
+      "growth_rate": 5.2585,
+      "record_growth_rate": 5.2585,
+      "scoring_peak": 60044,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 27.45,
+      "raw_record_growth_score": 35.0,
+      "growth_score_multiplier": 0.6477,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.1473,
+      "growth_scale_crossing_component": 0.5004,
+      "record_growth_score": 22.67,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 50.12,
+      "event_adjusted_score": 50.12,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 50.12,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 50.12,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 95.0,
+      "review_total": 4154,
+      "days_seen": 2,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 74,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "休闲",
+        "独立",
+        "模拟"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-20",
+      "release_event_age_days": 2,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 74,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-20",
+          "peak": 9594
+        },
+        {
+          "date": "2026-08-22",
+          "peak": 60044
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4001890"
+      }
+    ],
+    "game": {
+      "slug": "how-to-fish",
+      "appid": "4001890",
+      "name": "How to Fish",
+      "name_cn": null,
+      "description": "《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。",
+      "release_date": "2026-08-20",
+      "genres": [
+        "动作",
+        "休闲",
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "自定义音量控制",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 95.0,
+      "review_total": 4154,
+      "developer": "Dazed Games",
+      "publisher": "Dazed Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1787234618",
+      "steam_url": "https://store.steampowered.com/app/4001890",
+      "product_family_identity": "appid:4001890",
+      "product_family_appid": "4001890",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-20",
+          "peak": 9594
+        },
+        {
+          "date": "2026-08-22",
+          "peak": 60044
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《How to Fish》是一款支持 1 至 4 人合作的物理钓鱼模拟：玩家驾船撞上荒岛后，得靠捕到的鱼和一连串笨拙但可控的操作，把自己送回家。",
+      "reference_frame": "它把钓鱼做成了多人一起处理物体和意外的轻量合作游戏。鱼、鱼竿、船和岛上的地形都会参与互动；钓上来只是开始，怎么搬运、利用和不把场面弄得更乱，才是乐趣所在。",
+      "for_players": "适合想和朋友边沟通边制造笑料、喜欢物理互动带来临场变数的人。它的规则入口不高，但愿意配合搬运、驾驶和救场的队伍，更容易把混乱变成一次有记忆点的冒险。",
+      "not_for_players": "如果你希望钓鱼过程完全安静、精准且可预测，或不喜欢队友失误、碰撞和物件失控反复打断节奏，这种以意外为核心的合作体验可能会显得吵闹。",
+      "star_reason": "8 月 22 日，《How to Fish》的 Steam 观测峰值达到 60,044，较此前 9,594 的记录增长约 526%，模型以 50.12 分列第 1。发售两天内已有 4,154 条评价、95% 好评；这股新作起量不只来自首日露面，玩家反馈也在同步积累，值得今天先看一眼。",
+      "core_loop": [
+        "开船探索岛屿周边，找到可下钩的位置、鱼类和继续前进需要的路径。",
+        "抛竿收线，把挣扎的鱼和其他物件拉上船，再和队友一起处理失控的重量、位置与碰撞。",
+        "用新钓到的鱼和发现解开下一段路线，调整分工或操作方法，继续向回家目标推进。"
+      ],
+      "content_length": 514
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 50.12,
+    "fact_summary": "How to Fish 今日观测峰值 60,044，较过往最高峰值提升 +526%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 60044,
+      "previous_peak": 9594,
+      "previous_record_peak": 9594,
+      "growth_rate": 5.2585,
+      "record_growth_rate": 5.2585,
+      "scoring_peak": 60044,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 27.45,
+      "raw_record_growth_score": 35.0,
+      "growth_score_multiplier": 0.6477,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.1473,
+      "growth_scale_crossing_component": 0.5004,
+      "record_growth_score": 22.67,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 50.12,
+      "event_adjusted_score": 50.12,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 50.12,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 50.12,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 95.0,
+      "review_total": 4154,
+      "days_seen": 2,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 74,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "休闲",
+        "独立",
+        "模拟"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-20",
+      "release_event_age_days": 2,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 74,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-20",
+          "peak": 9594
+        },
+        {
+          "date": "2026-08-22",
+          "peak": 60044
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4001890"
+      }
+    ],
+    "game": {
+      "slug": "how-to-fish",
+      "appid": "4001890",
+      "name": "How to Fish",
+      "name_cn": null,
+      "description": "《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。",
+      "release_date": "2026-08-20",
+      "genres": [
+        "动作",
+        "休闲",
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "自定义音量控制",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 95.0,
+      "review_total": 4154,
+      "developer": "Dazed Games",
+      "publisher": "Dazed Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1787234618",
+      "steam_url": "https://store.steampowered.com/app/4001890",
+      "product_family_identity": "appid:4001890",
+      "product_family_appid": "4001890",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-20",
+          "peak": 9594
+        },
+        {
+          "date": "2026-08-22",
+          "peak": 60044
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《How to Fish》是一款支持 1 至 4 人合作的物理钓鱼模拟：玩家驾船撞上荒岛后，得靠捕到的鱼和一连串笨拙但可控的操作，把自己送回家。",
+      "reference_frame": "它把钓鱼做成了多人一起处理物体和意外的轻量合作游戏。鱼、鱼竿、船和岛上的地形都会参与互动；钓上来只是开始，怎么搬运、利用和不把场面弄得更乱，才是乐趣所在。",
+      "for_players": "适合想和朋友边沟通边制造笑料、喜欢物理互动带来临场变数的人。它的规则入口不高，但愿意配合搬运、驾驶和救场的队伍，更容易把混乱变成一次有记忆点的冒险。",
+      "not_for_players": "如果你希望钓鱼过程完全安静、精准且可预测，或不喜欢队友失误、碰撞和物件失控反复打断节奏，这种以意外为核心的合作体验可能会显得吵闹。",
+      "star_reason": "8 月 22 日，《How to Fish》的 Steam 观测峰值达到 60,044，较此前 9,594 的记录增长约 526%，模型以 50.12 分列第 1。发售两天内已有 4,154 条评价、95% 好评；这股新作起量不只来自首日露面，玩家反馈也在同步积累，值得今天先看一眼。",
+      "core_loop": [
+        "开船探索岛屿周边，找到可下钩的位置、鱼类和继续前进需要的路径。",
+        "抛竿收线，把挣扎的鱼和其他物件拉上船，再和队友一起处理失控的重量、位置与碰撞。",
+        "用新钓到的鱼和发现解开下一段路线，调整分工或操作方法，继续向回家目标推进。"
+      ],
+      "content_length": 514
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

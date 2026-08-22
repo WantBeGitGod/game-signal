@@ -1,7 +1,39 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-20T23:54:26",
+  "generated_at": "2026-08-22T19:44:48",
   "games": [
+    {
+      "game": {
+        "slug": "how-to-fish",
+        "appid": "4001890",
+        "name": "How to Fish",
+        "name_cn": null,
+        "description": "《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。",
+        "genres": [
+          "动作",
+          "休闲",
+          "独立",
+          "模拟"
+        ],
+        "developer": "Dazed Games",
+        "publisher": "Dazed Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1787234618",
+        "product_family_identity": "appid:4001890",
+        "product_family_appid": "4001890",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-08-22"
+      ],
+      "member_appids": [
+        "4001890"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-08-22"
+    },
     {
       "game": {
         "slug": "mortal-shell-ii",
