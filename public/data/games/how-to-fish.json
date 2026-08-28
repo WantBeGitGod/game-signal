@@ -29,7 +29,7 @@
   ],
   "review_score": "Very Positive",
   "review_ratio": 95.0,
-  "review_total": 4154,
+  "review_total": 32022,
   "developer": "Dazed Games",
   "publisher": "Dazed Games",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1787234618",
@@ -43,8 +43,20 @@
       "peak": 9594
     },
     {
+      "date": "2026-08-21",
+      "peak": 37613
+    },
+    {
       "date": "2026-08-22",
       "peak": 60044
+    },
+    {
+      "date": "2026-08-23",
+      "peak": 268101
+    },
+    {
+      "date": "2026-08-24",
+      "peak": 341691
     }
   ]
 }

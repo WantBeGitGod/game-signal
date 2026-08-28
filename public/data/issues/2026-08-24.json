@@ -10,66 +10,66 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 19.74,
-    "fact_summary": "Call of Duty®: Modern Warfare® 4 - Beta 今日观测峰值 45,307，未超过过往最高峰值 115,145，被识别为「新作起量」。",
+    "score": 31.22,
+    "fact_summary": "How to Fish 今日观测峰值 341,691，较过往最高峰值提升 +27%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 45307,
-      "previous_peak": 115145,
-      "previous_record_peak": 115145,
-      "growth_rate": -0.6065,
-      "record_growth_rate": -0.6065,
-      "scoring_peak": 45307,
+      "current_peak": 341691,
+      "previous_peak": 268101,
+      "previous_record_peak": 268101,
+      "growth_rate": 0.2745,
+      "record_growth_rate": 0.2745,
+      "scoring_peak": 341691,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 24.67,
-      "raw_record_growth_score": 0.0,
+      "peak_score": 35.0,
+      "raw_record_growth_score": 9.61,
       "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 21.2134,
-      "growth_scale_crossing_component": 0.3531,
-      "record_growth_score": 0.0,
+      "growth_scale_base_component": 115.005,
+      "growth_scale_crossing_component": 3.3169,
+      "record_growth_score": 9.61,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 24.67,
-      "event_adjusted_score": 24.67,
+      "score_before_multiplier": 44.61,
+      "event_adjusted_score": 44.61,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 24.67,
+      "review_adjusted_score": 44.61,
       "review_penalty_reason": null,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.8,
-      "base_score": 19.74,
-      "score_multiplier": 0.8,
+      "combined_score_multiplier": 0.7,
+      "base_score": 31.22,
+      "score_multiplier": 0.7,
       "score_multiplier_reasons": [
-        "repeat_window_star_1x"
+        "repeat_window_star_2x"
       ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "repeat_window_star_count": 2,
+      "app_repeat_window_star_count": 2,
+      "app_prior_total_star_count": 2,
+      "family_repeat_window_star_count": 2,
+      "family_prior_total_star_count": 2,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
+      "prior_total_star_count": 2,
+      "total_star_count": 3,
+      "star_appearance_count": 3,
+      "cumulative_star_count": 2,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": null,
       "review_total": 0,
-      "days_seen": 4,
+      "days_seen": 5,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 3,
-      "steam_release_age_days": 3,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
       "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 2705,
+        "initial_review_total": 74,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -78,193 +78,199 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作"
+        "动作",
+        "休闲",
+        "独立",
+        "模拟"
       ],
       "scoring_version": "release_event_v2",
       "release_event_type": "true_new",
-      "release_event_date": "2026-08-21",
-      "release_event_age_days": 3,
+      "release_event_date": "2026-08-20",
+      "release_event_age_days": 4,
       "release_event_window_days": 30,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 2705,
+        "initial_review_total": 74,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
       "trend": [
         {
+          "date": "2026-08-20",
+          "peak": 9594
+        },
+        {
           "date": "2026-08-21",
-          "peak": 115145
+          "peak": 37613
         },
         {
           "date": "2026-08-22",
-          "peak": 115145
+          "peak": 60044
         },
         {
           "date": "2026-08-23",
-          "peak": 51107
+          "peak": 268101
         },
         {
           "date": "2026-08-24",
-          "peak": 45307
+          "peak": 341691
         }
       ]
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 3,
+      "prior_count": 2,
+      "repeat_window_prior_count": 2
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4783780"
+        "url": "https://store.steampowered.com/app/4001890"
       }
     ],
     "game": {
-      "slug": "call-of-duty-modern-warfare-4-beta",
-      "appid": "4783780",
-      "name": "Call of Duty®: Modern Warfare® 4 - Beta",
+      "slug": "how-to-fish",
+      "appid": "4001890",
+      "name": "How to Fish",
       "name_cn": null,
-      "description": "在《现代战争® 4》试玩中，每一场战斗都真实而精准，让你尽情体验以灵活的机动走位、丰富的玩家选择与更强的掌控力为核心打造的战场。",
-      "release_date": "2026-08-21",
+      "description": "《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。",
+      "release_date": "2026-08-20",
       "genres": [
-        "动作"
+        "动作",
+        "休闲",
+        "独立",
+        "模拟"
       ],
       "tags": [
         "单人",
         "多人",
-        "玩家对战",
-        "线上玩家对战",
-        "跨平台多人",
-        "可调整文字大小",
-        "视角舒适度",
-        "可选颜色",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
         "自定义音量控制",
-        "可调整难度",
-        "#category_playable_at_your_own_pace",
-        "无需应对快速反应事件",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
         "DualSense 控制器支持",
         "随时保存",
         "立体声",
-        "字幕选项",
-        "环绕声",
-        "部分支持控制器",
-        "Steam 云"
+        "家庭共享"
       ],
-      "review_score": "Mostly Negative",
-      "review_ratio": 39.0,
-      "review_total": 9986,
-      "developer": "Infinity Ward, Beenox, Digital Legends, Activision Shanghai, Raven Software, Treyarch, Sledgehammer Games, High Moon Studios",
-      "publisher": "Activision",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783780/8c72205bfdf522bada8431d2aacbd1b6c66fac4c/header.jpg?t=1787684232",
-      "steam_url": "https://store.steampowered.com/app/4783780",
-      "product_family_identity": "appid:4783780",
-      "product_family_appid": "4783780",
+      "review_score": "Very Positive",
+      "review_ratio": 95.0,
+      "review_total": 32022,
+      "developer": "Dazed Games",
+      "publisher": "Dazed Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1787234618",
+      "steam_url": "https://store.steampowered.com/app/4001890",
+      "product_family_identity": "appid:4001890",
+      "product_family_appid": "4001890",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-08-20",
+          "peak": 9594
+        },
+        {
           "date": "2026-08-21",
-          "peak": 115145
+          "peak": 37613
         },
         {
           "date": "2026-08-22",
-          "peak": 115145
+          "peak": 60044
         },
         {
           "date": "2026-08-23",
-          "peak": 51107
+          "peak": 268101
         },
         {
           "date": "2026-08-24",
-          "peak": 45307
+          "peak": 341691
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Call of Duty®: Modern Warfare® 4 - Beta》是《现代战争 4》的公开试玩节点，用多人战场先交出这代作品的移动、射击和交战节奏，让玩家在正式发售前直接检验手感。",
-      "reference_frame": "它仍以小队枪战的读图、架枪和争夺目标为骨架，但试玩介绍把“灵活机动、玩家选择与掌控力”放在前面。判断它是否适合你，关键在于移动能否服务枪线和临场决策，而不只是动作数量变多。",
-      "for_players": "适合熟悉快节奏多人 FPS、愿意反复练枪并通过读图和走位提高稳定性的人。试玩节点也适合想先确认网络、性能、移动系统和武器手感，再决定是否关注正式版的系列玩家。",
-      "not_for_players": "如果你更想要长线单人叙事、低压力合作，或不喜欢频繁重生、快速遭遇和版本初期不断调整配置，这次以多人竞技验证为主的 Beta 很难提供完整产品体验。",
-      "star_reason": "8 月 24 日，该 Beta 的 Steam 观测峰值为 45,307，模型以 19.74 分列第 2。第 1 名《How to Fish》因此前连续摘星仍在编辑冷却，本作成为当天排名最高的可公开候选。这是它 30 日窗口内第 2 次摘星；SteamDB 月线无法取得，因此按证据降级规则保留原提案，不据此判断后续留存。",
+      "positioning": "《How to Fish》是一款支持 1 至 4 人合作的物理钓鱼模拟：玩家驾船撞上荒岛后，得靠捕到的鱼和一连串笨拙但可控的操作，把自己送回家。",
+      "reference_frame": "它把钓鱼做成了多人一起处理物体和意外的轻量合作游戏。鱼、鱼竿、船和岛上的地形都会参与互动；钓上来只是开始，怎么搬运、利用和不把场面弄得更乱，才是乐趣所在。",
+      "for_players": "适合想和朋友边沟通边制造笑料、喜欢物理互动带来临场变数的人。它的规则入口不高，但愿意配合搬运、驾驶和救场的队伍，更容易把混乱变成一次有记忆点的冒险。",
+      "not_for_players": "如果你希望钓鱼过程完全安静、精准且可预测，或不喜欢队友失误、碰撞和物件失控反复打断节奏，这种以意外为核心的合作体验可能会显得吵闹。",
+      "star_reason": "8 月 24 日，《How to Fish》的 Steam 观测峰值达到 341,691，较此前 268,101 的记录继续提升约 27%，模型以 31.22 分列第 1。它已在 8 月 21、22 日连续摘星，并于 23 日按超级爆发规则避让一期；24 日热度仍然领先，因此取得四天内第三次、也是 30 天窗口内最后一次今日之星。",
       "core_loop": [
-        "进入多人对局，根据模式目标和出生位置快速判断第一条推进路线。",
-        "用移动、掩体和武器配置争夺有利枪线，在交火后根据敌方位置及时换点。",
-        "从死亡与回合变化里修正路线、交战距离和装备选择，再投入下一轮目标争夺。"
+        "开船探索岛屿周边，找到可下钩的位置、鱼类和继续前进需要的路径。",
+        "抛竿收线，把挣扎的鱼和其他物件拉上船，再和队友一起处理失控的重量、位置与碰撞。",
+        "用新钓到的鱼和发现解开下一段路线，调整分工或操作方法，继续向回家目标推进。"
       ],
-      "content_length": 564
+      "content_length": 532
     }
   },
   "main_signal": {
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 19.74,
-    "fact_summary": "Call of Duty®: Modern Warfare® 4 - Beta 今日观测峰值 45,307，未超过过往最高峰值 115,145，被识别为「新作起量」。",
+    "score": 31.22,
+    "fact_summary": "How to Fish 今日观测峰值 341,691，较过往最高峰值提升 +27%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 45307,
-      "previous_peak": 115145,
-      "previous_record_peak": 115145,
-      "growth_rate": -0.6065,
-      "record_growth_rate": -0.6065,
-      "scoring_peak": 45307,
+      "current_peak": 341691,
+      "previous_peak": 268101,
+      "previous_record_peak": 268101,
+      "growth_rate": 0.2745,
+      "record_growth_rate": 0.2745,
+      "scoring_peak": 341691,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 24.67,
-      "raw_record_growth_score": 0.0,
+      "peak_score": 35.0,
+      "raw_record_growth_score": 9.61,
       "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 21.2134,
-      "growth_scale_crossing_component": 0.3531,
-      "record_growth_score": 0.0,
+      "growth_scale_base_component": 115.005,
+      "growth_scale_crossing_component": 3.3169,
+      "record_growth_score": 9.61,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 24.67,
-      "event_adjusted_score": 24.67,
+      "score_before_multiplier": 44.61,
+      "event_adjusted_score": 44.61,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 24.67,
+      "review_adjusted_score": 44.61,
       "review_penalty_reason": null,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.8,
-      "base_score": 19.74,
-      "score_multiplier": 0.8,
+      "combined_score_multiplier": 0.7,
+      "base_score": 31.22,
+      "score_multiplier": 0.7,
       "score_multiplier_reasons": [
-        "repeat_window_star_1x"
+        "repeat_window_star_2x"
       ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "repeat_window_star_count": 2,
+      "app_repeat_window_star_count": 2,
+      "app_prior_total_star_count": 2,
+      "family_repeat_window_star_count": 2,
+      "family_prior_total_star_count": 2,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
+      "prior_total_star_count": 2,
+      "total_star_count": 3,
+      "star_appearance_count": 3,
+      "cumulative_star_count": 2,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": null,
       "review_total": 0,
-      "days_seen": 4,
+      "days_seen": 5,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 3,
-      "steam_release_age_days": 3,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
       "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 2705,
+        "initial_review_total": 74,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -273,127 +279,133 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作"
+        "动作",
+        "休闲",
+        "独立",
+        "模拟"
       ],
       "scoring_version": "release_event_v2",
       "release_event_type": "true_new",
-      "release_event_date": "2026-08-21",
-      "release_event_age_days": 3,
+      "release_event_date": "2026-08-20",
+      "release_event_age_days": 4,
       "release_event_window_days": 30,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 2705,
+        "initial_review_total": 74,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
       "trend": [
         {
+          "date": "2026-08-20",
+          "peak": 9594
+        },
+        {
           "date": "2026-08-21",
-          "peak": 115145
+          "peak": 37613
         },
         {
           "date": "2026-08-22",
-          "peak": 115145
+          "peak": 60044
         },
         {
           "date": "2026-08-23",
-          "peak": 51107
+          "peak": 268101
         },
         {
           "date": "2026-08-24",
-          "peak": 45307
+          "peak": 341691
         }
       ]
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 3,
+      "prior_count": 2,
+      "repeat_window_prior_count": 2
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4783780"
+        "url": "https://store.steampowered.com/app/4001890"
       }
     ],
     "game": {
-      "slug": "call-of-duty-modern-warfare-4-beta",
-      "appid": "4783780",
-      "name": "Call of Duty®: Modern Warfare® 4 - Beta",
+      "slug": "how-to-fish",
+      "appid": "4001890",
+      "name": "How to Fish",
       "name_cn": null,
-      "description": "在《现代战争® 4》试玩中，每一场战斗都真实而精准，让你尽情体验以灵活的机动走位、丰富的玩家选择与更强的掌控力为核心打造的战场。",
-      "release_date": "2026-08-21",
+      "description": "《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。",
+      "release_date": "2026-08-20",
       "genres": [
-        "动作"
+        "动作",
+        "休闲",
+        "独立",
+        "模拟"
       ],
       "tags": [
         "单人",
         "多人",
-        "玩家对战",
-        "线上玩家对战",
-        "跨平台多人",
-        "可调整文字大小",
-        "视角舒适度",
-        "可选颜色",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
         "自定义音量控制",
-        "可调整难度",
-        "#category_playable_at_your_own_pace",
-        "无需应对快速反应事件",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
         "DualSense 控制器支持",
         "随时保存",
         "立体声",
-        "字幕选项",
-        "环绕声",
-        "部分支持控制器",
-        "Steam 云"
+        "家庭共享"
       ],
-      "review_score": "Mostly Negative",
-      "review_ratio": 39.0,
-      "review_total": 9986,
-      "developer": "Infinity Ward, Beenox, Digital Legends, Activision Shanghai, Raven Software, Treyarch, Sledgehammer Games, High Moon Studios",
-      "publisher": "Activision",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783780/8c72205bfdf522bada8431d2aacbd1b6c66fac4c/header.jpg?t=1787684232",
-      "steam_url": "https://store.steampowered.com/app/4783780",
-      "product_family_identity": "appid:4783780",
-      "product_family_appid": "4783780",
+      "review_score": "Very Positive",
+      "review_ratio": 95.0,
+      "review_total": 32022,
+      "developer": "Dazed Games",
+      "publisher": "Dazed Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1787234618",
+      "steam_url": "https://store.steampowered.com/app/4001890",
+      "product_family_identity": "appid:4001890",
+      "product_family_appid": "4001890",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-08-20",
+          "peak": 9594
+        },
+        {
           "date": "2026-08-21",
-          "peak": 115145
+          "peak": 37613
         },
         {
           "date": "2026-08-22",
-          "peak": 115145
+          "peak": 60044
         },
         {
           "date": "2026-08-23",
-          "peak": 51107
+          "peak": 268101
         },
         {
           "date": "2026-08-24",
-          "peak": 45307
+          "peak": 341691
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Call of Duty®: Modern Warfare® 4 - Beta》是《现代战争 4》的公开试玩节点，用多人战场先交出这代作品的移动、射击和交战节奏，让玩家在正式发售前直接检验手感。",
-      "reference_frame": "它仍以小队枪战的读图、架枪和争夺目标为骨架，但试玩介绍把“灵活机动、玩家选择与掌控力”放在前面。判断它是否适合你，关键在于移动能否服务枪线和临场决策，而不只是动作数量变多。",
-      "for_players": "适合熟悉快节奏多人 FPS、愿意反复练枪并通过读图和走位提高稳定性的人。试玩节点也适合想先确认网络、性能、移动系统和武器手感，再决定是否关注正式版的系列玩家。",
-      "not_for_players": "如果你更想要长线单人叙事、低压力合作，或不喜欢频繁重生、快速遭遇和版本初期不断调整配置，这次以多人竞技验证为主的 Beta 很难提供完整产品体验。",
-      "star_reason": "8 月 24 日，该 Beta 的 Steam 观测峰值为 45,307，模型以 19.74 分列第 2。第 1 名《How to Fish》因此前连续摘星仍在编辑冷却，本作成为当天排名最高的可公开候选。这是它 30 日窗口内第 2 次摘星；SteamDB 月线无法取得，因此按证据降级规则保留原提案，不据此判断后续留存。",
+      "positioning": "《How to Fish》是一款支持 1 至 4 人合作的物理钓鱼模拟：玩家驾船撞上荒岛后，得靠捕到的鱼和一连串笨拙但可控的操作，把自己送回家。",
+      "reference_frame": "它把钓鱼做成了多人一起处理物体和意外的轻量合作游戏。鱼、鱼竿、船和岛上的地形都会参与互动；钓上来只是开始，怎么搬运、利用和不把场面弄得更乱，才是乐趣所在。",
+      "for_players": "适合想和朋友边沟通边制造笑料、喜欢物理互动带来临场变数的人。它的规则入口不高，但愿意配合搬运、驾驶和救场的队伍，更容易把混乱变成一次有记忆点的冒险。",
+      "not_for_players": "如果你希望钓鱼过程完全安静、精准且可预测，或不喜欢队友失误、碰撞和物件失控反复打断节奏，这种以意外为核心的合作体验可能会显得吵闹。",
+      "star_reason": "8 月 24 日，《How to Fish》的 Steam 观测峰值达到 341,691，较此前 268,101 的记录继续提升约 27%，模型以 31.22 分列第 1。它已在 8 月 21、22 日连续摘星，并于 23 日按超级爆发规则避让一期；24 日热度仍然领先，因此取得四天内第三次、也是 30 天窗口内最后一次今日之星。",
       "core_loop": [
-        "进入多人对局，根据模式目标和出生位置快速判断第一条推进路线。",
-        "用移动、掩体和武器配置争夺有利枪线，在交火后根据敌方位置及时换点。",
-        "从死亡与回合变化里修正路线、交战距离和装备选择，再投入下一轮目标争夺。"
+        "开船探索岛屿周边，找到可下钩的位置、鱼类和继续前进需要的路径。",
+        "抛竿收线，把挣扎的鱼和其他物件拉上船，再和队友一起处理失控的重量、位置与碰撞。",
+        "用新钓到的鱼和发现解开下一段路线，调整分工或操作方法，继续向回家目标推进。"
       ],
-      "content_length": 564
+      "content_length": 532
     }
   },
   "secondary_signals": [],
