@@ -1,0 +1,421 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-08-26",
+  "title": "08.26 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "content_update_comeback",
+    "label": "重大更新回流",
+    "score": 15.97,
+    "fact_summary": "S.T.A.L.K.E.R. 2: Heart of Chornobyl 今日观测峰值 35,496，未超过过往最高峰值 40,976，被识别为「重大更新回流」。",
+    "metrics": {
+      "current_peak": 35496,
+      "previous_peak": 40976,
+      "previous_record_peak": 40976,
+      "growth_rate": -0.1337,
+      "record_growth_rate": -0.1337,
+      "scoring_peak": 35496,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 22.82,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 2.6865,
+      "growth_scale_crossing_component": 0.255,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 22.82,
+      "event_adjusted_score": 15.97,
+      "event_multiplier": 0.7,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 15.97,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.7,
+      "base_score": 15.97,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 1,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 6,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 6,
+      "steam_release_age_days": 644,
+      "release_age_basis": "official_major_update",
+      "release_verification_required": false,
+      "release_verification": {
+        "title": "S.T.A.L.K.E.R. 2: Cost of Hope is out now with a big free upgrade",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1841579228665774",
+        "date": 1787235196,
+        "contents": "S.T.A.L.K.E.R. 2: Cost of Hope is the first major expansion for the open-world shooter, bringing with it a huge free upgrade for all owners. Read the full article here: https://www.gamingonlinux.com/2026/08/s-t-a-l-k-e-r-2-cost-of-hope-is-out-now-with-a-big-free-upgrade/ "
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": true,
+      "comeback_reason": "content_update",
+      "comeback_evidence": {
+        "title": "S.T.A.L.K.E.R. 2: Cost of Hope is out now with a big free upgrade",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1841579228665774",
+        "date": 1787235196,
+        "contents": "S.T.A.L.K.E.R. 2: Cost of Hope is the first major expansion for the open-world shooter, bringing with it a huge free upgrade for all owners. Read the full article here: https://www.gamingonlinux.com/2026/08/s-t-a-l-k-e-r-2-cost-of-hope-is-out-now-with-a-big-free-upgrade/ "
+      },
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "major_update",
+      "release_event_date": "2026-08-20",
+      "release_event_age_days": 6,
+      "release_event_window_days": 14,
+      "release_event_multiplier": 0.7,
+      "release_event_evidence": {
+        "title": "S.T.A.L.K.E.R. 2: Cost of Hope is out now with a big free upgrade",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1841579228665774",
+        "date": 1787235196,
+        "contents": "S.T.A.L.K.E.R. 2: Cost of Hope is the first major expansion for the open-world shooter, bringing with it a huge free upgrade for all owners. Read the full article here: https://www.gamingonlinux.com/2026/08/s-t-a-l-k-e-r-2-cost-of-hope-is-out-now-with-a-big-free-upgrade/ "
+      },
+      "release_event_date_basis": "official_major_update",
+      "trend": [
+        {
+          "date": "2026-08-21",
+          "peak": 30710
+        },
+        {
+          "date": "2026-08-22",
+          "peak": 26474
+        },
+        {
+          "date": "2026-08-23",
+          "peak": 40976
+        },
+        {
+          "date": "2026-08-24",
+          "peak": 38432
+        },
+        {
+          "date": "2026-08-25",
+          "peak": 15135
+        },
+        {
+          "date": "2026-08-26",
+          "peak": 35496
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1643320"
+      }
+    ],
+    "game": {
+      "slug": "s-t-a-l-k-e-r-2-heart-of-chornobyl",
+      "appid": "1643320",
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "name_cn": null,
+      "description": "前往广阔无垠的切尔诺贝利封锁区，与大量危险的敌人正面交锋，探寻众多致命的异常现象和强力的神器。揭开属于你的史诗篇章，闯入切尔诺贝利的核心地带。明智地选择你的发展轨迹，你的每次选择都将决定自身命运，并最终定格人类的未来。",
+      "release_date": "2024-11-20",
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 集换式卡牌",
+        "Steam 创意工坊",
+        "DualSense 控制器支持",
+        "部分支持控制器",
+        "Steam 云",
+        "可用 HDR",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 80.0,
+      "review_total": 138185,
+      "developer": "GSC Game World",
+      "publisher": "GSC Game World (worldwide), SEGA (Japan), 4Divinity (China and South East Asia)",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1643320/d0061f5e4af61d46de2d2e0d672c4e3a2fe80423/header_alt_assets_7_schinese.jpg?t=1787898745",
+      "steam_url": "https://store.steampowered.com/app/1643320",
+      "product_family_identity": "appid:1643320",
+      "product_family_appid": "1643320",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-21",
+          "peak": 30710
+        },
+        {
+          "date": "2026-08-22",
+          "peak": 26474
+        },
+        {
+          "date": "2026-08-23",
+          "peak": 40976
+        },
+        {
+          "date": "2026-08-24",
+          "peak": 38432
+        },
+        {
+          "date": "2026-08-25",
+          "peak": 15135
+        },
+        {
+          "date": "2026-08-26",
+          "peak": 35496
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《S.T.A.L.K.E.R. 2: Heart of Chornobyl》是开放世界生存射击游戏：玩家进入切尔诺贝利封锁区，在派系冲突、异常现象与资源压力之间探索，并用自己的选择推动故事。8 月 20 日上线的“Back to the Zone”2.0 更新与首个大型扩展，让这次回流有了明确内容节点。",
+      "reference_frame": "它不是一路清图的爽快射击，更接近“危险远征”：地图信息、弹药、负重、神器收益和撤离路线共同决定一次探索是否值得继续。2.0 更新强调环境、A-Life 与大量修复。",
+      "for_players": "适合喜欢高压探索、资源取舍、沉浸式世界和非线性任务的单人玩家，也适合曾因早期技术问题离开、想借 2.0 更新重新确认完成度的人。",
+      "not_for_players": "如果你要求稳定连续的强反馈、不想承受长距离移动与突发损失，或只期待线性关卡式枪战，这套强调不确定性和准备成本的节奏仍可能显得拖沓。",
+      "star_reason": "8 月 26 日，本作的 Steam 观测峰值为 35,496，模型以 15.97 分列第 2，并识别为“重大更新回流”。第 1 名《How to Fish》仍在编辑冷却，本作因此成为当天排名最高的可公开候选；这是它在 30 日窗口内首次摘星，按规则自动通过，无需借助不可用的 SteamDB 月线作二次筛选。",
+      "core_loop": [
+        "从据点整理武器、补给和任务，选择下一片准备进入的区域。",
+        "在开放区域搜索线索与资源，辨认异常、敌对单位和可利用的安全路线。",
+        "交战或绕行后带着战利品返回，把资源换成装备成长，再推进新的任务与选择。"
+      ],
+      "content_length": 580
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "content_update_comeback",
+    "label": "重大更新回流",
+    "score": 15.97,
+    "fact_summary": "S.T.A.L.K.E.R. 2: Heart of Chornobyl 今日观测峰值 35,496，未超过过往最高峰值 40,976，被识别为「重大更新回流」。",
+    "metrics": {
+      "current_peak": 35496,
+      "previous_peak": 40976,
+      "previous_record_peak": 40976,
+      "growth_rate": -0.1337,
+      "record_growth_rate": -0.1337,
+      "scoring_peak": 35496,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 22.82,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 2.6865,
+      "growth_scale_crossing_component": 0.255,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 22.82,
+      "event_adjusted_score": 15.97,
+      "event_multiplier": 0.7,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 15.97,
+      "review_penalty_reason": null,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.7,
+      "base_score": 15.97,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 1,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 6,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 6,
+      "steam_release_age_days": 644,
+      "release_age_basis": "official_major_update",
+      "release_verification_required": false,
+      "release_verification": {
+        "title": "S.T.A.L.K.E.R. 2: Cost of Hope is out now with a big free upgrade",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1841579228665774",
+        "date": 1787235196,
+        "contents": "S.T.A.L.K.E.R. 2: Cost of Hope is the first major expansion for the open-world shooter, bringing with it a huge free upgrade for all owners. Read the full article here: https://www.gamingonlinux.com/2026/08/s-t-a-l-k-e-r-2-cost-of-hope-is-out-now-with-a-big-free-upgrade/ "
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": true,
+      "comeback_reason": "content_update",
+      "comeback_evidence": {
+        "title": "S.T.A.L.K.E.R. 2: Cost of Hope is out now with a big free upgrade",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1841579228665774",
+        "date": 1787235196,
+        "contents": "S.T.A.L.K.E.R. 2: Cost of Hope is the first major expansion for the open-world shooter, bringing with it a huge free upgrade for all owners. Read the full article here: https://www.gamingonlinux.com/2026/08/s-t-a-l-k-e-r-2-cost-of-hope-is-out-now-with-a-big-free-upgrade/ "
+      },
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "major_update",
+      "release_event_date": "2026-08-20",
+      "release_event_age_days": 6,
+      "release_event_window_days": 14,
+      "release_event_multiplier": 0.7,
+      "release_event_evidence": {
+        "title": "S.T.A.L.K.E.R. 2: Cost of Hope is out now with a big free upgrade",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1841579228665774",
+        "date": 1787235196,
+        "contents": "S.T.A.L.K.E.R. 2: Cost of Hope is the first major expansion for the open-world shooter, bringing with it a huge free upgrade for all owners. Read the full article here: https://www.gamingonlinux.com/2026/08/s-t-a-l-k-e-r-2-cost-of-hope-is-out-now-with-a-big-free-upgrade/ "
+      },
+      "release_event_date_basis": "official_major_update",
+      "trend": [
+        {
+          "date": "2026-08-21",
+          "peak": 30710
+        },
+        {
+          "date": "2026-08-22",
+          "peak": 26474
+        },
+        {
+          "date": "2026-08-23",
+          "peak": 40976
+        },
+        {
+          "date": "2026-08-24",
+          "peak": 38432
+        },
+        {
+          "date": "2026-08-25",
+          "peak": 15135
+        },
+        {
+          "date": "2026-08-26",
+          "peak": 35496
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1643320"
+      }
+    ],
+    "game": {
+      "slug": "s-t-a-l-k-e-r-2-heart-of-chornobyl",
+      "appid": "1643320",
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "name_cn": null,
+      "description": "前往广阔无垠的切尔诺贝利封锁区，与大量危险的敌人正面交锋，探寻众多致命的异常现象和强力的神器。揭开属于你的史诗篇章，闯入切尔诺贝利的核心地带。明智地选择你的发展轨迹，你的每次选择都将决定自身命运，并最终定格人类的未来。",
+      "release_date": "2024-11-20",
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 集换式卡牌",
+        "Steam 创意工坊",
+        "DualSense 控制器支持",
+        "部分支持控制器",
+        "Steam 云",
+        "可用 HDR",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 80.0,
+      "review_total": 138185,
+      "developer": "GSC Game World",
+      "publisher": "GSC Game World (worldwide), SEGA (Japan), 4Divinity (China and South East Asia)",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1643320/d0061f5e4af61d46de2d2e0d672c4e3a2fe80423/header_alt_assets_7_schinese.jpg?t=1787898745",
+      "steam_url": "https://store.steampowered.com/app/1643320",
+      "product_family_identity": "appid:1643320",
+      "product_family_appid": "1643320",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-21",
+          "peak": 30710
+        },
+        {
+          "date": "2026-08-22",
+          "peak": 26474
+        },
+        {
+          "date": "2026-08-23",
+          "peak": 40976
+        },
+        {
+          "date": "2026-08-24",
+          "peak": 38432
+        },
+        {
+          "date": "2026-08-25",
+          "peak": 15135
+        },
+        {
+          "date": "2026-08-26",
+          "peak": 35496
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《S.T.A.L.K.E.R. 2: Heart of Chornobyl》是开放世界生存射击游戏：玩家进入切尔诺贝利封锁区，在派系冲突、异常现象与资源压力之间探索，并用自己的选择推动故事。8 月 20 日上线的“Back to the Zone”2.0 更新与首个大型扩展，让这次回流有了明确内容节点。",
+      "reference_frame": "它不是一路清图的爽快射击，更接近“危险远征”：地图信息、弹药、负重、神器收益和撤离路线共同决定一次探索是否值得继续。2.0 更新强调环境、A-Life 与大量修复。",
+      "for_players": "适合喜欢高压探索、资源取舍、沉浸式世界和非线性任务的单人玩家，也适合曾因早期技术问题离开、想借 2.0 更新重新确认完成度的人。",
+      "not_for_players": "如果你要求稳定连续的强反馈、不想承受长距离移动与突发损失，或只期待线性关卡式枪战，这套强调不确定性和准备成本的节奏仍可能显得拖沓。",
+      "star_reason": "8 月 26 日，本作的 Steam 观测峰值为 35,496，模型以 15.97 分列第 2，并识别为“重大更新回流”。第 1 名《How to Fish》仍在编辑冷却，本作因此成为当天排名最高的可公开候选；这是它在 30 日窗口内首次摘星，按规则自动通过，无需借助不可用的 SteamDB 月线作二次筛选。",
+      "core_loop": [
+        "从据点整理武器、补给和任务，选择下一片准备进入的区域。",
+        "在开放区域搜索线索与资源，辨认异常、敌对单位和可利用的安全路线。",
+        "交战或绕行后带着战利品返回，把资源换成装备成长，再推进新的任务与选择。"
+      ],
+      "content_length": 580
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

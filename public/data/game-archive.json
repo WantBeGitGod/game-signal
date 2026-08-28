@@ -1,7 +1,38 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-28T17:14:55",
+  "generated_at": "2026-08-28T17:16:28",
   "games": [
+    {
+      "game": {
+        "slug": "s-t-a-l-k-e-r-2-heart-of-chornobyl",
+        "appid": "1643320",
+        "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+        "name_cn": null,
+        "description": "前往广阔无垠的切尔诺贝利封锁区，与大量危险的敌人正面交锋，探寻众多致命的异常现象和强力的神器。揭开属于你的史诗篇章，闯入切尔诺贝利的核心地带。明智地选择你的发展轨迹，你的每次选择都将决定自身命运，并最终定格人类的未来。",
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "developer": "GSC Game World",
+        "publisher": "GSC Game World (worldwide), SEGA (Japan), 4Divinity (China and South East Asia)",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1643320/d0061f5e4af61d46de2d2e0d672c4e3a2fe80423/header_alt_assets_7_schinese.jpg?t=1787898745",
+        "product_family_identity": "appid:1643320",
+        "product_family_appid": "1643320",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-08-26"
+      ],
+      "member_appids": [
+        "1643320"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-08-26"
+    },
     {
       "game": {
         "slug": "call-of-duty-modern-warfare-4-beta",
