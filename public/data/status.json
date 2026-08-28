@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-08-28T23:44:52",
+  "generated_at": "2026-08-28T23:52:51",
   "data_state": "live",
-  "latest_collection_at": "2026-08-27 02:15:40",
-  "latest_live_collection_at": "2026-08-27 02:15:40",
-  "latest_issue_date": "2026-08-27",
-  "latest_publish_at": "2026-08-28 23:44:52",
+  "latest_collection_at": "2026-08-28 23:39:01",
+  "latest_live_collection_at": "2026-08-28 23:39:01",
+  "latest_issue_date": "2026-08-28",
+  "latest_publish_at": "2026-08-28 23:52:51",
   "latest_publish_status": "completed",
-  "continuous_live_days": 30,
+  "continuous_live_days": 31,
   "is_delayed": false,
   "collection_window": null
 }
