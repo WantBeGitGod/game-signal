@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-28T17:13:04",
+  "generated_at": "2026-08-28T17:14:55",
   "games": [
     {
       "game": {
@@ -23,6 +23,7 @@
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
+        "2026-08-25",
         "2026-08-24",
         "2026-08-23"
       ],
@@ -30,7 +31,7 @@
         "4783780"
       ],
       "article_count": 0,
-      "latest_star_date": "2026-08-24"
+      "latest_star_date": "2026-08-25"
     },
     {
       "game": {
