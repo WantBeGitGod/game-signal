@@ -8,342 +8,402 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "release_event_rise",
-    "label": "发行节点起量",
-    "score": 17.34,
-    "fact_summary": "Big Ambitions 今日观测峰值 12,196，较过往最高峰值提升 +39%，被识别为「发行节点起量」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 19.32,
+    "fact_summary": "STAR WARS Zero Company™ 今日观测峰值 77,744，较过往最高峰值提升 +4%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 12196,
-      "previous_peak": 8752,
-      "previous_record_peak": 8752,
-      "growth_rate": 0.3935,
-      "record_growth_rate": 0.3935,
-      "scoring_peak": 12196,
+      "current_peak": 77744,
+      "previous_peak": 74755,
+      "previous_record_peak": 74755,
+      "growth_rate": 0.04,
+      "record_growth_rate": 0.04,
+      "scoring_peak": 77744,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 18.41,
-      "raw_record_growth_score": 13.77,
-      "growth_score_multiplier": 0.1445,
+      "peak_score": 30.8,
+      "raw_record_growth_score": 1.4,
+      "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.1226,
-      "growth_scale_crossing_component": 0.022,
-      "record_growth_score": 1.99,
+      "growth_scale_base_component": 8.9413,
+      "growth_scale_crossing_component": 0.6774,
+      "record_growth_score": 1.4,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 20.41,
-      "event_adjusted_score": 17.34,
-      "event_multiplier": 0.85,
+      "score_before_multiplier": 32.2,
+      "event_adjusted_score": 32.2,
+      "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 17.34,
+      "review_adjusted_score": 32.2,
       "review_penalty_reason": null,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.85,
-      "base_score": 17.34,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 0.6,
+      "base_score": 19.32,
+      "score_multiplier": 0.6,
+      "score_multiplier_reasons": [
+        "repeat_window_star_3x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 3,
+      "app_prior_total_star_count": 3,
+      "family_repeat_window_star_count": 3,
+      "family_prior_total_star_count": 3,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
-      "repeat_window_limit_reached": false,
+      "repeat_window_limit_reached": true,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 92.0,
-      "review_total": 13768,
-      "days_seen": 3,
+      "review_ratio": 78.0,
+      "review_total": 9715,
+      "days_seen": 4,
       "comeback_gap_days": 1,
-      "is_new_release": false,
-      "release_age_days": 3,
-      "steam_release_age_days": 3,
-      "release_age_basis": "actual_open_date",
-      "release_verification_required": true,
+      "is_new_release": true,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 13583,
+        "initial_review_total": 4236,
         "verification_threshold": 5000,
-        "verification_status": "pending"
+        "verification_status": "confirmed_true_new"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "独立",
-        "模拟"
+        "冒险",
+        "角色扮演",
+        "模拟",
+        "体育",
+        "策略"
       ],
       "scoring_version": "release_event_v2",
-      "release_event_type": "pending",
-      "release_event_date": "2026-08-28",
-      "release_event_age_days": 3,
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-27",
+      "release_event_age_days": 4,
       "release_event_window_days": 30,
-      "release_event_multiplier": 0.85,
+      "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 13583,
+        "initial_review_total": 4236,
         "verification_threshold": 5000,
-        "verification_status": "pending"
+        "verification_status": "confirmed_true_new"
       },
-      "release_event_date_basis": "actual_open_date",
+      "release_event_date_basis": "confirmed_identity",
       "trend": [
         {
+          "date": "2026-08-28",
+          "peak": 69046
+        },
+        {
           "date": "2026-08-29",
-          "peak": 8622
+          "peak": 70330
         },
         {
           "date": "2026-08-30",
-          "peak": 8752
+          "peak": 74755
         },
         {
           "date": "2026-08-31",
-          "peak": 12196
+          "peak": 77744
         }
       ]
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1331550"
+        "url": "https://store.steampowered.com/app/2075800"
       }
     ],
     "game": {
-      "slug": "big-ambitions",
-      "appid": "1331550",
-      "name": "Big Ambitions",
+      "slug": "star-wars-zero-company",
+      "appid": "2075800",
+      "name": "STAR WARS Zero Company™",
       "name_cn": null,
-      "description": "Big Ambitions 是一款革命性的角色扮演模拟经营游戏。 你从一无所有起步，开办小企业，创建大公司，最终成为全纽约最大的企业家。",
-      "release_date": "2026-08-28",
+      "description": "《星球大战 零号连队™》是一款单人回合制战术游戏，故事发生在克隆人战争晚期。玩家将在游戏中带领一支精英战队，踏上一段残酷又真实感十足的旅程。",
+      "release_date": "2026-08-27",
       "genres": [
-        "独立",
-        "模拟"
+        "冒险",
+        "角色扮演",
+        "模拟",
+        "体育",
+        "策略"
       ],
       "tags": [
         "单人",
         "Steam 成就",
-        "Steam 创意工坊",
+        "Steam 集换式卡牌",
+        "可选颜色",
+        "自定义音量控制",
+        "可调整难度",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "部分支持控制器",
         "Steam 云",
+        "可用 HDR",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 92.0,
-      "review_total": 13768,
-      "developer": "Hovgaard Games",
-      "publisher": "Hovgaard Games",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1787936588",
-      "steam_url": "https://store.steampowered.com/app/1331550",
-      "product_family_identity": "appid:1331550",
-      "product_family_appid": "1331550",
+      "review_score": "Mostly Positive",
+      "review_ratio": 78.0,
+      "review_total": 9715,
+      "developer": "Bit Reactor",
+      "publisher": "Electronic Arts",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1787848803",
+      "steam_url": "https://store.steampowered.com/app/2075800",
+      "product_family_identity": "appid:2075800",
+      "product_family_appid": "2075800",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-08-28",
+          "peak": 69046
+        },
+        {
           "date": "2026-08-29",
-          "peak": 8622
+          "peak": 70330
         },
         {
           "date": "2026-08-30",
-          "peak": 8752
+          "peak": 74755
         },
         {
           "date": "2026-08-31",
-          "peak": 12196
+          "peak": 77744
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Big Ambitions》是一款把商业经营和生活模拟放进纽约开放世界的单人游戏。你从小公寓和第一份工作起步，租店、进货、招人，再把一家小店扩成连锁企业。",
-      "reference_frame": "它不只让你在报表里调数字，还要求角色亲自跑店面、买设备和处理生活需求。企业做大后，仓库、物流、采购与管理层逐步接手重复劳动，经营尺度也随之扩大。",
-      "for_players": "适合喜欢经营模拟、资源调度和从一间小店慢慢搭出商业版图的人；愿意同时照顾角色睡眠、健康与生活目标，也会更容易接受它的节奏。",
-      "not_for_players": "如果你只想看数字自动增长，不喜欢亲自跑地图、布置店面或处理库存与员工，前期会显得琐碎；偏好短局、高压决策的人也可能觉得扩张太慢。",
-      "star_reason": "8 月 31 日，它的 24 小时峰值从 8,752 升至 12,196，单日增长约 39%；Steam 当日记录 13,768 条评价、92% 好评。模型以 17.34 分成为当天可发布候选中的第 1 名，正式版上线后的热度仍在加速。",
+      "positioning": "《STAR WARS Zero Company™》是一款单人回合制小队战术游戏。你带领零号连队执行任务，先看敌人、目标和掩体，再安排队员行动，把交火逐回合拆开。",
+      "reference_frame": "它采用小队战术游戏常见的读图框架，考验的是行动顺序和位置选择，不是即时反应。星战角色、地点与小队关系给任务补上冒险感，但战斗能否打顺，仍取决于每回合怎么分配有限行动。",
+      "for_players": "适合喜欢读战场、研究队员搭配，同时希望在克隆人战争语境里带一支自定义小队行动的人。可调难度与可关闭的永久死亡，也给反复尝试留出了余地。",
+      "not_for_players": "如果你期待即时光剑战斗、多人合作，或不愿为站位和行动顺序停下来思考，它的回合制节奏可能偏慢；只想不断刷装备的人，也应先确认角色成长是否合胃口。",
+      "star_reason": "8 月 31 日，它的 24 小时峰值升至 77,744，比前一日高约 4%；Steam 当日记录 9,715 条评价、78% 好评。三日连带重排后，它在此前 30 天只剩 1 次摘星，按原重复系数复算约为 25.76 分，因此在休息两天后重新当选。",
       "core_loop": [
-        "选择店铺类型并租下场地，装修空间、准备设备与第一批库存。",
-        "根据客流和收支调整商品、价格与排班，让店面稳定赚钱。",
-        "雇用员工和经理，建设仓储与配送网络，再把利润投向新店、房产或更大的公司。"
+        "进入任务后观察目标、敌人位置和可用掩体，判断小队从哪里切入。",
+        "让队员依次移动、攻击或使用能力，优先拆掉最危险的敌人与局面。",
+        "根据任务结果调整队伍配置和下一步部署，再把新方案带进下一场战斗。"
       ],
-      "content_length": 465
+      "content_length": 498
     }
   },
   "main_signal": {
     "rank": 1,
-    "type": "release_event_rise",
-    "label": "发行节点起量",
-    "score": 17.34,
-    "fact_summary": "Big Ambitions 今日观测峰值 12,196，较过往最高峰值提升 +39%，被识别为「发行节点起量」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 19.32,
+    "fact_summary": "STAR WARS Zero Company™ 今日观测峰值 77,744，较过往最高峰值提升 +4%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 12196,
-      "previous_peak": 8752,
-      "previous_record_peak": 8752,
-      "growth_rate": 0.3935,
-      "record_growth_rate": 0.3935,
-      "scoring_peak": 12196,
+      "current_peak": 77744,
+      "previous_peak": 74755,
+      "previous_record_peak": 74755,
+      "growth_rate": 0.04,
+      "record_growth_rate": 0.04,
+      "scoring_peak": 77744,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 18.41,
-      "raw_record_growth_score": 13.77,
-      "growth_score_multiplier": 0.1445,
+      "peak_score": 30.8,
+      "raw_record_growth_score": 1.4,
+      "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.1226,
-      "growth_scale_crossing_component": 0.022,
-      "record_growth_score": 1.99,
+      "growth_scale_base_component": 8.9413,
+      "growth_scale_crossing_component": 0.6774,
+      "record_growth_score": 1.4,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 20.41,
-      "event_adjusted_score": 17.34,
-      "event_multiplier": 0.85,
+      "score_before_multiplier": 32.2,
+      "event_adjusted_score": 32.2,
+      "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 17.34,
+      "review_adjusted_score": 32.2,
       "review_penalty_reason": null,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.85,
-      "base_score": 17.34,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 0.6,
+      "base_score": 19.32,
+      "score_multiplier": 0.6,
+      "score_multiplier_reasons": [
+        "repeat_window_star_3x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 3,
+      "app_prior_total_star_count": 3,
+      "family_repeat_window_star_count": 3,
+      "family_prior_total_star_count": 3,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
-      "repeat_window_limit_reached": false,
+      "repeat_window_limit_reached": true,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 92.0,
-      "review_total": 13768,
-      "days_seen": 3,
+      "review_ratio": 78.0,
+      "review_total": 9715,
+      "days_seen": 4,
       "comeback_gap_days": 1,
-      "is_new_release": false,
-      "release_age_days": 3,
-      "steam_release_age_days": 3,
-      "release_age_basis": "actual_open_date",
-      "release_verification_required": true,
+      "is_new_release": true,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 13583,
+        "initial_review_total": 4236,
         "verification_threshold": 5000,
-        "verification_status": "pending"
+        "verification_status": "confirmed_true_new"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "独立",
-        "模拟"
+        "冒险",
+        "角色扮演",
+        "模拟",
+        "体育",
+        "策略"
       ],
       "scoring_version": "release_event_v2",
-      "release_event_type": "pending",
-      "release_event_date": "2026-08-28",
-      "release_event_age_days": 3,
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-27",
+      "release_event_age_days": 4,
       "release_event_window_days": 30,
-      "release_event_multiplier": 0.85,
+      "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 13583,
+        "initial_review_total": 4236,
         "verification_threshold": 5000,
-        "verification_status": "pending"
+        "verification_status": "confirmed_true_new"
       },
-      "release_event_date_basis": "actual_open_date",
+      "release_event_date_basis": "confirmed_identity",
       "trend": [
         {
+          "date": "2026-08-28",
+          "peak": 69046
+        },
+        {
           "date": "2026-08-29",
-          "peak": 8622
+          "peak": 70330
         },
         {
           "date": "2026-08-30",
-          "peak": 8752
+          "peak": 74755
         },
         {
           "date": "2026-08-31",
-          "peak": 12196
+          "peak": 77744
         }
       ]
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1331550"
+        "url": "https://store.steampowered.com/app/2075800"
       }
     ],
     "game": {
-      "slug": "big-ambitions",
-      "appid": "1331550",
-      "name": "Big Ambitions",
+      "slug": "star-wars-zero-company",
+      "appid": "2075800",
+      "name": "STAR WARS Zero Company™",
       "name_cn": null,
-      "description": "Big Ambitions 是一款革命性的角色扮演模拟经营游戏。 你从一无所有起步，开办小企业，创建大公司，最终成为全纽约最大的企业家。",
-      "release_date": "2026-08-28",
+      "description": "《星球大战 零号连队™》是一款单人回合制战术游戏，故事发生在克隆人战争晚期。玩家将在游戏中带领一支精英战队，踏上一段残酷又真实感十足的旅程。",
+      "release_date": "2026-08-27",
       "genres": [
-        "独立",
-        "模拟"
+        "冒险",
+        "角色扮演",
+        "模拟",
+        "体育",
+        "策略"
       ],
       "tags": [
         "单人",
         "Steam 成就",
-        "Steam 创意工坊",
+        "Steam 集换式卡牌",
+        "可选颜色",
+        "自定义音量控制",
+        "可调整难度",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "部分支持控制器",
         "Steam 云",
+        "可用 HDR",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 92.0,
-      "review_total": 13768,
-      "developer": "Hovgaard Games",
-      "publisher": "Hovgaard Games",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1787936588",
-      "steam_url": "https://store.steampowered.com/app/1331550",
-      "product_family_identity": "appid:1331550",
-      "product_family_appid": "1331550",
+      "review_score": "Mostly Positive",
+      "review_ratio": 78.0,
+      "review_total": 9715,
+      "developer": "Bit Reactor",
+      "publisher": "Electronic Arts",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1787848803",
+      "steam_url": "https://store.steampowered.com/app/2075800",
+      "product_family_identity": "appid:2075800",
+      "product_family_appid": "2075800",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-08-28",
+          "peak": 69046
+        },
+        {
           "date": "2026-08-29",
-          "peak": 8622
+          "peak": 70330
         },
         {
           "date": "2026-08-30",
-          "peak": 8752
+          "peak": 74755
         },
         {
           "date": "2026-08-31",
-          "peak": 12196
+          "peak": 77744
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Big Ambitions》是一款把商业经营和生活模拟放进纽约开放世界的单人游戏。你从小公寓和第一份工作起步，租店、进货、招人，再把一家小店扩成连锁企业。",
-      "reference_frame": "它不只让你在报表里调数字，还要求角色亲自跑店面、买设备和处理生活需求。企业做大后，仓库、物流、采购与管理层逐步接手重复劳动，经营尺度也随之扩大。",
-      "for_players": "适合喜欢经营模拟、资源调度和从一间小店慢慢搭出商业版图的人；愿意同时照顾角色睡眠、健康与生活目标，也会更容易接受它的节奏。",
-      "not_for_players": "如果你只想看数字自动增长，不喜欢亲自跑地图、布置店面或处理库存与员工，前期会显得琐碎；偏好短局、高压决策的人也可能觉得扩张太慢。",
-      "star_reason": "8 月 31 日，它的 24 小时峰值从 8,752 升至 12,196，单日增长约 39%；Steam 当日记录 13,768 条评价、92% 好评。模型以 17.34 分成为当天可发布候选中的第 1 名，正式版上线后的热度仍在加速。",
+      "positioning": "《STAR WARS Zero Company™》是一款单人回合制小队战术游戏。你带领零号连队执行任务，先看敌人、目标和掩体，再安排队员行动，把交火逐回合拆开。",
+      "reference_frame": "它采用小队战术游戏常见的读图框架，考验的是行动顺序和位置选择，不是即时反应。星战角色、地点与小队关系给任务补上冒险感，但战斗能否打顺，仍取决于每回合怎么分配有限行动。",
+      "for_players": "适合喜欢读战场、研究队员搭配，同时希望在克隆人战争语境里带一支自定义小队行动的人。可调难度与可关闭的永久死亡，也给反复尝试留出了余地。",
+      "not_for_players": "如果你期待即时光剑战斗、多人合作，或不愿为站位和行动顺序停下来思考，它的回合制节奏可能偏慢；只想不断刷装备的人，也应先确认角色成长是否合胃口。",
+      "star_reason": "8 月 31 日，它的 24 小时峰值升至 77,744，比前一日高约 4%；Steam 当日记录 9,715 条评价、78% 好评。三日连带重排后，它在此前 30 天只剩 1 次摘星，按原重复系数复算约为 25.76 分，因此在休息两天后重新当选。",
       "core_loop": [
-        "选择店铺类型并租下场地，装修空间、准备设备与第一批库存。",
-        "根据客流和收支调整商品、价格与排班，让店面稳定赚钱。",
-        "雇用员工和经理，建设仓储与配送网络，再把利润投向新店、房产或更大的公司。"
+        "进入任务后观察目标、敌人位置和可用掩体，判断小队从哪里切入。",
+        "让队员依次移动、攻击或使用能力，优先拆掉最危险的敌人与局面。",
+        "根据任务结果调整队伍配置和下一步部署，再把新方案带进下一场战斗。"
       ],
-      "content_length": 465
+      "content_length": 498
     }
   },
   "secondary_signals": [],
