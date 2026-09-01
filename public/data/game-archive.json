@@ -1,41 +1,7 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-01T16:32:47",
+  "generated_at": "2026-09-01T16:33:47",
   "games": [
-    {
-      "game": {
-        "slug": "star-wars-zero-company",
-        "appid": "2075800",
-        "name": "STAR WARS Zero Company™",
-        "name_cn": null,
-        "description": "《星球大战 零号连队™》是一款单人回合制战术游戏，故事发生在克隆人战争晚期。玩家将在游戏中带领一支精英战队，踏上一段残酷又真实感十足的旅程。",
-        "genres": [
-          "冒险",
-          "角色扮演",
-          "模拟",
-          "体育",
-          "策略"
-        ],
-        "developer": "Bit Reactor",
-        "publisher": "Electronic Arts",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1787848803",
-        "product_family_identity": "appid:2075800",
-        "product_family_appid": "2075800",
-        "product_family_role": "full"
-      },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
-      "star_dates": [
-        "2026-08-31",
-        "2026-08-28"
-      ],
-      "member_appids": [
-        "2075800"
-      ],
-      "article_count": 0,
-      "latest_star_date": "2026-08-31"
-    },
     {
       "game": {
         "slug": "big-ambitions",
@@ -58,13 +24,14 @@
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
+        "2026-08-31",
         "2026-08-30"
       ],
       "member_appids": [
         "1331550"
       ],
       "article_count": 0,
-      "latest_star_date": "2026-08-30"
+      "latest_star_date": "2026-08-31"
     },
     {
       "game": {
@@ -95,6 +62,39 @@
       ],
       "article_count": 0,
       "latest_star_date": "2026-08-29"
+    },
+    {
+      "game": {
+        "slug": "star-wars-zero-company",
+        "appid": "2075800",
+        "name": "STAR WARS Zero Company™",
+        "name_cn": null,
+        "description": "《星球大战 零号连队™》是一款单人回合制战术游戏，故事发生在克隆人战争晚期。玩家将在游戏中带领一支精英战队，踏上一段残酷又真实感十足的旅程。",
+        "genres": [
+          "冒险",
+          "角色扮演",
+          "模拟",
+          "体育",
+          "策略"
+        ],
+        "developer": "Bit Reactor",
+        "publisher": "Electronic Arts",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1787848803",
+        "product_family_identity": "appid:2075800",
+        "product_family_appid": "2075800",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-08-28"
+      ],
+      "member_appids": [
+        "2075800"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-08-28"
     },
     {
       "game": {
