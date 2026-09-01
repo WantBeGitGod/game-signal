@@ -10,56 +10,54 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 24.04,
-    "fact_summary": "STAR WARS Zero Company™ 今日观测峰值 70,330，较过往最高峰值提升 +2%，被识别为「新作起量」。",
+    "score": 13.77,
+    "fact_summary": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version 今日观测峰值 7,651，未超过过往最高峰值 8,988，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 70330,
-      "previous_peak": 69046,
-      "previous_record_peak": 69046,
-      "growth_rate": 0.0186,
-      "record_growth_rate": 0.0186,
-      "scoring_peak": 70330,
+      "current_peak": 7651,
+      "previous_peak": 8988,
+      "previous_record_peak": 8988,
+      "growth_rate": -0.1488,
+      "record_growth_rate": -0.1488,
+      "scoring_peak": 7651,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 29.4,
-      "raw_record_growth_score": 0.65,
-      "growth_score_multiplier": 1.0,
+      "peak_score": 13.77,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.1293,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 7.6278,
-      "growth_scale_crossing_component": 0.6033,
-      "record_growth_score": 0.65,
+      "growth_scale_base_component": 0.1293,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 30.05,
-      "event_adjusted_score": 30.05,
+      "score_before_multiplier": 13.77,
+      "event_adjusted_score": 13.77,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 30.05,
+      "review_adjusted_score": 13.77,
       "review_penalty_reason": null,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.8,
-      "base_score": 24.04,
-      "score_multiplier": 0.8,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "combined_score_multiplier": 1.0,
+      "base_score": 13.77,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
-      "unstarred_runner_up_streak_days": 0,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 1,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 78.0,
-      "review_total": 6082,
+      "review_ratio": 95.0,
+      "review_total": 1093,
       "days_seen": 2,
       "comeback_gap_days": 0,
       "is_new_release": true,
@@ -69,7 +67,7 @@
       "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 4236,
+        "initial_review_total": 833,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -78,11 +76,8 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "冒险",
-        "角色扮演",
-        "模拟",
-        "体育",
-        "策略"
+        "动作",
+        "冒险"
       ],
       "scoring_version": "release_event_v2",
       "release_event_type": "true_new",
@@ -92,7 +87,7 @@
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 4236,
+        "initial_review_total": 833,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -100,150 +95,140 @@
       "trend": [
         {
           "date": "2026-08-28",
-          "peak": 69046
+          "peak": 8988
         },
         {
           "date": "2026-08-29",
-          "peak": 70330
+          "peak": 7651
         }
       ]
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/2075800"
+        "url": "https://store.steampowered.com/app/2492670"
       }
     ],
     "game": {
-      "slug": "star-wars-zero-company",
-      "appid": "2075800",
-      "name": "STAR WARS Zero Company™",
+      "slug": "metal-gear-solid-4-guns-of-the-patriots-master-collection-version",
+      "appid": "2492670",
+      "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
       "name_cn": null,
-      "description": "《星球大战 零号连队™》是一款单人回合制战术游戏，故事发生在克隆人战争晚期。玩家将在游戏中带领一支精英战队，踏上一段残酷又真实感十足的旅程。",
+      "description": "Solid Snake的最后任务。 在“Big Shell”事件的五年后，随着 PMC（Private Military Contractor）的崛起，战争逐渐转变为一门生意。为了阻止Liquid Ocelot叛变，传奇英雄Solid Snake将迎来他的最终之战。",
       "release_date": "2026-08-27",
       "genres": [
-        "冒险",
-        "角色扮演",
-        "模拟",
-        "体育",
-        "策略"
+        "动作",
+        "冒险"
       ],
       "tags": [
         "单人",
         "Steam 成就",
+        "完全支持控制器",
         "Steam 集换式卡牌",
-        "可选颜色",
         "自定义音量控制",
         "可调整难度",
-        "#category_playable_at_your_own_pace",
-        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
         "DualSense 控制器支持",
-        "随时保存",
         "立体声",
-        "字幕选项",
         "环绕声",
-        "部分支持控制器",
         "Steam 云",
-        "可用 HDR",
         "家庭共享"
       ],
-      "review_score": "Mostly Positive",
-      "review_ratio": 78.0,
-      "review_total": 6082,
-      "developer": "Bit Reactor",
-      "publisher": "Electronic Arts",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1787848803",
-      "steam_url": "https://store.steampowered.com/app/2075800",
-      "product_family_identity": "appid:2075800",
-      "product_family_appid": "2075800",
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 96.0,
+      "review_total": 1661,
+      "developer": "KONAMI",
+      "publisher": "KONAMI",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492670/458033bb7aad4e6b8a61af0f7798d23db2683864/header.jpg?t=1787835863",
+      "steam_url": "https://store.steampowered.com/app/2492670",
+      "product_family_identity": "appid:2492670",
+      "product_family_appid": "2492670",
       "product_family_role": "full",
       "trend": [
         {
           "date": "2026-08-28",
-          "peak": 69046
+          "peak": 8988
         },
         {
           "date": "2026-08-29",
-          "peak": 70330
+          "peak": 7651
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《STAR WARS Zero Company™》是一款单人回合制小队战术游戏：你带着零号连队出任务，靠站位、掩体和角色能力逐回合拆开敌人的防线。星战题材给了战场气氛，推进仍要落到战术选择上。",
-      "reference_frame": "它是重视读图与回合顺序的小队战术框架。战场不催你拼反应速度，压力在于：谁先处理、谁该占位，这回合该把有限行动留给伤害、控制还是保命。",
-      "for_players": "适合喜欢慢下来读局面、研究队员搭配与技能联动的人；想在星战世界里带一支可自定义小队完成任务的玩家，会有足够的发挥空间。",
-      "not_for_players": "如果你期待即时挥砍、快节奏射击或多人合作，它的回合制推进会显得克制；不喜欢为一次失误重新安排行动顺序，也可能觉得每场战斗停得太久。",
-      "star_reason": "8 月 29 日，它的 24 小时峰值升至 70,330，比前一日 69,046 再高约 2%，采集时在线人数同为 70,330；Steam 已累计 6,082 条评价、78% 好评。模型以 24.04 分连续第二天排第 1，首发关注还没退潮。",
+      "positioning": "《METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version》是一款单人潜行动作游戏。你操控年迈的 Solid Snake 穿过被私人军事公司占据的战区，追踪 Liquid Ocelot，为这条延续多年的故事收尾。",
+      "reference_frame": "它仍以“尽量不被发现地完成渗透”为核心，但战场并非静止的巡逻关卡。交战双方会让路线和警戒不断变化，你可以借混乱潜行，也可以使用枪械与装备正面脱身。",
+      "for_players": "适合喜欢潜行、战场观察和电影化叙事，也愿意补完 Solid Snake 最后任务的玩家；能接受潜行与枪战交替，会更容易进入它的节奏。",
+      "not_for_players": "如果你不喜欢长过场、系列设定和大量剧情信息，只想连续进行短促的纯潜入关卡，叙事比重可能显得过高；期待现代开放世界结构的人也应先调整预期。",
+      "star_reason": "8 月 29 日，它的 24 小时峰值为 7,651，Steam 当日记录 1,093 条评价、95% 好评。原模型以 13.77 分排第 2；本次连续三日人工重排后，它顺延成为当天的今日之星。",
       "core_loop": [
-        "进入行动后先看任务目标、敌人位置与可用掩体，决定小队从哪里切入。",
-        "让队员移动、攻击或放出能力，利用顺序和位置把最危险的一环先拆掉。",
-        "根据战斗里暴露的短板调整队伍配置与战术，再带着新方案进入下一次部署。"
+        "观察士兵、掩体与交火方向，选择绕行、贴近或制造空档的渗透路线。",
+        "利用迷彩、潜行动作和武器处理阻碍，在暴露后重新拉开距离、摆脱追踪。",
+        "穿过战区并推进任务，在长篇过场、首领战和潜入段落之间逐步揭开系列谜团。"
       ],
-      "content_length": 486
+      "content_length": 517
     }
   },
   "main_signal": {
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 24.04,
-    "fact_summary": "STAR WARS Zero Company™ 今日观测峰值 70,330，较过往最高峰值提升 +2%，被识别为「新作起量」。",
+    "score": 13.77,
+    "fact_summary": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version 今日观测峰值 7,651，未超过过往最高峰值 8,988，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 70330,
-      "previous_peak": 69046,
-      "previous_record_peak": 69046,
-      "growth_rate": 0.0186,
-      "record_growth_rate": 0.0186,
-      "scoring_peak": 70330,
+      "current_peak": 7651,
+      "previous_peak": 8988,
+      "previous_record_peak": 8988,
+      "growth_rate": -0.1488,
+      "record_growth_rate": -0.1488,
+      "scoring_peak": 7651,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 29.4,
-      "raw_record_growth_score": 0.65,
-      "growth_score_multiplier": 1.0,
+      "peak_score": 13.77,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.1293,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 7.6278,
-      "growth_scale_crossing_component": 0.6033,
-      "record_growth_score": 0.65,
+      "growth_scale_base_component": 0.1293,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 30.05,
-      "event_adjusted_score": 30.05,
+      "score_before_multiplier": 13.77,
+      "event_adjusted_score": 13.77,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 30.05,
+      "review_adjusted_score": 13.77,
       "review_penalty_reason": null,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.8,
-      "base_score": 24.04,
-      "score_multiplier": 0.8,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "combined_score_multiplier": 1.0,
+      "base_score": 13.77,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
-      "unstarred_runner_up_streak_days": 0,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 1,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 78.0,
-      "review_total": 6082,
+      "review_ratio": 95.0,
+      "review_total": 1093,
       "days_seen": 2,
       "comeback_gap_days": 0,
       "is_new_release": true,
@@ -253,7 +238,7 @@
       "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 4236,
+        "initial_review_total": 833,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -262,11 +247,8 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "冒险",
-        "角色扮演",
-        "模拟",
-        "体育",
-        "策略"
+        "动作",
+        "冒险"
       ],
       "scoring_version": "release_event_v2",
       "release_event_type": "true_new",
@@ -276,7 +258,7 @@
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 4236,
+        "initial_review_total": 833,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -284,94 +266,86 @@
       "trend": [
         {
           "date": "2026-08-28",
-          "peak": 69046
+          "peak": 8988
         },
         {
           "date": "2026-08-29",
-          "peak": 70330
+          "peak": 7651
         }
       ]
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/2075800"
+        "url": "https://store.steampowered.com/app/2492670"
       }
     ],
     "game": {
-      "slug": "star-wars-zero-company",
-      "appid": "2075800",
-      "name": "STAR WARS Zero Company™",
+      "slug": "metal-gear-solid-4-guns-of-the-patriots-master-collection-version",
+      "appid": "2492670",
+      "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
       "name_cn": null,
-      "description": "《星球大战 零号连队™》是一款单人回合制战术游戏，故事发生在克隆人战争晚期。玩家将在游戏中带领一支精英战队，踏上一段残酷又真实感十足的旅程。",
+      "description": "Solid Snake的最后任务。 在“Big Shell”事件的五年后，随着 PMC（Private Military Contractor）的崛起，战争逐渐转变为一门生意。为了阻止Liquid Ocelot叛变，传奇英雄Solid Snake将迎来他的最终之战。",
       "release_date": "2026-08-27",
       "genres": [
-        "冒险",
-        "角色扮演",
-        "模拟",
-        "体育",
-        "策略"
+        "动作",
+        "冒险"
       ],
       "tags": [
         "单人",
         "Steam 成就",
+        "完全支持控制器",
         "Steam 集换式卡牌",
-        "可选颜色",
         "自定义音量控制",
         "可调整难度",
-        "#category_playable_at_your_own_pace",
-        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
         "DualSense 控制器支持",
-        "随时保存",
         "立体声",
-        "字幕选项",
         "环绕声",
-        "部分支持控制器",
         "Steam 云",
-        "可用 HDR",
         "家庭共享"
       ],
-      "review_score": "Mostly Positive",
-      "review_ratio": 78.0,
-      "review_total": 6082,
-      "developer": "Bit Reactor",
-      "publisher": "Electronic Arts",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1787848803",
-      "steam_url": "https://store.steampowered.com/app/2075800",
-      "product_family_identity": "appid:2075800",
-      "product_family_appid": "2075800",
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 96.0,
+      "review_total": 1661,
+      "developer": "KONAMI",
+      "publisher": "KONAMI",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492670/458033bb7aad4e6b8a61af0f7798d23db2683864/header.jpg?t=1787835863",
+      "steam_url": "https://store.steampowered.com/app/2492670",
+      "product_family_identity": "appid:2492670",
+      "product_family_appid": "2492670",
       "product_family_role": "full",
       "trend": [
         {
           "date": "2026-08-28",
-          "peak": 69046
+          "peak": 8988
         },
         {
           "date": "2026-08-29",
-          "peak": 70330
+          "peak": 7651
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《STAR WARS Zero Company™》是一款单人回合制小队战术游戏：你带着零号连队出任务，靠站位、掩体和角色能力逐回合拆开敌人的防线。星战题材给了战场气氛，推进仍要落到战术选择上。",
-      "reference_frame": "它是重视读图与回合顺序的小队战术框架。战场不催你拼反应速度，压力在于：谁先处理、谁该占位，这回合该把有限行动留给伤害、控制还是保命。",
-      "for_players": "适合喜欢慢下来读局面、研究队员搭配与技能联动的人；想在星战世界里带一支可自定义小队完成任务的玩家，会有足够的发挥空间。",
-      "not_for_players": "如果你期待即时挥砍、快节奏射击或多人合作，它的回合制推进会显得克制；不喜欢为一次失误重新安排行动顺序，也可能觉得每场战斗停得太久。",
-      "star_reason": "8 月 29 日，它的 24 小时峰值升至 70,330，比前一日 69,046 再高约 2%，采集时在线人数同为 70,330；Steam 已累计 6,082 条评价、78% 好评。模型以 24.04 分连续第二天排第 1，首发关注还没退潮。",
+      "positioning": "《METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version》是一款单人潜行动作游戏。你操控年迈的 Solid Snake 穿过被私人军事公司占据的战区，追踪 Liquid Ocelot，为这条延续多年的故事收尾。",
+      "reference_frame": "它仍以“尽量不被发现地完成渗透”为核心，但战场并非静止的巡逻关卡。交战双方会让路线和警戒不断变化，你可以借混乱潜行，也可以使用枪械与装备正面脱身。",
+      "for_players": "适合喜欢潜行、战场观察和电影化叙事，也愿意补完 Solid Snake 最后任务的玩家；能接受潜行与枪战交替，会更容易进入它的节奏。",
+      "not_for_players": "如果你不喜欢长过场、系列设定和大量剧情信息，只想连续进行短促的纯潜入关卡，叙事比重可能显得过高；期待现代开放世界结构的人也应先调整预期。",
+      "star_reason": "8 月 29 日，它的 24 小时峰值为 7,651，Steam 当日记录 1,093 条评价、95% 好评。原模型以 13.77 分排第 2；本次连续三日人工重排后，它顺延成为当天的今日之星。",
       "core_loop": [
-        "进入行动后先看任务目标、敌人位置与可用掩体，决定小队从哪里切入。",
-        "让队员移动、攻击或放出能力，利用顺序和位置把最危险的一环先拆掉。",
-        "根据战斗里暴露的短板调整队伍配置与战术，再带着新方案进入下一次部署。"
+        "观察士兵、掩体与交火方向，选择绕行、贴近或制造空档的渗透路线。",
+        "利用迷彩、潜行动作和武器处理阻碍，在暴露后重新拉开距离、摆脱追踪。",
+        "穿过战区并推进任务，在长篇过场、首领战和潜入段落之间逐步揭开系列谜团。"
       ],
-      "content_length": 486
+      "content_length": 517
     }
   },
   "secondary_signals": [],
