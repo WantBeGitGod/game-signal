@@ -8,382 +8,370 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 11.29,
-    "fact_summary": "My Party Is Grinding 今日观测峰值 6,275，未超过过往最高峰值 6,616，被识别为「新作起量」。",
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 11.85,
+    "fact_summary": "Big Ambitions 今日观测峰值 10,573，未超过过往最高峰值 12,196，被识别为「发行节点起量」。",
     "metrics": {
-      "current_peak": 6275,
-      "previous_peak": 6616,
-      "previous_record_peak": 6616,
-      "growth_rate": -0.0515,
-      "record_growth_rate": -0.0515,
-      "scoring_peak": 6275,
+      "current_peak": 10573,
+      "previous_peak": 12196,
+      "previous_record_peak": 12196,
+      "growth_rate": -0.1331,
+      "record_growth_rate": -0.1331,
+      "scoring_peak": 10573,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 11.29,
+      "peak_score": 18.11,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.07,
+      "growth_score_multiplier": 0.2437,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.07,
-      "growth_scale_crossing_component": 0.0,
+      "growth_scale_base_component": 0.238,
+      "growth_scale_crossing_component": 0.0057,
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 11.29,
-      "event_adjusted_score": 11.29,
-      "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 11.29,
+      "score_before_multiplier": 18.11,
+      "event_adjusted_score": 15.39,
+      "event_multiplier": 0.85,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 16.93,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-08-31",
+      "review_observation_age_days": 1,
+      "review_ratio_carried_forward": true,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.0,
-      "base_score": 11.29,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 0.6545,
+      "base_score": 11.85,
+      "score_multiplier": 0.7,
+      "score_multiplier_reasons": [
+        "repeat_window_star_2x"
+      ],
+      "repeat_window_star_count": 2,
+      "app_repeat_window_star_count": 2,
+      "app_prior_total_star_count": 2,
+      "family_repeat_window_star_count": 2,
+      "family_prior_total_star_count": 2,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 2,
+      "total_star_count": 3,
+      "star_appearance_count": 3,
+      "cumulative_star_count": 2,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": null,
-      "review_total": 0,
-      "days_seen": 5,
+      "review_ratio": 92.0,
+      "review_total": 13768,
+      "days_seen": 4,
       "comeback_gap_days": 1,
-      "is_new_release": true,
-      "release_age_days": 5,
-      "steam_release_age_days": 5,
-      "release_age_basis": "confirmed_identity",
-      "release_verification_required": false,
+      "is_new_release": false,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 226,
+        "initial_review_total": 13583,
         "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "verification_status": "pending"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "角色扮演",
-        "免费"
+        "独立",
+        "模拟"
       ],
       "scoring_version": "release_event_v2",
-      "release_event_type": "true_new",
-      "release_event_date": "2026-08-27",
-      "release_event_age_days": 5,
+      "release_event_type": "pending",
+      "release_event_date": "2026-08-28",
+      "release_event_age_days": 4,
       "release_event_window_days": 30,
-      "release_event_multiplier": 1.0,
+      "release_event_multiplier": 0.85,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 226,
+        "initial_review_total": 13583,
         "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "verification_status": "pending"
       },
-      "release_event_date_basis": "confirmed_identity",
+      "release_event_date_basis": "actual_open_date",
       "trend": [
         {
-          "date": "2026-08-28",
-          "peak": 6148
-        },
-        {
           "date": "2026-08-29",
-          "peak": 6616
+          "peak": 8622
         },
         {
           "date": "2026-08-30",
-          "peak": 6616
+          "peak": 8752
         },
         {
           "date": "2026-08-31",
-          "peak": 6589
+          "peak": 12196
         },
         {
           "date": "2026-09-01",
-          "peak": 6275
+          "peak": 10573
         }
       ]
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 3,
+      "prior_count": 2,
+      "repeat_window_prior_count": 2
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4952980"
+        "url": "https://store.steampowered.com/app/1331550"
       }
     ],
     "game": {
-      "slug": "my-party-is-grinding",
-      "appid": "4952980",
-      "name": "My Party Is Grinding",
+      "slug": "big-ambitions",
+      "appid": "1331550",
+      "name": "Big Ambitions",
       "name_cn": null,
-      "description": "在屏幕角落的小窗口里，五人小队在你工作时持续战斗、拾取战利品并成长的桌面放置RPG。",
-      "release_date": "2026-08-27",
+      "description": "Big Ambitions 是一款革命性的角色扮演模拟经营游戏。 你从一无所有起步，开办小企业，创建大公司，最终成为全纽约最大的企业家。",
+      "release_date": "2026-08-28",
       "genres": [
-        "角色扮演",
-        "免费"
+        "独立",
+        "模拟"
       ],
       "tags": [
         "单人",
         "Steam 成就",
-        "自定义音量控制",
-        "可以仅用鼠标",
-        "#category_playable_at_your_own_pace",
-        "无需应对快速反应事件",
-        "随时保存",
+        "Steam 创意工坊",
+        "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 42.0,
-      "review_total": 429,
-      "developer": "SUPERLINK Inc.",
-      "publisher": "SUPERLINK Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4952980/5715d306e00589ea9cba3d28b0b30ad96fe1a8ba/header.jpg?t=1788021618",
-      "steam_url": "https://store.steampowered.com/app/4952980",
-      "product_family_identity": "appid:4952980",
-      "product_family_appid": "4952980",
+      "review_score": "Very Positive",
+      "review_ratio": 92.0,
+      "review_total": 13926,
+      "developer": "Hovgaard Games",
+      "publisher": "Hovgaard Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1788186935",
+      "steam_url": "https://store.steampowered.com/app/1331550",
+      "product_family_identity": "appid:1331550",
+      "product_family_appid": "1331550",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-08-28",
-          "peak": 6148
-        },
-        {
           "date": "2026-08-29",
-          "peak": 6616
+          "peak": 8622
         },
         {
           "date": "2026-08-30",
-          "peak": 6616
+          "peak": 8752
         },
         {
           "date": "2026-08-31",
-          "peak": 6589
+          "peak": 12196
         },
         {
           "date": "2026-09-01",
-          "peak": 6275
+          "peak": 10573
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《My Party Is Grinding》是一款常驻屏幕角落的免费桌面放置 RPG。五人小队会在你处理其他事情时自动战斗和拾取装备，你主要负责定期回来整理战利品、调整队伍，再把他们推向更高难度。",
-      "reference_frame": "可以把它理解成把传统刷装 RPG 压进桌面小窗：战斗压力交给自动化，乐趣落在观察掉落、比较装备和修整队伍。它更像工作或学习旁边持续运转的第二块游戏窗口，而不是需要全程盯住的动作 RPG。",
-      "for_players": "适合喜欢刷装、队伍养成和数值优化，又希望游戏能与办公或学习并行的人。操作负担不高，主要投入在定期检查成长结果和做配置取舍。",
-      "not_for_players": "如果你期待手动操控每场战斗、强剧情推进，或不喜欢反复整理装备和等待自动成长，这种桌面放置节奏可能很快显得单调。",
-      "star_reason": "9 月 1 日留存数据里，它的当日观测峰值为 6,275，仍维持在此前 6,616 高点附近。在更高分候选触发重复摘星限制后，它成为当天评分最高且具备公开资格的新作信号，也让桌面放置 RPG 这一轻量入口值得继续观察。",
+      "positioning": "《Big Ambitions》是一款把商业经营和生活模拟放进纽约开放世界的单人游戏。你从小公寓和第一份工作起步，租店、进货、招人，再扩成连锁企业。",
+      "reference_frame": "它不只让你在报表里调数字，还要求角色亲自跑店面、买设备和处理生活需求。企业做大后，仓库、物流、采购与管理层逐步接手重复劳动，经营尺度也随之扩大。",
+      "for_players": "适合喜欢经营模拟、资源调度和从一间小店慢慢搭出商业版图的人；愿意同时照顾角色睡眠、健康与生活目标，也会更容易接受它的节奏。",
+      "not_for_players": "如果你只想看数字自动增长，不喜欢亲自跑地图、布置店面或处理库存与员工，前期会显得琐碎；偏好短局、高压决策的人也可能觉得扩张太慢。",
+      "star_reason": "9 月 1 日，它的 24 小时峰值为 10,573，仍低于此前的 12,196；当天缺少可靠评价，因此沿用 8 月 31 日的 92% 好评率并按 1.10 倍计分。前两名受重复摘星规则限制后，它以 11.85 分成为首个合格候选，也是 30 天内第三次摘星。",
       "core_loop": [
-        "让五人小队自动推进关卡、战斗并积累装备和资源。",
-        "回到窗口检查掉落，替换装备并调整成员搭配，解决当前卡点。",
-        "重新投入自动战斗，观察新配置能否把队伍推得更远。"
+        "选择店铺类型并租下场地，装修空间、准备设备与第一批库存。",
+        "根据客流和收支调整商品、价格与排班，让店面稳定赚钱。",
+        "雇用员工和经理，建设仓储与配送网络，再把利润投向新店、房产或更大的公司。"
       ],
-      "content_length": 476
+      "content_length": 471
     }
   },
   "main_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 11.29,
-    "fact_summary": "My Party Is Grinding 今日观测峰值 6,275，未超过过往最高峰值 6,616，被识别为「新作起量」。",
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 11.85,
+    "fact_summary": "Big Ambitions 今日观测峰值 10,573，未超过过往最高峰值 12,196，被识别为「发行节点起量」。",
     "metrics": {
-      "current_peak": 6275,
-      "previous_peak": 6616,
-      "previous_record_peak": 6616,
-      "growth_rate": -0.0515,
-      "record_growth_rate": -0.0515,
-      "scoring_peak": 6275,
+      "current_peak": 10573,
+      "previous_peak": 12196,
+      "previous_record_peak": 12196,
+      "growth_rate": -0.1331,
+      "record_growth_rate": -0.1331,
+      "scoring_peak": 10573,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 11.29,
+      "peak_score": 18.11,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.07,
+      "growth_score_multiplier": 0.2437,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.07,
-      "growth_scale_crossing_component": 0.0,
+      "growth_scale_base_component": 0.238,
+      "growth_scale_crossing_component": 0.0057,
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 11.29,
-      "event_adjusted_score": 11.29,
-      "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 11.29,
+      "score_before_multiplier": 18.11,
+      "event_adjusted_score": 15.39,
+      "event_multiplier": 0.85,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 16.93,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-08-31",
+      "review_observation_age_days": 1,
+      "review_ratio_carried_forward": true,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.0,
-      "base_score": 11.29,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 0.6545,
+      "base_score": 11.85,
+      "score_multiplier": 0.7,
+      "score_multiplier_reasons": [
+        "repeat_window_star_2x"
+      ],
+      "repeat_window_star_count": 2,
+      "app_repeat_window_star_count": 2,
+      "app_prior_total_star_count": 2,
+      "family_repeat_window_star_count": 2,
+      "family_prior_total_star_count": 2,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 2,
+      "total_star_count": 3,
+      "star_appearance_count": 3,
+      "cumulative_star_count": 2,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": null,
-      "review_total": 0,
-      "days_seen": 5,
+      "review_ratio": 92.0,
+      "review_total": 13768,
+      "days_seen": 4,
       "comeback_gap_days": 1,
-      "is_new_release": true,
-      "release_age_days": 5,
-      "steam_release_age_days": 5,
-      "release_age_basis": "confirmed_identity",
-      "release_verification_required": false,
+      "is_new_release": false,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 226,
+        "initial_review_total": 13583,
         "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "verification_status": "pending"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "角色扮演",
-        "免费"
+        "独立",
+        "模拟"
       ],
       "scoring_version": "release_event_v2",
-      "release_event_type": "true_new",
-      "release_event_date": "2026-08-27",
-      "release_event_age_days": 5,
+      "release_event_type": "pending",
+      "release_event_date": "2026-08-28",
+      "release_event_age_days": 4,
       "release_event_window_days": 30,
-      "release_event_multiplier": 1.0,
+      "release_event_multiplier": 0.85,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 226,
+        "initial_review_total": 13583,
         "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "verification_status": "pending"
       },
-      "release_event_date_basis": "confirmed_identity",
+      "release_event_date_basis": "actual_open_date",
       "trend": [
         {
-          "date": "2026-08-28",
-          "peak": 6148
-        },
-        {
           "date": "2026-08-29",
-          "peak": 6616
+          "peak": 8622
         },
         {
           "date": "2026-08-30",
-          "peak": 6616
+          "peak": 8752
         },
         {
           "date": "2026-08-31",
-          "peak": 6589
+          "peak": 12196
         },
         {
           "date": "2026-09-01",
-          "peak": 6275
+          "peak": 10573
         }
       ]
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 3,
+      "prior_count": 2,
+      "repeat_window_prior_count": 2
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4952980"
+        "url": "https://store.steampowered.com/app/1331550"
       }
     ],
     "game": {
-      "slug": "my-party-is-grinding",
-      "appid": "4952980",
-      "name": "My Party Is Grinding",
+      "slug": "big-ambitions",
+      "appid": "1331550",
+      "name": "Big Ambitions",
       "name_cn": null,
-      "description": "在屏幕角落的小窗口里，五人小队在你工作时持续战斗、拾取战利品并成长的桌面放置RPG。",
-      "release_date": "2026-08-27",
+      "description": "Big Ambitions 是一款革命性的角色扮演模拟经营游戏。 你从一无所有起步，开办小企业，创建大公司，最终成为全纽约最大的企业家。",
+      "release_date": "2026-08-28",
       "genres": [
-        "角色扮演",
-        "免费"
+        "独立",
+        "模拟"
       ],
       "tags": [
         "单人",
         "Steam 成就",
-        "自定义音量控制",
-        "可以仅用鼠标",
-        "#category_playable_at_your_own_pace",
-        "无需应对快速反应事件",
-        "随时保存",
+        "Steam 创意工坊",
+        "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 42.0,
-      "review_total": 429,
-      "developer": "SUPERLINK Inc.",
-      "publisher": "SUPERLINK Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4952980/5715d306e00589ea9cba3d28b0b30ad96fe1a8ba/header.jpg?t=1788021618",
-      "steam_url": "https://store.steampowered.com/app/4952980",
-      "product_family_identity": "appid:4952980",
-      "product_family_appid": "4952980",
+      "review_score": "Very Positive",
+      "review_ratio": 92.0,
+      "review_total": 13926,
+      "developer": "Hovgaard Games",
+      "publisher": "Hovgaard Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1788186935",
+      "steam_url": "https://store.steampowered.com/app/1331550",
+      "product_family_identity": "appid:1331550",
+      "product_family_appid": "1331550",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-08-28",
-          "peak": 6148
-        },
-        {
           "date": "2026-08-29",
-          "peak": 6616
+          "peak": 8622
         },
         {
           "date": "2026-08-30",
-          "peak": 6616
+          "peak": 8752
         },
         {
           "date": "2026-08-31",
-          "peak": 6589
+          "peak": 12196
         },
         {
           "date": "2026-09-01",
-          "peak": 6275
+          "peak": 10573
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《My Party Is Grinding》是一款常驻屏幕角落的免费桌面放置 RPG。五人小队会在你处理其他事情时自动战斗和拾取装备，你主要负责定期回来整理战利品、调整队伍，再把他们推向更高难度。",
-      "reference_frame": "可以把它理解成把传统刷装 RPG 压进桌面小窗：战斗压力交给自动化，乐趣落在观察掉落、比较装备和修整队伍。它更像工作或学习旁边持续运转的第二块游戏窗口，而不是需要全程盯住的动作 RPG。",
-      "for_players": "适合喜欢刷装、队伍养成和数值优化，又希望游戏能与办公或学习并行的人。操作负担不高，主要投入在定期检查成长结果和做配置取舍。",
-      "not_for_players": "如果你期待手动操控每场战斗、强剧情推进，或不喜欢反复整理装备和等待自动成长，这种桌面放置节奏可能很快显得单调。",
-      "star_reason": "9 月 1 日留存数据里，它的当日观测峰值为 6,275，仍维持在此前 6,616 高点附近。在更高分候选触发重复摘星限制后，它成为当天评分最高且具备公开资格的新作信号，也让桌面放置 RPG 这一轻量入口值得继续观察。",
+      "positioning": "《Big Ambitions》是一款把商业经营和生活模拟放进纽约开放世界的单人游戏。你从小公寓和第一份工作起步，租店、进货、招人，再扩成连锁企业。",
+      "reference_frame": "它不只让你在报表里调数字，还要求角色亲自跑店面、买设备和处理生活需求。企业做大后，仓库、物流、采购与管理层逐步接手重复劳动，经营尺度也随之扩大。",
+      "for_players": "适合喜欢经营模拟、资源调度和从一间小店慢慢搭出商业版图的人；愿意同时照顾角色睡眠、健康与生活目标，也会更容易接受它的节奏。",
+      "not_for_players": "如果你只想看数字自动增长，不喜欢亲自跑地图、布置店面或处理库存与员工，前期会显得琐碎；偏好短局、高压决策的人也可能觉得扩张太慢。",
+      "star_reason": "9 月 1 日，它的 24 小时峰值为 10,573，仍低于此前的 12,196；当天缺少可靠评价，因此沿用 8 月 31 日的 92% 好评率并按 1.10 倍计分。前两名受重复摘星规则限制后，它以 11.85 分成为首个合格候选，也是 30 天内第三次摘星。",
       "core_loop": [
-        "让五人小队自动推进关卡、战斗并积累装备和资源。",
-        "回到窗口检查掉落，替换装备并调整成员搭配，解决当前卡点。",
-        "重新投入自动战斗，观察新配置能否把队伍推得更远。"
+        "选择店铺类型并租下场地，装修空间、准备设备与第一批库存。",
+        "根据客流和收支调整商品、价格与排班，让店面稳定赚钱。",
+        "雇用员工和经理，建设仓储与配送网络，再把利润投向新店、房产或更大的公司。"
       ],
-      "content_length": 476
+      "content_length": 471
     }
   },
   "secondary_signals": [],

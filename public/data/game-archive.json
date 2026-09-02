@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-02T22:04:29",
+  "generated_at": "2026-09-02T23:40:34",
   "games": [
     {
       "game": {
@@ -25,6 +25,7 @@
       "article_published_at": null,
       "star_dates": [
         "2026-09-02",
+        "2026-09-01",
         "2026-08-31",
         "2026-08-30"
       ],
@@ -33,36 +34,6 @@
       ],
       "article_count": 0,
       "latest_star_date": "2026-09-02"
-    },
-    {
-      "game": {
-        "slug": "my-party-is-grinding",
-        "appid": "4952980",
-        "name": "My Party Is Grinding",
-        "name_cn": null,
-        "description": "在屏幕角落的小窗口里，五人小队在你工作时持续战斗、拾取战利品并成长的桌面放置RPG。",
-        "genres": [
-          "角色扮演",
-          "免费"
-        ],
-        "developer": "SUPERLINK Inc.",
-        "publisher": "SUPERLINK Inc.",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4952980/5715d306e00589ea9cba3d28b0b30ad96fe1a8ba/header.jpg?t=1788021618",
-        "product_family_identity": "appid:4952980",
-        "product_family_appid": "4952980",
-        "product_family_role": "full"
-      },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
-      "star_dates": [
-        "2026-09-01"
-      ],
-      "member_appids": [
-        "4952980"
-      ],
-      "article_count": 0,
-      "latest_star_date": "2026-09-01"
     },
     {
       "game": {
