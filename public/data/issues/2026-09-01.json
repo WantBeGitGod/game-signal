@@ -1,0 +1,391 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-09-01",
+  "title": "09.01 今日之星",
+  "summary": "已关闭空刊日：2026-09-01 的当日 18:00 候选快照未留存，生产候选 run 153 于次日才由 21:00 历史回填物化，无法恢复当时排名。按现行规则可用 2026-08-31 的可靠评价做一日回看，但评价回看不能替代缺失的候选快照。保留既有观测事实，不把次日晚间榜伪装成当日正式结果，也不产生摘星债务。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 11.29,
+    "fact_summary": "My Party Is Grinding 今日观测峰值 6,275，未超过过往最高峰值 6,616，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 6275,
+      "previous_peak": 6616,
+      "previous_record_peak": 6616,
+      "growth_rate": -0.0515,
+      "record_growth_rate": -0.0515,
+      "scoring_peak": 6275,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 11.29,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.07,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.07,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 11.29,
+      "event_adjusted_score": 11.29,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 11.29,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 11.29,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 226,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "角色扮演",
+        "免费"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-27",
+      "release_event_age_days": 5,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 226,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-28",
+          "peak": 6148
+        },
+        {
+          "date": "2026-08-29",
+          "peak": 6616
+        },
+        {
+          "date": "2026-08-30",
+          "peak": 6616
+        },
+        {
+          "date": "2026-08-31",
+          "peak": 6589
+        },
+        {
+          "date": "2026-09-01",
+          "peak": 6275
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4952980"
+      }
+    ],
+    "game": {
+      "slug": "my-party-is-grinding",
+      "appid": "4952980",
+      "name": "My Party Is Grinding",
+      "name_cn": null,
+      "description": "在屏幕角落的小窗口里，五人小队在你工作时持续战斗、拾取战利品并成长的桌面放置RPG。",
+      "release_date": "2026-08-27",
+      "genres": [
+        "角色扮演",
+        "免费"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "自定义音量控制",
+        "可以仅用鼠标",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "随时保存",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 42.0,
+      "review_total": 429,
+      "developer": "SUPERLINK Inc.",
+      "publisher": "SUPERLINK Inc.",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4952980/5715d306e00589ea9cba3d28b0b30ad96fe1a8ba/header.jpg?t=1788021618",
+      "steam_url": "https://store.steampowered.com/app/4952980",
+      "product_family_identity": "appid:4952980",
+      "product_family_appid": "4952980",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-28",
+          "peak": 6148
+        },
+        {
+          "date": "2026-08-29",
+          "peak": 6616
+        },
+        {
+          "date": "2026-08-30",
+          "peak": 6616
+        },
+        {
+          "date": "2026-08-31",
+          "peak": 6589
+        },
+        {
+          "date": "2026-09-01",
+          "peak": 6275
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《My Party Is Grinding》是一款常驻屏幕角落的免费桌面放置 RPG。五人小队会在你处理其他事情时自动战斗和拾取装备，你主要负责定期回来整理战利品、调整队伍，再把他们推向更高难度。",
+      "reference_frame": "可以把它理解成把传统刷装 RPG 压进桌面小窗：战斗压力交给自动化，乐趣落在观察掉落、比较装备和修整队伍。它更像工作或学习旁边持续运转的第二块游戏窗口，而不是需要全程盯住的动作 RPG。",
+      "for_players": "适合喜欢刷装、队伍养成和数值优化，又希望游戏能与办公或学习并行的人。操作负担不高，主要投入在定期检查成长结果和做配置取舍。",
+      "not_for_players": "如果你期待手动操控每场战斗、强剧情推进，或不喜欢反复整理装备和等待自动成长，这种桌面放置节奏可能很快显得单调。",
+      "star_reason": "9 月 1 日留存数据里，它的当日观测峰值为 6,275，仍维持在此前 6,616 高点附近。在更高分候选触发重复摘星限制后，它成为当天评分最高且具备公开资格的新作信号，也让桌面放置 RPG 这一轻量入口值得继续观察。",
+      "core_loop": [
+        "让五人小队自动推进关卡、战斗并积累装备和资源。",
+        "回到窗口检查掉落，替换装备并调整成员搭配，解决当前卡点。",
+        "重新投入自动战斗，观察新配置能否把队伍推得更远。"
+      ],
+      "content_length": 476
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 11.29,
+    "fact_summary": "My Party Is Grinding 今日观测峰值 6,275，未超过过往最高峰值 6,616，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 6275,
+      "previous_peak": 6616,
+      "previous_record_peak": 6616,
+      "growth_rate": -0.0515,
+      "record_growth_rate": -0.0515,
+      "scoring_peak": 6275,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 11.29,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.07,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.07,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 11.29,
+      "event_adjusted_score": 11.29,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 11.29,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 11.29,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 226,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "角色扮演",
+        "免费"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-27",
+      "release_event_age_days": 5,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 226,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-08-28",
+          "peak": 6148
+        },
+        {
+          "date": "2026-08-29",
+          "peak": 6616
+        },
+        {
+          "date": "2026-08-30",
+          "peak": 6616
+        },
+        {
+          "date": "2026-08-31",
+          "peak": 6589
+        },
+        {
+          "date": "2026-09-01",
+          "peak": 6275
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4952980"
+      }
+    ],
+    "game": {
+      "slug": "my-party-is-grinding",
+      "appid": "4952980",
+      "name": "My Party Is Grinding",
+      "name_cn": null,
+      "description": "在屏幕角落的小窗口里，五人小队在你工作时持续战斗、拾取战利品并成长的桌面放置RPG。",
+      "release_date": "2026-08-27",
+      "genres": [
+        "角色扮演",
+        "免费"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "自定义音量控制",
+        "可以仅用鼠标",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "随时保存",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 42.0,
+      "review_total": 429,
+      "developer": "SUPERLINK Inc.",
+      "publisher": "SUPERLINK Inc.",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4952980/5715d306e00589ea9cba3d28b0b30ad96fe1a8ba/header.jpg?t=1788021618",
+      "steam_url": "https://store.steampowered.com/app/4952980",
+      "product_family_identity": "appid:4952980",
+      "product_family_appid": "4952980",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-28",
+          "peak": 6148
+        },
+        {
+          "date": "2026-08-29",
+          "peak": 6616
+        },
+        {
+          "date": "2026-08-30",
+          "peak": 6616
+        },
+        {
+          "date": "2026-08-31",
+          "peak": 6589
+        },
+        {
+          "date": "2026-09-01",
+          "peak": 6275
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《My Party Is Grinding》是一款常驻屏幕角落的免费桌面放置 RPG。五人小队会在你处理其他事情时自动战斗和拾取装备，你主要负责定期回来整理战利品、调整队伍，再把他们推向更高难度。",
+      "reference_frame": "可以把它理解成把传统刷装 RPG 压进桌面小窗：战斗压力交给自动化，乐趣落在观察掉落、比较装备和修整队伍。它更像工作或学习旁边持续运转的第二块游戏窗口，而不是需要全程盯住的动作 RPG。",
+      "for_players": "适合喜欢刷装、队伍养成和数值优化，又希望游戏能与办公或学习并行的人。操作负担不高，主要投入在定期检查成长结果和做配置取舍。",
+      "not_for_players": "如果你期待手动操控每场战斗、强剧情推进，或不喜欢反复整理装备和等待自动成长，这种桌面放置节奏可能很快显得单调。",
+      "star_reason": "9 月 1 日留存数据里，它的当日观测峰值为 6,275，仍维持在此前 6,616 高点附近。在更高分候选触发重复摘星限制后，它成为当天评分最高且具备公开资格的新作信号，也让桌面放置 RPG 这一轻量入口值得继续观察。",
+      "core_loop": [
+        "让五人小队自动推进关卡、战斗并积累装备和资源。",
+        "回到窗口检查掉落，替换装备并调整成员搭配，解决当前卡点。",
+        "重新投入自动战斗，观察新配置能否把队伍推得更远。"
+      ],
+      "content_length": 476
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
