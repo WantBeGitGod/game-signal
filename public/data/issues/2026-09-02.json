@@ -1,0 +1,389 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-09-02",
+  "title": "09.02 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 11.61,
+    "fact_summary": "Big Ambitions 今日观测峰值 9,853，未超过过往最高峰值 12,196，被识别为「发行节点起量」。",
+    "metrics": {
+      "current_peak": 9853,
+      "previous_peak": 12196,
+      "previous_record_peak": 12196,
+      "growth_rate": -0.1921,
+      "record_growth_rate": -0.1921,
+      "scoring_peak": 9853,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 17.74,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.238,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.238,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 17.74,
+      "event_adjusted_score": 15.08,
+      "event_multiplier": 0.85,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 16.58,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.6545,
+      "base_score": 11.61,
+      "score_multiplier": 0.7,
+      "score_multiplier_reasons": [
+        "repeat_window_star_2x"
+      ],
+      "repeat_window_star_count": 2,
+      "app_repeat_window_star_count": 2,
+      "app_prior_total_star_count": 2,
+      "family_repeat_window_star_count": 2,
+      "family_prior_total_star_count": 2,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 2,
+      "total_star_count": 3,
+      "star_appearance_count": 3,
+      "cumulative_star_count": 2,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 92.0,
+      "review_total": 13926,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 13583,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "pending",
+      "release_event_date": "2026-08-28",
+      "release_event_age_days": 5,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 13583,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "trend": [
+        {
+          "date": "2026-08-29",
+          "peak": 8622
+        },
+        {
+          "date": "2026-08-30",
+          "peak": 8752
+        },
+        {
+          "date": "2026-08-31",
+          "peak": 12196
+        },
+        {
+          "date": "2026-09-01",
+          "peak": 10573
+        },
+        {
+          "date": "2026-09-02",
+          "peak": 9853
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 3,
+      "prior_count": 2,
+      "repeat_window_prior_count": 2
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1331550"
+      }
+    ],
+    "game": {
+      "slug": "big-ambitions",
+      "appid": "1331550",
+      "name": "Big Ambitions",
+      "name_cn": null,
+      "description": "Big Ambitions 是一款革命性的角色扮演模拟经营游戏。 你从一无所有起步，开办小企业，创建大公司，最终成为全纽约最大的企业家。",
+      "release_date": "2026-08-28",
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 创意工坊",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 92.0,
+      "review_total": 13926,
+      "developer": "Hovgaard Games",
+      "publisher": "Hovgaard Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1788186935",
+      "steam_url": "https://store.steampowered.com/app/1331550",
+      "product_family_identity": "appid:1331550",
+      "product_family_appid": "1331550",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-29",
+          "peak": 8622
+        },
+        {
+          "date": "2026-08-30",
+          "peak": 8752
+        },
+        {
+          "date": "2026-08-31",
+          "peak": 12196
+        },
+        {
+          "date": "2026-09-01",
+          "peak": 10573
+        },
+        {
+          "date": "2026-09-02",
+          "peak": 9853
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Big Ambitions》是一款把商业经营和生活模拟放进纽约开放世界的单人游戏。你从小公寓和第一份工作起步，租店、进货、招人，再扩成连锁企业。",
+      "reference_frame": "它不只让你在报表里调数字，还要求角色亲自跑店面、买设备和处理生活需求。企业做大后，仓库、物流、采购与管理层逐步接手重复劳动，经营尺度也随之扩大。",
+      "for_players": "适合喜欢经营模拟、资源调度和从一间小店慢慢搭出商业版图的人；愿意同时照顾角色睡眠、健康与生活目标，也会更容易接受它的节奏。",
+      "not_for_players": "如果你只想看数字自动增长，不喜欢亲自跑地图、布置店面或处理库存与员工，前期会显得琐碎；偏好短局、高压决策的人也可能觉得扩张太慢。",
+      "star_reason": "9 月 2 日，它的 24 小时峰值为 9,853，仍低于此前的 12,196；Steam 当日记录 13,926 条评价、92% 好评。前两名分别受首发高基数重复门和 30 天三次摘星上限限制后，它以 11.61 分成为首个合格候选。首发低基数已确认，本次是它 30 天内第三次、也是达到上限前的最后一次摘星。",
+      "core_loop": [
+        "选择店铺类型并租下场地，装修空间、准备设备与第一批库存。",
+        "根据客流和收支调整商品、价格与排班，让店面稳定赚钱。",
+        "雇用员工和经理，建设仓储与配送网络，再把利润投向新店、房产或更大的公司。"
+      ],
+      "content_length": 498
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 11.61,
+    "fact_summary": "Big Ambitions 今日观测峰值 9,853，未超过过往最高峰值 12,196，被识别为「发行节点起量」。",
+    "metrics": {
+      "current_peak": 9853,
+      "previous_peak": 12196,
+      "previous_record_peak": 12196,
+      "growth_rate": -0.1921,
+      "record_growth_rate": -0.1921,
+      "scoring_peak": 9853,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 17.74,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.238,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.238,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 17.74,
+      "event_adjusted_score": 15.08,
+      "event_multiplier": 0.85,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 16.58,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.6545,
+      "base_score": 11.61,
+      "score_multiplier": 0.7,
+      "score_multiplier_reasons": [
+        "repeat_window_star_2x"
+      ],
+      "repeat_window_star_count": 2,
+      "app_repeat_window_star_count": 2,
+      "app_prior_total_star_count": 2,
+      "family_repeat_window_star_count": 2,
+      "family_prior_total_star_count": 2,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 2,
+      "total_star_count": 3,
+      "star_appearance_count": 3,
+      "cumulative_star_count": 2,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 92.0,
+      "review_total": 13926,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 13583,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "pending",
+      "release_event_date": "2026-08-28",
+      "release_event_age_days": 5,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 13583,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "trend": [
+        {
+          "date": "2026-08-29",
+          "peak": 8622
+        },
+        {
+          "date": "2026-08-30",
+          "peak": 8752
+        },
+        {
+          "date": "2026-08-31",
+          "peak": 12196
+        },
+        {
+          "date": "2026-09-01",
+          "peak": 10573
+        },
+        {
+          "date": "2026-09-02",
+          "peak": 9853
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 3,
+      "prior_count": 2,
+      "repeat_window_prior_count": 2
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1331550"
+      }
+    ],
+    "game": {
+      "slug": "big-ambitions",
+      "appid": "1331550",
+      "name": "Big Ambitions",
+      "name_cn": null,
+      "description": "Big Ambitions 是一款革命性的角色扮演模拟经营游戏。 你从一无所有起步，开办小企业，创建大公司，最终成为全纽约最大的企业家。",
+      "release_date": "2026-08-28",
+      "genres": [
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "Steam 创意工坊",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 92.0,
+      "review_total": 13926,
+      "developer": "Hovgaard Games",
+      "publisher": "Hovgaard Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1788186935",
+      "steam_url": "https://store.steampowered.com/app/1331550",
+      "product_family_identity": "appid:1331550",
+      "product_family_appid": "1331550",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-08-29",
+          "peak": 8622
+        },
+        {
+          "date": "2026-08-30",
+          "peak": 8752
+        },
+        {
+          "date": "2026-08-31",
+          "peak": 12196
+        },
+        {
+          "date": "2026-09-01",
+          "peak": 10573
+        },
+        {
+          "date": "2026-09-02",
+          "peak": 9853
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Big Ambitions》是一款把商业经营和生活模拟放进纽约开放世界的单人游戏。你从小公寓和第一份工作起步，租店、进货、招人，再扩成连锁企业。",
+      "reference_frame": "它不只让你在报表里调数字，还要求角色亲自跑店面、买设备和处理生活需求。企业做大后，仓库、物流、采购与管理层逐步接手重复劳动，经营尺度也随之扩大。",
+      "for_players": "适合喜欢经营模拟、资源调度和从一间小店慢慢搭出商业版图的人；愿意同时照顾角色睡眠、健康与生活目标，也会更容易接受它的节奏。",
+      "not_for_players": "如果你只想看数字自动增长，不喜欢亲自跑地图、布置店面或处理库存与员工，前期会显得琐碎；偏好短局、高压决策的人也可能觉得扩张太慢。",
+      "star_reason": "9 月 2 日，它的 24 小时峰值为 9,853，仍低于此前的 12,196；Steam 当日记录 13,926 条评价、92% 好评。前两名分别受首发高基数重复门和 30 天三次摘星上限限制后，它以 11.61 分成为首个合格候选。首发低基数已确认，本次是它 30 天内第三次、也是达到上限前的最后一次摘星。",
+      "core_loop": [
+        "选择店铺类型并租下场地，装修空间、准备设备与第一批库存。",
+        "根据客流和收支调整商品、价格与排班，让店面稳定赚钱。",
+        "雇用员工和经理，建设仓储与配送网络，再把利润投向新店、房产或更大的公司。"
+      ],
+      "content_length": 498
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
