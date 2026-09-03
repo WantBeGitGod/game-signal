@@ -1,0 +1,41 @@
+{
+  "slug": "the-blood-of-dawnwalker",
+  "appid": "3751260",
+  "name": "The Blood of Dawnwalker",
+  "name_cn": null,
+  "description": "《The Blood of Dawnwalker》为开放世界的黑暗奇幻动作RPG。 故事背景在14世纪的欧洲，你将扮演科恩，一名白昼时为人类，黑夜时为吸血鬼的年轻人。在为了拯救家人的奋斗之中，所做出的各种抉择与揭露的秘密，将塑造成属于你的故事。",
+  "release_date": "2026-09-02",
+  "genres": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "自定义音量控制",
+    "可调整难度",
+    "推荐使用手柄",
+    "随时保存",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Mostly Positive",
+  "review_ratio": 76.0,
+  "review_total": 2531,
+  "developer": "Rebel Wolves",
+  "publisher": "Bandai Namco Entertainment",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788417072",
+  "steam_url": "https://store.steampowered.com/app/3751260",
+  "product_family_identity": "appid:3751260",
+  "product_family_appid": "3751260",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-09-03",
+      "peak": 29064
+    }
+  ]
+}
