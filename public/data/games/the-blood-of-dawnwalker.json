@@ -23,11 +23,11 @@
     "家庭共享"
   ],
   "review_score": "Mostly Positive",
-  "review_ratio": 76.0,
-  "review_total": 2531,
+  "review_ratio": 79.0,
+  "review_total": 6292,
   "developer": "Rebel Wolves",
   "publisher": "Bandai Namco Entertainment",
-  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788417072",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788444722",
   "steam_url": "https://store.steampowered.com/app/3751260",
   "product_family_identity": "appid:3751260",
   "product_family_appid": "3751260",
@@ -36,6 +36,10 @@
     {
       "date": "2026-09-03",
       "peak": 29064
+    },
+    {
+      "date": "2026-09-04",
+      "peak": 64386
     }
   ]
 }

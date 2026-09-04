@@ -1,0 +1,361 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-09-04",
+  "title": "09.04 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 50.62,
+    "fact_summary": "The Blood of Dawnwalker 今日观测峰值 64,386，较过往最高峰值提升 +122%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 64386,
+      "previous_peak": 29064,
+      "previous_record_peak": 29064,
+      "growth_rate": 1.2153,
+      "record_growth_rate": 1.2153,
+      "scoring_peak": 64386,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 28.27,
+      "raw_record_growth_score": 35.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 1.3515,
+      "growth_scale_crossing_component": 0.5439,
+      "record_growth_score": 35.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 63.27,
+      "event_adjusted_score": 63.27,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 63.27,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-09-04",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.8,
+      "base_score": 50.62,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 79.0,
+      "review_total": 6292,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 2531,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-02",
+      "release_event_age_days": 2,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 2531,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-09-03",
+          "peak": 29064
+        },
+        {
+          "date": "2026-09-04",
+          "peak": 64386
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3751260"
+      }
+    ],
+    "game": {
+      "slug": "the-blood-of-dawnwalker",
+      "appid": "3751260",
+      "name": "The Blood of Dawnwalker",
+      "name_cn": null,
+      "description": "《The Blood of Dawnwalker》为开放世界的黑暗奇幻动作RPG。 故事背景在14世纪的欧洲，你将扮演科恩，一名白昼时为人类，黑夜时为吸血鬼的年轻人。在为了拯救家人的奋斗之中，所做出的各种抉择与揭露的秘密，将塑造成属于你的故事。",
+      "release_date": "2026-09-02",
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "自定义音量控制",
+        "可调整难度",
+        "推荐使用手柄",
+        "随时保存",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 79.0,
+      "review_total": 6292,
+      "developer": "Rebel Wolves",
+      "publisher": "Bandai Namco Entertainment",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788444722",
+      "steam_url": "https://store.steampowered.com/app/3751260",
+      "product_family_identity": "appid:3751260",
+      "product_family_appid": "3751260",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-03",
+          "peak": 29064
+        },
+        {
+          "date": "2026-09-04",
+          "peak": 64386
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《The Blood of Dawnwalker》是一款单人开放世界黑暗奇幻动作 RPG。你扮演为救家人而行动的科恩：白天以人类身份活动，入夜后成为吸血鬼；两种状态会改变你接近人物、调查线索和解决麻烦的方式。",
+      "reference_frame": "它把动作 RPG 的战斗和开放世界任务放进一套有时间压力的叙事冒险里。重点不在清完地图图标，而在于决定先为哪件事做准备、何时推进任务，以及愿意让哪些选择留下后果。",
+      "for_players": "适合喜欢单人黑暗奇幻、愿意主动读线索和规划路线的玩家；如果你享受动作 RPG 的技能成长，也希望角色身份能实实在在改变行动选择，这套昼夜结构会比普通任务清单更有吸引力。",
+      "not_for_players": "如果你偏好节奏紧凑、目标始终明确的线性动作流程，或希望无压力地清完每条支线，任务时间与取舍可能带来负担。它也要求玩家接受第三人称战斗中的时机、位置和准备工作。",
+      "star_reason": "9 月 4 日，本地 24 小时观测峰值升至 64,386，较前日 29,064 增长 122%；Steam 当日好评率为 79%。它以 50.62 分继续位居原模型第一，首发观察已成熟，因此成为当天今日之星。",
+      "core_loop": [
+        "在 Vale Sangora 寻找人物、地点和任务线索，判断当前最值得处理的目标。",
+        "根据昼夜切换人类或吸血鬼身份，用剑术、巫术或夜间能力完成战斗与调查。",
+        "接受任务推进消耗时间并带来关系、线索和成长变化，再安排下一段路线。"
+      ],
+      "content_length": 537
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 50.62,
+    "fact_summary": "The Blood of Dawnwalker 今日观测峰值 64,386，较过往最高峰值提升 +122%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 64386,
+      "previous_peak": 29064,
+      "previous_record_peak": 29064,
+      "growth_rate": 1.2153,
+      "record_growth_rate": 1.2153,
+      "scoring_peak": 64386,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 28.27,
+      "raw_record_growth_score": 35.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 1.3515,
+      "growth_scale_crossing_component": 0.5439,
+      "record_growth_score": 35.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 63.27,
+      "event_adjusted_score": 63.27,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 63.27,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-09-04",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.8,
+      "base_score": 50.62,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 79.0,
+      "review_total": 6292,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 2531,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-02",
+      "release_event_age_days": 2,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 2531,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-09-03",
+          "peak": 29064
+        },
+        {
+          "date": "2026-09-04",
+          "peak": 64386
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3751260"
+      }
+    ],
+    "game": {
+      "slug": "the-blood-of-dawnwalker",
+      "appid": "3751260",
+      "name": "The Blood of Dawnwalker",
+      "name_cn": null,
+      "description": "《The Blood of Dawnwalker》为开放世界的黑暗奇幻动作RPG。 故事背景在14世纪的欧洲，你将扮演科恩，一名白昼时为人类，黑夜时为吸血鬼的年轻人。在为了拯救家人的奋斗之中，所做出的各种抉择与揭露的秘密，将塑造成属于你的故事。",
+      "release_date": "2026-09-02",
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "自定义音量控制",
+        "可调整难度",
+        "推荐使用手柄",
+        "随时保存",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 79.0,
+      "review_total": 6292,
+      "developer": "Rebel Wolves",
+      "publisher": "Bandai Namco Entertainment",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788444722",
+      "steam_url": "https://store.steampowered.com/app/3751260",
+      "product_family_identity": "appid:3751260",
+      "product_family_appid": "3751260",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-03",
+          "peak": 29064
+        },
+        {
+          "date": "2026-09-04",
+          "peak": 64386
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《The Blood of Dawnwalker》是一款单人开放世界黑暗奇幻动作 RPG。你扮演为救家人而行动的科恩：白天以人类身份活动，入夜后成为吸血鬼；两种状态会改变你接近人物、调查线索和解决麻烦的方式。",
+      "reference_frame": "它把动作 RPG 的战斗和开放世界任务放进一套有时间压力的叙事冒险里。重点不在清完地图图标，而在于决定先为哪件事做准备、何时推进任务，以及愿意让哪些选择留下后果。",
+      "for_players": "适合喜欢单人黑暗奇幻、愿意主动读线索和规划路线的玩家；如果你享受动作 RPG 的技能成长，也希望角色身份能实实在在改变行动选择，这套昼夜结构会比普通任务清单更有吸引力。",
+      "not_for_players": "如果你偏好节奏紧凑、目标始终明确的线性动作流程，或希望无压力地清完每条支线，任务时间与取舍可能带来负担。它也要求玩家接受第三人称战斗中的时机、位置和准备工作。",
+      "star_reason": "9 月 4 日，本地 24 小时观测峰值升至 64,386，较前日 29,064 增长 122%；Steam 当日好评率为 79%。它以 50.62 分继续位居原模型第一，首发观察已成熟，因此成为当天今日之星。",
+      "core_loop": [
+        "在 Vale Sangora 寻找人物、地点和任务线索，判断当前最值得处理的目标。",
+        "根据昼夜切换人类或吸血鬼身份，用剑术、巫术或夜间能力完成战斗与调查。",
+        "接受任务推进消耗时间并带来关系、线索和成长变化，再安排下一段路线。"
+      ],
+      "content_length": 537
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
