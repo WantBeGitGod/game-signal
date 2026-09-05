@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-04T18:18:04",
+  "generated_at": "2026-09-05T20:29:50",
   "games": [
     {
       "game": {
@@ -16,14 +16,16 @@
         ],
         "developer": "Rebel Wolves",
         "publisher": "Bandai Namco Entertainment",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788417072",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788444722",
         "product_family_identity": "appid:3751260",
         "product_family_appid": "3751260",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "the-blood-of-dawnwalker"
+      ],
+      "article_title": "The Blood of Dawnwalker-日夜各一条路，时间却只给三十天",
+      "article_published_at": "2026-09-03",
       "star_dates": [
         "2026-09-04",
         "2026-09-03"
@@ -31,7 +33,7 @@
       "member_appids": [
         "3751260"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-09-04"
     },
     {
@@ -52,16 +54,18 @@
         "product_family_appid": "4952980",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "my-party-is-grinding"
+      ],
+      "article_title": "My Party Is Grinding-你的电脑替你上班",
+      "article_published_at": "2026-09-04",
       "star_dates": [
         "2026-09-02"
       ],
       "member_appids": [
         "4952980"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-09-02"
     },
     {
@@ -77,14 +81,16 @@
         ],
         "developer": "Hovgaard Games",
         "publisher": "Hovgaard Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1787936588",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1788186935",
         "product_family_identity": "appid:1331550",
         "product_family_appid": "1331550",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "big-ambitions"
+      ],
+      "article_title": "Big Ambitions-把纽约跑成一张报表",
+      "article_published_at": "2026-09-01",
       "star_dates": [
         "2026-09-01",
         "2026-08-31",
@@ -93,7 +99,7 @@
       "member_appids": [
         "1331550"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-09-01"
     },
     {
@@ -114,16 +120,18 @@
         "product_family_appid": "2492670",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "metal-gear-solid-4-guns-of-the-patriots-master-collection-version"
+      ],
+      "article_title": "合金装备4-迟到十八年的潜入课",
+      "article_published_at": "2026-09-02",
       "star_dates": [
         "2026-08-29"
       ],
       "member_appids": [
         "2492670"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-08-29"
     },
     {
@@ -147,16 +155,18 @@
         "product_family_appid": "2075800",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "star-wars-zero-company"
+      ],
+      "article_title": "星球大战：零号连队-原力请在本回合内使用",
+      "article_published_at": "2026-08-30",
       "star_dates": [
         "2026-08-28"
       ],
       "member_appids": [
         "2075800"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-08-28"
     },
     {
@@ -234,14 +244,16 @@
         ],
         "developer": "Infinity Ward, Beenox, Digital Legends, Activision Shanghai, Raven Software, Treyarch, Sledgehammer Games, High Moon Studios",
         "publisher": "Activision",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783780/8c72205bfdf522bada8431d2aacbd1b6c66fac4c/header.jpg?t=1787359096",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783780/8c72205bfdf522bada8431d2aacbd1b6c66fac4c/header.jpg?t=1787684232",
         "product_family_identity": "appid:4783780",
         "product_family_appid": "4783780",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "call-of-duty-modern-warfare-4-beta"
+      ],
+      "article_title": "使命召唤：现代战争4-公开测试不是广告片",
+      "article_published_at": "2026-08-25",
       "star_dates": [
         "2026-08-25",
         "2026-08-23"
@@ -249,7 +261,7 @@
       "member_appids": [
         "4783780"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-08-25"
     },
     {
@@ -272,9 +284,11 @@
         "product_family_appid": "4001890",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "how-to-fish"
+      ],
+      "article_title": "How to Fish-给钓鱼佬一把枪，给朋友一场事故",
+      "article_published_at": "2026-08-29",
       "star_dates": [
         "2026-08-24",
         "2026-08-22",
@@ -283,7 +297,7 @@
       "member_appids": [
         "4001890"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-08-24"
     },
     {
@@ -306,9 +320,11 @@
         "product_family_appid": "3079210",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "hell-let-loose-vietnam"
+      ],
+      "article_title": "人间地狱：越南——一场新战场，先要守住服务器",
+      "article_published_at": "2026-08-18",
       "star_dates": [
         "2026-08-18",
         "2026-08-15"
@@ -316,7 +332,7 @@
       "member_appids": [
         "3079210"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-08-18"
     },
     {
@@ -340,16 +356,18 @@
         "product_family_appid": "4243990",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "path-of-idle-old-gods-rising"
+      ],
+      "article_title": "放置之路：把暗黑刷装留给下班后的脑子",
+      "article_published_at": "2026-08-17",
       "star_dates": [
         "2026-08-17"
       ],
       "member_appids": [
         "4243990"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-08-17"
     },
     {
@@ -464,16 +482,18 @@
         "product_family_appid": "3527290",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "peak"
+      ],
+      "article_title": "PEAK：把一次失手留给整队人一起收拾",
+      "article_published_at": "2026-08-13",
       "star_dates": [
         "2026-08-12"
       ],
       "member_appids": [
         "3527290"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-08-12"
     },
     {
@@ -557,16 +577,18 @@
         "product_family_appid": "2950790",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "iron-nest-heavy-turret-simulator"
+      ],
+      "article_title": "IRON NEST：把一发炮弹重新做成一项工作",
+      "article_published_at": "2026-08-12",
       "star_dates": [
         "2026-08-09"
       ],
       "member_appids": [
         "2950790"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-08-09"
     },
     {
@@ -650,16 +672,18 @@
         "product_family_appid": "2436940",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "sephiria"
+      ],
+      "article_title": "Sephiria-让一格背包决定这一趟怎么打",
+      "article_published_at": "2026-08-04",
       "star_dates": [
         "2026-08-04"
       ],
       "member_appids": [
         "2436940"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-08-04"
     },
     {
@@ -680,16 +704,18 @@
         "product_family_appid": "4108000",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "machine-party"
+      ],
+      "article_title": "Machine Party-派对游戏把等待时间拿去处刑",
+      "article_published_at": "2026-08-03",
       "star_dates": [
         "2026-08-03"
       ],
       "member_appids": [
         "4108000"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-08-03"
     },
     {
@@ -735,14 +761,16 @@
         ],
         "developer": "Bellring Games",
         "publisher": "Skystone Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/7419c62546f87086783090714bfe090ebc030606/header_alt_assets_8_schinese.jpg?t=1785374850",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/1e28be5b34623f5cf841d10172f3df83774596d9/header_schinese.jpg?t=1785472771",
         "product_family_identity": "appid:3282300",
         "product_family_appid": "3282300",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "mistfall-hunter"
+      ],
+      "article_title": "Mistfall Hunter-让魂系玩家带着装备进地牢",
+      "article_published_at": "2026-07-30",
       "star_dates": [
         "2026-08-01",
         "2026-07-30"
@@ -750,7 +778,7 @@
       "member_appids": [
         "3282300"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-08-01"
     },
     {
@@ -804,9 +832,11 @@
         "product_family_appid": "2806050",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "halo-campaign-evolved"
+      ],
+      "article_title": "光环：战役进化-25 年后又回环带，卖的不是纪念品",
+      "article_published_at": "2026-07-29",
       "star_dates": [
         "2026-07-29",
         "2026-07-28"
@@ -814,7 +844,7 @@
       "member_appids": [
         "2806050"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-07-29"
     },
     {
@@ -862,14 +892,16 @@
         ],
         "developer": "Bun Muen",
         "publisher": "Kwalee",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/7c230e17ecfde78d8c52b5d2e5e4aabbc10f5014/header_schinese.jpg?t=1784732222",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/7c230e17ecfde78d8c52b5d2e5e4aabbc10f5014/header_schinese.jpg?t=1784981268",
         "product_family_identity": "appid:3722330",
         "product_family_appid": "3722330",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "shift-at-midnight"
+      ],
+      "article_title": "Shift At Midnight-夜班查错一个人，全队一起还债",
+      "article_published_at": "2026-07-23",
       "star_dates": [
         "2026-07-26",
         "2026-07-23"
@@ -877,7 +909,7 @@
       "member_appids": [
         "3722330"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-07-26"
     },
     {
@@ -934,16 +966,18 @@
         "product_family_appid": "4570720",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "dragonsword-awakening"
+      ],
+      "article_title": "DragonSword : Awakening：从手游遗产到买断包的第一场硬仗",
+      "article_published_at": "2026-07-24",
       "star_dates": [
         "2026-07-24"
       ],
       "member_appids": [
         "4570720"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-07-24"
     },
     {
@@ -1029,16 +1063,18 @@
         "product_family_appid": "4210580",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "ore-factory-squad"
+      ],
+      "article_title": "Ore Factory Squad ⛏️-把一条矿线变成四个人的共同待办",
+      "article_published_at": "2026-07-21",
       "star_dates": [
         "2026-07-20"
       ],
       "member_appids": [
         "4210580"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-07-20"
     },
     {
@@ -1126,16 +1162,18 @@
         "product_family_appid": "4032350",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "ea-sports-college-football-27"
+      ],
+      "article_title": "EA SPORTS College Football 27-PC 首发的大学橄榄球试金石",
+      "article_published_at": "2026-07-16",
       "star_dates": [
         "2026-07-15"
       ],
       "member_appids": [
         "4032350"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-07-15"
     },
     {
@@ -1156,16 +1194,18 @@
         "product_family_appid": "2244210",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "echoes-of-aincrad"
+      ],
+      "article_title": "Echoes of Aincrad-把死亡游戏卖成一段可控的单人冒险",
+      "article_published_at": "2026-07-13",
       "star_dates": [
         "2026-07-14"
       ],
       "member_appids": [
         "2244210"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-07-14"
     },
     {
@@ -1448,16 +1488,18 @@
         "product_family_appid": "4634490",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "master-healer-kale-with-useless-party"
+      ],
+      "article_title": "Master Healer Kale with useless party：把奶妈的紧张感压缩成四小时增量跑",
+      "article_published_at": "2026-07-20",
       "star_dates": [
         "2026-07-04"
       ],
       "member_appids": [
         "4634490"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-07-04"
     },
     {
@@ -1506,21 +1548,23 @@
         ],
         "developer": "BunnyHop",
         "publisher": "BunnyHopHome",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1782778526",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4800590/94039969cff7fbabbb048e93bd5009c1948ca2ce/header.jpg?t=1783340377",
         "product_family_identity": "appid:4800590",
         "product_family_appid": "4800590",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "supermarket-chaos"
+      ],
+      "article_title": "Supermarket Chaos-下班后我在超市上架4668件商品",
+      "article_published_at": "2026-07-11",
       "star_dates": [
         "2026-07-02"
       ],
       "member_appids": [
         "4800590"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-07-02"
     },
     {
