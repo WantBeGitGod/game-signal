@@ -15,6 +15,8 @@
     "above_90": 1.1,
     "otherwise": 1.0
   },
+  "review_reward_minimum_effective_date": "2026-09-05",
+  "review_reward_minimum_total": 100,
   "new_release_window_days": 30,
   "comeback_release_age_days": 180,
   "daily_star_review_release_age_days": 365,

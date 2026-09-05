@@ -1,0 +1,318 @@
+{
+  "schema_version": "2.0.0",
+  "slug": "2026-08-24-week",
+  "issue_number": 14,
+  "week_start": "2026-08-24",
+  "week_end": "2026-08-30",
+  "title": "Steam 一周表现：How to Fish 领跑",
+  "summary": "How to Fish 本周综合排名第一，日榜第一 4 次、第二 1 次，摘星 1 次。综合排名汇总本周已发布日榜，缺失日期不计分。",
+  "status": "published",
+  "published_at": "2026-09-05 20:30:45",
+  "signals": [
+    {
+      "rank": 1,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 27.0,
+      "selection_reason": "How to Fish 在 7 个已保存日榜中进入前五 5 天、前二 5 天，实际摘星 1 次，周复选分 27。",
+      "metrics": {
+        "product_family_identity": "appid:4001890",
+        "actual_star_count": 1,
+        "first_place_days": 4,
+        "second_place_days": 1,
+        "top_two_days": 5,
+        "top_five_days": 5,
+        "average_rank": 1.2,
+        "weekly_score": 27,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-08-24",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-08-25",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-08-26",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-08-27",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-08-28",
+            "rank": 2,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-08-28"
+      },
+      "chart_status": "ready",
+      "article_selected": true,
+      "article_slug": "how-to-fish",
+      "chart_path": "/data/charts/2026-08-24-week/4001890.json",
+      "game": {
+        "slug": "how-to-fish",
+        "appid": "4001890",
+        "name": "How to Fish",
+        "description": "《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。",
+        "developer": "Dazed Games",
+        "publisher": "Dazed Games",
+        "release_date": "2026-08-20",
+        "review_ratio": 95.0,
+        "review_total": 52727,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788160834",
+        "steam_url": "https://store.steampowered.com/app/4001890",
+        "product_family_identity": "appid:4001890",
+        "product_family_appid": "4001890",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 2,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 18.0,
+      "selection_reason": "STAR WARS Zero Company™ 在 7 个已保存日榜中进入前五 3 天、前二 3 天，实际摘星 1 次，周复选分 18。",
+      "metrics": {
+        "product_family_identity": "appid:2075800",
+        "actual_star_count": 1,
+        "first_place_days": 3,
+        "second_place_days": 0,
+        "top_two_days": 3,
+        "top_five_days": 3,
+        "average_rank": 1.0,
+        "weekly_score": 18,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-08-28",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-08-29",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-08-30",
+            "rank": 1,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-08-30"
+      },
+      "chart_status": "ready",
+      "article_selected": true,
+      "article_slug": "star-wars-zero-company",
+      "chart_path": "/data/charts/2026-08-24-week/2075800.json",
+      "game": {
+        "slug": "star-wars-zero-company",
+        "appid": "2075800",
+        "name": "STAR WARS Zero Company™",
+        "description": "《星球大战 零号连队™》是一款单人回合制战术游戏，故事发生在克隆人战争晚期。玩家将在游戏中带领一支精英战队，踏上一段残酷又真实感十足的旅程。",
+        "developer": "Bit Reactor",
+        "publisher": "Electronic Arts",
+        "release_date": "2026-08-27",
+        "review_ratio": 80.0,
+        "review_total": 14974,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1788256323",
+        "steam_url": "https://store.steampowered.com/app/2075800",
+        "product_family_identity": "appid:2075800",
+        "product_family_appid": "2075800",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 3,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 16.0,
+      "selection_reason": "Mortal Shell II 在 7 个已保存日榜中进入前五 4 天、前二 1 天，实际摘星 1 次，周复选分 16。",
+      "metrics": {
+        "product_family_identity": "appid:2584270",
+        "actual_star_count": 1,
+        "first_place_days": 0,
+        "second_place_days": 1,
+        "top_two_days": 1,
+        "top_five_days": 4,
+        "average_rank": 2.75,
+        "weekly_score": 16,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-08-24",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-08-25",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-08-26",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-08-27",
+            "rank": 2,
+            "actual_star": true
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-08-27"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-08-24-week/2584270.json",
+      "game": {
+        "slug": "mortal-shell-ii",
+        "appid": "2584270",
+        "name": "Mortal Shell II",
+        "description": "彼之血肉，你之兵戎。《Mortal Shell II》是一款独立续作动作RPG游戏，为你带来肾上腺素飙升的硬核战斗体验。将卓越的战士收入麾下，推翻伪神的统治，拯救残破的世界。",
+        "developer": "Cold Symmetry",
+        "publisher": "Playstack",
+        "release_date": "2026-08-20",
+        "review_ratio": 77.0,
+        "review_total": 17505,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/87e53a9dd9d5a32f3d3cfc011aaccbc6ef6c4eed/header_schinese.jpg?t=1788251111",
+        "steam_url": "https://store.steampowered.com/app/2584270",
+        "product_family_identity": "appid:2584270",
+        "product_family_appid": "2584270",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 14.0,
+      "selection_reason": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version 在 7 个已保存日榜中进入前五 3 天、前二 2 天，实际摘星 1 次，周复选分 14。",
+      "metrics": {
+        "product_family_identity": "appid:2492670",
+        "actual_star_count": 1,
+        "first_place_days": 0,
+        "second_place_days": 2,
+        "top_two_days": 2,
+        "top_five_days": 3,
+        "average_rank": 2.33,
+        "weekly_score": 14,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-08-28",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-08-29",
+            "rank": 2,
+            "actual_star": true
+          },
+          {
+            "date": "2026-08-30",
+            "rank": 2,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-08-30"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-08-24-week/2492670.json",
+      "game": {
+        "slug": "metal-gear-solid-4-guns-of-the-patriots-master-collection-version",
+        "appid": "2492670",
+        "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
+        "description": "Solid Snake的最后任务。 在“Big Shell”事件的五年后，随着 PMC（Private Military Contractor）的崛起，战争逐渐转变为一门生意。为了阻止Liquid Ocelot叛变，传奇英雄Solid Snake将迎来他的最终之战。",
+        "developer": "KONAMI",
+        "publisher": "KONAMI",
+        "release_date": "2026-08-27",
+        "review_ratio": 96.0,
+        "review_total": 2204,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492670/458033bb7aad4e6b8a61af0f7798d23db2683864/header.jpg?t=1788263343",
+        "steam_url": "https://store.steampowered.com/app/2492670",
+        "product_family_identity": "appid:2492670",
+        "product_family_appid": "2492670",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 11.0,
+      "selection_reason": "Call of Duty®: Modern Warfare® 4 - Beta 在 7 个已保存日榜中进入前五 2 天、前二 2 天，实际摘星 1 次，周复选分 11。",
+      "metrics": {
+        "product_family_identity": "appid:4783780",
+        "actual_star_count": 1,
+        "first_place_days": 0,
+        "second_place_days": 2,
+        "top_two_days": 2,
+        "top_five_days": 2,
+        "average_rank": 2.0,
+        "weekly_score": 11,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-08-24",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-08-25",
+            "rank": 2,
+            "actual_star": true
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-08-25"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-08-24-week/4783780.json",
+      "game": {
+        "slug": "call-of-duty-modern-warfare-4-beta",
+        "appid": "4783780",
+        "name": "Call of Duty®: Modern Warfare® 4 - Beta",
+        "description": "在《现代战争® 4》试玩中，每一场战斗都真实而精准，让你尽情体验以灵活的机动走位、丰富的玩家选择与更强的掌控力为核心打造的战场。",
+        "developer": "Infinity Ward, Beenox, Digital Legends, Activision Shanghai, Raven Software, Treyarch, Sledgehammer Games, High Moon Studios",
+        "publisher": "Activision",
+        "release_date": "2026-08-21",
+        "review_ratio": 34.0,
+        "review_total": 20760,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783780/8c72205bfdf522bada8431d2aacbd1b6c66fac4c/header.jpg?t=1787941380",
+        "steam_url": "https://store.steampowered.com/app/4783780",
+        "product_family_identity": "appid:4783780",
+        "product_family_appid": "4783780",
+        "product_family_role": "full"
+      }
+    }
+  ]
+}
