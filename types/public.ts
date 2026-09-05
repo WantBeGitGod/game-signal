@@ -192,6 +192,14 @@ export type WeeklyIssue = {
   status: string
   published_at?: string | null
   signals: WeeklySignal[]
+  published_days?: string[]
+  editorial?: {
+    title_lines: string[]
+    intro: string
+    features: Record<string, { heading: string; paragraphs: string[] }>
+    notes: Record<string, string>
+    next_watch: string[]
+  } | null
 }
 
 export type WeeklyManifest = {
