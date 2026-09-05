@@ -1,9 +1,11 @@
 <template>
   <section class="daily-cover" :class="{ 'has-image': Boolean(issue.hero_image), 'is-home': home }">
-    <div v-if="issue.hero_image" class="daily-cover-image" :style="{ backgroundImage: `url(${publicAsset(issue.hero_image)})` }" />
+    <div v-if="issue.hero_image" class="daily-cover-image">
+      <img :src="publicAsset(issue.hero_image)" :alt="displayGameName(starSignal.game)" decoding="async" />
+    </div>
     <div v-else class="data-cover-feature" aria-hidden="true">
       <div class="feature-game-art">
-        <span class="feature-game-fallback">{{ displayGameName(starSignal.game) }}</span>
+        <span v-if="!starSignal.game.cover_image_url || mainCoverFailed" class="feature-game-fallback">{{ displayGameName(starSignal.game) }}</span>
         <img
           v-if="starSignal.game.cover_image_url && !mainCoverFailed"
           :src="starSignal.game.cover_image_url"
@@ -13,8 +15,8 @@
           referrerpolicy="no-referrer"
           @error="mainCoverFailed = true"
         />
-        <span class="feature-game-credit">TODAY'S STAR / STEAM STORE ART</span>
       </div>
+      <span class="feature-game-credit">TODAY'S STAR / STEAM STORE ART</span>
     </div>
     <div class="daily-cover-copy">
       <div class="cover-kicker">

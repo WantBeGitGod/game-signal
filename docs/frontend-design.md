@@ -2,7 +2,7 @@
 
 ## Homepage and navigation
 
-The September 2026 frontend uses a warm paper background, forest green accents, serif display headings and restrained data typography. The shared visual system applies to daily issues, weekly issues and charts, articles, game archives, teams and informational pages.
+The September 2026 frontend keeps the content-first layout and adds electric violet, butter yellow and apricot color blocks, outlined cards and small star accents. The dark-green article bridge and minimal footer remain quiet. Daily quick-take body copy is 20px on desktop and 18px on mobile (the introductory paragraph is 22px on desktop). Cover images use their intrinsic proportions, without letterboxing or cropping; image credits sit outside the artwork. The shared visual system applies to daily issues, weekly issues and charts, articles, game archives, teams and informational pages.
 
 Homepage order:
 
@@ -32,16 +32,19 @@ Run these commands from your local public-site repository. Replace `<site-repo>`
 
 - Original frontend: annotated tag `frontend-before-redesign-20260906`, commit `eac6278`.
 - Design branch: `codex/frontend-redesign-20260906`.
-- Completed redesign: annotated tag `frontend-redesign-20260906`.
+- First redesign / subdued palette: annotated tag `frontend-redesign-20260906` (`898c903`).
+- Color and readability refinement: annotated tag `frontend-pop-20260906`.
 
-To undo the design while preserving later content commits, start from a clean working tree and create a normal revert commit:
+To undo only the color/readability refinement and restore the first redesign while preserving later content commits, start from a clean working tree and create a normal revert commit:
 
 ```powershell
 Set-Location <site-repo>
 git status --short
-git revert frontend-redesign-20260906
+git revert frontend-pop-20260906
 npm run generate
 ```
+
+To return all the way to the original frontend, also run `git revert frontend-redesign-20260906` after reverting the refinement, then generate again.
 
 If later edits touch the same frontend lines, Git may request conflict resolution. Do not use `reset --hard` to discard intervening publications or other work.
 

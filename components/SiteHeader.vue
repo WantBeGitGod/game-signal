@@ -2,7 +2,7 @@
   <header class="site-header">
     <NuxtLink to="/" class="brand" aria-label="Game Signal 首页">
       <svg class="brand-mark" viewBox="0 0 44 44" aria-hidden="true">
-        <rect width="44" height="44" rx="12" fill="#234c40" />
+        <rect width="44" height="44" rx="12" fill="#5144ce" />
         <path d="M10 26h6l4-13 5 20 4-13h5" fill="none" stroke="#faf8f2" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
       </svg>
       <span>
