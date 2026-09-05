@@ -21,9 +21,11 @@ The private production pipeline writes public data under `public/data/` and appr
 
 The header navigation stays focused on public proof-of-work browsing:
 
+- 今日 (complete two-minute game fit on the homepage)
 - 周刊
-- 今日之星
-- 案例
+- 往日之星
+- 文章
+- 游戏档案
 - 团队
 
 Methodology, production system and author links remain in the footer so the first scan keeps attention on published work instead of meta pages.
@@ -41,6 +43,7 @@ The current site does not include login, payment or entitlement checks. It only 
 
 - [Data contract](docs/data-contract.md)
 - [Signal method](docs/signal-method.md)
+- [Frontend design, local preview and Git rollback](docs/frontend-design.md)
 
 ## GitHub Pages activation
 

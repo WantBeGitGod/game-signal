@@ -2,12 +2,8 @@
   <header class="site-header">
     <NuxtLink to="/" class="brand" aria-label="Game Signal 首页">
       <svg class="brand-mark" viewBox="0 0 44 44" aria-hidden="true">
-        <rect width="44" height="44" fill="#e55272" />
-        <rect x="9" y="9" width="18" height="18" fill="#fffdf6" stroke="#171713" stroke-width="2" />
-        <path d="M12 23 16 18l5 3 5-8" fill="none" stroke="#171713" stroke-width="2.5" />
-        <circle cx="22" cy="22" r="12" fill="none" stroke="#fffdf6" stroke-width="3" />
-        <circle cx="26" cy="13" r="2.5" fill="#3f68ff" />
-        <path d="M31 31 39 39" stroke="#171713" stroke-width="4" />
+        <rect width="44" height="44" rx="12" fill="#234c40" />
+        <path d="M10 26h6l4-13 5 20 4-13h5" fill="none" stroke="#faf8f2" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round" />
       </svg>
       <span>
         <strong>游戏信号</strong>
@@ -15,6 +11,7 @@
       </span>
     </NuxtLink>
     <nav aria-label="主导航">
+      <NuxtLink to="/" >今日</NuxtLink>
       <NuxtLink to="/weekly">周刊</NuxtLink>
       <NuxtLink to="/issues">往日之星</NuxtLink>
       <NuxtLink to="/articles">文章</NuxtLink>

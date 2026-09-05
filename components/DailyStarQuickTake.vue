@@ -8,8 +8,8 @@
       <span>{{ brief.content_length }} 字</span>
     </header>
 
-    <div class="daily-quick-intro">
-      <p>{{ brief.positioning }}</p>
+    <div class="daily-quick-intro" :class="{ 'intro-continued': positioningShown }">
+      <p v-if="!positioningShown">{{ brief.positioning }}</p>
       <p>{{ brief.reference_frame }}</p>
     </div>
 
@@ -44,5 +44,5 @@
 <script setup lang="ts">
 import type { DailyStarQuickTake } from "~/types/public"
 
-defineProps<{ brief: DailyStarQuickTake }>()
+defineProps<{ brief: DailyStarQuickTake; positioningShown?: boolean }>()
 </script>

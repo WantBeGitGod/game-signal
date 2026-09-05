@@ -1,5 +1,5 @@
 <template>
-  <section class="daily-cover" :class="{ 'has-image': Boolean(issue.hero_image) }">
+  <section class="daily-cover" :class="{ 'has-image': Boolean(issue.hero_image), 'is-home': home }">
     <div v-if="issue.hero_image" class="daily-cover-image" :style="{ backgroundImage: `url(${publicAsset(issue.hero_image)})` }" />
     <div v-else class="data-cover-feature" aria-hidden="true">
       <div class="feature-game-art">
@@ -30,7 +30,7 @@
       </div>
       <p class="cover-edition">TODAY'S STAR / ISSUE {{ issue.date.replaceAll("-", "") }}</p>
       <h1>{{ displayGameName(starSignal.game) }}</h1>
-      <p class="cover-deck">{{ starSignal.fact_summary }}</p>
+      <p class="cover-deck">{{ home && starSignal.quick_take ? starSignal.quick_take.positioning : starSignal.fact_summary }}</p>
       <div class="cover-metrics">
         <div>
           <span>{{ peakMetricLabel }}</span>
@@ -45,8 +45,8 @@
           <strong>{{ starAppearanceLabel }}</strong>
         </div>
       </div>
-      <NuxtLink :to="`/issues/${issue.date}#main-signal`" class="command-link">
-        阅读今日之星
+      <NuxtLink v-if="!home" :to="`/issues/${issue.date}#main-signal`" class="command-link">
+        查看数据与速读
         <ArrowUpRight :size="18" />
       </NuxtLink>
     </div>
@@ -57,7 +57,7 @@
 import { ArrowUpRight } from "lucide-vue-next"
 import type { DailyIssue } from "~/types/public"
 
-const props = defineProps<{ issue: DailyIssue }>()
+const props = defineProps<{ issue: DailyIssue; home?: boolean }>()
 const mainCoverFailed = ref(false)
 const starSignal = computed(() => props.issue.star_signal || props.issue.main_signal)
 const peakMetricLabel = computed(() => {

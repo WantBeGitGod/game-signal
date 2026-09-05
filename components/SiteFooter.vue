@@ -2,7 +2,7 @@
   <footer class="site-footer">
     <div>
       <strong>Game Signal</strong>
-      <p>从 Steam 异动中，寻找值得继续追问的发行信号。</p>
+      <p>游戏发现 / 设计观察 / 发行研究</p>
     </div>
     <div class="footer-links">
       <NuxtLink to="/methodology">分析方法</NuxtLink>
