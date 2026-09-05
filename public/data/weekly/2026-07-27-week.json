@@ -1,0 +1,313 @@
+{
+  "schema_version": "2.0.0",
+  "slug": "2026-07-27-week",
+  "issue_number": 10,
+  "week_start": "2026-07-27",
+  "week_end": "2026-08-02",
+  "title": "Steam 一周表现：Mistfall Hunter 领跑",
+  "summary": "Mistfall Hunter 本周综合排名第一，日榜第一 2 次、第二 0 次，摘星 2 次。综合排名汇总本周已发布日榜，缺失日期不计分。",
+  "status": "published",
+  "published_at": "2026-09-05 20:33:40",
+  "signals": [
+    {
+      "rank": 1,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 19.0,
+      "selection_reason": "Mistfall Hunter 在 7 个已保存日榜中进入前五 4 天、前二 2 天，实际摘星 2 次，周复选分 19。",
+      "metrics": {
+        "product_family_identity": "appid:3282300",
+        "actual_star_count": 2,
+        "first_place_days": 2,
+        "second_place_days": 0,
+        "top_two_days": 2,
+        "top_five_days": 4,
+        "average_rank": 2.75,
+        "weekly_score": 19,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-07-30",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-07-31",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-08-01",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-08-02",
+            "rank": 5,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-08-02"
+      },
+      "chart_status": "missing",
+      "article_selected": true,
+      "article_slug": "mistfall-hunter",
+      "chart_path": null,
+      "game": {
+        "slug": "mistfall-hunter",
+        "appid": "3282300",
+        "name": "Mistfall Hunter",
+        "description": "《雾影猎人》是一款黑暗奇幻动作搜打撤游戏。 根据不同职业精心搭配技能、天赋、装备，领略第三人称视角下的精彩动作战斗！或与队友密切配合，或孤身一人加入战场，唯有杀出重围，方能满载而归。猎金人，祝你好运。",
+        "developer": "Bellring Games",
+        "publisher": "Skystone Games",
+        "release_date": "2026-07-29",
+        "review_ratio": 64.0,
+        "review_total": 8278,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3282300/1e28be5b34623f5cf841d10172f3df83774596d9/header_schinese.jpg?t=1785673983",
+        "steam_url": "https://store.steampowered.com/app/3282300",
+        "product_family_identity": "appid:3282300",
+        "product_family_appid": "3282300",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 2,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 16.0,
+      "selection_reason": "Halo: Campaign Evolved 在 7 个已保存日榜中进入前五 3 天、前二 2 天，实际摘星 2 次，周复选分 16。",
+      "metrics": {
+        "product_family_identity": "appid:2806050",
+        "actual_star_count": 2,
+        "first_place_days": 1,
+        "second_place_days": 1,
+        "top_two_days": 2,
+        "top_five_days": 3,
+        "average_rank": 2.67,
+        "weekly_score": 16,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-07-28",
+            "rank": 2,
+            "actual_star": true
+          },
+          {
+            "date": "2026-07-29",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-08-01",
+            "rank": 5,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-08-01"
+      },
+      "chart_status": "missing",
+      "article_selected": true,
+      "article_slug": "halo-campaign-evolved",
+      "chart_path": null,
+      "game": {
+        "slug": "halo-campaign-evolved",
+        "appid": "2806050",
+        "name": "Halo: Campaign Evolved",
+        "description": "体验传奇的起点.",
+        "developer": "Halo Studios",
+        "publisher": "Xbox Game Studios",
+        "release_date": "2026-07-28",
+        "review_ratio": 64.0,
+        "review_total": 10696,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806050/30d8542d35d7919b34e5f5dbe955d04c3f99e6da/header.jpg?t=1785367749",
+        "steam_url": "https://store.steampowered.com/app/2806050",
+        "product_family_identity": "appid:2806050",
+        "product_family_appid": "2806050",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 3,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 15.0,
+      "selection_reason": "Scrap Mechanic 在 7 个已保存日榜中进入前五 3 天、前二 2 天，实际摘星 1 次，周复选分 15。",
+      "metrics": {
+        "product_family_identity": "appid:387990",
+        "actual_star_count": 1,
+        "first_place_days": 1,
+        "second_place_days": 1,
+        "top_two_days": 2,
+        "top_five_days": 3,
+        "average_rank": 2.0,
+        "weekly_score": 15,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-07-27",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-07-29",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-30",
+            "rank": 3,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-07-30"
+      },
+      "chart_status": "missing",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
+      "game": {
+        "slug": "scrap-mechanic",
+        "appid": "387990",
+        "name": "Scrap Mechanic",
+        "description": "进入废品机械师的创意天堂！在这个富有想象力的多人生存沙盒中，建造奇妙的机器，与朋友一起冒险，并抵御一波又一波的邪恶农场机器人。借助 Scrap Mechanic 强大的创作工具，您可以设计自己的冒险！",
+        "developer": "Axolot Games",
+        "publisher": "Axolot Games",
+        "release_date": "2026-07-24",
+        "review_ratio": 92.0,
+        "review_total": 120301,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387990/5c31bde0a901d9459a8d8c556c5a44262b5f57e4/header.jpg?t=1784914037",
+        "steam_url": "https://store.steampowered.com/app/387990",
+        "product_family_identity": "appid:387990",
+        "product_family_appid": "387990",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 12.0,
+      "selection_reason": "hololive Dreams 在 7 个已保存日榜中进入前五 4 天、前二 1 天，实际摘星 0 次，周复选分 12。",
+      "metrics": {
+        "product_family_identity": "appid:4282500",
+        "actual_star_count": 0,
+        "first_place_days": 0,
+        "second_place_days": 1,
+        "top_two_days": 1,
+        "top_five_days": 4,
+        "average_rank": 3.0,
+        "weekly_score": 12,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-07-27",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-28",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-29",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-30",
+            "rank": 2,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-07-30"
+      },
+      "chart_status": "missing",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
+      "game": {
+        "slug": "hololive-dreams",
+        "appid": "4282500",
+        "name": "hololive Dreams",
+        "description": "【hololive官方】节奏&amp;RPG游戏“hololive dreams (holodori)”登陆Steam平台！ 玩法以节奏游戏为中心，玩家需着手建造主题乐园，还有丰富多彩的迷你游戏等要素！ 总计超过50名hololive成员将在游戏中出场，初始收录乐曲超过150首！ 不论是hololive粉丝还是节奏游戏新手，都可以享受到游戏的乐趣。游玩的方式由你决定！",
+        "developer": "QualiArts, Inc.",
+        "publisher": "QualiArts, Inc.",
+        "release_date": "2026-07-22",
+        "review_ratio": 64.0,
+        "review_total": 2062,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4282500/21d618af6bdb3be75a8b923bf8d38328aaba1820/header.jpg?t=1785119575",
+        "steam_url": "https://store.steampowered.com/app/4282500",
+        "product_family_identity": "appid:4282500",
+        "product_family_appid": "4282500",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 9.0,
+      "selection_reason": "Bills Must Be Paid 在 7 个已保存日榜中进入前五 2 天、前二 1 天，实际摘星 1 次，周复选分 9。",
+      "metrics": {
+        "product_family_identity": "appid:4421010",
+        "actual_star_count": 1,
+        "first_place_days": 0,
+        "second_place_days": 1,
+        "top_two_days": 1,
+        "top_five_days": 2,
+        "average_rank": 3.0,
+        "weekly_score": 9,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-07-31",
+            "rank": 2,
+            "actual_star": true
+          },
+          {
+            "date": "2026-08-01",
+            "rank": 4,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-08-01"
+      },
+      "chart_status": "missing",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
+      "game": {
+        "slug": "bills-must-be-paid",
+        "appid": "4421010",
+        "name": "Bills Must Be Paid",
+        "description": "你破产了，砸碎存钱罐，《账单必须支付》。一款短小精悍的主动式放置游戏。赚钱、升级，摆脱债务！",
+        "developer": "Rike Games",
+        "publisher": "Rike Games",
+        "release_date": "2026-07-29",
+        "review_ratio": 97.0,
+        "review_total": 4053,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4421010/19abfca5c44bcab9a23b62576dcf6a2eb206e19b/header_schinese.jpg?t=1785603928",
+        "steam_url": "https://store.steampowered.com/app/4421010",
+        "product_family_identity": "appid:4421010",
+        "product_family_appid": "4421010",
+        "product_family_role": "full"
+      }
+    }
+  ]
+}
