@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-05T20:32:28",
+  "generated_at": "2026-09-05T20:33:05",
   "latest_weekly": "2026-08-24-week",
   "issues": [
     {
@@ -32,6 +32,16 @@
       "summary": "PEAK 本周综合排名第一，日榜第一 2 次、第二 0 次，摘星 1 次。综合排名汇总本周已发布日榜，缺失日期不计分。",
       "status": "published",
       "published_at": "2026-09-05 20:32:28"
+    },
+    {
+      "slug": "2026-08-03-week",
+      "issue_number": 11,
+      "week_start": "2026-08-03",
+      "week_end": "2026-08-09",
+      "title": "Steam 一周表现：Fields of Mistria 领跑",
+      "summary": "Fields of Mistria 本周综合排名第一，日榜第一 2 次、第二 1 次，摘星 1 次。综合排名汇总本周已发布日榜，缺失日期不计分。",
+      "status": "published",
+      "published_at": "2026-09-05 20:33:05"
     },
     {
       "slug": "2026-07-13-week",
