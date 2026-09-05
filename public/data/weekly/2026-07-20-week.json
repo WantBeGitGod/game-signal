@@ -1,0 +1,313 @@
+{
+  "schema_version": "2.0.0",
+  "slug": "2026-07-20-week",
+  "issue_number": 9,
+  "week_start": "2026-07-20",
+  "week_end": "2026-07-26",
+  "title": "Steam 一周表现：Shift At Midnight 领跑",
+  "summary": "Shift At Midnight 本周综合排名第一，日榜第一 2 次、第二 0 次，摘星 2 次。综合排名汇总本周已发布日榜，缺失日期不计分。",
+  "status": "published",
+  "published_at": "2026-09-05 20:34:12",
+  "signals": [
+    {
+      "rank": 1,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 21.0,
+      "selection_reason": "Shift At Midnight 在 7 个已保存日榜中进入前五 4 天、前二 2 天，实际摘星 2 次，周复选分 21。",
+      "metrics": {
+        "product_family_identity": "appid:3722330",
+        "actual_star_count": 2,
+        "first_place_days": 2,
+        "second_place_days": 0,
+        "top_two_days": 2,
+        "top_five_days": 4,
+        "average_rank": 2.25,
+        "weekly_score": 21,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-07-23",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-07-24",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-25",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-26",
+            "rank": 1,
+            "actual_star": true
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-07-26"
+      },
+      "chart_status": "missing",
+      "article_selected": true,
+      "article_slug": "shift-at-midnight",
+      "chart_path": null,
+      "game": {
+        "slug": "shift-at-midnight",
+        "appid": "3722330",
+        "name": "Shift At Midnight",
+        "description": "一款支持最多 3 名玩家联机的合作侦探恐怖游戏。在随机生成的班次中，玩家需携手合作，调查前来的顾客。当心，并不是所有的顾客都是人类。一旦犯错，你们就得被迫封堵门窗、设置陷阱并躲藏起来。",
+        "developer": "Bun Muen",
+        "publisher": "Kwalee",
+        "release_date": "2026-07-22",
+        "review_ratio": 88.0,
+        "review_total": 10709,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3722330/7c230e17ecfde78d8c52b5d2e5e4aabbc10f5014/header_schinese.jpg?t=1787962060",
+        "steam_url": "https://store.steampowered.com/app/3722330",
+        "product_family_identity": "appid:3722330",
+        "product_family_appid": "3722330",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 2,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 14.0,
+      "selection_reason": "Pass the Fear 在 7 个已保存日榜中进入前五 3 天、前二 2 天，实际摘星 1 次，周复选分 14。",
+      "metrics": {
+        "product_family_identity": "appid:3561220",
+        "actual_star_count": 1,
+        "first_place_days": 1,
+        "second_place_days": 1,
+        "top_two_days": 2,
+        "top_five_days": 3,
+        "average_rank": 2.33,
+        "weekly_score": 14,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-07-24",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-25",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-07-26",
+            "rank": 4,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-07-26"
+      },
+      "chart_status": "missing",
+      "article_selected": true,
+      "article_slug": "pass-the-fear",
+      "chart_path": null,
+      "game": {
+        "slug": "pass-the-fear",
+        "appid": "3561220",
+        "name": "Pass the Fear",
+        "description": "《风暴怕死队》是一款Roguelite弹幕射击游戏。一场魔女之灾突然来临，混沌的魔力化作了风暴之墙，巨大海浪与风暴将主岛围住，没有任何东西可以穿过它。在风暴之墙内，混沌魔力的侵蚀正在扩散，生灵正在逐渐腐化为怪物。身为猎魔人的你需要想尽一切办法逃离这座已经变成人间地狱的小岛。",
+        "developer": "PlayMud Studio",
+        "publisher": "Paras Games",
+        "release_date": "2026-07-22",
+        "review_ratio": 79.0,
+        "review_total": 1704,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561220/49cc489596676c359ed9289bddfdb93bc214eddf/header_schinese.jpg?t=1785399370",
+        "steam_url": "https://store.steampowered.com/app/3561220",
+        "product_family_identity": "appid:3561220",
+        "product_family_appid": "3561220",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 3,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 14.0,
+      "selection_reason": "DragonSword : Awakening 在 7 个已保存日榜中进入前五 3 天、前二 2 天，实际摘星 1 次，周复选分 14。",
+      "metrics": {
+        "product_family_identity": "appid:4570720",
+        "actual_star_count": 1,
+        "first_place_days": 1,
+        "second_place_days": 1,
+        "top_two_days": 2,
+        "top_five_days": 3,
+        "average_rank": 2.33,
+        "weekly_score": 14,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-07-23",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-24",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-07-26",
+            "rank": 2,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-07-26"
+      },
+      "chart_status": "missing",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
+      "game": {
+        "slug": "dragonsword-awakening",
+        "appid": "4570720",
+        "name": "DragonSword : Awakening",
+        "description": "踏入由虚幻引擎5打造的动画风格开放世界，探索奥尔比斯大陆！集结个性鲜明的伙伴，以状态异常触发华丽的接力连携，共同迎战沉寂60年后再度复苏的巨龙，踏上拯救世界的壮阔旅程。",
+        "developer": "Hound13 Inc.",
+        "publisher": "Hound13 Inc.",
+        "release_date": "2026-07-22",
+        "review_ratio": 90.0,
+        "review_total": 5866,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4570720/96a897e98f4472e656fbe6681191b3066cab6056/header.jpg?t=1785227784",
+        "steam_url": "https://store.steampowered.com/app/4570720",
+        "product_family_identity": "appid:4570720",
+        "product_family_appid": "4570720",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 13.0,
+      "selection_reason": "Guildrun Demo 在 7 个已保存日榜中进入前五 3 天、前二 2 天，实际摘星 1 次，周复选分 13。",
+      "metrics": {
+        "product_family_identity": "appid:4425970",
+        "actual_star_count": 1,
+        "first_place_days": 1,
+        "second_place_days": 1,
+        "top_two_days": 2,
+        "top_five_days": 3,
+        "average_rank": 2.67,
+        "weekly_score": 13,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-07-21",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-07-22",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-23",
+            "rank": 5,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-07-23"
+      },
+      "chart_status": "missing",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
+      "game": {
+        "slug": "guildrun-demo",
+        "appid": "4425970",
+        "name": "Guildrun Demo",
+        "description": "在这款 PvE Roguelike 自走棋中，玩家需要将一支普通小队培养成势不可挡的战斗机器，击溃一波又一波怪物。在这里，你可以打破职业限制，打造超乎想象的英雄流派，发掘无数流派与协同组合。按自己的节奏封印裂隙，并揭开撕裂世界的幕后真相。",
+        "developer": "Leyline",
+        "publisher": "Leyline",
+        "release_date": "2026-07-16",
+        "review_ratio": 94.0,
+        "review_total": 779,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4425970/19f2fde865dafdd6f7e1b0e73f991e918f6a97a0/header_schinese.jpg?t=1784536831",
+        "steam_url": "https://store.steampowered.com/app/4425970",
+        "product_family_identity": "appid:4425970",
+        "product_family_appid": "4425970",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 13.0,
+      "selection_reason": "Strikers Club 在 7 个已保存日榜中进入前五 3 天、前二 2 天，实际摘星 1 次，周复选分 13。",
+      "metrics": {
+        "product_family_identity": "appid:1952920",
+        "actual_star_count": 1,
+        "first_place_days": 1,
+        "second_place_days": 1,
+        "top_two_days": 2,
+        "top_five_days": 3,
+        "average_rank": 2.67,
+        "weekly_score": 13,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-07-20",
+            "rank": 5,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-21",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-07-22",
+            "rank": 1,
+            "actual_star": true
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-07-22"
+      },
+      "chart_status": "missing",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
+      "game": {
+        "slug": "strikers-club",
+        "appid": "1952920",
+        "name": "Strikers Club",
+        "description": "Strikers Club 是一款多人足球游戏，您可以作为一名球员进行比赛，并与其他球员进行激烈的比赛。每一步都很重要。掌握运球、传球和投篮，同时与你的团队合作击败对手。",
+        "developer": "Oddshot Games",
+        "publisher": "Oddshot Games",
+        "release_date": "2026-07-17",
+        "review_ratio": 79.0,
+        "review_total": 2587,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1952920/134cf5a567b4ee04a70712a786b5a5a4bf536647/header.jpg?t=1784822931",
+        "steam_url": "https://store.steampowered.com/app/1952920",
+        "product_family_identity": "appid:1952920",
+        "product_family_appid": "1952920",
+        "product_family_role": "full"
+      }
+    }
+  ]
+}
