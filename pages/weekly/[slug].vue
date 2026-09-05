@@ -12,7 +12,7 @@
       <div class="section-heading">
         <div>
           <p class="eyebrow">WEEK IN REVIEW</p>
-          <h2>这一周，谁一直留在牌桌上</h2>
+          <h2>本周综合排名</h2>
         </div>
       </div>
       <div v-if="starTimeline.length" class="weekly-star-timeline" aria-label="今日之星时间线">
@@ -24,30 +24,31 @@
       </div>
       <div class="weekly-ranking-table" role="table" aria-label="本周复选前五">
         <div class="weekly-ranking-row is-head" role="row">
-          <span>排名</span><span>游戏</span><span>摘星</span><span>前二</span><span>前五</span><span>平均名次</span><span>复选分</span>
+          <span>综合</span><span>游戏</span><span>第一</span><span>第二</span><span>摘星</span><span>上榜天数</span><span>周积分</span>
         </div>
         <div v-for="signal in issue.signals" :key="signal.rank" class="weekly-ranking-row" role="row">
           <strong>#{{ signal.rank }}</strong>
           <span>{{ signal.game.name }}</span>
-          <span>{{ metric(signal, "actual_star_count") }}</span>
-          <span>{{ metric(signal, "top_two_days") }} 天</span>
+          <span>{{ rankCount(signal, 1) }} 次</span>
+          <span>{{ rankCount(signal, 2) }} 次</span>
+          <span>{{ metric(signal, "actual_star_count") }} 次</span>
           <span>{{ metric(signal, "top_five_days") }} 天</span>
-          <span>{{ metric(signal, "average_rank") }}</span>
           <strong>{{ metric(signal, "weekly_score") }}</strong>
         </div>
       </div>
+    <p>周积分 = 日榜第一至第五各计 5、4、3、2、1 分，再加每次摘星 3 分。第一、第二均指日榜模型名次，摘星单独统计。</p>
     </section>
 
     <section class="weekly-deep-section">
       <div class="section-heading">
         <div>
-          <p class="eyebrow">TWO ARTICLES</p>
-          <h2>本期两篇文章</h2>
+          <p class="eyebrow">WEEKLY PERFORMANCE</p>
+          <h2>本周游戏表现</h2>
         </div>
-        <p>次序只服务版面，不代表质量高低。</p>
+        <p>实际在线观测与已发布文章。</p>
       </div>
-      <article v-for="(signal, index) in articleSignals" :key="signal.rank" class="weekly-signal-block">
-        <div class="weekly-signal-rank">{{ index === 0 ? "A" : "B" }}</div>
+      <article v-for="(signal, index) in issue.signals" :key="signal.rank" class="weekly-signal-block">
+        <div class="weekly-signal-rank">{{ String(index + 1).padStart(2, "0") }}</div>
         <div class="weekly-signal-copy">
           <div class="weekly-signal-topline">
             <div class="weekly-signal-meta">
@@ -55,7 +56,6 @@
               <span>周复选 #{{ signal.rank }}</span>
             </div>
             <NuxtLink v-if="hasArticle(signal)" :to="`/articles/${signal.article_slug}`" class="weekly-case-cta">阅读全文</NuxtLink>
-            <span v-else class="weekly-case-cta is-disabled">文章编辑中</span>
           </div>
           <h2>{{ signal.game.name }}</h2>
           <p class="weekly-game-description">{{ signalDescription(signal) }}</p>
@@ -67,7 +67,7 @@
             :window-start="issue.week_start"
             :window-end="issue.week_end"
           />
-          <div v-else class="chart-missing">一个月趋势数据尚未补齐，本期保持草稿状态。</div>
+          <div v-else class="chart-missing">本期暂无可用在线曲线；排名依据已保存的日榜记录。</div>
         </div>
       </article>
     </section>
@@ -81,11 +81,10 @@ const route = useRoute()
 const { data: issue } = await useWeeklyIssue(String(route.params.slug))
 if (!issue.value) throw createError({ statusCode: 404, statusMessage: "Weekly issue not found" })
 const { data: publishedArticles } = await useAsyncData("weekly-article-slugs", () => queryContent("/articles").only(["slug"]).find())
-const articleSignals = computed(() => (issue.value as WeeklyIssue).signals.filter(signal => signal.article_selected).slice(0, 2))
 const articleSlugs = computed(() => new Set((publishedArticles.value || []).map(item => String(item.slug || ""))))
 
 const charts = reactive<Record<string, ChartSeries>>({})
-for (const signal of articleSignals.value) {
+for (const signal of issue.value.signals) {
   if (signal.chart_path && signal.game.appid) charts[signal.game.appid] = await loadPublicJson<ChartSeries>(signal.chart_path)
 }
 
@@ -109,6 +108,13 @@ const coverageNote = computed(() => {
 })
 
 useSeoMeta({ title: issue.value.title, description: issue.value.summary })
+
+function rankCount(signal: WeeklySignal, rank: number) {
+  const key = rank === 1 ? "first_place_days" : "second_place_days"
+  if (typeof signal.metrics[key] === "number") return signal.metrics[key]
+  if (!Array.isArray(signal.metrics.daily_ranks)) return "—"
+  return (signal.metrics.daily_ranks as Array<{ rank: number }>).filter(day => day.rank === rank).length
+}
 
 function metric(signal: WeeklySignal, key: string) {
   return signal.metrics[key] ?? "—"

@@ -71,6 +71,10 @@ export type DailyIssue = {
 export type ScoringSnapshot = {
   schema_version: string
   release_event_scoring_effective_date?: string
+  review_ratio_scoring_v2_effective_date?: string
+  review_ratio_multipliers_v2?: { below_30: number; below_50: number; below_60: number; above_90: number; otherwise: number }
+  review_reward_minimum_effective_date?: string
+  review_reward_minimum_total?: number
   review_ratio_scoring_effective_date?: string
   review_ratio_multipliers?: {
     below_30: number
@@ -138,7 +142,13 @@ export type ChartPoint = {
 export type ChartSeries = {
   appid: string
   source: string
-  source_url: string
+  source_url: string | null
+  timezone?: string
+  observed_start?: string | null
+  observed_end?: string | null
+  sample_count?: number
+  max_gap_seconds?: number
+  peak_scope?: string
   points: ChartPoint[]
   daily_peaks: Array<{ date: string; peak: number; peak_time: string }>
   all_time_or_window_peak: { players: number; datetime?: string | null }

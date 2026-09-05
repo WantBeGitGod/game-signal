@@ -2,7 +2,7 @@
   <div class="weekly-chart" :class="{ compact }" :aria-label="`${label} 观察窗口在线曲线`">
     <div class="weekly-chart-head">
       <div>
-        <span>SteamDB players</span>
+        <span>{{ chart.source }} · 观测峰值</span>
         <strong>{{ formatNumber(activePeak.players) }}</strong>
       </div>
       <p>{{ peakTime }}</p>
@@ -18,9 +18,11 @@
       <g class="chart-grid">
         <line v-for="tick in yTicks" :key="tick.value" :x1="plot.left" :x2="plot.right" :y1="tick.y" :y2="tick.y" />
       </g>
-      <path :d="areaPath" class="chart-area" />
-      <polyline :points="linePoints" class="chart-line" fill="none" />
-      <polyline v-if="averagePoints" :points="averagePoints" class="chart-average" fill="none" />
+      <g v-for="(segment, index) in segments" :key="index">
+        <polyline :points="segment.map(point => `${point.x},${point.y}`).join(' ')" class="chart-line" fill="none" />
+        <circle v-if="segment.length === 1" :cx="segment[0].x" :cy="segment[0].y" r="3" fill="currentColor" />
+      </g>
+      <polyline v-for="(points, index) in averageSegments" :key="`average-${index}`" :points="points" class="chart-average" fill="none" />
       <g v-if="hoveredPoint" class="chart-hover">
         <line :x1="hoveredPoint.x" :x2="hoveredPoint.x" :y1="plot.top" :y2="plot.bottom" />
         <circle :cx="hoveredPoint.x" :cy="hoveredPoint.y" r="5" />
@@ -37,8 +39,10 @@
     </div>
     <div class="weekly-chart-legend">
       <span><i class="players-line"></i>Players</span>
-      <span><i class="average-line"></i>Average Players</span>
+      <span v-if="averageSegments.length"><i class="average-line"></i>Average Players</span>
     </div>
+    <p class="chart-observation-note">{{ displayedPoints.length }} 个实际观测点 · 时间为新加坡时间；超过 90 分钟的间隔断线，空白不代表无人在线。</p>
+    <p v-if="!displayedPoints.length">此区间没有在线观测。</p>
     <div class="weekly-chart-axis">
       <span>{{ displayedPoints[0]?.datetime.slice(0, 10) }}</span>
       <span>{{ displayedPoints.at(-1)?.datetime.slice(0, 10) }}</span>
@@ -48,6 +52,7 @@
 
 <script setup lang="ts">
 import type { ChartSeries } from "~/types/public"
+import { windowPoints, chartCoordinates, chartSegments } from "~/utils/chartGeometry"
 
 const props = defineProps<{ chart: ChartSeries; label: string; compact?: boolean; windowStart?: string; windowEnd?: string }>()
 const compact = computed(() => Boolean(props.compact))
@@ -55,14 +60,7 @@ const plot = { left: 26, right: 900, top: 46, bottom: 278 }
 const svgEl = ref<SVGSVGElement | null>(null)
 const hoveredIndex = ref<number | null>(null)
 
-const displayedPoints = computed(() => {
-  if (!props.windowStart || !props.windowEnd) return props.chart.points
-  const points = props.chart.points.filter(point => {
-    const day = point.datetime.slice(0, 10)
-    return day >= props.windowStart! && day <= props.windowEnd!
-  })
-  return points.length ? points : props.chart.points
-})
+const displayedPoints = computed(() => windowPoints(props.chart.points, props.windowStart, props.windowEnd))
 const activePeak = computed(() => {
   return displayedPoints.value.reduce(
     (best, point) => (point.players > best.players ? { players: point.players, datetime: point.datetime } : best),
@@ -72,32 +70,20 @@ const activePeak = computed(() => {
 const maxPlayers = computed(() => Math.max(...displayedPoints.value.map(point => Math.max(point.players, point.average_players || 0)), 1))
 const yMax = computed(() => niceCeil(maxPlayers.value))
 
-const coordinates = computed(() => {
-  return displayedPoints.value.map((point, index) => ({
-    ...point,
-    x: displayedPoints.value.length === 1 ? (plot.left + plot.right) / 2 : (index / (displayedPoints.value.length - 1)) * (plot.right - plot.left) + plot.left,
-    y: plot.bottom - (point.players / yMax.value) * (plot.bottom - plot.top)
-  }))
-})
-
-const linePoints = computed(() => coordinates.value.map(point => `${point.x},${point.y}`).join(" "))
-const areaPath = computed(() => {
-  if (!coordinates.value.length) return ""
-  return `M${plot.left},${plot.bottom} L${linePoints.value} L${plot.right},${plot.bottom} Z`
-})
-const averagePoints = computed(() => {
-  const values = displayedPoints.value.map(point => point.average_players).filter(value => typeof value === "number") as number[]
-  if (!values.length) return ""
-  return displayedPoints.value
-    .map((point, index) => {
-      if (typeof point.average_players !== "number") return ""
-      const x = displayedPoints.value.length === 1 ? (plot.left + plot.right) / 2 : (index / (displayedPoints.value.length - 1)) * (plot.right - plot.left) + plot.left
-      const y = plot.bottom - (point.average_players / yMax.value) * (plot.bottom - plot.top)
-      return `${x},${y}`
-    })
-    .filter(Boolean)
-    .join(" ")
-})
+const coordinates = computed(() => chartCoordinates(displayedPoints.value, plot.left, plot.right, plot.top, plot.bottom, yMax.value))
+const segments = computed(() => chartSegments(coordinates.value))
+const averageSegments = computed(() => segments.value.flatMap(segment => {
+  const lines: string[] = []
+  let current: string[] = []
+  for (const point of segment) {
+    if (typeof point.average_players !== "number") {
+      if (current.length) lines.push(current.join(" "))
+      current = []
+    } else current.push(`${point.x},${plot.bottom - (point.average_players / yMax.value) * (plot.bottom - plot.top)}`)
+  }
+  if (current.length) lines.push(current.join(" "))
+  return lines
+}))
 const hoveredPoint = computed(() => hoveredIndex.value === null ? null : coordinates.value[hoveredIndex.value] || null)
 const yTicks = computed(() => [0, 0.25, 0.5, 0.75, 1].map(ratio => {
   const value = Math.round(yMax.value * ratio)
