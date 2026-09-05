@@ -1,0 +1,313 @@
+{
+  "schema_version": "2.0.0",
+  "slug": "2026-08-10-week",
+  "issue_number": 12,
+  "week_start": "2026-08-10",
+  "week_end": "2026-08-16",
+  "title": "Steam 一周表现：PEAK 领跑",
+  "summary": "PEAK 本周综合排名第一，日榜第一 2 次、第二 0 次，摘星 1 次。综合排名汇总本周已发布日榜，缺失日期不计分。",
+  "status": "published",
+  "published_at": "2026-09-05 20:32:28",
+  "signals": [
+    {
+      "rank": 1,
+      "signal_type": "content_update_comeback",
+      "label": "重大更新回流",
+      "score": 16.0,
+      "selection_reason": "PEAK 在 7 个已保存日榜中进入前五 3 天、前二 2 天，实际摘星 1 次，周复选分 16。",
+      "metrics": {
+        "product_family_identity": "appid:3527290",
+        "actual_star_count": 1,
+        "first_place_days": 2,
+        "second_place_days": 0,
+        "top_two_days": 2,
+        "top_five_days": 3,
+        "average_rank": 1.67,
+        "weekly_score": 16,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-08-12",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-08-13",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-08-14",
+            "rank": 3,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-08-14"
+      },
+      "chart_status": "missing",
+      "article_selected": true,
+      "article_slug": "peak",
+      "chart_path": null,
+      "game": {
+        "slug": "peak",
+        "appid": "3527290",
+        "name": "PEAK",
+        "description": "《PEAK》是一款需要细致合作的登山游戏，作为流落神秘岛屿的童子军探险家，无论单人独闯抑或团队协力，你们唯一获救的希望便是登上岛中那座巍峨的山峰，自然荒野险途漫漫，稍有不慎便会大难临头。顶峰在望，你有魄力能征服它吗？",
+        "developer": "Team PEAK",
+        "publisher": "Aggro Crab, Evil Landfall?",
+        "release_date": "2025-06-16",
+        "review_ratio": 95.0,
+        "review_total": 348659,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/89f65be18915d2dc5566de1de322379d62c1dcac/header_alt_assets_3.jpg?t=1786470571",
+        "steam_url": "https://store.steampowered.com/app/3527290",
+        "product_family_identity": "appid:3527290",
+        "product_family_appid": "3527290",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 2,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 14.0,
+      "selection_reason": "Sandustry 在 7 个已保存日榜中进入前五 3 天、前二 2 天，实际摘星 1 次，周复选分 14。",
+      "metrics": {
+        "product_family_identity": "appid:2764460",
+        "actual_star_count": 1,
+        "first_place_days": 1,
+        "second_place_days": 1,
+        "top_two_days": 2,
+        "top_five_days": 3,
+        "average_rank": 2.33,
+        "weekly_score": 14,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-08-14",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-08-15",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-08-16",
+            "rank": 1,
+            "actual_star": true
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-08-16"
+      },
+      "chart_status": "missing",
+      "article_selected": true,
+      "article_slug": "sandustry",
+      "chart_path": null,
+      "game": {
+        "slug": "sandustry",
+        "appid": "2764460",
+        "name": "Sandustry",
+        "description": "在这个可以任意重塑的无垠世界探索、开发，打造复杂自动化产业链。深入挖掘，揭开远古文明留下的奥秘。在这款工厂建造游戏中，每个像素都是待开采的宝藏。学会拥抱金沙，与之为伴吧。",
+        "developer": "Lantto Games",
+        "publisher": "Hooded Horse",
+        "release_date": "2026-08-13",
+        "review_ratio": 97.0,
+        "review_total": 4459,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764460/c246f877faf435bbc07730f83ceef69a5e936331/header_schinese.jpg?t=1787905620",
+        "steam_url": "https://store.steampowered.com/app/2764460",
+        "product_family_identity": "appid:2764460",
+        "product_family_appid": "2764460",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 3,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 14.0,
+      "selection_reason": "Hell Let Loose: Vietnam 在 7 个已保存日榜中进入前五 3 天、前二 2 天，实际摘星 1 次，周复选分 14。",
+      "metrics": {
+        "product_family_identity": "appid:3079210",
+        "actual_star_count": 1,
+        "first_place_days": 1,
+        "second_place_days": 1,
+        "top_two_days": 2,
+        "top_five_days": 3,
+        "average_rank": 2.33,
+        "weekly_score": 14,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-08-14",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-08-15",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-08-16",
+            "rank": 4,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-08-16"
+      },
+      "chart_status": "missing",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
+      "game": {
+        "slug": "hell-let-loose-vietnam",
+        "appid": "3079210",
+        "name": "Hell Let Loose: Vietnam",
+        "description": "跟随《Hell Let Loose: Vietnam》，踏入另一片枪炮轰鸣的战场。在有史以来最具标志性的战争中扮演关键角色；加入50对50的大规模玩家对抗；用团队合作、战术和威力惊人的武器，塑造出有利于己方团队的战场局势。",
+        "developer": "Expression Games",
+        "publisher": "Team17",
+        "release_date": "2026-08-13",
+        "review_ratio": 61.0,
+        "review_total": 10834,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079210/2e52f99e70e827b57a2205469dc5d529e8e0490a/header.jpg?t=1786637345",
+        "steam_url": "https://store.steampowered.com/app/3079210",
+        "product_family_identity": "appid:3079210",
+        "product_family_appid": "3079210",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 14.0,
+      "selection_reason": "Servant of the Lake 在 7 个已保存日榜中进入前五 4 天、前二 1 天，实际摘星 1 次，周复选分 14。",
+      "metrics": {
+        "product_family_identity": "appid:3636770",
+        "actual_star_count": 1,
+        "first_place_days": 1,
+        "second_place_days": 0,
+        "top_two_days": 1,
+        "top_five_days": 4,
+        "average_rank": 3.25,
+        "weekly_score": 14,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-08-13",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-08-14",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-08-15",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-08-16",
+            "rank": 5,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-08-16"
+      },
+      "chart_status": "missing",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
+      "game": {
+        "slug": "servant-of-the-lake",
+        "appid": "3636770",
+        "name": "Servant of the Lake",
+        "description": "开启你的新工作，成为神秘的Vanderboom宅邸的仆人吧。在Servant of the Lake中解开谜题，侍奉家族，并揭开他们阴暗的炼金术秘密。Servant of the Lake是一款Rusty Lake即将推出的全新单人点击式解谜冒险游戏。",
+        "developer": "Rusty Lake",
+        "publisher": "Rusty Lake",
+        "release_date": "2026-08-13",
+        "review_ratio": 99.0,
+        "review_total": 5209,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3636770/b744b35a64a8d04a3421b0f011113c0342789055/header.jpg?t=1787167955",
+        "steam_url": "https://store.steampowered.com/app/3636770",
+        "product_family_identity": "appid:3636770",
+        "product_family_appid": "3636770",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "release_event_rise",
+      "label": "发行节点起量",
+      "score": 13.0,
+      "selection_reason": "Fields of Mistria 在 7 个已保存日榜中进入前五 3 天、前二 1 天，实际摘星 1 次，周复选分 13。",
+      "metrics": {
+        "product_family_identity": "appid:2142790",
+        "actual_star_count": 1,
+        "first_place_days": 0,
+        "second_place_days": 1,
+        "top_two_days": 1,
+        "top_five_days": 3,
+        "average_rank": 2.67,
+        "weekly_score": 13,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-08-10",
+            "rank": 2,
+            "actual_star": true
+          },
+          {
+            "date": "2026-08-11",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-08-12",
+            "rank": 3,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-08-12"
+      },
+      "chart_status": "missing",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": null,
+      "game": {
+        "slug": "fields-of-mistria",
+        "appid": "2142790",
+        "name": "Fields of Mistria",
+        "description": "开启全新人生旅程！探索这个充满无限可能的世界，亲手打造你梦想中的农场。魔法、浪漫与冒险都在等你，快来体验这款充满怀旧风情的农场模拟/生活角色扮演游戏吧！",
+        "developer": "NPC Studio",
+        "publisher": "NPC Studio",
+        "release_date": "2026-08-05",
+        "review_ratio": 97.0,
+        "review_total": 33786,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142790/38313105cdcda9295fed4b124e5f5437872d35b4/header_alt_assets_4.jpg?t=1785944891",
+        "steam_url": "https://store.steampowered.com/app/2142790",
+        "product_family_identity": "appid:2142790",
+        "product_family_appid": "2142790",
+        "product_family_role": "full"
+      }
+    }
+  ]
+}

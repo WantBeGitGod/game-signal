@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-05T20:31:54",
+  "generated_at": "2026-09-05T20:32:28",
   "latest_weekly": "2026-08-24-week",
   "issues": [
     {
@@ -22,6 +22,16 @@
       "summary": "How to Fish 本周综合排名第一，日榜第一 3 次、第二 0 次，摘星 2 次。综合排名汇总本周已发布日榜，缺失日期不计分。",
       "status": "published",
       "published_at": "2026-09-05 20:31:54"
+    },
+    {
+      "slug": "2026-08-10-week",
+      "issue_number": 12,
+      "week_start": "2026-08-10",
+      "week_end": "2026-08-16",
+      "title": "Steam 一周表现：PEAK 领跑",
+      "summary": "PEAK 本周综合排名第一，日榜第一 2 次、第二 0 次，摘星 1 次。综合排名汇总本周已发布日榜，缺失日期不计分。",
+      "status": "published",
+      "published_at": "2026-09-05 20:32:28"
     },
     {
       "slug": "2026-07-13-week",
