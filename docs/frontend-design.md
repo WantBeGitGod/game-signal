@@ -28,12 +28,13 @@ Set-Location <site-repo>
 npm run dev -- --host 127.0.0.1 --port 3100
 ```
 
-Open http://127.0.0.1:3100. Stop the development server before running `npm run generate`; Nuxt prevents these processes from sharing its build directory. This design branch is a local review deliverable; creating the branch and tags does not deploy the website.
+Open http://127.0.0.1:3100. Stop the development server before running `npm run generate`; Nuxt prevents these processes from sharing its build directory. The reviewed design was merged into main on 2026-09-06 with owner authorization. Pushes to main run the existing GitHub Pages build and deployment.
 
 ## Git backup and rollback
 
 Run these commands from your local public-site repository. Replace `<site-repo>` with its checkout directory.
 
+- Accepted release: tag `frontend-approved-20260906`; UI refinement commit `a14f850`, daily issue commit `1bff8ab`. Revert `a14f850` to undo only the final UI refinement while keeping the September 5 issue.
 - Original frontend: annotated tag `frontend-before-redesign-20260906`, commit `eac6278`.
 - Design branch: `codex/frontend-redesign-20260906`.
 - First redesign / subdued palette: annotated tag `frontend-redesign-20260906` (`898c903`).
