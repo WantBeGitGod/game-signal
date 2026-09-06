@@ -9,9 +9,7 @@
       <NuxtLink v-for="issue in manifest.issues" :key="issue.slug" :to="`/weekly/${issue.slug}`" class="weekly-cover-card">
         <div class="weekly-cover-heading">
           <span>第 {{ String(issue.issue_number).padStart(3, "0") }} 期</span>
-          <h2>
-            <span v-for="line in titleLines(issue.title)" :key="line">{{ line }}</span>
-          </h2>
+          <h2>{{ formatWeeklyTitle(issue.title) }}</h2>
         </div>
         <p>{{ issue.summary }}</p>
         <strong>覆盖 {{ issue.week_start }} - {{ issue.week_end }}</strong>
@@ -25,13 +23,8 @@
 </template>
 
 <script setup lang="ts">
+import { formatWeeklyTitle } from "~/utils/titleTypography"
 useSeoMeta({ title: "周刊" })
 const { data: manifest } = await useWeeklyManifest()
 
-function titleLines(title: string) {
-  return title
-    .split(/\r?\n|[，,、：:；;。！？!?]+/)
-    .map(line => line.trim())
-    .filter(Boolean)
-}
 </script>

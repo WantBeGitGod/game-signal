@@ -2,7 +2,7 @@
   <div v-if="issue" class="page-shell weekly-page">
     <header class="weekly-hero">
       <p class="eyebrow">GAME SIGNAL WEEKLY / 第 {{ String(issue.issue_number).padStart(3, "0") }} 期</p>
-      <h1>{{ issue.title }}</h1>
+      <h1>{{ formatWeeklyTitle(issue.title) }}</h1>
       <p class="weekly-issue-meta">{{ issue.week_start }} — {{ issue.week_end }}</p>
       <p>{{ issue.summary }}</p>
       <p v-if="coverageNote" class="weekly-coverage-note">{{ coverageNote }}</p>
@@ -17,11 +17,11 @@
         <div class="feature-visual">
           <img v-if="signal.game.cover_image_url" :src="signal.game.cover_image_url" :alt="signal.game.name" loading="lazy" />
           <span class="feature-number">{{ String(signal.rank).padStart(2, "0") }}</span>
-          <p>{{ signal.game.name }}</p>
+          <p>{{ formatWeeklyTitle(signal.game.name) }}</p>
         </div>
         <div class="feature-copy">
           <p class="eyebrow">综合 #{{ signal.rank }} · {{ signal.label }}</p>
-          <h2>{{ feature(signal)?.heading || signal.game.name }}</h2>
+          <h2>{{ formatWeeklyTitle(feature(signal)?.heading || signal.game.name) }}</h2>
           <div class="feature-stats">
             <span><strong>{{ rankCount(signal, 1) }}</strong> 次第一</span>
             <span><strong>{{ rankCount(signal, 2) }}</strong> 次第二</span>
@@ -54,7 +54,7 @@
           <span>综合</span><span>游戏</span><span>第一</span><span>第二</span><span>摘星</span><span>上榜天数</span><span>周积分</span>
         </div>
         <div v-for="signal in issue.signals" :key="signal.rank" class="weekly-ranking-row" role="row">
-          <strong>#{{ signal.rank }}</strong><span>{{ signal.game.name }}</span>
+          <strong>#{{ signal.rank }}</strong><span>{{ formatWeeklyTitle(signal.game.name) }}</span>
           <span>{{ rankCount(signal, 1) }} 次</span><span>{{ rankCount(signal, 2) }} 次</span>
           <span>{{ metric(signal, "actual_star_count") }} 次</span><span>{{ metric(signal, "top_five_days") }} 天</span>
           <strong>{{ metric(signal, "weekly_score") }}</strong>
@@ -69,7 +69,7 @@
         <article v-for="signal in otherGames" :key="signal.rank" class="weekly-note">
           <img v-if="signal.game.cover_image_url" :src="signal.game.cover_image_url" :alt="signal.game.name" loading="lazy" />
           <p class="eyebrow">综合 #{{ signal.rank }}</p>
-          <h3>{{ signal.game.name }}</h3>
+          <h3>{{ formatWeeklyTitle(signal.game.name) }}</h3>
           <p>{{ issue.editorial?.notes[signal.game.appid || ''] || signal.selection_reason }}</p>
           <WeeklyTrajectory :issue="issue" :signal="signal" :label="signal.game.name" />
           <NuxtLink v-if="articleFor(signal)" :to="`/articles/${articleFor(signal)}`">阅读全文 ↗</NuxtLink>
@@ -88,6 +88,7 @@
 </template>
 
 <script setup lang="ts">
+import { formatWeeklyTitle } from "~/utils/titleTypography"
 import type { ChartSeries, WeeklyIssue, WeeklySignal } from "~/types/public"
 const route = useRoute()
 const { data: issue } = await useWeeklyIssue(String(route.params.slug))
@@ -123,12 +124,12 @@ function articleFor(signal: WeeklySignal) {
 
 <style scoped>
 .weekly-feature { display: grid; grid-template-columns: minmax(0, .85fr) minmax(0, 1.4fr); gap: clamp(24px, 4vw, 58px); padding: 36px 0 48px; border-top: 2px solid var(--line); }
-.feature-visual { position: relative; align-self: start; }
+.feature-visual { container-type: inline-size; min-width: 0; position: relative; align-self: start; }
 .feature-visual img { width: 100%; aspect-ratio: 460 / 215; object-fit: cover; display: block; border: 2px solid var(--line); }
 .feature-number { display: inline-block; background: var(--coral); padding: 8px 18px; font: 900 38px var(--mono); border: 2px solid var(--line); margin-top: -2px; }
-.feature-visual p { font-family: var(--serif); font-size: 26px; line-height: 1.2; overflow-wrap: anywhere; }
-.feature-copy { min-width: 0; }
-.feature-copy h2 { font-family: var(--serif); font-size: clamp(27px, 3vw, 44px); line-height: 1.2; margin: 12px 0 22px; }
+.feature-visual p { font-family: var(--serif); font-size: clamp(21px, 6.2cqw, 26px); line-height: 1.35; overflow-wrap: normal; word-break: normal; line-break: strict; hyphens: none; text-wrap: balance; }
+.feature-copy { min-width: 0; container-type: inline-size; }
+.feature-copy h2 { font-family: var(--serif); font-size: clamp(24px, 5.4cqw, 36px); line-height: 1.35; word-break: normal; overflow-wrap: normal; line-break: strict; hyphens: none; text-wrap: balance; margin: 12px 0 22px; }
 .feature-stats { display: flex; flex-wrap: wrap; gap: 24px; border-block: 1px solid var(--line); padding: 12px 0; margin-bottom: 24px; font-size: 12px; }
 .feature-stats strong { font: 900 26px var(--mono); margin-right: 3px; }
 .feature-paragraph { font-size: 16px; line-height: 1.95; margin: 0 0 18px; }
@@ -138,15 +139,15 @@ function articleFor(signal: WeeklySignal) {
 .observation-detail { margin-top: 24px; border-top: 1px solid var(--line); padding-top: 12px; }
 .observation-detail summary { cursor: pointer; font-size: 13px; font-weight: 700; margin-bottom: 12px; }
 .weekly-notes { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 26px; }
-.weekly-note { min-width: 0; border-top: 2px solid var(--line); padding-top: 18px; }
+.weekly-note { container-type: inline-size; min-width: 0; border-top: 2px solid var(--line); padding-top: 18px; }
 .weekly-note > img { display: block; width: 100%; aspect-ratio: 460 / 215; object-fit: cover; margin-bottom: 18px; }
-.weekly-note h3 { font-family: var(--serif); font-size: 26px; line-height: 1.2; overflow-wrap: anywhere; }
+.weekly-note h3 { font-family: var(--serif); font-size: clamp(21px, 6.2cqw, 26px); line-height: 1.35; overflow-wrap: normal; word-break: normal; line-break: strict; hyphens: none; text-wrap: balance; }
 .weekly-note > p:not(.eyebrow) { font-size: 14px; line-height: 1.9; }
 .weekly-next { background: var(--acid); padding: clamp(30px, 5vw, 70px); border-bottom: 2px solid var(--line); }
 .weekly-next h2 { font-family: var(--serif); font-size: 34px; margin: 12px 0 24px; }
 .weekly-next ol { max-width: 850px; padding-left: 22px; }
 .weekly-next li { padding: 0 0 16px 10px; line-height: 1.9; }
-@media (max-width: 1000px) { .weekly-notes { grid-template-columns: 1fr; } .weekly-note > img { max-width: 400px; } }
-@media (max-width: 760px) { .weekly-hero h1 { font-size: clamp(26px, 8vw, 58px); } .weekly-feature { grid-template-columns: 1fr; gap: 16px; } .feature-visual p { font-size: 22px; } .feature-copy h2 { font-size: 29px; } }
+@media (max-width: 1000px) { .weekly-feature { grid-template-columns: 1fr; } .feature-visual { max-width: 620px; } .weekly-notes { grid-template-columns: 1fr; } .weekly-note > img { max-width: 400px; } }
+@media (max-width: 760px) { .weekly-hero h1 { font-size: clamp(26px, 8vw, 58px); } .weekly-feature { grid-template-columns: 1fr; gap: 16px; } .feature-visual p { font-size: 22px; } .feature-copy h2 { font-size: clamp(24px, 5.4cqw, 29px); } }
 </style>
 

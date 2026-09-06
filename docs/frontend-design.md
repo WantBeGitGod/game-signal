@@ -15,6 +15,8 @@ Homepage order:
 
 The home page reads the existing public manifest and quick-take schema. It does not generate or change editorial judgments, scores, historical facts or access controls. Daily issue detail pages retain their data, sources and complete quick take.
 
+Weekly titles use natural, balanced wrapping instead of punctuation-split blocks. English words and hyphenated names stay intact, punctuation stays with its neighbouring word, and font size follows the title container. The feature layout switches to a single column below 1000px. One or two lines are preferred; exceptionally long titles remain fully visible rather than being clipped.
+
 Primary navigation: 今日 (homepage), 周刊, 往日之星, 文章, 游戏档案, 团队. Author, methodology and system links remain available. Existing URLs and legacy article redirects are retained.
 
 ## Local review
