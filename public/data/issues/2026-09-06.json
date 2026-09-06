@@ -1,0 +1,371 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-09-06",
+  "title": "09.06 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 27.87,
+    "fact_summary": "Onimusha: Way of the Sword 今日观测峰值 81,537，较过往最高峰值提升 +9%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 81537,
+      "previous_peak": 74465,
+      "previous_record_peak": 74465,
+      "growth_rate": 0.095,
+      "record_growth_rate": 0.095,
+      "scoring_peak": 81537,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 31.51,
+      "raw_record_growth_score": 3.32,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 8.8721,
+      "growth_scale_crossing_component": 0.7154,
+      "record_growth_score": 3.32,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 34.84,
+      "event_adjusted_score": 34.84,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 34.84,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-09-06",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.8,
+      "base_score": 27.87,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 87.0,
+      "review_total": 6772,
+      "days_seen": 3,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 3,
+      "steam_release_age_days": 3,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 948,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-03",
+      "release_event_age_days": 3,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 948,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-09-04",
+          "peak": 42230
+        },
+        {
+          "date": "2026-09-05",
+          "peak": 74465
+        },
+        {
+          "date": "2026-09-06",
+          "peak": 81537
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2638890"
+      }
+    ],
+    "game": {
+      "slug": "onimusha-way-of-the-sword",
+      "appid": "2638890",
+      "name": "Onimusha: Way of the Sword",
+      "name_cn": null,
+      "description": "本作是刀光血影、以牙还牙的极致动作游戏。在面目全非的“京都”，一位佩戴“鬼之笼手”的武士正四处奔波，斩杀猖獗肆虐的幻魔。在激烈的刀光剑影之中沐浴鲜血，不断寻求战斗的意义。前行的道路，终将通往何处？",
+      "release_date": "2026-09-03",
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "Steam 云",
+        "可用 HDR",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 87.0,
+      "review_total": 6772,
+      "developer": "CAPCOM Co., Ltd.",
+      "publisher": "CAPCOM Co., Ltd.",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/ce31174fea86d0bafa21b26e853dcd0b7326e36f/header.jpg?t=1788494549",
+      "steam_url": "https://store.steampowered.com/app/2638890",
+      "product_family_identity": "appid:2638890",
+      "product_family_appid": "2638890",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-04",
+          "peak": 42230
+        },
+        {
+          "date": "2026-09-05",
+          "peak": 74465
+        },
+        {
+          "date": "2026-09-06",
+          "peak": 81537
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Onimusha: Way of the Sword》是把武士刀招架、斩杀与鬼之笼手能力放进妖魔京都的单人动作冒险。它不靠堆招式取胜，重点是看清敌人的起手，用一记及时的防守把回合抢回来。",
+      "reference_frame": "如果你喜欢《致命躯壳2》那种读招、控距离后再找反击窗口的近战压力，这里能快速上手；差别在于《鬼武者》的刀剑招架更直接，鬼之笼手吸魂与特殊攻击会把一次得手接成下一轮进攻，而不是围绕 Shell 和探索构筑展开。",
+      "for_players": "适合喜欢近身刀剑碰撞、愿意反复学敌人动作并把一次防守转成进攻的玩家。武士与妖魔的血腥氛围、连续的短兵相接，也是它比单纯看剧情更有吸引力的部分。",
+      "not_for_players": "如果你更想靠长线配装、低压力探索或轻松看完故事，持续盯住敌人节奏会很累；不喜欢血腥处决和怪物题材的玩家，也很难绕开这层表现。",
+      "star_reason": "9 月 6 日，本地观测峰值升至 81,537，较昨日纪录再涨约 9%；公开评价为 87%、6,772 篇。它已是第二次摘星，但仍以 27.87 分位居当天规则榜首，说明首发热度还在继续抬高。",
+      "core_loop": [
+        "在京都场景中接近敌人，观察剑客或幻魔的动作，决定闪避、防御还是迎击。",
+        "用招架和剑击顶住攻势，在对方硬直时反攻、处决或调整站位。",
+        "吸收魂魄并使用鬼之笼手的力量，带着新的资源处理下一批敌人与更强的对手。"
+      ],
+      "content_length": 509
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 27.87,
+    "fact_summary": "Onimusha: Way of the Sword 今日观测峰值 81,537，较过往最高峰值提升 +9%，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 81537,
+      "previous_peak": 74465,
+      "previous_record_peak": 74465,
+      "growth_rate": 0.095,
+      "record_growth_rate": 0.095,
+      "scoring_peak": 81537,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 31.51,
+      "raw_record_growth_score": 3.32,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 8.8721,
+      "growth_scale_crossing_component": 0.7154,
+      "record_growth_score": 3.32,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 34.84,
+      "event_adjusted_score": 34.84,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 34.84,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-09-06",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.8,
+      "base_score": 27.87,
+      "score_multiplier": 0.8,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 87.0,
+      "review_total": 6772,
+      "days_seen": 3,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 3,
+      "steam_release_age_days": 3,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 948,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-03",
+      "release_event_age_days": 3,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 948,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "trend": [
+        {
+          "date": "2026-09-04",
+          "peak": 42230
+        },
+        {
+          "date": "2026-09-05",
+          "peak": 74465
+        },
+        {
+          "date": "2026-09-06",
+          "peak": 81537
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2638890"
+      }
+    ],
+    "game": {
+      "slug": "onimusha-way-of-the-sword",
+      "appid": "2638890",
+      "name": "Onimusha: Way of the Sword",
+      "name_cn": null,
+      "description": "本作是刀光血影、以牙还牙的极致动作游戏。在面目全非的“京都”，一位佩戴“鬼之笼手”的武士正四处奔波，斩杀猖獗肆虐的幻魔。在激烈的刀光剑影之中沐浴鲜血，不断寻求战斗的意义。前行的道路，终将通往何处？",
+      "release_date": "2026-09-03",
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "Steam 云",
+        "可用 HDR",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 87.0,
+      "review_total": 6772,
+      "developer": "CAPCOM Co., Ltd.",
+      "publisher": "CAPCOM Co., Ltd.",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/ce31174fea86d0bafa21b26e853dcd0b7326e36f/header.jpg?t=1788494549",
+      "steam_url": "https://store.steampowered.com/app/2638890",
+      "product_family_identity": "appid:2638890",
+      "product_family_appid": "2638890",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-04",
+          "peak": 42230
+        },
+        {
+          "date": "2026-09-05",
+          "peak": 74465
+        },
+        {
+          "date": "2026-09-06",
+          "peak": 81537
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Onimusha: Way of the Sword》是把武士刀招架、斩杀与鬼之笼手能力放进妖魔京都的单人动作冒险。它不靠堆招式取胜，重点是看清敌人的起手，用一记及时的防守把回合抢回来。",
+      "reference_frame": "如果你喜欢《致命躯壳2》那种读招、控距离后再找反击窗口的近战压力，这里能快速上手；差别在于《鬼武者》的刀剑招架更直接，鬼之笼手吸魂与特殊攻击会把一次得手接成下一轮进攻，而不是围绕 Shell 和探索构筑展开。",
+      "for_players": "适合喜欢近身刀剑碰撞、愿意反复学敌人动作并把一次防守转成进攻的玩家。武士与妖魔的血腥氛围、连续的短兵相接，也是它比单纯看剧情更有吸引力的部分。",
+      "not_for_players": "如果你更想靠长线配装、低压力探索或轻松看完故事，持续盯住敌人节奏会很累；不喜欢血腥处决和怪物题材的玩家，也很难绕开这层表现。",
+      "star_reason": "9 月 6 日，本地观测峰值升至 81,537，较昨日纪录再涨约 9%；公开评价为 87%、6,772 篇。它已是第二次摘星，但仍以 27.87 分位居当天规则榜首，说明首发热度还在继续抬高。",
+      "core_loop": [
+        "在京都场景中接近敌人，观察剑客或幻魔的动作，决定闪避、防御还是迎击。",
+        "用招架和剑击顶住攻势，在对方硬直时反攻、处决或调整站位。",
+        "吸收魂魄并使用鬼之笼手的力量，带着新的资源处理下一批敌人与更强的对手。"
+      ],
+      "content_length": 509
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
