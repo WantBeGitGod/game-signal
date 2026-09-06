@@ -19,9 +19,8 @@ The private production pipeline writes public data under `public/data/` and appr
 
 ## Information architecture
 
-The header navigation stays focused on public proof-of-work browsing:
+The logo returns to the homepage with the complete two-minute game fit. Header navigation:
 
-- 今日 (complete two-minute game fit on the homepage)
 - 周刊
 - 往日之星
 - 文章

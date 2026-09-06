@@ -11,7 +11,6 @@
       </span>
     </NuxtLink>
     <nav aria-label="主导航">
-      <NuxtLink to="/" >今日</NuxtLink>
       <NuxtLink to="/weekly">周刊</NuxtLink>
       <NuxtLink to="/issues">往日之星</NuxtLink>
       <NuxtLink to="/articles">文章</NuxtLink>

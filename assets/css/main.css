@@ -2839,8 +2839,8 @@ a:focus-visible, button:focus-visible { outline: 3px solid #5144ce; outline-offs
 .daily-fit-grid > section { min-height: 0; padding: 24px; border-radius: 5px; background: #eee8ff; border: 1px solid #d3c5f3; }
 .daily-fit-grid > section:first-child { border: 1px solid #d3c5f3; }
 .daily-fit-grid .daily-quick-label { margin-bottom: 10px; }
-.daily-fit-grid > section:last-child { background: #ffe0cf; border-color: #efbfa5; }
-.daily-fit-grid > section:last-child .daily-quick-label { color: #80422b; }
+.daily-fit-grid > section:last-child { background: #eee8ff; border-color: #d3c5f3; }
+.daily-fit-grid > section:last-child .daily-quick-label { color: var(--ink); }
 .daily-fit-grid p, .daily-star-reason p { font-size: 20px; line-height: 1.8; }
 .daily-star-reason { background: transparent; color: var(--muted); border-top: 1px solid var(--line); padding: 20px 0; grid-template-columns: 170px 1fr; }
 .daily-star-reason .daily-quick-label { color: var(--ink); }
@@ -2992,8 +2992,7 @@ a:focus-visible, button:focus-visible { outline: 3px solid #5144ce; outline-offs
 .daily-cover { margin-top: 24px; border-radius: 6px; }
 .data-cover-feature::after { content: ""; position: absolute; top: -20px; right: -16px; width: 46px; height: 46px; background: #ffe48b; clip-path: polygon(50% 0, 61% 30%, 85% 15%, 70% 39%, 100% 50%, 70% 61%, 85% 85%, 61% 70%, 50% 100%, 39% 70%, 15% 85%, 30% 61%, 0 50%, 30% 39%, 15% 15%, 39% 30%); pointer-events: none; }
 .daily-quick-take-head h2 { text-decoration: underline; text-decoration-color: #c6b5f5; text-decoration-thickness: 7px; text-underline-offset: 8px; }
-.home-star-card:nth-child(2) { background: #ffdf69; }
-.home-star-card:nth-child(3) { background: #ffb18d; }
+
 .case-cover figcaption { background: #eee8ff; color: var(--ink); }
 .content-row p, .issue-row-summary, .game-archive-copy > p { font-size: 18px; line-height: 1.8; }
 .home-editorial .archive-button { border-width: 1px; font-weight: 500; }
@@ -3015,9 +3014,7 @@ a:focus-visible, button:focus-visible { outline: 3px solid #5144ce; outline-offs
 .issue-archive .page-intro { max-width: none; background: var(--blue); color: var(--paper-bright); }
 .issue-archive .page-intro .eyebrow { color: #ffdf69; }
 .issue-archive .page-intro > p:last-child { color: #eee9ff; }
-.issue-archive .issue-row:nth-child(3n + 1) { background: #fff2bd; }
-.issue-archive .issue-row:nth-child(3n + 2) { background: #e5daff; }
-.issue-archive .issue-row:nth-child(3n) { background: #ffddc9; }
+.issue-archive .issue-row { background: var(--paper-bright); }
 .issue-archive .issue-row:hover { box-shadow: inset 6px 0 var(--blue); }
 .issue-archive .case-cover figcaption { background: #ffdf69; }
 .home-archive .eyebrow { color: #ffdf69; }

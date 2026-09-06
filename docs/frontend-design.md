@@ -2,14 +2,14 @@
 
 ## Homepage and navigation
 
-The September 2026 frontend keeps the content-first layout and adds electric violet, butter yellow and apricot color blocks, outlined cards and small star accents. The dark-green article bridge and minimal footer remain quiet. Daily quick-take body copy is 20px on desktop and 18px on mobile (the introductory paragraph is 22px on desktop). Cover images use their intrinsic proportions, without letterboxing or cropping; image credits sit outside the artwork. The shared visual system applies to daily issues, weekly issues and charts, articles, game archives, teams and informational pages.
+The September 2026 frontend keeps the content-first layout and adds electric violet and yellow color blocks, outlined cards and small star accents. The dark-green article bridge and minimal footer remain quiet. Daily quick-take body copy is 20px on desktop and 18px on mobile (the introductory paragraph is 22px on desktop). Cover images use their intrinsic proportions, without letterboxing or cropping; image credits sit outside the artwork. The shared visual system applies to daily issues, weekly issues and charts, articles, game archives, teams and informational pages.
 
 Homepage order:
 
 1. Latest published daily star: game name, positioning, artwork and supporting metrics.
 2. Complete two-minute quick take: reference frame, core loop, player fit and selection reason. Positioning is already visible in the cover and is not repeated. If a historical issue lacks a quick take, the page shows the existing description and a clear pending label.
 3. Data/source and Steam links.
-4. Three recent daily issues and a full-width archive action on mobile.
+4. Up to three recent distinct games, excluding the homepage star, and a full-width archive action on mobile. AppID is the deduplication key, with slug as a legacy fallback. Historical archive entries are unchanged.
 5. Two recent article previews, the article index and weekly index links.
 6. Collection status and footer.
 
@@ -17,9 +17,9 @@ The home page reads the existing public manifest and quick-take schema. It does 
 
 Weekly titles use natural, balanced wrapping instead of punctuation-split blocks. English words and hyphenated names stay intact, punctuation stays with its neighbouring word, and font size follows the title container. The feature layout switches to a single column below 1000px. One or two lines are preferred; exceptionally long titles remain fully visible rather than being clipped.
 
-The daily archive reserves the full copy column for the game title: date above, peak below. Titles use container-based sizing and natural word wrapping. Violet collection headers, alternating yellow/lilac/apricot archive rows, a lilac daily cover and a violet homepage archive add stronger color fields while reading sections and the footer retain breathing room.
+The daily archive reserves the full copy column for the game title: date above, peak below. Titles use container-based sizing and natural word wrapping. Violet collection headers and uniform neutral archive rows let the artwork lead. The interface limits accent families to violet, yellow and the existing dark-green reading bridge; no alternating row colors or apricot cards. Cover artwork retains its original colors.
 
-Primary navigation: 今日 (homepage), 周刊, 往日之星, 文章, 游戏档案, 团队. Author, methodology and system links remain available. Existing URLs and legacy article redirects are retained.
+The logo returns home. Primary navigation: 周刊, 往日之星, 文章, 游戏档案, 团队. Author, methodology and system links remain available. Existing URLs and legacy article redirects are retained.
 
 ## Local review
 
