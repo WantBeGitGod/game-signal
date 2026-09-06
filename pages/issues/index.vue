@@ -7,12 +7,12 @@
     </header>
     <div class="issue-list">
       <NuxtLink v-for="issue in issues" :key="issue.date" :to="`/issues/${issue.date}`" class="issue-row">
-        <span class="issue-date">{{ issue.date }}</span>
         <div class="issue-row-copy">
+          <span class="issue-date">{{ issue.date }}</span>
           <div class="issue-row-topline">
             <div class="issue-row-heading">
               <SignalTag :type="starSignal(issue).type" :label="starSignal(issue).label" />
-              <h2>{{ displayGameName(starSignal(issue).game) }}</h2>
+              <h2>{{ formatWeeklyTitle(displayGameName(starSignal(issue).game)) }}</h2>
             </div>
             <div v-if="observedPeak(issue)" class="issue-row-peak">
               <span class="issue-row-peak-label">{{ observedMetricLabel(issue) }}</span>
@@ -37,6 +37,7 @@
 
 <script setup lang="ts">
 import { ArrowUpRight } from "lucide-vue-next"
+import { formatWeeklyTitle } from "~/utils/titleTypography"
 import type { DailyIssue } from "~/types/public"
 
 useSeoMeta({ title: "往日之星" })

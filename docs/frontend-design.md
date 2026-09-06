@@ -17,6 +17,8 @@ The home page reads the existing public manifest and quick-take schema. It does 
 
 Weekly titles use natural, balanced wrapping instead of punctuation-split blocks. English words and hyphenated names stay intact, punctuation stays with its neighbouring word, and font size follows the title container. The feature layout switches to a single column below 1000px. One or two lines are preferred; exceptionally long titles remain fully visible rather than being clipped.
 
+The daily archive reserves the full copy column for the game title: date above, peak below. Titles use container-based sizing and natural word wrapping. Violet collection headers, alternating yellow/lilac/apricot archive rows, a lilac daily cover and a violet homepage archive add stronger color fields while reading sections and the footer retain breathing room.
+
 Primary navigation: 今日 (homepage), 周刊, 往日之星, 文章, 游戏档案, 团队. Author, methodology and system links remain available. Existing URLs and legacy article redirects are retained.
 
 ## Local review
@@ -36,8 +38,10 @@ Run these commands from your local public-site repository. Replace `<site-repo>`
 - Design branch: `codex/frontend-redesign-20260906`.
 - First redesign / subdued palette: annotated tag `frontend-redesign-20260906` (`898c903`).
 - Color and readability refinement: annotated tag `frontend-pop-20260906`.
+- Weekly title fix: commit `8a88c47`.
+- Archive title / stronger color refinement: tag `frontend-bold-20260906`. Undo this iteration with `git revert frontend-bold-20260906`, then generate again.
 
-To undo only the color/readability refinement and restore the first redesign while preserving later content commits, start from a clean working tree and create a normal revert commit:
+After reverting the later archive refinement and weekly title fix (`git revert 8a88c47`), to undo the color/readability refinement and restore the first redesign while preserving later content commits, start from a clean working tree and create a normal revert commit:
 
 ```powershell
 Set-Location <site-repo>
