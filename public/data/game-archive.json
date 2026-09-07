@@ -1,7 +1,42 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-06T18:17:21",
+  "generated_at": "2026-09-07T18:25:34",
   "games": [
+    {
+      "game": {
+        "slug": "the-blood-of-dawnwalker",
+        "appid": "3751260",
+        "name": "The Blood of Dawnwalker",
+        "name_cn": null,
+        "description": "《The Blood of Dawnwalker》为开放世界的黑暗奇幻动作RPG。 故事背景在14世纪的欧洲，你将扮演科恩，一名白昼时为人类，黑夜时为吸血鬼的年轻人。在为了拯救家人的奋斗之中，所做出的各种抉择与揭露的秘密，将塑造成属于你的故事。",
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "developer": "Rebel Wolves",
+        "publisher": "Bandai Namco Entertainment",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788552059",
+        "product_family_identity": "appid:3751260",
+        "product_family_appid": "3751260",
+        "product_family_role": "full"
+      },
+      "article_slugs": [
+        "the-blood-of-dawnwalker"
+      ],
+      "article_title": "The Blood of Dawnwalker-日夜各一条路，时间却只给三十天",
+      "article_published_at": "2026-09-03",
+      "star_dates": [
+        "2026-09-07",
+        "2026-09-04",
+        "2026-09-03"
+      ],
+      "member_appids": [
+        "3751260"
+      ],
+      "article_count": 1,
+      "latest_star_date": "2026-09-07"
+    },
     {
       "game": {
         "slug": "onimusha-way-of-the-sword",
@@ -63,40 +98,6 @@
       ],
       "article_count": 1,
       "latest_star_date": null
-    },
-    {
-      "game": {
-        "slug": "the-blood-of-dawnwalker",
-        "appid": "3751260",
-        "name": "The Blood of Dawnwalker",
-        "name_cn": null,
-        "description": "《The Blood of Dawnwalker》为开放世界的黑暗奇幻动作RPG。 故事背景在14世纪的欧洲，你将扮演科恩，一名白昼时为人类，黑夜时为吸血鬼的年轻人。在为了拯救家人的奋斗之中，所做出的各种抉择与揭露的秘密，将塑造成属于你的故事。",
-        "genres": [
-          "动作",
-          "冒险",
-          "角色扮演"
-        ],
-        "developer": "Rebel Wolves",
-        "publisher": "Bandai Namco Entertainment",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788444722",
-        "product_family_identity": "appid:3751260",
-        "product_family_appid": "3751260",
-        "product_family_role": "full"
-      },
-      "article_slugs": [
-        "the-blood-of-dawnwalker"
-      ],
-      "article_title": "The Blood of Dawnwalker-日夜各一条路，时间却只给三十天",
-      "article_published_at": "2026-09-03",
-      "star_dates": [
-        "2026-09-04",
-        "2026-09-03"
-      ],
-      "member_appids": [
-        "3751260"
-      ],
-      "article_count": 1,
-      "latest_star_date": "2026-09-04"
     },
     {
       "game": {

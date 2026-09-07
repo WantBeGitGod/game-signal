@@ -18,16 +18,19 @@
     "自定义音量控制",
     "可调整难度",
     "推荐使用手柄",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
     "随时保存",
+    "Steam 输入 API 支持",
     "Steam 云",
     "家庭共享"
   ],
-  "review_score": "Mostly Positive",
-  "review_ratio": 79.0,
-  "review_total": 6292,
+  "review_score": "Very Positive",
+  "review_ratio": 83.0,
+  "review_total": 12707,
   "developer": "Rebel Wolves",
   "publisher": "Bandai Namco Entertainment",
-  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788444722",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788552059",
   "steam_url": "https://store.steampowered.com/app/3751260",
   "product_family_identity": "appid:3751260",
   "product_family_appid": "3751260",
@@ -40,6 +43,18 @@
     {
       "date": "2026-09-04",
       "peak": 64386
+    },
+    {
+      "date": "2026-09-05",
+      "peak": 62265
+    },
+    {
+      "date": "2026-09-06",
+      "peak": 70692
+    },
+    {
+      "date": "2026-09-07",
+      "peak": 78025
     }
   ]
 }

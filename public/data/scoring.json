@@ -1,5 +1,15 @@
 {
   "schema_version": "2.3.0",
+  "daily_balance_effective_date": "2026-09-07",
+  "balanced_peak_score_weight": 40.0,
+  "balanced_peak_score_cap": 80000,
+  "balanced_low_peak_score_cap": 20000,
+  "balanced_star_score_multipliers": [
+    0.85,
+    0.75,
+    0.6,
+    0.5
+  ],
   "release_event_scoring_effective_date": "2026-07-31",
   "review_ratio_scoring_effective_date": "2026-08-01",
   "review_ratio_multipliers": {
