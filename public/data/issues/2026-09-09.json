@@ -1,0 +1,473 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-09-09",
+  "title": "09.09 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 18.55,
+    "fact_summary": "NBA 2K27 今日观测峰值 27,131，未超过过往最高峰值 31,174，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 27131,
+      "previous_peak": 31174,
+      "previous_record_peak": 31174,
+      "growth_rate": -0.1297,
+      "record_growth_rate": -0.1297,
+      "scoring_peak": 27131,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 20.61,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 1.5549,
+      "growth_scale_crossing_component": 0.1713,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 20.61,
+      "event_adjusted_score": 20.61,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 0.9,
+      "review_adjusted_score": 18.55,
+      "review_penalty_reason": "below_60",
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-09-09",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [
+        "评分背离",
+        "豪华先行版本"
+      ],
+      "combined_score_multiplier": 0.9,
+      "base_score": 18.55,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 1,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 52.0,
+      "review_total": 1790,
+      "days_seen": 6,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 14,
+      "steam_release_age_days": 6,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "title": "NBA 2K27 ADVANCED ACCESS STARTS NOW",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297392",
+        "date": 1787760038,
+        "contents": "Advanced access* is available now! Play NBA 2K27 up to nine days with NBA 2K27 Deluxe Edition or Ultra Edition. Get in the gym and hone your skills before the official tip-off on September 4.*Advanced access begins at 9:00 AM PT, August 26. Availability may vary by region and time zone. See nba.2k.c...",
+        "author": "NBA 2K27",
+        "feed_label": "Community Announcements",
+        "feed_name": "steam_community_announcements",
+        "feed_type": 1,
+        "is_external_url": true,
+        "access_type": "deluxe_advanced_access"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "体育"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-26",
+      "release_event_age_days": 14,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "title": "NBA 2K27 ADVANCED ACCESS STARTS NOW",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297392",
+        "date": 1787760038,
+        "contents": "Advanced access* is available now! Play NBA 2K27 up to nine days with NBA 2K27 Deluxe Edition or Ultra Edition. Get in the gym and hone your skills before the official tip-off on September 4.*Advanced access begins at 9:00 AM PT, August 26. Availability may vary by region and time zone. See nba.2k.c...",
+        "author": "NBA 2K27",
+        "feed_label": "Community Announcements",
+        "feed_name": "steam_community_announcements",
+        "feed_type": 1,
+        "is_external_url": true,
+        "access_type": "deluxe_advanced_access"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 3,
+      "trend": [
+        {
+          "date": "2026-09-04",
+          "peak": 17298
+        },
+        {
+          "date": "2026-09-05",
+          "peak": 29446
+        },
+        {
+          "date": "2026-09-06",
+          "peak": 31174
+        },
+        {
+          "date": "2026-09-07",
+          "peak": 30661
+        },
+        {
+          "date": "2026-09-08",
+          "peak": 29695
+        },
+        {
+          "date": "2026-09-09",
+          "peak": 27131
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4356430"
+      }
+    ],
+    "game": {
+      "slug": "nba-2k27",
+      "appid": "4356430",
+      "name": "NBA 2K27",
+      "name_cn": null,
+      "description": "在《NBA 2K27》中，拼搏永不停歇，奔跑永无止境。 在 MyCAREER（辉煌生涯）、MyTEAM（梦幻球队）和 MyNBA（篮球联盟）模式中全天候追逐伟大，让你的篮球梦想照进现实。",
+      "release_date": "2026-09-03",
+      "genres": [
+        "体育"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "同屏/分屏玩家对战",
+        "合作",
+        "在线合作",
+        "同屏/分屏合作",
+        "同屏/分屏",
+        "Steam 成就",
+        "应用内购买",
+        "推荐使用手柄",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "部分支持控制器",
+        "Steam 云",
+        "远程同乐",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 52.0,
+      "review_total": 1790,
+      "developer": "Visual Concepts",
+      "publisher": "2K",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1788880577",
+      "steam_url": "https://store.steampowered.com/app/4356430",
+      "product_family_identity": "appid:4356430",
+      "product_family_appid": "4356430",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-04",
+          "peak": 17298
+        },
+        {
+          "date": "2026-09-05",
+          "peak": 29446
+        },
+        {
+          "date": "2026-09-06",
+          "peak": 31174
+        },
+        {
+          "date": "2026-09-07",
+          "peak": 30661
+        },
+        {
+          "date": "2026-09-08",
+          "peak": 29695
+        },
+        {
+          "date": "2026-09-09",
+          "peak": 27131
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《NBA 2K27》把攻防回合、球员成长、球队经营和卡牌阵容放进同一款篮球模拟：你既能打一场球，也能追一段赛季目标。",
+      "reference_frame": "《EA SPORTS College Football 27》能解释“比赛结果回写为长期投入”：胜负会改变下一步。《NBA 2K27》的连续篮球攻防则接向 MyCAREER、MyNBA 与 MyTEAM，不沿用美式橄榄球的开球和大学项目结构。",
+      "for_players": "适合愿意练投篮时机、空间判断和防守轮转，也愿意长期养球队或自建球员的玩家。喜欢 Build、阵容和线上组队的人，更能吃到它的体量。",
+      "not_for_players": "如果你只想轻松离线打几场球、不愿学习站位与时机，或厌烦账户、通行证、卡牌和在线服务带来的长线任务，这款年货可能让你觉得负担大过球场本身。",
+      "star_reason": "9 月 9 日，本地 24 小时观测峰值为 27,131，较此前纪录 31,174 低约 13%；当天 Steam 好评率为 52%，样本 1,790 篇。它以 18.55 分列原模型第 3 名，前两名均触及重复摘星上限，因而顺延成为今日之星。",
+      "core_loop": [
+        "读防守和队友跑位，用运球、掩护或传球制造出手条件。",
+        "处理投篮节奏与干扰，再用协防、卡位和篮板压缩对手选择。",
+        "把比赛表现投入 MyCAREER、MyNBA 或 MyTEAM，再调整下一场目标。"
+      ],
+      "content_length": 496
+    },
+    "secondary_labels": [
+      "评分背离",
+      "豪华先行版本"
+    ]
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 18.55,
+    "fact_summary": "NBA 2K27 今日观测峰值 27,131，未超过过往最高峰值 31,174，被识别为「新作起量」。",
+    "metrics": {
+      "current_peak": 27131,
+      "previous_peak": 31174,
+      "previous_record_peak": 31174,
+      "growth_rate": -0.1297,
+      "record_growth_rate": -0.1297,
+      "scoring_peak": 27131,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 20.61,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 1.5549,
+      "growth_scale_crossing_component": 0.1713,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 20.61,
+      "event_adjusted_score": 20.61,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 0.9,
+      "review_adjusted_score": 18.55,
+      "review_penalty_reason": "below_60",
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-09-09",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [
+        "评分背离",
+        "豪华先行版本"
+      ],
+      "combined_score_multiplier": 0.9,
+      "base_score": 18.55,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 1,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 52.0,
+      "review_total": 1790,
+      "days_seen": 6,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 14,
+      "steam_release_age_days": 6,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "title": "NBA 2K27 ADVANCED ACCESS STARTS NOW",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297392",
+        "date": 1787760038,
+        "contents": "Advanced access* is available now! Play NBA 2K27 up to nine days with NBA 2K27 Deluxe Edition or Ultra Edition. Get in the gym and hone your skills before the official tip-off on September 4.*Advanced access begins at 9:00 AM PT, August 26. Availability may vary by region and time zone. See nba.2k.c...",
+        "author": "NBA 2K27",
+        "feed_label": "Community Announcements",
+        "feed_name": "steam_community_announcements",
+        "feed_type": 1,
+        "is_external_url": true,
+        "access_type": "deluxe_advanced_access"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "体育"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-26",
+      "release_event_age_days": 14,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "title": "NBA 2K27 ADVANCED ACCESS STARTS NOW",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297392",
+        "date": 1787760038,
+        "contents": "Advanced access* is available now! Play NBA 2K27 up to nine days with NBA 2K27 Deluxe Edition or Ultra Edition. Get in the gym and hone your skills before the official tip-off on September 4.*Advanced access begins at 9:00 AM PT, August 26. Availability may vary by region and time zone. See nba.2k.c...",
+        "author": "NBA 2K27",
+        "feed_label": "Community Announcements",
+        "feed_name": "steam_community_announcements",
+        "feed_type": 1,
+        "is_external_url": true,
+        "access_type": "deluxe_advanced_access"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 3,
+      "trend": [
+        {
+          "date": "2026-09-04",
+          "peak": 17298
+        },
+        {
+          "date": "2026-09-05",
+          "peak": 29446
+        },
+        {
+          "date": "2026-09-06",
+          "peak": 31174
+        },
+        {
+          "date": "2026-09-07",
+          "peak": 30661
+        },
+        {
+          "date": "2026-09-08",
+          "peak": 29695
+        },
+        {
+          "date": "2026-09-09",
+          "peak": 27131
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4356430"
+      }
+    ],
+    "game": {
+      "slug": "nba-2k27",
+      "appid": "4356430",
+      "name": "NBA 2K27",
+      "name_cn": null,
+      "description": "在《NBA 2K27》中，拼搏永不停歇，奔跑永无止境。 在 MyCAREER（辉煌生涯）、MyTEAM（梦幻球队）和 MyNBA（篮球联盟）模式中全天候追逐伟大，让你的篮球梦想照进现实。",
+      "release_date": "2026-09-03",
+      "genres": [
+        "体育"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "同屏/分屏玩家对战",
+        "合作",
+        "在线合作",
+        "同屏/分屏合作",
+        "同屏/分屏",
+        "Steam 成就",
+        "应用内购买",
+        "推荐使用手柄",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "部分支持控制器",
+        "Steam 云",
+        "远程同乐",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 52.0,
+      "review_total": 1790,
+      "developer": "Visual Concepts",
+      "publisher": "2K",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1788880577",
+      "steam_url": "https://store.steampowered.com/app/4356430",
+      "product_family_identity": "appid:4356430",
+      "product_family_appid": "4356430",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-04",
+          "peak": 17298
+        },
+        {
+          "date": "2026-09-05",
+          "peak": 29446
+        },
+        {
+          "date": "2026-09-06",
+          "peak": 31174
+        },
+        {
+          "date": "2026-09-07",
+          "peak": 30661
+        },
+        {
+          "date": "2026-09-08",
+          "peak": 29695
+        },
+        {
+          "date": "2026-09-09",
+          "peak": 27131
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《NBA 2K27》把攻防回合、球员成长、球队经营和卡牌阵容放进同一款篮球模拟：你既能打一场球，也能追一段赛季目标。",
+      "reference_frame": "《EA SPORTS College Football 27》能解释“比赛结果回写为长期投入”：胜负会改变下一步。《NBA 2K27》的连续篮球攻防则接向 MyCAREER、MyNBA 与 MyTEAM，不沿用美式橄榄球的开球和大学项目结构。",
+      "for_players": "适合愿意练投篮时机、空间判断和防守轮转，也愿意长期养球队或自建球员的玩家。喜欢 Build、阵容和线上组队的人，更能吃到它的体量。",
+      "not_for_players": "如果你只想轻松离线打几场球、不愿学习站位与时机，或厌烦账户、通行证、卡牌和在线服务带来的长线任务，这款年货可能让你觉得负担大过球场本身。",
+      "star_reason": "9 月 9 日，本地 24 小时观测峰值为 27,131，较此前纪录 31,174 低约 13%；当天 Steam 好评率为 52%，样本 1,790 篇。它以 18.55 分列原模型第 3 名，前两名均触及重复摘星上限，因而顺延成为今日之星。",
+      "core_loop": [
+        "读防守和队友跑位，用运球、掩护或传球制造出手条件。",
+        "处理投篮节奏与干扰，再用协防、卡位和篮板压缩对手选择。",
+        "把比赛表现投入 MyCAREER、MyNBA 或 MyTEAM，再调整下一场目标。"
+      ],
+      "content_length": 496
+    },
+    "secondary_labels": [
+      "评分背离",
+      "豪华先行版本"
+    ]
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
