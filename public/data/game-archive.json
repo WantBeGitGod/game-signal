@@ -1,7 +1,39 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-10T03:57:26",
+  "generated_at": "2026-09-10T18:57:49",
   "games": [
+    {
+      "game": {
+        "slug": "valheim",
+        "appid": "892970",
+        "name": "Valheim",
+        "name_cn": null,
+        "description": "一款支持1–10名玩家的同时在线合作的探索生存游戏，背景设定在一个受维京文化启发、程序生成的神话世界中。战斗、建造并征服你的旅程，谱写一段足以获得奥丁眷顾的传奇史诗吧！",
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "角色扮演"
+        ],
+        "developer": "Iron Gate AB",
+        "publisher": "Coffee Stain Publishing",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789013565",
+        "product_family_identity": "appid:892970",
+        "product_family_appid": "892970",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-09-10"
+      ],
+      "member_appids": [
+        "892970"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-09-10"
+    },
     {
       "game": {
         "slug": "nba-2k27",

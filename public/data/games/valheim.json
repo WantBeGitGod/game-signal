@@ -1,0 +1,51 @@
+{
+  "slug": "valheim",
+  "appid": "892970",
+  "name": "Valheim",
+  "name_cn": null,
+  "description": "一款支持1–10名玩家的同时在线合作的探索生存游戏，背景设定在一个受维京文化启发、程序生成的神话世界中。战斗、建造并征服你的旅程，谱写一段足以获得奥丁眷顾的传奇史诗吧！",
+  "release_date": "2026-09-09",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "视角舒适度",
+    "自定义音量控制",
+    "可调整难度",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "随时保存",
+    "立体声",
+    "Steam 云",
+    "统计数据",
+    "在平板上远程畅玩",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 94.0,
+  "review_total": 544319,
+  "developer": "Iron Gate AB",
+  "publisher": "Coffee Stain Publishing",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789013565",
+  "steam_url": "https://store.steampowered.com/app/892970",
+  "product_family_identity": "appid:892970",
+  "product_family_appid": "892970",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-09-10",
+      "peak": 67011
+    }
+  ]
+}
