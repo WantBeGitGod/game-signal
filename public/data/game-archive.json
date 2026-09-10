@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-10T18:57:49",
+  "generated_at": "2026-09-10T20:36:04",
   "games": [
     {
       "game": {
@@ -51,16 +51,18 @@
         "product_family_appid": "4356430",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "nba-2k27"
+      ],
+      "article_title": "NBA 2K27-一场球赛，三份账单",
+      "article_published_at": "2026-09-08",
       "star_dates": [
         "2026-09-09"
       ],
       "member_appids": [
         "4356430"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-09-09"
     },
     {
