@@ -34,10 +34,10 @@
   ],
   "review_score": "Very Positive",
   "review_ratio": 94.0,
-  "review_total": 544319,
+  "review_total": 545387,
   "developer": "Iron Gate AB",
   "publisher": "Coffee Stain Publishing",
-  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789013565",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789098147",
   "steam_url": "https://store.steampowered.com/app/892970",
   "product_family_identity": "appid:892970",
   "product_family_appid": "892970",
@@ -46,6 +46,10 @@
     {
       "date": "2026-09-10",
       "peak": 67011
+    },
+    {
+      "date": "2026-09-11",
+      "peak": 190713
     }
   ]
 }

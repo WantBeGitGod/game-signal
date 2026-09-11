@@ -104,6 +104,19 @@
     }
   },
   "release_event_overrides": {
+    "892970": {
+      "identity": "formal_release",
+      "date": "2026-09-09",
+      "source": "Iron Gate official Valheim 1.0 launch announcement",
+      "url": "https://www.valheim.com/news/valheim-1-0-has-arrived-/"
+    },
+    "3219630": {
+      "identity": "true_new",
+      "date": "2026-09-04",
+      "source": "IllFonic official launch and Digital Deluxe early access schedule",
+      "url": "https://halloweengame.com/news/halloween-the-game-launch-and-early-access/",
+      "access_type": "deluxe_advanced_access"
+    },
     "2584270": {
       "identity": "true_new",
       "date": "2026-08-17",
