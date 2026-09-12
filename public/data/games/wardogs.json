@@ -1,0 +1,50 @@
+{
+  "slug": "wardogs",
+  "appid": "1867240",
+  "name": "WARDOGS",
+  "name_cn": null,
+  "description": "《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。",
+  "release_date": "2026-09-10",
+  "genres": [
+    "动作",
+    "独立",
+    "大型多人在线",
+    "模拟",
+    "抢先体验"
+  ],
+  "tags": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "Steam 成就",
+    "视角舒适度",
+    "自定义音量控制",
+    "立体声",
+    "环绕声",
+    "家庭共享"
+  ],
+  "review_score": "Mostly Positive",
+  "review_ratio": 77.0,
+  "review_total": 37110,
+  "developer": "BULKHEAD",
+  "publisher": "Team17",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789059636",
+  "steam_url": "https://store.steampowered.com/app/1867240",
+  "product_family_identity": "appid:1867240",
+  "product_family_appid": "1867240",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-08-22",
+      "peak": 0
+    },
+    {
+      "date": "2026-09-11",
+      "peak": 182544
+    },
+    {
+      "date": "2026-09-12",
+      "peak": 363228
+    }
+  ]
+}

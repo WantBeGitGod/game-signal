@@ -1,7 +1,40 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-11T18:18:18",
+  "generated_at": "2026-09-12T18:20:41",
   "games": [
+    {
+      "game": {
+        "slug": "wardogs",
+        "appid": "1867240",
+        "name": "WARDOGS",
+        "name_cn": null,
+        "description": "《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。",
+        "genres": [
+          "动作",
+          "独立",
+          "大型多人在线",
+          "模拟",
+          "抢先体验"
+        ],
+        "developer": "BULKHEAD",
+        "publisher": "Team17",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789059636",
+        "product_family_identity": "appid:1867240",
+        "product_family_appid": "1867240",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-09-12"
+      ],
+      "member_appids": [
+        "1867240"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-09-12"
+    },
     {
       "game": {
         "slug": "valheim",
