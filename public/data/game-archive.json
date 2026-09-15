@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-15T18:18:58",
+  "generated_at": "2026-09-15T20:37:40",
   "games": [
     {
       "game": {
@@ -56,9 +56,11 @@
         "product_family_appid": "1867240",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "wardogs"
+      ],
+      "article_title": "WARDOGS-把一场战争存进下一场",
+      "article_published_at": "2026-09-15",
       "star_dates": [
         "2026-09-14",
         "2026-09-13",
@@ -67,7 +69,7 @@
       "member_appids": [
         "1867240"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-09-14"
     },
     {
