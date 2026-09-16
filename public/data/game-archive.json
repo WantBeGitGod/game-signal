@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-15T20:37:40",
+  "generated_at": "2026-09-16T20:40:43",
   "games": [
     {
       "game": {
@@ -23,16 +23,18 @@
         "product_family_appid": "4891320",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "wog-war-of-genesis-idle-loot"
+      ],
+      "article_title": "[WoG] War of Genesis: Idle Loot-把刷装塞进桌面角落",
+      "article_published_at": "2026-09-16",
       "star_dates": [
         "2026-09-15"
       ],
       "member_appids": [
         "4891320"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-09-15"
     },
     {
