@@ -27,8 +27,8 @@
     "家庭共享"
   ],
   "review_score": "Mixed",
-  "review_ratio": 58.0,
-  "review_total": 543,
+  "review_ratio": 68.0,
+  "review_total": 911,
   "developer": "New Normal Soft Inc.",
   "publisher": "New Normal Soft Inc.",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/80d3cc10f37c03a6b520846baf44883651132896/header.jpg?t=1789051819",
@@ -56,6 +56,14 @@
     {
       "date": "2026-09-15",
       "peak": 32410
+    },
+    {
+      "date": "2026-09-16",
+      "peak": 41788
+    },
+    {
+      "date": "2026-09-17",
+      "peak": 47449
     }
   ]
 }
