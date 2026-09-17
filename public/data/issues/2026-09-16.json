@@ -1,0 +1,347 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-09-16",
+  "title": "09.16 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 34.0,
+    "fact_summary": "伊莫 今日观测峰值 127,914，首次进入当前观察窗口，被识别为「发行节点起量」。",
+    "metrics": {
+      "observation_cutoff_at": "2026-09-16 19:00:00",
+      "current_peak": 127914,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 127914,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 40.0,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.0,
+      "growth_scale_crossing_component": 1.1791,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 40.0,
+      "event_adjusted_score": 34.0,
+      "event_multiplier": 0.85,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 34.0,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.85,
+      "base_score": 34.0,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "大型多人在线",
+        "角色扮演",
+        "模拟",
+        "策略",
+        "免费开玩"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "pending",
+      "release_event_date": "2026-09-15",
+      "release_event_age_days": 1,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-09-16",
+          "peak": 127914
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4126040"
+      },
+      {
+        "title": "SteamDB 补交数据（观测时间由提供者确认为 9 月 16 日 19:00；存档链接供来源参考）",
+        "url": "https://web.archive.org/web/20260916191813/https://steamdb.info/"
+      }
+    ],
+    "game": {
+      "slug": "aniimo",
+      "appid": "4126040",
+      "name": "Aniimo",
+      "name_cn": "伊莫",
+      "description": "《伊莫》是一款多人在线大世界捉宠RPG。你将在广袤的艾德尔大陆上邂逅各种神奇生物——伊莫。和他们联结合体，还能以全新的视角和能力感受这个世界的美好。你也可以来到浮空天际的近未来都市，邂逅其他冒险家，交流旅途心得或是感受竞技的魅力。快带上你的伊莫，开启一场超越想象的大世界冒险之旅吧！",
+      "release_date": "2026-09-15",
+      "genres": [
+        "动作",
+        "冒险",
+        "大型多人在线",
+        "角色扮演",
+        "模拟",
+        "策略",
+        "免费开玩"
+      ],
+      "tags": [],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Pawprint Studio",
+      "publisher": "Pawprint Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg?t=1789611914",
+      "steam_url": "https://store.steampowered.com/app/4126040",
+      "product_family_identity": "appid:4126040",
+      "product_family_appid": "4126040",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-16",
+          "peak": 127914
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《伊莫》是一款免费游玩的开放世界捉宠 RPG。你在艾德尔大陆寻找生物、观察它们的习性，用捕捉装置把它们收进队伍，再借助伙伴的能力继续探索。",
+      "reference_frame": "可以借《幻兽帕鲁》理解边探索边捕捉、让伙伴参与行动的乐趣。《伊莫》的特色是“联结”：直接变成收集到的生物，用它们的能力战斗、解谜，以及滑翔、潜水和钻地。",
+      "for_players": "适合喜欢收集生物、尝试不同移动能力，也愿意和朋友在大世界里闲逛的人。",
+      "not_for_players": "如果你不喜欢反复寻找和捕捉生物，收集过程可能很快变成负担；夺蛋玩法还有其他玩家参与，不能按纯合作冒险来期待。",
+      "star_reason": "本期采用补交的 9 月 16 日 19:00 SteamDB 数据：《伊莫》当时在线 126,826，24 小时峰值 127,914，以 34 分成为今日之星。缺少当日可靠的评价快照，评分未计入口碑奖励；这次入选说明首发热度突出，尚不能据此判断长期留存。",
+      "core_loop": [
+        "探索不同环境，寻找会随天气和时间出现的伊莫，选准时机捕捉。",
+        "培养并联结伙伴，用新能力穿过地形、解开谜题，再寻找新的生物。",
+        "想与人较量时，可三人组队参加夺蛋玩法，一边寻找目标，一边应对其他队伍。"
+      ],
+      "content_length": 441
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 34.0,
+    "fact_summary": "伊莫 今日观测峰值 127,914，首次进入当前观察窗口，被识别为「发行节点起量」。",
+    "metrics": {
+      "observation_cutoff_at": "2026-09-16 19:00:00",
+      "current_peak": 127914,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 127914,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 40.0,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.0,
+      "growth_scale_crossing_component": 1.1791,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 40.0,
+      "event_adjusted_score": 34.0,
+      "event_multiplier": 0.85,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 34.0,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.85,
+      "base_score": 34.0,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "大型多人在线",
+        "角色扮演",
+        "模拟",
+        "策略",
+        "免费开玩"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "pending",
+      "release_event_date": "2026-09-15",
+      "release_event_age_days": 1,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-09-16",
+          "peak": 127914
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4126040"
+      },
+      {
+        "title": "SteamDB 补交数据（观测时间由提供者确认为 9 月 16 日 19:00；存档链接供来源参考）",
+        "url": "https://web.archive.org/web/20260916191813/https://steamdb.info/"
+      }
+    ],
+    "game": {
+      "slug": "aniimo",
+      "appid": "4126040",
+      "name": "Aniimo",
+      "name_cn": "伊莫",
+      "description": "《伊莫》是一款多人在线大世界捉宠RPG。你将在广袤的艾德尔大陆上邂逅各种神奇生物——伊莫。和他们联结合体，还能以全新的视角和能力感受这个世界的美好。你也可以来到浮空天际的近未来都市，邂逅其他冒险家，交流旅途心得或是感受竞技的魅力。快带上你的伊莫，开启一场超越想象的大世界冒险之旅吧！",
+      "release_date": "2026-09-15",
+      "genres": [
+        "动作",
+        "冒险",
+        "大型多人在线",
+        "角色扮演",
+        "模拟",
+        "策略",
+        "免费开玩"
+      ],
+      "tags": [],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Pawprint Studio",
+      "publisher": "Pawprint Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg?t=1789611914",
+      "steam_url": "https://store.steampowered.com/app/4126040",
+      "product_family_identity": "appid:4126040",
+      "product_family_appid": "4126040",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-16",
+          "peak": 127914
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《伊莫》是一款免费游玩的开放世界捉宠 RPG。你在艾德尔大陆寻找生物、观察它们的习性，用捕捉装置把它们收进队伍，再借助伙伴的能力继续探索。",
+      "reference_frame": "可以借《幻兽帕鲁》理解边探索边捕捉、让伙伴参与行动的乐趣。《伊莫》的特色是“联结”：直接变成收集到的生物，用它们的能力战斗、解谜，以及滑翔、潜水和钻地。",
+      "for_players": "适合喜欢收集生物、尝试不同移动能力，也愿意和朋友在大世界里闲逛的人。",
+      "not_for_players": "如果你不喜欢反复寻找和捕捉生物，收集过程可能很快变成负担；夺蛋玩法还有其他玩家参与，不能按纯合作冒险来期待。",
+      "star_reason": "本期采用补交的 9 月 16 日 19:00 SteamDB 数据：《伊莫》当时在线 126,826，24 小时峰值 127,914，以 34 分成为今日之星。缺少当日可靠的评价快照，评分未计入口碑奖励；这次入选说明首发热度突出，尚不能据此判断长期留存。",
+      "core_loop": [
+        "探索不同环境，寻找会随天气和时间出现的伊莫，选准时机捕捉。",
+        "培养并联结伙伴，用新能力穿过地形、解开谜题，再寻找新的生物。",
+        "想与人较量时，可三人组队参加夺蛋玩法，一边寻找目标，一边应对其他队伍。"
+      ],
+      "content_length": 441
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

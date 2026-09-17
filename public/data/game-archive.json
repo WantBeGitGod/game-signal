@@ -1,7 +1,42 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-16T20:40:43",
+  "generated_at": "2026-09-17T13:27:54",
   "games": [
+    {
+      "game": {
+        "slug": "aniimo",
+        "appid": "4126040",
+        "name": "Aniimo",
+        "name_cn": "伊莫",
+        "description": "《伊莫》是一款多人在线大世界捉宠RPG。你将在广袤的艾德尔大陆上邂逅各种神奇生物——伊莫。和他们联结合体，还能以全新的视角和能力感受这个世界的美好。你也可以来到浮空天际的近未来都市，邂逅其他冒险家，交流旅途心得或是感受竞技的魅力。快带上你的伊莫，开启一场超越想象的大世界冒险之旅吧！",
+        "genres": [
+          "动作",
+          "冒险",
+          "大型多人在线",
+          "角色扮演",
+          "模拟",
+          "策略",
+          "免费开玩"
+        ],
+        "developer": "Pawprint Studio",
+        "publisher": "Pawprint Studio",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg?t=1789611914",
+        "product_family_identity": "appid:4126040",
+        "product_family_appid": "4126040",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-09-16"
+      ],
+      "member_appids": [
+        "4126040"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-09-16"
+    },
     {
       "game": {
         "slug": "wog-war-of-genesis-idle-loot",
