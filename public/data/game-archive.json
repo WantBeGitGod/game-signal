@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-17T13:27:54",
+  "generated_at": "2026-09-17T20:35:27",
   "games": [
     {
       "game": {
@@ -25,16 +25,18 @@
         "product_family_appid": "4126040",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "aniimo"
+      ],
+      "article_title": "伊莫-把捉宠做成一套借身体的世界语法",
+      "article_published_at": "2026-09-17",
       "star_dates": [
         "2026-09-16"
       ],
       "member_appids": [
         "4126040"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-09-16"
     },
     {
