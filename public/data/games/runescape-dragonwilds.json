@@ -1,0 +1,50 @@
+{
+  "slug": "runescape-dragonwilds",
+  "appid": "1374490",
+  "name": "RuneScape: Dragonwilds",
+  "name_cn": null,
+  "description": "在《符文世界》被遗忘的大陆——烬落之地，龙族已然苏醒。在这款多人合作生存冒险游戏中，收集资源、建造家园、修炼技能、打造道具。唯有精通生存之道、揭开远古秘辛，才有资格直面凶残的龙之女王。",
+  "release_date": "2026-09-15",
+  "genres": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "可调整文字大小",
+    "自定义音量控制",
+    "随时保存",
+    "立体声",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 81.0,
+  "review_total": 30450,
+  "developer": "Jagex Ltd",
+  "publisher": "Jagex Ltd, H2 Interactive Co., Ltd., Graph",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/284a46dc9ea5b8424102881a4b8f8599595aa142/header_alt_assets_4_schinese.jpg?t=1789474199",
+  "steam_url": "https://store.steampowered.com/app/1374490",
+  "product_family_identity": "appid:1374490",
+  "product_family_appid": "1374490",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-09-16",
+      "peak": 22611
+    },
+    {
+      "date": "2026-09-17",
+      "peak": 23165
+    },
+    {
+      "date": "2026-09-18",
+      "peak": 21879
+    }
+  ]
+}

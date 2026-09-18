@@ -1,7 +1,38 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-17T21:23:02",
+  "generated_at": "2026-09-18T21:45:17",
   "games": [
+    {
+      "game": {
+        "slug": "runescape-dragonwilds",
+        "appid": "1374490",
+        "name": "RuneScape: Dragonwilds",
+        "name_cn": null,
+        "description": "在《符文世界》被遗忘的大陆——烬落之地，龙族已然苏醒。在这款多人合作生存冒险游戏中，收集资源、建造家园、修炼技能、打造道具。唯有精通生存之道、揭开远古秘辛，才有资格直面凶残的龙之女王。",
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "developer": "Jagex Ltd",
+        "publisher": "Jagex Ltd, H2 Interactive Co., Ltd., Graph",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/284a46dc9ea5b8424102881a4b8f8599595aa142/header_alt_assets_4_schinese.jpg?t=1789474199",
+        "product_family_identity": "appid:1374490",
+        "product_family_appid": "1374490",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-09-18"
+      ],
+      "member_appids": [
+        "1374490"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-09-18"
+    },
     {
       "game": {
         "slug": "wog-war-of-genesis-idle-loot",
