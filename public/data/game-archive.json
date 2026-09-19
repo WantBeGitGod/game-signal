@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-19T18:56:13",
+  "generated_at": "2026-09-19T20:36:54",
   "games": [
     {
       "game": {
@@ -16,14 +16,16 @@
         ],
         "developer": "Jagex Ltd",
         "publisher": "Jagex Ltd, H2 Interactive Co., Ltd., Graph",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/284a46dc9ea5b8424102881a4b8f8599595aa142/header_alt_assets_4_schinese.jpg?t=1789474199",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/284a46dc9ea5b8424102881a4b8f8599595aa142/header_alt_assets_4_schinese.jpg?t=1789749518",
         "product_family_identity": "appid:1374490",
         "product_family_appid": "1374490",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "runescape-dragonwilds"
+      ],
+      "article_title": "符文世界：龙之荒野-把生存建造练成一套冒险技能",
+      "article_published_at": "2026-09-19",
       "star_dates": [
         "2026-09-19",
         "2026-09-18"
@@ -31,7 +33,7 @@
       "member_appids": [
         "1374490"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-09-19"
     },
     {
