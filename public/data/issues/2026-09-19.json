@@ -1,0 +1,419 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-09-19",
+  "title": "09.19 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "formal_release_rise",
+    "label": "正式版起量",
+    "score": 13.59,
+    "fact_summary": "RuneScape: Dragonwilds 今日观测峰值 22,193，未超过过往最高峰值 23,165，被识别为「正式版起量」。",
+    "metrics": {
+      "observation_cutoff_at": "2026-09-19 17:50:17",
+      "current_peak": 22193,
+      "previous_peak": 23165,
+      "previous_record_peak": 23165,
+      "growth_rate": -0.042,
+      "record_growth_rate": -0.042,
+      "scoring_peak": 22193,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.8,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.9805,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.8586,
+      "growth_scale_crossing_component": 0.1219,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 18.8,
+      "event_adjusted_score": 15.98,
+      "event_multiplier": 0.85,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 15.98,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-09-19",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.7225,
+      "base_score": 13.59,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 81.0,
+      "review_total": 30667,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "title": "Eye on Ashenfall | Our 1.0 Release is live!",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704158",
+        "date": 1789467340,
+        "contents": "Today marks the start of our next journey. Thank you to the millions (yes, millions!) of you who joined us during Early Access. We're now live on PlayStation 5, Nintendo Switch 2, XBOX Series X | S and PC on Epic Games Store, Jagex Launcher and Steam.Our Early Access JourneyIn April 2025 we launched...",
+        "author": "Mod Doom",
+        "feed_label": "Community Announcements",
+        "feed_name": "steam_community_announcements",
+        "feed_type": 1,
+        "is_external_url": true
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "formal_release",
+      "release_event_date": "2026-09-15",
+      "release_event_age_days": 4,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "title": "Eye on Ashenfall | Our 1.0 Release is live!",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704158",
+        "date": 1789467340,
+        "contents": "Today marks the start of our next journey. Thank you to the millions (yes, millions!) of you who joined us during Early Access. We're now live on PlayStation 5, Nintendo Switch 2, XBOX Series X | S and PC on Epic Games Store, Jagex Launcher and Steam.Our Early Access JourneyIn April 2025 we launched...",
+        "author": "Mod Doom",
+        "feed_label": "Community Announcements",
+        "feed_name": "steam_community_announcements",
+        "feed_type": 1,
+        "is_external_url": true
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 5,
+      "trend": [
+        {
+          "date": "2026-09-16",
+          "peak": 22611
+        },
+        {
+          "date": "2026-09-17",
+          "peak": 23165
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 21879
+        },
+        {
+          "date": "2026-09-19",
+          "peak": 22193
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1374490"
+      }
+    ],
+    "game": {
+      "slug": "runescape-dragonwilds",
+      "appid": "1374490",
+      "name": "RuneScape: Dragonwilds",
+      "name_cn": null,
+      "description": "在《符文世界》被遗忘的大陆——烬落之地，龙族已然苏醒。在这款多人合作生存冒险游戏中，收集资源、建造家园、修炼技能、打造道具。唯有精通生存之道、揭开远古秘辛，才有资格直面凶残的龙之女王。",
+      "release_date": "2026-09-15",
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "可调整文字大小",
+        "自定义音量控制",
+        "随时保存",
+        "立体声",
+        "部分支持控制器",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 81.0,
+      "review_total": 30667,
+      "developer": "Jagex Ltd",
+      "publisher": "Jagex Ltd, H2 Interactive Co., Ltd., Graph",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/284a46dc9ea5b8424102881a4b8f8599595aa142/header_alt_assets_4_schinese.jpg?t=1789749518",
+      "steam_url": "https://store.steampowered.com/app/1374490",
+      "product_family_identity": "appid:1374490",
+      "product_family_appid": "1374490",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-16",
+          "peak": 22611
+        },
+        {
+          "date": "2026-09-17",
+          "peak": 23165
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 21879
+        },
+        {
+          "date": "2026-09-19",
+          "peak": 22193
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《符文世界：龙之荒野》是一款可以独自冒险、也能和朋友合作的生存制作游戏。你在巨龙出没的大陆采材料、盖家、练技能，把一次次出门的收获变成挑战更强敌人的底气。",
+      "reference_frame": "玩过《幻兽帕鲁》，你会熟悉外出搜集、回家造装、再向危险区域推进的节奏。帕鲁靠伙伴分工改善生产，这里则把成长放进角色技能：练出法术后，能用幽冥巨斧成片伐木、用魔法开矿，连干活的方式也会变。",
+      "for_players": "适合喜欢和朋友共同经营一个家、愿意花时间备战，也享受技能慢慢练起来的玩家。今天造房，明天出征，两种节奏都能接受才容易玩进去。",
+      "not_for_players": "如果你只想连续打怪看剧情，讨厌反复采材料和制作补给，这些战斗之间的准备会让你觉得拖沓。",
+      "star_reason": "9 月 15 日推出正式版后，它今日记录到 22,193 的观测峰值，比昨天略高，仍低于此前的 23,165。当日评价快照为 81% 好评、30,667 条。这是它第二次摘星，继续关注正式版上线后的活跃表现，还没有刷新纪录。",
+      "core_loop": [
+        "到新区域找资源、接任务，把材料带回家扩建设施，制作装备和药水。",
+        "持续修炼技能，解锁天赋与法术，让采集更有效率，也给探索和战斗添新办法。",
+        "带着准备好的装备追踪巨龙；打不过就补物资、练技能，再回来挑战。"
+      ],
+      "content_length": 475
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "formal_release_rise",
+    "label": "正式版起量",
+    "score": 13.59,
+    "fact_summary": "RuneScape: Dragonwilds 今日观测峰值 22,193，未超过过往最高峰值 23,165，被识别为「正式版起量」。",
+    "metrics": {
+      "observation_cutoff_at": "2026-09-19 17:50:17",
+      "current_peak": 22193,
+      "previous_peak": 23165,
+      "previous_record_peak": 23165,
+      "growth_rate": -0.042,
+      "record_growth_rate": -0.042,
+      "scoring_peak": 22193,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.8,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.9805,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.8586,
+      "growth_scale_crossing_component": 0.1219,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 18.8,
+      "event_adjusted_score": 15.98,
+      "event_multiplier": 0.85,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 15.98,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-09-19",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.7225,
+      "base_score": 13.59,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 81.0,
+      "review_total": 30667,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "title": "Eye on Ashenfall | Our 1.0 Release is live!",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704158",
+        "date": 1789467340,
+        "contents": "Today marks the start of our next journey. Thank you to the millions (yes, millions!) of you who joined us during Early Access. We're now live on PlayStation 5, Nintendo Switch 2, XBOX Series X | S and PC on Epic Games Store, Jagex Launcher and Steam.Our Early Access JourneyIn April 2025 we launched...",
+        "author": "Mod Doom",
+        "feed_label": "Community Announcements",
+        "feed_name": "steam_community_announcements",
+        "feed_type": 1,
+        "is_external_url": true
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "scoring_version": "release_event_v2",
+      "release_event_type": "formal_release",
+      "release_event_date": "2026-09-15",
+      "release_event_age_days": 4,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "title": "Eye on Ashenfall | Our 1.0 Release is live!",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262704158",
+        "date": 1789467340,
+        "contents": "Today marks the start of our next journey. Thank you to the millions (yes, millions!) of you who joined us during Early Access. We're now live on PlayStation 5, Nintendo Switch 2, XBOX Series X | S and PC on Epic Games Store, Jagex Launcher and Steam.Our Early Access JourneyIn April 2025 we launched...",
+        "author": "Mod Doom",
+        "feed_label": "Community Announcements",
+        "feed_name": "steam_community_announcements",
+        "feed_type": 1,
+        "is_external_url": true
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 5,
+      "trend": [
+        {
+          "date": "2026-09-16",
+          "peak": 22611
+        },
+        {
+          "date": "2026-09-17",
+          "peak": 23165
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 21879
+        },
+        {
+          "date": "2026-09-19",
+          "peak": 22193
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1374490"
+      }
+    ],
+    "game": {
+      "slug": "runescape-dragonwilds",
+      "appid": "1374490",
+      "name": "RuneScape: Dragonwilds",
+      "name_cn": null,
+      "description": "在《符文世界》被遗忘的大陆——烬落之地，龙族已然苏醒。在这款多人合作生存冒险游戏中，收集资源、建造家园、修炼技能、打造道具。唯有精通生存之道、揭开远古秘辛，才有资格直面凶残的龙之女王。",
+      "release_date": "2026-09-15",
+      "genres": [
+        "动作",
+        "冒险",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "可调整文字大小",
+        "自定义音量控制",
+        "随时保存",
+        "立体声",
+        "部分支持控制器",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 81.0,
+      "review_total": 30667,
+      "developer": "Jagex Ltd",
+      "publisher": "Jagex Ltd, H2 Interactive Co., Ltd., Graph",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/284a46dc9ea5b8424102881a4b8f8599595aa142/header_alt_assets_4_schinese.jpg?t=1789749518",
+      "steam_url": "https://store.steampowered.com/app/1374490",
+      "product_family_identity": "appid:1374490",
+      "product_family_appid": "1374490",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-16",
+          "peak": 22611
+        },
+        {
+          "date": "2026-09-17",
+          "peak": 23165
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 21879
+        },
+        {
+          "date": "2026-09-19",
+          "peak": 22193
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《符文世界：龙之荒野》是一款可以独自冒险、也能和朋友合作的生存制作游戏。你在巨龙出没的大陆采材料、盖家、练技能，把一次次出门的收获变成挑战更强敌人的底气。",
+      "reference_frame": "玩过《幻兽帕鲁》，你会熟悉外出搜集、回家造装、再向危险区域推进的节奏。帕鲁靠伙伴分工改善生产，这里则把成长放进角色技能：练出法术后，能用幽冥巨斧成片伐木、用魔法开矿，连干活的方式也会变。",
+      "for_players": "适合喜欢和朋友共同经营一个家、愿意花时间备战，也享受技能慢慢练起来的玩家。今天造房，明天出征，两种节奏都能接受才容易玩进去。",
+      "not_for_players": "如果你只想连续打怪看剧情，讨厌反复采材料和制作补给，这些战斗之间的准备会让你觉得拖沓。",
+      "star_reason": "9 月 15 日推出正式版后，它今日记录到 22,193 的观测峰值，比昨天略高，仍低于此前的 23,165。当日评价快照为 81% 好评、30,667 条。这是它第二次摘星，继续关注正式版上线后的活跃表现，还没有刷新纪录。",
+      "core_loop": [
+        "到新区域找资源、接任务，把材料带回家扩建设施，制作装备和药水。",
+        "持续修炼技能，解锁天赋与法术，让采集更有效率，也给探索和战斗添新办法。",
+        "带着准备好的装备追踪巨龙；打不过就补物资、练技能，再回来挑战。"
+      ],
+      "content_length": 475
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
