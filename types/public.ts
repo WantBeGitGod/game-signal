@@ -32,6 +32,7 @@ export type Signal = {
   secondary_labels?: string[]
   score: number
   fact_summary: string
+  selection_note?: string
   metrics: Record<string, unknown>
   star_appearance?: {
     count: number

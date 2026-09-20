@@ -36,7 +36,10 @@
 
     <footer class="daily-star-reason">
       <p class="daily-quick-label">为什么今天摘星</p>
-      <p>{{ brief.star_reason }}</p>
+      <div>
+        <p>{{ brief.star_reason }}</p>
+        <p v-if="selectionNote" class="selection-note">{{ selectionNote }}</p>
+      </div>
     </footer>
   </article>
 </template>
@@ -44,5 +47,15 @@
 <script setup lang="ts">
 import type { DailyStarQuickTake } from "~/types/public"
 
-defineProps<{ brief: DailyStarQuickTake; positioningShown?: boolean }>()
+defineProps<{ brief: DailyStarQuickTake; positioningShown?: boolean; selectionNote?: string }>()
 </script>
+
+<style scoped>
+.daily-star-reason .selection-note {
+  margin-top: 0.65rem;
+  font-size: 0.8rem;
+  line-height: 1.6;
+  color: var(--muted, #686868);
+  font-weight: 400;
+}
+</style>

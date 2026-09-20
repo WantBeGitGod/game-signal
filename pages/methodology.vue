@@ -78,8 +78,12 @@
           <dd>首次可靠观察超过 {{ (scoring.release_review_verification_threshold || 5000).toLocaleString() }} 条只触发核验，不直接定案</dd>
         </div>
         <div>
-          <dt>三连触发</dt>
-          <dd>{{ scoring.consecutive_star_case_threshold }} 天自动建私有案例</dd>
+          <dt>连续摘星上限</dt>
+          <dd>2026-09-21 起最多连续两天；30 天累计最多三次，重复摘星折扣保留。</dd>
+        </div>
+        <div>
+          <dt>再次摘星的增长要求</dt>
+          <dd>2026-09-21 起，已摘星且观测峰值曾超过 5 万的游戏，须比上次实际摘星时的峰值增长超过 30%。未摘星的观察日不抬高基准。</dd>
         </div>
       </dl>
     </section>

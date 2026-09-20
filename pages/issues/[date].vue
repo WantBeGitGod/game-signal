@@ -10,7 +10,7 @@
         <span class="data-note">规则评分 {{ starSignal.score.toFixed(1) }}</span>
       </div>
       <SignalCard :signal="starSignal" />
-      <DailyStarQuickTake v-if="starSignal.quick_take" :brief="starSignal.quick_take" />
+      <DailyStarQuickTake v-if="starSignal.quick_take" :brief="starSignal.quick_take" :selection-note="starSignal.selection_note" />
     </section>
     <aside class="source-note">
       <Database :size="20" />
