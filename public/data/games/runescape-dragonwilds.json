@@ -25,7 +25,7 @@
   ],
   "review_score": "Very Positive",
   "review_ratio": 81.0,
-  "review_total": 30667,
+  "review_total": 30881,
   "developer": "Jagex Ltd",
   "publisher": "Jagex Ltd, H2 Interactive Co., Ltd., Graph",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/284a46dc9ea5b8424102881a4b8f8599595aa142/header_alt_assets_4_schinese.jpg?t=1789749518",
@@ -49,6 +49,10 @@
     {
       "date": "2026-09-19",
       "peak": 22193
+    },
+    {
+      "date": "2026-09-20",
+      "peak": 30698
     }
   ]
 }
