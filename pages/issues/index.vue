@@ -9,6 +9,7 @@
       <NuxtLink v-for="issue in issues" :key="issue.date" :to="`/issues/${issue.date}`" class="issue-row">
         <div class="issue-row-copy">
           <span class="issue-date">{{ issue.date }}</span>
+          <span class="data-note"> · 当期规则评分 {{ starSignal(issue).score.toFixed(2) }}</span>
           <div class="issue-row-topline">
             <div class="issue-row-heading">
               <SignalTag :type="starSignal(issue).type" :label="starSignal(issue).label" />

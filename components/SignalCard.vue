@@ -15,7 +15,7 @@
         </span>
         <span>{{ appearanceLabel }} / {{ signal.score.toFixed(1) }} pts</span>
       </div>
-      <h3>{{ displayGameName(signal.game) }}</h3>
+      <h3><NuxtLink :to="`/games/${signal.game.slug}`">{{ displayGameName(signal.game) }}</NuxtLink></h3>
       <p>{{ signal.fact_summary }}</p>
       <TrendSparkline :trend="signal.game.trend" :label="displayGameName(signal.game)" />
       <NuxtLink :to="`/games/${signal.game.slug}`" class="text-link">

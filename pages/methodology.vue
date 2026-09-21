@@ -35,11 +35,11 @@
       <dl>
         <div>
           <dt>规则生效日</dt>
-          <dd>{{ scoring.release_event_scoring_effective_date || "2026-07-31" }}，只向前生效</dd>
+          <dd>2026-09-21；历史刊期按明确更正范围重排</dd>
         </div>
         <div>
           <dt>发行窗口</dt>
-          <dd>新作、试玩与正式版 {{ scoring.new_release_window_days }} 天；重大更新 {{ scoring.major_update_window_days || 14 }} 天</dd>
+          <dd>首次可玩发行 30 天；两年内游戏的重大更新／DLC 证据窗口 14 天</dd>
         </div>
         <div>
           <dt>人数权重</dt>
@@ -48,6 +48,10 @@
         <div>
           <dt>增长权重</dt>
           <dd>超越过往最高峰值，最高 {{ scoring.record_growth_weight }} 分</dd>
+        </div>
+        <div>
+          <dt>老游戏回归</dt>
+          <dd>仅限首次可玩发行两年内，须有官方重大更新／DLC，且峰值严格超过此前历史纪录 30%；不设绝对人数下限，缺少历史证据暂不入选。满三年排除采集与选星。</dd>
         </div>
         <div>
           <dt>出现天数</dt>
@@ -79,7 +83,7 @@
         </div>
         <div>
           <dt>连续摘星上限</dt>
-          <dd>2026-09-21 起最多连续两天；30 天累计最多三次，重复摘星折扣保留。</dd>
+          <dd>最多连续两天，第二次摘星后冷却 30 天；30 天累计最多三次，重复摘星折扣保留。</dd>
         </div>
         <div>
           <dt>再次摘星的增长要求</dt>
@@ -102,14 +106,7 @@ const repeatRule = computed(() => {
 })
 const eventRule = computed(() => {
   if (!scoring.value) return ""
-  const values = scoring.value.release_event_multipliers || {
-    true_new: 1,
-    trial: 1,
-    formal_release: 0.85,
-    pending: 0.85,
-    major_update: 0.7
-  }
-  return `新作/试玩 ${percent(values.true_new)}；正式版/待核验 ${percent(values.formal_release)}；重大更新 ${percent(values.major_update)}`
+  return "首次可玩发行 30 天内的已确认新游戏 ×1.25；试玩、测试、转正式版与重大更新不享受新游加分。"
 })
 const reviewRatioRule = computed(() => {
   if (!scoring.value) return ""
