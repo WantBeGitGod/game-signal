@@ -1,6 +1,6 @@
 {
   "schema_version": "2.3.0",
-  "watched_games_scoring_effective_date": "9999-12-31",
+  "watched_games_scoring_effective_date": "2026-09-21",
   "new_game_score_multiplier": 1.25,
   "daily_balance_effective_date": "2026-09-07",
   "balanced_peak_score_weight": 40.0,

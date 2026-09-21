@@ -1,0 +1,51 @@
+{
+  "slug": "trails-in-the-sky-2nd-chapter",
+  "appid": "4225980",
+  "name": "Trails in the Sky 2nd Chapter",
+  "name_cn": null,
+  "description": "《空之轨迹 the 2nd》为故事RPG《空之轨迹 the 1st》的正统续作。本作描绘了少女艾丝蒂尔为了寻找在前作结局中突然不见踪影的少年约书亚，踏上全新旅程的故事。",
+  "release_date": "2026-09-16",
+  "genres": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "推荐使用手柄",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 输入 API 支持",
+    "Steam 云",
+    "可用 HDR",
+    "家庭共享"
+  ],
+  "review_score": "Overwhelmingly Positive",
+  "review_ratio": 96.0,
+  "review_total": 953,
+  "developer": "Nihon Falcom",
+  "publisher": "Nihon Falcom, GungHo Online Entertainment America, Inc., Clouded Leopard Entertainment",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/7e2f29dcf817ea28698ed1e27f4b86c98ebf1aa3/header_schinese.jpg?t=1789409245",
+  "steam_url": "https://store.steampowered.com/app/4225980",
+  "product_family_identity": "appid:4225980",
+  "product_family_appid": "4225980",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-09-19",
+      "peak": 10940
+    },
+    {
+      "date": "2026-09-20",
+      "peak": 9383
+    },
+    {
+      "date": "2026-09-21",
+      "peak": 7208
+    }
+  ]
+}

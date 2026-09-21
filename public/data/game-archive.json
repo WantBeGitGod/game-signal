@@ -1,7 +1,38 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-21T20:49:10",
+  "generated_at": "2026-09-21T23:44:42",
   "games": [
+    {
+      "game": {
+        "slug": "trails-in-the-sky-2nd-chapter",
+        "appid": "4225980",
+        "name": "Trails in the Sky 2nd Chapter",
+        "name_cn": null,
+        "description": "《空之轨迹 the 2nd》为故事RPG《空之轨迹 the 1st》的正统续作。本作描绘了少女艾丝蒂尔为了寻找在前作结局中突然不见踪影的少年约书亚，踏上全新旅程的故事。",
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "developer": "Nihon Falcom",
+        "publisher": "Nihon Falcom, GungHo Online Entertainment America, Inc., Clouded Leopard Entertainment",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/7e2f29dcf817ea28698ed1e27f4b86c98ebf1aa3/header_schinese.jpg?t=1789409245",
+        "product_family_identity": "appid:4225980",
+        "product_family_appid": "4225980",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-09-21"
+      ],
+      "member_appids": [
+        "4225980"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-09-21"
+    },
     {
       "game": {
         "slug": "runescape-dragonwilds",
