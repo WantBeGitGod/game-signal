@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-20T18:18:07",
+  "generated_at": "2026-09-21T20:47:04",
   "games": [
     {
       "game": {
@@ -162,14 +162,16 @@
         ],
         "developer": "Iron Gate AB",
         "publisher": "Coffee Stain Publishing",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789013565",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789098147",
         "product_family_identity": "appid:892970",
         "product_family_appid": "892970",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "valheim"
+      ],
+      "article_title": "Valheim-重开一张世界的理由",
+      "article_published_at": "2026-09-14",
       "star_dates": [
         "2026-09-11",
         "2026-09-10"
@@ -177,7 +179,7 @@
       "member_appids": [
         "892970"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-09-11"
     },
     {
