@@ -1861,14 +1861,14 @@ a {
 }
 
 .trend-panel {
-  grid-template-columns: minmax(220px, 0.4fr) minmax(0, 1fr);
+  grid-template-columns: minmax(0, 1fr);
   background: var(--paper-bright);
 }
 
 .trend-panel h2 {
   margin: 4px 0;
   font-family: var(--serif);
-  font-size: clamp(30px, 4vw, 60px);
+  font-size: clamp(26px, 3vw, 36px);
 }
 
 .game-profile-quick-take {
