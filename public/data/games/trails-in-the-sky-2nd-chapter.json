@@ -25,8 +25,8 @@
     "家庭共享"
   ],
   "review_score": "Overwhelmingly Positive",
-  "review_ratio": 96.0,
-  "review_total": 953,
+  "review_ratio": 97.0,
+  "review_total": 1088,
   "developer": "Nihon Falcom",
   "publisher": "Nihon Falcom, GungHo Online Entertainment America, Inc., Clouded Leopard Entertainment",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/7e2f29dcf817ea28698ed1e27f4b86c98ebf1aa3/header_schinese.jpg?t=1789409245",
@@ -38,6 +38,18 @@
     {
       "date": "2026-09-19",
       "peak": 10940
+    },
+    {
+      "date": "2026-09-20",
+      "peak": 9383
+    },
+    {
+      "date": "2026-09-21",
+      "peak": 7208
+    },
+    {
+      "date": "2026-09-22",
+      "peak": 10911
     }
   ]
 }
