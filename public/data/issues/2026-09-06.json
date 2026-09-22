@@ -8,46 +8,47 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 29.44,
-    "fact_summary": "BOMBANANA! 今日观测峰值 22,936，较过往最高峰值提升 +8%，被识别为「新作起量」。",
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 30.41,
+    "fact_summary": "Crimson Desert Enhanced 今日观测峰值 33,876，较过往最高峰值提升 +21%，被识别为「发行节点起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.25,
+      "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
-      "first_playable_date": "2026-09-02",
+      "first_playable_date": "2026-03-19",
+      "current_release_date": "2026-03-19",
       "returning_historical_record": null,
-      "observation_cutoff_at": "2026-09-06 17:50:36",
-      "current_peak": 22936,
-      "previous_peak": 21271,
-      "previous_record_peak": 21271,
-      "growth_rate": 0.0783,
-      "record_growth_rate": 0.0783,
-      "scoring_peak": 22936,
+      "observation_cutoff_at": "2026-09-06 18:01:15",
+      "current_peak": 33876,
+      "previous_peak": 28018,
+      "previous_record_peak": 28018,
+      "growth_rate": 0.2091,
+      "record_growth_rate": 0.2091,
+      "scoring_peak": 33876,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 19.08,
-      "raw_record_growth_score": 2.74,
-      "growth_score_multiplier": 0.8533,
+      "peak_score": 23.09,
+      "raw_record_growth_score": 7.32,
+      "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.7239,
-      "growth_scale_crossing_component": 0.1294,
-      "record_growth_score": 2.34,
+      "growth_scale_base_component": 1.256,
+      "growth_scale_crossing_component": 0.2388,
+      "record_growth_score": 7.32,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 21.41,
-      "event_adjusted_score": 21.41,
+      "score_before_multiplier": 30.41,
+      "event_adjusted_score": 30.41,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 29.44,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 30.41,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-06",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.375,
-      "base_score": 29.44,
+      "combined_score_multiplier": 1.0,
+      "base_score": 30.41,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -65,59 +66,55 @@
       "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 97.0,
-      "review_total": 1098,
-      "days_seen": 4,
+      "review_ratio": 84.0,
+      "review_total": 171340,
+      "days_seen": 3,
       "comeback_gap_days": 1,
-      "is_new_release": true,
-      "release_age_days": 4,
-      "steam_release_age_days": 4,
-      "release_age_basis": "confirmed_identity",
-      "release_verification_required": false,
+      "is_new_release": false,
+      "release_age_days": 171,
+      "steam_release_age_days": 171,
+      "release_age_basis": "steam_release",
+      "release_verification_required": true,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 266,
+        "initial_review_total": 170614,
         "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "verification_status": "pending"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "休闲",
-        "独立"
+        "动作",
+        "冒险"
       ],
       "scoring_version": "watched_games_v1",
-      "release_event_type": "true_new",
-      "release_event_date": "2026-09-02",
-      "release_event_age_days": 4,
-      "release_event_window_days": 30,
-      "release_event_multiplier": 1.0,
+      "release_event_type": "pending",
+      "release_event_date": "2026-03-19",
+      "release_event_age_days": 171,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 266,
+        "initial_review_total": 170614,
         "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "verification_status": "pending"
       },
-      "release_event_date_basis": "confirmed_identity",
+      "release_event_date_basis": "steam_release",
       "pre_bonus_model_rank": 4,
       "trend": [
         {
-          "date": "2026-09-03",
-          "peak": 3921
-        },
-        {
           "date": "2026-09-04",
-          "peak": 17347
+          "peak": 16272
         },
         {
           "date": "2026-09-05",
-          "peak": 21271
+          "peak": 28018
         },
         {
           "date": "2026-09-06",
-          "peak": 22936
+          "peak": 33876
         }
       ],
       "scoring_rules_as_of": "2026-09-22"
@@ -130,125 +127,118 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4656000/"
+        "url": "https://store.steampowered.com/app/3321460/"
       }
     ],
     "game": {
-      "slug": "bombanana",
-      "appid": "4656000",
-      "name": "BOMBANANA!",
+      "slug": "crimson-desert-enhanced",
+      "appid": "3321460",
+      "name": "Crimson Desert Enhanced",
       "name_cn": null,
-      "description": "大家一起来拆弹，猴友欢乐闹翻天！在这款3人合作游戏中，分别扮演不见、不听、不言的三不猴，依靠不完整的信息相互沟通，破解限时谜题。你们能在轰然爆炸前，凭默契拯救一切吗？",
-      "release_date": "2026-09-02",
+      "description": "以帕卫尔大陆为背景展开的开放世界动作冒险游戏——《红色沙漠》。 你将化身灰鬃的克里夫，踏上夺回失去的一切、从迫近的威胁中拯救世界的旅程。 驰骋广袤的野生大陆、深入隐藏的古代遗迹、行走于神秘的阿比斯领域，在战斗、探险与发现中开辟只属于你的道路。",
+      "release_date": "2026-03-19",
       "genres": [
-        "休闲",
-        "独立"
+        "动作",
+        "冒险"
       ],
       "tags": [
-        "多人",
-        "合作",
-        "在线合作",
+        "单人",
         "Steam 成就",
         "完全支持控制器",
-        "可以仅用键盘",
-        "可以仅用鼠标",
-        "无需应对快速反应事件",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DualSense 控制器支持",
+        "自定义音量控制",
+        "推荐使用手柄",
         "DualSense 控制器支持",
         "随时保存",
-        "Steam 输入 API 支持",
         "立体声",
+        "字幕选项",
         "环绕声",
+        "Steam 云",
+        "可用 HDR",
         "家庭共享"
       ],
-      "review_score": "Overwhelmingly Positive",
-      "review_ratio": 97.0,
-      "review_total": 2453,
-      "developer": "Lefto Studio",
-      "publisher": "TARK",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1789051356",
-      "steam_url": "https://store.steampowered.com/app/4656000",
-      "product_family_identity": "appid:4656000",
-      "product_family_appid": "4656000",
+      "review_score": "Very Positive",
+      "review_ratio": 84.0,
+      "review_total": 173049,
+      "developer": "Pearl Abyss",
+      "publisher": "Pearl Abyss",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/72caf7e120e63fcf25b92e3b4b6477b76baffa45/header_schinese.jpg?t=1789020763",
+      "steam_url": "https://store.steampowered.com/app/3321460",
+      "product_family_identity": "appid:3321460",
+      "product_family_appid": "3321460",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-09-03",
-          "peak": 3921
-        },
-        {
           "date": "2026-09-04",
-          "peak": 17347
+          "peak": 16272
         },
         {
           "date": "2026-09-05",
-          "peak": 21271
+          "peak": 28018
         },
         {
           "date": "2026-09-06",
-          "peak": 22936
+          "peak": 33876
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《BOMBANANA!》是一款固定三人合作的拆弹解谜游戏。视觉、听觉和说话能力被拆给不同角色，读手册、传话与操作炸弹的人各有所缺，没人能独自掌握完整答案。",
-      "reference_frame": "《Big Walk》也会用交流限制制造合作题目；这里则把三个人固定在一条信息传递链上。困难常常发生在“我以为你说的是这个”的瞬间，统一称呼和重复确认都属于实际解法。",
-      "for_players": "适合能约齐三名朋友、乐于用语音和动作磨合默契的玩家。有人看错、有人听岔带来的混乱，也是朋友局故事的一部分。",
-      "not_for_players": "不愿频繁沟通、希望随机排队就能顺利推进，或想靠自己的熟练操作包办全局的人，容易被另外两人的信息限制卡住。",
-      "star_reason": "9 月 6 日保存的观测峰值为 22,936 人。按新规则复算，本期得分 29.44；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "positioning": "《Crimson Desert Enhanced》围绕克里夫与灰鬃佣兵团展开，是一款单人开放世界动作冒险。你穿行于帕卫尔的荒野、城镇和古代遗迹，在旅途中寻找同伴，处理各地冲突与未知威胁。",
+      "reference_frame": "探索与战斗相互穿插：新的地点提供遭遇和线索，也会把玩家带到不同规模的战斗中。能否读懂敌人的动作、调整进攻方式，与愿不愿意离开主路寻找新地点，都会影响旅途的体验。",
+      "for_players": "适合喜欢亲手战斗、愿意花时间探索广阔世界，也能接受主线之外不断出现其他活动的玩家。把一次出行当作可能偏离原计划的冒险，更容易享受它的结构。",
+      "not_for_players": "如果希望任务紧密相接、很少走路和探索，或不愿学习复杂场面中的动作判断，大地图与频繁战斗可能让你感到负担。",
+      "star_reason": "9 月 6 日保存的观测峰值为 33,876 人。按修正后的发行参评规则复算，本期得分 30.41，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
-        "各自观察手册、炸弹或队友提示，把自己掌握的信息传给正确的人。",
-        "在倒计时结束前确认指令并完成操作；失败后找出传错的一环，调整口令再试。"
+        "穿越世界，调查人物、任务和遗迹，决定接下来深入哪片区域。",
+        "运用武器和战斗能力应对遭遇，获得成长与线索后继续推进旅程。"
       ],
-      "content_length": 388
+      "content_length": 415
     },
     "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },
   "main_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 29.44,
-    "fact_summary": "BOMBANANA! 今日观测峰值 22,936，较过往最高峰值提升 +8%，被识别为「新作起量」。",
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 30.41,
+    "fact_summary": "Crimson Desert Enhanced 今日观测峰值 33,876，较过往最高峰值提升 +21%，被识别为「发行节点起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.25,
+      "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
-      "first_playable_date": "2026-09-02",
+      "first_playable_date": "2026-03-19",
+      "current_release_date": "2026-03-19",
       "returning_historical_record": null,
-      "observation_cutoff_at": "2026-09-06 17:50:36",
-      "current_peak": 22936,
-      "previous_peak": 21271,
-      "previous_record_peak": 21271,
-      "growth_rate": 0.0783,
-      "record_growth_rate": 0.0783,
-      "scoring_peak": 22936,
+      "observation_cutoff_at": "2026-09-06 18:01:15",
+      "current_peak": 33876,
+      "previous_peak": 28018,
+      "previous_record_peak": 28018,
+      "growth_rate": 0.2091,
+      "record_growth_rate": 0.2091,
+      "scoring_peak": 33876,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 19.08,
-      "raw_record_growth_score": 2.74,
-      "growth_score_multiplier": 0.8533,
+      "peak_score": 23.09,
+      "raw_record_growth_score": 7.32,
+      "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.7239,
-      "growth_scale_crossing_component": 0.1294,
-      "record_growth_score": 2.34,
+      "growth_scale_base_component": 1.256,
+      "growth_scale_crossing_component": 0.2388,
+      "record_growth_score": 7.32,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 21.41,
-      "event_adjusted_score": 21.41,
+      "score_before_multiplier": 30.41,
+      "event_adjusted_score": 30.41,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 29.44,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 30.41,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-06",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.375,
-      "base_score": 29.44,
+      "combined_score_multiplier": 1.0,
+      "base_score": 30.41,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -266,59 +256,55 @@
       "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 97.0,
-      "review_total": 1098,
-      "days_seen": 4,
+      "review_ratio": 84.0,
+      "review_total": 171340,
+      "days_seen": 3,
       "comeback_gap_days": 1,
-      "is_new_release": true,
-      "release_age_days": 4,
-      "steam_release_age_days": 4,
-      "release_age_basis": "confirmed_identity",
-      "release_verification_required": false,
+      "is_new_release": false,
+      "release_age_days": 171,
+      "steam_release_age_days": 171,
+      "release_age_basis": "steam_release",
+      "release_verification_required": true,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 266,
+        "initial_review_total": 170614,
         "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "verification_status": "pending"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "休闲",
-        "独立"
+        "动作",
+        "冒险"
       ],
       "scoring_version": "watched_games_v1",
-      "release_event_type": "true_new",
-      "release_event_date": "2026-09-02",
-      "release_event_age_days": 4,
-      "release_event_window_days": 30,
-      "release_event_multiplier": 1.0,
+      "release_event_type": "pending",
+      "release_event_date": "2026-03-19",
+      "release_event_age_days": 171,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 266,
+        "initial_review_total": 170614,
         "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "verification_status": "pending"
       },
-      "release_event_date_basis": "confirmed_identity",
+      "release_event_date_basis": "steam_release",
       "pre_bonus_model_rank": 4,
       "trend": [
         {
-          "date": "2026-09-03",
-          "peak": 3921
-        },
-        {
           "date": "2026-09-04",
-          "peak": 17347
+          "peak": 16272
         },
         {
           "date": "2026-09-05",
-          "peak": 21271
+          "peak": 28018
         },
         {
           "date": "2026-09-06",
-          "peak": 22936
+          "peak": 33876
         }
       ],
       "scoring_rules_as_of": "2026-09-22"
@@ -331,80 +317,72 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4656000/"
+        "url": "https://store.steampowered.com/app/3321460/"
       }
     ],
     "game": {
-      "slug": "bombanana",
-      "appid": "4656000",
-      "name": "BOMBANANA!",
+      "slug": "crimson-desert-enhanced",
+      "appid": "3321460",
+      "name": "Crimson Desert Enhanced",
       "name_cn": null,
-      "description": "大家一起来拆弹，猴友欢乐闹翻天！在这款3人合作游戏中，分别扮演不见、不听、不言的三不猴，依靠不完整的信息相互沟通，破解限时谜题。你们能在轰然爆炸前，凭默契拯救一切吗？",
-      "release_date": "2026-09-02",
+      "description": "以帕卫尔大陆为背景展开的开放世界动作冒险游戏——《红色沙漠》。 你将化身灰鬃的克里夫，踏上夺回失去的一切、从迫近的威胁中拯救世界的旅程。 驰骋广袤的野生大陆、深入隐藏的古代遗迹、行走于神秘的阿比斯领域，在战斗、探险与发现中开辟只属于你的道路。",
+      "release_date": "2026-03-19",
       "genres": [
-        "休闲",
-        "独立"
+        "动作",
+        "冒险"
       ],
       "tags": [
-        "多人",
-        "合作",
-        "在线合作",
+        "单人",
         "Steam 成就",
         "完全支持控制器",
-        "可以仅用键盘",
-        "可以仅用鼠标",
-        "无需应对快速反应事件",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DualSense 控制器支持",
+        "自定义音量控制",
+        "推荐使用手柄",
         "DualSense 控制器支持",
         "随时保存",
-        "Steam 输入 API 支持",
         "立体声",
+        "字幕选项",
         "环绕声",
+        "Steam 云",
+        "可用 HDR",
         "家庭共享"
       ],
-      "review_score": "Overwhelmingly Positive",
-      "review_ratio": 97.0,
-      "review_total": 2453,
-      "developer": "Lefto Studio",
-      "publisher": "TARK",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1789051356",
-      "steam_url": "https://store.steampowered.com/app/4656000",
-      "product_family_identity": "appid:4656000",
-      "product_family_appid": "4656000",
+      "review_score": "Very Positive",
+      "review_ratio": 84.0,
+      "review_total": 173049,
+      "developer": "Pearl Abyss",
+      "publisher": "Pearl Abyss",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/72caf7e120e63fcf25b92e3b4b6477b76baffa45/header_schinese.jpg?t=1789020763",
+      "steam_url": "https://store.steampowered.com/app/3321460",
+      "product_family_identity": "appid:3321460",
+      "product_family_appid": "3321460",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-09-03",
-          "peak": 3921
-        },
-        {
           "date": "2026-09-04",
-          "peak": 17347
+          "peak": 16272
         },
         {
           "date": "2026-09-05",
-          "peak": 21271
+          "peak": 28018
         },
         {
           "date": "2026-09-06",
-          "peak": 22936
+          "peak": 33876
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《BOMBANANA!》是一款固定三人合作的拆弹解谜游戏。视觉、听觉和说话能力被拆给不同角色，读手册、传话与操作炸弹的人各有所缺，没人能独自掌握完整答案。",
-      "reference_frame": "《Big Walk》也会用交流限制制造合作题目；这里则把三个人固定在一条信息传递链上。困难常常发生在“我以为你说的是这个”的瞬间，统一称呼和重复确认都属于实际解法。",
-      "for_players": "适合能约齐三名朋友、乐于用语音和动作磨合默契的玩家。有人看错、有人听岔带来的混乱，也是朋友局故事的一部分。",
-      "not_for_players": "不愿频繁沟通、希望随机排队就能顺利推进，或想靠自己的熟练操作包办全局的人，容易被另外两人的信息限制卡住。",
-      "star_reason": "9 月 6 日保存的观测峰值为 22,936 人。按新规则复算，本期得分 29.44；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "positioning": "《Crimson Desert Enhanced》围绕克里夫与灰鬃佣兵团展开，是一款单人开放世界动作冒险。你穿行于帕卫尔的荒野、城镇和古代遗迹，在旅途中寻找同伴，处理各地冲突与未知威胁。",
+      "reference_frame": "探索与战斗相互穿插：新的地点提供遭遇和线索，也会把玩家带到不同规模的战斗中。能否读懂敌人的动作、调整进攻方式，与愿不愿意离开主路寻找新地点，都会影响旅途的体验。",
+      "for_players": "适合喜欢亲手战斗、愿意花时间探索广阔世界，也能接受主线之外不断出现其他活动的玩家。把一次出行当作可能偏离原计划的冒险，更容易享受它的结构。",
+      "not_for_players": "如果希望任务紧密相接、很少走路和探索，或不愿学习复杂场面中的动作判断，大地图与频繁战斗可能让你感到负担。",
+      "star_reason": "9 月 6 日保存的观测峰值为 33,876 人。按修正后的发行参评规则复算，本期得分 30.41，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
-        "各自观察手册、炸弹或队友提示，把自己掌握的信息传给正确的人。",
-        "在倒计时结束前确认指令并完成操作；失败后找出传错的一环，调整口令再试。"
+        "穿越世界，调查人物、任务和遗迹，决定接下来深入哪片区域。",
+        "运用武器和战斗能力应对遭遇，获得成长与线索后继续推进旅程。"
       ],
-      "content_length": 388
+      "content_length": 415
     },
     "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },

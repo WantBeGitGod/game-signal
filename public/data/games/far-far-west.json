@@ -1,0 +1,49 @@
+{
+  "slug": "far-far-west",
+  "appid": "3124540",
+  "name": "Far Far West",
+  "name_cn": null,
+  "description": "大吼咿哈快上马，西部牛仔英姿飒！《遥遥西土》是一款热闹非凡的4人合作射击游戏，你将踏上西行旅途，一路斩妖杀怪、施法念咒、完成任务、领取赏金。召集队友，完成任务，然后趁你还活着（大多数时候）赶紧拿钱走人。",
+  "release_date": "2026-04-28",
+  "genres": [
+    "动作",
+    "冒险",
+    "独立",
+    "抢先体验"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "视角舒适度",
+    "自定义音量控制",
+    "可调整难度",
+    "无需应对快速反应事件",
+    "立体声",
+    "环绕声",
+    "部分支持控制器",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Overwhelmingly Positive",
+  "review_ratio": 95.0,
+  "review_total": 37914,
+  "developer": "Evil Raptor",
+  "publisher": "Fireshine Games",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/584d539800958040b08013c125126c1eb2a8c0c7/header_schinese.jpg?t=1787841818",
+  "steam_url": "https://store.steampowered.com/app/3124540",
+  "product_family_identity": "appid:3124540",
+  "product_family_appid": "3124540",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-08-28",
+      "peak": 6804
+    },
+    {
+      "date": "2026-08-29",
+      "peak": 9560
+    }
+  ]
+}

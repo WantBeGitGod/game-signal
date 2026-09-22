@@ -1,0 +1,51 @@
+{
+  "slug": "crimson-desert-enhanced",
+  "appid": "3321460",
+  "name": "Crimson Desert Enhanced",
+  "name_cn": null,
+  "description": "以帕卫尔大陆为背景展开的开放世界动作冒险游戏——《红色沙漠》。 你将化身灰鬃的克里夫，踏上夺回失去的一切、从迫近的威胁中拯救世界的旅程。 驰骋广袤的野生大陆、深入隐藏的古代遗迹、行走于神秘的阿比斯领域，在战斗、探险与发现中开辟只属于你的道路。",
+  "release_date": "2026-03-19",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "自定义音量控制",
+    "推荐使用手柄",
+    "DualSense 控制器支持",
+    "随时保存",
+    "立体声",
+    "字幕选项",
+    "环绕声",
+    "Steam 云",
+    "可用 HDR",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 84.0,
+  "review_total": 173049,
+  "developer": "Pearl Abyss",
+  "publisher": "Pearl Abyss",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/72caf7e120e63fcf25b92e3b4b6477b76baffa45/header_schinese.jpg?t=1789020763",
+  "steam_url": "https://store.steampowered.com/app/3321460",
+  "product_family_identity": "appid:3321460",
+  "product_family_appid": "3321460",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-09-04",
+      "peak": 16272
+    },
+    {
+      "date": "2026-09-05",
+      "peak": 28018
+    },
+    {
+      "date": "2026-09-06",
+      "peak": 33876
+    }
+  ]
+}

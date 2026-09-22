@@ -8,423 +8,435 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 4.43,
-    "fact_summary": "斗灵对决 今日观测峰值 3,799，较过往最高峰值提升 +24%，被识别为「新作起量」。",
+    "type": "formal_release_rise",
+    "label": "正式版起量",
+    "score": 11.05,
+    "fact_summary": "TCG Card Shop Simulator 今日观测峰值 12,328，较过往最高峰值提升 +9%，被识别为「正式版起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.25,
+      "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
-      "first_playable_date": "2026-09-15",
+      "first_playable_date": "2024-09-15",
+      "current_release_date": "2026-09-14",
       "returning_historical_record": null,
-      "observation_cutoff_at": "2026-09-21 17:50:19",
-      "current_peak": 3799,
-      "previous_peak": 3075,
-      "previous_record_peak": 3075,
-      "growth_rate": 0.2354,
-      "record_growth_rate": 0.2354,
-      "scoring_peak": 3799,
+      "observation_cutoff_at": "2026-09-21 17:50:11",
+      "current_peak": 12328,
+      "previous_peak": 11306,
+      "previous_record_peak": 11306,
+      "growth_rate": 0.0904,
+      "record_growth_rate": 0.0904,
+      "scoring_peak": 12328,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 3.42,
-      "raw_record_growth_score": 8.24,
-      "growth_score_multiplier": 0.0151,
+      "peak_score": 11.1,
+      "raw_record_growth_score": 3.16,
+      "growth_score_multiplier": 0.2278,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.0151,
-      "growth_scale_crossing_component": 0.0,
-      "record_growth_score": 0.12,
+      "growth_scale_base_component": 0.2045,
+      "growth_scale_crossing_component": 0.0233,
+      "record_growth_score": 0.72,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 3.54,
-      "event_adjusted_score": 3.54,
+      "score_before_multiplier": 11.82,
+      "event_adjusted_score": 11.82,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 4.43,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 13.0,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-21",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.25,
-      "base_score": 4.43,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 0.935,
+      "base_score": 11.05,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 90.0,
-      "review_total": 589,
-      "days_seen": 6,
+      "review_ratio": 96.0,
+      "review_total": 50009,
+      "days_seen": 7,
       "comeback_gap_days": 1,
-      "is_new_release": true,
-      "release_age_days": 6,
-      "steam_release_age_days": 6,
-      "release_age_basis": "confirmed_identity",
+      "is_new_release": false,
+      "release_age_days": 7,
+      "steam_release_age_days": 7,
+      "release_age_basis": "steam_current_release",
       "release_verification_required": false,
       "release_verification": {
-        "source": "initial_review_observation",
-        "initial_review_total": 338,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "source": "verified_prior_playable_release",
+        "first_playable_date": "2024-09-15"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "休闲",
-        "独立",
-        "策略"
+        "模拟"
       ],
       "scoring_version": "watched_games_v1",
-      "release_event_type": "true_new",
-      "release_event_date": "2026-09-15",
-      "release_event_age_days": 6,
-      "release_event_window_days": 30,
-      "release_event_multiplier": 1.0,
+      "release_event_type": "formal_release",
+      "release_event_date": "2026-09-14",
+      "release_event_age_days": 7,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
       "release_event_evidence": {
-        "source": "initial_review_observation",
-        "initial_review_total": 338,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "source": "verified_prior_playable_release",
+        "first_playable_date": "2024-09-15"
       },
-      "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 7,
+      "release_event_date_basis": "steam_current_release",
+      "pre_bonus_model_rank": 6,
       "trend": [
         {
+          "date": "2026-09-15",
+          "peak": 7318
+        },
+        {
           "date": "2026-09-16",
-          "peak": 3075
+          "peak": 9885
         },
         {
           "date": "2026-09-17",
-          "peak": 2631
+          "peak": 7265
         },
         {
           "date": "2026-09-18",
-          "peak": 2939
+          "peak": 9036
         },
         {
           "date": "2026-09-19",
-          "peak": 3030
+          "peak": 9491
         },
         {
           "date": "2026-09-20",
-          "peak": 3014
+          "peak": 11306
         },
         {
           "date": "2026-09-21",
-          "peak": 3799
+          "peak": 12328
         }
       ],
       "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4557380/"
+        "url": "https://store.steampowered.com/app/3070070/"
       }
     ],
     "game": {
-      "slug": "batomon-showdown",
-      "appid": "4557380",
-      "name": "Batomon Showdown",
-      "name_cn": "斗灵对决",
-      "description": "在这款宠物收集的自走棋游戏中，收集各种斗灵，组建斗灵梦之队，进化独具特色的“斗灵，探索致命的技能协同，构建最强队伍，在快节奏的爽快对战中，击败其他玩家，成为最强训灵师！",
-      "release_date": "2026-09-15",
+      "slug": "tcg-card-shop-simulator",
+      "appid": "3070070",
+      "name": "TCG Card Shop Simulator",
+      "name_cn": null,
+      "description": "开设您自己的卡牌商店。摆放最新的补充包，也可以拆开收集卡牌。自行定价、雇佣员工、举办活动，并拓展您的卡牌商店。",
+      "release_date": "2026-09-14",
       "genres": [
-        "休闲",
-        "独立",
-        "策略"
+        "模拟"
       ],
       "tags": [
-        "多人",
-        "玩家对战",
-        "线上玩家对战",
+        "单人",
+        "Steam 成就",
         "完全支持控制器",
+        "Steam 集换式卡牌",
+        "视角舒适度",
         "自定义音量控制",
-        "#category_playable_at_your_own_pace",
         "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
         "随时保存",
+        "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 90.0,
-      "review_total": 589,
-      "developer": "berrymint",
-      "publisher": "berrymint",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557380/49e014590d388d8c3374cc530bfb4424086cce4b/header_schinese.jpg?t=1789470804",
-      "steam_url": "https://store.steampowered.com/app/4557380",
-      "product_family_identity": "appid:4557380",
-      "product_family_appid": "4557380",
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 96.0,
+      "review_total": 50009,
+      "developer": "OPNeon Games",
+      "publisher": "OPNeon Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/80b94bfe22c6cd7bd9f66d0af536ae947f9cce3a/header_alt_assets_0.jpg?t=1789528213",
+      "steam_url": "https://store.steampowered.com/app/3070070",
+      "product_family_identity": "appid:3070070",
+      "product_family_appid": "3070070",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-09-15",
+          "peak": 7318
+        },
+        {
           "date": "2026-09-16",
-          "peak": 3075
+          "peak": 9885
         },
         {
           "date": "2026-09-17",
-          "peak": 2631
+          "peak": 7265
         },
         {
           "date": "2026-09-18",
-          "peak": 2939
+          "peak": 9036
         },
         {
           "date": "2026-09-19",
-          "peak": 3030
+          "peak": 9491
         },
         {
           "date": "2026-09-20",
-          "peak": 3014
+          "peak": 11306
         },
         {
           "date": "2026-09-21",
-          "peak": 3799
+          "peak": 12328
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Batomon Showdown》把收集怪物、搭配队伍和异步玩家对战放在一起。你选择训练师，培养怪物并安排饰品、道具之间的配合，再让它们在自动战斗中接受其他玩家阵容的检验。",
-      "reference_frame": "《My Party Is Grinding》也要求先配装备再看自动战斗，能帮助理解“准备决定表现”。本作的压力来自对手留下的队伍，而不是后台刷怪进度；战前可以按自己的节奏思考，不必抢倒计时。",
-      "for_players": "适合喜欢研究能力联动、愿意从战斗结果反推配置问题的玩家。对操作反应要求不高，但要乐于更换原本喜欢却不适合当前队伍的选择。",
-      "not_for_players": "若期待亲手指挥每一次攻击、实时与朋友同场交手，或在开放世界探索捕捉怪物，这款围绕异步自动战斗的作品并不提供同一种体验。",
-      "star_reason": "9 月 21 日保存的观测峰值为 3,799 人。按新规则复算，本期得分 4.43；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "positioning": "《TCG Card Shop Simulator》让你经营一家集换式卡牌店：进货、摆货架、定价、招员工，还可以自己拆卡包，把稀有卡拿去出售或留作收藏。经营收入和收藏欲望会争用同一批库存。",
+      "reference_frame": "《Big Ambitions》玩家熟悉的库存、价格和店面运营经验可以迁移过来，但这里聚焦一家卡店。你要照顾顾客购物与店内打牌的需求，也会面对“这包卖掉，还是自己拆开”的小小诱惑。",
+      "for_players": "适合享受店铺从空架子慢慢热闹起来、喜欢整理商品和收集卡牌的人。愿意亲手处理日常经营琐事，会更容易理解扩店带来的成就感。",
+      "not_for_players": "如果你主要想玩完整的卡牌对战，或希望经营完全自动化、只做高层决策，这款围绕零售和拆包展开的模拟可能与预期不同。",
+      "star_reason": "9 月 21 日保存的观测峰值为 12,328 人。按修正后的发行参评规则复算，本期得分 11.05，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
-        "选择训练师并收集、培养怪物，围绕能力和物品效果安排队伍。",
-        "观看自动对战，识别阵容哪里不足，再调整搭配进入下一轮挑战。"
+        "订购商品、安排货架和价格，保持店面整洁，满足顾客买卡与活动需求。",
+        "用利润补货、改善设施并扩大空间；拆出的稀有卡则在出售和个人收藏之间作选择。"
       ],
-      "content_length": 413
+      "content_length": 428
     },
     "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },
   "main_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 4.43,
-    "fact_summary": "斗灵对决 今日观测峰值 3,799，较过往最高峰值提升 +24%，被识别为「新作起量」。",
+    "type": "formal_release_rise",
+    "label": "正式版起量",
+    "score": 11.05,
+    "fact_summary": "TCG Card Shop Simulator 今日观测峰值 12,328，较过往最高峰值提升 +9%，被识别为「正式版起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.25,
+      "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
-      "first_playable_date": "2026-09-15",
+      "first_playable_date": "2024-09-15",
+      "current_release_date": "2026-09-14",
       "returning_historical_record": null,
-      "observation_cutoff_at": "2026-09-21 17:50:19",
-      "current_peak": 3799,
-      "previous_peak": 3075,
-      "previous_record_peak": 3075,
-      "growth_rate": 0.2354,
-      "record_growth_rate": 0.2354,
-      "scoring_peak": 3799,
+      "observation_cutoff_at": "2026-09-21 17:50:11",
+      "current_peak": 12328,
+      "previous_peak": 11306,
+      "previous_record_peak": 11306,
+      "growth_rate": 0.0904,
+      "record_growth_rate": 0.0904,
+      "scoring_peak": 12328,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 3.42,
-      "raw_record_growth_score": 8.24,
-      "growth_score_multiplier": 0.0151,
+      "peak_score": 11.1,
+      "raw_record_growth_score": 3.16,
+      "growth_score_multiplier": 0.2278,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.0151,
-      "growth_scale_crossing_component": 0.0,
-      "record_growth_score": 0.12,
+      "growth_scale_base_component": 0.2045,
+      "growth_scale_crossing_component": 0.0233,
+      "record_growth_score": 0.72,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 3.54,
-      "event_adjusted_score": 3.54,
+      "score_before_multiplier": 11.82,
+      "event_adjusted_score": 11.82,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 4.43,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 13.0,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-21",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.25,
-      "base_score": 4.43,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 0.935,
+      "base_score": 11.05,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 90.0,
-      "review_total": 589,
-      "days_seen": 6,
+      "review_ratio": 96.0,
+      "review_total": 50009,
+      "days_seen": 7,
       "comeback_gap_days": 1,
-      "is_new_release": true,
-      "release_age_days": 6,
-      "steam_release_age_days": 6,
-      "release_age_basis": "confirmed_identity",
+      "is_new_release": false,
+      "release_age_days": 7,
+      "steam_release_age_days": 7,
+      "release_age_basis": "steam_current_release",
       "release_verification_required": false,
       "release_verification": {
-        "source": "initial_review_observation",
-        "initial_review_total": 338,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "source": "verified_prior_playable_release",
+        "first_playable_date": "2024-09-15"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "休闲",
-        "独立",
-        "策略"
+        "模拟"
       ],
       "scoring_version": "watched_games_v1",
-      "release_event_type": "true_new",
-      "release_event_date": "2026-09-15",
-      "release_event_age_days": 6,
-      "release_event_window_days": 30,
-      "release_event_multiplier": 1.0,
+      "release_event_type": "formal_release",
+      "release_event_date": "2026-09-14",
+      "release_event_age_days": 7,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
       "release_event_evidence": {
-        "source": "initial_review_observation",
-        "initial_review_total": 338,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "source": "verified_prior_playable_release",
+        "first_playable_date": "2024-09-15"
       },
-      "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 7,
+      "release_event_date_basis": "steam_current_release",
+      "pre_bonus_model_rank": 6,
       "trend": [
         {
+          "date": "2026-09-15",
+          "peak": 7318
+        },
+        {
           "date": "2026-09-16",
-          "peak": 3075
+          "peak": 9885
         },
         {
           "date": "2026-09-17",
-          "peak": 2631
+          "peak": 7265
         },
         {
           "date": "2026-09-18",
-          "peak": 2939
+          "peak": 9036
         },
         {
           "date": "2026-09-19",
-          "peak": 3030
+          "peak": 9491
         },
         {
           "date": "2026-09-20",
-          "peak": 3014
+          "peak": 11306
         },
         {
           "date": "2026-09-21",
-          "peak": 3799
+          "peak": 12328
         }
       ],
       "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4557380/"
+        "url": "https://store.steampowered.com/app/3070070/"
       }
     ],
     "game": {
-      "slug": "batomon-showdown",
-      "appid": "4557380",
-      "name": "Batomon Showdown",
-      "name_cn": "斗灵对决",
-      "description": "在这款宠物收集的自走棋游戏中，收集各种斗灵，组建斗灵梦之队，进化独具特色的“斗灵，探索致命的技能协同，构建最强队伍，在快节奏的爽快对战中，击败其他玩家，成为最强训灵师！",
-      "release_date": "2026-09-15",
+      "slug": "tcg-card-shop-simulator",
+      "appid": "3070070",
+      "name": "TCG Card Shop Simulator",
+      "name_cn": null,
+      "description": "开设您自己的卡牌商店。摆放最新的补充包，也可以拆开收集卡牌。自行定价、雇佣员工、举办活动，并拓展您的卡牌商店。",
+      "release_date": "2026-09-14",
       "genres": [
-        "休闲",
-        "独立",
-        "策略"
+        "模拟"
       ],
       "tags": [
-        "多人",
-        "玩家对战",
-        "线上玩家对战",
+        "单人",
+        "Steam 成就",
         "完全支持控制器",
+        "Steam 集换式卡牌",
+        "视角舒适度",
         "自定义音量控制",
-        "#category_playable_at_your_own_pace",
         "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
         "随时保存",
+        "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 90.0,
-      "review_total": 589,
-      "developer": "berrymint",
-      "publisher": "berrymint",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557380/49e014590d388d8c3374cc530bfb4424086cce4b/header_schinese.jpg?t=1789470804",
-      "steam_url": "https://store.steampowered.com/app/4557380",
-      "product_family_identity": "appid:4557380",
-      "product_family_appid": "4557380",
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 96.0,
+      "review_total": 50009,
+      "developer": "OPNeon Games",
+      "publisher": "OPNeon Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/80b94bfe22c6cd7bd9f66d0af536ae947f9cce3a/header_alt_assets_0.jpg?t=1789528213",
+      "steam_url": "https://store.steampowered.com/app/3070070",
+      "product_family_identity": "appid:3070070",
+      "product_family_appid": "3070070",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-09-15",
+          "peak": 7318
+        },
+        {
           "date": "2026-09-16",
-          "peak": 3075
+          "peak": 9885
         },
         {
           "date": "2026-09-17",
-          "peak": 2631
+          "peak": 7265
         },
         {
           "date": "2026-09-18",
-          "peak": 2939
+          "peak": 9036
         },
         {
           "date": "2026-09-19",
-          "peak": 3030
+          "peak": 9491
         },
         {
           "date": "2026-09-20",
-          "peak": 3014
+          "peak": 11306
         },
         {
           "date": "2026-09-21",
-          "peak": 3799
+          "peak": 12328
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Batomon Showdown》把收集怪物、搭配队伍和异步玩家对战放在一起。你选择训练师，培养怪物并安排饰品、道具之间的配合，再让它们在自动战斗中接受其他玩家阵容的检验。",
-      "reference_frame": "《My Party Is Grinding》也要求先配装备再看自动战斗，能帮助理解“准备决定表现”。本作的压力来自对手留下的队伍，而不是后台刷怪进度；战前可以按自己的节奏思考，不必抢倒计时。",
-      "for_players": "适合喜欢研究能力联动、愿意从战斗结果反推配置问题的玩家。对操作反应要求不高，但要乐于更换原本喜欢却不适合当前队伍的选择。",
-      "not_for_players": "若期待亲手指挥每一次攻击、实时与朋友同场交手，或在开放世界探索捕捉怪物，这款围绕异步自动战斗的作品并不提供同一种体验。",
-      "star_reason": "9 月 21 日保存的观测峰值为 3,799 人。按新规则复算，本期得分 4.43；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "positioning": "《TCG Card Shop Simulator》让你经营一家集换式卡牌店：进货、摆货架、定价、招员工，还可以自己拆卡包，把稀有卡拿去出售或留作收藏。经营收入和收藏欲望会争用同一批库存。",
+      "reference_frame": "《Big Ambitions》玩家熟悉的库存、价格和店面运营经验可以迁移过来，但这里聚焦一家卡店。你要照顾顾客购物与店内打牌的需求，也会面对“这包卖掉，还是自己拆开”的小小诱惑。",
+      "for_players": "适合享受店铺从空架子慢慢热闹起来、喜欢整理商品和收集卡牌的人。愿意亲手处理日常经营琐事，会更容易理解扩店带来的成就感。",
+      "not_for_players": "如果你主要想玩完整的卡牌对战，或希望经营完全自动化、只做高层决策，这款围绕零售和拆包展开的模拟可能与预期不同。",
+      "star_reason": "9 月 21 日保存的观测峰值为 12,328 人。按修正后的发行参评规则复算，本期得分 11.05，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
-        "选择训练师并收集、培养怪物，围绕能力和物品效果安排队伍。",
-        "观看自动对战，识别阵容哪里不足，再调整搭配进入下一轮挑战。"
+        "订购商品、安排货架和价格，保持店面整洁，满足顾客买卡与活动需求。",
+        "用利润补货、改善设施并扩大空间；拆出的稀有卡则在出售和个人收藏之间作选择。"
       ],
-      "content_length": 413
+      "content_length": 428
     },
     "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },

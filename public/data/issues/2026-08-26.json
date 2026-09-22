@@ -16,6 +16,7 @@
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-08-25",
+      "current_release_date": "2026-08-25",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-26 18:52:18",
       "current_peak": 7131,
@@ -91,7 +92,7 @@
       "release_event_type": "true_new",
       "release_event_date": "2026-08-25",
       "release_event_age_days": 1,
-      "release_event_window_days": 30,
+      "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
@@ -175,12 +176,12 @@
       "reference_frame": "可以从合作战役的分工理解它：你既要瞄准眼前目标，也要留意队友正在应付哪一侧。异形成群逼近，让持续射击、移动与互相照应成为同一件事，电影里的压迫感因此落到玩家操作上。",
       "for_players": "适合喜欢异形题材、愿意和朋友反复打合作任务的人。能接受边射击边交流、为团队留意危险，比只追求自己的击杀数更容易享受这种战斗。",
       "not_for_players": "如果你想要缓慢独行的恐怖探索，或完全不依赖队友的单人闯关，应先确认这种高强度合作射击是否合口味。",
-      "star_reason": "8 月 26 日保存的观测峰值为 7,131 人。按新规则复算，本期得分 8.02；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "star_reason": "8 月 26 日保存的观测峰值为 7,131 人。按修正后的发行参评规则复算，本期得分 8.02，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
         "与队友进入任务区域，观察敌人来向并展开交战。",
         "在推进中保持距离与互相支援，处理接连出现的威胁，一起完成任务。"
       ],
-      "content_length": 380
+      "content_length": 386
     },
     "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },
@@ -194,6 +195,7 @@
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-08-25",
+      "current_release_date": "2026-08-25",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-26 18:52:18",
       "current_peak": 7131,
@@ -269,7 +271,7 @@
       "release_event_type": "true_new",
       "release_event_date": "2026-08-25",
       "release_event_age_days": 1,
-      "release_event_window_days": 30,
+      "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
@@ -353,12 +355,12 @@
       "reference_frame": "可以从合作战役的分工理解它：你既要瞄准眼前目标，也要留意队友正在应付哪一侧。异形成群逼近，让持续射击、移动与互相照应成为同一件事，电影里的压迫感因此落到玩家操作上。",
       "for_players": "适合喜欢异形题材、愿意和朋友反复打合作任务的人。能接受边射击边交流、为团队留意危险，比只追求自己的击杀数更容易享受这种战斗。",
       "not_for_players": "如果你想要缓慢独行的恐怖探索，或完全不依赖队友的单人闯关，应先确认这种高强度合作射击是否合口味。",
-      "star_reason": "8 月 26 日保存的观测峰值为 7,131 人。按新规则复算，本期得分 8.02；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "star_reason": "8 月 26 日保存的观测峰值为 7,131 人。按修正后的发行参评规则复算，本期得分 8.02，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
         "与队友进入任务区域，观察敌人来向并展开交战。",
         "在推进中保持距离与互相支援，处理接连出现的威胁，一起完成任务。"
       ],
-      "content_length": 380
+      "content_length": 386
     },
     "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },

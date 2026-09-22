@@ -16,6 +16,7 @@
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-08-20",
+      "current_release_date": "2026-08-20",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-21 19:24:05",
       "current_peak": 37613,
@@ -94,7 +95,7 @@
       "release_event_type": "true_new",
       "release_event_date": "2026-08-20",
       "release_event_age_days": 1,
-      "release_event_window_days": 30,
+      "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
@@ -183,13 +184,13 @@
       "reference_frame": "它把钓鱼做成了多人一起处理物体和意外的轻量合作游戏。鱼、鱼竿、船和岛上的地形都会参与互动；钓上来只是开始，怎么搬运、利用和不把场面弄得更乱，才是乐趣所在。",
       "for_players": "适合想和朋友边沟通边制造笑料、喜欢物理互动带来临场变数的人。它的规则入口不高，但愿意配合搬运、驾驶和救场的队伍，更容易把混乱变成一次有记忆点的冒险。",
       "not_for_players": "如果你希望钓鱼过程完全安静、精准且可预测，或不喜欢队友失误、碰撞和物件失控反复打断节奏，这种以意外为核心的合作体验可能会显得吵闹。",
-      "star_reason": "8 月 21 日保存的观测峰值为 37,613 人。按新规则复算，本期得分 49.10；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "star_reason": "8 月 21 日保存的观测峰值为 37,613 人。按修正后的发行参评规则复算，本期得分 49.10，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
         "开船探索岛屿周边，找到可下钩的位置、鱼类和继续前进需要的路径。",
         "抛竿收线，把挣扎的鱼和其他物件拉上船，再和队友一起处理失控的重量、位置与碰撞。",
         "用新钓到的鱼和发现解开下一段路线，调整分工或操作方法，继续向回家目标推进。"
       ],
-      "content_length": 450
+      "content_length": 456
     }
   },
   "main_signal": {
@@ -202,6 +203,7 @@
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-08-20",
+      "current_release_date": "2026-08-20",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-21 19:24:05",
       "current_peak": 37613,
@@ -280,7 +282,7 @@
       "release_event_type": "true_new",
       "release_event_date": "2026-08-20",
       "release_event_age_days": 1,
-      "release_event_window_days": 30,
+      "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
@@ -369,13 +371,13 @@
       "reference_frame": "它把钓鱼做成了多人一起处理物体和意外的轻量合作游戏。鱼、鱼竿、船和岛上的地形都会参与互动；钓上来只是开始，怎么搬运、利用和不把场面弄得更乱，才是乐趣所在。",
       "for_players": "适合想和朋友边沟通边制造笑料、喜欢物理互动带来临场变数的人。它的规则入口不高，但愿意配合搬运、驾驶和救场的队伍，更容易把混乱变成一次有记忆点的冒险。",
       "not_for_players": "如果你希望钓鱼过程完全安静、精准且可预测，或不喜欢队友失误、碰撞和物件失控反复打断节奏，这种以意外为核心的合作体验可能会显得吵闹。",
-      "star_reason": "8 月 21 日保存的观测峰值为 37,613 人。按新规则复算，本期得分 49.10；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "star_reason": "8 月 21 日保存的观测峰值为 37,613 人。按修正后的发行参评规则复算，本期得分 49.10，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
         "开船探索岛屿周边，找到可下钩的位置、鱼类和继续前进需要的路径。",
         "抛竿收线，把挣扎的鱼和其他物件拉上船，再和队友一起处理失控的重量、位置与碰撞。",
         "用新钓到的鱼和发现解开下一段路线，调整分工或操作方法，继续向回家目标推进。"
       ],
-      "content_length": 450
+      "content_length": 456
     }
   },
   "secondary_signals": [],

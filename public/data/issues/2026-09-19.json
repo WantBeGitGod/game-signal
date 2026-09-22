@@ -16,6 +16,7 @@
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-16",
+      "current_release_date": "2026-09-16",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-19 18:02:09",
       "current_peak": 10940,
@@ -93,7 +94,7 @@
       "release_event_type": "true_new",
       "release_event_date": "2026-09-16",
       "release_event_age_days": 3,
-      "release_event_window_days": 30,
+      "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
@@ -102,7 +103,7 @@
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 5,
+      "pre_bonus_model_rank": 7,
       "trend": [
         {
           "date": "2026-09-19",
@@ -171,13 +172,13 @@
       "reference_frame": "理解它的战斗，可以先看两件事：即时战斗里用伙伴连击压制敌人，调整导力器则会改变可用的魔法。前者让你亲手把握进攻，后者让战前配置有用武之地，新战技和 S 战技继续扩充队伍的招数。",
       "for_players": "适合愿意陪角色走完一段长旅程、喜欢研究队伍配置，也享受战斗之间大段故事的玩家。已经玩过上一部、想知道结局之后发生了什么的人，更容易投入。",
       "not_for_players": "如果你想跳过对话连续打怪，或希望完全不补前作就读懂人物牵挂，这种紧接上一部的叙事可能让你不耐烦。",
-      "star_reason": "9 月 19 日保存的观测峰值为 10,940 人。按新规则复算，本期得分 13.54；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "star_reason": "9 月 19 日保存的观测峰值为 10,940 人。按修正后的发行参评规则复算，本期得分 13.54，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
         "跟着线索走访各地，在对话和事件中了解伙伴，也逐步接近约书亚失踪的真相。",
         "调整导力器与队伍能力，在战斗中使用魔法、战技和连携，解决沿途的敌人。",
         "推进故事后继续探索；想换换节奏，可以和伙伴做料理，或去钓鱼、打扑克。"
       ],
-      "content_length": 447
+      "content_length": 453
     },
     "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },
@@ -191,6 +192,7 @@
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-16",
+      "current_release_date": "2026-09-16",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-19 18:02:09",
       "current_peak": 10940,
@@ -268,7 +270,7 @@
       "release_event_type": "true_new",
       "release_event_date": "2026-09-16",
       "release_event_age_days": 3,
-      "release_event_window_days": 30,
+      "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
@@ -277,7 +279,7 @@
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 5,
+      "pre_bonus_model_rank": 7,
       "trend": [
         {
           "date": "2026-09-19",
@@ -346,13 +348,13 @@
       "reference_frame": "理解它的战斗，可以先看两件事：即时战斗里用伙伴连击压制敌人，调整导力器则会改变可用的魔法。前者让你亲手把握进攻，后者让战前配置有用武之地，新战技和 S 战技继续扩充队伍的招数。",
       "for_players": "适合愿意陪角色走完一段长旅程、喜欢研究队伍配置，也享受战斗之间大段故事的玩家。已经玩过上一部、想知道结局之后发生了什么的人，更容易投入。",
       "not_for_players": "如果你想跳过对话连续打怪，或希望完全不补前作就读懂人物牵挂，这种紧接上一部的叙事可能让你不耐烦。",
-      "star_reason": "9 月 19 日保存的观测峰值为 10,940 人。按新规则复算，本期得分 13.54；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "star_reason": "9 月 19 日保存的观测峰值为 10,940 人。按修正后的发行参评规则复算，本期得分 13.54，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
         "跟着线索走访各地，在对话和事件中了解伙伴，也逐步接近约书亚失踪的真相。",
         "调整导力器与队伍能力，在战斗中使用魔法、战技和连携，解决沿途的敌人。",
         "推进故事后继续探索；想换换节奏，可以和伙伴做料理，或去钓鱼、打扑克。"
       ],
-      "content_length": 447
+      "content_length": 453
     },
     "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },

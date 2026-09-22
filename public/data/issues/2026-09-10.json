@@ -16,6 +16,7 @@
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-04",
+      "current_release_date": "2026-09-04",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-10 17:51:18",
       "current_peak": 23605,
@@ -94,7 +95,7 @@
       "release_event_type": "true_new",
       "release_event_date": "2026-09-04",
       "release_event_age_days": 6,
-      "release_event_window_days": 30,
+      "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "identity": "true_new",
@@ -180,12 +181,12 @@
       "reference_frame": "两边需要读懂的局面不同。追猎者要寻找并逼近目标，四人一方则要在推进救援时留意他的动向；你所承担的角色，会改变同一条街道上哪些位置值得接近、哪些位置应该绕开。",
       "for_players": "适合喜欢电影中的追逐气氛，也愿意反复学习地图和对手行为的玩家。和熟悉的队友交流威胁位置，是四人一方的重要体验。",
       "not_for_players": "如果只想安静体验一部单人恐怖故事，或难以接受其他玩家打乱自己的行动节奏，这种不对称对抗可能带来更大压力。",
-      "star_reason": "9 月 10 日保存的观测峰值为 23,605 人。按新规则复算，本期得分 39.41；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "star_reason": "9 月 10 日保存的观测峰值为 23,605 人。按修正后的发行参评规则复算，本期得分 39.41，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
         "进入对局后根据阵营寻找目标，观察周围动静与其他玩家的位置。",
         "迈尔斯持续追猎，四人一方在威胁下互相配合、救援居民，并争取完成各自目标。"
       ],
-      "content_length": 408
+      "content_length": 414
     },
     "secondary_labels": [
       "豪华先行版本"
@@ -201,6 +202,7 @@
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-04",
+      "current_release_date": "2026-09-04",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-10 17:51:18",
       "current_peak": 23605,
@@ -279,7 +281,7 @@
       "release_event_type": "true_new",
       "release_event_date": "2026-09-04",
       "release_event_age_days": 6,
-      "release_event_window_days": 30,
+      "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "identity": "true_new",
@@ -365,12 +367,12 @@
       "reference_frame": "两边需要读懂的局面不同。追猎者要寻找并逼近目标，四人一方则要在推进救援时留意他的动向；你所承担的角色，会改变同一条街道上哪些位置值得接近、哪些位置应该绕开。",
       "for_players": "适合喜欢电影中的追逐气氛，也愿意反复学习地图和对手行为的玩家。和熟悉的队友交流威胁位置，是四人一方的重要体验。",
       "not_for_players": "如果只想安静体验一部单人恐怖故事，或难以接受其他玩家打乱自己的行动节奏，这种不对称对抗可能带来更大压力。",
-      "star_reason": "9 月 10 日保存的观测峰值为 23,605 人。按新规则复算，本期得分 39.41；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "star_reason": "9 月 10 日保存的观测峰值为 23,605 人。按修正后的发行参评规则复算，本期得分 39.41，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
         "进入对局后根据阵营寻找目标，观察周围动静与其他玩家的位置。",
         "迈尔斯持续追猎，四人一方在威胁下互相配合、救援居民，并争取完成各自目标。"
       ],
-      "content_length": 408
+      "content_length": 414
     },
     "secondary_labels": [
       "豪华先行版本"

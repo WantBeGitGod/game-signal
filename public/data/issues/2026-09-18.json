@@ -8,46 +8,47 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 9.29,
-    "fact_summary": "Dimraeth 今日观测峰值 9,718，未超过过往最高峰值 11,464，被识别为「新作起量」。",
+    "type": "formal_release_rise",
+    "label": "正式版起量",
+    "score": 15.89,
+    "fact_summary": "RuneScape: Dragonwilds 今日观测峰值 21,879，未超过过往最高峰值 23,165，被识别为「正式版起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.25,
+      "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
-      "first_playable_date": "2026-09-15",
+      "first_playable_date": "2025-04-15",
+      "current_release_date": "2026-09-15",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-18 17:50:39",
-      "current_peak": 9718,
-      "previous_peak": 11464,
-      "previous_record_peak": 11464,
-      "growth_rate": -0.1523,
-      "record_growth_rate": -0.1523,
-      "scoring_peak": 9718,
+      "current_peak": 21879,
+      "previous_peak": 23165,
+      "previous_record_peak": 23165,
+      "growth_rate": -0.0555,
+      "record_growth_rate": -0.0555,
+      "scoring_peak": 21879,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 8.75,
+      "peak_score": 18.69,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.2103,
+      "growth_score_multiplier": 0.9774,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.2103,
-      "growth_scale_crossing_component": 0.0,
+      "growth_scale_base_component": 0.8586,
+      "growth_scale_crossing_component": 0.1188,
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 8.75,
-      "event_adjusted_score": 8.75,
+      "score_before_multiplier": 18.69,
+      "event_adjusted_score": 18.69,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 10.93,
+      "review_adjusted_score": 18.69,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-18",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.0625,
-      "base_score": 9.29,
+      "combined_score_multiplier": 0.85,
+      "base_score": 15.89,
       "score_multiplier": 0.85,
       "score_multiplier_reasons": [
         "repeat_window_star_1x"
@@ -68,19 +69,17 @@
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": 81.0,
-      "review_total": 1118,
+      "review_total": 30450,
       "days_seen": 3,
       "comeback_gap_days": 1,
-      "is_new_release": true,
+      "is_new_release": false,
       "release_age_days": 3,
       "steam_release_age_days": 3,
-      "release_age_basis": "confirmed_identity",
+      "release_age_basis": "steam_current_release",
       "release_verification_required": false,
       "release_verification": {
-        "source": "initial_review_observation",
-        "initial_review_total": 877,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "source": "verified_prior_playable_release",
+        "first_playable_date": "2025-04-15"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
@@ -89,35 +88,32 @@
       "genres": [
         "动作",
         "冒险",
-        "角色扮演",
-        "抢先体验"
+        "角色扮演"
       ],
       "scoring_version": "watched_games_v1",
-      "release_event_type": "true_new",
+      "release_event_type": "formal_release",
       "release_event_date": "2026-09-15",
       "release_event_age_days": 3,
-      "release_event_window_days": 30,
-      "release_event_multiplier": 1.0,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
       "release_event_evidence": {
-        "source": "initial_review_observation",
-        "initial_review_total": 877,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "source": "verified_prior_playable_release",
+        "first_playable_date": "2025-04-15"
       },
-      "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 5,
+      "release_event_date_basis": "steam_current_release",
+      "pre_bonus_model_rank": 6,
       "trend": [
         {
           "date": "2026-09-16",
-          "peak": 11464
+          "peak": 22611
         },
         {
           "date": "2026-09-17",
-          "peak": 8530
+          "peak": 23165
         },
         {
           "date": "2026-09-18",
-          "peak": 9718
+          "peak": 21879
         }
       ],
       "scoring_rules_as_of": "2026-09-22"
@@ -130,119 +126,118 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/2402680/"
+        "url": "https://store.steampowered.com/app/1374490/"
       }
     ],
     "game": {
-      "slug": "dimraeth",
-      "appid": "2402680",
-      "name": "Dimraeth",
+      "slug": "runescape-dragonwilds",
+      "appid": "1374490",
+      "name": "RuneScape: Dragonwilds",
       "name_cn": null,
-      "description": "一款支持 1–8 人游玩的奇幻像素RPG。 在八大种族与六种职业中塑造你的角色，自由成长并搭配技能。探索古老大陆、精通元素战斗、与伙伴建立羁绊，打造属于你的家园。在 迪姆雷斯的命运之战中，无论独自踏上征程还是与朋友同行，你都能找到属于自己的乐趣。",
+      "description": "在《符文世界》被遗忘的大陆——烬落之地，龙族已然苏醒。在这款多人合作生存冒险游戏中，收集资源、建造家园、修炼技能、打造道具。唯有精通生存之道、揭开远古秘辛，才有资格直面凶残的龙之女王。",
       "release_date": "2026-09-15",
       "genres": [
         "动作",
         "冒险",
-        "角色扮演",
-        "抢先体验"
+        "角色扮演"
       ],
       "tags": [
         "单人",
         "多人",
         "合作",
         "在线合作",
-        "Steam 成就",
-        "完全支持控制器",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DualSense 控制器支持",
-        "DualSense 控制器支持",
+        "可调整文字大小",
+        "自定义音量控制",
+        "随时保存",
+        "立体声",
+        "部分支持控制器",
         "Steam 云",
-        "统计数据",
         "家庭共享"
       ],
       "review_score": "Very Positive",
-      "review_ratio": 80.0,
-      "review_total": 1812,
-      "developer": "Mudtek",
-      "publisher": "Mudtek",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1789631916",
-      "steam_url": "https://store.steampowered.com/app/2402680",
-      "product_family_identity": "appid:2402680",
-      "product_family_appid": "2402680",
+      "review_ratio": 81.0,
+      "review_total": 31076,
+      "developer": "Jagex Ltd",
+      "publisher": "Jagex Ltd, H2 Interactive Co., Ltd., Graph",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/284a46dc9ea5b8424102881a4b8f8599595aa142/header_alt_assets_4_schinese.jpg?t=1789749518",
+      "steam_url": "https://store.steampowered.com/app/1374490",
+      "product_family_identity": "appid:1374490",
+      "product_family_appid": "1374490",
       "product_family_role": "full",
       "trend": [
         {
           "date": "2026-09-16",
-          "peak": 11464
+          "peak": 22611
         },
         {
           "date": "2026-09-17",
-          "peak": 8530
+          "peak": 23165
         },
         {
           "date": "2026-09-18",
-          "peak": 9718
+          "peak": 21879
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Dimraeth》是一款像素风开放世界动作 RPG，可单人游玩，也支持最多八人合作。角色探索世界、搜集材料、制作装备并建设落脚点，再去挑战更危险的敌人；当前为抢先体验。",
-      "reference_frame": "《Terraria》玩家熟悉的“带回资源、改善装备、挑战新区域”可以帮助理解成长。但本作的战斗更强调观察招式与管理耐力，攻击、格挡、闪避和招架需要在敌人面前当场作出取舍。",
-      "for_players": "适合既喜欢制作养成，又愿意亲手练习战斗节奏的人。和朋友共同探索、为下一次出发做准备，也能成为游玩的主要乐趣。",
-      "not_for_players": "只想轻松堆高数值、一路站着输出，或要求抢先体验就提供完整内容的人，需要接受战斗失误和版本尚在扩充的现实。",
-      "star_reason": "9 月 18 日保存的观测峰值为 9,718 人。按新规则复算，本期得分 9.29；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "positioning": "《符文世界：龙之荒野》是一款可以独自冒险、也能和朋友合作的生存制作游戏。你在巨龙出没的大陆采材料、盖家、练技能，把一次次出门的收获变成挑战更强敌人的底气。",
+      "reference_frame": "玩过《幻兽帕鲁》，你会熟悉外出搜集、回家造装、再向危险区域推进的节奏。帕鲁靠伙伴分工改善生产，这里则把成长放进角色技能：练出法术后，能用幽冥巨斧成片伐木、用魔法开矿，连干活的方式也会变。",
+      "for_players": "适合喜欢和朋友共同经营一个家、愿意花时间备战，也享受技能慢慢练起来的玩家。今天造房，明天出征，两种节奏都能接受才容易玩进去。",
+      "not_for_players": "如果你只想连续打怪看剧情，讨厌反复采材料和制作补给，这些战斗之间的准备会让你觉得拖沓。",
+      "star_reason": "9 月 18 日保存的观测峰值为 21,879 人。按修正后的发行参评规则复算，本期得分 15.89，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
-        "探索区域、收集材料，回到据点制作和调整装备、能力。",
-        "观察敌人动作，分配进攻与防守的时机；获得成长后继续前往危险区域。"
+        "到新区域找资源、接任务，把材料带回家扩建设施，制作装备和药水。",
+        "持续修炼技能，解锁天赋与法术，让采集更有效率，也给探索和战斗添新办法。",
+        "带着准备好的装备追踪巨龙；打不过就补物资、练技能，再回来挑战。"
       ],
-      "content_length": 391
+      "content_length": 439
     },
     "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },
   "main_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 9.29,
-    "fact_summary": "Dimraeth 今日观测峰值 9,718，未超过过往最高峰值 11,464，被识别为「新作起量」。",
+    "type": "formal_release_rise",
+    "label": "正式版起量",
+    "score": 15.89,
+    "fact_summary": "RuneScape: Dragonwilds 今日观测峰值 21,879，未超过过往最高峰值 23,165，被识别为「正式版起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.25,
+      "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
-      "first_playable_date": "2026-09-15",
+      "first_playable_date": "2025-04-15",
+      "current_release_date": "2026-09-15",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-18 17:50:39",
-      "current_peak": 9718,
-      "previous_peak": 11464,
-      "previous_record_peak": 11464,
-      "growth_rate": -0.1523,
-      "record_growth_rate": -0.1523,
-      "scoring_peak": 9718,
+      "current_peak": 21879,
+      "previous_peak": 23165,
+      "previous_record_peak": 23165,
+      "growth_rate": -0.0555,
+      "record_growth_rate": -0.0555,
+      "scoring_peak": 21879,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 8.75,
+      "peak_score": 18.69,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.2103,
+      "growth_score_multiplier": 0.9774,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.2103,
-      "growth_scale_crossing_component": 0.0,
+      "growth_scale_base_component": 0.8586,
+      "growth_scale_crossing_component": 0.1188,
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 8.75,
-      "event_adjusted_score": 8.75,
+      "score_before_multiplier": 18.69,
+      "event_adjusted_score": 18.69,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 10.93,
+      "review_adjusted_score": 18.69,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-18",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.0625,
-      "base_score": 9.29,
+      "combined_score_multiplier": 0.85,
+      "base_score": 15.89,
       "score_multiplier": 0.85,
       "score_multiplier_reasons": [
         "repeat_window_star_1x"
@@ -263,19 +258,17 @@
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": 81.0,
-      "review_total": 1118,
+      "review_total": 30450,
       "days_seen": 3,
       "comeback_gap_days": 1,
-      "is_new_release": true,
+      "is_new_release": false,
       "release_age_days": 3,
       "steam_release_age_days": 3,
-      "release_age_basis": "confirmed_identity",
+      "release_age_basis": "steam_current_release",
       "release_verification_required": false,
       "release_verification": {
-        "source": "initial_review_observation",
-        "initial_review_total": 877,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "source": "verified_prior_playable_release",
+        "first_playable_date": "2025-04-15"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
@@ -284,35 +277,32 @@
       "genres": [
         "动作",
         "冒险",
-        "角色扮演",
-        "抢先体验"
+        "角色扮演"
       ],
       "scoring_version": "watched_games_v1",
-      "release_event_type": "true_new",
+      "release_event_type": "formal_release",
       "release_event_date": "2026-09-15",
       "release_event_age_days": 3,
-      "release_event_window_days": 30,
-      "release_event_multiplier": 1.0,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
       "release_event_evidence": {
-        "source": "initial_review_observation",
-        "initial_review_total": 877,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "source": "verified_prior_playable_release",
+        "first_playable_date": "2025-04-15"
       },
-      "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 5,
+      "release_event_date_basis": "steam_current_release",
+      "pre_bonus_model_rank": 6,
       "trend": [
         {
           "date": "2026-09-16",
-          "peak": 11464
+          "peak": 22611
         },
         {
           "date": "2026-09-17",
-          "peak": 8530
+          "peak": 23165
         },
         {
           "date": "2026-09-18",
-          "peak": 9718
+          "peak": 21879
         }
       ],
       "scoring_rules_as_of": "2026-09-22"
@@ -325,74 +315,72 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/2402680/"
+        "url": "https://store.steampowered.com/app/1374490/"
       }
     ],
     "game": {
-      "slug": "dimraeth",
-      "appid": "2402680",
-      "name": "Dimraeth",
+      "slug": "runescape-dragonwilds",
+      "appid": "1374490",
+      "name": "RuneScape: Dragonwilds",
       "name_cn": null,
-      "description": "一款支持 1–8 人游玩的奇幻像素RPG。 在八大种族与六种职业中塑造你的角色，自由成长并搭配技能。探索古老大陆、精通元素战斗、与伙伴建立羁绊，打造属于你的家园。在 迪姆雷斯的命运之战中，无论独自踏上征程还是与朋友同行，你都能找到属于自己的乐趣。",
+      "description": "在《符文世界》被遗忘的大陆——烬落之地，龙族已然苏醒。在这款多人合作生存冒险游戏中，收集资源、建造家园、修炼技能、打造道具。唯有精通生存之道、揭开远古秘辛，才有资格直面凶残的龙之女王。",
       "release_date": "2026-09-15",
       "genres": [
         "动作",
         "冒险",
-        "角色扮演",
-        "抢先体验"
+        "角色扮演"
       ],
       "tags": [
         "单人",
         "多人",
         "合作",
         "在线合作",
-        "Steam 成就",
-        "完全支持控制器",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DualSense 控制器支持",
-        "DualSense 控制器支持",
+        "可调整文字大小",
+        "自定义音量控制",
+        "随时保存",
+        "立体声",
+        "部分支持控制器",
         "Steam 云",
-        "统计数据",
         "家庭共享"
       ],
       "review_score": "Very Positive",
-      "review_ratio": 80.0,
-      "review_total": 1812,
-      "developer": "Mudtek",
-      "publisher": "Mudtek",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1789631916",
-      "steam_url": "https://store.steampowered.com/app/2402680",
-      "product_family_identity": "appid:2402680",
-      "product_family_appid": "2402680",
+      "review_ratio": 81.0,
+      "review_total": 31076,
+      "developer": "Jagex Ltd",
+      "publisher": "Jagex Ltd, H2 Interactive Co., Ltd., Graph",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/284a46dc9ea5b8424102881a4b8f8599595aa142/header_alt_assets_4_schinese.jpg?t=1789749518",
+      "steam_url": "https://store.steampowered.com/app/1374490",
+      "product_family_identity": "appid:1374490",
+      "product_family_appid": "1374490",
       "product_family_role": "full",
       "trend": [
         {
           "date": "2026-09-16",
-          "peak": 11464
+          "peak": 22611
         },
         {
           "date": "2026-09-17",
-          "peak": 8530
+          "peak": 23165
         },
         {
           "date": "2026-09-18",
-          "peak": 9718
+          "peak": 21879
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Dimraeth》是一款像素风开放世界动作 RPG，可单人游玩，也支持最多八人合作。角色探索世界、搜集材料、制作装备并建设落脚点，再去挑战更危险的敌人；当前为抢先体验。",
-      "reference_frame": "《Terraria》玩家熟悉的“带回资源、改善装备、挑战新区域”可以帮助理解成长。但本作的战斗更强调观察招式与管理耐力，攻击、格挡、闪避和招架需要在敌人面前当场作出取舍。",
-      "for_players": "适合既喜欢制作养成，又愿意亲手练习战斗节奏的人。和朋友共同探索、为下一次出发做准备，也能成为游玩的主要乐趣。",
-      "not_for_players": "只想轻松堆高数值、一路站着输出，或要求抢先体验就提供完整内容的人，需要接受战斗失误和版本尚在扩充的现实。",
-      "star_reason": "9 月 18 日保存的观测峰值为 9,718 人。按新规则复算，本期得分 9.29；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "positioning": "《符文世界：龙之荒野》是一款可以独自冒险、也能和朋友合作的生存制作游戏。你在巨龙出没的大陆采材料、盖家、练技能，把一次次出门的收获变成挑战更强敌人的底气。",
+      "reference_frame": "玩过《幻兽帕鲁》，你会熟悉外出搜集、回家造装、再向危险区域推进的节奏。帕鲁靠伙伴分工改善生产，这里则把成长放进角色技能：练出法术后，能用幽冥巨斧成片伐木、用魔法开矿，连干活的方式也会变。",
+      "for_players": "适合喜欢和朋友共同经营一个家、愿意花时间备战，也享受技能慢慢练起来的玩家。今天造房，明天出征，两种节奏都能接受才容易玩进去。",
+      "not_for_players": "如果你只想连续打怪看剧情，讨厌反复采材料和制作补给，这些战斗之间的准备会让你觉得拖沓。",
+      "star_reason": "9 月 18 日保存的观测峰值为 21,879 人。按修正后的发行参评规则复算，本期得分 15.89，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
-        "探索区域、收集材料，回到据点制作和调整装备、能力。",
-        "观察敌人动作，分配进攻与防守的时机；获得成长后继续前往危险区域。"
+        "到新区域找资源、接任务，把材料带回家扩建设施，制作装备和药水。",
+        "持续修炼技能，解锁天赋与法术，让采集更有效率，也给探索和战斗添新办法。",
+        "带着准备好的装备追踪巨龙；打不过就补物资、练技能，再回来挑战。"
       ],
-      "content_length": 391
+      "content_length": 439
     },
     "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },

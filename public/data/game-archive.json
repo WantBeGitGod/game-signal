@@ -1,34 +1,33 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-22T12:20:41",
+  "generated_at": "2026-09-22T15:44:56",
   "games": [
     {
       "game": {
-        "slug": "batomon-showdown",
-        "appid": "4557380",
-        "name": "Batomon Showdown",
-        "name_cn": "斗灵对决",
-        "description": "在这款宠物收集的自走棋游戏中，收集各种斗灵，组建斗灵梦之队，进化独具特色的“斗灵，探索致命的技能协同，构建最强队伍，在快节奏的爽快对战中，击败其他玩家，成为最强训灵师！",
+        "slug": "tcg-card-shop-simulator",
+        "appid": "3070070",
+        "name": "TCG Card Shop Simulator",
+        "name_cn": null,
+        "description": "开设您自己的卡牌商店。摆放最新的补充包，也可以拆开收集卡牌。自行定价、雇佣员工、举办活动，并拓展您的卡牌商店。",
         "genres": [
-          "休闲",
-          "独立",
-          "策略"
+          "模拟"
         ],
-        "developer": "berrymint",
-        "publisher": "berrymint",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557380/49e014590d388d8c3374cc530bfb4424086cce4b/header_schinese.jpg?t=1789470804",
-        "product_family_identity": "appid:4557380",
-        "product_family_appid": "4557380",
+        "developer": "OPNeon Games",
+        "publisher": "OPNeon Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/80b94bfe22c6cd7bd9f66d0af536ae947f9cce3a/header_alt_assets_0.jpg?t=1789528213",
+        "product_family_identity": "appid:3070070",
+        "product_family_appid": "3070070",
         "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
-        "2026-09-21"
+        "2026-09-21",
+        "2026-09-20"
       ],
       "member_appids": [
-        "4557380"
+        "3070070"
       ],
       "article_count": 0,
       "latest_star_date": "2026-09-21"
@@ -56,14 +55,13 @@
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
-        "2026-09-20",
         "2026-09-19"
       ],
       "member_appids": [
         "4225980"
       ],
       "article_count": 0,
-      "latest_star_date": "2026-09-20"
+      "latest_star_date": "2026-09-19"
     },
     {
       "game": {
@@ -89,44 +87,14 @@
       ],
       "article_title": "符文世界：龙之荒野-把生存建造练成一套冒险技能",
       "article_published_at": "2026-09-19",
-      "star_dates": [],
-      "member_appids": [
-        "1374490"
-      ],
-      "article_count": 1,
-      "latest_star_date": null
-    },
-    {
-      "game": {
-        "slug": "dimraeth",
-        "appid": "2402680",
-        "name": "Dimraeth",
-        "name_cn": null,
-        "description": "一款支持 1–8 人游玩的奇幻像素RPG。 在八大种族与六种职业中塑造你的角色，自由成长并搭配技能。探索古老大陆、精通元素战斗、与伙伴建立羁绊，打造属于你的家园。在 迪姆雷斯的命运之战中，无论独自踏上征程还是与朋友同行，你都能找到属于自己的乐趣。",
-        "genres": [
-          "动作",
-          "冒险",
-          "角色扮演",
-          "抢先体验"
-        ],
-        "developer": "Mudtek",
-        "publisher": "Mudtek",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1789631916",
-        "product_family_identity": "appid:2402680",
-        "product_family_appid": "2402680",
-        "product_family_role": "full"
-      },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
       "star_dates": [
         "2026-09-18",
         "2026-09-17"
       ],
       "member_appids": [
-        "2402680"
+        "1374490"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-09-18"
     },
     {
@@ -168,36 +136,6 @@
     },
     {
       "game": {
-        "slug": "halloween-the-game",
-        "appid": "3219630",
-        "name": "Halloween: The Game",
-        "name_cn": null,
-        "description": "1978 年的万圣节之夜，没人能从迈克尔·迈尔斯的手中逃脱。在 Halloween 中，化身“面具杀手”，或者直面邪恶奋起反抗。",
-        "genres": [
-          "动作"
-        ],
-        "developer": "IllFonic",
-        "publisher": "IllFonic Publishing, Co-Publisher: Gun Interactive",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1789433204",
-        "product_family_identity": "appid:3219630",
-        "product_family_appid": "3219630",
-        "product_family_role": "full"
-      },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
-      "star_dates": [
-        "2026-09-15",
-        "2026-09-10"
-      ],
-      "member_appids": [
-        "3219630"
-      ],
-      "article_count": 0,
-      "latest_star_date": "2026-09-15"
-    },
-    {
-      "game": {
         "slug": "wog-war-of-genesis-idle-loot",
         "appid": "4891320",
         "name": "[WoG] War of Genesis: Idle Loot",
@@ -223,14 +161,14 @@
       "article_title": "[WoG] War of Genesis: Idle Loot-把刷装塞进桌面角落",
       "article_published_at": "2026-09-16",
       "star_dates": [
-        "2026-09-14",
-        "2026-09-13"
+        "2026-09-15",
+        "2026-09-14"
       ],
       "member_appids": [
         "4891320"
       ],
       "article_count": 1,
-      "latest_star_date": "2026-09-14"
+      "latest_star_date": "2026-09-15"
     },
     {
       "game": {
@@ -247,7 +185,7 @@
         ],
         "developer": "Iron Gate AB",
         "publisher": "Coffee Stain Publishing",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789098147",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789470462",
         "product_family_identity": "appid:892970",
         "product_family_appid": "892970",
         "product_family_role": "full"
@@ -257,12 +195,15 @@
       ],
       "article_title": "Valheim-重开一张世界的理由",
       "article_published_at": "2026-09-14",
-      "star_dates": [],
+      "star_dates": [
+        "2026-09-13",
+        "2026-09-11"
+      ],
       "member_appids": [
         "892970"
       ],
       "article_count": 1,
-      "latest_star_date": null
+      "latest_star_date": "2026-09-13"
     },
     {
       "game": {
@@ -291,14 +232,74 @@
       "article_title": "WARDOGS-把一场战争存进下一场",
       "article_published_at": "2026-09-15",
       "star_dates": [
-        "2026-09-12",
-        "2026-09-11"
+        "2026-09-12"
       ],
       "member_appids": [
         "1867240"
       ],
       "article_count": 1,
       "latest_star_date": "2026-09-12"
+    },
+    {
+      "game": {
+        "slug": "halloween-the-game",
+        "appid": "3219630",
+        "name": "Halloween: The Game",
+        "name_cn": null,
+        "description": "1978 年的万圣节之夜，没人能从迈克尔·迈尔斯的手中逃脱。在 Halloween 中，化身“面具杀手”，或者直面邪恶奋起反抗。",
+        "genres": [
+          "动作"
+        ],
+        "developer": "IllFonic",
+        "publisher": "IllFonic Publishing, Co-Publisher: Gun Interactive",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1789433204",
+        "product_family_identity": "appid:3219630",
+        "product_family_appid": "3219630",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-09-10"
+      ],
+      "member_appids": [
+        "3219630"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-09-10"
+    },
+    {
+      "game": {
+        "slug": "nba-2k27",
+        "appid": "4356430",
+        "name": "NBA 2K27",
+        "name_cn": null,
+        "description": "在《NBA 2K27》中，拼搏永不停歇，奔跑永无止境。 在 MyCAREER（辉煌生涯）、MyTEAM（梦幻球队）和 MyNBA（篮球联盟）模式中全天候追逐伟大，让你的篮球梦想照进现实。",
+        "genres": [
+          "体育"
+        ],
+        "developer": "Visual Concepts",
+        "publisher": "2K",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1788880577",
+        "product_family_identity": "appid:4356430",
+        "product_family_appid": "4356430",
+        "product_family_role": "full"
+      },
+      "article_slugs": [
+        "nba-2k27"
+      ],
+      "article_title": "NBA 2K27-一场球赛，三份账单",
+      "article_published_at": "2026-09-08",
+      "star_dates": [
+        "2026-09-09",
+        "2026-09-08"
+      ],
+      "member_appids": [
+        "4356430"
+      ],
+      "article_count": 1,
+      "latest_star_date": "2026-09-09"
     },
     {
       "game": {
@@ -324,46 +325,43 @@
       "article_title": "BOMBANANA!-三只猴子把协作解谜炸成了社交压力测试",
       "article_published_at": "2026-09-05",
       "star_dates": [
-        "2026-09-09",
-        "2026-09-06"
+        "2026-09-07"
       ],
       "member_appids": [
         "4656000"
       ],
       "article_count": 1,
-      "latest_star_date": "2026-09-09"
+      "latest_star_date": "2026-09-07"
     },
     {
       "game": {
-        "slug": "nba-2k27",
-        "appid": "4356430",
-        "name": "NBA 2K27",
+        "slug": "crimson-desert-enhanced",
+        "appid": "3321460",
+        "name": "Crimson Desert Enhanced",
         "name_cn": null,
-        "description": "在《NBA 2K27》中，拼搏永不停歇，奔跑永无止境。 在 MyCAREER（辉煌生涯）、MyTEAM（梦幻球队）和 MyNBA（篮球联盟）模式中全天候追逐伟大，让你的篮球梦想照进现实。",
+        "description": "以帕卫尔大陆为背景展开的开放世界动作冒险游戏——《红色沙漠》。 你将化身灰鬃的克里夫，踏上夺回失去的一切、从迫近的威胁中拯救世界的旅程。 驰骋广袤的野生大陆、深入隐藏的古代遗迹、行走于神秘的阿比斯领域，在战斗、探险与发现中开辟只属于你的道路。",
         "genres": [
-          "体育"
+          "动作",
+          "冒险"
         ],
-        "developer": "Visual Concepts",
-        "publisher": "2K",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1788880577",
-        "product_family_identity": "appid:4356430",
-        "product_family_appid": "4356430",
+        "developer": "Pearl Abyss",
+        "publisher": "Pearl Abyss",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/72caf7e120e63fcf25b92e3b4b6477b76baffa45/header_schinese.jpg?t=1789020763",
+        "product_family_identity": "appid:3321460",
+        "product_family_appid": "3321460",
         "product_family_role": "full"
       },
-      "article_slugs": [
-        "nba-2k27"
-      ],
-      "article_title": "NBA 2K27-一场球赛，三份账单",
-      "article_published_at": "2026-09-08",
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
       "star_dates": [
-        "2026-09-08",
-        "2026-09-07"
+        "2026-09-06"
       ],
       "member_appids": [
-        "4356430"
+        "3321460"
       ],
-      "article_count": 1,
-      "latest_star_date": "2026-09-08"
+      "article_count": 0,
+      "latest_star_date": "2026-09-06"
     },
     {
       "game": {
@@ -434,68 +432,6 @@
     },
     {
       "game": {
-        "slug": "metal-gear-solid-4-guns-of-the-patriots-master-collection-version",
-        "appid": "2492670",
-        "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
-        "name_cn": null,
-        "description": "Solid Snake的最后任务。 在“Big Shell”事件的五年后，随着 PMC（Private Military Contractor）的崛起，战争逐渐转变为一门生意。为了阻止Liquid Ocelot叛变，传奇英雄Solid Snake将迎来他的最终之战。",
-        "genres": [
-          "动作",
-          "冒险"
-        ],
-        "developer": "KONAMI",
-        "publisher": "KONAMI",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492670/458033bb7aad4e6b8a61af0f7798d23db2683864/header.jpg?t=1787835863",
-        "product_family_identity": "appid:2492670",
-        "product_family_appid": "2492670",
-        "product_family_role": "full"
-      },
-      "article_slugs": [
-        "metal-gear-solid-4-guns-of-the-patriots-master-collection-version"
-      ],
-      "article_title": "合金装备4-迟到十八年的潜入课",
-      "article_published_at": "2026-09-02",
-      "star_dates": [],
-      "member_appids": [
-        "2492670"
-      ],
-      "article_count": 1,
-      "latest_star_date": null
-    },
-    {
-      "game": {
-        "slug": "breathedge-2",
-        "appid": "2412960",
-        "name": "Breathedge 2",
-        "name_cn": null,
-        "description": "在宇宙边缘活下去！制作并升级工具，从残骸中搜刮资源，拯救一个已经彻底乱套的银河系。一个普普通通的爷们儿、一只不死的鸡，再加上一点强力胶带，真能救下整个宇宙吗？",
-        "genres": [
-          "动作",
-          "角色扮演",
-          "模拟",
-          "抢先体验"
-        ],
-        "developer": "RedRuins Softworks",
-        "publisher": "HypeTrain Digital",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412960/cd085c90ed33d237d1f624c923e91f8aa17ce6c8/header_alt_assets_1_schinese.jpg?t=1788324312",
-        "product_family_identity": "appid:2412960",
-        "product_family_appid": "2412960",
-        "product_family_role": "full"
-      },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
-      "star_dates": [
-        "2026-09-02"
-      ],
-      "member_appids": [
-        "2412960"
-      ],
-      "article_count": 0,
-      "latest_star_date": "2026-09-02"
-    },
-    {
-      "game": {
         "slug": "my-party-is-grinding",
         "appid": "4952980",
         "name": "My Party Is Grinding",
@@ -517,14 +453,43 @@
       ],
       "article_title": "My Party Is Grinding-你的电脑替你上班",
       "article_published_at": "2026-09-04",
-      "star_dates": [
-        "2026-09-01"
-      ],
+      "star_dates": [],
       "member_appids": [
         "4952980"
       ],
       "article_count": 1,
-      "latest_star_date": "2026-09-01"
+      "latest_star_date": null
+    },
+    {
+      "game": {
+        "slug": "forza-horizon-6",
+        "appid": "2483190",
+        "name": "Forza Horizon 6",
+        "name_cn": null,
+        "description": "驾驶超过 550 辆真实存在的赛车，探索日本的绝美风光，在 极限竞速：地平线 有史以来最宏大的冒险中成为竞速传奇。",
+        "genres": [
+          "竞速",
+          "模拟",
+          "体育"
+        ],
+        "developer": "Playground Games",
+        "publisher": "Xbox Game Studios",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/aec13616ef2adf9908ab2bf185f6e0557d6603ef/header_alt_assets_3.jpg?t=1788545100",
+        "product_family_identity": "appid:2483190",
+        "product_family_appid": "2483190",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-09-02"
+      ],
+      "member_appids": [
+        "2483190"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-09-02"
     },
     {
       "game": {
@@ -549,91 +514,66 @@
       ],
       "article_title": "Big Ambitions-把纽约跑成一张报表",
       "article_published_at": "2026-09-01",
-      "star_dates": [],
+      "star_dates": [
+        "2026-09-01",
+        "2026-08-31"
+      ],
       "member_appids": [
         "1331550"
       ],
       "article_count": 1,
-      "latest_star_date": null
+      "latest_star_date": "2026-09-01"
     },
     {
       "game": {
-        "slug": "big-walk",
-        "appid": "1478500",
-        "name": "Big Walk",
+        "slug": "metal-gear-solid-4-guns-of-the-patriots-master-collection-version",
+        "appid": "2492670",
+        "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
         "name_cn": null,
-        "description": "与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。",
-        "genres": [
-          "冒险"
-        ],
-        "developer": "House House",
-        "publisher": "Panic",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
-        "product_family_identity": "appid:1478500",
-        "product_family_appid": "1478500",
-        "product_family_role": "full"
-      },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
-      "star_dates": [
-        "2026-08-31",
-        "2026-08-11",
-        "2026-08-06"
-      ],
-      "member_appids": [
-        "1478500"
-      ],
-      "article_count": 0,
-      "latest_star_date": "2026-08-31"
-    },
-    {
-      "game": {
-        "slug": "shadow-dungeon",
-        "appid": "4423580",
-        "name": "Shadow Dungeon",
-        "name_cn": null,
-        "description": "梦魇般的怪物自黑暗中爬行而出，魔王潜伏于深渊之下。踏入暗影地牢，杀出一条血路，书写属于你的传奇史诗。",
+        "description": "Solid Snake的最后任务。 在“Big Shell”事件的五年后，随着 PMC（Private Military Contractor）的崛起，战争逐渐转变为一门生意。为了阻止Liquid Ocelot叛变，传奇英雄Solid Snake将迎来他的最终之战。",
         "genres": [
           "动作",
-          "冒险",
-          "角色扮演"
+          "冒险"
         ],
-        "developer": "OO Cat",
-        "publisher": "OO Cat",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4423580/c7169de56a893cba3b8dba5674f6c4fe34ca96ab/header.jpg?t=1787744876",
-        "product_family_identity": "appid:4423580",
-        "product_family_appid": "4423580",
+        "developer": "KONAMI",
+        "publisher": "KONAMI",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492670/458033bb7aad4e6b8a61af0f7798d23db2683864/header.jpg?t=1788263343",
+        "product_family_identity": "appid:2492670",
+        "product_family_appid": "2492670",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "metal-gear-solid-4-guns-of-the-patriots-master-collection-version"
+      ],
+      "article_title": "合金装备4-迟到十八年的潜入课",
+      "article_published_at": "2026-09-02",
       "star_dates": [
         "2026-08-30"
       ],
       "member_appids": [
-        "4423580"
+        "2492670"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-08-30"
     },
     {
       "game": {
-        "slug": "resonance-a-plague-tale-legacy",
-        "appid": "2713000",
-        "name": "Resonance: A Plague Tale Legacy",
+        "slug": "far-far-west",
+        "appid": "3124540",
+        "name": "Far Far West",
         "name_cn": null,
-        "description": "本作的原创剧情在时间线上早于获奖作品《瘟疫传说》的故事，你将化身索菲亚，前往米诺陶岛，智取强敌，揭晓古老的秘密，直面凶煞诅咒之源的神话生物。",
+        "description": "大吼咿哈快上马，西部牛仔英姿飒！《遥遥西土》是一款热闹非凡的4人合作射击游戏，你将踏上西行旅途，一路斩妖杀怪、施法念咒、完成任务、领取赏金。召集队友，完成任务，然后趁你还活着（大多数时候）赶紧拿钱走人。",
         "genres": [
           "动作",
-          "冒险"
+          "冒险",
+          "独立",
+          "抢先体验"
         ],
-        "developer": "Asobo Studio",
-        "publisher": "Focus Entertainment",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/6dfa1d9ef7205356c608c8ec59122dc6d71716e4/header_schinese.jpg?t=1788365423",
-        "product_family_identity": "appid:2713000",
-        "product_family_appid": "2713000",
+        "developer": "Evil Raptor",
+        "publisher": "Fireshine Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/584d539800958040b08013c125126c1eb2a8c0c7/header_schinese.jpg?t=1787841818",
+        "product_family_identity": "appid:3124540",
+        "product_family_appid": "3124540",
         "product_family_role": "full"
       },
       "article_slugs": [],
@@ -643,7 +583,7 @@
         "2026-08-29"
       ],
       "member_appids": [
-        "2713000"
+        "3124540"
       ],
       "article_count": 0,
       "latest_star_date": "2026-08-29"
@@ -715,32 +655,32 @@
     },
     {
       "game": {
-        "slug": "shao-song-i",
-        "appid": "4292950",
-        "name": "Shao Song I",
+        "slug": "yet-another-zombie-survivors",
+        "appid": "2163330",
+        "name": "Yet Another Zombie Survivors",
         "name_cn": null,
-        "description": "这是一款沉浸式真人互动历史权谋影视游戏！你将化身赵玖，魂穿南宋最具争议的皇帝赵构，每次抉择都将左右王朝气运、定夺天下兴亡！面对靖康之变后的山河破碎，你能否打破宿命再造山河？真人互动影视游戏《绍宋：还我河山》邀你于乱世绝境之中，一起喊出宋可亡，天下不可亡的怒吼！",
+        "description": "大群敌人即将到来，但你已经做好了战斗准备！召集你的队伍并决定他们的各种增强，以找到对付成千上万不死生物最有效的组合。努力生存，然后进化。然后在这个看似简单但令人上瘾的反转弹雨游戏中打破所有限制。",
         "genres": [
-          "角色扮演",
-          "模拟",
-          "策略"
+          "动作",
+          "休闲",
+          "独立",
+          "角色扮演"
         ],
-        "developer": "互动之星, 猫眼娱乐",
-        "publisher": "猫眼娱乐, 互动之星",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292950/dfd52caf6453e43b4d613a662064aca4924a7858/header.jpg?t=1787201131",
-        "product_family_identity": "appid:4292950",
-        "product_family_appid": "4292950",
+        "developer": "Awesome Games Studio",
+        "publisher": "Awesome Games Studio",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2163330/2523656dd84e2455ba980622bfdd5b653e57fcf6/header_alt_assets_2_schinese.jpg?t=1787858180",
+        "product_family_identity": "appid:2163330",
+        "product_family_appid": "2163330",
         "product_family_role": "full"
       },
       "article_slugs": [],
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
-        "2026-08-25",
-        "2026-08-24"
+        "2026-08-25"
       ],
       "member_appids": [
-        "4292950"
+        "2163330"
       ],
       "article_count": 0,
       "latest_star_date": "2026-08-25"
@@ -768,12 +708,39 @@
       "article_title": "使命召唤：现代战争4-公开测试不是广告片",
       "article_published_at": "2026-08-25",
       "star_dates": [
-        "2026-08-23"
+        "2026-08-24"
       ],
       "member_appids": [
         "4783780"
       ],
       "article_count": 1,
+      "latest_star_date": "2026-08-24"
+    },
+    {
+      "game": {
+        "slug": "wardogs-playtest",
+        "appid": "4809930",
+        "name": "WARDOGS Playtest",
+        "name_cn": null,
+        "description": "",
+        "genres": [],
+        "developer": "",
+        "publisher": "",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4809930/964155a6380ecfe36a6ccf723079b250b09f65f4/header.jpg?t=1785144389",
+        "product_family_identity": "appid:4809930",
+        "product_family_appid": "4809930",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-08-23"
+      ],
+      "member_appids": [
+        "4809930"
+      ],
+      "article_count": 0,
       "latest_star_date": "2026-08-23"
     },
     {
@@ -1037,6 +1004,36 @@
       ],
       "article_count": 1,
       "latest_star_date": "2026-08-12"
+    },
+    {
+      "game": {
+        "slug": "big-walk",
+        "appid": "1478500",
+        "name": "Big Walk",
+        "name_cn": null,
+        "description": "与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。",
+        "genres": [
+          "冒险"
+        ],
+        "developer": "House House",
+        "publisher": "Panic",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
+        "product_family_identity": "appid:1478500",
+        "product_family_appid": "1478500",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-08-11",
+        "2026-08-06"
+      ],
+      "member_appids": [
+        "1478500"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-08-11"
     },
     {
       "game": {

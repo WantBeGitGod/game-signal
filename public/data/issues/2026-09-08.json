@@ -10,12 +10,13 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 20.61,
+    "score": 24.25,
     "fact_summary": "NBA 2K27 今日观测峰值 29,695，未超过过往最高峰值 31,174，被识别为「新作起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-08-26",
+      "current_release_date": "2026-09-03",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-08 17:50:23",
       "current_peak": 29695,
@@ -49,25 +50,23 @@
         "评分背离",
         "豪华先行版本"
       ],
-      "combined_score_multiplier": 0.9562,
-      "base_score": 20.61,
-      "score_multiplier": 0.85,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "combined_score_multiplier": 1.125,
+      "base_score": 24.25,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": 52.0,
@@ -102,7 +101,7 @@
       "release_event_type": "true_new",
       "release_event_date": "2026-08-26",
       "release_event_age_days": 13,
-      "release_event_window_days": 30,
+      "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "title": "NBA 2K27 ADVANCED ACCESS STARTS NOW",
@@ -143,9 +142,9 @@
       "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
@@ -224,13 +223,13 @@
       "reference_frame": "《EA SPORTS College Football 27》能解释“比赛结果回写为长期投入”：胜负会改变下一步。《NBA 2K27》的连续篮球攻防则接向 MyCAREER、MyNBA 与 MyTEAM，不沿用美式橄榄球的开球和大学项目结构。",
       "for_players": "适合愿意练投篮时机、空间判断和防守轮转，也愿意长期养球队或自建球员的玩家。喜欢 Build、阵容和线上组队的人，更能吃到它的体量。",
       "not_for_players": "如果你只想轻松离线打几场球、不愿学习站位与时机，或厌烦账户、通行证、卡牌和在线服务带来的长线任务，这款年货可能让你觉得负担大过球场本身。",
-      "star_reason": "9 月 8 日保存的观测峰值为 29,695 人。按新规则复算，本期得分 20.61；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "star_reason": "9 月 8 日保存的观测峰值为 29,695 人。按修正后的发行参评规则复算，本期得分 24.25，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
         "读防守和队友跑位，用运球、掩护或传球制造出手条件。",
         "处理投篮节奏与干扰，再用协防、卡位和篮板压缩对手选择。",
         "把比赛表现投入 MyCAREER、MyNBA 或 MyTEAM，再调整下一场目标。"
       ],
-      "content_length": 452
+      "content_length": 458
     },
     "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。",
     "secondary_labels": [
@@ -242,12 +241,13 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 20.61,
+    "score": 24.25,
     "fact_summary": "NBA 2K27 今日观测峰值 29,695，未超过过往最高峰值 31,174，被识别为「新作起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-08-26",
+      "current_release_date": "2026-09-03",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-08 17:50:23",
       "current_peak": 29695,
@@ -281,25 +281,23 @@
         "评分背离",
         "豪华先行版本"
       ],
-      "combined_score_multiplier": 0.9562,
-      "base_score": 20.61,
-      "score_multiplier": 0.85,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "combined_score_multiplier": 1.125,
+      "base_score": 24.25,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": 52.0,
@@ -334,7 +332,7 @@
       "release_event_type": "true_new",
       "release_event_date": "2026-08-26",
       "release_event_age_days": 13,
-      "release_event_window_days": 30,
+      "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "title": "NBA 2K27 ADVANCED ACCESS STARTS NOW",
@@ -375,9 +373,9 @@
       "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
@@ -456,13 +454,13 @@
       "reference_frame": "《EA SPORTS College Football 27》能解释“比赛结果回写为长期投入”：胜负会改变下一步。《NBA 2K27》的连续篮球攻防则接向 MyCAREER、MyNBA 与 MyTEAM，不沿用美式橄榄球的开球和大学项目结构。",
       "for_players": "适合愿意练投篮时机、空间判断和防守轮转，也愿意长期养球队或自建球员的玩家。喜欢 Build、阵容和线上组队的人，更能吃到它的体量。",
       "not_for_players": "如果你只想轻松离线打几场球、不愿学习站位与时机，或厌烦账户、通行证、卡牌和在线服务带来的长线任务，这款年货可能让你觉得负担大过球场本身。",
-      "star_reason": "9 月 8 日保存的观测峰值为 29,695 人。按新规则复算，本期得分 20.61；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "star_reason": "9 月 8 日保存的观测峰值为 29,695 人。按修正后的发行参评规则复算，本期得分 24.25，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
         "读防守和队友跑位，用运球、掩护或传球制造出手条件。",
         "处理投篮节奏与干扰，再用协防、卡位和篮板压缩对手选择。",
         "把比赛表现投入 MyCAREER、MyNBA 或 MyTEAM，再调整下一场目标。"
       ],
-      "content_length": 452
+      "content_length": 458
     },
     "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。",
     "secondary_labels": [

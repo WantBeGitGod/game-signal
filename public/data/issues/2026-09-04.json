@@ -16,6 +16,7 @@
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-02",
+      "current_release_date": "2026-09-02",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-04 17:50:20",
       "current_peak": 64386,
@@ -95,7 +96,7 @@
       "release_event_type": "true_new",
       "release_event_date": "2026-09-02",
       "release_event_age_days": 2,
-      "release_event_window_days": 30,
+      "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
@@ -182,13 +183,13 @@
       "reference_frame": "它将第三人称动作 RPG 的攻防与成长，放进带时限的路线冒险。探索不耗时，推进特定任务才会让时间前进；每次行动都要决定身份、优先级和取舍。",
       "for_players": "适合喜欢阴郁奇幻、愿意读线索并主动安排路线的玩家。若你享受动作 RPG 的技能投入，也希望身份让同一处障碍出现不同解法，这套昼夜结构会有吸引力。",
       "not_for_players": "若你更想无压力清完开放世界图标、绝不漏支线，或只期待一路向前的线性动作流程，任务推进带来的时间取舍可能会压过探索乐趣；第三人称近战的时机、距离和准备也需要耐心适应。",
-      "star_reason": "9 月 4 日保存的观测峰值为 64,386 人。按新规则复算，本期得分 73.60；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "star_reason": "9 月 4 日保存的观测峰值为 64,386 人。按修正后的发行参评规则复算，本期得分 73.60，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
         "在 Vale Sangora 找人物、地点和线索，判断眼下最值得投入的一条任务线。",
         "结合昼夜与敌我位置，选择剑术、巫术或吸血鬼能力来战斗、调查或绕过阻碍。",
         "接受任务推进带来的时间消耗、线索和成长变化，再为下一段路线重新排序。"
       ],
-      "content_length": 466
+      "content_length": 472
     }
   },
   "main_signal": {
@@ -201,6 +202,7 @@
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-02",
+      "current_release_date": "2026-09-02",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-04 17:50:20",
       "current_peak": 64386,
@@ -280,7 +282,7 @@
       "release_event_type": "true_new",
       "release_event_date": "2026-09-02",
       "release_event_age_days": 2,
-      "release_event_window_days": 30,
+      "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
@@ -367,13 +369,13 @@
       "reference_frame": "它将第三人称动作 RPG 的攻防与成长，放进带时限的路线冒险。探索不耗时，推进特定任务才会让时间前进；每次行动都要决定身份、优先级和取舍。",
       "for_players": "适合喜欢阴郁奇幻、愿意读线索并主动安排路线的玩家。若你享受动作 RPG 的技能投入，也希望身份让同一处障碍出现不同解法，这套昼夜结构会有吸引力。",
       "not_for_players": "若你更想无压力清完开放世界图标、绝不漏支线，或只期待一路向前的线性动作流程，任务推进带来的时间取舍可能会压过探索乐趣；第三人称近战的时机、距离和准备也需要耐心适应。",
-      "star_reason": "9 月 4 日保存的观测峰值为 64,386 人。按新规则复算，本期得分 73.60；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "star_reason": "9 月 4 日保存的观测峰值为 64,386 人。按修正后的发行参评规则复算，本期得分 73.60，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
         "在 Vale Sangora 找人物、地点和线索，判断眼下最值得投入的一条任务线。",
         "结合昼夜与敌我位置，选择剑术、巫术或吸血鬼能力来战斗、调查或绕过阻碍。",
         "接受任务推进带来的时间消耗、线索和成长变化，再为下一段路线重新排序。"
       ],
-      "content_length": 466
+      "content_length": 472
     }
   },
   "secondary_signals": [],

@@ -1,0 +1,65 @@
+{
+  "slug": "tcg-card-shop-simulator",
+  "appid": "3070070",
+  "name": "TCG Card Shop Simulator",
+  "name_cn": null,
+  "description": "开设您自己的卡牌商店。摆放最新的补充包，也可以拆开收集卡牌。自行定价、雇佣员工、举办活动，并拓展您的卡牌商店。",
+  "release_date": "2026-09-14",
+  "genres": [
+    "模拟"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "视角舒适度",
+    "自定义音量控制",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "随时保存",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Overwhelmingly Positive",
+  "review_ratio": 96.0,
+  "review_total": 50009,
+  "developer": "OPNeon Games",
+  "publisher": "OPNeon Games",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/80b94bfe22c6cd7bd9f66d0af536ae947f9cce3a/header_alt_assets_0.jpg?t=1789528213",
+  "steam_url": "https://store.steampowered.com/app/3070070",
+  "product_family_identity": "appid:3070070",
+  "product_family_appid": "3070070",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-09-15",
+      "peak": 7318
+    },
+    {
+      "date": "2026-09-16",
+      "peak": 9885
+    },
+    {
+      "date": "2026-09-17",
+      "peak": 7265
+    },
+    {
+      "date": "2026-09-18",
+      "peak": 9036
+    },
+    {
+      "date": "2026-09-19",
+      "peak": 9491
+    },
+    {
+      "date": "2026-09-20",
+      "peak": 11306
+    },
+    {
+      "date": "2026-09-21",
+      "peak": 12328
+    }
+  ]
+}

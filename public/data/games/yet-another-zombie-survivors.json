@@ -1,0 +1,70 @@
+{
+  "slug": "yet-another-zombie-survivors",
+  "appid": "2163330",
+  "name": "Yet Another Zombie Survivors",
+  "name_cn": null,
+  "description": "大群敌人即将到来，但你已经做好了战斗准备！召集你的队伍并决定他们的各种增强，以找到对付成千上万不死生物最有效的组合。努力生存，然后进化。然后在这个看似简单但令人上瘾的反转弹雨游戏中打破所有限制。",
+  "release_date": "2026-08-20",
+  "genres": [
+    "动作",
+    "休闲",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "可调整难度",
+    "可以仅用键盘",
+    "可以仅用鼠标",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "Steam 排行榜",
+    "在电视上远程畅玩",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 91.0,
+  "review_total": 14847,
+  "developer": "Awesome Games Studio",
+  "publisher": "Awesome Games Studio",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2163330/2523656dd84e2455ba980622bfdd5b653e57fcf6/header_alt_assets_2_schinese.jpg?t=1787858180",
+  "steam_url": "https://store.steampowered.com/app/2163330",
+  "product_family_identity": "appid:2163330",
+  "product_family_appid": "2163330",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-08-20",
+      "peak": 5524
+    },
+    {
+      "date": "2026-08-21",
+      "peak": 8030
+    },
+    {
+      "date": "2026-08-22",
+      "peak": 8030
+    },
+    {
+      "date": "2026-08-23",
+      "peak": 9972
+    },
+    {
+      "date": "2026-08-24",
+      "peak": 8173
+    },
+    {
+      "date": "2026-08-25",
+      "peak": 8173
+    }
+  ]
+}

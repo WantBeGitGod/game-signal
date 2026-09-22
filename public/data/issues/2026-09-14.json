@@ -10,12 +10,13 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 24.99,
+    "score": 29.4,
     "fact_summary": "[WoG] War of Genesis: Idle Loot 今日观测峰值 28,237，较过往最高峰值提升 +15%，被识别为「新作起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-10",
+      "current_release_date": "2026-09-10",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-14 17:59:37",
       "current_peak": 28237,
@@ -48,25 +49,23 @@
       "secondary_labels": [
         "评分背离"
       ],
-      "combined_score_multiplier": 0.9562,
-      "base_score": 24.99,
-      "score_multiplier": 0.85,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "combined_score_multiplier": 1.125,
+      "base_score": 29.4,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": 59.0,
@@ -99,7 +98,7 @@
       "release_event_type": "true_new",
       "release_event_date": "2026-09-10",
       "release_event_age_days": 4,
-      "release_event_window_days": 30,
+      "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
@@ -108,7 +107,7 @@
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 4,
+      "pre_bonus_model_rank": 5,
       "trend": [
         {
           "date": "2026-09-11",
@@ -130,9 +129,9 @@
       "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
@@ -203,13 +202,13 @@
       "reference_frame": "玩过《TBH: Task Bar Hero》，就容易理解这种“平时放着跑，有好掉落再介入”的节奏。WoG 把像素小队换成 3D 英雄，还接入联盟 Raid、世界首领和 PvP，让刷到的装备有更多检验配置的去处。",
       "for_players": "适合喜欢装备成长、愿意反复微调配置，却没有整段时间刷图的人；桌面常驻能把一次长时间游玩拆成许多短暂回看。",
       "not_for_players": "如果乐趣主要来自亲手走位、连招和击杀，自动战斗可能很快变得无聊；不喜欢筛选随机掉落或在线交易的人，也容易觉得整理装备麻烦。",
-      "star_reason": "9 月 14 日保存的观测峰值为 28,237 人。按新规则复算，本期得分 24.99；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "star_reason": "9 月 14 日保存的观测峰值为 28,237 人。按修正后的发行参评规则复算，本期得分 29.40，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
         "让英雄自动战斗，积累武器、护甲和宝石。",
         "回看掉落，换上适合当前配置的装备，把可交易的物品放进 Steam 社区市场。",
         "用调整后的配置挑战首领或竞技场，遇到卡点再回来继续刷装。"
       ],
-      "content_length": 435
+      "content_length": 441
     },
     "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。",
     "secondary_labels": [
@@ -220,12 +219,13 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 24.99,
+    "score": 29.4,
     "fact_summary": "[WoG] War of Genesis: Idle Loot 今日观测峰值 28,237，较过往最高峰值提升 +15%，被识别为「新作起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-10",
+      "current_release_date": "2026-09-10",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-14 17:59:37",
       "current_peak": 28237,
@@ -258,25 +258,23 @@
       "secondary_labels": [
         "评分背离"
       ],
-      "combined_score_multiplier": 0.9562,
-      "base_score": 24.99,
-      "score_multiplier": 0.85,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "combined_score_multiplier": 1.125,
+      "base_score": 29.4,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": 59.0,
@@ -309,7 +307,7 @@
       "release_event_type": "true_new",
       "release_event_date": "2026-09-10",
       "release_event_age_days": 4,
-      "release_event_window_days": 30,
+      "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
@@ -318,7 +316,7 @@
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 4,
+      "pre_bonus_model_rank": 5,
       "trend": [
         {
           "date": "2026-09-11",
@@ -340,9 +338,9 @@
       "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
@@ -413,13 +411,13 @@
       "reference_frame": "玩过《TBH: Task Bar Hero》，就容易理解这种“平时放着跑，有好掉落再介入”的节奏。WoG 把像素小队换成 3D 英雄，还接入联盟 Raid、世界首领和 PvP，让刷到的装备有更多检验配置的去处。",
       "for_players": "适合喜欢装备成长、愿意反复微调配置，却没有整段时间刷图的人；桌面常驻能把一次长时间游玩拆成许多短暂回看。",
       "not_for_players": "如果乐趣主要来自亲手走位、连招和击杀，自动战斗可能很快变得无聊；不喜欢筛选随机掉落或在线交易的人，也容易觉得整理装备麻烦。",
-      "star_reason": "9 月 14 日保存的观测峰值为 28,237 人。按新规则复算，本期得分 24.99；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "star_reason": "9 月 14 日保存的观测峰值为 28,237 人。按修正后的发行参评规则复算，本期得分 29.40，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
         "让英雄自动战斗，积累武器、护甲和宝石。",
         "回看掉落，换上适合当前配置的装备，把可交易的物品放进 Steam 社区市场。",
         "用调整后的配置挑战首领或竞技场，遇到卡点再回来继续刷装。"
       ],
-      "content_length": 435
+      "content_length": 441
     },
     "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。",
     "secondary_labels": [

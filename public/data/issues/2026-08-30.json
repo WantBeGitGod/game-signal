@@ -10,44 +10,45 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 7.79,
-    "fact_summary": "Shadow Dungeon 今日观测峰值 5,588，未超过过往最高峰值 5,925，被识别为「新作起量」。",
+    "score": 11.11,
+    "fact_summary": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version 今日观测峰值 7,763，未超过过往最高峰值 8,988，被识别为「新作起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
-      "first_playable_date": "2026-08-26",
+      "first_playable_date": "2026-08-27",
+      "current_release_date": "2026-08-27",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-30 18:00:00",
-      "current_peak": 5588,
-      "previous_peak": 5925,
-      "previous_record_peak": 5925,
-      "growth_rate": -0.0569,
-      "record_growth_rate": -0.0569,
-      "scoring_peak": 5588,
+      "current_peak": 7763,
+      "previous_peak": 8988,
+      "previous_record_peak": 8988,
+      "growth_rate": -0.1363,
+      "record_growth_rate": -0.1363,
+      "scoring_peak": 7763,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 5.03,
+      "peak_score": 6.99,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.0562,
+      "growth_score_multiplier": 0.1293,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.0562,
+      "growth_scale_base_component": 0.1293,
       "growth_scale_crossing_component": 0.0,
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 5.03,
-      "event_adjusted_score": 5.03,
+      "score_before_multiplier": 6.99,
+      "event_adjusted_score": 6.99,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 6.29,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 9.61,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-08-30",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.25,
-      "base_score": 6.29,
+      "combined_score_multiplier": 1.375,
+      "base_score": 9.61,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -65,18 +66,18 @@
       "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 3,
       "unstarred_runner_up_bonus": 1.5,
-      "review_ratio": 80.0,
-      "review_total": 865,
-      "days_seen": 5,
-      "comeback_gap_days": 1,
+      "review_ratio": 96.0,
+      "review_total": 1415,
+      "days_seen": 3,
+      "comeback_gap_days": 0,
       "is_new_release": true,
-      "release_age_days": 4,
-      "steam_release_age_days": 4,
+      "release_age_days": 3,
+      "steam_release_age_days": 3,
       "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 532,
+        "initial_review_total": 833,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -86,43 +87,34 @@
       "comeback_evidence": null,
       "genres": [
         "动作",
-        "冒险",
-        "角色扮演"
+        "冒险"
       ],
       "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
-      "release_event_date": "2026-08-26",
-      "release_event_age_days": 4,
-      "release_event_window_days": 30,
+      "release_event_date": "2026-08-27",
+      "release_event_age_days": 3,
+      "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 532,
+        "initial_review_total": 833,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 3,
+      "pre_bonus_model_rank": 2,
       "trend": [
         {
-          "date": "2026-08-26",
-          "peak": 5172
-        },
-        {
-          "date": "2026-08-27",
-          "peak": 5172
-        },
-        {
           "date": "2026-08-28",
-          "peak": 5925
+          "peak": 8988
         },
         {
           "date": "2026-08-29",
-          "peak": 5925
+          "peak": 7651
         },
         {
           "date": "2026-08-30",
-          "peak": 5588
+          "peak": 7763
         }
       ],
       "scoring_rules_as_of": "2026-09-22"
@@ -135,79 +127,74 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4423580/"
+        "url": "https://store.steampowered.com/app/2492670/"
       }
     ],
     "game": {
-      "slug": "shadow-dungeon",
-      "appid": "4423580",
-      "name": "Shadow Dungeon",
+      "slug": "metal-gear-solid-4-guns-of-the-patriots-master-collection-version",
+      "appid": "2492670",
+      "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
       "name_cn": null,
-      "description": "梦魇般的怪物自黑暗中爬行而出，魔王潜伏于深渊之下。踏入暗影地牢，杀出一条血路，书写属于你的传奇史诗。",
-      "release_date": "2026-08-26",
+      "description": "Solid Snake的最后任务。 在“Big Shell”事件的五年后，随着 PMC（Private Military Contractor）的崛起，战争逐渐转变为一门生意。为了阻止Liquid Ocelot叛变，传奇英雄Solid Snake将迎来他的最终之战。",
+      "release_date": "2026-08-27",
       "genres": [
         "动作",
-        "冒险",
-        "角色扮演"
+        "冒险"
       ],
       "tags": [
         "单人",
+        "Steam 成就",
         "完全支持控制器",
-        "视角舒适度",
-        "#category_contrast_controls",
+        "Steam 集换式卡牌",
         "自定义音量控制",
-        "#category_playable_at_your_own_pace",
-        "无需应对快速反应事件",
-        "随时保存",
+        "可调整难度",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
         "立体声",
+        "环绕声",
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 80.0,
-      "review_total": 1080,
-      "developer": "OO Cat",
-      "publisher": "OO Cat",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4423580/c7169de56a893cba3b8dba5674f6c4fe34ca96ab/header.jpg?t=1787744876",
-      "steam_url": "https://store.steampowered.com/app/4423580",
-      "product_family_identity": "appid:4423580",
-      "product_family_appid": "4423580",
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 96.0,
+      "review_total": 2204,
+      "developer": "KONAMI",
+      "publisher": "KONAMI",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492670/458033bb7aad4e6b8a61af0f7798d23db2683864/header.jpg?t=1788263343",
+      "steam_url": "https://store.steampowered.com/app/2492670",
+      "product_family_identity": "appid:2492670",
+      "product_family_appid": "2492670",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-08-26",
-          "peak": 5172
-        },
-        {
-          "date": "2026-08-27",
-          "peak": 5172
-        },
-        {
           "date": "2026-08-28",
-          "peak": 5925
+          "peak": 8988
         },
         {
           "date": "2026-08-29",
-          "peak": 5925
+          "peak": 7651
         },
         {
           "date": "2026-08-30",
-          "peak": 5588
+          "peak": 7763
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Shadow Dungeon》是一款复古暗黑风的单人动作 RPG。你选择职业，进入地牢与遗迹对抗怪物，在不断掉落的装备中寻找适合自己的组合，逐步形成能应对更危险敌群的打法。",
-      "reference_frame": "可以把重点放在“这件装备如何改变我的技能”上：职业天赋与物品能力共同决定战斗方式。探索得到的战利品，需要经过比较和搭配，才能在下一场即时战斗中真正发挥作用。",
-      "for_players": "适合喜欢翻看掉落、反复试验流派，也愿意接受复古视觉表现的刷宝玩家。乐趣来自把零散物品凑成能解释其作用的一套配置。",
-      "not_for_players": "如果你期待精致的电影叙事、多人共同刷本，或不愿花时间阅读装备效果，这种以单人战斗和长期构筑为中心的节奏可能显得重复。",
-      "star_reason": "8 月 30 日保存的观测峰值为 5,588 人。按新规则复算，本期得分 7.79；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "positioning": "《METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version》是一款单人潜行动作游戏。你操控年迈的 Solid Snake 穿过被私人军事公司占据的战区，追踪 Liquid Ocelot，为这条延续多年的故事收尾。",
+      "reference_frame": "它仍以“尽量不被发现地完成渗透”为核心，但战场并非静止的巡逻关卡。交战双方会让路线和警戒不断变化，你可以借混乱潜行，也可以使用枪械与装备正面脱身。",
+      "for_players": "适合喜欢潜行、战场观察和电影化叙事，也愿意补完 Solid Snake 最后任务的玩家；能接受潜行与枪战交替，会更容易进入它的节奏。",
+      "not_for_players": "如果你不喜欢长过场、系列设定和大量剧情信息，只想连续进行短促的纯潜入关卡，叙事比重可能显得过高；期待现代开放世界结构的人也应先调整预期。",
+      "star_reason": "8 月 30 日保存的观测峰值为 7,763 人。按修正后的发行参评规则复算，本期得分 11.11，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
-        "进入区域，用当前技能与装备击败敌群，搜集掉落和成长资源。",
-        "比较物品效果、调整天赋与装备，再用新的搭配挑战更难的区域与首领。"
+        "观察士兵、掩体与交火方向，选择绕行、贴近或制造空档的渗透路线。",
+        "利用迷彩、潜行动作和武器处理阻碍，在暴露后重新拉开距离、摆脱追踪。",
+        "穿过战区并推进任务，在长篇过场、首领战和潜入段落之间逐步揭开系列谜团。"
       ],
-      "content_length": 396
+      "content_length": 499
     },
     "selection_note": "本期顺延入选：更高评分候选未满足本期入选条件。"
   },
@@ -215,44 +202,45 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 7.79,
-    "fact_summary": "Shadow Dungeon 今日观测峰值 5,588，未超过过往最高峰值 5,925，被识别为「新作起量」。",
+    "score": 11.11,
+    "fact_summary": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version 今日观测峰值 7,763，未超过过往最高峰值 8,988，被识别为「新作起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
-      "first_playable_date": "2026-08-26",
+      "first_playable_date": "2026-08-27",
+      "current_release_date": "2026-08-27",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-30 18:00:00",
-      "current_peak": 5588,
-      "previous_peak": 5925,
-      "previous_record_peak": 5925,
-      "growth_rate": -0.0569,
-      "record_growth_rate": -0.0569,
-      "scoring_peak": 5588,
+      "current_peak": 7763,
+      "previous_peak": 8988,
+      "previous_record_peak": 8988,
+      "growth_rate": -0.1363,
+      "record_growth_rate": -0.1363,
+      "scoring_peak": 7763,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 5.03,
+      "peak_score": 6.99,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.0562,
+      "growth_score_multiplier": 0.1293,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.0562,
+      "growth_scale_base_component": 0.1293,
       "growth_scale_crossing_component": 0.0,
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 5.03,
-      "event_adjusted_score": 5.03,
+      "score_before_multiplier": 6.99,
+      "event_adjusted_score": 6.99,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 6.29,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 9.61,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-08-30",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.25,
-      "base_score": 6.29,
+      "combined_score_multiplier": 1.375,
+      "base_score": 9.61,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -270,18 +258,18 @@
       "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 3,
       "unstarred_runner_up_bonus": 1.5,
-      "review_ratio": 80.0,
-      "review_total": 865,
-      "days_seen": 5,
-      "comeback_gap_days": 1,
+      "review_ratio": 96.0,
+      "review_total": 1415,
+      "days_seen": 3,
+      "comeback_gap_days": 0,
       "is_new_release": true,
-      "release_age_days": 4,
-      "steam_release_age_days": 4,
+      "release_age_days": 3,
+      "steam_release_age_days": 3,
       "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 532,
+        "initial_review_total": 833,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -291,43 +279,34 @@
       "comeback_evidence": null,
       "genres": [
         "动作",
-        "冒险",
-        "角色扮演"
+        "冒险"
       ],
       "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
-      "release_event_date": "2026-08-26",
-      "release_event_age_days": 4,
-      "release_event_window_days": 30,
+      "release_event_date": "2026-08-27",
+      "release_event_age_days": 3,
+      "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 532,
+        "initial_review_total": 833,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 3,
+      "pre_bonus_model_rank": 2,
       "trend": [
         {
-          "date": "2026-08-26",
-          "peak": 5172
-        },
-        {
-          "date": "2026-08-27",
-          "peak": 5172
-        },
-        {
           "date": "2026-08-28",
-          "peak": 5925
+          "peak": 8988
         },
         {
           "date": "2026-08-29",
-          "peak": 5925
+          "peak": 7651
         },
         {
           "date": "2026-08-30",
-          "peak": 5588
+          "peak": 7763
         }
       ],
       "scoring_rules_as_of": "2026-09-22"
@@ -340,79 +319,74 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4423580/"
+        "url": "https://store.steampowered.com/app/2492670/"
       }
     ],
     "game": {
-      "slug": "shadow-dungeon",
-      "appid": "4423580",
-      "name": "Shadow Dungeon",
+      "slug": "metal-gear-solid-4-guns-of-the-patriots-master-collection-version",
+      "appid": "2492670",
+      "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
       "name_cn": null,
-      "description": "梦魇般的怪物自黑暗中爬行而出，魔王潜伏于深渊之下。踏入暗影地牢，杀出一条血路，书写属于你的传奇史诗。",
-      "release_date": "2026-08-26",
+      "description": "Solid Snake的最后任务。 在“Big Shell”事件的五年后，随着 PMC（Private Military Contractor）的崛起，战争逐渐转变为一门生意。为了阻止Liquid Ocelot叛变，传奇英雄Solid Snake将迎来他的最终之战。",
+      "release_date": "2026-08-27",
       "genres": [
         "动作",
-        "冒险",
-        "角色扮演"
+        "冒险"
       ],
       "tags": [
         "单人",
+        "Steam 成就",
         "完全支持控制器",
-        "视角舒适度",
-        "#category_contrast_controls",
+        "Steam 集换式卡牌",
         "自定义音量控制",
-        "#category_playable_at_your_own_pace",
-        "无需应对快速反应事件",
-        "随时保存",
+        "可调整难度",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
         "立体声",
+        "环绕声",
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 80.0,
-      "review_total": 1080,
-      "developer": "OO Cat",
-      "publisher": "OO Cat",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4423580/c7169de56a893cba3b8dba5674f6c4fe34ca96ab/header.jpg?t=1787744876",
-      "steam_url": "https://store.steampowered.com/app/4423580",
-      "product_family_identity": "appid:4423580",
-      "product_family_appid": "4423580",
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 96.0,
+      "review_total": 2204,
+      "developer": "KONAMI",
+      "publisher": "KONAMI",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492670/458033bb7aad4e6b8a61af0f7798d23db2683864/header.jpg?t=1788263343",
+      "steam_url": "https://store.steampowered.com/app/2492670",
+      "product_family_identity": "appid:2492670",
+      "product_family_appid": "2492670",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-08-26",
-          "peak": 5172
-        },
-        {
-          "date": "2026-08-27",
-          "peak": 5172
-        },
-        {
           "date": "2026-08-28",
-          "peak": 5925
+          "peak": 8988
         },
         {
           "date": "2026-08-29",
-          "peak": 5925
+          "peak": 7651
         },
         {
           "date": "2026-08-30",
-          "peak": 5588
+          "peak": 7763
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Shadow Dungeon》是一款复古暗黑风的单人动作 RPG。你选择职业，进入地牢与遗迹对抗怪物，在不断掉落的装备中寻找适合自己的组合，逐步形成能应对更危险敌群的打法。",
-      "reference_frame": "可以把重点放在“这件装备如何改变我的技能”上：职业天赋与物品能力共同决定战斗方式。探索得到的战利品，需要经过比较和搭配，才能在下一场即时战斗中真正发挥作用。",
-      "for_players": "适合喜欢翻看掉落、反复试验流派，也愿意接受复古视觉表现的刷宝玩家。乐趣来自把零散物品凑成能解释其作用的一套配置。",
-      "not_for_players": "如果你期待精致的电影叙事、多人共同刷本，或不愿花时间阅读装备效果，这种以单人战斗和长期构筑为中心的节奏可能显得重复。",
-      "star_reason": "8 月 30 日保存的观测峰值为 5,588 人。按新规则复算，本期得分 7.79；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "positioning": "《METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version》是一款单人潜行动作游戏。你操控年迈的 Solid Snake 穿过被私人军事公司占据的战区，追踪 Liquid Ocelot，为这条延续多年的故事收尾。",
+      "reference_frame": "它仍以“尽量不被发现地完成渗透”为核心，但战场并非静止的巡逻关卡。交战双方会让路线和警戒不断变化，你可以借混乱潜行，也可以使用枪械与装备正面脱身。",
+      "for_players": "适合喜欢潜行、战场观察和电影化叙事，也愿意补完 Solid Snake 最后任务的玩家；能接受潜行与枪战交替，会更容易进入它的节奏。",
+      "not_for_players": "如果你不喜欢长过场、系列设定和大量剧情信息，只想连续进行短促的纯潜入关卡，叙事比重可能显得过高；期待现代开放世界结构的人也应先调整预期。",
+      "star_reason": "8 月 30 日保存的观测峰值为 7,763 人。按修正后的发行参评规则复算，本期得分 11.11，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
-        "进入区域，用当前技能与装备击败敌群，搜集掉落和成长资源。",
-        "比较物品效果、调整天赋与装备，再用新的搭配挑战更难的区域与首领。"
+        "观察士兵、掩体与交火方向，选择绕行、贴近或制造空档的渗透路线。",
+        "利用迷彩、潜行动作和武器处理阻碍，在暴露后重新拉开距离、摆脱追踪。",
+        "穿过战区并推进任务，在长篇过场、首领战和潜入段落之间逐步揭开系列谜团。"
       ],
-      "content_length": 396
+      "content_length": 499
     },
     "selection_note": "本期顺延入选：更高评分候选未满足本期入选条件。"
   },

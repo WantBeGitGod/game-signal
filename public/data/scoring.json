@@ -2,6 +2,8 @@
   "schema_version": "2.3.0",
   "watched_games_scoring_effective_date": "2026-09-21",
   "new_game_score_multiplier": 1.25,
+  "release_observation_window_days": 180,
+  "new_game_bonus_window_days": 30,
   "daily_balance_effective_date": "2026-09-07",
   "balanced_peak_score_weight": 40.0,
   "balanced_peak_score_cap": 80000,

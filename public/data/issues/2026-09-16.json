@@ -16,6 +16,7 @@
       "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-15",
+      "current_release_date": "2026-09-15",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-16 19:00:00",
       "current_peak": 127914,
@@ -63,7 +64,7 @@
       "total_star_count": 1,
       "star_appearance_count": 1,
       "cumulative_star_count": 0,
-      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_streak_days": 1,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": null,
       "review_total": 0,
@@ -97,7 +98,7 @@
       "release_event_type": "pending",
       "release_event_date": "2026-09-15",
       "release_event_age_days": 1,
-      "release_event_window_days": 30,
+      "release_event_window_days": 180,
       "release_event_multiplier": 0.85,
       "release_event_evidence": {
         "source": "initial_review_observation",
@@ -106,7 +107,7 @@
         "verification_status": "pending"
       },
       "release_event_date_basis": "actual_open_date",
-      "pre_bonus_model_rank": 1,
+      "pre_bonus_model_rank": 2,
       "trend": [
         {
           "date": "2026-09-16",
@@ -180,14 +181,15 @@
       "reference_frame": "可以借《幻兽帕鲁》理解边探索边捕捉、让伙伴参与行动的乐趣。《伊莫》的特色是“联结”：直接变成收集到的生物，用它们的能力战斗、解谜，以及滑翔、潜水和钻地。",
       "for_players": "适合喜欢收集生物、尝试不同移动能力，也愿意和朋友在大世界里闲逛的人。",
       "not_for_players": "如果你不喜欢反复寻找和捕捉生物，收集过程可能很快变成负担；夺蛋玩法还有其他玩家参与，不能按纯合作冒险来期待。",
-      "star_reason": "9 月 16 日保存的观测峰值为 127,914 人。按新规则复算，本期得分 40.00；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "star_reason": "9 月 16 日保存的观测峰值为 127,914 人。按修正后的发行参评规则复算，本期得分 40.00，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
         "探索不同环境，寻找会随天气和时间出现的伊莫，选准时机捕捉。",
         "培养并联结伙伴，用新能力穿过地形、解开谜题，再寻找新的生物。",
         "想与人较量时，可三人组队参加夺蛋玩法，一边寻找目标，一边应对其他队伍。"
       ],
-      "content_length": 388
-    }
+      "content_length": 394
+    },
+    "selection_note": "本期顺延入选：更高评分候选未满足本期入选条件。"
   },
   "main_signal": {
     "rank": 1,
@@ -199,6 +201,7 @@
       "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-15",
+      "current_release_date": "2026-09-15",
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-16 19:00:00",
       "current_peak": 127914,
@@ -246,7 +249,7 @@
       "total_star_count": 1,
       "star_appearance_count": 1,
       "cumulative_star_count": 0,
-      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_streak_days": 1,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": null,
       "review_total": 0,
@@ -280,7 +283,7 @@
       "release_event_type": "pending",
       "release_event_date": "2026-09-15",
       "release_event_age_days": 1,
-      "release_event_window_days": 30,
+      "release_event_window_days": 180,
       "release_event_multiplier": 0.85,
       "release_event_evidence": {
         "source": "initial_review_observation",
@@ -289,7 +292,7 @@
         "verification_status": "pending"
       },
       "release_event_date_basis": "actual_open_date",
-      "pre_bonus_model_rank": 1,
+      "pre_bonus_model_rank": 2,
       "trend": [
         {
           "date": "2026-09-16",
@@ -363,14 +366,15 @@
       "reference_frame": "可以借《幻兽帕鲁》理解边探索边捕捉、让伙伴参与行动的乐趣。《伊莫》的特色是“联结”：直接变成收集到的生物，用它们的能力战斗、解谜，以及滑翔、潜水和钻地。",
       "for_players": "适合喜欢收集生物、尝试不同移动能力，也愿意和朋友在大世界里闲逛的人。",
       "not_for_players": "如果你不喜欢反复寻找和捕捉生物，收集过程可能很快变成负担；夺蛋玩法还有其他玩家参与，不能按纯合作冒险来期待。",
-      "star_reason": "9 月 16 日保存的观测峰值为 127,914 人。按新规则复算，本期得分 40.00；结合此前摘星记录与入选条件，成为本期今日之星。",
+      "star_reason": "9 月 16 日保存的观测峰值为 127,914 人。按修正后的发行参评规则复算，本期得分 40.00，并通过摘星次数与增长门槛，成为本期今日之星。",
       "core_loop": [
         "探索不同环境，寻找会随天气和时间出现的伊莫，选准时机捕捉。",
         "培养并联结伙伴，用新能力穿过地形、解开谜题，再寻找新的生物。",
         "想与人较量时，可三人组队参加夺蛋玩法，一边寻找目标，一边应对其他队伍。"
       ],
-      "content_length": 388
-    }
+      "content_length": 394
+    },
+    "selection_note": "本期顺延入选：更高评分候选未满足本期入选条件。"
   },
   "secondary_signals": [],
   "candidate_signals": []
