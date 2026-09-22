@@ -8,15 +8,19 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
+    "type": "established_release_rise",
+    "label": "老游起量",
     "score": 75.0,
-    "fact_summary": "WARDOGS Playtest 今日观测峰值 102,430，较过往最高峰值提升 +139%，被识别为「新作起量」。",
+    "fact_summary": "WARDOGS Playtest 今日观测峰值 102,430，较过往最高峰值提升 +139%，被识别为「老游起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
       "first_playable_date": "2026-07-03",
       "current_release_date": "2026-07-03",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-23 18:50:58",
       "current_peak": 102430,
@@ -70,7 +74,7 @@
       "review_total": 406,
       "days_seen": 6,
       "comeback_gap_days": 12,
-      "is_new_release": true,
+      "is_new_release": false,
       "release_age_days": 51,
       "steam_release_age_days": 51,
       "release_age_basis": "steam_release",
@@ -126,7 +130,7 @@
           "peak": 102430
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 1,
@@ -191,26 +195,40 @@
       "reference_frame": "理解它可以从目标战场入手：个人击杀需要转化成队伍能继续前进的空间。你选择的路线、支援时机和投入的装备，会影响队友能否接近目标；地图上的局面会随着其他玩家的行动持续变化。",
       "for_players": "适合熟悉多人射击、喜欢团队争夺，也愿意在测试阶段反馈问题的玩家。愿意为队伍行动调整自己的节奏，会比只关注个人击杀更容易投入。",
       "not_for_players": "测试客户端的开放时间与正式游戏分开。若希望随时进入稳定、内容完整的成品，需要先确认测试安排，不能把这一期热度当作正式版已经发行。",
-      "star_reason": "8 月 23 日保存的观测峰值为 102,430 人。按修正后的发行参评规则复算，本期得分 75.00，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "8 月 23 日保存的观测峰值为 102,430 人。本期规则评分 75.00，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "进入测试对局，观察目标和队友位置，选择装备与进场路线。",
         "通过交火和协作推动目标，阵亡或战线变化后重新判断路线，继续参与战斗。"
       ],
-      "content_length": 438
+      "content_length": 425
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 2。",
+    "selection_context": {
+      "model_rank": 2,
+      "leader": {
+        "name": "How to Fish",
+        "appid": "4001890",
+        "score": 77.34,
+        "reason": "处于摘星冷却期，至 2026-08-29 结束。",
+        "url": "https://store.steampowered.com/app/4001890/"
+      }
+    }
   },
   "main_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
+    "type": "established_release_rise",
+    "label": "老游起量",
     "score": 75.0,
-    "fact_summary": "WARDOGS Playtest 今日观测峰值 102,430，较过往最高峰值提升 +139%，被识别为「新作起量」。",
+    "fact_summary": "WARDOGS Playtest 今日观测峰值 102,430，较过往最高峰值提升 +139%，被识别为「老游起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
       "first_playable_date": "2026-07-03",
       "current_release_date": "2026-07-03",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-23 18:50:58",
       "current_peak": 102430,
@@ -264,7 +282,7 @@
       "review_total": 406,
       "days_seen": 6,
       "comeback_gap_days": 12,
-      "is_new_release": true,
+      "is_new_release": false,
       "release_age_days": 51,
       "steam_release_age_days": 51,
       "release_age_basis": "steam_release",
@@ -320,7 +338,7 @@
           "peak": 102430
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 1,
@@ -385,14 +403,24 @@
       "reference_frame": "理解它可以从目标战场入手：个人击杀需要转化成队伍能继续前进的空间。你选择的路线、支援时机和投入的装备，会影响队友能否接近目标；地图上的局面会随着其他玩家的行动持续变化。",
       "for_players": "适合熟悉多人射击、喜欢团队争夺，也愿意在测试阶段反馈问题的玩家。愿意为队伍行动调整自己的节奏，会比只关注个人击杀更容易投入。",
       "not_for_players": "测试客户端的开放时间与正式游戏分开。若希望随时进入稳定、内容完整的成品，需要先确认测试安排，不能把这一期热度当作正式版已经发行。",
-      "star_reason": "8 月 23 日保存的观测峰值为 102,430 人。按修正后的发行参评规则复算，本期得分 75.00，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "8 月 23 日保存的观测峰值为 102,430 人。本期规则评分 75.00，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "进入测试对局，观察目标和队友位置，选择装备与进场路线。",
         "通过交火和协作推动目标，阵亡或战线变化后重新判断路线，继续参与战斗。"
       ],
-      "content_length": 438
+      "content_length": 425
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 2。",
+    "selection_context": {
+      "model_rank": 2,
+      "leader": {
+        "name": "How to Fish",
+        "appid": "4001890",
+        "score": 77.34,
+        "reason": "处于摘星冷却期，至 2026-08-29 结束。",
+        "url": "https://store.steampowered.com/app/4001890/"
+      }
+    }
   },
   "secondary_signals": [],
   "candidate_signals": []

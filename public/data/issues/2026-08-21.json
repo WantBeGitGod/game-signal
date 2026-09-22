@@ -17,6 +17,10 @@
       "watched_games_scoring": true,
       "first_playable_date": "2026-08-20",
       "current_release_date": "2026-08-20",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-21 19:24:05",
       "current_peak": 37613,
@@ -115,7 +119,7 @@
           "peak": 37613
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 1,
@@ -159,7 +163,7 @@
       ],
       "review_score": "Overwhelmingly Positive",
       "review_ratio": 95.0,
-      "review_total": 67895,
+      "review_total": 68385,
       "developer": "Dazed Games",
       "publisher": "Dazed Games",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
@@ -184,13 +188,13 @@
       "reference_frame": "它把钓鱼做成了多人一起处理物体和意外的轻量合作游戏。鱼、鱼竿、船和岛上的地形都会参与互动；钓上来只是开始，怎么搬运、利用和不把场面弄得更乱，才是乐趣所在。",
       "for_players": "适合想和朋友边沟通边制造笑料、喜欢物理互动带来临场变数的人。它的规则入口不高，但愿意配合搬运、驾驶和救场的队伍，更容易把混乱变成一次有记忆点的冒险。",
       "not_for_players": "如果你希望钓鱼过程完全安静、精准且可预测，或不喜欢队友失误、碰撞和物件失控反复打断节奏，这种以意外为核心的合作体验可能会显得吵闹。",
-      "star_reason": "8 月 21 日保存的观测峰值为 37,613 人。按修正后的发行参评规则复算，本期得分 49.10，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "8 月 21 日保存的观测峰值为 37,613 人。本期规则评分 49.10，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "开船探索岛屿周边，找到可下钩的位置、鱼类和继续前进需要的路径。",
         "抛竿收线，把挣扎的鱼和其他物件拉上船，再和队友一起处理失控的重量、位置与碰撞。",
         "用新钓到的鱼和发现解开下一段路线，调整分工或操作方法，继续向回家目标推进。"
       ],
-      "content_length": 456
+      "content_length": 443
     }
   },
   "main_signal": {
@@ -204,6 +208,10 @@
       "watched_games_scoring": true,
       "first_playable_date": "2026-08-20",
       "current_release_date": "2026-08-20",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-21 19:24:05",
       "current_peak": 37613,
@@ -302,7 +310,7 @@
           "peak": 37613
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 1,
@@ -346,7 +354,7 @@
       ],
       "review_score": "Overwhelmingly Positive",
       "review_ratio": 95.0,
-      "review_total": 67895,
+      "review_total": 68385,
       "developer": "Dazed Games",
       "publisher": "Dazed Games",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
@@ -371,13 +379,13 @@
       "reference_frame": "它把钓鱼做成了多人一起处理物体和意外的轻量合作游戏。鱼、鱼竿、船和岛上的地形都会参与互动；钓上来只是开始，怎么搬运、利用和不把场面弄得更乱，才是乐趣所在。",
       "for_players": "适合想和朋友边沟通边制造笑料、喜欢物理互动带来临场变数的人。它的规则入口不高，但愿意配合搬运、驾驶和救场的队伍，更容易把混乱变成一次有记忆点的冒险。",
       "not_for_players": "如果你希望钓鱼过程完全安静、精准且可预测，或不喜欢队友失误、碰撞和物件失控反复打断节奏，这种以意外为核心的合作体验可能会显得吵闹。",
-      "star_reason": "8 月 21 日保存的观测峰值为 37,613 人。按修正后的发行参评规则复算，本期得分 49.10，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "8 月 21 日保存的观测峰值为 37,613 人。本期规则评分 49.10，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "开船探索岛屿周边，找到可下钩的位置、鱼类和继续前进需要的路径。",
         "抛竿收线，把挣扎的鱼和其他物件拉上船，再和队友一起处理失控的重量、位置与碰撞。",
         "用新钓到的鱼和发现解开下一段路线，调整分工或操作方法，继续向回家目标推进。"
       ],
-      "content_length": 456
+      "content_length": 443
     }
   },
   "secondary_signals": [],

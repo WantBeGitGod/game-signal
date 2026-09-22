@@ -17,6 +17,10 @@
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-10",
       "current_release_date": "2026-09-10",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-15 16:31:07",
       "current_peak": 32410,
@@ -109,7 +113,7 @@
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 5,
+      "pre_bonus_model_rank": 3,
       "trend": [
         {
           "date": "2026-09-11",
@@ -132,7 +136,7 @@
           "peak": 32410
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 2,
@@ -212,15 +216,25 @@
       "reference_frame": "玩过《TBH: Task Bar Hero》，就容易理解这种“平时放着跑，有好掉落再介入”的节奏。WoG 把像素小队换成 3D 英雄，还接入联盟 Raid、世界首领和 PvP，让刷到的装备有更多检验配置的去处。",
       "for_players": "适合喜欢装备成长、愿意反复微调配置，却没有整段时间刷图的人；桌面常驻能把一次长时间游玩拆成许多短暂回看。",
       "not_for_players": "如果乐趣主要来自亲手走位、连招和击杀，自动战斗可能很快变得无聊；不喜欢筛选随机掉落或在线交易的人，也容易觉得整理装备麻烦。",
-      "star_reason": "9 月 15 日保存的观测峰值为 32,410 人。按修正后的发行参评规则复算，本期得分 26.51，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "9 月 15 日保存的观测峰值为 32,410 人。本期规则评分 26.51，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "让英雄自动战斗，积累武器、护甲和宝石。",
         "回看掉落，换上适合当前配置的装备，把可交易的物品放进 Steam 社区市场。",
         "用调整后的配置挑战首领或竞技场，遇到卡点再回来继续刷装。"
       ],
-      "content_length": 441
+      "content_length": 428
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。",
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "Valheim",
+        "appid": "892970",
+        "score": 41.25,
+        "reason": "处于摘星冷却期，至 2026-09-18 结束。",
+        "url": "https://store.steampowered.com/app/892970/"
+      }
+    },
     "secondary_labels": [
       "评分背离"
     ]
@@ -236,6 +250,10 @@
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-10",
       "current_release_date": "2026-09-10",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-15 16:31:07",
       "current_peak": 32410,
@@ -328,7 +346,7 @@
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 5,
+      "pre_bonus_model_rank": 3,
       "trend": [
         {
           "date": "2026-09-11",
@@ -351,7 +369,7 @@
           "peak": 32410
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 2,
@@ -431,15 +449,25 @@
       "reference_frame": "玩过《TBH: Task Bar Hero》，就容易理解这种“平时放着跑，有好掉落再介入”的节奏。WoG 把像素小队换成 3D 英雄，还接入联盟 Raid、世界首领和 PvP，让刷到的装备有更多检验配置的去处。",
       "for_players": "适合喜欢装备成长、愿意反复微调配置，却没有整段时间刷图的人；桌面常驻能把一次长时间游玩拆成许多短暂回看。",
       "not_for_players": "如果乐趣主要来自亲手走位、连招和击杀，自动战斗可能很快变得无聊；不喜欢筛选随机掉落或在线交易的人，也容易觉得整理装备麻烦。",
-      "star_reason": "9 月 15 日保存的观测峰值为 32,410 人。按修正后的发行参评规则复算，本期得分 26.51，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "9 月 15 日保存的观测峰值为 32,410 人。本期规则评分 26.51，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "让英雄自动战斗，积累武器、护甲和宝石。",
         "回看掉落，换上适合当前配置的装备，把可交易的物品放进 Steam 社区市场。",
         "用调整后的配置挑战首领或竞技场，遇到卡点再回来继续刷装。"
       ],
-      "content_length": 441
+      "content_length": 428
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。",
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "Valheim",
+        "appid": "892970",
+        "score": 41.25,
+        "reason": "处于摘星冷却期，至 2026-09-18 结束。",
+        "url": "https://store.steampowered.com/app/892970/"
+      }
+    },
     "secondary_labels": [
       "评分背离"
     ]

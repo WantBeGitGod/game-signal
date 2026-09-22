@@ -17,6 +17,10 @@
       "watched_games_scoring": true,
       "first_playable_date": "2026-08-26",
       "current_release_date": "2026-09-03",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-09 17:50:29",
       "current_peak": 27131,
@@ -145,7 +149,7 @@
           "peak": 27131
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 2,
@@ -233,15 +237,25 @@
       "reference_frame": "《EA SPORTS College Football 27》能解释“比赛结果回写为长期投入”：胜负会改变下一步。《NBA 2K27》的连续篮球攻防则接向 MyCAREER、MyNBA 与 MyTEAM，不沿用美式橄榄球的开球和大学项目结构。",
       "for_players": "适合愿意练投篮时机、空间判断和防守轮转，也愿意长期养球队或自建球员的玩家。喜欢 Build、阵容和线上组队的人，更能吃到它的体量。",
       "not_for_players": "如果你只想轻松离线打几场球、不愿学习站位与时机，或厌烦账户、通行证、卡牌和在线服务带来的长线任务，这款年货可能让你觉得负担大过球场本身。",
-      "star_reason": "9 月 9 日保存的观测峰值为 27,131 人。按修正后的发行参评规则复算，本期得分 19.71，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "9 月 9 日保存的观测峰值为 27,131 人。本期规则评分 19.71，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "读防守和队友跑位，用运球、掩护或传球制造出手条件。",
         "处理投篮节奏与干扰，再用协防、卡位和篮板压缩对手选择。",
         "把比赛表现投入 MyCAREER、MyNBA 或 MyTEAM，再调整下一场目标。"
       ],
-      "content_length": 458
+      "content_length": 445
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。",
+    "selection_note": "本期为递补入选，原评分排名第 4。",
+    "selection_context": {
+      "model_rank": 4,
+      "leader": {
+        "name": "Onimusha: Way of the Sword",
+        "appid": "2638890",
+        "score": 32.91,
+        "reason": "处于摘星冷却期，至 2026-09-13 结束。",
+        "url": "https://store.steampowered.com/app/2638890/"
+      }
+    },
     "secondary_labels": [
       "评分背离",
       "豪华先行版本"
@@ -258,6 +272,10 @@
       "watched_games_scoring": true,
       "first_playable_date": "2026-08-26",
       "current_release_date": "2026-09-03",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-09 17:50:29",
       "current_peak": 27131,
@@ -386,7 +404,7 @@
           "peak": 27131
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 2,
@@ -474,15 +492,25 @@
       "reference_frame": "《EA SPORTS College Football 27》能解释“比赛结果回写为长期投入”：胜负会改变下一步。《NBA 2K27》的连续篮球攻防则接向 MyCAREER、MyNBA 与 MyTEAM，不沿用美式橄榄球的开球和大学项目结构。",
       "for_players": "适合愿意练投篮时机、空间判断和防守轮转，也愿意长期养球队或自建球员的玩家。喜欢 Build、阵容和线上组队的人，更能吃到它的体量。",
       "not_for_players": "如果你只想轻松离线打几场球、不愿学习站位与时机，或厌烦账户、通行证、卡牌和在线服务带来的长线任务，这款年货可能让你觉得负担大过球场本身。",
-      "star_reason": "9 月 9 日保存的观测峰值为 27,131 人。按修正后的发行参评规则复算，本期得分 19.71，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "9 月 9 日保存的观测峰值为 27,131 人。本期规则评分 19.71，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "读防守和队友跑位，用运球、掩护或传球制造出手条件。",
         "处理投篮节奏与干扰，再用协防、卡位和篮板压缩对手选择。",
         "把比赛表现投入 MyCAREER、MyNBA 或 MyTEAM，再调整下一场目标。"
       ],
-      "content_length": 458
+      "content_length": 445
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。",
+    "selection_note": "本期为递补入选，原评分排名第 4。",
+    "selection_context": {
+      "model_rank": 4,
+      "leader": {
+        "name": "Onimusha: Way of the Sword",
+        "appid": "2638890",
+        "score": 32.91,
+        "reason": "处于摘星冷却期，至 2026-09-13 结束。",
+        "url": "https://store.steampowered.com/app/2638890/"
+      }
+    },
     "secondary_labels": [
       "评分背离",
       "豪华先行版本"

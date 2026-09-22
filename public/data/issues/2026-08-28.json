@@ -17,6 +17,10 @@
       "watched_games_scoring": true,
       "first_playable_date": "2026-08-27",
       "current_release_date": "2026-08-27",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-28 23:39:01",
       "current_peak": 69046,
@@ -112,7 +116,7 @@
           "peak": 69046
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 1,
@@ -183,13 +187,13 @@
       "reference_frame": "它采用玩家熟悉的小队回合制战术框架：先读战场，再安排移动与攻击顺序，让不同队员的武器和能力互相接上。星战题材负责提供角色与战场语境，胜负仍要靠每个回合的取舍。",
       "for_players": "适合喜欢回合制小队战术、愿意花时间读技能与站位，同时想在克隆人战争语境里带一支自定义队伍行动的人。可调整难度和随时保存也给反复试验留出了空间。",
       "not_for_players": "如果你期待的是即时光剑战斗、多人合作，或不喜欢停下来计算行动顺序、接受失误后重新部署，这种以回合决策为主的节奏可能会显得慢。",
-      "star_reason": "8 月 28 日保存的观测峰值为 69,046 人。按修正后的发行参评规则复算，本期得分 44.98，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "8 月 28 日保存的观测峰值为 69,046 人。本期规则评分 44.98，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "进入任务后观察敌人、目标和地形，决定小队的推进方向与优先威胁。",
         "轮流移动、寻找掩体并使用攻击或能力，把有限行动投入最需要解决的位置。",
         "根据上一场任务暴露的问题调整队员搭配和战术，再进入下一次部署。"
       ],
-      "content_length": 456
+      "content_length": 443
     }
   },
   "main_signal": {
@@ -203,6 +207,10 @@
       "watched_games_scoring": true,
       "first_playable_date": "2026-08-27",
       "current_release_date": "2026-08-27",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-28 23:39:01",
       "current_peak": 69046,
@@ -298,7 +306,7 @@
           "peak": 69046
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 1,
@@ -369,13 +377,13 @@
       "reference_frame": "它采用玩家熟悉的小队回合制战术框架：先读战场，再安排移动与攻击顺序，让不同队员的武器和能力互相接上。星战题材负责提供角色与战场语境，胜负仍要靠每个回合的取舍。",
       "for_players": "适合喜欢回合制小队战术、愿意花时间读技能与站位，同时想在克隆人战争语境里带一支自定义队伍行动的人。可调整难度和随时保存也给反复试验留出了空间。",
       "not_for_players": "如果你期待的是即时光剑战斗、多人合作，或不喜欢停下来计算行动顺序、接受失误后重新部署，这种以回合决策为主的节奏可能会显得慢。",
-      "star_reason": "8 月 28 日保存的观测峰值为 69,046 人。按修正后的发行参评规则复算，本期得分 44.98，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "8 月 28 日保存的观测峰值为 69,046 人。本期规则评分 44.98，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "进入任务后观察敌人、目标和地形，决定小队的推进方向与优先威胁。",
         "轮流移动、寻找掩体并使用攻击或能力，把有限行动投入最需要解决的位置。",
         "根据上一场任务暴露的问题调整队员搭配和战术，再进入下一次部署。"
       ],
-      "content_length": 456
+      "content_length": 443
     }
   },
   "secondary_signals": [],

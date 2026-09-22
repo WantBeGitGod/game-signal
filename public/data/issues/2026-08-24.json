@@ -17,6 +17,10 @@
       "watched_games_scoring": true,
       "first_playable_date": "2026-08-21",
       "current_release_date": "2026-08-21",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-24 19:04:38",
       "current_peak": 45307,
@@ -120,7 +124,7 @@
           "peak": 45307
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 1,
@@ -202,15 +206,25 @@
       "reference_frame": "它仍以小队枪战的读图、架枪和争夺目标为骨架，但试玩介绍把“灵活机动、玩家选择与掌控力”放在前面。判断它是否适合你，关键在于移动能否服务枪线和临场决策，而不只是动作数量变多。",
       "for_players": "适合熟悉快节奏多人 FPS、愿意反复练枪并通过读图和走位提高稳定性的人。试玩节点也适合想先确认网络、性能、移动系统和武器手感，再决定是否关注正式版的系列玩家。",
       "not_for_players": "如果你更想要长线单人叙事、低压力合作，或不喜欢频繁重生、快速遭遇和版本初期不断调整配置，这次以多人竞技验证为主的 Beta 很难提供完整产品体验。",
-      "star_reason": "8 月 24 日保存的观测峰值为 45,307 人。按修正后的发行参评规则复算，本期得分 27.28，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "8 月 24 日保存的观测峰值为 45,307 人。本期规则评分 27.28，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "进入多人对局，根据模式目标和出生位置快速判断第一条推进路线。",
         "用移动、掩体和武器配置争夺有利枪线，在交火后根据敌方位置及时换点。",
         "从死亡与回合变化里修正路线、交战距离和装备选择，再投入下一轮目标争夺。"
       ],
-      "content_length": 490
+      "content_length": 477
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 2。",
+    "selection_context": {
+      "model_rank": 2,
+      "leader": {
+        "name": "How to Fish",
+        "appid": "4001890",
+        "score": 46.51,
+        "reason": "处于摘星冷却期，至 2026-08-29 结束。",
+        "url": "https://store.steampowered.com/app/4001890/"
+      }
+    }
   },
   "main_signal": {
     "rank": 1,
@@ -223,6 +237,10 @@
       "watched_games_scoring": true,
       "first_playable_date": "2026-08-21",
       "current_release_date": "2026-08-21",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-24 19:04:38",
       "current_peak": 45307,
@@ -326,7 +344,7 @@
           "peak": 45307
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 1,
@@ -408,15 +426,25 @@
       "reference_frame": "它仍以小队枪战的读图、架枪和争夺目标为骨架，但试玩介绍把“灵活机动、玩家选择与掌控力”放在前面。判断它是否适合你，关键在于移动能否服务枪线和临场决策，而不只是动作数量变多。",
       "for_players": "适合熟悉快节奏多人 FPS、愿意反复练枪并通过读图和走位提高稳定性的人。试玩节点也适合想先确认网络、性能、移动系统和武器手感，再决定是否关注正式版的系列玩家。",
       "not_for_players": "如果你更想要长线单人叙事、低压力合作，或不喜欢频繁重生、快速遭遇和版本初期不断调整配置，这次以多人竞技验证为主的 Beta 很难提供完整产品体验。",
-      "star_reason": "8 月 24 日保存的观测峰值为 45,307 人。按修正后的发行参评规则复算，本期得分 27.28，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "8 月 24 日保存的观测峰值为 45,307 人。本期规则评分 27.28，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "进入多人对局，根据模式目标和出生位置快速判断第一条推进路线。",
         "用移动、掩体和武器配置争夺有利枪线，在交火后根据敌方位置及时换点。",
         "从死亡与回合变化里修正路线、交战距离和装备选择，再投入下一轮目标争夺。"
       ],
-      "content_length": 490
+      "content_length": 477
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 2。",
+    "selection_context": {
+      "model_rank": 2,
+      "leader": {
+        "name": "How to Fish",
+        "appid": "4001890",
+        "score": 46.51,
+        "reason": "处于摘星冷却期，至 2026-08-29 结束。",
+        "url": "https://store.steampowered.com/app/4001890/"
+      }
+    }
   },
   "secondary_signals": [],
   "candidate_signals": []

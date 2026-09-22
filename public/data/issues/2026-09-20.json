@@ -10,415 +10,447 @@
     "rank": 1,
     "type": "formal_release_rise",
     "label": "正式版起量",
-    "score": 12.13,
-    "fact_summary": "TCG Card Shop Simulator 今日观测峰值 11,306，较过往最高峰值提升 +14%，被识别为「正式版起量」。",
+    "score": 35.39,
+    "fact_summary": "RuneScape: Dragonwilds 今日观测峰值 30,698，较过往最高峰值提升 +33%，被识别为「正式版起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.0,
+      "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
-      "first_playable_date": "2024-09-15",
-      "current_release_date": "2026-09-14",
+      "first_playable_date": "2025-04-15",
+      "current_release_date": "2026-09-15",
+      "release_cycle_start": "2026-09-15",
+      "release_observation_start": "2026-09-15",
+      "ea_formal_gap_days": 518,
+      "inherits_ea_history": false,
       "returning_historical_record": null,
-      "observation_cutoff_at": "2026-09-20 17:50:22",
-      "current_peak": 11306,
-      "previous_peak": 9885,
-      "previous_record_peak": 9885,
-      "growth_rate": 0.1438,
-      "record_growth_rate": 0.1438,
-      "scoring_peak": 11306,
+      "observation_cutoff_at": "2026-09-20 17:50:18",
+      "current_peak": 30698,
+      "previous_peak": 23165,
+      "previous_record_peak": 23165,
+      "growth_rate": 0.3252,
+      "record_growth_rate": 0.3252,
+      "scoring_peak": 30698,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 10.18,
-      "raw_record_growth_score": 5.03,
-      "growth_score_multiplier": 0.1694,
+      "peak_score": 21.92,
+      "raw_record_growth_score": 11.38,
+      "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.1563,
-      "growth_scale_crossing_component": 0.0131,
-      "record_growth_score": 0.85,
+      "growth_scale_base_component": 0.8586,
+      "growth_scale_crossing_component": 0.207,
+      "record_growth_score": 11.38,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 11.03,
-      "event_adjusted_score": 11.03,
+      "score_before_multiplier": 33.3,
+      "event_adjusted_score": 33.3,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 12.13,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 41.63,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-20",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.1,
-      "base_score": 12.13,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 1.0625,
+      "base_score": 35.39,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 96.0,
-      "review_total": 49965,
-      "days_seen": 6,
+      "review_ratio": 81.0,
+      "review_total": 30881,
+      "days_seen": 5,
       "comeback_gap_days": 1,
       "is_new_release": false,
-      "release_age_days": 6,
-      "steam_release_age_days": 6,
-      "release_age_basis": "steam_current_release",
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "ea_formal_transition",
       "release_verification_required": false,
       "release_verification": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2024-09-15"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2025-04-15",
+        "gap_days": 518,
+        "inherits_ea_history": false
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "模拟"
+        "动作",
+        "冒险",
+        "角色扮演"
       ],
       "scoring_version": "watched_games_v1",
       "release_event_type": "formal_release",
-      "release_event_date": "2026-09-14",
-      "release_event_age_days": 6,
+      "release_event_date": "2026-09-15",
+      "release_event_age_days": 5,
       "release_event_window_days": 180,
       "release_event_multiplier": 0.85,
       "release_event_evidence": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2024-09-15"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2025-04-15",
+        "gap_days": 518,
+        "inherits_ea_history": false
       },
-      "release_event_date_basis": "steam_current_release",
-      "pre_bonus_model_rank": 7,
+      "release_event_date_basis": "ea_formal_transition",
+      "pre_bonus_model_rank": 2,
       "trend": [
         {
-          "date": "2026-09-15",
-          "peak": 7318
-        },
-        {
           "date": "2026-09-16",
-          "peak": 9885
+          "peak": 22611
         },
         {
           "date": "2026-09-17",
-          "peak": 7265
+          "peak": 23165
         },
         {
           "date": "2026-09-18",
-          "peak": 9036
+          "peak": 21879
         },
         {
           "date": "2026-09-19",
-          "peak": 9491
+          "peak": 22193
         },
         {
           "date": "2026-09-20",
-          "peak": 11306
+          "peak": 30698
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/3070070/"
+        "url": "https://store.steampowered.com/app/1374490/"
       }
     ],
     "game": {
-      "slug": "tcg-card-shop-simulator",
-      "appid": "3070070",
-      "name": "TCG Card Shop Simulator",
+      "slug": "runescape-dragonwilds",
+      "appid": "1374490",
+      "name": "RuneScape: Dragonwilds",
       "name_cn": null,
-      "description": "开设您自己的卡牌商店。摆放最新的补充包，也可以拆开收集卡牌。自行定价、雇佣员工、举办活动，并拓展您的卡牌商店。",
-      "release_date": "2026-09-14",
+      "description": "在《符文世界》被遗忘的大陆——烬落之地，龙族已然苏醒。在这款多人合作生存冒险游戏中，收集资源、建造家园、修炼技能、打造道具。唯有精通生存之道、揭开远古秘辛，才有资格直面凶残的龙之女王。",
+      "release_date": "2026-09-15",
       "genres": [
-        "模拟"
+        "动作",
+        "冒险",
+        "角色扮演"
       ],
       "tags": [
         "单人",
-        "Steam 成就",
-        "完全支持控制器",
-        "Steam 集换式卡牌",
-        "视角舒适度",
+        "多人",
+        "合作",
+        "在线合作",
+        "可调整文字大小",
         "自定义音量控制",
-        "无需应对快速反应事件",
-        "DUALSHOCK 控制器支持",
-        "DualSense 控制器支持",
         "随时保存",
+        "立体声",
+        "部分支持控制器",
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Overwhelmingly Positive",
-      "review_ratio": 96.0,
-      "review_total": 50009,
-      "developer": "OPNeon Games",
-      "publisher": "OPNeon Games",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/80b94bfe22c6cd7bd9f66d0af536ae947f9cce3a/header_alt_assets_0.jpg?t=1789528213",
-      "steam_url": "https://store.steampowered.com/app/3070070",
-      "product_family_identity": "appid:3070070",
-      "product_family_appid": "3070070",
+      "review_score": "Very Positive",
+      "review_ratio": 81.0,
+      "review_total": 31242,
+      "developer": "Jagex Ltd",
+      "publisher": "Jagex Ltd, H2 Interactive Co., Ltd., Graph",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/284a46dc9ea5b8424102881a4b8f8599595aa142/header_alt_assets_4_schinese.jpg?t=1789749518",
+      "steam_url": "https://store.steampowered.com/app/1374490",
+      "product_family_identity": "appid:1374490",
+      "product_family_appid": "1374490",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-09-15",
-          "peak": 7318
-        },
-        {
           "date": "2026-09-16",
-          "peak": 9885
+          "peak": 22611
         },
         {
           "date": "2026-09-17",
-          "peak": 7265
+          "peak": 23165
         },
         {
           "date": "2026-09-18",
-          "peak": 9036
+          "peak": 21879
         },
         {
           "date": "2026-09-19",
-          "peak": 9491
+          "peak": 22193
         },
         {
           "date": "2026-09-20",
-          "peak": 11306
+          "peak": 30698
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《TCG Card Shop Simulator》让你经营一家集换式卡牌店：进货、摆货架、定价、招员工，还可以自己拆卡包，把稀有卡拿去出售或留作收藏。经营收入和收藏欲望会争用同一批库存。",
-      "reference_frame": "《Big Ambitions》玩家熟悉的库存、价格和店面运营经验可以迁移过来，但这里聚焦一家卡店。你要照顾顾客购物与店内打牌的需求，也会面对“这包卖掉，还是自己拆开”的小小诱惑。",
-      "for_players": "适合享受店铺从空架子慢慢热闹起来、喜欢整理商品和收集卡牌的人。愿意亲手处理日常经营琐事，会更容易理解扩店带来的成就感。",
-      "not_for_players": "如果你主要想玩完整的卡牌对战，或希望经营完全自动化、只做高层决策，这款围绕零售和拆包展开的模拟可能与预期不同。",
-      "star_reason": "9 月 20 日保存的观测峰值为 11,306 人。按修正后的发行参评规则复算，本期得分 12.13，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "positioning": "《符文世界：龙之荒野》是一款可以独自冒险、也能和朋友合作的生存制作游戏。你在巨龙出没的大陆采材料、盖家、练技能，把一次次出门的收获变成挑战更强敌人的底气。",
+      "reference_frame": "玩过《幻兽帕鲁》，你会熟悉外出搜集、回家造装、再向危险区域推进的节奏。帕鲁靠伙伴分工改善生产，这里则把成长放进角色技能：练出法术后，能用幽冥巨斧成片伐木、用魔法开矿，连干活的方式也会变。",
+      "for_players": "适合喜欢和朋友共同经营一个家、愿意花时间备战，也享受技能慢慢练起来的玩家。今天造房，明天出征，两种节奏都能接受才容易玩进去。",
+      "not_for_players": "如果你只想连续打怪看剧情，讨厌反复采材料和制作补给，这些战斗之间的准备会让你觉得拖沓。",
+      "star_reason": "9 月 20 日保存的观测峰值为 30,698 人。本期规则评分 35.39，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
-        "订购商品、安排货架和价格，保持店面整洁，满足顾客买卡与活动需求。",
-        "用利润补货、改善设施并扩大空间；拆出的稀有卡则在出售和个人收藏之间作选择。"
+        "到新区域找资源、接任务，把材料带回家扩建设施，制作装备和药水。",
+        "持续修炼技能，解锁天赋与法术，让采集更有效率，也给探索和战斗添新办法。",
+        "带着准备好的装备追踪巨龙；打不过就补物资、练技能，再回来挑战。"
       ],
-      "content_length": 428
+      "content_length": 426
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 2。",
+    "selection_context": {
+      "model_rank": 2,
+      "leader": {
+        "name": "WARDOGS",
+        "appid": "1867240",
+        "score": 37.5,
+        "reason": "处于摘星冷却期，至 2026-09-20 结束。",
+        "url": "https://store.steampowered.com/app/1867240/"
+      }
+    }
   },
   "main_signal": {
     "rank": 1,
     "type": "formal_release_rise",
     "label": "正式版起量",
-    "score": 12.13,
-    "fact_summary": "TCG Card Shop Simulator 今日观测峰值 11,306，较过往最高峰值提升 +14%，被识别为「正式版起量」。",
+    "score": 35.39,
+    "fact_summary": "RuneScape: Dragonwilds 今日观测峰值 30,698，较过往最高峰值提升 +33%，被识别为「正式版起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.0,
+      "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
-      "first_playable_date": "2024-09-15",
-      "current_release_date": "2026-09-14",
+      "first_playable_date": "2025-04-15",
+      "current_release_date": "2026-09-15",
+      "release_cycle_start": "2026-09-15",
+      "release_observation_start": "2026-09-15",
+      "ea_formal_gap_days": 518,
+      "inherits_ea_history": false,
       "returning_historical_record": null,
-      "observation_cutoff_at": "2026-09-20 17:50:22",
-      "current_peak": 11306,
-      "previous_peak": 9885,
-      "previous_record_peak": 9885,
-      "growth_rate": 0.1438,
-      "record_growth_rate": 0.1438,
-      "scoring_peak": 11306,
+      "observation_cutoff_at": "2026-09-20 17:50:18",
+      "current_peak": 30698,
+      "previous_peak": 23165,
+      "previous_record_peak": 23165,
+      "growth_rate": 0.3252,
+      "record_growth_rate": 0.3252,
+      "scoring_peak": 30698,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 10.18,
-      "raw_record_growth_score": 5.03,
-      "growth_score_multiplier": 0.1694,
+      "peak_score": 21.92,
+      "raw_record_growth_score": 11.38,
+      "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.1563,
-      "growth_scale_crossing_component": 0.0131,
-      "record_growth_score": 0.85,
+      "growth_scale_base_component": 0.8586,
+      "growth_scale_crossing_component": 0.207,
+      "record_growth_score": 11.38,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 11.03,
-      "event_adjusted_score": 11.03,
+      "score_before_multiplier": 33.3,
+      "event_adjusted_score": 33.3,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 12.13,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 41.63,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-20",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.1,
-      "base_score": 12.13,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 1.0625,
+      "base_score": 35.39,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 96.0,
-      "review_total": 49965,
-      "days_seen": 6,
+      "review_ratio": 81.0,
+      "review_total": 30881,
+      "days_seen": 5,
       "comeback_gap_days": 1,
       "is_new_release": false,
-      "release_age_days": 6,
-      "steam_release_age_days": 6,
-      "release_age_basis": "steam_current_release",
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "ea_formal_transition",
       "release_verification_required": false,
       "release_verification": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2024-09-15"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2025-04-15",
+        "gap_days": 518,
+        "inherits_ea_history": false
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "模拟"
+        "动作",
+        "冒险",
+        "角色扮演"
       ],
       "scoring_version": "watched_games_v1",
       "release_event_type": "formal_release",
-      "release_event_date": "2026-09-14",
-      "release_event_age_days": 6,
+      "release_event_date": "2026-09-15",
+      "release_event_age_days": 5,
       "release_event_window_days": 180,
       "release_event_multiplier": 0.85,
       "release_event_evidence": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2024-09-15"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2025-04-15",
+        "gap_days": 518,
+        "inherits_ea_history": false
       },
-      "release_event_date_basis": "steam_current_release",
-      "pre_bonus_model_rank": 7,
+      "release_event_date_basis": "ea_formal_transition",
+      "pre_bonus_model_rank": 2,
       "trend": [
         {
-          "date": "2026-09-15",
-          "peak": 7318
-        },
-        {
           "date": "2026-09-16",
-          "peak": 9885
+          "peak": 22611
         },
         {
           "date": "2026-09-17",
-          "peak": 7265
+          "peak": 23165
         },
         {
           "date": "2026-09-18",
-          "peak": 9036
+          "peak": 21879
         },
         {
           "date": "2026-09-19",
-          "peak": 9491
+          "peak": 22193
         },
         {
           "date": "2026-09-20",
-          "peak": 11306
+          "peak": 30698
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/3070070/"
+        "url": "https://store.steampowered.com/app/1374490/"
       }
     ],
     "game": {
-      "slug": "tcg-card-shop-simulator",
-      "appid": "3070070",
-      "name": "TCG Card Shop Simulator",
+      "slug": "runescape-dragonwilds",
+      "appid": "1374490",
+      "name": "RuneScape: Dragonwilds",
       "name_cn": null,
-      "description": "开设您自己的卡牌商店。摆放最新的补充包，也可以拆开收集卡牌。自行定价、雇佣员工、举办活动，并拓展您的卡牌商店。",
-      "release_date": "2026-09-14",
+      "description": "在《符文世界》被遗忘的大陆——烬落之地，龙族已然苏醒。在这款多人合作生存冒险游戏中，收集资源、建造家园、修炼技能、打造道具。唯有精通生存之道、揭开远古秘辛，才有资格直面凶残的龙之女王。",
+      "release_date": "2026-09-15",
       "genres": [
-        "模拟"
+        "动作",
+        "冒险",
+        "角色扮演"
       ],
       "tags": [
         "单人",
-        "Steam 成就",
-        "完全支持控制器",
-        "Steam 集换式卡牌",
-        "视角舒适度",
+        "多人",
+        "合作",
+        "在线合作",
+        "可调整文字大小",
         "自定义音量控制",
-        "无需应对快速反应事件",
-        "DUALSHOCK 控制器支持",
-        "DualSense 控制器支持",
         "随时保存",
+        "立体声",
+        "部分支持控制器",
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Overwhelmingly Positive",
-      "review_ratio": 96.0,
-      "review_total": 50009,
-      "developer": "OPNeon Games",
-      "publisher": "OPNeon Games",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/80b94bfe22c6cd7bd9f66d0af536ae947f9cce3a/header_alt_assets_0.jpg?t=1789528213",
-      "steam_url": "https://store.steampowered.com/app/3070070",
-      "product_family_identity": "appid:3070070",
-      "product_family_appid": "3070070",
+      "review_score": "Very Positive",
+      "review_ratio": 81.0,
+      "review_total": 31242,
+      "developer": "Jagex Ltd",
+      "publisher": "Jagex Ltd, H2 Interactive Co., Ltd., Graph",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/284a46dc9ea5b8424102881a4b8f8599595aa142/header_alt_assets_4_schinese.jpg?t=1789749518",
+      "steam_url": "https://store.steampowered.com/app/1374490",
+      "product_family_identity": "appid:1374490",
+      "product_family_appid": "1374490",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-09-15",
-          "peak": 7318
-        },
-        {
           "date": "2026-09-16",
-          "peak": 9885
+          "peak": 22611
         },
         {
           "date": "2026-09-17",
-          "peak": 7265
+          "peak": 23165
         },
         {
           "date": "2026-09-18",
-          "peak": 9036
+          "peak": 21879
         },
         {
           "date": "2026-09-19",
-          "peak": 9491
+          "peak": 22193
         },
         {
           "date": "2026-09-20",
-          "peak": 11306
+          "peak": 30698
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《TCG Card Shop Simulator》让你经营一家集换式卡牌店：进货、摆货架、定价、招员工，还可以自己拆卡包，把稀有卡拿去出售或留作收藏。经营收入和收藏欲望会争用同一批库存。",
-      "reference_frame": "《Big Ambitions》玩家熟悉的库存、价格和店面运营经验可以迁移过来，但这里聚焦一家卡店。你要照顾顾客购物与店内打牌的需求，也会面对“这包卖掉，还是自己拆开”的小小诱惑。",
-      "for_players": "适合享受店铺从空架子慢慢热闹起来、喜欢整理商品和收集卡牌的人。愿意亲手处理日常经营琐事，会更容易理解扩店带来的成就感。",
-      "not_for_players": "如果你主要想玩完整的卡牌对战，或希望经营完全自动化、只做高层决策，这款围绕零售和拆包展开的模拟可能与预期不同。",
-      "star_reason": "9 月 20 日保存的观测峰值为 11,306 人。按修正后的发行参评规则复算，本期得分 12.13，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "positioning": "《符文世界：龙之荒野》是一款可以独自冒险、也能和朋友合作的生存制作游戏。你在巨龙出没的大陆采材料、盖家、练技能，把一次次出门的收获变成挑战更强敌人的底气。",
+      "reference_frame": "玩过《幻兽帕鲁》，你会熟悉外出搜集、回家造装、再向危险区域推进的节奏。帕鲁靠伙伴分工改善生产，这里则把成长放进角色技能：练出法术后，能用幽冥巨斧成片伐木、用魔法开矿，连干活的方式也会变。",
+      "for_players": "适合喜欢和朋友共同经营一个家、愿意花时间备战，也享受技能慢慢练起来的玩家。今天造房，明天出征，两种节奏都能接受才容易玩进去。",
+      "not_for_players": "如果你只想连续打怪看剧情，讨厌反复采材料和制作补给，这些战斗之间的准备会让你觉得拖沓。",
+      "star_reason": "9 月 20 日保存的观测峰值为 30,698 人。本期规则评分 35.39，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
-        "订购商品、安排货架和价格，保持店面整洁，满足顾客买卡与活动需求。",
-        "用利润补货、改善设施并扩大空间；拆出的稀有卡则在出售和个人收藏之间作选择。"
+        "到新区域找资源、接任务，把材料带回家扩建设施，制作装备和药水。",
+        "持续修炼技能，解锁天赋与法术，让采集更有效率，也给探索和战斗添新办法。",
+        "带着准备好的装备追踪巨龙；打不过就补物资、练技能，再回来挑战。"
       ],
-      "content_length": 428
+      "content_length": 426
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 2。",
+    "selection_context": {
+      "model_rank": 2,
+      "leader": {
+        "name": "WARDOGS",
+        "appid": "1867240",
+        "score": 37.5,
+        "reason": "处于摘星冷却期，至 2026-09-20 结束。",
+        "url": "https://store.steampowered.com/app/1867240/"
+      }
+    }
   },
   "secondary_signals": [],
   "candidate_signals": []

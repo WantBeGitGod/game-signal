@@ -10,13 +10,17 @@
     "rank": 1,
     "type": "formal_release_rise",
     "label": "正式版起量",
-    "score": 82.5,
+    "score": 87.66,
     "fact_summary": "Valheim 今日观测峰值 190,713，较过往最高峰值提升 +185%，被识别为「正式版起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.0,
+      "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2021-02-02",
       "current_release_date": "2026-09-09",
+      "release_cycle_start": "2026-09-09",
+      "release_observation_start": "2026-09-09",
+      "ea_formal_gap_days": 2045,
+      "inherits_ea_history": false,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-11 17:50:07",
       "current_peak": 190713,
@@ -40,30 +44,32 @@
       "event_adjusted_score": 75.0,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 82.5,
+      "review_adjusted_score": 103.13,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-11",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.1,
-      "base_score": 82.5,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 1.1687,
+      "base_score": 87.66,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": 94.0,
@@ -73,13 +79,13 @@
       "is_new_release": false,
       "release_age_days": 2,
       "steam_release_age_days": 2,
-      "release_age_basis": "config_override",
+      "release_age_basis": "ea_formal_transition",
       "release_verification_required": false,
       "release_verification": {
-        "identity": "formal_release",
-        "date": "2026-09-09",
-        "source": "Iron Gate official Valheim 1.0 launch announcement",
-        "url": "https://www.valheim.com/news/valheim-1-0-has-arrived-/"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2021-02-02",
+        "gap_days": 2045,
+        "inherits_ea_history": false
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
@@ -98,12 +104,12 @@
       "release_event_window_days": 180,
       "release_event_multiplier": 0.85,
       "release_event_evidence": {
-        "identity": "formal_release",
-        "date": "2026-09-09",
-        "source": "Iron Gate official Valheim 1.0 launch announcement",
-        "url": "https://www.valheim.com/news/valheim-1-0-has-arrived-/"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2021-02-02",
+        "gap_days": 2045,
+        "inherits_ea_history": false
       },
-      "release_event_date_basis": "config_override",
+      "release_event_date_basis": "ea_formal_transition",
       "pre_bonus_model_rank": 1,
       "trend": [
         {
@@ -115,12 +121,12 @@
           "peak": 190713
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
@@ -164,7 +170,7 @@
       ],
       "review_score": "Very Positive",
       "review_ratio": 94.0,
-      "review_total": 551182,
+      "review_total": 552206,
       "developer": "Iron Gate AB",
       "publisher": "Coffee Stain Publishing",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789470462",
@@ -189,26 +195,30 @@
       "reference_frame": "它和《Terraria》相通的地方，是基地、材料和装备都为下一道 Boss 门槛服务，胜利再打开资源层。区别是《Valheim》的准备要落到远征：船、食物、天气、航线和死亡后的回收，让多人协作比单纯堆 Build 更有分量。",
       "for_players": "适合愿意和固定朋友分工盖家、备战、航海，也享受把临时营地做成长期据点的人。喜欢充分准备后终于能去远处地图的推进感，会很容易沉进去。",
       "not_for_players": "如果你更想要任务密集的动作冒险，或不喜欢跑图、收集、死亡后回收装备和多人进度协调，这种先准备再远征的节奏会偏慢。",
-      "star_reason": "9 月 11 日保存的观测峰值为 190,713 人。按修正后的发行参评规则复算，本期得分 82.50，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "9 月 11 日保存的观测峰值为 190,713 人。本期规则评分 87.66，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "在不同生态区打猎、采矿和探索，把食物、材料与装备配齐。",
         "和同伴建基地、造船并规划远征，把战利品穿过海路安全带回。",
         "将新材料做成更高阶武器与设施，击败区域 Boss 后进入下一片区域。"
       ],
-      "content_length": 443
+      "content_length": 430
     }
   },
   "main_signal": {
     "rank": 1,
     "type": "formal_release_rise",
     "label": "正式版起量",
-    "score": 82.5,
+    "score": 87.66,
     "fact_summary": "Valheim 今日观测峰值 190,713，较过往最高峰值提升 +185%，被识别为「正式版起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.0,
+      "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2021-02-02",
       "current_release_date": "2026-09-09",
+      "release_cycle_start": "2026-09-09",
+      "release_observation_start": "2026-09-09",
+      "ea_formal_gap_days": 2045,
+      "inherits_ea_history": false,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-11 17:50:07",
       "current_peak": 190713,
@@ -232,30 +242,32 @@
       "event_adjusted_score": 75.0,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 82.5,
+      "review_adjusted_score": 103.13,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-11",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.1,
-      "base_score": 82.5,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 1.1687,
+      "base_score": 87.66,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": 94.0,
@@ -265,13 +277,13 @@
       "is_new_release": false,
       "release_age_days": 2,
       "steam_release_age_days": 2,
-      "release_age_basis": "config_override",
+      "release_age_basis": "ea_formal_transition",
       "release_verification_required": false,
       "release_verification": {
-        "identity": "formal_release",
-        "date": "2026-09-09",
-        "source": "Iron Gate official Valheim 1.0 launch announcement",
-        "url": "https://www.valheim.com/news/valheim-1-0-has-arrived-/"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2021-02-02",
+        "gap_days": 2045,
+        "inherits_ea_history": false
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
@@ -290,12 +302,12 @@
       "release_event_window_days": 180,
       "release_event_multiplier": 0.85,
       "release_event_evidence": {
-        "identity": "formal_release",
-        "date": "2026-09-09",
-        "source": "Iron Gate official Valheim 1.0 launch announcement",
-        "url": "https://www.valheim.com/news/valheim-1-0-has-arrived-/"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2021-02-02",
+        "gap_days": 2045,
+        "inherits_ea_history": false
       },
-      "release_event_date_basis": "config_override",
+      "release_event_date_basis": "ea_formal_transition",
       "pre_bonus_model_rank": 1,
       "trend": [
         {
@@ -307,12 +319,12 @@
           "peak": 190713
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
@@ -356,7 +368,7 @@
       ],
       "review_score": "Very Positive",
       "review_ratio": 94.0,
-      "review_total": 551182,
+      "review_total": 552206,
       "developer": "Iron Gate AB",
       "publisher": "Coffee Stain Publishing",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789470462",
@@ -381,13 +393,13 @@
       "reference_frame": "它和《Terraria》相通的地方，是基地、材料和装备都为下一道 Boss 门槛服务，胜利再打开资源层。区别是《Valheim》的准备要落到远征：船、食物、天气、航线和死亡后的回收，让多人协作比单纯堆 Build 更有分量。",
       "for_players": "适合愿意和固定朋友分工盖家、备战、航海，也享受把临时营地做成长期据点的人。喜欢充分准备后终于能去远处地图的推进感，会很容易沉进去。",
       "not_for_players": "如果你更想要任务密集的动作冒险，或不喜欢跑图、收集、死亡后回收装备和多人进度协调，这种先准备再远征的节奏会偏慢。",
-      "star_reason": "9 月 11 日保存的观测峰值为 190,713 人。按修正后的发行参评规则复算，本期得分 82.50，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "9 月 11 日保存的观测峰值为 190,713 人。本期规则评分 87.66，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "在不同生态区打猎、采矿和探索，把食物、材料与装备配齐。",
         "和同伴建基地、造船并规划远征，把战利品穿过海路安全带回。",
         "将新材料做成更高阶武器与设施，击败区域 Boss 后进入下一片区域。"
       ],
-      "content_length": 443
+      "content_length": 430
     }
   },
   "secondary_signals": [],

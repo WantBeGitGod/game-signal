@@ -8,441 +8,463 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "formal_release_rise",
-    "label": "正式版起量",
-    "score": 7.36,
-    "fact_summary": "Yet Another Zombie Survivors 今日观测峰值 8,173，未超过过往最高峰值 9,972，被识别为「正式版起量」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 19.8,
+    "fact_summary": "Call of Duty®: Modern Warfare® 4 - Beta 今日观测峰值 34,435，未超过过往最高峰值 115,145，被识别为「新作起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
-      "first_playable_date": "2023-07-13",
-      "current_release_date": "2026-08-20",
+      "first_playable_date": "2026-08-21",
+      "current_release_date": "2026-08-21",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-25 00:51:37",
-      "current_peak": 8173,
-      "previous_peak": 9972,
-      "previous_record_peak": 9972,
-      "growth_rate": -0.1804,
-      "record_growth_rate": -0.1804,
-      "scoring_peak": 8173,
+      "current_peak": 34435,
+      "previous_peak": 115145,
+      "previous_record_peak": 115145,
+      "growth_rate": -0.7009,
+      "record_growth_rate": -0.7009,
+      "scoring_peak": 34435,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 7.36,
+      "peak_score": 23.29,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.1591,
+      "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.1591,
-      "growth_scale_crossing_component": 0.0,
+      "growth_scale_base_component": 21.2134,
+      "growth_scale_crossing_component": 0.2444,
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 7.36,
-      "event_adjusted_score": 7.36,
+      "score_before_multiplier": 23.29,
+      "event_adjusted_score": 23.29,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 7.36,
+      "review_adjusted_score": 23.29,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": null,
       "review_observation_age_days": null,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.0,
-      "base_score": 7.36,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 0.85,
+      "base_score": 19.8,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": null,
       "review_total": 0,
-      "days_seen": 6,
+      "days_seen": 5,
       "comeback_gap_days": 1,
-      "is_new_release": false,
-      "release_age_days": 5,
-      "steam_release_age_days": 5,
-      "release_age_basis": "steam_current_release",
+      "is_new_release": true,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2023-07-13"
+        "source": "initial_review_observation",
+        "initial_review_total": 2705,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "休闲",
-        "独立",
-        "角色扮演"
+        "动作"
       ],
       "scoring_version": "watched_games_v1",
-      "release_event_type": "formal_release",
-      "release_event_date": "2026-08-20",
-      "release_event_age_days": 5,
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-21",
+      "release_event_age_days": 4,
       "release_event_window_days": 180,
-      "release_event_multiplier": 0.85,
+      "release_event_multiplier": 1.0,
       "release_event_evidence": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2023-07-13"
+        "source": "initial_review_observation",
+        "initial_review_total": 2705,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
       },
-      "release_event_date_basis": "steam_current_release",
-      "pre_bonus_model_rank": 4,
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 3,
       "trend": [
         {
-          "date": "2026-08-20",
-          "peak": 5524
-        },
-        {
           "date": "2026-08-21",
-          "peak": 8030
+          "peak": 115145
         },
         {
           "date": "2026-08-22",
-          "peak": 8030
+          "peak": 115145
         },
         {
           "date": "2026-08-23",
-          "peak": 9972
+          "peak": 51107
         },
         {
           "date": "2026-08-24",
-          "peak": 8173
+          "peak": 45307
         },
         {
           "date": "2026-08-25",
-          "peak": 8173
+          "peak": 34435
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/2163330/"
+        "url": "https://store.steampowered.com/app/4783780/"
       }
     ],
     "game": {
-      "slug": "yet-another-zombie-survivors",
-      "appid": "2163330",
-      "name": "Yet Another Zombie Survivors",
+      "slug": "call-of-duty-modern-warfare-4-beta",
+      "appid": "4783780",
+      "name": "Call of Duty®: Modern Warfare® 4 - Beta",
       "name_cn": null,
-      "description": "大群敌人即将到来，但你已经做好了战斗准备！召集你的队伍并决定他们的各种增强，以找到对付成千上万不死生物最有效的组合。努力生存，然后进化。然后在这个看似简单但令人上瘾的反转弹雨游戏中打破所有限制。",
-      "release_date": "2026-08-20",
+      "description": "在《现代战争® 4》试玩中，每一场战斗都真实而精准，让你尽情体验以灵活的机动走位、丰富的玩家选择与更强的掌控力为核心打造的战场。",
+      "release_date": "2026-08-21",
       "genres": [
-        "动作",
-        "休闲",
-        "独立",
-        "角色扮演"
+        "动作"
       ],
       "tags": [
         "单人",
-        "Steam 成就",
-        "完全支持控制器",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "跨平台多人",
+        "可调整文字大小",
         "视角舒适度",
         "可选颜色",
         "自定义音量控制",
         "可调整难度",
-        "可以仅用键盘",
-        "可以仅用鼠标",
+        "#category_playable_at_your_own_pace",
         "无需应对快速反应事件",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
         "DualSense 控制器支持",
-        "Steam 云",
-        "Steam 排行榜",
-        "在电视上远程畅玩",
-        "家庭共享"
+        "随时保存",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "部分支持控制器",
+        "Steam 云"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 91.0,
-      "review_total": 14847,
-      "developer": "Awesome Games Studio",
-      "publisher": "Awesome Games Studio",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2163330/2523656dd84e2455ba980622bfdd5b653e57fcf6/header_alt_assets_2_schinese.jpg?t=1787858180",
-      "steam_url": "https://store.steampowered.com/app/2163330",
-      "product_family_identity": "appid:2163330",
-      "product_family_appid": "2163330",
+      "review_score": "Mostly Negative",
+      "review_ratio": 34.0,
+      "review_total": 20760,
+      "developer": "Infinity Ward, Beenox, Digital Legends, Activision Shanghai, Raven Software, Treyarch, Sledgehammer Games, High Moon Studios",
+      "publisher": "Activision",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783780/8c72205bfdf522bada8431d2aacbd1b6c66fac4c/header.jpg?t=1787941380",
+      "steam_url": "https://store.steampowered.com/app/4783780",
+      "product_family_identity": "appid:4783780",
+      "product_family_appid": "4783780",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-08-20",
-          "peak": 5524
-        },
-        {
           "date": "2026-08-21",
-          "peak": 8030
+          "peak": 115145
         },
         {
           "date": "2026-08-22",
-          "peak": 8030
+          "peak": 115145
         },
         {
           "date": "2026-08-23",
-          "peak": 9972
+          "peak": 51107
         },
         {
           "date": "2026-08-24",
-          "peak": 8173
+          "peak": 45307
         },
         {
           "date": "2026-08-25",
-          "peak": 8173
+          "peak": 34435
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Yet Another Zombie Survivors》是一款单人尸潮生存游戏。你带领幸存者小队在成群僵尸中移动，选择成员与升级，把各自的武器和能力组合成能支撑更久的火力。",
-      "reference_frame": "自动攻击减轻了瞄准负担，但玩家仍要亲手寻找安全路线，并判断下一次升级该补什么。队员组合和能力联动，会把同样的尸潮变成不同的走位问题；强化选择需要在实际战斗里接受检验。",
-      "for_players": "适合喜欢短时间内不断获得升级、研究能力组合，又不想反复手动瞄准的玩家。看到薄弱的小队逐渐形成清场能力，是主要的反馈来源。",
-      "not_for_players": "如果希望用复杂连招直接掌控输出，或不喜欢围绕相似战场反复尝试构筑，这种自动攻击与持续走位结合的节奏可能显得单调。",
-      "star_reason": "8 月 25 日保存的观测峰值为 8,173 人。按修正后的发行参评规则复算，本期得分 7.36，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "positioning": "《Call of Duty®: Modern Warfare® 4 - Beta》是《现代战争 4》的公开试玩节点，用多人战场先交出这代作品的移动、射击和交战节奏，让玩家在正式发售前直接检验手感。",
+      "reference_frame": "它仍以小队枪战的读图、架枪和争夺目标为骨架，但试玩介绍把“灵活机动、玩家选择与掌控力”放在前面。判断它是否适合你，关键在于移动能否服务枪线和临场决策，而不只是动作数量变多。",
+      "for_players": "适合熟悉快节奏多人 FPS、愿意反复练枪并通过读图和走位提高稳定性的人。试玩节点也适合想先确认网络、性能、移动系统和武器手感，再决定是否关注正式版的系列玩家。",
+      "not_for_players": "如果你更想要长线单人叙事、低压力合作，或不喜欢频繁重生、快速遭遇和版本初期不断调整配置，这次以多人竞技验证为主的 Beta 很难提供完整产品体验。",
+      "star_reason": "8 月 25 日保存的观测峰值为 34,435 人。本期规则评分 19.80，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
-        "移动小队避开包围，在战斗中获得成长并选择队员与强化方向。",
-        "让武器和能力形成配合，撑过更密集的尸潮，再带着对组合的理解开始下一轮。"
+        "进入多人对局，根据模式目标和出生位置快速判断第一条推进路线。",
+        "用移动、掩体和武器配置争夺有利枪线，在交火后根据敌方位置及时换点。",
+        "从死亡与回合变化里修正路线、交战距离和装备选择，再投入下一轮目标争夺。"
       ],
-      "content_length": 412
+      "content_length": 477
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "How to Fish",
+        "appid": "4001890",
+        "score": 37.5,
+        "reason": "处于摘星冷却期，至 2026-08-29 结束。",
+        "url": "https://store.steampowered.com/app/4001890/"
+      }
+    }
   },
   "main_signal": {
     "rank": 1,
-    "type": "formal_release_rise",
-    "label": "正式版起量",
-    "score": 7.36,
-    "fact_summary": "Yet Another Zombie Survivors 今日观测峰值 8,173，未超过过往最高峰值 9,972，被识别为「正式版起量」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 19.8,
+    "fact_summary": "Call of Duty®: Modern Warfare® 4 - Beta 今日观测峰值 34,435，未超过过往最高峰值 115,145，被识别为「新作起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
-      "first_playable_date": "2023-07-13",
-      "current_release_date": "2026-08-20",
+      "first_playable_date": "2026-08-21",
+      "current_release_date": "2026-08-21",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-25 00:51:37",
-      "current_peak": 8173,
-      "previous_peak": 9972,
-      "previous_record_peak": 9972,
-      "growth_rate": -0.1804,
-      "record_growth_rate": -0.1804,
-      "scoring_peak": 8173,
+      "current_peak": 34435,
+      "previous_peak": 115145,
+      "previous_record_peak": 115145,
+      "growth_rate": -0.7009,
+      "record_growth_rate": -0.7009,
+      "scoring_peak": 34435,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 7.36,
+      "peak_score": 23.29,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.1591,
+      "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.1591,
-      "growth_scale_crossing_component": 0.0,
+      "growth_scale_base_component": 21.2134,
+      "growth_scale_crossing_component": 0.2444,
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 7.36,
-      "event_adjusted_score": 7.36,
+      "score_before_multiplier": 23.29,
+      "event_adjusted_score": 23.29,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 7.36,
+      "review_adjusted_score": 23.29,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": null,
       "review_observation_age_days": null,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.0,
-      "base_score": 7.36,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 0.85,
+      "base_score": 19.8,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": null,
       "review_total": 0,
-      "days_seen": 6,
+      "days_seen": 5,
       "comeback_gap_days": 1,
-      "is_new_release": false,
-      "release_age_days": 5,
-      "steam_release_age_days": 5,
-      "release_age_basis": "steam_current_release",
+      "is_new_release": true,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2023-07-13"
+        "source": "initial_review_observation",
+        "initial_review_total": 2705,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "休闲",
-        "独立",
-        "角色扮演"
+        "动作"
       ],
       "scoring_version": "watched_games_v1",
-      "release_event_type": "formal_release",
-      "release_event_date": "2026-08-20",
-      "release_event_age_days": 5,
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-21",
+      "release_event_age_days": 4,
       "release_event_window_days": 180,
-      "release_event_multiplier": 0.85,
+      "release_event_multiplier": 1.0,
       "release_event_evidence": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2023-07-13"
+        "source": "initial_review_observation",
+        "initial_review_total": 2705,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
       },
-      "release_event_date_basis": "steam_current_release",
-      "pre_bonus_model_rank": 4,
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 3,
       "trend": [
         {
-          "date": "2026-08-20",
-          "peak": 5524
-        },
-        {
           "date": "2026-08-21",
-          "peak": 8030
+          "peak": 115145
         },
         {
           "date": "2026-08-22",
-          "peak": 8030
+          "peak": 115145
         },
         {
           "date": "2026-08-23",
-          "peak": 9972
+          "peak": 51107
         },
         {
           "date": "2026-08-24",
-          "peak": 8173
+          "peak": 45307
         },
         {
           "date": "2026-08-25",
-          "peak": 8173
+          "peak": 34435
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/2163330/"
+        "url": "https://store.steampowered.com/app/4783780/"
       }
     ],
     "game": {
-      "slug": "yet-another-zombie-survivors",
-      "appid": "2163330",
-      "name": "Yet Another Zombie Survivors",
+      "slug": "call-of-duty-modern-warfare-4-beta",
+      "appid": "4783780",
+      "name": "Call of Duty®: Modern Warfare® 4 - Beta",
       "name_cn": null,
-      "description": "大群敌人即将到来，但你已经做好了战斗准备！召集你的队伍并决定他们的各种增强，以找到对付成千上万不死生物最有效的组合。努力生存，然后进化。然后在这个看似简单但令人上瘾的反转弹雨游戏中打破所有限制。",
-      "release_date": "2026-08-20",
+      "description": "在《现代战争® 4》试玩中，每一场战斗都真实而精准，让你尽情体验以灵活的机动走位、丰富的玩家选择与更强的掌控力为核心打造的战场。",
+      "release_date": "2026-08-21",
       "genres": [
-        "动作",
-        "休闲",
-        "独立",
-        "角色扮演"
+        "动作"
       ],
       "tags": [
         "单人",
-        "Steam 成就",
-        "完全支持控制器",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "跨平台多人",
+        "可调整文字大小",
         "视角舒适度",
         "可选颜色",
         "自定义音量控制",
         "可调整难度",
-        "可以仅用键盘",
-        "可以仅用鼠标",
+        "#category_playable_at_your_own_pace",
         "无需应对快速反应事件",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
         "DualSense 控制器支持",
-        "Steam 云",
-        "Steam 排行榜",
-        "在电视上远程畅玩",
-        "家庭共享"
+        "随时保存",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "部分支持控制器",
+        "Steam 云"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 91.0,
-      "review_total": 14847,
-      "developer": "Awesome Games Studio",
-      "publisher": "Awesome Games Studio",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2163330/2523656dd84e2455ba980622bfdd5b653e57fcf6/header_alt_assets_2_schinese.jpg?t=1787858180",
-      "steam_url": "https://store.steampowered.com/app/2163330",
-      "product_family_identity": "appid:2163330",
-      "product_family_appid": "2163330",
+      "review_score": "Mostly Negative",
+      "review_ratio": 34.0,
+      "review_total": 20760,
+      "developer": "Infinity Ward, Beenox, Digital Legends, Activision Shanghai, Raven Software, Treyarch, Sledgehammer Games, High Moon Studios",
+      "publisher": "Activision",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783780/8c72205bfdf522bada8431d2aacbd1b6c66fac4c/header.jpg?t=1787941380",
+      "steam_url": "https://store.steampowered.com/app/4783780",
+      "product_family_identity": "appid:4783780",
+      "product_family_appid": "4783780",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-08-20",
-          "peak": 5524
-        },
-        {
           "date": "2026-08-21",
-          "peak": 8030
+          "peak": 115145
         },
         {
           "date": "2026-08-22",
-          "peak": 8030
+          "peak": 115145
         },
         {
           "date": "2026-08-23",
-          "peak": 9972
+          "peak": 51107
         },
         {
           "date": "2026-08-24",
-          "peak": 8173
+          "peak": 45307
         },
         {
           "date": "2026-08-25",
-          "peak": 8173
+          "peak": 34435
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Yet Another Zombie Survivors》是一款单人尸潮生存游戏。你带领幸存者小队在成群僵尸中移动，选择成员与升级，把各自的武器和能力组合成能支撑更久的火力。",
-      "reference_frame": "自动攻击减轻了瞄准负担，但玩家仍要亲手寻找安全路线，并判断下一次升级该补什么。队员组合和能力联动，会把同样的尸潮变成不同的走位问题；强化选择需要在实际战斗里接受检验。",
-      "for_players": "适合喜欢短时间内不断获得升级、研究能力组合，又不想反复手动瞄准的玩家。看到薄弱的小队逐渐形成清场能力，是主要的反馈来源。",
-      "not_for_players": "如果希望用复杂连招直接掌控输出，或不喜欢围绕相似战场反复尝试构筑，这种自动攻击与持续走位结合的节奏可能显得单调。",
-      "star_reason": "8 月 25 日保存的观测峰值为 8,173 人。按修正后的发行参评规则复算，本期得分 7.36，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "positioning": "《Call of Duty®: Modern Warfare® 4 - Beta》是《现代战争 4》的公开试玩节点，用多人战场先交出这代作品的移动、射击和交战节奏，让玩家在正式发售前直接检验手感。",
+      "reference_frame": "它仍以小队枪战的读图、架枪和争夺目标为骨架，但试玩介绍把“灵活机动、玩家选择与掌控力”放在前面。判断它是否适合你，关键在于移动能否服务枪线和临场决策，而不只是动作数量变多。",
+      "for_players": "适合熟悉快节奏多人 FPS、愿意反复练枪并通过读图和走位提高稳定性的人。试玩节点也适合想先确认网络、性能、移动系统和武器手感，再决定是否关注正式版的系列玩家。",
+      "not_for_players": "如果你更想要长线单人叙事、低压力合作，或不喜欢频繁重生、快速遭遇和版本初期不断调整配置，这次以多人竞技验证为主的 Beta 很难提供完整产品体验。",
+      "star_reason": "8 月 25 日保存的观测峰值为 34,435 人。本期规则评分 19.80，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
-        "移动小队避开包围，在战斗中获得成长并选择队员与强化方向。",
-        "让武器和能力形成配合，撑过更密集的尸潮，再带着对组合的理解开始下一轮。"
+        "进入多人对局，根据模式目标和出生位置快速判断第一条推进路线。",
+        "用移动、掩体和武器配置争夺有利枪线，在交火后根据敌方位置及时换点。",
+        "从死亡与回合变化里修正路线、交战距离和装备选择，再投入下一轮目标争夺。"
       ],
-      "content_length": 412
+      "content_length": 477
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "How to Fish",
+        "appid": "4001890",
+        "score": 37.5,
+        "reason": "处于摘星冷却期，至 2026-08-29 结束。",
+        "url": "https://store.steampowered.com/app/4001890/"
+      }
+    }
   },
   "secondary_signals": [],
   "candidate_signals": []

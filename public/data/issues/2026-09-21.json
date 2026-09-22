@@ -8,437 +8,541 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "formal_release_rise",
-    "label": "正式版起量",
-    "score": 11.05,
-    "fact_summary": "TCG Card Shop Simulator 今日观测峰值 12,328，较过往最高峰值提升 +9%，被识别为「正式版起量」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 37.5,
+    "fact_summary": "WARDOGS 今日观测峰值 364,279，未超过过往最高峰值 400,196，被识别为「新作起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.0,
+      "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
-      "first_playable_date": "2024-09-15",
-      "current_release_date": "2026-09-14",
+      "first_playable_date": "2026-09-10",
+      "current_release_date": "2026-09-10",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
-      "observation_cutoff_at": "2026-09-21 17:50:11",
-      "current_peak": 12328,
-      "previous_peak": 11306,
-      "previous_record_peak": 11306,
-      "growth_rate": 0.0904,
-      "record_growth_rate": 0.0904,
-      "scoring_peak": 12328,
+      "observation_cutoff_at": "2026-09-21 18:01:18",
+      "current_peak": 364279,
+      "previous_peak": 400196,
+      "previous_record_peak": 400196,
+      "growth_rate": -0.0897,
+      "record_growth_rate": -0.0897,
+      "scoring_peak": 364279,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 11.1,
-      "raw_record_growth_score": 3.16,
-      "growth_score_multiplier": 0.2278,
+      "peak_score": 40.0,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.2045,
-      "growth_scale_crossing_component": 0.0233,
-      "record_growth_score": 0.72,
+      "growth_scale_base_component": 256.2509,
+      "growth_scale_crossing_component": 3.5428,
+      "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 11.82,
-      "event_adjusted_score": 11.82,
+      "score_before_multiplier": 40.0,
+      "event_adjusted_score": 40.0,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 13.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 50.0,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-21",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.935,
-      "base_score": 11.05,
-      "score_multiplier": 0.85,
+      "combined_score_multiplier": 0.9375,
+      "base_score": 37.5,
+      "score_multiplier": 0.75,
       "score_multiplier_reasons": [
-        "repeat_window_star_1x"
+        "repeat_window_star_2x"
       ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "repeat_window_star_count": 2,
+      "app_repeat_window_star_count": 2,
+      "app_prior_total_star_count": 2,
+      "family_repeat_window_star_count": 2,
+      "family_prior_total_star_count": 2,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
+      "prior_total_star_count": 2,
+      "total_star_count": 3,
+      "star_appearance_count": 3,
+      "cumulative_star_count": 2,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 96.0,
-      "review_total": 50009,
-      "days_seen": 7,
-      "comeback_gap_days": 1,
-      "is_new_release": false,
-      "release_age_days": 7,
-      "steam_release_age_days": 7,
-      "release_age_basis": "steam_current_release",
+      "review_ratio": 79.0,
+      "review_total": 77332,
+      "days_seen": 12,
+      "comeback_gap_days": 19,
+      "is_new_release": true,
+      "release_age_days": 11,
+      "steam_release_age_days": 11,
+      "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2024-09-15"
+        "source": "initial_review_observation",
+        "initial_review_total": 0,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "模拟"
+        "动作",
+        "独立",
+        "大型多人在线",
+        "模拟",
+        "抢先体验"
       ],
       "scoring_version": "watched_games_v1",
-      "release_event_type": "formal_release",
-      "release_event_date": "2026-09-14",
-      "release_event_age_days": 7,
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-10",
+      "release_event_age_days": 11,
       "release_event_window_days": 180,
-      "release_event_multiplier": 0.85,
+      "release_event_multiplier": 1.0,
       "release_event_evidence": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2024-09-15"
+        "source": "initial_review_observation",
+        "initial_review_total": 0,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
       },
-      "release_event_date_basis": "steam_current_release",
-      "pre_bonus_model_rank": 6,
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 1,
       "trend": [
         {
+          "date": "2026-08-22",
+          "peak": 0
+        },
+        {
+          "date": "2026-09-11",
+          "peak": 182544
+        },
+        {
+          "date": "2026-09-12",
+          "peak": 363228
+        },
+        {
+          "date": "2026-09-13",
+          "peak": 400196
+        },
+        {
+          "date": "2026-09-14",
+          "peak": 373437
+        },
+        {
           "date": "2026-09-15",
-          "peak": 7318
+          "peak": 297498
         },
         {
           "date": "2026-09-16",
-          "peak": 9885
+          "peak": 339753
         },
         {
           "date": "2026-09-17",
-          "peak": 7265
+          "peak": 267549
         },
         {
           "date": "2026-09-18",
-          "peak": 9036
+          "peak": 272237
         },
         {
           "date": "2026-09-19",
-          "peak": 9491
+          "peak": 296591
         },
         {
           "date": "2026-09-20",
-          "peak": 11306
+          "peak": 327437
         },
         {
           "date": "2026-09-21",
-          "peak": 12328
+          "peak": 364279
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 3,
+      "prior_count": 2,
+      "repeat_window_prior_count": 2
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/3070070/"
+        "url": "https://store.steampowered.com/app/1867240/"
       }
     ],
     "game": {
-      "slug": "tcg-card-shop-simulator",
-      "appid": "3070070",
-      "name": "TCG Card Shop Simulator",
+      "slug": "wardogs",
+      "appid": "1867240",
+      "name": "WARDOGS",
       "name_cn": null,
-      "description": "开设您自己的卡牌商店。摆放最新的补充包，也可以拆开收集卡牌。自行定价、雇佣员工、举办活动，并拓展您的卡牌商店。",
-      "release_date": "2026-09-14",
+      "description": "《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。",
+      "release_date": "2026-09-10",
       "genres": [
-        "模拟"
+        "动作",
+        "独立",
+        "大型多人在线",
+        "模拟",
+        "抢先体验"
       ],
       "tags": [
-        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
         "Steam 成就",
-        "完全支持控制器",
-        "Steam 集换式卡牌",
         "视角舒适度",
         "自定义音量控制",
-        "无需应对快速反应事件",
-        "DUALSHOCK 控制器支持",
-        "DualSense 控制器支持",
-        "随时保存",
-        "Steam 云",
-        "家庭共享"
+        "立体声",
+        "环绕声"
       ],
-      "review_score": "Overwhelmingly Positive",
-      "review_ratio": 96.0,
-      "review_total": 50009,
-      "developer": "OPNeon Games",
-      "publisher": "OPNeon Games",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/80b94bfe22c6cd7bd9f66d0af536ae947f9cce3a/header_alt_assets_0.jpg?t=1789528213",
-      "steam_url": "https://store.steampowered.com/app/3070070",
-      "product_family_identity": "appid:3070070",
-      "product_family_appid": "3070070",
+      "review_score": "Mostly Positive",
+      "review_ratio": 79.0,
+      "review_total": 79948,
+      "developer": "BULKHEAD",
+      "publisher": "Team17",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789503126",
+      "steam_url": "https://store.steampowered.com/app/1867240",
+      "product_family_identity": "appid:1867240",
+      "product_family_appid": "1867240",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-08-22",
+          "peak": 0
+        },
+        {
+          "date": "2026-09-11",
+          "peak": 182544
+        },
+        {
+          "date": "2026-09-12",
+          "peak": 363228
+        },
+        {
+          "date": "2026-09-13",
+          "peak": 400196
+        },
+        {
+          "date": "2026-09-14",
+          "peak": 373437
+        },
+        {
           "date": "2026-09-15",
-          "peak": 7318
+          "peak": 297498
         },
         {
           "date": "2026-09-16",
-          "peak": 9885
+          "peak": 339753
         },
         {
           "date": "2026-09-17",
-          "peak": 7265
+          "peak": 267549
         },
         {
           "date": "2026-09-18",
-          "peak": 9036
+          "peak": 272237
         },
         {
           "date": "2026-09-19",
-          "peak": 9491
+          "peak": 296591
         },
         {
           "date": "2026-09-20",
-          "peak": 11306
+          "peak": 327437
         },
         {
           "date": "2026-09-21",
-          "peak": 12328
+          "peak": 364279
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《TCG Card Shop Simulator》让你经营一家集换式卡牌店：进货、摆货架、定价、招员工，还可以自己拆卡包，把稀有卡拿去出售或留作收藏。经营收入和收藏欲望会争用同一批库存。",
-      "reference_frame": "《Big Ambitions》玩家熟悉的库存、价格和店面运营经验可以迁移过来，但这里聚焦一家卡店。你要照顾顾客购物与店内打牌的需求，也会面对“这包卖掉，还是自己拆开”的小小诱惑。",
-      "for_players": "适合享受店铺从空架子慢慢热闹起来、喜欢整理商品和收集卡牌的人。愿意亲手处理日常经营琐事，会更容易理解扩店带来的成就感。",
-      "not_for_players": "如果你主要想玩完整的卡牌对战，或希望经营完全自动化、只做高层决策，这款围绕零售和拆包展开的模拟可能与预期不同。",
-      "star_reason": "9 月 21 日保存的观测峰值为 12,328 人。按修正后的发行参评规则复算，本期得分 11.05，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "positioning": "《WARDOGS》是一款百人、三方争夺控制区的军事射击游戏：步兵交火、载具协作和可破坏掩体同时改变一条前线，救人、运输和占区都能赚到下一场可用的现金。",
+      "reference_frame": "熟悉《使命召唤：现代战争4》Ground War 的玩家，可以先用载具协同、选择路线推进据点来理解它。WARDOGS 的差别在于三方会持续打断前线，现金又会让每次买枪、装备或载具都影响下一场的投入。",
+      "for_players": "适合喜欢大规模战场、愿意和队友沟通，也乐于处理运输、救援和推进等支援分工的玩家。枪法之外，路线、预算和何时把资源投入战线都能形成判断空间。",
+      "not_for_players": "如果你只想要固定地图、双方对等的小规模对枪，三方干扰、载具火力和场景破坏会增加读图负担；不喜欢频繁阵亡后重新配装的人也可能觉得疲惫。",
+      "star_reason": "9 月 21 日保存的观测峰值为 364,279 人。本期规则评分 37.50，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
-        "订购商品、安排货架和价格，保持店面整洁，满足顾客买卡与活动需求。",
-        "用利润补货、改善设施并扩大空间；拆出的稀有卡则在出售和个人收藏之间作选择。"
+        "根据钱包和队伍的缺口购买枪械、装备或载具，选择一条进入控制区的路线。",
+        "用交火、救援、运输或修筑工事帮助队伍夺区，战线被载具火力或破坏改写后重新找掩体和进场口。",
+        "把对局收益留作后续预算，决定下一场先用低成本支援，还是投入更贵的装备与载具争取突破。"
       ],
-      "content_length": 428
-    },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+      "content_length": 481
+    }
   },
   "main_signal": {
     "rank": 1,
-    "type": "formal_release_rise",
-    "label": "正式版起量",
-    "score": 11.05,
-    "fact_summary": "TCG Card Shop Simulator 今日观测峰值 12,328，较过往最高峰值提升 +9%，被识别为「正式版起量」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 37.5,
+    "fact_summary": "WARDOGS 今日观测峰值 364,279，未超过过往最高峰值 400,196，被识别为「新作起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.0,
+      "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
-      "first_playable_date": "2024-09-15",
-      "current_release_date": "2026-09-14",
+      "first_playable_date": "2026-09-10",
+      "current_release_date": "2026-09-10",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
-      "observation_cutoff_at": "2026-09-21 17:50:11",
-      "current_peak": 12328,
-      "previous_peak": 11306,
-      "previous_record_peak": 11306,
-      "growth_rate": 0.0904,
-      "record_growth_rate": 0.0904,
-      "scoring_peak": 12328,
+      "observation_cutoff_at": "2026-09-21 18:01:18",
+      "current_peak": 364279,
+      "previous_peak": 400196,
+      "previous_record_peak": 400196,
+      "growth_rate": -0.0897,
+      "record_growth_rate": -0.0897,
+      "scoring_peak": 364279,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 11.1,
-      "raw_record_growth_score": 3.16,
-      "growth_score_multiplier": 0.2278,
+      "peak_score": 40.0,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.2045,
-      "growth_scale_crossing_component": 0.0233,
-      "record_growth_score": 0.72,
+      "growth_scale_base_component": 256.2509,
+      "growth_scale_crossing_component": 3.5428,
+      "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 11.82,
-      "event_adjusted_score": 11.82,
+      "score_before_multiplier": 40.0,
+      "event_adjusted_score": 40.0,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 13.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 50.0,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-21",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.935,
-      "base_score": 11.05,
-      "score_multiplier": 0.85,
+      "combined_score_multiplier": 0.9375,
+      "base_score": 37.5,
+      "score_multiplier": 0.75,
       "score_multiplier_reasons": [
-        "repeat_window_star_1x"
+        "repeat_window_star_2x"
       ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "repeat_window_star_count": 2,
+      "app_repeat_window_star_count": 2,
+      "app_prior_total_star_count": 2,
+      "family_repeat_window_star_count": 2,
+      "family_prior_total_star_count": 2,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
+      "prior_total_star_count": 2,
+      "total_star_count": 3,
+      "star_appearance_count": 3,
+      "cumulative_star_count": 2,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 96.0,
-      "review_total": 50009,
-      "days_seen": 7,
-      "comeback_gap_days": 1,
-      "is_new_release": false,
-      "release_age_days": 7,
-      "steam_release_age_days": 7,
-      "release_age_basis": "steam_current_release",
+      "review_ratio": 79.0,
+      "review_total": 77332,
+      "days_seen": 12,
+      "comeback_gap_days": 19,
+      "is_new_release": true,
+      "release_age_days": 11,
+      "steam_release_age_days": 11,
+      "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2024-09-15"
+        "source": "initial_review_observation",
+        "initial_review_total": 0,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "模拟"
+        "动作",
+        "独立",
+        "大型多人在线",
+        "模拟",
+        "抢先体验"
       ],
       "scoring_version": "watched_games_v1",
-      "release_event_type": "formal_release",
-      "release_event_date": "2026-09-14",
-      "release_event_age_days": 7,
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-10",
+      "release_event_age_days": 11,
       "release_event_window_days": 180,
-      "release_event_multiplier": 0.85,
+      "release_event_multiplier": 1.0,
       "release_event_evidence": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2024-09-15"
+        "source": "initial_review_observation",
+        "initial_review_total": 0,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
       },
-      "release_event_date_basis": "steam_current_release",
-      "pre_bonus_model_rank": 6,
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 1,
       "trend": [
         {
+          "date": "2026-08-22",
+          "peak": 0
+        },
+        {
+          "date": "2026-09-11",
+          "peak": 182544
+        },
+        {
+          "date": "2026-09-12",
+          "peak": 363228
+        },
+        {
+          "date": "2026-09-13",
+          "peak": 400196
+        },
+        {
+          "date": "2026-09-14",
+          "peak": 373437
+        },
+        {
           "date": "2026-09-15",
-          "peak": 7318
+          "peak": 297498
         },
         {
           "date": "2026-09-16",
-          "peak": 9885
+          "peak": 339753
         },
         {
           "date": "2026-09-17",
-          "peak": 7265
+          "peak": 267549
         },
         {
           "date": "2026-09-18",
-          "peak": 9036
+          "peak": 272237
         },
         {
           "date": "2026-09-19",
-          "peak": 9491
+          "peak": 296591
         },
         {
           "date": "2026-09-20",
-          "peak": 11306
+          "peak": 327437
         },
         {
           "date": "2026-09-21",
-          "peak": 12328
+          "peak": 364279
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 3,
+      "prior_count": 2,
+      "repeat_window_prior_count": 2
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/3070070/"
+        "url": "https://store.steampowered.com/app/1867240/"
       }
     ],
     "game": {
-      "slug": "tcg-card-shop-simulator",
-      "appid": "3070070",
-      "name": "TCG Card Shop Simulator",
+      "slug": "wardogs",
+      "appid": "1867240",
+      "name": "WARDOGS",
       "name_cn": null,
-      "description": "开设您自己的卡牌商店。摆放最新的补充包，也可以拆开收集卡牌。自行定价、雇佣员工、举办活动，并拓展您的卡牌商店。",
-      "release_date": "2026-09-14",
+      "description": "《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。",
+      "release_date": "2026-09-10",
       "genres": [
-        "模拟"
+        "动作",
+        "独立",
+        "大型多人在线",
+        "模拟",
+        "抢先体验"
       ],
       "tags": [
-        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
         "Steam 成就",
-        "完全支持控制器",
-        "Steam 集换式卡牌",
         "视角舒适度",
         "自定义音量控制",
-        "无需应对快速反应事件",
-        "DUALSHOCK 控制器支持",
-        "DualSense 控制器支持",
-        "随时保存",
-        "Steam 云",
-        "家庭共享"
+        "立体声",
+        "环绕声"
       ],
-      "review_score": "Overwhelmingly Positive",
-      "review_ratio": 96.0,
-      "review_total": 50009,
-      "developer": "OPNeon Games",
-      "publisher": "OPNeon Games",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/80b94bfe22c6cd7bd9f66d0af536ae947f9cce3a/header_alt_assets_0.jpg?t=1789528213",
-      "steam_url": "https://store.steampowered.com/app/3070070",
-      "product_family_identity": "appid:3070070",
-      "product_family_appid": "3070070",
+      "review_score": "Mostly Positive",
+      "review_ratio": 79.0,
+      "review_total": 79948,
+      "developer": "BULKHEAD",
+      "publisher": "Team17",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789503126",
+      "steam_url": "https://store.steampowered.com/app/1867240",
+      "product_family_identity": "appid:1867240",
+      "product_family_appid": "1867240",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-08-22",
+          "peak": 0
+        },
+        {
+          "date": "2026-09-11",
+          "peak": 182544
+        },
+        {
+          "date": "2026-09-12",
+          "peak": 363228
+        },
+        {
+          "date": "2026-09-13",
+          "peak": 400196
+        },
+        {
+          "date": "2026-09-14",
+          "peak": 373437
+        },
+        {
           "date": "2026-09-15",
-          "peak": 7318
+          "peak": 297498
         },
         {
           "date": "2026-09-16",
-          "peak": 9885
+          "peak": 339753
         },
         {
           "date": "2026-09-17",
-          "peak": 7265
+          "peak": 267549
         },
         {
           "date": "2026-09-18",
-          "peak": 9036
+          "peak": 272237
         },
         {
           "date": "2026-09-19",
-          "peak": 9491
+          "peak": 296591
         },
         {
           "date": "2026-09-20",
-          "peak": 11306
+          "peak": 327437
         },
         {
           "date": "2026-09-21",
-          "peak": 12328
+          "peak": 364279
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《TCG Card Shop Simulator》让你经营一家集换式卡牌店：进货、摆货架、定价、招员工，还可以自己拆卡包，把稀有卡拿去出售或留作收藏。经营收入和收藏欲望会争用同一批库存。",
-      "reference_frame": "《Big Ambitions》玩家熟悉的库存、价格和店面运营经验可以迁移过来，但这里聚焦一家卡店。你要照顾顾客购物与店内打牌的需求，也会面对“这包卖掉，还是自己拆开”的小小诱惑。",
-      "for_players": "适合享受店铺从空架子慢慢热闹起来、喜欢整理商品和收集卡牌的人。愿意亲手处理日常经营琐事，会更容易理解扩店带来的成就感。",
-      "not_for_players": "如果你主要想玩完整的卡牌对战，或希望经营完全自动化、只做高层决策，这款围绕零售和拆包展开的模拟可能与预期不同。",
-      "star_reason": "9 月 21 日保存的观测峰值为 12,328 人。按修正后的发行参评规则复算，本期得分 11.05，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "positioning": "《WARDOGS》是一款百人、三方争夺控制区的军事射击游戏：步兵交火、载具协作和可破坏掩体同时改变一条前线，救人、运输和占区都能赚到下一场可用的现金。",
+      "reference_frame": "熟悉《使命召唤：现代战争4》Ground War 的玩家，可以先用载具协同、选择路线推进据点来理解它。WARDOGS 的差别在于三方会持续打断前线，现金又会让每次买枪、装备或载具都影响下一场的投入。",
+      "for_players": "适合喜欢大规模战场、愿意和队友沟通，也乐于处理运输、救援和推进等支援分工的玩家。枪法之外，路线、预算和何时把资源投入战线都能形成判断空间。",
+      "not_for_players": "如果你只想要固定地图、双方对等的小规模对枪，三方干扰、载具火力和场景破坏会增加读图负担；不喜欢频繁阵亡后重新配装的人也可能觉得疲惫。",
+      "star_reason": "9 月 21 日保存的观测峰值为 364,279 人。本期规则评分 37.50，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
-        "订购商品、安排货架和价格，保持店面整洁，满足顾客买卡与活动需求。",
-        "用利润补货、改善设施并扩大空间；拆出的稀有卡则在出售和个人收藏之间作选择。"
+        "根据钱包和队伍的缺口购买枪械、装备或载具，选择一条进入控制区的路线。",
+        "用交火、救援、运输或修筑工事帮助队伍夺区，战线被载具火力或破坏改写后重新找掩体和进场口。",
+        "把对局收益留作后续预算，决定下一场先用低成本支援，还是投入更贵的装备与载具争取突破。"
       ],
-      "content_length": 428
-    },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+      "content_length": 481
+    }
   },
   "secondary_signals": [],
   "candidate_signals": []

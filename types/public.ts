@@ -33,6 +33,10 @@ export type Signal = {
   score: number
   fact_summary: string
   selection_note?: string
+  selection_context?: {
+    model_rank: number
+    leader: { name: string; appid?: string; score: number; reason: string; url?: string }
+  }
   metrics: Record<string, unknown>
   star_appearance?: {
     count: number

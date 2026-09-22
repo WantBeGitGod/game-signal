@@ -8,39 +8,43 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 8.02,
-    "fact_summary": "Aliens: Fireteam Elite 2 今日观测峰值 7,131，首次进入当前观察窗口，被识别为「新作起量」。",
+    "type": "formal_release_rise",
+    "label": "正式版起量",
+    "score": 8.19,
+    "fact_summary": "Yet Another Zombie Survivors 今日观测峰值 7,277，未超过过往最高峰值 9,972，被识别为「正式版起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
-      "first_playable_date": "2026-08-25",
-      "current_release_date": "2026-08-25",
+      "first_playable_date": "2023-07-13",
+      "current_release_date": "2026-08-20",
+      "release_cycle_start": "2026-08-20",
+      "release_observation_start": "2026-08-20",
+      "ea_formal_gap_days": 1134,
+      "inherits_ea_history": false,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-26 18:52:18",
-      "current_peak": 7131,
-      "previous_peak": 0,
-      "previous_record_peak": 0,
-      "growth_rate": 0.0,
-      "record_growth_rate": 0.0,
-      "scoring_peak": 7131,
+      "current_peak": 7277,
+      "previous_peak": 9972,
+      "previous_record_peak": 9972,
+      "growth_rate": -0.2703,
+      "record_growth_rate": -0.2703,
+      "scoring_peak": 7277,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 6.42,
+      "peak_score": 6.55,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.0,
+      "growth_score_multiplier": 0.1591,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.0,
+      "growth_scale_base_component": 0.1591,
       "growth_scale_crossing_component": 0.0,
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 6.42,
-      "event_adjusted_score": 6.42,
+      "score_before_multiplier": 6.55,
+      "event_adjusted_score": 6.55,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 8.02,
+      "review_adjusted_score": 8.19,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": null,
@@ -48,7 +52,7 @@
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
       "combined_score_multiplier": 1.25,
-      "base_score": 8.02,
+      "base_score": 8.19,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -68,47 +72,74 @@
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": null,
       "review_total": 0,
-      "days_seen": 1,
-      "comeback_gap_days": 0,
-      "is_new_release": true,
-      "release_age_days": 1,
-      "steam_release_age_days": 1,
-      "release_age_basis": "confirmed_identity",
+      "days_seen": 7,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 6,
+      "steam_release_age_days": 6,
+      "release_age_basis": "ea_formal_transition",
       "release_verification_required": false,
       "release_verification": {
-        "source": "initial_review_observation",
-        "initial_review_total": 2241,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2023-07-13",
+        "gap_days": 1134,
+        "inherits_ea_history": false
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作"
+        "动作",
+        "休闲",
+        "独立",
+        "角色扮演"
       ],
       "scoring_version": "watched_games_v1",
-      "release_event_type": "true_new",
-      "release_event_date": "2026-08-25",
-      "release_event_age_days": 1,
+      "release_event_type": "formal_release",
+      "release_event_date": "2026-08-20",
+      "release_event_age_days": 6,
       "release_event_window_days": 180,
-      "release_event_multiplier": 1.0,
+      "release_event_multiplier": 0.85,
       "release_event_evidence": {
-        "source": "initial_review_observation",
-        "initial_review_total": 2241,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2023-07-13",
+        "gap_days": 1134,
+        "inherits_ea_history": false
       },
-      "release_event_date_basis": "confirmed_identity",
+      "release_event_date_basis": "ea_formal_transition",
       "pre_bonus_model_rank": 3,
       "trend": [
         {
+          "date": "2026-08-20",
+          "peak": 5524
+        },
+        {
+          "date": "2026-08-21",
+          "peak": 8030
+        },
+        {
+          "date": "2026-08-22",
+          "peak": 8030
+        },
+        {
+          "date": "2026-08-23",
+          "peak": 9972
+        },
+        {
+          "date": "2026-08-24",
+          "peak": 8173
+        },
+        {
+          "date": "2026-08-25",
+          "peak": 8173
+        },
+        {
           "date": "2026-08-26",
-          "peak": 7131
+          "peak": 7277
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 1,
@@ -118,108 +149,147 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/3448650/"
+        "url": "https://store.steampowered.com/app/2163330/"
       }
     ],
     "game": {
-      "slug": "aliens-fireteam-elite-2",
-      "appid": "3448650",
-      "name": "Aliens: Fireteam Elite 2",
+      "slug": "yet-another-zombie-survivors",
+      "appid": "2163330",
+      "name": "Yet Another Zombie Survivors",
       "name_cn": null,
-      "description": "《Aliens: Fireteam Elite 2》将最多四名玩家投入殖民陆战队的角色之中，奉命奔赴《Aliens》宇宙中最险恶的角落。这不是救援任务，而是一场生死之战。异形蜂拥而至。每一个房间都可能是最后的葬身之地。",
-      "release_date": "2026-08-25",
+      "description": "大群敌人即将到来，但你已经做好了战斗准备！召集你的队伍并决定他们的各种增强，以找到对付成千上万不死生物最有效的组合。努力生存，然后进化。然后在这个看似简单但令人上瘾的反转弹雨游戏中打破所有限制。",
+      "release_date": "2026-08-20",
       "genres": [
-        "动作"
+        "动作",
+        "休闲",
+        "独立",
+        "角色扮演"
       ],
       "tags": [
         "单人",
-        "多人",
-        "合作",
-        "在线合作",
         "Steam 成就",
-        "可调整文字大小",
+        "完全支持控制器",
         "视角舒适度",
         "可选颜色",
         "自定义音量控制",
         "可调整难度",
+        "可以仅用键盘",
+        "可以仅用鼠标",
+        "无需应对快速反应事件",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
         "DualSense 控制器支持",
-        "立体声",
-        "字幕选项",
-        "环绕声",
-        "部分支持控制器",
         "Steam 云",
+        "Steam 排行榜",
+        "在电视上远程畅玩",
         "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 63.0,
-      "review_total": 3272,
-      "developer": "Cold Iron Studios",
-      "publisher": "Daybreak Game Company",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448650/9b3d808b5a39c572dc13ced8024e8085bd306805/header.jpg?t=1787772466",
-      "steam_url": "https://store.steampowered.com/app/3448650",
-      "product_family_identity": "appid:3448650",
-      "product_family_appid": "3448650",
+      "review_score": "Very Positive",
+      "review_ratio": 91.0,
+      "review_total": 14847,
+      "developer": "Awesome Games Studio",
+      "publisher": "Awesome Games Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2163330/2523656dd84e2455ba980622bfdd5b653e57fcf6/header_alt_assets_2_schinese.jpg?t=1787858180",
+      "steam_url": "https://store.steampowered.com/app/2163330",
+      "product_family_identity": "appid:2163330",
+      "product_family_appid": "2163330",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-08-20",
+          "peak": 5524
+        },
+        {
+          "date": "2026-08-21",
+          "peak": 8030
+        },
+        {
+          "date": "2026-08-22",
+          "peak": 8030
+        },
+        {
+          "date": "2026-08-23",
+          "peak": 9972
+        },
+        {
+          "date": "2026-08-24",
+          "peak": 8173
+        },
+        {
+          "date": "2026-08-25",
+          "peak": 8173
+        },
+        {
           "date": "2026-08-26",
-          "peak": 7131
+          "peak": 7277
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《异形：火力精英 2》是一款合作第三人称射击游戏。最多四名殖民地陆战队员一起面对异形群，队伍需要在同一个交战空间里保持火力，避免敌人贴近后让阵线失去秩序。",
-      "reference_frame": "可以从合作战役的分工理解它：你既要瞄准眼前目标，也要留意队友正在应付哪一侧。异形成群逼近，让持续射击、移动与互相照应成为同一件事，电影里的压迫感因此落到玩家操作上。",
-      "for_players": "适合喜欢异形题材、愿意和朋友反复打合作任务的人。能接受边射击边交流、为团队留意危险，比只追求自己的击杀数更容易享受这种战斗。",
-      "not_for_players": "如果你想要缓慢独行的恐怖探索，或完全不依赖队友的单人闯关，应先确认这种高强度合作射击是否合口味。",
-      "star_reason": "8 月 26 日保存的观测峰值为 7,131 人。按修正后的发行参评规则复算，本期得分 8.02，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "positioning": "《Yet Another Zombie Survivors》是一款单人尸潮生存游戏。你带领幸存者小队在成群僵尸中移动，选择成员与升级，把各自的武器和能力组合成能支撑更久的火力。",
+      "reference_frame": "自动攻击减轻了瞄准负担，但玩家仍要亲手寻找安全路线，并判断下一次升级该补什么。队员组合和能力联动，会把同样的尸潮变成不同的走位问题；强化选择需要在实际战斗里接受检验。",
+      "for_players": "适合喜欢短时间内不断获得升级、研究能力组合，又不想反复手动瞄准的玩家。看到薄弱的小队逐渐形成清场能力，是主要的反馈来源。",
+      "not_for_players": "如果希望用复杂连招直接掌控输出，或不喜欢围绕相似战场反复尝试构筑，这种自动攻击与持续走位结合的节奏可能显得单调。",
+      "star_reason": "8 月 26 日保存的观测峰值为 7,277 人。本期规则评分 8.19，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
-        "与队友进入任务区域，观察敌人来向并展开交战。",
-        "在推进中保持距离与互相支援，处理接连出现的威胁，一起完成任务。"
+        "移动小队避开包围，在战斗中获得成长并选择队员与强化方向。",
+        "让武器和能力形成配合，撑过更密集的尸潮，再带着对组合的理解开始下一轮。"
       ],
-      "content_length": 386
+      "content_length": 399
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "How to Fish",
+        "appid": "4001890",
+        "score": 40.6,
+        "reason": "处于摘星冷却期，至 2026-08-29 结束。",
+        "url": "https://store.steampowered.com/app/4001890/"
+      }
+    }
   },
   "main_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 8.02,
-    "fact_summary": "Aliens: Fireteam Elite 2 今日观测峰值 7,131，首次进入当前观察窗口，被识别为「新作起量」。",
+    "type": "formal_release_rise",
+    "label": "正式版起量",
+    "score": 8.19,
+    "fact_summary": "Yet Another Zombie Survivors 今日观测峰值 7,277，未超过过往最高峰值 9,972，被识别为「正式版起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
-      "first_playable_date": "2026-08-25",
-      "current_release_date": "2026-08-25",
+      "first_playable_date": "2023-07-13",
+      "current_release_date": "2026-08-20",
+      "release_cycle_start": "2026-08-20",
+      "release_observation_start": "2026-08-20",
+      "ea_formal_gap_days": 1134,
+      "inherits_ea_history": false,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-26 18:52:18",
-      "current_peak": 7131,
-      "previous_peak": 0,
-      "previous_record_peak": 0,
-      "growth_rate": 0.0,
-      "record_growth_rate": 0.0,
-      "scoring_peak": 7131,
+      "current_peak": 7277,
+      "previous_peak": 9972,
+      "previous_record_peak": 9972,
+      "growth_rate": -0.2703,
+      "record_growth_rate": -0.2703,
+      "scoring_peak": 7277,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 6.42,
+      "peak_score": 6.55,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.0,
+      "growth_score_multiplier": 0.1591,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.0,
+      "growth_scale_base_component": 0.1591,
       "growth_scale_crossing_component": 0.0,
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 6.42,
-      "event_adjusted_score": 6.42,
+      "score_before_multiplier": 6.55,
+      "event_adjusted_score": 6.55,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 8.02,
+      "review_adjusted_score": 8.19,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": null,
@@ -227,7 +297,7 @@
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
       "combined_score_multiplier": 1.25,
-      "base_score": 8.02,
+      "base_score": 8.19,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -247,47 +317,74 @@
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": null,
       "review_total": 0,
-      "days_seen": 1,
-      "comeback_gap_days": 0,
-      "is_new_release": true,
-      "release_age_days": 1,
-      "steam_release_age_days": 1,
-      "release_age_basis": "confirmed_identity",
+      "days_seen": 7,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 6,
+      "steam_release_age_days": 6,
+      "release_age_basis": "ea_formal_transition",
       "release_verification_required": false,
       "release_verification": {
-        "source": "initial_review_observation",
-        "initial_review_total": 2241,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2023-07-13",
+        "gap_days": 1134,
+        "inherits_ea_history": false
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作"
+        "动作",
+        "休闲",
+        "独立",
+        "角色扮演"
       ],
       "scoring_version": "watched_games_v1",
-      "release_event_type": "true_new",
-      "release_event_date": "2026-08-25",
-      "release_event_age_days": 1,
+      "release_event_type": "formal_release",
+      "release_event_date": "2026-08-20",
+      "release_event_age_days": 6,
       "release_event_window_days": 180,
-      "release_event_multiplier": 1.0,
+      "release_event_multiplier": 0.85,
       "release_event_evidence": {
-        "source": "initial_review_observation",
-        "initial_review_total": 2241,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2023-07-13",
+        "gap_days": 1134,
+        "inherits_ea_history": false
       },
-      "release_event_date_basis": "confirmed_identity",
+      "release_event_date_basis": "ea_formal_transition",
       "pre_bonus_model_rank": 3,
       "trend": [
         {
+          "date": "2026-08-20",
+          "peak": 5524
+        },
+        {
+          "date": "2026-08-21",
+          "peak": 8030
+        },
+        {
+          "date": "2026-08-22",
+          "peak": 8030
+        },
+        {
+          "date": "2026-08-23",
+          "peak": 9972
+        },
+        {
+          "date": "2026-08-24",
+          "peak": 8173
+        },
+        {
+          "date": "2026-08-25",
+          "peak": 8173
+        },
+        {
           "date": "2026-08-26",
-          "peak": 7131
+          "peak": 7277
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 1,
@@ -297,72 +394,107 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/3448650/"
+        "url": "https://store.steampowered.com/app/2163330/"
       }
     ],
     "game": {
-      "slug": "aliens-fireteam-elite-2",
-      "appid": "3448650",
-      "name": "Aliens: Fireteam Elite 2",
+      "slug": "yet-another-zombie-survivors",
+      "appid": "2163330",
+      "name": "Yet Another Zombie Survivors",
       "name_cn": null,
-      "description": "《Aliens: Fireteam Elite 2》将最多四名玩家投入殖民陆战队的角色之中，奉命奔赴《Aliens》宇宙中最险恶的角落。这不是救援任务，而是一场生死之战。异形蜂拥而至。每一个房间都可能是最后的葬身之地。",
-      "release_date": "2026-08-25",
+      "description": "大群敌人即将到来，但你已经做好了战斗准备！召集你的队伍并决定他们的各种增强，以找到对付成千上万不死生物最有效的组合。努力生存，然后进化。然后在这个看似简单但令人上瘾的反转弹雨游戏中打破所有限制。",
+      "release_date": "2026-08-20",
       "genres": [
-        "动作"
+        "动作",
+        "休闲",
+        "独立",
+        "角色扮演"
       ],
       "tags": [
         "单人",
-        "多人",
-        "合作",
-        "在线合作",
         "Steam 成就",
-        "可调整文字大小",
+        "完全支持控制器",
         "视角舒适度",
         "可选颜色",
         "自定义音量控制",
         "可调整难度",
+        "可以仅用键盘",
+        "可以仅用鼠标",
+        "无需应对快速反应事件",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
         "DualSense 控制器支持",
-        "立体声",
-        "字幕选项",
-        "环绕声",
-        "部分支持控制器",
         "Steam 云",
+        "Steam 排行榜",
+        "在电视上远程畅玩",
         "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 63.0,
-      "review_total": 3272,
-      "developer": "Cold Iron Studios",
-      "publisher": "Daybreak Game Company",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448650/9b3d808b5a39c572dc13ced8024e8085bd306805/header.jpg?t=1787772466",
-      "steam_url": "https://store.steampowered.com/app/3448650",
-      "product_family_identity": "appid:3448650",
-      "product_family_appid": "3448650",
+      "review_score": "Very Positive",
+      "review_ratio": 91.0,
+      "review_total": 14847,
+      "developer": "Awesome Games Studio",
+      "publisher": "Awesome Games Studio",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2163330/2523656dd84e2455ba980622bfdd5b653e57fcf6/header_alt_assets_2_schinese.jpg?t=1787858180",
+      "steam_url": "https://store.steampowered.com/app/2163330",
+      "product_family_identity": "appid:2163330",
+      "product_family_appid": "2163330",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-08-20",
+          "peak": 5524
+        },
+        {
+          "date": "2026-08-21",
+          "peak": 8030
+        },
+        {
+          "date": "2026-08-22",
+          "peak": 8030
+        },
+        {
+          "date": "2026-08-23",
+          "peak": 9972
+        },
+        {
+          "date": "2026-08-24",
+          "peak": 8173
+        },
+        {
+          "date": "2026-08-25",
+          "peak": 8173
+        },
+        {
           "date": "2026-08-26",
-          "peak": 7131
+          "peak": 7277
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《异形：火力精英 2》是一款合作第三人称射击游戏。最多四名殖民地陆战队员一起面对异形群，队伍需要在同一个交战空间里保持火力，避免敌人贴近后让阵线失去秩序。",
-      "reference_frame": "可以从合作战役的分工理解它：你既要瞄准眼前目标，也要留意队友正在应付哪一侧。异形成群逼近，让持续射击、移动与互相照应成为同一件事，电影里的压迫感因此落到玩家操作上。",
-      "for_players": "适合喜欢异形题材、愿意和朋友反复打合作任务的人。能接受边射击边交流、为团队留意危险，比只追求自己的击杀数更容易享受这种战斗。",
-      "not_for_players": "如果你想要缓慢独行的恐怖探索，或完全不依赖队友的单人闯关，应先确认这种高强度合作射击是否合口味。",
-      "star_reason": "8 月 26 日保存的观测峰值为 7,131 人。按修正后的发行参评规则复算，本期得分 8.02，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "positioning": "《Yet Another Zombie Survivors》是一款单人尸潮生存游戏。你带领幸存者小队在成群僵尸中移动，选择成员与升级，把各自的武器和能力组合成能支撑更久的火力。",
+      "reference_frame": "自动攻击减轻了瞄准负担，但玩家仍要亲手寻找安全路线，并判断下一次升级该补什么。队员组合和能力联动，会把同样的尸潮变成不同的走位问题；强化选择需要在实际战斗里接受检验。",
+      "for_players": "适合喜欢短时间内不断获得升级、研究能力组合，又不想反复手动瞄准的玩家。看到薄弱的小队逐渐形成清场能力，是主要的反馈来源。",
+      "not_for_players": "如果希望用复杂连招直接掌控输出，或不喜欢围绕相似战场反复尝试构筑，这种自动攻击与持续走位结合的节奏可能显得单调。",
+      "star_reason": "8 月 26 日保存的观测峰值为 7,277 人。本期规则评分 8.19，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
-        "与队友进入任务区域，观察敌人来向并展开交战。",
-        "在推进中保持距离与互相支援，处理接连出现的威胁，一起完成任务。"
+        "移动小队避开包围，在战斗中获得成长并选择队员与强化方向。",
+        "让武器和能力形成配合，撑过更密集的尸潮，再带着对组合的理解开始下一轮。"
       ],
-      "content_length": 386
+      "content_length": 399
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "How to Fish",
+        "appid": "4001890",
+        "score": 40.6,
+        "reason": "处于摘星冷却期，至 2026-08-29 结束。",
+        "url": "https://store.steampowered.com/app/4001890/"
+      }
+    }
   },
   "secondary_signals": [],
   "candidate_signals": []

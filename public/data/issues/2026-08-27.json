@@ -10,13 +10,17 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 6.62,
+    "score": 7.79,
     "fact_summary": "Aliens: Fireteam Elite 2 今日观测峰值 6,921，未超过过往最高峰值 7,131，被识别为「新作起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-08-25",
       "current_release_date": "2026-08-25",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-27 02:15:40",
       "current_peak": 6921,
@@ -47,26 +51,24 @@
       "review_observation_age_days": null,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.0625,
-      "base_score": 6.62,
-      "score_multiplier": 0.85,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "combined_score_multiplier": 1.25,
+      "base_score": 7.79,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
-      "unstarred_runner_up_streak_days": 0,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 1,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": null,
       "review_total": 0,
@@ -114,12 +116,12 @@
           "peak": 6921
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
@@ -186,26 +188,40 @@
       "reference_frame": "可以从合作战役的分工理解它：你既要瞄准眼前目标，也要留意队友正在应付哪一侧。异形成群逼近，让持续射击、移动与互相照应成为同一件事，电影里的压迫感因此落到玩家操作上。",
       "for_players": "适合喜欢异形题材、愿意和朋友反复打合作任务的人。能接受边射击边交流、为团队留意危险，比只追求自己的击杀数更容易享受这种战斗。",
       "not_for_players": "如果你想要缓慢独行的恐怖探索，或完全不依赖队友的单人闯关，应先确认这种高强度合作射击是否合口味。",
-      "star_reason": "8 月 27 日保存的观测峰值为 6,921 人。按修正后的发行参评规则复算，本期得分 6.62，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "8 月 27 日保存的观测峰值为 6,921 人。本期规则评分 7.79，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "与队友进入任务区域，观察敌人来向并展开交战。",
         "在推进中保持距离与互相支援，处理接连出现的威胁，一起完成任务。"
       ],
-      "content_length": 386
+      "content_length": 373
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "How to Fish",
+        "appid": "4001890",
+        "score": 37.5,
+        "reason": "处于摘星冷却期，至 2026-08-29 结束。",
+        "url": "https://store.steampowered.com/app/4001890/"
+      }
+    }
   },
   "main_signal": {
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 6.62,
+    "score": 7.79,
     "fact_summary": "Aliens: Fireteam Elite 2 今日观测峰值 6,921，未超过过往最高峰值 7,131，被识别为「新作起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-08-25",
       "current_release_date": "2026-08-25",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-08-27 02:15:40",
       "current_peak": 6921,
@@ -236,26 +252,24 @@
       "review_observation_age_days": null,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.0625,
-      "base_score": 6.62,
-      "score_multiplier": 0.85,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "combined_score_multiplier": 1.25,
+      "base_score": 7.79,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
-      "unstarred_runner_up_streak_days": 0,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 1,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": null,
       "review_total": 0,
@@ -303,12 +317,12 @@
           "peak": 6921
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
@@ -375,14 +389,24 @@
       "reference_frame": "可以从合作战役的分工理解它：你既要瞄准眼前目标，也要留意队友正在应付哪一侧。异形成群逼近，让持续射击、移动与互相照应成为同一件事，电影里的压迫感因此落到玩家操作上。",
       "for_players": "适合喜欢异形题材、愿意和朋友反复打合作任务的人。能接受边射击边交流、为团队留意危险，比只追求自己的击杀数更容易享受这种战斗。",
       "not_for_players": "如果你想要缓慢独行的恐怖探索，或完全不依赖队友的单人闯关，应先确认这种高强度合作射击是否合口味。",
-      "star_reason": "8 月 27 日保存的观测峰值为 6,921 人。按修正后的发行参评规则复算，本期得分 6.62，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "8 月 27 日保存的观测峰值为 6,921 人。本期规则评分 7.79，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "与队友进入任务区域，观察敌人来向并展开交战。",
         "在推进中保持距离与互相支援，处理接连出现的威胁，一起完成任务。"
       ],
-      "content_length": 386
+      "content_length": 373
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "How to Fish",
+        "appid": "4001890",
+        "score": 37.5,
+        "reason": "处于摘星冷却期，至 2026-08-29 结束。",
+        "url": "https://store.steampowered.com/app/4001890/"
+      }
+    }
   },
   "secondary_signals": [],
   "candidate_signals": []

@@ -3,7 +3,7 @@
     <div class="home-dateline"><span><i /> 今日之星</span><span>{{ issue.date }} / DAILY SELECTION</span></div>
     <DailyCover :issue="issue" home />
     <section id="quick-take" class="home-reading">
-      <DailyStarQuickTake v-if="starSignal?.quick_take" :brief="starSignal.quick_take" :selection-note="starSignal.selection_note" positioning-shown />
+      <DailyStarQuickTake v-if="starSignal?.quick_take" :brief="starSignal.quick_take" :selection-note="starSignal.selection_note" :selection-context="starSignal.selection_context" positioning-shown />
       <div v-else class="quick-take-unavailable"><h2>游戏速读整理中</h2><p>{{ starSignal?.game.description || starSignal?.fact_summary }}</p></div>
       <div class="reading-links">
         <NuxtLink :to="`/issues/${issue.date}#main-signal`" class="text-link">查看数据与来源 <ArrowUpRight :size="16" /></NuxtLink>

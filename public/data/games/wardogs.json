@@ -24,7 +24,7 @@
   ],
   "review_score": "Mostly Positive",
   "review_ratio": 79.0,
-  "review_total": 77332,
+  "review_total": 79948,
   "developer": "BULKHEAD",
   "publisher": "Team17",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789503126",
@@ -44,6 +44,42 @@
     {
       "date": "2026-09-12",
       "peak": 363228
+    },
+    {
+      "date": "2026-09-13",
+      "peak": 400196
+    },
+    {
+      "date": "2026-09-14",
+      "peak": 373437
+    },
+    {
+      "date": "2026-09-15",
+      "peak": 297498
+    },
+    {
+      "date": "2026-09-16",
+      "peak": 339753
+    },
+    {
+      "date": "2026-09-17",
+      "peak": 267549
+    },
+    {
+      "date": "2026-09-18",
+      "peak": 272237
+    },
+    {
+      "date": "2026-09-19",
+      "peak": 296591
+    },
+    {
+      "date": "2026-09-20",
+      "peak": 327437
+    },
+    {
+      "date": "2026-09-21",
+      "peak": 364279
     }
   ]
 }

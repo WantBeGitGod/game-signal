@@ -8,15 +8,19 @@
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
+    "type": "established_release_rise",
+    "label": "老游起量",
     "score": 11.22,
-    "fact_summary": "Forza Horizon 6 今日观测峰值 12,465，首次进入当前观察窗口，被识别为「新作起量」。",
+    "fact_summary": "Forza Horizon 6 今日观测峰值 12,465，首次进入当前观察窗口，被识别为「老游起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
       "first_playable_date": "2026-05-18",
       "current_release_date": "2026-05-18",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-02 18:01:06",
       "current_peak": 12465,
@@ -70,7 +74,7 @@
       "review_total": 96215,
       "days_seen": 1,
       "comeback_gap_days": 0,
-      "is_new_release": true,
+      "is_new_release": false,
       "release_age_days": 107,
       "steam_release_age_days": 107,
       "release_age_basis": "steam_release",
@@ -110,7 +114,7 @@
           "peak": 12465
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 1,
@@ -182,26 +186,40 @@
       "reference_frame": "开放道路把比赛之间的时间也变成游玩：赶往赛事时可以熟悉弯道、体验车辆差异，或单纯沿景色继续开。回到比赛后，对车的理解又会影响入弯、加速与超车的判断。",
       "for_players": "适合喜欢驾驶本身、收集真实车辆，也愿意在比赛之外放松兜风的人。可以围绕成绩进步设定目标，也可以把探索日本风景当成游玩的动力。",
       "not_for_players": "若只想要严格围绕真实赛道规则的赛事模拟，或希望沿一条紧凑剧情连续推进，需要先确认这种自由驾驶与活动收集的结构是否符合期待。",
-      "star_reason": "9 月 2 日保存的观测峰值为 12,465 人。按修正后的发行参评规则复算，本期得分 11.22，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "9 月 2 日保存的观测峰值为 12,465 人。本期规则评分 11.22，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "选择车辆，在开放世界寻找赛事和驾驶活动，熟悉道路与车辆反应。",
         "完成比赛与挑战，积累车辆和成长，再换一种车或路线继续探索。"
       ],
-      "content_length": 404
+      "content_length": 391
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "STAR WARS Zero Company™",
+        "appid": "2075800",
+        "score": 25.63,
+        "reason": "处于摘星冷却期，至 2026-09-05 结束。",
+        "url": "https://store.steampowered.com/app/2075800/"
+      }
+    }
   },
   "main_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
+    "type": "established_release_rise",
+    "label": "老游起量",
     "score": 11.22,
-    "fact_summary": "Forza Horizon 6 今日观测峰值 12,465，首次进入当前观察窗口，被识别为「新作起量」。",
+    "fact_summary": "Forza Horizon 6 今日观测峰值 12,465，首次进入当前观察窗口，被识别为「老游起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
       "first_playable_date": "2026-05-18",
       "current_release_date": "2026-05-18",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-02 18:01:06",
       "current_peak": 12465,
@@ -255,7 +273,7 @@
       "review_total": 96215,
       "days_seen": 1,
       "comeback_gap_days": 0,
-      "is_new_release": true,
+      "is_new_release": false,
       "release_age_days": 107,
       "steam_release_age_days": 107,
       "release_age_basis": "steam_release",
@@ -295,7 +313,7 @@
           "peak": 12465
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 1,
@@ -367,14 +385,24 @@
       "reference_frame": "开放道路把比赛之间的时间也变成游玩：赶往赛事时可以熟悉弯道、体验车辆差异，或单纯沿景色继续开。回到比赛后，对车的理解又会影响入弯、加速与超车的判断。",
       "for_players": "适合喜欢驾驶本身、收集真实车辆，也愿意在比赛之外放松兜风的人。可以围绕成绩进步设定目标，也可以把探索日本风景当成游玩的动力。",
       "not_for_players": "若只想要严格围绕真实赛道规则的赛事模拟，或希望沿一条紧凑剧情连续推进，需要先确认这种自由驾驶与活动收集的结构是否符合期待。",
-      "star_reason": "9 月 2 日保存的观测峰值为 12,465 人。按修正后的发行参评规则复算，本期得分 11.22，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "9 月 2 日保存的观测峰值为 12,465 人。本期规则评分 11.22，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "选择车辆，在开放世界寻找赛事和驾驶活动，熟悉道路与车辆反应。",
         "完成比赛与挑战，积累车辆和成长，再换一种车或路线继续探索。"
       ],
-      "content_length": 404
+      "content_length": 391
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "STAR WARS Zero Company™",
+        "appid": "2075800",
+        "score": 25.63,
+        "reason": "处于摘星冷却期，至 2026-09-05 结束。",
+        "url": "https://store.steampowered.com/app/2075800/"
+      }
+    }
   },
   "secondary_signals": [],
   "candidate_signals": []

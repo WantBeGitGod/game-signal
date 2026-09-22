@@ -2,84 +2,88 @@
   "schema_version": "1.0.0",
   "date": "2026-09-22",
   "title": "09.22 今日之星",
-  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "summary": "按新版评分与入选规则重排。",
   "status": "published",
   "hero_image": null,
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 11.48,
-    "fact_summary": "Trails in the Sky 2nd Chapter 今日观测峰值 10,911，未超过过往最高峰值 10,940，被识别为「新作起量」。",
+    "type": "established_release_rise",
+    "label": "老游起量",
+    "score": 20.88,
+    "fact_summary": "How to Fish 今日观测峰值 31,801，未超过过往最高峰值 373,971，被识别为「老游起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.25,
+      "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
-      "first_playable_date": "2026-09-16",
-      "current_release_date": "2026-09-16",
+      "first_playable_date": "2026-08-20",
+      "current_release_date": "2026-08-20",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
-      "observation_cutoff_at": "2026-09-22 15:30:51",
-      "current_peak": 10911,
-      "previous_peak": 10940,
-      "previous_record_peak": 10940,
-      "growth_rate": -0.0027,
-      "record_growth_rate": -0.0027,
-      "scoring_peak": 10911,
+      "observation_cutoff_at": "2026-09-22 18:00:44",
+      "current_peak": 31801,
+      "previous_peak": 373971,
+      "previous_record_peak": 373971,
+      "growth_rate": -0.915,
+      "record_growth_rate": -0.915,
+      "scoring_peak": 31801,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 9.82,
+      "peak_score": 22.33,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.2006,
+      "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.1915,
-      "growth_scale_crossing_component": 0.0091,
+      "growth_scale_base_component": 223.7669,
+      "growth_scale_crossing_component": 0.218,
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 9.82,
-      "event_adjusted_score": 9.82,
+      "score_before_multiplier": 22.33,
+      "event_adjusted_score": 22.33,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 13.5,
+      "review_adjusted_score": 24.56,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-22",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.1687,
-      "base_score": 11.48,
+      "combined_score_multiplier": 0.935,
+      "base_score": 20.88,
       "score_multiplier": 0.85,
       "score_multiplier_reasons": [
         "repeat_window_star_1x"
       ],
       "repeat_window_star_count": 1,
       "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
+      "app_prior_total_star_count": 3,
       "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "family_prior_total_star_count": 3,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
+      "prior_total_star_count": 3,
+      "total_star_count": 4,
+      "star_appearance_count": 4,
       "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 97.0,
-      "review_total": 1088,
-      "days_seen": 4,
-      "comeback_gap_days": 1,
-      "is_new_release": true,
-      "release_age_days": 6,
-      "steam_release_age_days": 6,
+      "review_ratio": 95.0,
+      "review_total": 68385,
+      "days_seen": 27,
+      "comeback_gap_days": 2,
+      "is_new_release": false,
+      "release_age_days": 33,
+      "steam_release_age_days": 33,
       "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 658,
+        "initial_review_total": 74,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -89,198 +93,401 @@
       "comeback_evidence": null,
       "genres": [
         "动作",
-        "冒险",
-        "角色扮演"
+        "休闲",
+        "独立",
+        "模拟"
       ],
       "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
-      "release_event_date": "2026-09-16",
-      "release_event_age_days": 6,
+      "release_event_date": "2026-08-20",
+      "release_event_age_days": 33,
       "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 658,
+        "initial_review_total": 74,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 7,
+      "pre_bonus_model_rank": 4,
       "trend": [
         {
+          "date": "2026-08-23",
+          "peak": 268101
+        },
+        {
+          "date": "2026-08-24",
+          "peak": 341691
+        },
+        {
+          "date": "2026-08-25",
+          "peak": 341691
+        },
+        {
+          "date": "2026-08-26",
+          "peak": 373971
+        },
+        {
+          "date": "2026-08-27",
+          "peak": 373971
+        },
+        {
+          "date": "2026-08-28",
+          "peak": 266422
+        },
+        {
+          "date": "2026-08-31",
+          "peak": 116046
+        },
+        {
+          "date": "2026-09-01",
+          "peak": 65061
+        },
+        {
+          "date": "2026-09-02",
+          "peak": 52617
+        },
+        {
+          "date": "2026-09-03",
+          "peak": 45951
+        },
+        {
+          "date": "2026-09-04",
+          "peak": 38852
+        },
+        {
+          "date": "2026-09-05",
+          "peak": 56658
+        },
+        {
+          "date": "2026-09-06",
+          "peak": 112524
+        },
+        {
+          "date": "2026-09-07",
+          "peak": 104233
+        },
+        {
+          "date": "2026-09-08",
+          "peak": 84741
+        },
+        {
+          "date": "2026-09-09",
+          "peak": 73571
+        },
+        {
+          "date": "2026-09-10",
+          "peak": 65358
+        },
+        {
+          "date": "2026-09-11",
+          "peak": 59397
+        },
+        {
+          "date": "2026-09-12",
+          "peak": 64849
+        },
+        {
+          "date": "2026-09-13",
+          "peak": 67721
+        },
+        {
+          "date": "2026-09-14",
+          "peak": 67721
+        },
+        {
+          "date": "2026-09-15",
+          "peak": 50649
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 37183
+        },
+        {
           "date": "2026-09-19",
-          "peak": 10940
+          "peak": 42922
         },
         {
           "date": "2026-09-20",
-          "peak": 9383
+          "peak": 44724
         },
         {
           "date": "2026-09-21",
-          "peak": 7208
+          "peak": 41727
         },
         {
           "date": "2026-09-22",
-          "peak": 10911
+          "peak": 31801
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
+      "count": 4,
+      "prior_count": 3,
       "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4225980"
+        "url": "https://store.steampowered.com/app/4001890/"
       }
     ],
     "game": {
-      "slug": "trails-in-the-sky-2nd-chapter",
-      "appid": "4225980",
-      "name": "Trails in the Sky 2nd Chapter",
+      "slug": "how-to-fish",
+      "appid": "4001890",
+      "name": "How to Fish",
       "name_cn": null,
-      "description": "《空之轨迹 the 2nd》为故事RPG《空之轨迹 the 1st》的正统续作。本作描绘了少女艾丝蒂尔为了寻找在前作结局中突然不见踪影的少年约书亚，踏上全新旅程的故事。",
-      "release_date": "2026-09-16",
+      "description": "《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。",
+      "release_date": "2026-08-20",
       "genres": [
         "动作",
-        "冒险",
-        "角色扮演"
+        "休闲",
+        "独立",
+        "模拟"
       ],
       "tags": [
         "单人",
+        "多人",
+        "合作",
+        "在线合作",
         "Steam 成就",
         "完全支持控制器",
-        "推荐使用手柄",
+        "自定义音量控制",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
         "DualSense 控制器支持",
-        "Steam 输入 API 支持",
-        "Steam 云",
-        "可用 HDR",
+        "随时保存",
+        "立体声",
         "家庭共享"
       ],
       "review_score": "Overwhelmingly Positive",
-      "review_ratio": 97.0,
-      "review_total": 1088,
-      "developer": "Nihon Falcom",
-      "publisher": "Nihon Falcom, GungHo Online Entertainment America, Inc., Clouded Leopard Entertainment",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/7e2f29dcf817ea28698ed1e27f4b86c98ebf1aa3/header_schinese.jpg?t=1789409245",
-      "steam_url": "https://store.steampowered.com/app/4225980",
-      "product_family_identity": "appid:4225980",
-      "product_family_appid": "4225980",
+      "review_ratio": 95.0,
+      "review_total": 68385,
+      "developer": "Dazed Games",
+      "publisher": "Dazed Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
+      "steam_url": "https://store.steampowered.com/app/4001890",
+      "product_family_identity": "appid:4001890",
+      "product_family_appid": "4001890",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-08-23",
+          "peak": 268101
+        },
+        {
+          "date": "2026-08-24",
+          "peak": 341691
+        },
+        {
+          "date": "2026-08-25",
+          "peak": 341691
+        },
+        {
+          "date": "2026-08-26",
+          "peak": 373971
+        },
+        {
+          "date": "2026-08-27",
+          "peak": 373971
+        },
+        {
+          "date": "2026-08-28",
+          "peak": 266422
+        },
+        {
+          "date": "2026-08-31",
+          "peak": 116046
+        },
+        {
+          "date": "2026-09-01",
+          "peak": 65061
+        },
+        {
+          "date": "2026-09-02",
+          "peak": 52617
+        },
+        {
+          "date": "2026-09-03",
+          "peak": 45951
+        },
+        {
+          "date": "2026-09-04",
+          "peak": 38852
+        },
+        {
+          "date": "2026-09-05",
+          "peak": 56658
+        },
+        {
+          "date": "2026-09-06",
+          "peak": 112524
+        },
+        {
+          "date": "2026-09-07",
+          "peak": 104233
+        },
+        {
+          "date": "2026-09-08",
+          "peak": 84741
+        },
+        {
+          "date": "2026-09-09",
+          "peak": 73571
+        },
+        {
+          "date": "2026-09-10",
+          "peak": 65358
+        },
+        {
+          "date": "2026-09-11",
+          "peak": 59397
+        },
+        {
+          "date": "2026-09-12",
+          "peak": 64849
+        },
+        {
+          "date": "2026-09-13",
+          "peak": 67721
+        },
+        {
+          "date": "2026-09-14",
+          "peak": 67721
+        },
+        {
+          "date": "2026-09-15",
+          "peak": 50649
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 37183
+        },
+        {
           "date": "2026-09-19",
-          "peak": 10940
+          "peak": 42922
         },
         {
           "date": "2026-09-20",
-          "peak": 9383
+          "peak": 44724
         },
         {
           "date": "2026-09-21",
-          "peak": 7208
+          "peak": 41727
         },
         {
           "date": "2026-09-22",
-          "peak": 10911
+          "peak": 31801
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《空之轨迹 the 2nd》是一款围绕伙伴与长篇故事展开的单人日式 RPG。艾丝蒂尔踏上寻找约书亚的旅程，你也要带着队伍应对逐渐浮出水面的结社阴谋。",
-      "reference_frame": "战斗给你的乐趣，是安排一队人怎样配合：用战技、必杀技和导力魔法处理敌人，再调整导力器，给下一场战斗准备不同手段。迅捷战斗还加入了联手攻击，冒险途中既有直接交手，也有停下来琢磨队伍的空间。",
-      "for_players": "适合愿意慢慢认识一群角色、既享受剧情也喜欢整理队伍能力的人。接着前作追人物关系，会比只冲着一场场战斗来更容易投入。",
-      "not_for_players": "如果你嫌大量对话打断节奏，或只想持续打怪、立刻拿到下一件装备，这段重叙事的旅程可能太慢。",
-      "star_reason": "9 月 22 日观测峰值为 10,911 人，接近此前的 10,940 人纪录；当天快照的 1,088 条评价中有 97% 好评。首发观察已通过，这是它第二次摘星，尚不能据此判断长期留存。",
+      "positioning": "《How to Fish》是一款支持单人和多人合作的物理钓鱼模拟：玩家驾船撞上荒岛后，得靠捕到的鱼和一连串笨拙但可控的操作，把自己送回家。",
+      "reference_frame": "它把钓鱼做成了多人一起处理物体和意外的轻量合作游戏。鱼、鱼竿、船和岛上的地形都会参与互动；钓上来只是开始，怎么搬运、利用和不把场面弄得更乱，才是乐趣所在。",
+      "for_players": "适合想和朋友边沟通边制造笑料、喜欢物理互动带来临场变数的人。它的规则入口不高，但愿意配合搬运、驾驶和救场的队伍，更容易把混乱变成一次有记忆点的冒险。",
+      "not_for_players": "如果你希望钓鱼过程完全安静、精准且可预测，或不喜欢队友失误、碰撞和物件失控反复打断节奏，这种以意外为核心的合作体验可能会显得吵闹。",
+      "star_reason": "9 月 22 日保存的观测峰值为 31,801 人。本期规则评分 20.88，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
-        "沿着故事前往城镇与野外，和伙伴、居民交谈，追查线索并完成沿途任务。",
-        "调整队伍的战技与导力魔法，打过眼前的敌人，再把成长带进下一段旅程。",
-        "在主线间隙钓鱼、料理、探索，让战斗与长篇对话之间有一些可以自己安排的空当。"
+        "开船探索岛屿周边，找到可下钩的位置、鱼类和继续前进需要的路径。",
+        "抛竿收线，把挣扎的鱼和其他物件拉上船，再和队友一起处理失控的重量、位置与碰撞。",
+        "用新钓到的鱼和发现解开下一段路线，调整分工或操作方法，继续向回家目标推进。"
       ],
-      "content_length": 451
+      "content_length": 444
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 4。",
+    "selection_context": {
+      "model_rank": 4,
+      "leader": {
+        "name": "Valheim",
+        "appid": "892970",
+        "score": 33.0,
+        "reason": "处于摘星冷却期，至 2026-09-26 结束；过去 30 天已摘星 3 次。",
+        "url": "https://store.steampowered.com/app/892970/"
+      }
+    }
   },
   "main_signal": {
     "rank": 1,
-    "type": "new_release_rise",
-    "label": "新作起量",
-    "score": 11.48,
-    "fact_summary": "Trails in the Sky 2nd Chapter 今日观测峰值 10,911，未超过过往最高峰值 10,940，被识别为「新作起量」。",
+    "type": "established_release_rise",
+    "label": "老游起量",
+    "score": 20.88,
+    "fact_summary": "How to Fish 今日观测峰值 31,801，未超过过往最高峰值 373,971，被识别为「老游起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.25,
+      "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
-      "first_playable_date": "2026-09-16",
-      "current_release_date": "2026-09-16",
+      "first_playable_date": "2026-08-20",
+      "current_release_date": "2026-08-20",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
-      "observation_cutoff_at": "2026-09-22 15:30:51",
-      "current_peak": 10911,
-      "previous_peak": 10940,
-      "previous_record_peak": 10940,
-      "growth_rate": -0.0027,
-      "record_growth_rate": -0.0027,
-      "scoring_peak": 10911,
+      "observation_cutoff_at": "2026-09-22 18:00:44",
+      "current_peak": 31801,
+      "previous_peak": 373971,
+      "previous_record_peak": 373971,
+      "growth_rate": -0.915,
+      "record_growth_rate": -0.915,
+      "scoring_peak": 31801,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 9.82,
+      "peak_score": 22.33,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.2006,
+      "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.1915,
-      "growth_scale_crossing_component": 0.0091,
+      "growth_scale_base_component": 223.7669,
+      "growth_scale_crossing_component": 0.218,
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 9.82,
-      "event_adjusted_score": 9.82,
+      "score_before_multiplier": 22.33,
+      "event_adjusted_score": 22.33,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 13.5,
+      "review_adjusted_score": 24.56,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-22",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.1687,
-      "base_score": 11.48,
+      "combined_score_multiplier": 0.935,
+      "base_score": 20.88,
       "score_multiplier": 0.85,
       "score_multiplier_reasons": [
         "repeat_window_star_1x"
       ],
       "repeat_window_star_count": 1,
       "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
+      "app_prior_total_star_count": 3,
       "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "family_prior_total_star_count": 3,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
+      "prior_total_star_count": 3,
+      "total_star_count": 4,
+      "star_appearance_count": 4,
       "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 97.0,
-      "review_total": 1088,
-      "days_seen": 4,
-      "comeback_gap_days": 1,
-      "is_new_release": true,
-      "release_age_days": 6,
-      "steam_release_age_days": 6,
+      "review_ratio": 95.0,
+      "review_total": 68385,
+      "days_seen": 27,
+      "comeback_gap_days": 2,
+      "is_new_release": false,
+      "release_age_days": 33,
+      "steam_release_age_days": 33,
       "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 658,
+        "initial_review_total": 74,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -290,123 +497,322 @@
       "comeback_evidence": null,
       "genres": [
         "动作",
-        "冒险",
-        "角色扮演"
+        "休闲",
+        "独立",
+        "模拟"
       ],
       "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
-      "release_event_date": "2026-09-16",
-      "release_event_age_days": 6,
+      "release_event_date": "2026-08-20",
+      "release_event_age_days": 33,
       "release_event_window_days": 180,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 658,
+        "initial_review_total": 74,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 7,
+      "pre_bonus_model_rank": 4,
       "trend": [
         {
+          "date": "2026-08-23",
+          "peak": 268101
+        },
+        {
+          "date": "2026-08-24",
+          "peak": 341691
+        },
+        {
+          "date": "2026-08-25",
+          "peak": 341691
+        },
+        {
+          "date": "2026-08-26",
+          "peak": 373971
+        },
+        {
+          "date": "2026-08-27",
+          "peak": 373971
+        },
+        {
+          "date": "2026-08-28",
+          "peak": 266422
+        },
+        {
+          "date": "2026-08-31",
+          "peak": 116046
+        },
+        {
+          "date": "2026-09-01",
+          "peak": 65061
+        },
+        {
+          "date": "2026-09-02",
+          "peak": 52617
+        },
+        {
+          "date": "2026-09-03",
+          "peak": 45951
+        },
+        {
+          "date": "2026-09-04",
+          "peak": 38852
+        },
+        {
+          "date": "2026-09-05",
+          "peak": 56658
+        },
+        {
+          "date": "2026-09-06",
+          "peak": 112524
+        },
+        {
+          "date": "2026-09-07",
+          "peak": 104233
+        },
+        {
+          "date": "2026-09-08",
+          "peak": 84741
+        },
+        {
+          "date": "2026-09-09",
+          "peak": 73571
+        },
+        {
+          "date": "2026-09-10",
+          "peak": 65358
+        },
+        {
+          "date": "2026-09-11",
+          "peak": 59397
+        },
+        {
+          "date": "2026-09-12",
+          "peak": 64849
+        },
+        {
+          "date": "2026-09-13",
+          "peak": 67721
+        },
+        {
+          "date": "2026-09-14",
+          "peak": 67721
+        },
+        {
+          "date": "2026-09-15",
+          "peak": 50649
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 37183
+        },
+        {
           "date": "2026-09-19",
-          "peak": 10940
+          "peak": 42922
         },
         {
           "date": "2026-09-20",
-          "peak": 9383
+          "peak": 44724
         },
         {
           "date": "2026-09-21",
-          "peak": 7208
+          "peak": 41727
         },
         {
           "date": "2026-09-22",
-          "peak": 10911
+          "peak": 31801
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
+      "count": 4,
+      "prior_count": 3,
       "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4225980"
+        "url": "https://store.steampowered.com/app/4001890/"
       }
     ],
     "game": {
-      "slug": "trails-in-the-sky-2nd-chapter",
-      "appid": "4225980",
-      "name": "Trails in the Sky 2nd Chapter",
+      "slug": "how-to-fish",
+      "appid": "4001890",
+      "name": "How to Fish",
       "name_cn": null,
-      "description": "《空之轨迹 the 2nd》为故事RPG《空之轨迹 the 1st》的正统续作。本作描绘了少女艾丝蒂尔为了寻找在前作结局中突然不见踪影的少年约书亚，踏上全新旅程的故事。",
-      "release_date": "2026-09-16",
+      "description": "《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。",
+      "release_date": "2026-08-20",
       "genres": [
         "动作",
-        "冒险",
-        "角色扮演"
+        "休闲",
+        "独立",
+        "模拟"
       ],
       "tags": [
         "单人",
+        "多人",
+        "合作",
+        "在线合作",
         "Steam 成就",
         "完全支持控制器",
-        "推荐使用手柄",
+        "自定义音量控制",
         "DUALSHOCK 控制器支持",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
         "DualSense 控制器支持",
-        "Steam 输入 API 支持",
-        "Steam 云",
-        "可用 HDR",
+        "随时保存",
+        "立体声",
         "家庭共享"
       ],
       "review_score": "Overwhelmingly Positive",
-      "review_ratio": 97.0,
-      "review_total": 1088,
-      "developer": "Nihon Falcom",
-      "publisher": "Nihon Falcom, GungHo Online Entertainment America, Inc., Clouded Leopard Entertainment",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/7e2f29dcf817ea28698ed1e27f4b86c98ebf1aa3/header_schinese.jpg?t=1789409245",
-      "steam_url": "https://store.steampowered.com/app/4225980",
-      "product_family_identity": "appid:4225980",
-      "product_family_appid": "4225980",
+      "review_ratio": 95.0,
+      "review_total": 68385,
+      "developer": "Dazed Games",
+      "publisher": "Dazed Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
+      "steam_url": "https://store.steampowered.com/app/4001890",
+      "product_family_identity": "appid:4001890",
+      "product_family_appid": "4001890",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-08-23",
+          "peak": 268101
+        },
+        {
+          "date": "2026-08-24",
+          "peak": 341691
+        },
+        {
+          "date": "2026-08-25",
+          "peak": 341691
+        },
+        {
+          "date": "2026-08-26",
+          "peak": 373971
+        },
+        {
+          "date": "2026-08-27",
+          "peak": 373971
+        },
+        {
+          "date": "2026-08-28",
+          "peak": 266422
+        },
+        {
+          "date": "2026-08-31",
+          "peak": 116046
+        },
+        {
+          "date": "2026-09-01",
+          "peak": 65061
+        },
+        {
+          "date": "2026-09-02",
+          "peak": 52617
+        },
+        {
+          "date": "2026-09-03",
+          "peak": 45951
+        },
+        {
+          "date": "2026-09-04",
+          "peak": 38852
+        },
+        {
+          "date": "2026-09-05",
+          "peak": 56658
+        },
+        {
+          "date": "2026-09-06",
+          "peak": 112524
+        },
+        {
+          "date": "2026-09-07",
+          "peak": 104233
+        },
+        {
+          "date": "2026-09-08",
+          "peak": 84741
+        },
+        {
+          "date": "2026-09-09",
+          "peak": 73571
+        },
+        {
+          "date": "2026-09-10",
+          "peak": 65358
+        },
+        {
+          "date": "2026-09-11",
+          "peak": 59397
+        },
+        {
+          "date": "2026-09-12",
+          "peak": 64849
+        },
+        {
+          "date": "2026-09-13",
+          "peak": 67721
+        },
+        {
+          "date": "2026-09-14",
+          "peak": 67721
+        },
+        {
+          "date": "2026-09-15",
+          "peak": 50649
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 37183
+        },
+        {
           "date": "2026-09-19",
-          "peak": 10940
+          "peak": 42922
         },
         {
           "date": "2026-09-20",
-          "peak": 9383
+          "peak": 44724
         },
         {
           "date": "2026-09-21",
-          "peak": 7208
+          "peak": 41727
         },
         {
           "date": "2026-09-22",
-          "peak": 10911
+          "peak": 31801
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《空之轨迹 the 2nd》是一款围绕伙伴与长篇故事展开的单人日式 RPG。艾丝蒂尔踏上寻找约书亚的旅程，你也要带着队伍应对逐渐浮出水面的结社阴谋。",
-      "reference_frame": "战斗给你的乐趣，是安排一队人怎样配合：用战技、必杀技和导力魔法处理敌人，再调整导力器，给下一场战斗准备不同手段。迅捷战斗还加入了联手攻击，冒险途中既有直接交手，也有停下来琢磨队伍的空间。",
-      "for_players": "适合愿意慢慢认识一群角色、既享受剧情也喜欢整理队伍能力的人。接着前作追人物关系，会比只冲着一场场战斗来更容易投入。",
-      "not_for_players": "如果你嫌大量对话打断节奏，或只想持续打怪、立刻拿到下一件装备，这段重叙事的旅程可能太慢。",
-      "star_reason": "9 月 22 日观测峰值为 10,911 人，接近此前的 10,940 人纪录；当天快照的 1,088 条评价中有 97% 好评。首发观察已通过，这是它第二次摘星，尚不能据此判断长期留存。",
+      "positioning": "《How to Fish》是一款支持单人和多人合作的物理钓鱼模拟：玩家驾船撞上荒岛后，得靠捕到的鱼和一连串笨拙但可控的操作，把自己送回家。",
+      "reference_frame": "它把钓鱼做成了多人一起处理物体和意外的轻量合作游戏。鱼、鱼竿、船和岛上的地形都会参与互动；钓上来只是开始，怎么搬运、利用和不把场面弄得更乱，才是乐趣所在。",
+      "for_players": "适合想和朋友边沟通边制造笑料、喜欢物理互动带来临场变数的人。它的规则入口不高，但愿意配合搬运、驾驶和救场的队伍，更容易把混乱变成一次有记忆点的冒险。",
+      "not_for_players": "如果你希望钓鱼过程完全安静、精准且可预测，或不喜欢队友失误、碰撞和物件失控反复打断节奏，这种以意外为核心的合作体验可能会显得吵闹。",
+      "star_reason": "9 月 22 日保存的观测峰值为 31,801 人。本期规则评分 20.88，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
-        "沿着故事前往城镇与野外，和伙伴、居民交谈，追查线索并完成沿途任务。",
-        "调整队伍的战技与导力魔法，打过眼前的敌人，再把成长带进下一段旅程。",
-        "在主线间隙钓鱼、料理、探索，让战斗与长篇对话之间有一些可以自己安排的空当。"
+        "开船探索岛屿周边，找到可下钩的位置、鱼类和继续前进需要的路径。",
+        "抛竿收线，把挣扎的鱼和其他物件拉上船，再和队友一起处理失控的重量、位置与碰撞。",
+        "用新钓到的鱼和发现解开下一段路线，调整分工或操作方法，继续向回家目标推进。"
       ],
-      "content_length": 451
+      "content_length": 444
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 4。",
+    "selection_context": {
+      "model_rank": 4,
+      "leader": {
+        "name": "Valheim",
+        "appid": "892970",
+        "score": 33.0,
+        "reason": "处于摘星冷却期，至 2026-09-26 结束；过去 30 天已摘星 3 次。",
+        "url": "https://store.steampowered.com/app/892970/"
+      }
+    }
   },
   "secondary_signals": [],
   "candidate_signals": []

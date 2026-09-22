@@ -1,67 +1,79 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-22T20:38:07",
+  "generated_at": "2026-09-23T00:36:33",
   "games": [
     {
       "game": {
-        "slug": "trails-in-the-sky-2nd-chapter",
-        "appid": "4225980",
-        "name": "Trails in the Sky 2nd Chapter",
+        "slug": "how-to-fish",
+        "appid": "4001890",
+        "name": "How to Fish",
         "name_cn": null,
-        "description": "《空之轨迹 the 2nd》为故事RPG《空之轨迹 the 1st》的正统续作。本作描绘了少女艾丝蒂尔为了寻找在前作结局中突然不见踪影的少年约书亚，踏上全新旅程的故事。",
+        "description": "《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。",
         "genres": [
           "动作",
-          "冒险",
-          "角色扮演"
+          "休闲",
+          "独立",
+          "模拟"
         ],
-        "developer": "Nihon Falcom",
-        "publisher": "Nihon Falcom, GungHo Online Entertainment America, Inc., Clouded Leopard Entertainment",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/7e2f29dcf817ea28698ed1e27f4b86c98ebf1aa3/header_schinese.jpg?t=1789409245",
-        "product_family_identity": "appid:4225980",
-        "product_family_appid": "4225980",
+        "developer": "Dazed Games",
+        "publisher": "Dazed Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
+        "product_family_identity": "appid:4001890",
+        "product_family_appid": "4001890",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "how-to-fish"
+      ],
+      "article_title": "How to Fish-给钓鱼佬一把枪，给朋友一场事故",
+      "article_published_at": "2026-08-29",
       "star_dates": [
         "2026-09-22",
-        "2026-09-19"
+        "2026-08-31",
+        "2026-08-22",
+        "2026-08-21"
       ],
       "member_appids": [
-        "4225980"
+        "4001890"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-09-22"
     },
     {
       "game": {
-        "slug": "tcg-card-shop-simulator",
-        "appid": "3070070",
-        "name": "TCG Card Shop Simulator",
+        "slug": "wardogs",
+        "appid": "1867240",
+        "name": "WARDOGS",
         "name_cn": null,
-        "description": "开设您自己的卡牌商店。摆放最新的补充包，也可以拆开收集卡牌。自行定价、雇佣员工、举办活动，并拓展您的卡牌商店。",
+        "description": "《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。",
         "genres": [
-          "模拟"
+          "动作",
+          "独立",
+          "大型多人在线",
+          "模拟",
+          "抢先体验"
         ],
-        "developer": "OPNeon Games",
-        "publisher": "OPNeon Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3070070/80b94bfe22c6cd7bd9f66d0af536ae947f9cce3a/header_alt_assets_0.jpg?t=1789528213",
-        "product_family_identity": "appid:3070070",
-        "product_family_appid": "3070070",
+        "developer": "BULKHEAD",
+        "publisher": "Team17",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789503126",
+        "product_family_identity": "appid:1867240",
+        "product_family_appid": "1867240",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "wardogs"
+      ],
+      "article_title": "WARDOGS-把一场战争存进下一场",
+      "article_published_at": "2026-09-15",
       "star_dates": [
         "2026-09-21",
-        "2026-09-20"
+        "2026-09-13",
+        "2026-09-12"
       ],
       "member_appids": [
-        "3070070"
+        "1867240"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-09-21"
     },
     {
@@ -89,14 +101,50 @@
       "article_title": "符文世界：龙之荒野-把生存建造练成一套冒险技能",
       "article_published_at": "2026-09-19",
       "star_dates": [
-        "2026-09-18",
-        "2026-09-17"
+        "2026-09-20",
+        "2026-09-18"
       ],
       "member_appids": [
         "1374490"
       ],
       "article_count": 1,
-      "latest_star_date": "2026-09-18"
+      "latest_star_date": "2026-09-20"
+    },
+    {
+      "game": {
+        "slug": "valheim",
+        "appid": "892970",
+        "name": "Valheim",
+        "name_cn": null,
+        "description": "一款支持1–10名玩家的同时在线合作的探索生存游戏，背景设定在一个受维京文化启发、程序生成的神话世界中。战斗、建造并征服你的旅程，谱写一段足以获得奥丁眷顾的传奇史诗吧！",
+        "genres": [
+          "动作",
+          "冒险",
+          "独立",
+          "角色扮演"
+        ],
+        "developer": "Iron Gate AB",
+        "publisher": "Coffee Stain Publishing",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789470462",
+        "product_family_identity": "appid:892970",
+        "product_family_appid": "892970",
+        "product_family_role": "full"
+      },
+      "article_slugs": [
+        "valheim"
+      ],
+      "article_title": "Valheim-重开一张世界的理由",
+      "article_published_at": "2026-09-14",
+      "star_dates": [
+        "2026-09-19",
+        "2026-09-11",
+        "2026-09-10"
+      ],
+      "member_appids": [
+        "892970"
+      ],
+      "article_count": 1,
+      "latest_star_date": "2026-09-19"
     },
     {
       "game": {
@@ -127,13 +175,14 @@
       "article_title": "伊莫-把捉宠做成一套借身体的世界语法",
       "article_published_at": "2026-09-17",
       "star_dates": [
+        "2026-09-17",
         "2026-09-16"
       ],
       "member_appids": [
         "4126040"
       ],
       "article_count": 1,
-      "latest_star_date": "2026-09-16"
+      "latest_star_date": "2026-09-17"
     },
     {
       "game": {
@@ -170,105 +219,6 @@
       ],
       "article_count": 1,
       "latest_star_date": "2026-09-15"
-    },
-    {
-      "game": {
-        "slug": "valheim",
-        "appid": "892970",
-        "name": "Valheim",
-        "name_cn": null,
-        "description": "一款支持1–10名玩家的同时在线合作的探索生存游戏，背景设定在一个受维京文化启发、程序生成的神话世界中。战斗、建造并征服你的旅程，谱写一段足以获得奥丁眷顾的传奇史诗吧！",
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "角色扮演"
-        ],
-        "developer": "Iron Gate AB",
-        "publisher": "Coffee Stain Publishing",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789470462",
-        "product_family_identity": "appid:892970",
-        "product_family_appid": "892970",
-        "product_family_role": "full"
-      },
-      "article_slugs": [
-        "valheim"
-      ],
-      "article_title": "Valheim-重开一张世界的理由",
-      "article_published_at": "2026-09-14",
-      "star_dates": [
-        "2026-09-13",
-        "2026-09-11"
-      ],
-      "member_appids": [
-        "892970"
-      ],
-      "article_count": 1,
-      "latest_star_date": "2026-09-13"
-    },
-    {
-      "game": {
-        "slug": "wardogs",
-        "appid": "1867240",
-        "name": "WARDOGS",
-        "name_cn": null,
-        "description": "《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。",
-        "genres": [
-          "动作",
-          "独立",
-          "大型多人在线",
-          "模拟",
-          "抢先体验"
-        ],
-        "developer": "BULKHEAD",
-        "publisher": "Team17",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789503126",
-        "product_family_identity": "appid:1867240",
-        "product_family_appid": "1867240",
-        "product_family_role": "full"
-      },
-      "article_slugs": [
-        "wardogs"
-      ],
-      "article_title": "WARDOGS-把一场战争存进下一场",
-      "article_published_at": "2026-09-15",
-      "star_dates": [
-        "2026-09-12"
-      ],
-      "member_appids": [
-        "1867240"
-      ],
-      "article_count": 1,
-      "latest_star_date": "2026-09-12"
-    },
-    {
-      "game": {
-        "slug": "halloween-the-game",
-        "appid": "3219630",
-        "name": "Halloween: The Game",
-        "name_cn": null,
-        "description": "1978 年的万圣节之夜，没人能从迈克尔·迈尔斯的手中逃脱。在 Halloween 中，化身“面具杀手”，或者直面邪恶奋起反抗。",
-        "genres": [
-          "动作"
-        ],
-        "developer": "IllFonic",
-        "publisher": "IllFonic Publishing, Co-Publisher: Gun Interactive",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1789433204",
-        "product_family_identity": "appid:3219630",
-        "product_family_appid": "3219630",
-        "product_family_role": "full"
-      },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
-      "star_dates": [
-        "2026-09-10"
-      ],
-      "member_appids": [
-        "3219630"
-      ],
-      "article_count": 0,
-      "latest_star_date": "2026-09-10"
     },
     {
       "game": {
@@ -336,36 +286,6 @@
     },
     {
       "game": {
-        "slug": "crimson-desert-enhanced",
-        "appid": "3321460",
-        "name": "Crimson Desert Enhanced",
-        "name_cn": null,
-        "description": "以帕卫尔大陆为背景展开的开放世界动作冒险游戏——《红色沙漠》。 你将化身灰鬃的克里夫，踏上夺回失去的一切、从迫近的威胁中拯救世界的旅程。 驰骋广袤的野生大陆、深入隐藏的古代遗迹、行走于神秘的阿比斯领域，在战斗、探险与发现中开辟只属于你的道路。",
-        "genres": [
-          "动作",
-          "冒险"
-        ],
-        "developer": "Pearl Abyss",
-        "publisher": "Pearl Abyss",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3321460/72caf7e120e63fcf25b92e3b4b6477b76baffa45/header_schinese.jpg?t=1789020763",
-        "product_family_identity": "appid:3321460",
-        "product_family_appid": "3321460",
-        "product_family_role": "full"
-      },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
-      "star_dates": [
-        "2026-09-06"
-      ],
-      "member_appids": [
-        "3321460"
-      ],
-      "article_count": 0,
-      "latest_star_date": "2026-09-06"
-    },
-    {
-      "game": {
         "slug": "onimusha-way-of-the-sword",
         "appid": "2638890",
         "name": "Onimusha: Way of the Sword",
@@ -389,13 +309,14 @@
       "article_title": "鬼武者 Way of the Sword-这一刀，终于砍回来了",
       "article_published_at": "2026-09-07",
       "star_dates": [
+        "2026-09-06",
         "2026-09-05"
       ],
       "member_appids": [
         "2638890"
       ],
       "article_count": 1,
-      "latest_star_date": "2026-09-05"
+      "latest_star_date": "2026-09-06"
     },
     {
       "game": {
@@ -463,6 +384,36 @@
     },
     {
       "game": {
+        "slug": "metal-gear-solid-4-guns-of-the-patriots-master-collection-version",
+        "appid": "2492670",
+        "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
+        "name_cn": null,
+        "description": "Solid Snake的最后任务。 在“Big Shell”事件的五年后，随着 PMC（Private Military Contractor）的崛起，战争逐渐转变为一门生意。为了阻止Liquid Ocelot叛变，传奇英雄Solid Snake将迎来他的最终之战。",
+        "genres": [
+          "动作",
+          "冒险"
+        ],
+        "developer": "KONAMI",
+        "publisher": "KONAMI",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492670/458033bb7aad4e6b8a61af0f7798d23db2683864/header.jpg?t=1788263343",
+        "product_family_identity": "appid:2492670",
+        "product_family_appid": "2492670",
+        "product_family_role": "full"
+      },
+      "article_slugs": [
+        "metal-gear-solid-4-guns-of-the-patriots-master-collection-version"
+      ],
+      "article_title": "合金装备4-迟到十八年的潜入课",
+      "article_published_at": "2026-09-02",
+      "star_dates": [],
+      "member_appids": [
+        "2492670"
+      ],
+      "article_count": 1,
+      "latest_star_date": null
+    },
+    {
+      "game": {
         "slug": "forza-horizon-6",
         "appid": "2483190",
         "name": "Forza Horizon 6",
@@ -517,77 +468,13 @@
       "article_published_at": "2026-09-01",
       "star_dates": [
         "2026-09-01",
-        "2026-08-31"
+        "2026-08-30"
       ],
       "member_appids": [
         "1331550"
       ],
       "article_count": 1,
       "latest_star_date": "2026-09-01"
-    },
-    {
-      "game": {
-        "slug": "metal-gear-solid-4-guns-of-the-patriots-master-collection-version",
-        "appid": "2492670",
-        "name": "METAL GEAR SOLID 4: Guns of the Patriots - Master Collection Version",
-        "name_cn": null,
-        "description": "Solid Snake的最后任务。 在“Big Shell”事件的五年后，随着 PMC（Private Military Contractor）的崛起，战争逐渐转变为一门生意。为了阻止Liquid Ocelot叛变，传奇英雄Solid Snake将迎来他的最终之战。",
-        "genres": [
-          "动作",
-          "冒险"
-        ],
-        "developer": "KONAMI",
-        "publisher": "KONAMI",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492670/458033bb7aad4e6b8a61af0f7798d23db2683864/header.jpg?t=1788263343",
-        "product_family_identity": "appid:2492670",
-        "product_family_appid": "2492670",
-        "product_family_role": "full"
-      },
-      "article_slugs": [
-        "metal-gear-solid-4-guns-of-the-patriots-master-collection-version"
-      ],
-      "article_title": "合金装备4-迟到十八年的潜入课",
-      "article_published_at": "2026-09-02",
-      "star_dates": [
-        "2026-08-30"
-      ],
-      "member_appids": [
-        "2492670"
-      ],
-      "article_count": 1,
-      "latest_star_date": "2026-08-30"
-    },
-    {
-      "game": {
-        "slug": "far-far-west",
-        "appid": "3124540",
-        "name": "Far Far West",
-        "name_cn": null,
-        "description": "大吼咿哈快上马，西部牛仔英姿飒！《遥遥西土》是一款热闹非凡的4人合作射击游戏，你将踏上西行旅途，一路斩妖杀怪、施法念咒、完成任务、领取赏金。召集队友，完成任务，然后趁你还活着（大多数时候）赶紧拿钱走人。",
-        "genres": [
-          "动作",
-          "冒险",
-          "独立",
-          "抢先体验"
-        ],
-        "developer": "Evil Raptor",
-        "publisher": "Fireshine Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3124540/584d539800958040b08013c125126c1eb2a8c0c7/header_schinese.jpg?t=1787841818",
-        "product_family_identity": "appid:3124540",
-        "product_family_appid": "3124540",
-        "product_family_role": "full"
-      },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
-      "star_dates": [
-        "2026-08-29"
-      ],
-      "member_appids": [
-        "3124540"
-      ],
-      "article_count": 0,
-      "latest_star_date": "2026-08-29"
     },
     {
       "game": {
@@ -616,13 +503,14 @@
       "article_title": "星球大战：零号连队-原力请在本回合内使用",
       "article_published_at": "2026-08-30",
       "star_dates": [
+        "2026-08-29",
         "2026-08-28"
       ],
       "member_appids": [
         "2075800"
       ],
       "article_count": 1,
-      "latest_star_date": "2026-08-28"
+      "latest_star_date": "2026-08-29"
     },
     {
       "game": {
@@ -645,8 +533,7 @@
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
-        "2026-08-27",
-        "2026-08-26"
+        "2026-08-27"
       ],
       "member_appids": [
         "3448650"
@@ -678,13 +565,13 @@
       "article_title": null,
       "article_published_at": null,
       "star_dates": [
-        "2026-08-25"
+        "2026-08-26"
       ],
       "member_appids": [
         "2163330"
       ],
       "article_count": 0,
-      "latest_star_date": "2026-08-25"
+      "latest_star_date": "2026-08-26"
     },
     {
       "game": {
@@ -709,13 +596,14 @@
       "article_title": "使命召唤：现代战争4-公开测试不是广告片",
       "article_published_at": "2026-08-25",
       "star_dates": [
+        "2026-08-25",
         "2026-08-24"
       ],
       "member_appids": [
         "4783780"
       ],
       "article_count": 1,
-      "latest_star_date": "2026-08-24"
+      "latest_star_date": "2026-08-25"
     },
     {
       "game": {
@@ -743,41 +631,6 @@
       ],
       "article_count": 0,
       "latest_star_date": "2026-08-23"
-    },
-    {
-      "game": {
-        "slug": "how-to-fish",
-        "appid": "4001890",
-        "name": "How to Fish",
-        "name_cn": null,
-        "description": "《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。",
-        "genres": [
-          "动作",
-          "休闲",
-          "独立",
-          "模拟"
-        ],
-        "developer": "Dazed Games",
-        "publisher": "Dazed Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
-        "product_family_identity": "appid:4001890",
-        "product_family_appid": "4001890",
-        "product_family_role": "full"
-      },
-      "article_slugs": [
-        "how-to-fish"
-      ],
-      "article_title": "How to Fish-给钓鱼佬一把枪，给朋友一场事故",
-      "article_published_at": "2026-08-29",
-      "star_dates": [
-        "2026-08-22",
-        "2026-08-21"
-      ],
-      "member_appids": [
-        "4001890"
-      ],
-      "article_count": 1,
-      "latest_star_date": "2026-08-22"
     },
     {
       "game": {

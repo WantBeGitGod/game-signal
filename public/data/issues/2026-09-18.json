@@ -10,13 +10,17 @@
     "rank": 1,
     "type": "formal_release_rise",
     "label": "正式版起量",
-    "score": 15.89,
+    "score": 23.36,
     "fact_summary": "RuneScape: Dragonwilds 今日观测峰值 21,879，未超过过往最高峰值 23,165，被识别为「正式版起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.0,
+      "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2025-04-15",
       "current_release_date": "2026-09-15",
+      "release_cycle_start": "2026-09-15",
+      "release_observation_start": "2026-09-15",
+      "ea_formal_gap_days": 518,
+      "inherits_ea_history": false,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-18 17:50:39",
       "current_peak": 21879,
@@ -40,32 +44,30 @@
       "event_adjusted_score": 18.69,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 18.69,
+      "review_adjusted_score": 23.36,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-18",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.85,
-      "base_score": 15.89,
-      "score_multiplier": 0.85,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "combined_score_multiplier": 1.25,
+      "base_score": 23.36,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": 81.0,
@@ -75,11 +77,13 @@
       "is_new_release": false,
       "release_age_days": 3,
       "steam_release_age_days": 3,
-      "release_age_basis": "steam_current_release",
+      "release_age_basis": "ea_formal_transition",
       "release_verification_required": false,
       "release_verification": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2025-04-15"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2025-04-15",
+        "gap_days": 518,
+        "inherits_ea_history": false
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
@@ -97,11 +101,13 @@
       "release_event_window_days": 180,
       "release_event_multiplier": 0.85,
       "release_event_evidence": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2025-04-15"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2025-04-15",
+        "gap_days": 518,
+        "inherits_ea_history": false
       },
-      "release_event_date_basis": "steam_current_release",
-      "pre_bonus_model_rank": 6,
+      "release_event_date_basis": "ea_formal_transition",
+      "pre_bonus_model_rank": 4,
       "trend": [
         {
           "date": "2026-09-16",
@@ -116,12 +122,12 @@
           "peak": 21879
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
@@ -156,7 +162,7 @@
       ],
       "review_score": "Very Positive",
       "review_ratio": 81.0,
-      "review_total": 31076,
+      "review_total": 31242,
       "developer": "Jagex Ltd",
       "publisher": "Jagex Ltd, H2 Interactive Co., Ltd., Graph",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/284a46dc9ea5b8424102881a4b8f8599595aa142/header_alt_assets_4_schinese.jpg?t=1789749518",
@@ -185,27 +191,41 @@
       "reference_frame": "玩过《幻兽帕鲁》，你会熟悉外出搜集、回家造装、再向危险区域推进的节奏。帕鲁靠伙伴分工改善生产，这里则把成长放进角色技能：练出法术后，能用幽冥巨斧成片伐木、用魔法开矿，连干活的方式也会变。",
       "for_players": "适合喜欢和朋友共同经营一个家、愿意花时间备战，也享受技能慢慢练起来的玩家。今天造房，明天出征，两种节奏都能接受才容易玩进去。",
       "not_for_players": "如果你只想连续打怪看剧情，讨厌反复采材料和制作补给，这些战斗之间的准备会让你觉得拖沓。",
-      "star_reason": "9 月 18 日保存的观测峰值为 21,879 人。按修正后的发行参评规则复算，本期得分 15.89，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "9 月 18 日保存的观测峰值为 21,879 人。本期规则评分 23.36，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "到新区域找资源、接任务，把材料带回家扩建设施，制作装备和药水。",
         "持续修炼技能，解锁天赋与法术，让采集更有效率，也给探索和战斗添新办法。",
         "带着准备好的装备追踪巨龙；打不过就补物资、练技能，再回来挑战。"
       ],
-      "content_length": 439
+      "content_length": 426
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 4。",
+    "selection_context": {
+      "model_rank": 4,
+      "leader": {
+        "name": "Valheim",
+        "appid": "892970",
+        "score": 41.25,
+        "reason": "处于摘星冷却期，至 2026-09-18 结束。",
+        "url": "https://store.steampowered.com/app/892970/"
+      }
+    }
   },
   "main_signal": {
     "rank": 1,
     "type": "formal_release_rise",
     "label": "正式版起量",
-    "score": 15.89,
+    "score": 23.36,
     "fact_summary": "RuneScape: Dragonwilds 今日观测峰值 21,879，未超过过往最高峰值 23,165，被识别为「正式版起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.0,
+      "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2025-04-15",
       "current_release_date": "2026-09-15",
+      "release_cycle_start": "2026-09-15",
+      "release_observation_start": "2026-09-15",
+      "ea_formal_gap_days": 518,
+      "inherits_ea_history": false,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-18 17:50:39",
       "current_peak": 21879,
@@ -229,32 +249,30 @@
       "event_adjusted_score": 18.69,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 18.69,
+      "review_adjusted_score": 23.36,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-18",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.85,
-      "base_score": 15.89,
-      "score_multiplier": 0.85,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "combined_score_multiplier": 1.25,
+      "base_score": 23.36,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": 81.0,
@@ -264,11 +282,13 @@
       "is_new_release": false,
       "release_age_days": 3,
       "steam_release_age_days": 3,
-      "release_age_basis": "steam_current_release",
+      "release_age_basis": "ea_formal_transition",
       "release_verification_required": false,
       "release_verification": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2025-04-15"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2025-04-15",
+        "gap_days": 518,
+        "inherits_ea_history": false
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
@@ -286,11 +306,13 @@
       "release_event_window_days": 180,
       "release_event_multiplier": 0.85,
       "release_event_evidence": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2025-04-15"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2025-04-15",
+        "gap_days": 518,
+        "inherits_ea_history": false
       },
-      "release_event_date_basis": "steam_current_release",
-      "pre_bonus_model_rank": 6,
+      "release_event_date_basis": "ea_formal_transition",
+      "pre_bonus_model_rank": 4,
       "trend": [
         {
           "date": "2026-09-16",
@@ -305,12 +327,12 @@
           "peak": 21879
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
@@ -345,7 +367,7 @@
       ],
       "review_score": "Very Positive",
       "review_ratio": 81.0,
-      "review_total": 31076,
+      "review_total": 31242,
       "developer": "Jagex Ltd",
       "publisher": "Jagex Ltd, H2 Interactive Co., Ltd., Graph",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/284a46dc9ea5b8424102881a4b8f8599595aa142/header_alt_assets_4_schinese.jpg?t=1789749518",
@@ -374,15 +396,25 @@
       "reference_frame": "玩过《幻兽帕鲁》，你会熟悉外出搜集、回家造装、再向危险区域推进的节奏。帕鲁靠伙伴分工改善生产，这里则把成长放进角色技能：练出法术后，能用幽冥巨斧成片伐木、用魔法开矿，连干活的方式也会变。",
       "for_players": "适合喜欢和朋友共同经营一个家、愿意花时间备战，也享受技能慢慢练起来的玩家。今天造房，明天出征，两种节奏都能接受才容易玩进去。",
       "not_for_players": "如果你只想连续打怪看剧情，讨厌反复采材料和制作补给，这些战斗之间的准备会让你觉得拖沓。",
-      "star_reason": "9 月 18 日保存的观测峰值为 21,879 人。按修正后的发行参评规则复算，本期得分 15.89，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "9 月 18 日保存的观测峰值为 21,879 人。本期规则评分 23.36，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "到新区域找资源、接任务，把材料带回家扩建设施，制作装备和药水。",
         "持续修炼技能，解锁天赋与法术，让采集更有效率，也给探索和战斗添新办法。",
         "带着准备好的装备追踪巨龙；打不过就补物资、练技能，再回来挑战。"
       ],
-      "content_length": 439
+      "content_length": 426
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 4。",
+    "selection_context": {
+      "model_rank": 4,
+      "leader": {
+        "name": "Valheim",
+        "appid": "892970",
+        "score": 41.25,
+        "reason": "处于摘星冷却期，至 2026-09-18 结束。",
+        "url": "https://store.steampowered.com/app/892970/"
+      }
+    }
   },
   "secondary_signals": [],
   "candidate_signals": []

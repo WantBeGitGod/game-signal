@@ -17,6 +17,10 @@
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-02",
       "current_release_date": "2026-09-02",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-07 17:57:07",
       "current_peak": 22154,
@@ -125,7 +129,7 @@
           "peak": 22154
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 1,
@@ -207,14 +211,24 @@
       "reference_frame": "《Big Walk》也会用交流限制制造合作题目；这里则把三个人固定在一条信息传递链上。困难常常发生在“我以为你说的是这个”的瞬间，统一称呼和重复确认都属于实际解法。",
       "for_players": "适合能约齐三名朋友、乐于用语音和动作磨合默契的玩家。有人看错、有人听岔带来的混乱，也是朋友局故事的一部分。",
       "not_for_players": "不愿频繁沟通、希望随机排队就能顺利推进，或想靠自己的熟练操作包办全局的人，容易被另外两人的信息限制卡住。",
-      "star_reason": "9 月 7 日保存的观测峰值为 22,154 人。按修正后的发行参评规则复算，本期得分 25.84，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "9 月 7 日保存的观测峰值为 22,154 人。本期规则评分 25.84，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "各自观察手册、炸弹或队友提示，把自己掌握的信息传给正确的人。",
         "在倒计时结束前确认指令并完成操作；失败后找出传错的一环，调整口令再试。"
       ],
-      "content_length": 394
+      "content_length": 381
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 4。",
+    "selection_context": {
+      "model_rank": 4,
+      "leader": {
+        "name": "The Blood of Dawnwalker",
+        "appid": "3751260",
+        "score": 40.22,
+        "reason": "处于摘星冷却期，至 2026-09-11 结束。",
+        "url": "https://store.steampowered.com/app/3751260/"
+      }
+    }
   },
   "main_signal": {
     "rank": 1,
@@ -227,6 +241,10 @@
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-02",
       "current_release_date": "2026-09-02",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-07 17:57:07",
       "current_peak": 22154,
@@ -335,7 +353,7 @@
           "peak": 22154
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 1,
@@ -417,14 +435,24 @@
       "reference_frame": "《Big Walk》也会用交流限制制造合作题目；这里则把三个人固定在一条信息传递链上。困难常常发生在“我以为你说的是这个”的瞬间，统一称呼和重复确认都属于实际解法。",
       "for_players": "适合能约齐三名朋友、乐于用语音和动作磨合默契的玩家。有人看错、有人听岔带来的混乱，也是朋友局故事的一部分。",
       "not_for_players": "不愿频繁沟通、希望随机排队就能顺利推进，或想靠自己的熟练操作包办全局的人，容易被另外两人的信息限制卡住。",
-      "star_reason": "9 月 7 日保存的观测峰值为 22,154 人。按修正后的发行参评规则复算，本期得分 25.84，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "9 月 7 日保存的观测峰值为 22,154 人。本期规则评分 25.84，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "各自观察手册、炸弹或队友提示，把自己掌握的信息传给正确的人。",
         "在倒计时结束前确认指令并完成操作；失败后找出传错的一环，调整口令再试。"
       ],
-      "content_length": 394
+      "content_length": 381
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 4。",
+    "selection_context": {
+      "model_rank": 4,
+      "leader": {
+        "name": "The Blood of Dawnwalker",
+        "appid": "3751260",
+        "score": 40.22,
+        "reason": "处于摘星冷却期，至 2026-09-11 结束。",
+        "url": "https://store.steampowered.com/app/3751260/"
+      }
+    }
   },
   "secondary_signals": [],
   "candidate_signals": []

@@ -17,6 +17,10 @@
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-10",
       "current_release_date": "2026-09-10",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-12 17:51:35",
       "current_peak": 363228,
@@ -120,7 +124,7 @@
           "peak": 363228
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 1,
@@ -159,7 +163,7 @@
       ],
       "review_score": "Mostly Positive",
       "review_ratio": 79.0,
-      "review_total": 77332,
+      "review_total": 79948,
       "developer": "BULKHEAD",
       "publisher": "Team17",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789503126",
@@ -188,13 +192,13 @@
       "reference_frame": "熟悉《使命召唤：现代战争4》Ground War 的玩家，可以先用载具协同、选择路线推进据点来理解它。WARDOGS 的差别在于三方会持续打断前线，现金又会让每次买枪、装备或载具都影响下一场的投入。",
       "for_players": "适合喜欢大规模战场、愿意和队友沟通，也乐于处理运输、救援和推进等支援分工的玩家。枪法之外，路线、预算和何时把资源投入战线都能形成判断空间。",
       "not_for_players": "如果你只想要固定地图、双方对等的小规模对枪，三方干扰、载具火力和场景破坏会增加读图负担；不喜欢频繁阵亡后重新配装的人也可能觉得疲惫。",
-      "star_reason": "9 月 12 日保存的观测峰值为 363,228 人。按修正后的发行参评规则复算，本期得分 93.30，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "9 月 12 日保存的观测峰值为 363,228 人。本期规则评分 93.30，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "根据钱包和队伍的缺口购买枪械、装备或载具，选择一条进入控制区的路线。",
         "用交火、救援、运输或修筑工事帮助队伍夺区，战线被载具火力或破坏改写后重新找掩体和进场口。",
         "把对局收益留作后续预算，决定下一场先用低成本支援，还是投入更贵的装备与载具争取突破。"
       ],
-      "content_length": 494
+      "content_length": 481
     }
   },
   "main_signal": {
@@ -208,6 +212,10 @@
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-10",
       "current_release_date": "2026-09-10",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-12 17:51:35",
       "current_peak": 363228,
@@ -311,7 +319,7 @@
           "peak": 363228
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 1,
@@ -350,7 +358,7 @@
       ],
       "review_score": "Mostly Positive",
       "review_ratio": 79.0,
-      "review_total": 77332,
+      "review_total": 79948,
       "developer": "BULKHEAD",
       "publisher": "Team17",
       "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789503126",
@@ -379,13 +387,13 @@
       "reference_frame": "熟悉《使命召唤：现代战争4》Ground War 的玩家，可以先用载具协同、选择路线推进据点来理解它。WARDOGS 的差别在于三方会持续打断前线，现金又会让每次买枪、装备或载具都影响下一场的投入。",
       "for_players": "适合喜欢大规模战场、愿意和队友沟通，也乐于处理运输、救援和推进等支援分工的玩家。枪法之外，路线、预算和何时把资源投入战线都能形成判断空间。",
       "not_for_players": "如果你只想要固定地图、双方对等的小规模对枪，三方干扰、载具火力和场景破坏会增加读图负担；不喜欢频繁阵亡后重新配装的人也可能觉得疲惫。",
-      "star_reason": "9 月 12 日保存的观测峰值为 363,228 人。按修正后的发行参评规则复算，本期得分 93.30，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "9 月 12 日保存的观测峰值为 363,228 人。本期规则评分 93.30，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "根据钱包和队伍的缺口购买枪械、装备或载具，选择一条进入控制区的路线。",
         "用交火、救援、运输或修筑工事帮助队伍夺区，战线被载具火力或破坏改写后重新找掩体和进场口。",
         "把对局收益留作后续预算，决定下一场先用低成本支援，还是投入更贵的装备与载具争取突破。"
       ],
-      "content_length": 494
+      "content_length": 481
     }
   },
   "secondary_signals": [],

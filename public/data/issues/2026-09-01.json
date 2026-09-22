@@ -10,13 +10,17 @@
     "rank": 1,
     "type": "formal_release_rise",
     "label": "正式版起量",
-    "score": 8.9,
+    "score": 11.12,
     "fact_summary": "Big Ambitions 今日观测峰值 10,573，未超过过往最高峰值 12,196，被识别为「正式版起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.0,
+      "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2023-03-10",
       "current_release_date": "2026-08-28",
+      "release_cycle_start": "2026-08-28",
+      "release_observation_start": "2026-08-28",
+      "ea_formal_gap_days": 1267,
+      "inherits_ea_history": false,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-01 20:00:18",
       "current_peak": 10573,
@@ -40,15 +44,15 @@
       "event_adjusted_score": 9.52,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 10.47,
+      "review_adjusted_score": 13.08,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-08-31",
       "review_observation_age_days": 1,
       "review_ratio_carried_forward": true,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.935,
-      "base_score": 8.9,
+      "combined_score_multiplier": 1.1687,
+      "base_score": 11.12,
       "score_multiplier": 0.85,
       "score_multiplier_reasons": [
         "repeat_window_star_1x"
@@ -75,11 +79,13 @@
       "is_new_release": false,
       "release_age_days": 4,
       "steam_release_age_days": 4,
-      "release_age_basis": "steam_current_release",
+      "release_age_basis": "ea_formal_transition",
       "release_verification_required": false,
       "release_verification": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2023-03-10"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2023-03-10",
+        "gap_days": 1267,
+        "inherits_ea_history": false
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
@@ -96,10 +102,12 @@
       "release_event_window_days": 180,
       "release_event_multiplier": 0.85,
       "release_event_evidence": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2023-03-10"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2023-03-10",
+        "gap_days": 1267,
+        "inherits_ea_history": false
       },
-      "release_event_date_basis": "steam_current_release",
+      "release_event_date_basis": "ea_formal_transition",
       "pre_bonus_model_rank": 3,
       "trend": [
         {
@@ -119,7 +127,7 @@
           "peak": 10573
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 2,
@@ -185,27 +193,41 @@
       "reference_frame": "它不只让你在报表里调数字，还要求角色亲自跑店面、买设备和处理生活需求。企业做大后，仓库、物流、采购与管理层逐步接手重复劳动，经营尺度也随之扩大。",
       "for_players": "适合喜欢经营模拟、资源调度和从一间小店慢慢搭出商业版图的人；愿意同时照顾角色睡眠、健康与生活目标，也会更容易接受它的节奏。",
       "not_for_players": "如果你只想看数字自动增长，不喜欢亲自跑地图、布置店面或处理库存与员工，前期会显得琐碎；偏好短局、高压决策的人也可能觉得扩张太慢。",
-      "star_reason": "9 月 1 日保存的观测峰值为 10,573 人。按修正后的发行参评规则复算，本期得分 8.90，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "9 月 1 日保存的观测峰值为 10,573 人。本期规则评分 11.12，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "选择店铺类型并租下场地，装修空间、准备设备与第一批库存。",
         "根据客流和收支调整商品、价格与排班，让店面稳定赚钱。",
         "雇用员工和经理，建设仓储与配送网络，再把利润投向新店、房产或更大的公司。"
       ],
-      "content_length": 424
+      "content_length": 412
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "How to Fish",
+        "appid": "4001890",
+        "score": 28.48,
+        "reason": "处于摘星冷却期，至 2026-09-07 结束；过去 30 天已摘星 3 次。",
+        "url": "https://store.steampowered.com/app/4001890/"
+      }
+    }
   },
   "main_signal": {
     "rank": 1,
     "type": "formal_release_rise",
     "label": "正式版起量",
-    "score": 8.9,
+    "score": 11.12,
     "fact_summary": "Big Ambitions 今日观测峰值 10,573，未超过过往最高峰值 12,196，被识别为「正式版起量」。",
     "metrics": {
-      "new_game_score_multiplier": 1.0,
+      "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2023-03-10",
       "current_release_date": "2026-08-28",
+      "release_cycle_start": "2026-08-28",
+      "release_observation_start": "2026-08-28",
+      "ea_formal_gap_days": 1267,
+      "inherits_ea_history": false,
       "returning_historical_record": null,
       "observation_cutoff_at": "2026-09-01 20:00:18",
       "current_peak": 10573,
@@ -229,15 +251,15 @@
       "event_adjusted_score": 9.52,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 10.47,
+      "review_adjusted_score": 13.08,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-08-31",
       "review_observation_age_days": 1,
       "review_ratio_carried_forward": true,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.935,
-      "base_score": 8.9,
+      "combined_score_multiplier": 1.1687,
+      "base_score": 11.12,
       "score_multiplier": 0.85,
       "score_multiplier_reasons": [
         "repeat_window_star_1x"
@@ -264,11 +286,13 @@
       "is_new_release": false,
       "release_age_days": 4,
       "steam_release_age_days": 4,
-      "release_age_basis": "steam_current_release",
+      "release_age_basis": "ea_formal_transition",
       "release_verification_required": false,
       "release_verification": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2023-03-10"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2023-03-10",
+        "gap_days": 1267,
+        "inherits_ea_history": false
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
@@ -285,10 +309,12 @@
       "release_event_window_days": 180,
       "release_event_multiplier": 0.85,
       "release_event_evidence": {
-        "source": "verified_prior_playable_release",
-        "first_playable_date": "2023-03-10"
+        "source": "verified_ea_formal_transition",
+        "ea_date": "2023-03-10",
+        "gap_days": 1267,
+        "inherits_ea_history": false
       },
-      "release_event_date_basis": "steam_current_release",
+      "release_event_date_basis": "ea_formal_transition",
       "pre_bonus_model_rank": 3,
       "trend": [
         {
@@ -308,7 +334,7 @@
           "peak": 10573
         }
       ],
-      "scoring_rules_as_of": "2026-09-22"
+      "scoring_rules_as_of": "2026-09-23"
     },
     "star_appearance": {
       "count": 2,
@@ -374,15 +400,25 @@
       "reference_frame": "它不只让你在报表里调数字，还要求角色亲自跑店面、买设备和处理生活需求。企业做大后，仓库、物流、采购与管理层逐步接手重复劳动，经营尺度也随之扩大。",
       "for_players": "适合喜欢经营模拟、资源调度和从一间小店慢慢搭出商业版图的人；愿意同时照顾角色睡眠、健康与生活目标，也会更容易接受它的节奏。",
       "not_for_players": "如果你只想看数字自动增长，不喜欢亲自跑地图、布置店面或处理库存与员工，前期会显得琐碎；偏好短局、高压决策的人也可能觉得扩张太慢。",
-      "star_reason": "9 月 1 日保存的观测峰值为 10,573 人。按修正后的发行参评规则复算，本期得分 8.90，并通过摘星次数与增长门槛，成为本期今日之星。",
+      "star_reason": "9 月 1 日保存的观测峰值为 10,573 人。本期规则评分 11.12，通过当前参评与摘星条件，成为本期今日之星。",
       "core_loop": [
         "选择店铺类型并租下场地，装修空间、准备设备与第一批库存。",
         "根据客流和收支调整商品、价格与排班，让店面稳定赚钱。",
         "雇用员工和经理，建设仓储与配送网络，再把利润投向新店、房产或更大的公司。"
       ],
-      "content_length": 424
+      "content_length": 412
     },
-    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "How to Fish",
+        "appid": "4001890",
+        "score": 28.48,
+        "reason": "处于摘星冷却期，至 2026-09-07 结束；过去 30 天已摘星 3 次。",
+        "url": "https://store.steampowered.com/app/4001890/"
+      }
+    }
   },
   "secondary_signals": [],
   "candidate_signals": []
