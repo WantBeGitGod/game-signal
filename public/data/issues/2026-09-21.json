@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "date": "2026-09-21",
   "title": "09.21 今日之星",
-  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "summary": "按新版评分与入选规则重排。",
   "status": "published",
   "hero_image": null,
   "hero_state": "data-cover",
@@ -10,44 +10,44 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 8.92,
-    "fact_summary": "Trails in the Sky 2nd Chapter 今日观测峰值 7,208，未超过过往最高峰值 10,940，被识别为「新作起量」。",
+    "score": 4.43,
+    "fact_summary": "斗灵对决 今日观测峰值 3,799，较过往最高峰值提升 +24%，被识别为「新作起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
-      "first_playable_date": "2026-09-16",
+      "first_playable_date": "2026-09-15",
       "returning_historical_record": null,
-      "observation_cutoff_at": "2026-09-21 18:01:59",
-      "current_peak": 7208,
-      "previous_peak": 10940,
-      "previous_record_peak": 10940,
-      "growth_rate": -0.3411,
-      "record_growth_rate": -0.3411,
-      "scoring_peak": 7208,
+      "observation_cutoff_at": "2026-09-21 17:50:19",
+      "current_peak": 3799,
+      "previous_peak": 3075,
+      "previous_record_peak": 3075,
+      "growth_rate": 0.2354,
+      "record_growth_rate": 0.2354,
+      "scoring_peak": 3799,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 6.49,
-      "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.1915,
+      "peak_score": 3.42,
+      "raw_record_growth_score": 8.24,
+      "growth_score_multiplier": 0.0151,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.1915,
+      "growth_scale_base_component": 0.0151,
       "growth_scale_crossing_component": 0.0,
-      "record_growth_score": 0.0,
+      "record_growth_score": 0.12,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 6.49,
-      "event_adjusted_score": 6.49,
+      "score_before_multiplier": 3.54,
+      "event_adjusted_score": 3.54,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 8.92,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 4.43,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-21",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.375,
-      "base_score": 8.92,
+      "combined_score_multiplier": 1.25,
+      "base_score": 4.43,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -65,18 +65,18 @@
       "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 96.0,
-      "review_total": 953,
-      "days_seen": 3,
+      "review_ratio": 90.0,
+      "review_total": 589,
+      "days_seen": 6,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 5,
-      "steam_release_age_days": 5,
+      "release_age_days": 6,
+      "steam_release_age_days": 6,
       "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 658,
+        "initial_review_total": 338,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -85,38 +85,51 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
-        "角色扮演"
+        "休闲",
+        "独立",
+        "策略"
       ],
       "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
-      "release_event_date": "2026-09-16",
-      "release_event_age_days": 5,
+      "release_event_date": "2026-09-15",
+      "release_event_age_days": 6,
       "release_event_window_days": 30,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 658,
+        "initial_review_total": 338,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 5,
+      "pre_bonus_model_rank": 7,
       "trend": [
         {
+          "date": "2026-09-16",
+          "peak": 3075
+        },
+        {
+          "date": "2026-09-17",
+          "peak": 2631
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 2939
+        },
+        {
           "date": "2026-09-19",
-          "peak": 10940
+          "peak": 3030
         },
         {
           "date": "2026-09-20",
-          "peak": 9383
+          "peak": 3014
         },
         {
           "date": "2026-09-21",
-          "peak": 7208
+          "peak": 3799
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
       "count": 1,
@@ -126,73 +139,81 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4225980"
+        "url": "https://store.steampowered.com/app/4557380/"
       }
     ],
     "game": {
-      "slug": "trails-in-the-sky-2nd-chapter",
-      "appid": "4225980",
-      "name": "Trails in the Sky 2nd Chapter",
-      "name_cn": null,
-      "description": "《空之轨迹 the 2nd》为故事RPG《空之轨迹 the 1st》的正统续作。本作描绘了少女艾丝蒂尔为了寻找在前作结局中突然不见踪影的少年约书亚，踏上全新旅程的故事。",
-      "release_date": "2026-09-16",
+      "slug": "batomon-showdown",
+      "appid": "4557380",
+      "name": "Batomon Showdown",
+      "name_cn": "斗灵对决",
+      "description": "在这款宠物收集的自走棋游戏中，收集各种斗灵，组建斗灵梦之队，进化独具特色的“斗灵，探索致命的技能协同，构建最强队伍，在快节奏的爽快对战中，击败其他玩家，成为最强训灵师！",
+      "release_date": "2026-09-15",
       "genres": [
-        "动作",
-        "冒险",
-        "角色扮演"
+        "休闲",
+        "独立",
+        "策略"
       ],
       "tags": [
-        "单人",
-        "Steam 成就",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
         "完全支持控制器",
-        "推荐使用手柄",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DualSense 控制器支持",
-        "DualSense 控制器支持",
-        "Steam 输入 API 支持",
-        "Steam 云",
-        "可用 HDR",
+        "自定义音量控制",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "随时保存",
         "家庭共享"
       ],
-      "review_score": "Overwhelmingly Positive",
-      "review_ratio": 96.0,
-      "review_total": 953,
-      "developer": "Nihon Falcom",
-      "publisher": "Nihon Falcom, GungHo Online Entertainment America, Inc., Clouded Leopard Entertainment",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/7e2f29dcf817ea28698ed1e27f4b86c98ebf1aa3/header_schinese.jpg?t=1789409245",
-      "steam_url": "https://store.steampowered.com/app/4225980",
-      "product_family_identity": "appid:4225980",
-      "product_family_appid": "4225980",
+      "review_score": "Very Positive",
+      "review_ratio": 90.0,
+      "review_total": 589,
+      "developer": "berrymint",
+      "publisher": "berrymint",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557380/49e014590d388d8c3374cc530bfb4424086cce4b/header_schinese.jpg?t=1789470804",
+      "steam_url": "https://store.steampowered.com/app/4557380",
+      "product_family_identity": "appid:4557380",
+      "product_family_appid": "4557380",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-09-16",
+          "peak": 3075
+        },
+        {
+          "date": "2026-09-17",
+          "peak": 2631
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 2939
+        },
+        {
           "date": "2026-09-19",
-          "peak": 10940
+          "peak": 3030
         },
         {
           "date": "2026-09-20",
-          "peak": 9383
+          "peak": 3014
         },
         {
           "date": "2026-09-21",
-          "peak": 7208
+          "peak": 3799
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《空之轨迹 the 2nd》是一款以队伍战斗和长篇故事为主的单人日式 RPG。艾丝蒂尔踏上寻找约书亚的旅程，沿途与伙伴一起追查利贝尔王国的危机；人物关系直接承接上一部。",
-      "reference_frame": "理解它的战斗，可以先看两件事：即时战斗里用伙伴连击压制敌人，调整导力器则会改变可用的魔法。前者让你亲手把握进攻，后者让战前配置有用武之地，新战技和 S 战技继续扩充队伍的招数。",
-      "for_players": "适合愿意陪角色走完一段长旅程、喜欢研究队伍配置，也享受战斗之间大段故事的玩家。已经玩过上一部、想知道结局之后发生了什么的人，更容易投入。",
-      "not_for_players": "如果你想跳过对话连续打怪，或希望完全不补前作就读懂人物牵挂，这种紧接上一部的叙事可能让你不耐烦。",
-      "star_reason": "9 月 21 日记录到 7,208 的观测峰值，低于此前的 10,940；当日 953 条评价中有 96% 好评。首发观察已通过，今天成为首次今日之星，关注点是新作口碑，而非在线规模再创新高。",
+      "positioning": "《Batomon Showdown》把收集怪物、搭配队伍和异步玩家对战放在一起。你选择训练师，培养怪物并安排饰品、道具之间的配合，再让它们在自动战斗中接受其他玩家阵容的检验。",
+      "reference_frame": "《My Party Is Grinding》也要求先配装备再看自动战斗，能帮助理解“准备决定表现”。本作的压力来自对手留下的队伍，而不是后台刷怪进度；战前可以按自己的节奏思考，不必抢倒计时。",
+      "for_players": "适合喜欢研究能力联动、愿意从战斗结果反推配置问题的玩家。对操作反应要求不高，但要乐于更换原本喜欢却不适合当前队伍的选择。",
+      "not_for_players": "若期待亲手指挥每一次攻击、实时与朋友同场交手，或在开放世界探索捕捉怪物，这款围绕异步自动战斗的作品并不提供同一种体验。",
+      "star_reason": "9 月 21 日保存的观测峰值为 3,799 人。按新规则复算，本期得分 4.43；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "跟着线索走访各地，在对话和事件中了解伙伴，也逐步接近约书亚失踪的真相。",
-        "调整导力器与队伍能力，在战斗中使用魔法、战技和连携，解决沿途的敌人。",
-        "推进故事后继续探索；想换换节奏，可以和伙伴做料理，或去钓鱼、打扑克。"
+        "选择训练师并收集、培养怪物，围绕能力和物品效果安排队伍。",
+        "观看自动对战，识别阵容哪里不足，再调整搭配进入下一轮挑战。"
       ],
-      "content_length": 472
+      "content_length": 413
     },
     "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },
@@ -200,44 +221,44 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 8.92,
-    "fact_summary": "Trails in the Sky 2nd Chapter 今日观测峰值 7,208，未超过过往最高峰值 10,940，被识别为「新作起量」。",
+    "score": 4.43,
+    "fact_summary": "斗灵对决 今日观测峰值 3,799，较过往最高峰值提升 +24%，被识别为「新作起量」。",
     "metrics": {
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
-      "first_playable_date": "2026-09-16",
+      "first_playable_date": "2026-09-15",
       "returning_historical_record": null,
-      "observation_cutoff_at": "2026-09-21 18:01:59",
-      "current_peak": 7208,
-      "previous_peak": 10940,
-      "previous_record_peak": 10940,
-      "growth_rate": -0.3411,
-      "record_growth_rate": -0.3411,
-      "scoring_peak": 7208,
+      "observation_cutoff_at": "2026-09-21 17:50:19",
+      "current_peak": 3799,
+      "previous_peak": 3075,
+      "previous_record_peak": 3075,
+      "growth_rate": 0.2354,
+      "record_growth_rate": 0.2354,
+      "scoring_peak": 3799,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 6.49,
-      "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.1915,
+      "peak_score": 3.42,
+      "raw_record_growth_score": 8.24,
+      "growth_score_multiplier": 0.0151,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.1915,
+      "growth_scale_base_component": 0.0151,
       "growth_scale_crossing_component": 0.0,
-      "record_growth_score": 0.0,
+      "record_growth_score": 0.12,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 6.49,
-      "event_adjusted_score": 6.49,
+      "score_before_multiplier": 3.54,
+      "event_adjusted_score": 3.54,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 8.92,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 4.43,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-21",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.375,
-      "base_score": 8.92,
+      "combined_score_multiplier": 1.25,
+      "base_score": 4.43,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -255,18 +276,18 @@
       "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 96.0,
-      "review_total": 953,
-      "days_seen": 3,
+      "review_ratio": 90.0,
+      "review_total": 589,
+      "days_seen": 6,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 5,
-      "steam_release_age_days": 5,
+      "release_age_days": 6,
+      "steam_release_age_days": 6,
       "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 658,
+        "initial_review_total": 338,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -275,38 +296,51 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
-        "角色扮演"
+        "休闲",
+        "独立",
+        "策略"
       ],
       "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
-      "release_event_date": "2026-09-16",
-      "release_event_age_days": 5,
+      "release_event_date": "2026-09-15",
+      "release_event_age_days": 6,
       "release_event_window_days": 30,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 658,
+        "initial_review_total": 338,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 5,
+      "pre_bonus_model_rank": 7,
       "trend": [
         {
+          "date": "2026-09-16",
+          "peak": 3075
+        },
+        {
+          "date": "2026-09-17",
+          "peak": 2631
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 2939
+        },
+        {
           "date": "2026-09-19",
-          "peak": 10940
+          "peak": 3030
         },
         {
           "date": "2026-09-20",
-          "peak": 9383
+          "peak": 3014
         },
         {
           "date": "2026-09-21",
-          "peak": 7208
+          "peak": 3799
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
       "count": 1,
@@ -316,73 +350,81 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4225980"
+        "url": "https://store.steampowered.com/app/4557380/"
       }
     ],
     "game": {
-      "slug": "trails-in-the-sky-2nd-chapter",
-      "appid": "4225980",
-      "name": "Trails in the Sky 2nd Chapter",
-      "name_cn": null,
-      "description": "《空之轨迹 the 2nd》为故事RPG《空之轨迹 the 1st》的正统续作。本作描绘了少女艾丝蒂尔为了寻找在前作结局中突然不见踪影的少年约书亚，踏上全新旅程的故事。",
-      "release_date": "2026-09-16",
+      "slug": "batomon-showdown",
+      "appid": "4557380",
+      "name": "Batomon Showdown",
+      "name_cn": "斗灵对决",
+      "description": "在这款宠物收集的自走棋游戏中，收集各种斗灵，组建斗灵梦之队，进化独具特色的“斗灵，探索致命的技能协同，构建最强队伍，在快节奏的爽快对战中，击败其他玩家，成为最强训灵师！",
+      "release_date": "2026-09-15",
       "genres": [
-        "动作",
-        "冒险",
-        "角色扮演"
+        "休闲",
+        "独立",
+        "策略"
       ],
       "tags": [
-        "单人",
-        "Steam 成就",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
         "完全支持控制器",
-        "推荐使用手柄",
-        "DUALSHOCK 控制器支持",
-        "DUALSHOCK 控制器支持",
-        "DualSense 控制器支持",
-        "DualSense 控制器支持",
-        "Steam 输入 API 支持",
-        "Steam 云",
-        "可用 HDR",
+        "自定义音量控制",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "随时保存",
         "家庭共享"
       ],
-      "review_score": "Overwhelmingly Positive",
-      "review_ratio": 96.0,
-      "review_total": 953,
-      "developer": "Nihon Falcom",
-      "publisher": "Nihon Falcom, GungHo Online Entertainment America, Inc., Clouded Leopard Entertainment",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/7e2f29dcf817ea28698ed1e27f4b86c98ebf1aa3/header_schinese.jpg?t=1789409245",
-      "steam_url": "https://store.steampowered.com/app/4225980",
-      "product_family_identity": "appid:4225980",
-      "product_family_appid": "4225980",
+      "review_score": "Very Positive",
+      "review_ratio": 90.0,
+      "review_total": 589,
+      "developer": "berrymint",
+      "publisher": "berrymint",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557380/49e014590d388d8c3374cc530bfb4424086cce4b/header_schinese.jpg?t=1789470804",
+      "steam_url": "https://store.steampowered.com/app/4557380",
+      "product_family_identity": "appid:4557380",
+      "product_family_appid": "4557380",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-09-16",
+          "peak": 3075
+        },
+        {
+          "date": "2026-09-17",
+          "peak": 2631
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 2939
+        },
+        {
           "date": "2026-09-19",
-          "peak": 10940
+          "peak": 3030
         },
         {
           "date": "2026-09-20",
-          "peak": 9383
+          "peak": 3014
         },
         {
           "date": "2026-09-21",
-          "peak": 7208
+          "peak": 3799
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《空之轨迹 the 2nd》是一款以队伍战斗和长篇故事为主的单人日式 RPG。艾丝蒂尔踏上寻找约书亚的旅程，沿途与伙伴一起追查利贝尔王国的危机；人物关系直接承接上一部。",
-      "reference_frame": "理解它的战斗，可以先看两件事：即时战斗里用伙伴连击压制敌人，调整导力器则会改变可用的魔法。前者让你亲手把握进攻，后者让战前配置有用武之地，新战技和 S 战技继续扩充队伍的招数。",
-      "for_players": "适合愿意陪角色走完一段长旅程、喜欢研究队伍配置，也享受战斗之间大段故事的玩家。已经玩过上一部、想知道结局之后发生了什么的人，更容易投入。",
-      "not_for_players": "如果你想跳过对话连续打怪，或希望完全不补前作就读懂人物牵挂，这种紧接上一部的叙事可能让你不耐烦。",
-      "star_reason": "9 月 21 日记录到 7,208 的观测峰值，低于此前的 10,940；当日 953 条评价中有 96% 好评。首发观察已通过，今天成为首次今日之星，关注点是新作口碑，而非在线规模再创新高。",
+      "positioning": "《Batomon Showdown》把收集怪物、搭配队伍和异步玩家对战放在一起。你选择训练师，培养怪物并安排饰品、道具之间的配合，再让它们在自动战斗中接受其他玩家阵容的检验。",
+      "reference_frame": "《My Party Is Grinding》也要求先配装备再看自动战斗，能帮助理解“准备决定表现”。本作的压力来自对手留下的队伍，而不是后台刷怪进度；战前可以按自己的节奏思考，不必抢倒计时。",
+      "for_players": "适合喜欢研究能力联动、愿意从战斗结果反推配置问题的玩家。对操作反应要求不高，但要乐于更换原本喜欢却不适合当前队伍的选择。",
+      "not_for_players": "若期待亲手指挥每一次攻击、实时与朋友同场交手，或在开放世界探索捕捉怪物，这款围绕异步自动战斗的作品并不提供同一种体验。",
+      "star_reason": "9 月 21 日保存的观测峰值为 3,799 人。按新规则复算，本期得分 4.43；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "跟着线索走访各地，在对话和事件中了解伙伴，也逐步接近约书亚失踪的真相。",
-        "调整导力器与队伍能力，在战斗中使用魔法、战技和连携，解决沿途的敌人。",
-        "推进故事后继续探索；想换换节奏，可以和伙伴做料理，或去钓鱼、打扑克。"
+        "选择训练师并收集、培养怪物，围绕能力和物品效果安排队伍。",
+        "观看自动对战，识别阵容哪里不足，再调整搭配进入下一轮挑战。"
       ],
-      "content_length": 472
+      "content_length": 413
     },
     "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },

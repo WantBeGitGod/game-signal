@@ -1,0 +1,60 @@
+{
+  "slug": "batomon-showdown",
+  "appid": "4557380",
+  "name": "Batomon Showdown",
+  "name_cn": "斗灵对决",
+  "description": "在这款宠物收集的自走棋游戏中，收集各种斗灵，组建斗灵梦之队，进化独具特色的“斗灵，探索致命的技能协同，构建最强队伍，在快节奏的爽快对战中，击败其他玩家，成为最强训灵师！",
+  "release_date": "2026-09-15",
+  "genres": [
+    "休闲",
+    "独立",
+    "策略"
+  ],
+  "tags": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "完全支持控制器",
+    "自定义音量控制",
+    "#category_playable_at_your_own_pace",
+    "无需应对快速反应事件",
+    "随时保存",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 90.0,
+  "review_total": 589,
+  "developer": "berrymint",
+  "publisher": "berrymint",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557380/49e014590d388d8c3374cc530bfb4424086cce4b/header_schinese.jpg?t=1789470804",
+  "steam_url": "https://store.steampowered.com/app/4557380",
+  "product_family_identity": "appid:4557380",
+  "product_family_appid": "4557380",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-09-16",
+      "peak": 3075
+    },
+    {
+      "date": "2026-09-17",
+      "peak": 2631
+    },
+    {
+      "date": "2026-09-18",
+      "peak": 2939
+    },
+    {
+      "date": "2026-09-19",
+      "peak": 3030
+    },
+    {
+      "date": "2026-09-20",
+      "peak": 3014
+    },
+    {
+      "date": "2026-09-21",
+      "peak": 3799
+    }
+  ]
+}

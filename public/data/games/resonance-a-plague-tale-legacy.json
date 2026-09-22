@@ -1,0 +1,55 @@
+{
+  "slug": "resonance-a-plague-tale-legacy",
+  "appid": "2713000",
+  "name": "Resonance: A Plague Tale Legacy",
+  "name_cn": null,
+  "description": "本作的原创剧情在时间线上早于获奖作品《瘟疫传说》的故事，你将化身索菲亚，前往米诺陶岛，智取强敌，揭晓古老的秘密，直面凶煞诅咒之源的神话生物。",
+  "release_date": "2026-08-27",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "可调整文字大小",
+    "视角舒适度",
+    "可选颜色",
+    "#category_contrast_controls",
+    "自定义音量控制",
+    "可调整难度",
+    "推荐使用手柄",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "立体声",
+    "字幕选项",
+    "环绕声",
+    "Steam 云",
+    "可用 HDR",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 93.0,
+  "review_total": 4499,
+  "developer": "Asobo Studio",
+  "publisher": "Focus Entertainment",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713000/6dfa1d9ef7205356c608c8ec59122dc6d71716e4/header_schinese.jpg?t=1788365423",
+  "steam_url": "https://store.steampowered.com/app/2713000",
+  "product_family_identity": "appid:2713000",
+  "product_family_appid": "2713000",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-08-28",
+      "peak": 4730
+    },
+    {
+      "date": "2026-08-29",
+      "peak": 5468
+    }
+  ]
+}

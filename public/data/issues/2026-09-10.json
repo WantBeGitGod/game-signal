@@ -2,47 +2,54 @@
   "schema_version": "1.0.0",
   "date": "2026-09-10",
   "title": "09.10 今日之星",
-  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "summary": "按新版评分与入选规则重排。",
   "status": "published",
   "hero_image": null,
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "release_event_rise",
-    "label": "发行节点起量",
-    "score": 32.95,
-    "fact_summary": "Valheim 今日观测峰值 67,011，首次进入当前观察窗口，被识别为「发行节点起量」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 39.41,
+    "fact_summary": "Halloween: The Game 今日观测峰值 23,605，较过往最高峰值提升 +93%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 67011,
-      "previous_peak": 0,
-      "previous_record_peak": 0,
-      "growth_rate": 0.0,
-      "record_growth_rate": 0.0,
-      "scoring_peak": 67011,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-04",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-10 17:51:18",
+      "current_peak": 23605,
+      "previous_peak": 12251,
+      "previous_record_peak": 12251,
+      "growth_rate": 0.9268,
+      "record_growth_rate": 0.9268,
+      "scoring_peak": 23605,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 35.24,
-      "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.5701,
+      "peak_score": 19.32,
+      "raw_record_growth_score": 32.44,
+      "growth_score_multiplier": 0.3762,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.0,
-      "growth_scale_crossing_component": 0.5701,
-      "record_growth_score": 0.0,
+      "growth_scale_base_component": 0.2401,
+      "growth_scale_crossing_component": 0.1361,
+      "record_growth_score": 12.2,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 35.24,
-      "event_adjusted_score": 29.95,
-      "event_multiplier": 0.85,
-      "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 32.95,
+      "score_before_multiplier": 31.52,
+      "event_adjusted_score": 31.52,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 39.41,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-10",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
-      "secondary_labels": [],
-      "combined_score_multiplier": 0.935,
-      "base_score": 32.95,
+      "secondary_labels": [
+        "豪华先行版本"
+      ],
+      "combined_score_multiplier": 1.25,
+      "base_score": 39.41,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -60,51 +67,55 @@
       "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 94.0,
-      "review_total": 544319,
-      "days_seen": 1,
-      "comeback_gap_days": 0,
-      "is_new_release": false,
-      "release_age_days": 1,
-      "steam_release_age_days": 1,
-      "release_age_basis": "actual_open_date",
-      "release_verification_required": true,
+      "review_ratio": 69.0,
+      "review_total": 9219,
+      "days_seen": 2,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 6,
+      "steam_release_age_days": 2,
+      "release_age_basis": "config_override",
+      "release_verification_required": false,
       "release_verification": {
-        "source": "initial_review_observation",
-        "initial_review_total": 544319,
-        "verification_threshold": 5000,
-        "verification_status": "pending"
+        "identity": "true_new",
+        "date": "2026-09-04",
+        "source": "IllFonic official launch and Digital Deluxe early access schedule",
+        "url": "https://halloweengame.com/news/halloween-the-game-launch-and-early-access/",
+        "access_type": "deluxe_advanced_access"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
-        "独立",
-        "角色扮演"
+        "动作"
       ],
-      "scoring_version": "release_event_v2",
-      "release_event_type": "pending",
-      "release_event_date": "2026-09-09",
-      "release_event_age_days": 1,
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-04",
+      "release_event_age_days": 6,
       "release_event_window_days": 30,
-      "release_event_multiplier": 0.85,
+      "release_event_multiplier": 1.0,
       "release_event_evidence": {
-        "source": "initial_review_observation",
-        "initial_review_total": 544319,
-        "verification_threshold": 5000,
-        "verification_status": "pending"
+        "identity": "true_new",
+        "date": "2026-09-04",
+        "source": "IllFonic official launch and Digital Deluxe early access schedule",
+        "url": "https://halloweengame.com/news/halloween-the-game-launch-and-early-access/",
+        "access_type": "deluxe_advanced_access"
       },
-      "release_event_date_basis": "actual_open_date",
+      "release_event_date_basis": "config_override",
       "pre_bonus_model_rank": 1,
       "trend": [
         {
+          "date": "2026-09-09",
+          "peak": 12251
+        },
+        {
           "date": "2026-09-10",
-          "peak": 67011
+          "peak": 23605
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
       "count": 1,
@@ -114,112 +125,116 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/892970"
+        "url": "https://store.steampowered.com/app/3219630/"
       }
     ],
     "game": {
-      "slug": "valheim",
-      "appid": "892970",
-      "name": "Valheim",
+      "slug": "halloween-the-game",
+      "appid": "3219630",
+      "name": "Halloween: The Game",
       "name_cn": null,
-      "description": "一款支持1–10名玩家的同时在线合作的探索生存游戏，背景设定在一个受维京文化启发、程序生成的神话世界中。战斗、建造并征服你的旅程，谱写一段足以获得奥丁眷顾的传奇史诗吧！",
-      "release_date": "2026-09-09",
+      "description": "1978 年的万圣节之夜，没人能从迈克尔·迈尔斯的手中逃脱。在 Halloween 中，化身“面具杀手”，或者直面邪恶奋起反抗。",
+      "release_date": "2026-09-08",
       "genres": [
-        "动作",
-        "冒险",
-        "独立",
-        "角色扮演"
+        "动作"
       ],
       "tags": [
         "单人",
         "多人",
+        "玩家对战",
+        "线上玩家对战",
         "合作",
         "在线合作",
         "Steam 成就",
         "完全支持控制器",
-        "视角舒适度",
-        "自定义音量控制",
-        "可调整难度",
-        "DUALSHOCK 控制器支持",
+        "Steam 集换式卡牌",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
-        "DualSense 控制器支持",
-        "随时保存",
-        "立体声",
         "Steam 云",
-        "统计数据",
-        "在平板上远程畅玩",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 94.0,
-      "review_total": 544319,
-      "developer": "Iron Gate AB",
-      "publisher": "Coffee Stain Publishing",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789013565",
-      "steam_url": "https://store.steampowered.com/app/892970",
-      "product_family_identity": "appid:892970",
-      "product_family_appid": "892970",
+      "review_score": "Mixed",
+      "review_ratio": 69.0,
+      "review_total": 12593,
+      "developer": "IllFonic",
+      "publisher": "IllFonic Publishing, Co-Publisher: Gun Interactive",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1789433204",
+      "steam_url": "https://store.steampowered.com/app/3219630",
+      "product_family_identity": "appid:3219630",
+      "product_family_appid": "3219630",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-09-09",
+          "peak": 12251
+        },
+        {
           "date": "2026-09-10",
-          "peak": 67011
+          "peak": 23605
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Valheim》是把维京题材的开放世界生存、合作建造和区域 Boss 推进连成一条远征线的游戏：你和同伴从一间避风小屋出发，慢慢把可去的世界做大。",
-      "reference_frame": "它的关键不在把生存数值堆满，而在每次出海前都要把食物、装备、船和回程的风险算进去；新材料会带来配方、武器和建筑选择，击败区域 Boss 再把这套准备推向更危险的地带。",
-      "for_players": "适合喜欢和固定朋友一起分工盖家、备战、远征，也愿意接受采集和物资整理来换取下一次探索空间的人。想把基地从落脚点经营成长期据点的人，会很容易沉进去。",
-      "not_for_players": "如果你更想要任务密集、随时给奖励的动作冒险，或不喜欢跑图、收集、死亡后回收装备和多人进度协调，这种“先准备、再远征”的节奏可能会显得很慢。",
-      "star_reason": "9 月 10 日，本地 24 小时观测峰值为 67,011。它在 9 月 9 日完成 1.0 正式发布，并以 32.95 分列原模型第 1 名；同日可用的 Steam 好评率为 94%，样本 544,319 篇。长期抢先体验在正式节点重新聚集玩家，今天值得回到这片维京世界。",
+      "positioning": "《Halloween: The Game》把电影《月光光心慌慌》的追猎搬到多人对局里：一名玩家扮演迈克尔·迈尔斯，另外四人共同应对威胁，试图救下哈登菲尔德的居民。场景围绕 1978 年的万圣节之夜展开。",
+      "reference_frame": "两边需要读懂的局面不同。追猎者要寻找并逼近目标，四人一方则要在推进救援时留意他的动向；你所承担的角色，会改变同一条街道上哪些位置值得接近、哪些位置应该绕开。",
+      "for_players": "适合喜欢电影中的追逐气氛，也愿意反复学习地图和对手行为的玩家。和熟悉的队友交流威胁位置，是四人一方的重要体验。",
+      "not_for_players": "如果只想安静体验一部单人恐怖故事，或难以接受其他玩家打乱自己的行动节奏，这种不对称对抗可能带来更大压力。",
+      "star_reason": "9 月 10 日保存的观测峰值为 23,605 人。按新规则复算，本期得分 39.41；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "在不同生态区采集资源、打猎和探索，把食物、工具与装备配齐。",
-        "和同伴建基地、造船并处理远征路上的怪物与天气，把战利品安全带回。",
-        "用新材料制作更高阶的武器与设施，挑战区域 Boss 后进入下一片区域。"
+        "进入对局后根据阵营寻找目标，观察周围动静与其他玩家的位置。",
+        "迈尔斯持续追猎，四人一方在威胁下互相配合、救援居民，并争取完成各自目标。"
       ],
-      "content_length": 505
-    }
+      "content_length": 408
+    },
+    "secondary_labels": [
+      "豪华先行版本"
+    ]
   },
   "main_signal": {
     "rank": 1,
-    "type": "release_event_rise",
-    "label": "发行节点起量",
-    "score": 32.95,
-    "fact_summary": "Valheim 今日观测峰值 67,011，首次进入当前观察窗口，被识别为「发行节点起量」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 39.41,
+    "fact_summary": "Halloween: The Game 今日观测峰值 23,605，较过往最高峰值提升 +93%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 67011,
-      "previous_peak": 0,
-      "previous_record_peak": 0,
-      "growth_rate": 0.0,
-      "record_growth_rate": 0.0,
-      "scoring_peak": 67011,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-04",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-10 17:51:18",
+      "current_peak": 23605,
+      "previous_peak": 12251,
+      "previous_record_peak": 12251,
+      "growth_rate": 0.9268,
+      "record_growth_rate": 0.9268,
+      "scoring_peak": 23605,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 35.24,
-      "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.5701,
+      "peak_score": 19.32,
+      "raw_record_growth_score": 32.44,
+      "growth_score_multiplier": 0.3762,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.0,
-      "growth_scale_crossing_component": 0.5701,
-      "record_growth_score": 0.0,
+      "growth_scale_base_component": 0.2401,
+      "growth_scale_crossing_component": 0.1361,
+      "record_growth_score": 12.2,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 35.24,
-      "event_adjusted_score": 29.95,
-      "event_multiplier": 0.85,
-      "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 32.95,
+      "score_before_multiplier": 31.52,
+      "event_adjusted_score": 31.52,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 39.41,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-10",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
-      "secondary_labels": [],
-      "combined_score_multiplier": 0.935,
-      "base_score": 32.95,
+      "secondary_labels": [
+        "豪华先行版本"
+      ],
+      "combined_score_multiplier": 1.25,
+      "base_score": 39.41,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -237,51 +252,55 @@
       "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 94.0,
-      "review_total": 544319,
-      "days_seen": 1,
-      "comeback_gap_days": 0,
-      "is_new_release": false,
-      "release_age_days": 1,
-      "steam_release_age_days": 1,
-      "release_age_basis": "actual_open_date",
-      "release_verification_required": true,
+      "review_ratio": 69.0,
+      "review_total": 9219,
+      "days_seen": 2,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 6,
+      "steam_release_age_days": 2,
+      "release_age_basis": "config_override",
+      "release_verification_required": false,
       "release_verification": {
-        "source": "initial_review_observation",
-        "initial_review_total": 544319,
-        "verification_threshold": 5000,
-        "verification_status": "pending"
+        "identity": "true_new",
+        "date": "2026-09-04",
+        "source": "IllFonic official launch and Digital Deluxe early access schedule",
+        "url": "https://halloweengame.com/news/halloween-the-game-launch-and-early-access/",
+        "access_type": "deluxe_advanced_access"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
-        "独立",
-        "角色扮演"
+        "动作"
       ],
-      "scoring_version": "release_event_v2",
-      "release_event_type": "pending",
-      "release_event_date": "2026-09-09",
-      "release_event_age_days": 1,
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-04",
+      "release_event_age_days": 6,
       "release_event_window_days": 30,
-      "release_event_multiplier": 0.85,
+      "release_event_multiplier": 1.0,
       "release_event_evidence": {
-        "source": "initial_review_observation",
-        "initial_review_total": 544319,
-        "verification_threshold": 5000,
-        "verification_status": "pending"
+        "identity": "true_new",
+        "date": "2026-09-04",
+        "source": "IllFonic official launch and Digital Deluxe early access schedule",
+        "url": "https://halloweengame.com/news/halloween-the-game-launch-and-early-access/",
+        "access_type": "deluxe_advanced_access"
       },
-      "release_event_date_basis": "actual_open_date",
+      "release_event_date_basis": "config_override",
       "pre_bonus_model_rank": 1,
       "trend": [
         {
+          "date": "2026-09-09",
+          "peak": 12251
+        },
+        {
           "date": "2026-09-10",
-          "peak": 67011
+          "peak": 23605
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
       "count": 1,
@@ -291,74 +310,71 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/892970"
+        "url": "https://store.steampowered.com/app/3219630/"
       }
     ],
     "game": {
-      "slug": "valheim",
-      "appid": "892970",
-      "name": "Valheim",
+      "slug": "halloween-the-game",
+      "appid": "3219630",
+      "name": "Halloween: The Game",
       "name_cn": null,
-      "description": "一款支持1–10名玩家的同时在线合作的探索生存游戏，背景设定在一个受维京文化启发、程序生成的神话世界中。战斗、建造并征服你的旅程，谱写一段足以获得奥丁眷顾的传奇史诗吧！",
-      "release_date": "2026-09-09",
+      "description": "1978 年的万圣节之夜，没人能从迈克尔·迈尔斯的手中逃脱。在 Halloween 中，化身“面具杀手”，或者直面邪恶奋起反抗。",
+      "release_date": "2026-09-08",
       "genres": [
-        "动作",
-        "冒险",
-        "独立",
-        "角色扮演"
+        "动作"
       ],
       "tags": [
         "单人",
         "多人",
+        "玩家对战",
+        "线上玩家对战",
         "合作",
         "在线合作",
         "Steam 成就",
         "完全支持控制器",
-        "视角舒适度",
-        "自定义音量控制",
-        "可调整难度",
-        "DUALSHOCK 控制器支持",
+        "Steam 集换式卡牌",
         "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
-        "DualSense 控制器支持",
-        "随时保存",
-        "立体声",
         "Steam 云",
-        "统计数据",
-        "在平板上远程畅玩",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 94.0,
-      "review_total": 544319,
-      "developer": "Iron Gate AB",
-      "publisher": "Coffee Stain Publishing",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1789013565",
-      "steam_url": "https://store.steampowered.com/app/892970",
-      "product_family_identity": "appid:892970",
-      "product_family_appid": "892970",
+      "review_score": "Mixed",
+      "review_ratio": 69.0,
+      "review_total": 12593,
+      "developer": "IllFonic",
+      "publisher": "IllFonic Publishing, Co-Publisher: Gun Interactive",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1789433204",
+      "steam_url": "https://store.steampowered.com/app/3219630",
+      "product_family_identity": "appid:3219630",
+      "product_family_appid": "3219630",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-09-09",
+          "peak": 12251
+        },
+        {
           "date": "2026-09-10",
-          "peak": 67011
+          "peak": 23605
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Valheim》是把维京题材的开放世界生存、合作建造和区域 Boss 推进连成一条远征线的游戏：你和同伴从一间避风小屋出发，慢慢把可去的世界做大。",
-      "reference_frame": "它的关键不在把生存数值堆满，而在每次出海前都要把食物、装备、船和回程的风险算进去；新材料会带来配方、武器和建筑选择，击败区域 Boss 再把这套准备推向更危险的地带。",
-      "for_players": "适合喜欢和固定朋友一起分工盖家、备战、远征，也愿意接受采集和物资整理来换取下一次探索空间的人。想把基地从落脚点经营成长期据点的人，会很容易沉进去。",
-      "not_for_players": "如果你更想要任务密集、随时给奖励的动作冒险，或不喜欢跑图、收集、死亡后回收装备和多人进度协调，这种“先准备、再远征”的节奏可能会显得很慢。",
-      "star_reason": "9 月 10 日，本地 24 小时观测峰值为 67,011。它在 9 月 9 日完成 1.0 正式发布，并以 32.95 分列原模型第 1 名；同日可用的 Steam 好评率为 94%，样本 544,319 篇。长期抢先体验在正式节点重新聚集玩家，今天值得回到这片维京世界。",
+      "positioning": "《Halloween: The Game》把电影《月光光心慌慌》的追猎搬到多人对局里：一名玩家扮演迈克尔·迈尔斯，另外四人共同应对威胁，试图救下哈登菲尔德的居民。场景围绕 1978 年的万圣节之夜展开。",
+      "reference_frame": "两边需要读懂的局面不同。追猎者要寻找并逼近目标，四人一方则要在推进救援时留意他的动向；你所承担的角色，会改变同一条街道上哪些位置值得接近、哪些位置应该绕开。",
+      "for_players": "适合喜欢电影中的追逐气氛，也愿意反复学习地图和对手行为的玩家。和熟悉的队友交流威胁位置，是四人一方的重要体验。",
+      "not_for_players": "如果只想安静体验一部单人恐怖故事，或难以接受其他玩家打乱自己的行动节奏，这种不对称对抗可能带来更大压力。",
+      "star_reason": "9 月 10 日保存的观测峰值为 23,605 人。按新规则复算，本期得分 39.41；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "在不同生态区采集资源、打猎和探索，把食物、工具与装备配齐。",
-        "和同伴建基地、造船并处理远征路上的怪物与天气，把战利品安全带回。",
-        "用新材料制作更高阶的武器与设施，挑战区域 Boss 后进入下一片区域。"
+        "进入对局后根据阵营寻找目标，观察周围动静与其他玩家的位置。",
+        "迈尔斯持续追猎，四人一方在威胁下互相配合、救援居民，并争取完成各自目标。"
       ],
-      "content_length": 505
-    }
+      "content_length": 408
+    },
+    "secondary_labels": [
+      "豪华先行版本"
+    ]
   },
   "secondary_signals": [],
   "candidate_signals": []

@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "date": "2026-09-15",
   "title": "09.15 今日之星",
-  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "summary": "按新版评分与入选规则重排。",
   "status": "published",
   "hero_image": null,
   "hero_state": "data-cover",
@@ -10,418 +10,456 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 26.45,
-    "fact_summary": "[WoG] War of Genesis: Idle Loot 今日观测峰值 32,410，较过往最高峰值提升 +15%，被识别为「新作起量」。",
+    "score": 17.71,
+    "fact_summary": "Halloween: The Game 今日观测峰值 18,520，未超过过往最高峰值 23,605，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 32410,
-      "previous_peak": 28237,
-      "previous_record_peak": 28237,
-      "growth_rate": 0.1478,
-      "record_growth_rate": 0.1478,
-      "scoring_peak": 32410,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-04",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-15 16:30:51",
+      "current_peak": 18520,
+      "previous_peak": 23605,
+      "previous_record_peak": 23605,
+      "growth_rate": -0.2154,
+      "record_growth_rate": -0.2154,
+      "scoring_peak": 18520,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 22.55,
-      "raw_record_growth_score": 5.17,
-      "growth_score_multiplier": 1.0,
+      "peak_score": 16.67,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.9767,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 1.2757,
-      "growth_scale_crossing_component": 0.2241,
-      "record_growth_score": 5.17,
+      "growth_scale_base_component": 0.8915,
+      "growth_scale_crossing_component": 0.0852,
+      "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 27.72,
-      "event_adjusted_score": 27.72,
+      "score_before_multiplier": 16.67,
+      "event_adjusted_score": 16.67,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 0.9,
-      "review_adjusted_score": 24.95,
-      "review_penalty_reason": "below_60",
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 20.84,
+      "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-15",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [
-        "评分背离"
+        "豪华先行版本"
       ],
-      "combined_score_multiplier": 0.9,
-      "base_score": 24.95,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 1.0625,
+      "base_score": 17.71,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
-      "unstarred_runner_up_streak_days": 3,
-      "unstarred_runner_up_bonus": 1.5,
-      "review_ratio": 58.0,
-      "review_total": 543,
-      "days_seen": 5,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 69.0,
+      "review_total": 12593,
+      "days_seen": 7,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 5,
-      "steam_release_age_days": 5,
-      "release_age_basis": "confirmed_identity",
+      "release_age_days": 11,
+      "steam_release_age_days": 7,
+      "release_age_basis": "config_override",
       "release_verification_required": false,
       "release_verification": {
-        "source": "initial_review_observation",
-        "initial_review_total": 177,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "identity": "true_new",
+        "date": "2026-09-04",
+        "source": "IllFonic official launch and Digital Deluxe early access schedule",
+        "url": "https://halloweengame.com/news/halloween-the-game-launch-and-early-access/",
+        "access_type": "deluxe_advanced_access"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "休闲",
-        "角色扮演",
-        "免费",
-        "抢先体验"
+        "动作"
       ],
-      "scoring_version": "release_event_v2",
+      "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
-      "release_event_date": "2026-09-10",
-      "release_event_age_days": 5,
+      "release_event_date": "2026-09-04",
+      "release_event_age_days": 11,
       "release_event_window_days": 30,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
-        "source": "initial_review_observation",
-        "initial_review_total": 177,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "identity": "true_new",
+        "date": "2026-09-04",
+        "source": "IllFonic official launch and Digital Deluxe early access schedule",
+        "url": "https://halloweengame.com/news/halloween-the-game-launch-and-early-access/",
+        "access_type": "deluxe_advanced_access"
       },
-      "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 2,
+      "release_event_date_basis": "config_override",
+      "pre_bonus_model_rank": 5,
       "trend": [
         {
+          "date": "2026-09-09",
+          "peak": 12251
+        },
+        {
+          "date": "2026-09-10",
+          "peak": 23605
+        },
+        {
           "date": "2026-09-11",
-          "peak": 9594
+          "peak": 20905
         },
         {
           "date": "2026-09-12",
-          "peak": 15836
+          "peak": 19642
         },
         {
           "date": "2026-09-13",
-          "peak": 24635
+          "peak": 23411
         },
         {
           "date": "2026-09-14",
-          "peak": 28237
+          "peak": 22067
         },
         {
           "date": "2026-09-15",
-          "peak": 32410
+          "peak": 18520
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4891320"
+        "url": "https://store.steampowered.com/app/3219630/"
       }
     ],
     "game": {
-      "slug": "wog-war-of-genesis-idle-loot",
-      "appid": "4891320",
-      "name": "[WoG] War of Genesis: Idle Loot",
+      "slug": "halloween-the-game",
+      "appid": "3219630",
+      "name": "Halloween: The Game",
       "name_cn": null,
-      "description": "挂着就好，其余的交给它。在桌面一角的小空间里，3D 角色会自己战斗、自己捡宝。捡到好装备，还能上 Steam 社区市场交易。明明是放置游戏，却让人忍不住一直盯着看，会上瘾的刷宝乐趣。",
-      "release_date": "2026-09-10",
+      "description": "1978 年的万圣节之夜，没人能从迈克尔·迈尔斯的手中逃脱。在 Halloween 中，化身“面具杀手”，或者直面邪恶奋起反抗。",
+      "release_date": "2026-09-08",
       "genres": [
-        "动作",
-        "休闲",
-        "角色扮演",
-        "免费",
-        "抢先体验"
+        "动作"
       ],
       "tags": [
         "单人",
         "多人",
         "玩家对战",
         "线上玩家对战",
+        "合作",
+        "在线合作",
         "Steam 成就",
-        "应用内购买",
-        "可调整文字大小",
-        "自定义音量控制",
-        "可调整难度",
-        "#category_playable_at_your_own_pace",
-        "无需应对快速反应事件",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 云",
         "家庭共享"
       ],
       "review_score": "Mixed",
-      "review_ratio": 58.0,
-      "review_total": 543,
-      "developer": "New Normal Soft Inc.",
-      "publisher": "New Normal Soft Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/80d3cc10f37c03a6b520846baf44883651132896/header.jpg?t=1789051819",
-      "steam_url": "https://store.steampowered.com/app/4891320",
-      "product_family_identity": "appid:4891320",
-      "product_family_appid": "4891320",
+      "review_ratio": 69.0,
+      "review_total": 12593,
+      "developer": "IllFonic",
+      "publisher": "IllFonic Publishing, Co-Publisher: Gun Interactive",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1789433204",
+      "steam_url": "https://store.steampowered.com/app/3219630",
+      "product_family_identity": "appid:3219630",
+      "product_family_appid": "3219630",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-09-09",
+          "peak": 12251
+        },
+        {
+          "date": "2026-09-10",
+          "peak": 23605
+        },
+        {
           "date": "2026-09-11",
-          "peak": 9594
+          "peak": 20905
         },
         {
           "date": "2026-09-12",
-          "peak": 15836
+          "peak": 19642
         },
         {
           "date": "2026-09-13",
-          "peak": 24635
+          "peak": 23411
         },
         {
           "date": "2026-09-14",
-          "peak": 28237
+          "peak": 22067
         },
         {
           "date": "2026-09-15",
-          "peak": 32410
+          "peak": 18520
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《War of Genesis: Idle Loot》是一款常驻桌面角落的 3D 放置刷装 RPG：英雄自动战斗、拾取装备并成长，你在回看时决定哪些掉落值得留下、交易或继续刷取。",
-      "reference_frame": "它能借《TBH: Task Bar Hero》理解低注意力桌面常驻：平时让角色产出，卡关或看见好装备再短暂介入。本作还把 3D 自动战斗、联盟首领、世界首领和 PvP 接入循环，装备可进入 Steam 社区市场。",
-      "for_players": "适合喜欢刷装备和微调配置、但没有整段游戏时间的人；愿意间歇回看，也能接受在线市场、联盟协作和 PvP。",
-      "not_for_players": "如果你想亲自靠走位和连招决定战斗，自动战斗会削弱参与感；不喜欢市场交易、持续联网或反复筛选随机掉落的人，也可能觉得它很琐碎。",
-      "star_reason": "9 月 15 日，本地 24 小时观测峰值为 32,410，较此前纪录增长约 15%；Steam 好评率为 58%，样本 543 篇。它以 26.45 分排在原模型第 2，第一名《Valheim》未过高基数重复摘星门槛，顺延成为今日之星。",
+      "positioning": "《Halloween: The Game》把电影《月光光心慌慌》的追猎搬到多人对局里：一名玩家扮演迈克尔·迈尔斯，另外四人共同应对威胁，试图救下哈登菲尔德的居民。场景围绕 1978 年的万圣节之夜展开。",
+      "reference_frame": "两边需要读懂的局面不同。追猎者要寻找并逼近目标，四人一方则要在推进救援时留意他的动向；你所承担的角色，会改变同一条街道上哪些位置值得接近、哪些位置应该绕开。",
+      "for_players": "适合喜欢电影中的追逐气氛，也愿意反复学习地图和对手行为的玩家。和熟悉的队友交流威胁位置，是四人一方的重要体验。",
+      "not_for_players": "如果只想安静体验一部单人恐怖故事，或难以接受其他玩家打乱自己的行动节奏，这种不对称对抗可能带来更大压力。",
+      "star_reason": "9 月 15 日保存的观测峰值为 18,520 人。按新规则复算，本期得分 17.71；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "让英雄自动战斗、刷取武器、护甲和宝石。",
-        "回看战利品，留下能补足配置的装备，其余处理或放进 Steam 社区市场交易。",
-        "用新配置挑战联盟 Raid、世界首领或竞技场，再回到日常挂机循环。"
+        "进入对局后根据阵营寻找目标，观察周围动静与其他玩家的位置。",
+        "迈尔斯持续追猎，四人一方在威胁下互相配合、救援居民，并争取完成各自目标。"
       ],
-      "content_length": 483
+      "content_length": 408
     },
+    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。",
     "secondary_labels": [
-      "评分背离"
+      "豪华先行版本"
     ]
   },
   "main_signal": {
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 26.45,
-    "fact_summary": "[WoG] War of Genesis: Idle Loot 今日观测峰值 32,410，较过往最高峰值提升 +15%，被识别为「新作起量」。",
+    "score": 17.71,
+    "fact_summary": "Halloween: The Game 今日观测峰值 18,520，未超过过往最高峰值 23,605，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 32410,
-      "previous_peak": 28237,
-      "previous_record_peak": 28237,
-      "growth_rate": 0.1478,
-      "record_growth_rate": 0.1478,
-      "scoring_peak": 32410,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-04",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-15 16:30:51",
+      "current_peak": 18520,
+      "previous_peak": 23605,
+      "previous_record_peak": 23605,
+      "growth_rate": -0.2154,
+      "record_growth_rate": -0.2154,
+      "scoring_peak": 18520,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 22.55,
-      "raw_record_growth_score": 5.17,
-      "growth_score_multiplier": 1.0,
+      "peak_score": 16.67,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.9767,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 1.2757,
-      "growth_scale_crossing_component": 0.2241,
-      "record_growth_score": 5.17,
+      "growth_scale_base_component": 0.8915,
+      "growth_scale_crossing_component": 0.0852,
+      "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 27.72,
-      "event_adjusted_score": 27.72,
+      "score_before_multiplier": 16.67,
+      "event_adjusted_score": 16.67,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 0.9,
-      "review_adjusted_score": 24.95,
-      "review_penalty_reason": "below_60",
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 20.84,
+      "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-15",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [
-        "评分背离"
+        "豪华先行版本"
       ],
-      "combined_score_multiplier": 0.9,
-      "base_score": 24.95,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 1.0625,
+      "base_score": 17.71,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
-      "unstarred_runner_up_streak_days": 3,
-      "unstarred_runner_up_bonus": 1.5,
-      "review_ratio": 58.0,
-      "review_total": 543,
-      "days_seen": 5,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 69.0,
+      "review_total": 12593,
+      "days_seen": 7,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 5,
-      "steam_release_age_days": 5,
-      "release_age_basis": "confirmed_identity",
+      "release_age_days": 11,
+      "steam_release_age_days": 7,
+      "release_age_basis": "config_override",
       "release_verification_required": false,
       "release_verification": {
-        "source": "initial_review_observation",
-        "initial_review_total": 177,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "identity": "true_new",
+        "date": "2026-09-04",
+        "source": "IllFonic official launch and Digital Deluxe early access schedule",
+        "url": "https://halloweengame.com/news/halloween-the-game-launch-and-early-access/",
+        "access_type": "deluxe_advanced_access"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "休闲",
-        "角色扮演",
-        "免费",
-        "抢先体验"
+        "动作"
       ],
-      "scoring_version": "release_event_v2",
+      "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
-      "release_event_date": "2026-09-10",
-      "release_event_age_days": 5,
+      "release_event_date": "2026-09-04",
+      "release_event_age_days": 11,
       "release_event_window_days": 30,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
-        "source": "initial_review_observation",
-        "initial_review_total": 177,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "identity": "true_new",
+        "date": "2026-09-04",
+        "source": "IllFonic official launch and Digital Deluxe early access schedule",
+        "url": "https://halloweengame.com/news/halloween-the-game-launch-and-early-access/",
+        "access_type": "deluxe_advanced_access"
       },
-      "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 2,
+      "release_event_date_basis": "config_override",
+      "pre_bonus_model_rank": 5,
       "trend": [
         {
+          "date": "2026-09-09",
+          "peak": 12251
+        },
+        {
+          "date": "2026-09-10",
+          "peak": 23605
+        },
+        {
           "date": "2026-09-11",
-          "peak": 9594
+          "peak": 20905
         },
         {
           "date": "2026-09-12",
-          "peak": 15836
+          "peak": 19642
         },
         {
           "date": "2026-09-13",
-          "peak": 24635
+          "peak": 23411
         },
         {
           "date": "2026-09-14",
-          "peak": 28237
+          "peak": 22067
         },
         {
           "date": "2026-09-15",
-          "peak": 32410
+          "peak": 18520
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4891320"
+        "url": "https://store.steampowered.com/app/3219630/"
       }
     ],
     "game": {
-      "slug": "wog-war-of-genesis-idle-loot",
-      "appid": "4891320",
-      "name": "[WoG] War of Genesis: Idle Loot",
+      "slug": "halloween-the-game",
+      "appid": "3219630",
+      "name": "Halloween: The Game",
       "name_cn": null,
-      "description": "挂着就好，其余的交给它。在桌面一角的小空间里，3D 角色会自己战斗、自己捡宝。捡到好装备，还能上 Steam 社区市场交易。明明是放置游戏，却让人忍不住一直盯着看，会上瘾的刷宝乐趣。",
-      "release_date": "2026-09-10",
+      "description": "1978 年的万圣节之夜，没人能从迈克尔·迈尔斯的手中逃脱。在 Halloween 中，化身“面具杀手”，或者直面邪恶奋起反抗。",
+      "release_date": "2026-09-08",
       "genres": [
-        "动作",
-        "休闲",
-        "角色扮演",
-        "免费",
-        "抢先体验"
+        "动作"
       ],
       "tags": [
         "单人",
         "多人",
         "玩家对战",
         "线上玩家对战",
+        "合作",
+        "在线合作",
         "Steam 成就",
-        "应用内购买",
-        "可调整文字大小",
-        "自定义音量控制",
-        "可调整难度",
-        "#category_playable_at_your_own_pace",
-        "无需应对快速反应事件",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 云",
         "家庭共享"
       ],
       "review_score": "Mixed",
-      "review_ratio": 58.0,
-      "review_total": 543,
-      "developer": "New Normal Soft Inc.",
-      "publisher": "New Normal Soft Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/80d3cc10f37c03a6b520846baf44883651132896/header.jpg?t=1789051819",
-      "steam_url": "https://store.steampowered.com/app/4891320",
-      "product_family_identity": "appid:4891320",
-      "product_family_appid": "4891320",
+      "review_ratio": 69.0,
+      "review_total": 12593,
+      "developer": "IllFonic",
+      "publisher": "IllFonic Publishing, Co-Publisher: Gun Interactive",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1789433204",
+      "steam_url": "https://store.steampowered.com/app/3219630",
+      "product_family_identity": "appid:3219630",
+      "product_family_appid": "3219630",
       "product_family_role": "full",
       "trend": [
         {
+          "date": "2026-09-09",
+          "peak": 12251
+        },
+        {
+          "date": "2026-09-10",
+          "peak": 23605
+        },
+        {
           "date": "2026-09-11",
-          "peak": 9594
+          "peak": 20905
         },
         {
           "date": "2026-09-12",
-          "peak": 15836
+          "peak": 19642
         },
         {
           "date": "2026-09-13",
-          "peak": 24635
+          "peak": 23411
         },
         {
           "date": "2026-09-14",
-          "peak": 28237
+          "peak": 22067
         },
         {
           "date": "2026-09-15",
-          "peak": 32410
+          "peak": 18520
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《War of Genesis: Idle Loot》是一款常驻桌面角落的 3D 放置刷装 RPG：英雄自动战斗、拾取装备并成长，你在回看时决定哪些掉落值得留下、交易或继续刷取。",
-      "reference_frame": "它能借《TBH: Task Bar Hero》理解低注意力桌面常驻：平时让角色产出，卡关或看见好装备再短暂介入。本作还把 3D 自动战斗、联盟首领、世界首领和 PvP 接入循环，装备可进入 Steam 社区市场。",
-      "for_players": "适合喜欢刷装备和微调配置、但没有整段游戏时间的人；愿意间歇回看，也能接受在线市场、联盟协作和 PvP。",
-      "not_for_players": "如果你想亲自靠走位和连招决定战斗，自动战斗会削弱参与感；不喜欢市场交易、持续联网或反复筛选随机掉落的人，也可能觉得它很琐碎。",
-      "star_reason": "9 月 15 日，本地 24 小时观测峰值为 32,410，较此前纪录增长约 15%；Steam 好评率为 58%，样本 543 篇。它以 26.45 分排在原模型第 2，第一名《Valheim》未过高基数重复摘星门槛，顺延成为今日之星。",
+      "positioning": "《Halloween: The Game》把电影《月光光心慌慌》的追猎搬到多人对局里：一名玩家扮演迈克尔·迈尔斯，另外四人共同应对威胁，试图救下哈登菲尔德的居民。场景围绕 1978 年的万圣节之夜展开。",
+      "reference_frame": "两边需要读懂的局面不同。追猎者要寻找并逼近目标，四人一方则要在推进救援时留意他的动向；你所承担的角色，会改变同一条街道上哪些位置值得接近、哪些位置应该绕开。",
+      "for_players": "适合喜欢电影中的追逐气氛，也愿意反复学习地图和对手行为的玩家。和熟悉的队友交流威胁位置，是四人一方的重要体验。",
+      "not_for_players": "如果只想安静体验一部单人恐怖故事，或难以接受其他玩家打乱自己的行动节奏，这种不对称对抗可能带来更大压力。",
+      "star_reason": "9 月 15 日保存的观测峰值为 18,520 人。按新规则复算，本期得分 17.71；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "让英雄自动战斗、刷取武器、护甲和宝石。",
-        "回看战利品，留下能补足配置的装备，其余处理或放进 Steam 社区市场交易。",
-        "用新配置挑战联盟 Raid、世界首领或竞技场，再回到日常挂机循环。"
+        "进入对局后根据阵营寻找目标，观察周围动静与其他玩家的位置。",
+        "迈尔斯持续追猎，四人一方在威胁下互相配合、救援居民，并争取完成各自目标。"
       ],
-      "content_length": 483
+      "content_length": 408
     },
+    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。",
     "secondary_labels": [
-      "评分背离"
+      "豪华先行版本"
     ]
   },
   "secondary_signals": [],

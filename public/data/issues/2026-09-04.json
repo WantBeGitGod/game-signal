@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "date": "2026-09-04",
   "title": "09.04 今日之星",
-  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "summary": "按新版评分与入选规则重排。",
   "status": "published",
   "hero_image": null,
   "hero_state": "data-cover",
@@ -10,9 +10,14 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 50.62,
+    "score": 73.6,
     "fact_summary": "The Blood of Dawnwalker 今日观测峰值 64,386，较过往最高峰值提升 +122%，被识别为「新作起量」。",
     "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-02",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-04 17:50:20",
       "current_peak": 64386,
       "previous_peak": 29064,
       "previous_record_peak": 29064,
@@ -21,7 +26,7 @@
       "scoring_peak": 64386,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 28.27,
+      "peak_score": 34.27,
       "raw_record_growth_score": 35.0,
       "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
@@ -30,20 +35,20 @@
       "record_growth_score": 35.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 63.27,
-      "event_adjusted_score": 63.27,
+      "score_before_multiplier": 69.27,
+      "event_adjusted_score": 69.27,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 63.27,
+      "review_adjusted_score": 86.59,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-04",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.8,
-      "base_score": 50.62,
-      "score_multiplier": 0.8,
+      "combined_score_multiplier": 1.0625,
+      "base_score": 73.6,
+      "score_multiplier": 0.85,
       "score_multiplier_reasons": [
         "repeat_window_star_1x"
       ],
@@ -86,7 +91,7 @@
         "冒险",
         "角色扮演"
       ],
-      "scoring_version": "release_event_v2",
+      "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
       "release_event_date": "2026-09-02",
       "release_event_age_days": 2,
@@ -99,6 +104,7 @@
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 1,
       "trend": [
         {
           "date": "2026-09-03",
@@ -108,7 +114,8 @@
           "date": "2026-09-04",
           "peak": 64386
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
       "count": 2,
@@ -118,7 +125,7 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/3751260"
+        "url": "https://store.steampowered.com/app/3751260/"
       }
     ],
     "game": {
@@ -141,16 +148,19 @@
         "自定义音量控制",
         "可调整难度",
         "推荐使用手柄",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
         "随时保存",
+        "Steam 输入 API 支持",
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Mostly Positive",
-      "review_ratio": 79.0,
-      "review_total": 6292,
+      "review_score": "Very Positive",
+      "review_ratio": 84.0,
+      "review_total": 15541,
       "developer": "Rebel Wolves",
       "publisher": "Bandai Namco Entertainment",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788444722",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788784813",
       "steam_url": "https://store.steampowered.com/app/3751260",
       "product_family_identity": "appid:3751260",
       "product_family_appid": "3751260",
@@ -168,26 +178,31 @@
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《The Blood of Dawnwalker》是一款单人开放世界黑暗奇幻动作 RPG。你扮演为救家人而行动的科恩：白天以人类身份活动，入夜后成为吸血鬼；两种状态会改变你接近人物、调查线索和解决麻烦的方式。",
-      "reference_frame": "它把动作 RPG 的战斗和开放世界任务放进一套有时间压力的叙事冒险里。重点不在清完地图图标，而在于决定先为哪件事做准备、何时推进任务，以及愿意让哪些选择留下后果。",
-      "for_players": "适合喜欢单人黑暗奇幻、愿意主动读线索和规划路线的玩家；如果你享受动作 RPG 的技能成长，也希望角色身份能实实在在改变行动选择，这套昼夜结构会比普通任务清单更有吸引力。",
-      "not_for_players": "如果你偏好节奏紧凑、目标始终明确的线性动作流程，或希望无压力地清完每条支线，任务时间与取舍可能带来负担。它也要求玩家接受第三人称战斗中的时机、位置和准备工作。",
-      "star_reason": "9 月 4 日，本地 24 小时观测峰值升至 64,386，较前日 29,064 增长 122%；Steam 当日好评率为 79%。它以 50.62 分继续位居原模型第一，首发观察已成熟，因此成为当天今日之星。",
+      "positioning": "《The Blood of Dawnwalker》是一款开放世界黑暗奇幻动作 RPG。科恩白天以人类身份行动，夜里成为吸血鬼；身份切换会改变调查、潜入和解决冲突的办法。",
+      "reference_frame": "它将第三人称动作 RPG 的攻防与成长，放进带时限的路线冒险。探索不耗时，推进特定任务才会让时间前进；每次行动都要决定身份、优先级和取舍。",
+      "for_players": "适合喜欢阴郁奇幻、愿意读线索并主动安排路线的玩家。若你享受动作 RPG 的技能投入，也希望身份让同一处障碍出现不同解法，这套昼夜结构会有吸引力。",
+      "not_for_players": "若你更想无压力清完开放世界图标、绝不漏支线，或只期待一路向前的线性动作流程，任务推进带来的时间取舍可能会压过探索乐趣；第三人称近战的时机、距离和准备也需要耐心适应。",
+      "star_reason": "9 月 4 日保存的观测峰值为 64,386 人。按新规则复算，本期得分 73.60；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "在 Vale Sangora 寻找人物、地点和任务线索，判断当前最值得处理的目标。",
-        "根据昼夜切换人类或吸血鬼身份，用剑术、巫术或夜间能力完成战斗与调查。",
-        "接受任务推进消耗时间并带来关系、线索和成长变化，再安排下一段路线。"
+        "在 Vale Sangora 找人物、地点和线索，判断眼下最值得投入的一条任务线。",
+        "结合昼夜与敌我位置，选择剑术、巫术或吸血鬼能力来战斗、调查或绕过阻碍。",
+        "接受任务推进带来的时间消耗、线索和成长变化，再为下一段路线重新排序。"
       ],
-      "content_length": 537
+      "content_length": 466
     }
   },
   "main_signal": {
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 50.62,
+    "score": 73.6,
     "fact_summary": "The Blood of Dawnwalker 今日观测峰值 64,386，较过往最高峰值提升 +122%，被识别为「新作起量」。",
     "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-02",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-04 17:50:20",
       "current_peak": 64386,
       "previous_peak": 29064,
       "previous_record_peak": 29064,
@@ -196,7 +211,7 @@
       "scoring_peak": 64386,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 28.27,
+      "peak_score": 34.27,
       "raw_record_growth_score": 35.0,
       "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
@@ -205,20 +220,20 @@
       "record_growth_score": 35.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 63.27,
-      "event_adjusted_score": 63.27,
+      "score_before_multiplier": 69.27,
+      "event_adjusted_score": 69.27,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 63.27,
+      "review_adjusted_score": 86.59,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-04",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.8,
-      "base_score": 50.62,
-      "score_multiplier": 0.8,
+      "combined_score_multiplier": 1.0625,
+      "base_score": 73.6,
+      "score_multiplier": 0.85,
       "score_multiplier_reasons": [
         "repeat_window_star_1x"
       ],
@@ -261,7 +276,7 @@
         "冒险",
         "角色扮演"
       ],
-      "scoring_version": "release_event_v2",
+      "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
       "release_event_date": "2026-09-02",
       "release_event_age_days": 2,
@@ -274,6 +289,7 @@
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 1,
       "trend": [
         {
           "date": "2026-09-03",
@@ -283,7 +299,8 @@
           "date": "2026-09-04",
           "peak": 64386
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
       "count": 2,
@@ -293,7 +310,7 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/3751260"
+        "url": "https://store.steampowered.com/app/3751260/"
       }
     ],
     "game": {
@@ -316,16 +333,19 @@
         "自定义音量控制",
         "可调整难度",
         "推荐使用手柄",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
         "随时保存",
+        "Steam 输入 API 支持",
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Mostly Positive",
-      "review_ratio": 79.0,
-      "review_total": 6292,
+      "review_score": "Very Positive",
+      "review_ratio": 84.0,
+      "review_total": 15541,
       "developer": "Rebel Wolves",
       "publisher": "Bandai Namco Entertainment",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788444722",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751260/7b0c1860c7c2fca069ae53c049b737176dbfb8d4/header_schinese.jpg?t=1788784813",
       "steam_url": "https://store.steampowered.com/app/3751260",
       "product_family_identity": "appid:3751260",
       "product_family_appid": "3751260",
@@ -343,17 +363,17 @@
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《The Blood of Dawnwalker》是一款单人开放世界黑暗奇幻动作 RPG。你扮演为救家人而行动的科恩：白天以人类身份活动，入夜后成为吸血鬼；两种状态会改变你接近人物、调查线索和解决麻烦的方式。",
-      "reference_frame": "它把动作 RPG 的战斗和开放世界任务放进一套有时间压力的叙事冒险里。重点不在清完地图图标，而在于决定先为哪件事做准备、何时推进任务，以及愿意让哪些选择留下后果。",
-      "for_players": "适合喜欢单人黑暗奇幻、愿意主动读线索和规划路线的玩家；如果你享受动作 RPG 的技能成长，也希望角色身份能实实在在改变行动选择，这套昼夜结构会比普通任务清单更有吸引力。",
-      "not_for_players": "如果你偏好节奏紧凑、目标始终明确的线性动作流程，或希望无压力地清完每条支线，任务时间与取舍可能带来负担。它也要求玩家接受第三人称战斗中的时机、位置和准备工作。",
-      "star_reason": "9 月 4 日，本地 24 小时观测峰值升至 64,386，较前日 29,064 增长 122%；Steam 当日好评率为 79%。它以 50.62 分继续位居原模型第一，首发观察已成熟，因此成为当天今日之星。",
+      "positioning": "《The Blood of Dawnwalker》是一款开放世界黑暗奇幻动作 RPG。科恩白天以人类身份行动，夜里成为吸血鬼；身份切换会改变调查、潜入和解决冲突的办法。",
+      "reference_frame": "它将第三人称动作 RPG 的攻防与成长，放进带时限的路线冒险。探索不耗时，推进特定任务才会让时间前进；每次行动都要决定身份、优先级和取舍。",
+      "for_players": "适合喜欢阴郁奇幻、愿意读线索并主动安排路线的玩家。若你享受动作 RPG 的技能投入，也希望身份让同一处障碍出现不同解法，这套昼夜结构会有吸引力。",
+      "not_for_players": "若你更想无压力清完开放世界图标、绝不漏支线，或只期待一路向前的线性动作流程，任务推进带来的时间取舍可能会压过探索乐趣；第三人称近战的时机、距离和准备也需要耐心适应。",
+      "star_reason": "9 月 4 日保存的观测峰值为 64,386 人。按新规则复算，本期得分 73.60；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "在 Vale Sangora 寻找人物、地点和任务线索，判断当前最值得处理的目标。",
-        "根据昼夜切换人类或吸血鬼身份，用剑术、巫术或夜间能力完成战斗与调查。",
-        "接受任务推进消耗时间并带来关系、线索和成长变化，再安排下一段路线。"
+        "在 Vale Sangora 找人物、地点和线索，判断眼下最值得投入的一条任务线。",
+        "结合昼夜与敌我位置，选择剑术、巫术或吸血鬼能力来战斗、调查或绕过阻碍。",
+        "接受任务推进带来的时间消耗、线索和成长变化，再为下一段路线重新排序。"
       ],
-      "content_length": 537
+      "content_length": 466
     }
   },
   "secondary_signals": [],

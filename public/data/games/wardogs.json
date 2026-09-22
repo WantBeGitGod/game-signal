@@ -20,15 +20,14 @@
     "视角舒适度",
     "自定义音量控制",
     "立体声",
-    "环绕声",
-    "家庭共享"
+    "环绕声"
   ],
-  "review_score": "Very Positive",
-  "review_ratio": 81.0,
-  "review_total": 51224,
+  "review_score": "Mostly Positive",
+  "review_ratio": 79.0,
+  "review_total": 77332,
   "developer": "BULKHEAD",
   "publisher": "Team17",
-  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789059636",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789503126",
   "steam_url": "https://store.steampowered.com/app/1867240",
   "product_family_identity": "appid:1867240",
   "product_family_appid": "1867240",
@@ -45,14 +44,6 @@
     {
       "date": "2026-09-12",
       "peak": 363228
-    },
-    {
-      "date": "2026-09-13",
-      "peak": 400196
-    },
-    {
-      "date": "2026-09-14",
-      "peak": 373437
     }
   ]
 }

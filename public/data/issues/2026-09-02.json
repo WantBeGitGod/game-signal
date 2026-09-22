@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "date": "2026-09-02",
   "title": "09.02 今日之星",
-  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "summary": "按新版评分与入选规则重排。",
   "status": "published",
   "hero_image": null,
   "hero_state": "data-cover",
@@ -10,41 +10,44 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 9.6,
-    "fact_summary": "My Party Is Grinding 今日观测峰值 6,275，未超过过往最高峰值 6,616，被识别为「新作起量」。",
+    "score": 6.03,
+    "fact_summary": "Breathedge 2 今日观测峰值 5,019，较过往最高峰值提升 +48%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 6275,
-      "previous_peak": 6616,
-      "previous_record_peak": 6616,
-      "growth_rate": -0.0515,
-      "record_growth_rate": -0.0515,
-      "scoring_peak": 6275,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-08-31",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-02 17:50:34",
+      "current_peak": 5019,
+      "previous_peak": 3388,
+      "previous_record_peak": 3388,
+      "growth_rate": 0.4814,
+      "record_growth_rate": 0.4814,
+      "scoring_peak": 5019,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 11.29,
-      "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.07,
+      "peak_score": 4.52,
+      "raw_record_growth_score": 16.85,
+      "growth_score_multiplier": 0.0184,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.07,
+      "growth_scale_base_component": 0.0184,
       "growth_scale_crossing_component": 0.0,
-      "record_growth_score": 0.0,
+      "record_growth_score": 0.31,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 11.29,
-      "event_adjusted_score": 11.29,
+      "score_before_multiplier": 4.83,
+      "event_adjusted_score": 4.83,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 0.85,
-      "review_adjusted_score": 9.6,
-      "review_penalty_reason": "below_50",
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 6.03,
+      "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-02",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
-      "secondary_labels": [
-        "评分背离"
-      ],
-      "combined_score_multiplier": 0.85,
-      "base_score": 9.6,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.25,
+      "base_score": 6.03,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -62,18 +65,18 @@
       "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 42.0,
-      "review_total": 429,
-      "days_seen": 6,
-      "comeback_gap_days": 1,
+      "review_ratio": 87.0,
+      "review_total": 470,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
       "is_new_release": true,
-      "release_age_days": 6,
-      "steam_release_age_days": 6,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
       "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 226,
+        "initial_review_total": 470,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -82,48 +85,36 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
+        "动作",
         "角色扮演",
-        "免费"
+        "模拟",
+        "抢先体验"
       ],
-      "scoring_version": "release_event_v2",
+      "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
-      "release_event_date": "2026-08-27",
-      "release_event_age_days": 6,
+      "release_event_date": "2026-08-31",
+      "release_event_age_days": 2,
       "release_event_window_days": 30,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 226,
+        "initial_review_total": 470,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 4,
       "trend": [
         {
-          "date": "2026-08-28",
-          "peak": 6148
-        },
-        {
-          "date": "2026-08-29",
-          "peak": 6616
-        },
-        {
-          "date": "2026-08-30",
-          "peak": 6616
-        },
-        {
-          "date": "2026-08-31",
-          "peak": 6589
-        },
-        {
           "date": "2026-09-01",
-          "peak": 6275
+          "peak": 3388
         },
         {
           "date": "2026-09-02",
-          "peak": 6275
+          "peak": 5019
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
       "count": 1,
@@ -133,124 +124,110 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4952980"
+        "url": "https://store.steampowered.com/app/2412960/"
       }
     ],
     "game": {
-      "slug": "my-party-is-grinding",
-      "appid": "4952980",
-      "name": "My Party Is Grinding",
+      "slug": "breathedge-2",
+      "appid": "2412960",
+      "name": "Breathedge 2",
       "name_cn": null,
-      "description": "在屏幕角落的小窗口里，五人小队在你工作时持续战斗、拾取战利品并成长的桌面放置RPG。",
-      "release_date": "2026-08-27",
+      "description": "在宇宙边缘活下去！制作并升级工具，从残骸中搜刮资源，拯救一个已经彻底乱套的银河系。一个普普通通的爷们儿、一只不死的鸡，再加上一点强力胶带，真能救下整个宇宙吗？",
+      "release_date": "2026-08-31",
       "genres": [
+        "动作",
         "角色扮演",
-        "免费"
+        "模拟",
+        "抢先体验"
       ],
       "tags": [
         "单人",
         "Steam 成就",
-        "自定义音量控制",
-        "可以仅用鼠标",
-        "#category_playable_at_your_own_pace",
-        "无需应对快速反应事件",
-        "随时保存",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 42.0,
-      "review_total": 429,
-      "developer": "SUPERLINK Inc.",
-      "publisher": "SUPERLINK Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4952980/5715d306e00589ea9cba3d28b0b30ad96fe1a8ba/header.jpg?t=1788021618",
-      "steam_url": "https://store.steampowered.com/app/4952980",
-      "product_family_identity": "appid:4952980",
-      "product_family_appid": "4952980",
+      "review_score": "Very Positive",
+      "review_ratio": 86.0,
+      "review_total": 1132,
+      "developer": "RedRuins Softworks",
+      "publisher": "HypeTrain Digital",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412960/cd085c90ed33d237d1f624c923e91f8aa17ce6c8/header_alt_assets_1_schinese.jpg?t=1788324312",
+      "steam_url": "https://store.steampowered.com/app/2412960",
+      "product_family_identity": "appid:2412960",
+      "product_family_appid": "2412960",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-08-28",
-          "peak": 6148
-        },
-        {
-          "date": "2026-08-29",
-          "peak": 6616
-        },
-        {
-          "date": "2026-08-30",
-          "peak": 6616
-        },
-        {
-          "date": "2026-08-31",
-          "peak": 6589
-        },
-        {
           "date": "2026-09-01",
-          "peak": 6275
+          "peak": 3388
         },
         {
           "date": "2026-09-02",
-          "peak": 6275
+          "peak": 5019
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《My Party Is Grinding》是一款常驻屏幕角落的免费桌面放置 RPG。五人小队会在你处理其他事情时自动战斗和拾取装备，你主要负责定期回来整理战利品、调整队伍，再把他们推向更高难度。",
-      "reference_frame": "可以把它理解成把传统刷装 RPG 压进桌面小窗：战斗压力交给自动化，乐趣落在观察掉落、比较装备和修整队伍。它更像工作或学习旁边持续运转的第二块游戏窗口，而不是需要全程盯住的动作 RPG。",
-      "for_players": "适合喜欢刷装、队伍养成和数值优化，又希望游戏能与办公或学习并行的人。操作负担不高，主要投入在定期检查成长结果和做配置取舍。",
-      "not_for_players": "如果你期待手动操控每场战斗、强剧情推进，或不喜欢反复整理装备和等待自动成长，这种桌面放置节奏可能很快显得单调。",
-      "star_reason": "9 月 2 日，它的 24 小时峰值为 6,275，仍维持在此前 6,616 高点附近；Steam 当日好评率为 42%，按 0.85 倍折算后得分 9.60。前三名分别受首发高基数和 30 天摘星上限限制，它因此成为当天首个合格候选。",
+      "positioning": "《Breathedge 2》是一款带黑色幽默的太空生存冒险。你在残骸与废弃空间站之间搜集物资、制作工具，一边解决生存需要，一边推进荒诞故事；当前发行阶段为抢先体验。",
+      "reference_frame": "像在《深海迷航 2》中规划一次外出，你要把有限的安全探索时间换成资源，再用装备延长下一次行动的距离。本作把环境换成太空残骸，并用戏谑的故事打断紧张感。",
+      "for_players": "适合享受搜刮、制作和逐步扩大探索半径，同时喜欢荒诞笑话的人。当前抢先体验内容更适合愿意跟随开发进展、分阶段游玩的玩家。",
+      "not_for_players": "若你希望一次玩到完整长篇故事，或最在意自由建造星舰和星际旅行，应先看清当前版本内容，不能把开发计划当成已经能玩的功能。",
+      "star_reason": "9 月 2 日保存的观测峰值为 5,019 人。按新规则复算，本期得分 6.03；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "让五人小队自动推进关卡、战斗并积累装备和资源。",
-        "回到窗口检查掉落，替换装备并调整成员搭配，解决当前卡点。",
-        "重新投入自动战斗，观察新配置能否把队伍推得更远。"
+        "离开安全区域，寻找材料与线索，留意氧气等生存条件。",
+        "把收获制成工具或升级装备，再探索此前难以抵达的区域，继续故事。"
       ],
-      "content_length": 478
+      "content_length": 387
     },
-    "secondary_labels": [
-      "评分背离"
-    ]
+    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },
   "main_signal": {
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 9.6,
-    "fact_summary": "My Party Is Grinding 今日观测峰值 6,275，未超过过往最高峰值 6,616，被识别为「新作起量」。",
+    "score": 6.03,
+    "fact_summary": "Breathedge 2 今日观测峰值 5,019，较过往最高峰值提升 +48%，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 6275,
-      "previous_peak": 6616,
-      "previous_record_peak": 6616,
-      "growth_rate": -0.0515,
-      "record_growth_rate": -0.0515,
-      "scoring_peak": 6275,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-08-31",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-02 17:50:34",
+      "current_peak": 5019,
+      "previous_peak": 3388,
+      "previous_record_peak": 3388,
+      "growth_rate": 0.4814,
+      "record_growth_rate": 0.4814,
+      "scoring_peak": 5019,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 11.29,
-      "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 0.07,
+      "peak_score": 4.52,
+      "raw_record_growth_score": 16.85,
+      "growth_score_multiplier": 0.0184,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.07,
+      "growth_scale_base_component": 0.0184,
       "growth_scale_crossing_component": 0.0,
-      "record_growth_score": 0.0,
+      "record_growth_score": 0.31,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 11.29,
-      "event_adjusted_score": 11.29,
+      "score_before_multiplier": 4.83,
+      "event_adjusted_score": 4.83,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 0.85,
-      "review_adjusted_score": 9.6,
-      "review_penalty_reason": "below_50",
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 6.03,
+      "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-02",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
-      "secondary_labels": [
-        "评分背离"
-      ],
-      "combined_score_multiplier": 0.85,
-      "base_score": 9.6,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.25,
+      "base_score": 6.03,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -268,18 +245,18 @@
       "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 42.0,
-      "review_total": 429,
-      "days_seen": 6,
-      "comeback_gap_days": 1,
+      "review_ratio": 87.0,
+      "review_total": 470,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
       "is_new_release": true,
-      "release_age_days": 6,
-      "steam_release_age_days": 6,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
       "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 226,
+        "initial_review_total": 470,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -288,48 +265,36 @@
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
+        "动作",
         "角色扮演",
-        "免费"
+        "模拟",
+        "抢先体验"
       ],
-      "scoring_version": "release_event_v2",
+      "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
-      "release_event_date": "2026-08-27",
-      "release_event_age_days": 6,
+      "release_event_date": "2026-08-31",
+      "release_event_age_days": 2,
       "release_event_window_days": 30,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 226,
+        "initial_review_total": 470,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 4,
       "trend": [
         {
-          "date": "2026-08-28",
-          "peak": 6148
-        },
-        {
-          "date": "2026-08-29",
-          "peak": 6616
-        },
-        {
-          "date": "2026-08-30",
-          "peak": 6616
-        },
-        {
-          "date": "2026-08-31",
-          "peak": 6589
-        },
-        {
           "date": "2026-09-01",
-          "peak": 6275
+          "peak": 3388
         },
         {
           "date": "2026-09-02",
-          "peak": 6275
+          "peak": 5019
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
       "count": 1,
@@ -339,84 +304,67 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4952980"
+        "url": "https://store.steampowered.com/app/2412960/"
       }
     ],
     "game": {
-      "slug": "my-party-is-grinding",
-      "appid": "4952980",
-      "name": "My Party Is Grinding",
+      "slug": "breathedge-2",
+      "appid": "2412960",
+      "name": "Breathedge 2",
       "name_cn": null,
-      "description": "在屏幕角落的小窗口里，五人小队在你工作时持续战斗、拾取战利品并成长的桌面放置RPG。",
-      "release_date": "2026-08-27",
+      "description": "在宇宙边缘活下去！制作并升级工具，从残骸中搜刮资源，拯救一个已经彻底乱套的银河系。一个普普通通的爷们儿、一只不死的鸡，再加上一点强力胶带，真能救下整个宇宙吗？",
+      "release_date": "2026-08-31",
       "genres": [
+        "动作",
         "角色扮演",
-        "免费"
+        "模拟",
+        "抢先体验"
       ],
       "tags": [
         "单人",
         "Steam 成就",
-        "自定义音量控制",
-        "可以仅用鼠标",
-        "#category_playable_at_your_own_pace",
-        "无需应对快速反应事件",
-        "随时保存",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 42.0,
-      "review_total": 429,
-      "developer": "SUPERLINK Inc.",
-      "publisher": "SUPERLINK Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4952980/5715d306e00589ea9cba3d28b0b30ad96fe1a8ba/header.jpg?t=1788021618",
-      "steam_url": "https://store.steampowered.com/app/4952980",
-      "product_family_identity": "appid:4952980",
-      "product_family_appid": "4952980",
+      "review_score": "Very Positive",
+      "review_ratio": 86.0,
+      "review_total": 1132,
+      "developer": "RedRuins Softworks",
+      "publisher": "HypeTrain Digital",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412960/cd085c90ed33d237d1f624c923e91f8aa17ce6c8/header_alt_assets_1_schinese.jpg?t=1788324312",
+      "steam_url": "https://store.steampowered.com/app/2412960",
+      "product_family_identity": "appid:2412960",
+      "product_family_appid": "2412960",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-08-28",
-          "peak": 6148
-        },
-        {
-          "date": "2026-08-29",
-          "peak": 6616
-        },
-        {
-          "date": "2026-08-30",
-          "peak": 6616
-        },
-        {
-          "date": "2026-08-31",
-          "peak": 6589
-        },
-        {
           "date": "2026-09-01",
-          "peak": 6275
+          "peak": 3388
         },
         {
           "date": "2026-09-02",
-          "peak": 6275
+          "peak": 5019
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《My Party Is Grinding》是一款常驻屏幕角落的免费桌面放置 RPG。五人小队会在你处理其他事情时自动战斗和拾取装备，你主要负责定期回来整理战利品、调整队伍，再把他们推向更高难度。",
-      "reference_frame": "可以把它理解成把传统刷装 RPG 压进桌面小窗：战斗压力交给自动化，乐趣落在观察掉落、比较装备和修整队伍。它更像工作或学习旁边持续运转的第二块游戏窗口，而不是需要全程盯住的动作 RPG。",
-      "for_players": "适合喜欢刷装、队伍养成和数值优化，又希望游戏能与办公或学习并行的人。操作负担不高，主要投入在定期检查成长结果和做配置取舍。",
-      "not_for_players": "如果你期待手动操控每场战斗、强剧情推进，或不喜欢反复整理装备和等待自动成长，这种桌面放置节奏可能很快显得单调。",
-      "star_reason": "9 月 2 日，它的 24 小时峰值为 6,275，仍维持在此前 6,616 高点附近；Steam 当日好评率为 42%，按 0.85 倍折算后得分 9.60。前三名分别受首发高基数和 30 天摘星上限限制，它因此成为当天首个合格候选。",
+      "positioning": "《Breathedge 2》是一款带黑色幽默的太空生存冒险。你在残骸与废弃空间站之间搜集物资、制作工具，一边解决生存需要，一边推进荒诞故事；当前发行阶段为抢先体验。",
+      "reference_frame": "像在《深海迷航 2》中规划一次外出，你要把有限的安全探索时间换成资源，再用装备延长下一次行动的距离。本作把环境换成太空残骸，并用戏谑的故事打断紧张感。",
+      "for_players": "适合享受搜刮、制作和逐步扩大探索半径，同时喜欢荒诞笑话的人。当前抢先体验内容更适合愿意跟随开发进展、分阶段游玩的玩家。",
+      "not_for_players": "若你希望一次玩到完整长篇故事，或最在意自由建造星舰和星际旅行，应先看清当前版本内容，不能把开发计划当成已经能玩的功能。",
+      "star_reason": "9 月 2 日保存的观测峰值为 5,019 人。按新规则复算，本期得分 6.03；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "让五人小队自动推进关卡、战斗并积累装备和资源。",
-        "回到窗口检查掉落，替换装备并调整成员搭配，解决当前卡点。",
-        "重新投入自动战斗，观察新配置能否把队伍推得更远。"
+        "离开安全区域，寻找材料与线索，留意氧气等生存条件。",
+        "把收获制成工具或升级装备，再探索此前难以抵达的区域，继续故事。"
       ],
-      "content_length": 478
+      "content_length": 387
     },
-    "secondary_labels": [
-      "评分背离"
-    ]
+    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },
   "secondary_signals": [],
   "candidate_signals": []

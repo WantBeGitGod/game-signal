@@ -1,0 +1,44 @@
+{
+  "slug": "breathedge-2",
+  "appid": "2412960",
+  "name": "Breathedge 2",
+  "name_cn": null,
+  "description": "在宇宙边缘活下去！制作并升级工具，从残骸中搜刮资源，拯救一个已经彻底乱套的银河系。一个普普通通的爷们儿、一只不死的鸡，再加上一点强力胶带，真能救下整个宇宙吗？",
+  "release_date": "2026-08-31",
+  "genres": [
+    "动作",
+    "角色扮演",
+    "模拟",
+    "抢先体验"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 86.0,
+  "review_total": 1132,
+  "developer": "RedRuins Softworks",
+  "publisher": "HypeTrain Digital",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2412960/cd085c90ed33d237d1f624c923e91f8aa17ce6c8/header_alt_assets_1_schinese.jpg?t=1788324312",
+  "steam_url": "https://store.steampowered.com/app/2412960",
+  "product_family_identity": "appid:2412960",
+  "product_family_appid": "2412960",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-09-01",
+      "peak": 3388
+    },
+    {
+      "date": "2026-09-02",
+      "peak": 5019
+    }
+  ]
+}

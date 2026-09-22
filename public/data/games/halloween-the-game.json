@@ -1,0 +1,66 @@
+{
+  "slug": "halloween-the-game",
+  "appid": "3219630",
+  "name": "Halloween: The Game",
+  "name_cn": null,
+  "description": "1978 年的万圣节之夜，没人能从迈克尔·迈尔斯的手中逃脱。在 Halloween 中，化身“面具杀手”，或者直面邪恶奋起反抗。",
+  "release_date": "2026-09-08",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Mixed",
+  "review_ratio": 69.0,
+  "review_total": 12593,
+  "developer": "IllFonic",
+  "publisher": "IllFonic Publishing, Co-Publisher: Gun Interactive",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219630/153ed105c4b409fe689783e4f9b6aad72c152646/header.jpg?t=1789433204",
+  "steam_url": "https://store.steampowered.com/app/3219630",
+  "product_family_identity": "appid:3219630",
+  "product_family_appid": "3219630",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-09-09",
+      "peak": 12251
+    },
+    {
+      "date": "2026-09-10",
+      "peak": 23605
+    },
+    {
+      "date": "2026-09-11",
+      "peak": 20905
+    },
+    {
+      "date": "2026-09-12",
+      "peak": 19642
+    },
+    {
+      "date": "2026-09-13",
+      "peak": 23411
+    },
+    {
+      "date": "2026-09-14",
+      "peak": 22067
+    },
+    {
+      "date": "2026-09-15",
+      "peak": 18520
+    }
+  ]
+}

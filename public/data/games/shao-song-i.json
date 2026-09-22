@@ -1,0 +1,53 @@
+{
+  "slug": "shao-song-i",
+  "appid": "4292950",
+  "name": "Shao Song I",
+  "name_cn": null,
+  "description": "这是一款沉浸式真人互动历史权谋影视游戏！你将化身赵玖，魂穿南宋最具争议的皇帝赵构，每次抉择都将左右王朝气运、定夺天下兴亡！面对靖康之变后的山河破碎，你能否打破宿命再造山河？真人互动影视游戏《绍宋：还我河山》邀你于乱世绝境之中，一起喊出宋可亡，天下不可亡的怒吼！",
+  "release_date": "2026-08-19",
+  "genres": [
+    "角色扮演",
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "单人",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 83.0,
+  "review_total": 2709,
+  "developer": "互动之星, 猫眼娱乐",
+  "publisher": "猫眼娱乐, 互动之星",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4292950/dfd52caf6453e43b4d613a662064aca4924a7858/header.jpg?t=1787201131",
+  "steam_url": "https://store.steampowered.com/app/4292950",
+  "product_family_identity": "appid:4292950",
+  "product_family_appid": "4292950",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-08-20",
+      "peak": 12933
+    },
+    {
+      "date": "2026-08-21",
+      "peak": 10930
+    },
+    {
+      "date": "2026-08-22",
+      "peak": 10930
+    },
+    {
+      "date": "2026-08-23",
+      "peak": 6268
+    },
+    {
+      "date": "2026-08-24",
+      "peak": 4968
+    },
+    {
+      "date": "2026-08-25",
+      "peak": 4968
+    }
+  ]
+}

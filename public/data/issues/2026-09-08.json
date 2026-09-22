@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "date": "2026-09-08",
   "title": "09.08 今日之星",
-  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "summary": "按新版评分与入选规则重排。",
   "status": "published",
   "hero_image": null,
   "hero_state": "data-cover",
@@ -10,395 +10,465 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 28.89,
-    "fact_summary": "Onimusha: Way of the Sword 今日观测峰值 75,960，未超过过往最高峰值 85,081，被识别为「新作起量」。",
+    "score": 20.61,
+    "fact_summary": "NBA 2K27 今日观测峰值 29,695，未超过过往最高峰值 31,174，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 75960,
-      "previous_peak": 85081,
-      "previous_record_peak": 85081,
-      "growth_rate": -0.1072,
-      "record_growth_rate": -0.1072,
-      "scoring_peak": 75960,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-08-26",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-08 17:50:23",
+      "current_peak": 29695,
+      "previous_peak": 31174,
+      "previous_record_peak": 31174,
+      "growth_rate": -0.0474,
+      "record_growth_rate": -0.0474,
+      "scoring_peak": 29695,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 38.52,
+      "peak_score": 21.55,
       "raw_record_growth_score": 0.0,
       "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 11.582,
-      "growth_scale_crossing_component": 0.6596,
+      "growth_scale_base_component": 1.5549,
+      "growth_scale_crossing_component": 0.1969,
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 38.52,
-      "event_adjusted_score": 38.52,
+      "score_before_multiplier": 21.55,
+      "event_adjusted_score": 21.55,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 38.52,
-      "review_penalty_reason": null,
+      "review_ratio_multiplier": 0.9,
+      "review_adjusted_score": 24.25,
+      "review_penalty_reason": "below_60",
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-08",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
-      "secondary_labels": [],
-      "combined_score_multiplier": 0.75,
-      "base_score": 28.89,
-      "score_multiplier": 0.75,
-      "score_multiplier_reasons": [
-        "repeat_window_star_2x"
+      "secondary_labels": [
+        "评分背离",
+        "豪华先行版本"
       ],
-      "repeat_window_star_count": 2,
-      "app_repeat_window_star_count": 2,
-      "app_prior_total_star_count": 2,
-      "family_repeat_window_star_count": 2,
-      "family_prior_total_star_count": 2,
+      "combined_score_multiplier": 0.9562,
+      "base_score": 20.61,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 2,
-      "total_star_count": 3,
-      "star_appearance_count": 3,
-      "cumulative_star_count": 2,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 89.0,
-      "review_total": 10658,
+      "review_ratio": 52.0,
+      "review_total": 1685,
       "days_seen": 5,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 5,
+      "release_age_days": 13,
       "steam_release_age_days": 5,
       "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
-        "source": "initial_review_observation",
-        "initial_review_total": 948,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "title": "NBA 2K27 ADVANCED ACCESS STARTS NOW",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297392",
+        "date": 1787760038,
+        "contents": "Advanced access* is available now! Play NBA 2K27 up to nine days with NBA 2K27 Deluxe Edition or Ultra Edition. Get in the gym and hone your skills before the official tip-off on September 4.*Advanced access begins at 9:00 AM PT, August 26. Availability may vary by region and time zone. See nba.2k.c...",
+        "author": "NBA 2K27",
+        "feed_label": "Community Announcements",
+        "feed_name": "steam_community_announcements",
+        "feed_type": 1,
+        "is_external_url": true,
+        "access_type": "deluxe_advanced_access"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
-        "角色扮演"
+        "体育"
       ],
-      "scoring_version": "release_event_v2",
+      "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
-      "release_event_date": "2026-09-03",
-      "release_event_age_days": 5,
+      "release_event_date": "2026-08-26",
+      "release_event_age_days": 13,
       "release_event_window_days": 30,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
-        "source": "initial_review_observation",
-        "initial_review_total": 948,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "title": "NBA 2K27 ADVANCED ACCESS STARTS NOW",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297392",
+        "date": 1787760038,
+        "contents": "Advanced access* is available now! Play NBA 2K27 up to nine days with NBA 2K27 Deluxe Edition or Ultra Edition. Get in the gym and hone your skills before the official tip-off on September 4.*Advanced access begins at 9:00 AM PT, August 26. Availability may vary by region and time zone. See nba.2k.c...",
+        "author": "NBA 2K27",
+        "feed_label": "Community Announcements",
+        "feed_name": "steam_community_announcements",
+        "feed_type": 1,
+        "is_external_url": true,
+        "access_type": "deluxe_advanced_access"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 1,
+      "pre_bonus_model_rank": 5,
       "trend": [
         {
           "date": "2026-09-04",
-          "peak": 42230
+          "peak": 17298
         },
         {
           "date": "2026-09-05",
-          "peak": 74465
+          "peak": 29446
         },
         {
           "date": "2026-09-06",
-          "peak": 81537
+          "peak": 31174
         },
         {
           "date": "2026-09-07",
-          "peak": 85081
+          "peak": 30661
         },
         {
           "date": "2026-09-08",
-          "peak": 75960
+          "peak": 29695
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
-      "count": 3,
-      "prior_count": 2,
-      "repeat_window_prior_count": 2
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/2638890"
+        "url": "https://store.steampowered.com/app/4356430/"
       }
     ],
     "game": {
-      "slug": "onimusha-way-of-the-sword",
-      "appid": "2638890",
-      "name": "Onimusha: Way of the Sword",
+      "slug": "nba-2k27",
+      "appid": "4356430",
+      "name": "NBA 2K27",
       "name_cn": null,
-      "description": "本作是刀光血影、以牙还牙的极致动作游戏。在面目全非的“京都”，一位佩戴“鬼之笼手”的武士正四处奔波，斩杀猖獗肆虐的幻魔。在激烈的刀光剑影之中沐浴鲜血，不断寻求战斗的意义。前行的道路，终将通往何处？",
+      "description": "在《NBA 2K27》中，拼搏永不停歇，奔跑永无止境。 在 MyCAREER（辉煌生涯）、MyTEAM（梦幻球队）和 MyNBA（篮球联盟）模式中全天候追逐伟大，让你的篮球梦想照进现实。",
       "release_date": "2026-09-03",
       "genres": [
-        "动作",
-        "冒险",
-        "角色扮演"
+        "体育"
       ],
       "tags": [
         "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "同屏/分屏玩家对战",
+        "合作",
+        "在线合作",
+        "同屏/分屏合作",
+        "同屏/分屏",
         "Steam 成就",
-        "完全支持控制器",
-        "Steam 集换式卡牌",
+        "应用内购买",
+        "推荐使用手柄",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "部分支持控制器",
         "Steam 云",
-        "可用 HDR",
+        "远程同乐",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 89.0,
-      "review_total": 10658,
-      "developer": "CAPCOM Co., Ltd.",
-      "publisher": "CAPCOM Co., Ltd.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/ce31174fea86d0bafa21b26e853dcd0b7326e36f/header.jpg?t=1788758919",
-      "steam_url": "https://store.steampowered.com/app/2638890",
-      "product_family_identity": "appid:2638890",
-      "product_family_appid": "2638890",
+      "review_score": "Mixed",
+      "review_ratio": 52.0,
+      "review_total": 1877,
+      "developer": "Visual Concepts",
+      "publisher": "2K",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1788880577",
+      "steam_url": "https://store.steampowered.com/app/4356430",
+      "product_family_identity": "appid:4356430",
+      "product_family_appid": "4356430",
       "product_family_role": "full",
       "trend": [
         {
           "date": "2026-09-04",
-          "peak": 42230
+          "peak": 17298
         },
         {
           "date": "2026-09-05",
-          "peak": 74465
+          "peak": 29446
         },
         {
           "date": "2026-09-06",
-          "peak": 81537
+          "peak": 31174
         },
         {
           "date": "2026-09-07",
-          "peak": 85081
+          "peak": 30661
         },
         {
           "date": "2026-09-08",
-          "peak": 75960
+          "peak": 29695
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Onimusha: Way of the Sword》是把剑术动作、鬼之力和区域推进拧在一起的单人动作冒险：宫本武藏在被恶鬼侵蚀的京都里战斗、收集魂魄，再用新能力打开下一段路。",
-      "reference_frame": "它能借《黑暗之魂》的读招与攻击承诺解释近战压力：出手前先看距离和敌人节奏，硬抢会立刻吃亏。不过《鬼武者》不靠篝火跑图、死亡回收或耐力账来组织挫败；魂魄、鬼弓和任务区域会把一场胜利继续转成工具、路线与下一轮战斗的选择。",
-      "for_players": "适合喜欢第三人称近战、愿意为一次精准攻防反复练习，又希望战斗成果能回到探索和成长里的玩家。鬼弓、能力与区域回访会让你不断换一种方式处理同类障碍。",
-      "not_for_players": "如果你只想用数值构筑或远程输出稳定绕开近距离交锋，或期待没有封锁、可以随意清图的开放世界，这种需要读招、承担出手时机、再逐步打开京都的节奏可能不对胃口。",
-      "star_reason": "9 月 8 日，本地 24 小时观测峰值为 75,960，虽较前日 85,081 回落约 11%，仍以 28.89 分居原模型第一；当天 Steam 好评率升至 89%，样本 10,658 篇。首发后的热度仍在高位，因此成为今日之星。",
+      "positioning": "《NBA 2K27》把攻防回合、球员成长、球队经营和卡牌阵容放进同一款篮球模拟：你既能打一场球，也能追一段赛季目标。",
+      "reference_frame": "《EA SPORTS College Football 27》能解释“比赛结果回写为长期投入”：胜负会改变下一步。《NBA 2K27》的连续篮球攻防则接向 MyCAREER、MyNBA 与 MyTEAM，不沿用美式橄榄球的开球和大学项目结构。",
+      "for_players": "适合愿意练投篮时机、空间判断和防守轮转，也愿意长期养球队或自建球员的玩家。喜欢 Build、阵容和线上组队的人，更能吃到它的体量。",
+      "not_for_players": "如果你只想轻松离线打几场球、不愿学习站位与时机，或厌烦账户、通行证、卡牌和在线服务带来的长线任务，这款年货可能让你觉得负担大过球场本身。",
+      "star_reason": "9 月 8 日保存的观测峰值为 29,695 人。按新规则复算，本期得分 20.61；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "进入被毒雾、恶鬼或机关封住的京都街区，观察敌人、地形和可用的远程工具。",
-        "用刀剑交锋、鬼之力与鬼弓处理当前遭遇，在安全窗口吸收魂魄、取得宝物或能力。",
-        "把新增能力用回封锁与强敌问题，打开新路后再调整下一段区域的打法。"
+        "读防守和队友跑位，用运球、掩护或传球制造出手条件。",
+        "处理投篮节奏与干扰，再用协防、卡位和篮板压缩对手选择。",
+        "把比赛表现投入 MyCAREER、MyNBA 或 MyTEAM，再调整下一场目标。"
       ],
-      "content_length": 546
-    }
+      "content_length": 452
+    },
+    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。",
+    "secondary_labels": [
+      "评分背离",
+      "豪华先行版本"
+    ]
   },
   "main_signal": {
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 28.89,
-    "fact_summary": "Onimusha: Way of the Sword 今日观测峰值 75,960，未超过过往最高峰值 85,081，被识别为「新作起量」。",
+    "score": 20.61,
+    "fact_summary": "NBA 2K27 今日观测峰值 29,695，未超过过往最高峰值 31,174，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 75960,
-      "previous_peak": 85081,
-      "previous_record_peak": 85081,
-      "growth_rate": -0.1072,
-      "record_growth_rate": -0.1072,
-      "scoring_peak": 75960,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-08-26",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-08 17:50:23",
+      "current_peak": 29695,
+      "previous_peak": 31174,
+      "previous_record_peak": 31174,
+      "growth_rate": -0.0474,
+      "record_growth_rate": -0.0474,
+      "scoring_peak": 29695,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 38.52,
+      "peak_score": 21.55,
       "raw_record_growth_score": 0.0,
       "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 11.582,
-      "growth_scale_crossing_component": 0.6596,
+      "growth_scale_base_component": 1.5549,
+      "growth_scale_crossing_component": 0.1969,
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 38.52,
-      "event_adjusted_score": 38.52,
+      "score_before_multiplier": 21.55,
+      "event_adjusted_score": 21.55,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 38.52,
-      "review_penalty_reason": null,
+      "review_ratio_multiplier": 0.9,
+      "review_adjusted_score": 24.25,
+      "review_penalty_reason": "below_60",
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-08",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
-      "secondary_labels": [],
-      "combined_score_multiplier": 0.75,
-      "base_score": 28.89,
-      "score_multiplier": 0.75,
-      "score_multiplier_reasons": [
-        "repeat_window_star_2x"
+      "secondary_labels": [
+        "评分背离",
+        "豪华先行版本"
       ],
-      "repeat_window_star_count": 2,
-      "app_repeat_window_star_count": 2,
-      "app_prior_total_star_count": 2,
-      "family_repeat_window_star_count": 2,
-      "family_prior_total_star_count": 2,
+      "combined_score_multiplier": 0.9562,
+      "base_score": 20.61,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 2,
-      "total_star_count": 3,
-      "star_appearance_count": 3,
-      "cumulative_star_count": 2,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 89.0,
-      "review_total": 10658,
+      "review_ratio": 52.0,
+      "review_total": 1685,
       "days_seen": 5,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 5,
+      "release_age_days": 13,
       "steam_release_age_days": 5,
       "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
-        "source": "initial_review_observation",
-        "initial_review_total": 948,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "title": "NBA 2K27 ADVANCED ACCESS STARTS NOW",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297392",
+        "date": 1787760038,
+        "contents": "Advanced access* is available now! Play NBA 2K27 up to nine days with NBA 2K27 Deluxe Edition or Ultra Edition. Get in the gym and hone your skills before the official tip-off on September 4.*Advanced access begins at 9:00 AM PT, August 26. Availability may vary by region and time zone. See nba.2k.c...",
+        "author": "NBA 2K27",
+        "feed_label": "Community Announcements",
+        "feed_name": "steam_community_announcements",
+        "feed_type": 1,
+        "is_external_url": true,
+        "access_type": "deluxe_advanced_access"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
-        "角色扮演"
+        "体育"
       ],
-      "scoring_version": "release_event_v2",
+      "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
-      "release_event_date": "2026-09-03",
-      "release_event_age_days": 5,
+      "release_event_date": "2026-08-26",
+      "release_event_age_days": 13,
       "release_event_window_days": 30,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
-        "source": "initial_review_observation",
-        "initial_review_total": 948,
-        "verification_threshold": 5000,
-        "verification_status": "confirmed_true_new"
+        "title": "NBA 2K27 ADVANCED ACCESS STARTS NOW",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297392",
+        "date": 1787760038,
+        "contents": "Advanced access* is available now! Play NBA 2K27 up to nine days with NBA 2K27 Deluxe Edition or Ultra Edition. Get in the gym and hone your skills before the official tip-off on September 4.*Advanced access begins at 9:00 AM PT, August 26. Availability may vary by region and time zone. See nba.2k.c...",
+        "author": "NBA 2K27",
+        "feed_label": "Community Announcements",
+        "feed_name": "steam_community_announcements",
+        "feed_type": 1,
+        "is_external_url": true,
+        "access_type": "deluxe_advanced_access"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 1,
+      "pre_bonus_model_rank": 5,
       "trend": [
         {
           "date": "2026-09-04",
-          "peak": 42230
+          "peak": 17298
         },
         {
           "date": "2026-09-05",
-          "peak": 74465
+          "peak": 29446
         },
         {
           "date": "2026-09-06",
-          "peak": 81537
+          "peak": 31174
         },
         {
           "date": "2026-09-07",
-          "peak": 85081
+          "peak": 30661
         },
         {
           "date": "2026-09-08",
-          "peak": 75960
+          "peak": 29695
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
-      "count": 3,
-      "prior_count": 2,
-      "repeat_window_prior_count": 2
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/2638890"
+        "url": "https://store.steampowered.com/app/4356430/"
       }
     ],
     "game": {
-      "slug": "onimusha-way-of-the-sword",
-      "appid": "2638890",
-      "name": "Onimusha: Way of the Sword",
+      "slug": "nba-2k27",
+      "appid": "4356430",
+      "name": "NBA 2K27",
       "name_cn": null,
-      "description": "本作是刀光血影、以牙还牙的极致动作游戏。在面目全非的“京都”，一位佩戴“鬼之笼手”的武士正四处奔波，斩杀猖獗肆虐的幻魔。在激烈的刀光剑影之中沐浴鲜血，不断寻求战斗的意义。前行的道路，终将通往何处？",
+      "description": "在《NBA 2K27》中，拼搏永不停歇，奔跑永无止境。 在 MyCAREER（辉煌生涯）、MyTEAM（梦幻球队）和 MyNBA（篮球联盟）模式中全天候追逐伟大，让你的篮球梦想照进现实。",
       "release_date": "2026-09-03",
       "genres": [
-        "动作",
-        "冒险",
-        "角色扮演"
+        "体育"
       ],
       "tags": [
         "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "同屏/分屏玩家对战",
+        "合作",
+        "在线合作",
+        "同屏/分屏合作",
+        "同屏/分屏",
         "Steam 成就",
-        "完全支持控制器",
-        "Steam 集换式卡牌",
+        "应用内购买",
+        "推荐使用手柄",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "部分支持控制器",
         "Steam 云",
-        "可用 HDR",
+        "远程同乐",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 89.0,
-      "review_total": 10658,
-      "developer": "CAPCOM Co., Ltd.",
-      "publisher": "CAPCOM Co., Ltd.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2638890/ce31174fea86d0bafa21b26e853dcd0b7326e36f/header.jpg?t=1788758919",
-      "steam_url": "https://store.steampowered.com/app/2638890",
-      "product_family_identity": "appid:2638890",
-      "product_family_appid": "2638890",
+      "review_score": "Mixed",
+      "review_ratio": 52.0,
+      "review_total": 1877,
+      "developer": "Visual Concepts",
+      "publisher": "2K",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4356430/9152438fde7de9f4c20b4fd9072ba69f844dacab/header.jpg?t=1788880577",
+      "steam_url": "https://store.steampowered.com/app/4356430",
+      "product_family_identity": "appid:4356430",
+      "product_family_appid": "4356430",
       "product_family_role": "full",
       "trend": [
         {
           "date": "2026-09-04",
-          "peak": 42230
+          "peak": 17298
         },
         {
           "date": "2026-09-05",
-          "peak": 74465
+          "peak": 29446
         },
         {
           "date": "2026-09-06",
-          "peak": 81537
+          "peak": 31174
         },
         {
           "date": "2026-09-07",
-          "peak": 85081
+          "peak": 30661
         },
         {
           "date": "2026-09-08",
-          "peak": 75960
+          "peak": 29695
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Onimusha: Way of the Sword》是把剑术动作、鬼之力和区域推进拧在一起的单人动作冒险：宫本武藏在被恶鬼侵蚀的京都里战斗、收集魂魄，再用新能力打开下一段路。",
-      "reference_frame": "它能借《黑暗之魂》的读招与攻击承诺解释近战压力：出手前先看距离和敌人节奏，硬抢会立刻吃亏。不过《鬼武者》不靠篝火跑图、死亡回收或耐力账来组织挫败；魂魄、鬼弓和任务区域会把一场胜利继续转成工具、路线与下一轮战斗的选择。",
-      "for_players": "适合喜欢第三人称近战、愿意为一次精准攻防反复练习，又希望战斗成果能回到探索和成长里的玩家。鬼弓、能力与区域回访会让你不断换一种方式处理同类障碍。",
-      "not_for_players": "如果你只想用数值构筑或远程输出稳定绕开近距离交锋，或期待没有封锁、可以随意清图的开放世界，这种需要读招、承担出手时机、再逐步打开京都的节奏可能不对胃口。",
-      "star_reason": "9 月 8 日，本地 24 小时观测峰值为 75,960，虽较前日 85,081 回落约 11%，仍以 28.89 分居原模型第一；当天 Steam 好评率升至 89%，样本 10,658 篇。首发后的热度仍在高位，因此成为今日之星。",
+      "positioning": "《NBA 2K27》把攻防回合、球员成长、球队经营和卡牌阵容放进同一款篮球模拟：你既能打一场球，也能追一段赛季目标。",
+      "reference_frame": "《EA SPORTS College Football 27》能解释“比赛结果回写为长期投入”：胜负会改变下一步。《NBA 2K27》的连续篮球攻防则接向 MyCAREER、MyNBA 与 MyTEAM，不沿用美式橄榄球的开球和大学项目结构。",
+      "for_players": "适合愿意练投篮时机、空间判断和防守轮转，也愿意长期养球队或自建球员的玩家。喜欢 Build、阵容和线上组队的人，更能吃到它的体量。",
+      "not_for_players": "如果你只想轻松离线打几场球、不愿学习站位与时机，或厌烦账户、通行证、卡牌和在线服务带来的长线任务，这款年货可能让你觉得负担大过球场本身。",
+      "star_reason": "9 月 8 日保存的观测峰值为 29,695 人。按新规则复算，本期得分 20.61；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "进入被毒雾、恶鬼或机关封住的京都街区，观察敌人、地形和可用的远程工具。",
-        "用刀剑交锋、鬼之力与鬼弓处理当前遭遇，在安全窗口吸收魂魄、取得宝物或能力。",
-        "把新增能力用回封锁与强敌问题，打开新路后再调整下一段区域的打法。"
+        "读防守和队友跑位，用运球、掩护或传球制造出手条件。",
+        "处理投篮节奏与干扰，再用协防、卡位和篮板压缩对手选择。",
+        "把比赛表现投入 MyCAREER、MyNBA 或 MyTEAM，再调整下一场目标。"
       ],
-      "content_length": 546
-    }
+      "content_length": 452
+    },
+    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。",
+    "secondary_labels": [
+      "评分背离",
+      "豪华先行版本"
+    ]
   },
   "secondary_signals": [],
   "candidate_signals": []

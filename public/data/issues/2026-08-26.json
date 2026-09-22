@@ -2,43 +2,52 @@
   "schema_version": "1.0.0",
   "date": "2026-08-26",
   "title": "08.26 今日之星",
-  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "summary": "按新版评分与入选规则重排。",
   "status": "published",
   "hero_image": null,
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "content_update_comeback",
-    "label": "重大更新回流",
-    "score": 15.97,
-    "fact_summary": "S.T.A.L.K.E.R. 2: Heart of Chornobyl 今日观测峰值 35,496，未超过过往最高峰值 40,976，被识别为「重大更新回流」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 8.02,
+    "fact_summary": "Aliens: Fireteam Elite 2 今日观测峰值 7,131，首次进入当前观察窗口，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 35496,
-      "previous_peak": 40976,
-      "previous_record_peak": 40976,
-      "growth_rate": -0.1337,
-      "record_growth_rate": -0.1337,
-      "scoring_peak": 35496,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-08-25",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-08-26 18:52:18",
+      "current_peak": 7131,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 7131,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 22.82,
+      "peak_score": 6.42,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 1.0,
+      "growth_score_multiplier": 0.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 2.6865,
-      "growth_scale_crossing_component": 0.255,
+      "growth_scale_base_component": 0.0,
+      "growth_scale_crossing_component": 0.0,
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 22.82,
-      "event_adjusted_score": 15.97,
-      "event_multiplier": 0.7,
+      "score_before_multiplier": 6.42,
+      "event_adjusted_score": 6.42,
+      "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 15.97,
+      "review_adjusted_score": 8.02,
       "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.7,
-      "base_score": 15.97,
+      "combined_score_multiplier": 1.25,
+      "base_score": 8.02,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -58,72 +67,47 @@
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": null,
       "review_total": 0,
-      "days_seen": 6,
-      "comeback_gap_days": 1,
-      "is_new_release": false,
-      "release_age_days": 6,
-      "steam_release_age_days": 644,
-      "release_age_basis": "official_major_update",
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
-        "title": "S.T.A.L.K.E.R. 2: Cost of Hope is out now with a big free upgrade",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1841579228665774",
-        "date": 1787235196,
-        "contents": "S.T.A.L.K.E.R. 2: Cost of Hope is the first major expansion for the open-world shooter, bringing with it a huge free upgrade for all owners. Read the full article here: https://www.gamingonlinux.com/2026/08/s-t-a-l-k-e-r-2-cost-of-hope-is-out-now-with-a-big-free-upgrade/ "
+        "source": "initial_review_observation",
+        "initial_review_total": 2241,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
       },
       "all_platform_release_date": null,
-      "is_comeback_age": true,
-      "comeback_reason": "content_update",
-      "comeback_evidence": {
-        "title": "S.T.A.L.K.E.R. 2: Cost of Hope is out now with a big free upgrade",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1841579228665774",
-        "date": 1787235196,
-        "contents": "S.T.A.L.K.E.R. 2: Cost of Hope is the first major expansion for the open-world shooter, bringing with it a huge free upgrade for all owners. Read the full article here: https://www.gamingonlinux.com/2026/08/s-t-a-l-k-e-r-2-cost-of-hope-is-out-now-with-a-big-free-upgrade/ "
-      },
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
-        "角色扮演"
+        "动作"
       ],
-      "scoring_version": "release_event_v2",
-      "release_event_type": "major_update",
-      "release_event_date": "2026-08-20",
-      "release_event_age_days": 6,
-      "release_event_window_days": 14,
-      "release_event_multiplier": 0.7,
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-25",
+      "release_event_age_days": 1,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
       "release_event_evidence": {
-        "title": "S.T.A.L.K.E.R. 2: Cost of Hope is out now with a big free upgrade",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1841579228665774",
-        "date": 1787235196,
-        "contents": "S.T.A.L.K.E.R. 2: Cost of Hope is the first major expansion for the open-world shooter, bringing with it a huge free upgrade for all owners. Read the full article here: https://www.gamingonlinux.com/2026/08/s-t-a-l-k-e-r-2-cost-of-hope-is-out-now-with-a-big-free-upgrade/ "
+        "source": "initial_review_observation",
+        "initial_review_total": 2241,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
       },
-      "release_event_date_basis": "official_major_update",
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 3,
       "trend": [
         {
-          "date": "2026-08-21",
-          "peak": 30710
-        },
-        {
-          "date": "2026-08-22",
-          "peak": 26474
-        },
-        {
-          "date": "2026-08-23",
-          "peak": 40976
-        },
-        {
-          "date": "2026-08-24",
-          "peak": 38432
-        },
-        {
-          "date": "2026-08-25",
-          "peak": 15135
-        },
-        {
           "date": "2026-08-26",
-          "peak": 35496
+          "peak": 7131
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
       "count": 1,
@@ -133,117 +117,115 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1643320"
+        "url": "https://store.steampowered.com/app/3448650/"
       }
     ],
     "game": {
-      "slug": "s-t-a-l-k-e-r-2-heart-of-chornobyl",
-      "appid": "1643320",
-      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "slug": "aliens-fireteam-elite-2",
+      "appid": "3448650",
+      "name": "Aliens: Fireteam Elite 2",
       "name_cn": null,
-      "description": "前往广阔无垠的切尔诺贝利封锁区，与大量危险的敌人正面交锋，探寻众多致命的异常现象和强力的神器。揭开属于你的史诗篇章，闯入切尔诺贝利的核心地带。明智地选择你的发展轨迹，你的每次选择都将决定自身命运，并最终定格人类的未来。",
-      "release_date": "2024-11-20",
+      "description": "《Aliens: Fireteam Elite 2》将最多四名玩家投入殖民陆战队的角色之中，奉命奔赴《Aliens》宇宙中最险恶的角落。这不是救援任务，而是一场生死之战。异形蜂拥而至。每一个房间都可能是最后的葬身之地。",
+      "release_date": "2026-08-25",
       "genres": [
-        "动作",
-        "冒险",
-        "角色扮演"
+        "动作"
       ],
       "tags": [
         "单人",
+        "多人",
+        "合作",
+        "在线合作",
         "Steam 成就",
-        "Steam 集换式卡牌",
-        "Steam 创意工坊",
+        "可调整文字大小",
+        "视角舒适度",
+        "可选颜色",
+        "自定义音量控制",
+        "可调整难度",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "字幕选项",
+        "环绕声",
         "部分支持控制器",
         "Steam 云",
-        "可用 HDR",
         "家庭共享"
       ],
-      "review_score": "Mostly Positive",
-      "review_ratio": 80.0,
-      "review_total": 138185,
-      "developer": "GSC Game World",
-      "publisher": "GSC Game World (worldwide), SEGA (Japan), 4Divinity (China and South East Asia)",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1643320/d0061f5e4af61d46de2d2e0d672c4e3a2fe80423/header_alt_assets_7_schinese.jpg?t=1787898745",
-      "steam_url": "https://store.steampowered.com/app/1643320",
-      "product_family_identity": "appid:1643320",
-      "product_family_appid": "1643320",
+      "review_score": "Mixed",
+      "review_ratio": 63.0,
+      "review_total": 3272,
+      "developer": "Cold Iron Studios",
+      "publisher": "Daybreak Game Company",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448650/9b3d808b5a39c572dc13ced8024e8085bd306805/header.jpg?t=1787772466",
+      "steam_url": "https://store.steampowered.com/app/3448650",
+      "product_family_identity": "appid:3448650",
+      "product_family_appid": "3448650",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-08-21",
-          "peak": 30710
-        },
-        {
-          "date": "2026-08-22",
-          "peak": 26474
-        },
-        {
-          "date": "2026-08-23",
-          "peak": 40976
-        },
-        {
-          "date": "2026-08-24",
-          "peak": 38432
-        },
-        {
-          "date": "2026-08-25",
-          "peak": 15135
-        },
-        {
           "date": "2026-08-26",
-          "peak": 35496
+          "peak": 7131
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《S.T.A.L.K.E.R. 2: Heart of Chornobyl》是开放世界生存射击游戏：玩家进入切尔诺贝利封锁区，在派系冲突、异常现象与资源压力之间探索，并用自己的选择推动故事。8 月 20 日上线的“Back to the Zone”2.0 更新与首个大型扩展，让这次回流有了明确内容节点。",
-      "reference_frame": "它不是一路清图的爽快射击，更接近“危险远征”：地图信息、弹药、负重、神器收益和撤离路线共同决定一次探索是否值得继续。2.0 更新强调环境、A-Life 与大量修复。",
-      "for_players": "适合喜欢高压探索、资源取舍、沉浸式世界和非线性任务的单人玩家，也适合曾因早期技术问题离开、想借 2.0 更新重新确认完成度的人。",
-      "not_for_players": "如果你要求稳定连续的强反馈、不想承受长距离移动与突发损失，或只期待线性关卡式枪战，这套强调不确定性和准备成本的节奏仍可能显得拖沓。",
-      "star_reason": "8 月 26 日，本作的 Steam 观测峰值为 35,496，模型以 15.97 分列第 2，并识别为“重大更新回流”。第 1 名《How to Fish》仍在编辑冷却，本作因此成为当天排名最高的可公开候选；这是它在 30 日窗口内首次摘星，按规则自动通过，无需借助不可用的 SteamDB 月线作二次筛选。",
+      "positioning": "《异形：火力精英 2》是一款合作第三人称射击游戏。最多四名殖民地陆战队员一起面对异形群，队伍需要在同一个交战空间里保持火力，避免敌人贴近后让阵线失去秩序。",
+      "reference_frame": "可以从合作战役的分工理解它：你既要瞄准眼前目标，也要留意队友正在应付哪一侧。异形成群逼近，让持续射击、移动与互相照应成为同一件事，电影里的压迫感因此落到玩家操作上。",
+      "for_players": "适合喜欢异形题材、愿意和朋友反复打合作任务的人。能接受边射击边交流、为团队留意危险，比只追求自己的击杀数更容易享受这种战斗。",
+      "not_for_players": "如果你想要缓慢独行的恐怖探索，或完全不依赖队友的单人闯关，应先确认这种高强度合作射击是否合口味。",
+      "star_reason": "8 月 26 日保存的观测峰值为 7,131 人。按新规则复算，本期得分 8.02；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "从据点整理武器、补给和任务，选择下一片准备进入的区域。",
-        "在开放区域搜索线索与资源，辨认异常、敌对单位和可利用的安全路线。",
-        "交战或绕行后带着战利品返回，把资源换成装备成长，再推进新的任务与选择。"
+        "与队友进入任务区域，观察敌人来向并展开交战。",
+        "在推进中保持距离与互相支援，处理接连出现的威胁，一起完成任务。"
       ],
-      "content_length": 580
-    }
+      "content_length": 380
+    },
+    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },
   "main_signal": {
     "rank": 1,
-    "type": "content_update_comeback",
-    "label": "重大更新回流",
-    "score": 15.97,
-    "fact_summary": "S.T.A.L.K.E.R. 2: Heart of Chornobyl 今日观测峰值 35,496，未超过过往最高峰值 40,976，被识别为「重大更新回流」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 8.02,
+    "fact_summary": "Aliens: Fireteam Elite 2 今日观测峰值 7,131，首次进入当前观察窗口，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 35496,
-      "previous_peak": 40976,
-      "previous_record_peak": 40976,
-      "growth_rate": -0.1337,
-      "record_growth_rate": -0.1337,
-      "scoring_peak": 35496,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-08-25",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-08-26 18:52:18",
+      "current_peak": 7131,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 7131,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 22.82,
+      "peak_score": 6.42,
       "raw_record_growth_score": 0.0,
-      "growth_score_multiplier": 1.0,
+      "growth_score_multiplier": 0.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 2.6865,
-      "growth_scale_crossing_component": 0.255,
+      "growth_scale_base_component": 0.0,
+      "growth_scale_crossing_component": 0.0,
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 22.82,
-      "event_adjusted_score": 15.97,
-      "event_multiplier": 0.7,
+      "score_before_multiplier": 6.42,
+      "event_adjusted_score": 6.42,
+      "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 15.97,
+      "review_adjusted_score": 8.02,
       "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.7,
-      "base_score": 15.97,
+      "combined_score_multiplier": 1.25,
+      "base_score": 8.02,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -263,72 +245,47 @@
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": null,
       "review_total": 0,
-      "days_seen": 6,
-      "comeback_gap_days": 1,
-      "is_new_release": false,
-      "release_age_days": 6,
-      "steam_release_age_days": 644,
-      "release_age_basis": "official_major_update",
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
-        "title": "S.T.A.L.K.E.R. 2: Cost of Hope is out now with a big free upgrade",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1841579228665774",
-        "date": 1787235196,
-        "contents": "S.T.A.L.K.E.R. 2: Cost of Hope is the first major expansion for the open-world shooter, bringing with it a huge free upgrade for all owners. Read the full article here: https://www.gamingonlinux.com/2026/08/s-t-a-l-k-e-r-2-cost-of-hope-is-out-now-with-a-big-free-upgrade/ "
+        "source": "initial_review_observation",
+        "initial_review_total": 2241,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
       },
       "all_platform_release_date": null,
-      "is_comeback_age": true,
-      "comeback_reason": "content_update",
-      "comeback_evidence": {
-        "title": "S.T.A.L.K.E.R. 2: Cost of Hope is out now with a big free upgrade",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1841579228665774",
-        "date": 1787235196,
-        "contents": "S.T.A.L.K.E.R. 2: Cost of Hope is the first major expansion for the open-world shooter, bringing with it a huge free upgrade for all owners. Read the full article here: https://www.gamingonlinux.com/2026/08/s-t-a-l-k-e-r-2-cost-of-hope-is-out-now-with-a-big-free-upgrade/ "
-      },
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
       "genres": [
-        "动作",
-        "冒险",
-        "角色扮演"
+        "动作"
       ],
-      "scoring_version": "release_event_v2",
-      "release_event_type": "major_update",
-      "release_event_date": "2026-08-20",
-      "release_event_age_days": 6,
-      "release_event_window_days": 14,
-      "release_event_multiplier": 0.7,
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-25",
+      "release_event_age_days": 1,
+      "release_event_window_days": 30,
+      "release_event_multiplier": 1.0,
       "release_event_evidence": {
-        "title": "S.T.A.L.K.E.R. 2: Cost of Hope is out now with a big free upgrade",
-        "url": "https://steamstore-a.akamaihd.net/news/externalpost/GamingOnLinux/1841579228665774",
-        "date": 1787235196,
-        "contents": "S.T.A.L.K.E.R. 2: Cost of Hope is the first major expansion for the open-world shooter, bringing with it a huge free upgrade for all owners. Read the full article here: https://www.gamingonlinux.com/2026/08/s-t-a-l-k-e-r-2-cost-of-hope-is-out-now-with-a-big-free-upgrade/ "
+        "source": "initial_review_observation",
+        "initial_review_total": 2241,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
       },
-      "release_event_date_basis": "official_major_update",
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 3,
       "trend": [
         {
-          "date": "2026-08-21",
-          "peak": 30710
-        },
-        {
-          "date": "2026-08-22",
-          "peak": 26474
-        },
-        {
-          "date": "2026-08-23",
-          "peak": 40976
-        },
-        {
-          "date": "2026-08-24",
-          "peak": 38432
-        },
-        {
-          "date": "2026-08-25",
-          "peak": 15135
-        },
-        {
           "date": "2026-08-26",
-          "peak": 35496
+          "peak": 7131
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
       "count": 1,
@@ -338,83 +295,72 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1643320"
+        "url": "https://store.steampowered.com/app/3448650/"
       }
     ],
     "game": {
-      "slug": "s-t-a-l-k-e-r-2-heart-of-chornobyl",
-      "appid": "1643320",
-      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "slug": "aliens-fireteam-elite-2",
+      "appid": "3448650",
+      "name": "Aliens: Fireteam Elite 2",
       "name_cn": null,
-      "description": "前往广阔无垠的切尔诺贝利封锁区，与大量危险的敌人正面交锋，探寻众多致命的异常现象和强力的神器。揭开属于你的史诗篇章，闯入切尔诺贝利的核心地带。明智地选择你的发展轨迹，你的每次选择都将决定自身命运，并最终定格人类的未来。",
-      "release_date": "2024-11-20",
+      "description": "《Aliens: Fireteam Elite 2》将最多四名玩家投入殖民陆战队的角色之中，奉命奔赴《Aliens》宇宙中最险恶的角落。这不是救援任务，而是一场生死之战。异形蜂拥而至。每一个房间都可能是最后的葬身之地。",
+      "release_date": "2026-08-25",
       "genres": [
-        "动作",
-        "冒险",
-        "角色扮演"
+        "动作"
       ],
       "tags": [
         "单人",
+        "多人",
+        "合作",
+        "在线合作",
         "Steam 成就",
-        "Steam 集换式卡牌",
-        "Steam 创意工坊",
+        "可调整文字大小",
+        "视角舒适度",
+        "可选颜色",
+        "自定义音量控制",
+        "可调整难度",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
         "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "字幕选项",
+        "环绕声",
         "部分支持控制器",
         "Steam 云",
-        "可用 HDR",
         "家庭共享"
       ],
-      "review_score": "Mostly Positive",
-      "review_ratio": 80.0,
-      "review_total": 138185,
-      "developer": "GSC Game World",
-      "publisher": "GSC Game World (worldwide), SEGA (Japan), 4Divinity (China and South East Asia)",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1643320/d0061f5e4af61d46de2d2e0d672c4e3a2fe80423/header_alt_assets_7_schinese.jpg?t=1787898745",
-      "steam_url": "https://store.steampowered.com/app/1643320",
-      "product_family_identity": "appid:1643320",
-      "product_family_appid": "1643320",
+      "review_score": "Mixed",
+      "review_ratio": 63.0,
+      "review_total": 3272,
+      "developer": "Cold Iron Studios",
+      "publisher": "Daybreak Game Company",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3448650/9b3d808b5a39c572dc13ced8024e8085bd306805/header.jpg?t=1787772466",
+      "steam_url": "https://store.steampowered.com/app/3448650",
+      "product_family_identity": "appid:3448650",
+      "product_family_appid": "3448650",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-08-21",
-          "peak": 30710
-        },
-        {
-          "date": "2026-08-22",
-          "peak": 26474
-        },
-        {
-          "date": "2026-08-23",
-          "peak": 40976
-        },
-        {
-          "date": "2026-08-24",
-          "peak": 38432
-        },
-        {
-          "date": "2026-08-25",
-          "peak": 15135
-        },
-        {
           "date": "2026-08-26",
-          "peak": 35496
+          "peak": 7131
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《S.T.A.L.K.E.R. 2: Heart of Chornobyl》是开放世界生存射击游戏：玩家进入切尔诺贝利封锁区，在派系冲突、异常现象与资源压力之间探索，并用自己的选择推动故事。8 月 20 日上线的“Back to the Zone”2.0 更新与首个大型扩展，让这次回流有了明确内容节点。",
-      "reference_frame": "它不是一路清图的爽快射击，更接近“危险远征”：地图信息、弹药、负重、神器收益和撤离路线共同决定一次探索是否值得继续。2.0 更新强调环境、A-Life 与大量修复。",
-      "for_players": "适合喜欢高压探索、资源取舍、沉浸式世界和非线性任务的单人玩家，也适合曾因早期技术问题离开、想借 2.0 更新重新确认完成度的人。",
-      "not_for_players": "如果你要求稳定连续的强反馈、不想承受长距离移动与突发损失，或只期待线性关卡式枪战，这套强调不确定性和准备成本的节奏仍可能显得拖沓。",
-      "star_reason": "8 月 26 日，本作的 Steam 观测峰值为 35,496，模型以 15.97 分列第 2，并识别为“重大更新回流”。第 1 名《How to Fish》仍在编辑冷却，本作因此成为当天排名最高的可公开候选；这是它在 30 日窗口内首次摘星，按规则自动通过，无需借助不可用的 SteamDB 月线作二次筛选。",
+      "positioning": "《异形：火力精英 2》是一款合作第三人称射击游戏。最多四名殖民地陆战队员一起面对异形群，队伍需要在同一个交战空间里保持火力，避免敌人贴近后让阵线失去秩序。",
+      "reference_frame": "可以从合作战役的分工理解它：你既要瞄准眼前目标，也要留意队友正在应付哪一侧。异形成群逼近，让持续射击、移动与互相照应成为同一件事，电影里的压迫感因此落到玩家操作上。",
+      "for_players": "适合喜欢异形题材、愿意和朋友反复打合作任务的人。能接受边射击边交流、为团队留意危险，比只追求自己的击杀数更容易享受这种战斗。",
+      "not_for_players": "如果你想要缓慢独行的恐怖探索，或完全不依赖队友的单人闯关，应先确认这种高强度合作射击是否合口味。",
+      "star_reason": "8 月 26 日保存的观测峰值为 7,131 人。按新规则复算，本期得分 8.02；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "从据点整理武器、补给和任务，选择下一片准备进入的区域。",
-        "在开放区域搜索线索与资源，辨认异常、敌对单位和可利用的安全路线。",
-        "交战或绕行后带着战利品返回，把资源换成装备成长，再推进新的任务与选择。"
+        "与队友进入任务区域，观察敌人来向并展开交战。",
+        "在推进中保持距离与互相支援，处理接连出现的威胁，一起完成任务。"
       ],
-      "content_length": 580
-    }
+      "content_length": 380
+    },
+    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },
   "secondary_signals": [],
   "candidate_signals": []

@@ -2,349 +2,479 @@
   "schema_version": "1.0.0",
   "date": "2026-08-31",
   "title": "08.31 今日之星",
-  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "summary": "按新版评分与入选规则重排。",
   "status": "published",
   "hero_image": null,
   "hero_state": "data-cover",
   "star_signal": {
     "rank": 1,
-    "type": "release_event_rise",
-    "label": "发行节点起量",
-    "score": 17.34,
-    "fact_summary": "Big Ambitions 今日观测峰值 12,196，较过往最高峰值提升 +39%，被识别为「发行节点起量」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 7.06,
+    "fact_summary": "Big Walk 今日观测峰值 7,604，未超过过往最高峰值 46,409，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 12196,
-      "previous_peak": 8752,
-      "previous_record_peak": 8752,
-      "growth_rate": 0.3935,
-      "record_growth_rate": 0.3935,
-      "scoring_peak": 12196,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-08-04",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-08-31 20:15:01",
+      "current_peak": 7604,
+      "previous_peak": 46409,
+      "previous_record_peak": 46409,
+      "growth_rate": -0.8362,
+      "record_growth_rate": -0.8362,
+      "scoring_peak": 7604,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 18.41,
-      "raw_record_growth_score": 13.77,
-      "growth_score_multiplier": 0.1445,
+      "peak_score": 6.84,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.1226,
-      "growth_scale_crossing_component": 0.022,
-      "record_growth_score": 1.99,
+      "growth_scale_base_component": 3.4461,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 20.41,
-      "event_adjusted_score": 17.34,
-      "event_multiplier": 0.85,
-      "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 17.34,
+      "score_before_multiplier": 6.84,
+      "event_adjusted_score": 6.84,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 9.41,
       "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-08-31",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.85,
-      "base_score": 17.34,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 1.0312,
+      "base_score": 7.06,
+      "score_multiplier": 0.75,
+      "score_multiplier_reasons": [
+        "repeat_window_star_2x"
+      ],
+      "repeat_window_star_count": 2,
+      "app_repeat_window_star_count": 2,
+      "app_prior_total_star_count": 2,
+      "family_repeat_window_star_count": 2,
+      "family_prior_total_star_count": 2,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
+      "prior_total_star_count": 2,
+      "total_star_count": 3,
+      "star_appearance_count": 3,
+      "cumulative_star_count": 2,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 92.0,
-      "review_total": 13768,
-      "days_seen": 3,
-      "comeback_gap_days": 1,
-      "is_new_release": false,
-      "release_age_days": 3,
-      "steam_release_age_days": 3,
-      "release_age_basis": "actual_open_date",
-      "release_verification_required": true,
+      "review_ratio": 95.0,
+      "review_total": 29685,
+      "days_seen": 8,
+      "comeback_gap_days": 20,
+      "is_new_release": true,
+      "release_age_days": 27,
+      "steam_release_age_days": 27,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 13583,
+        "initial_review_total": 2035,
         "verification_threshold": 5000,
-        "verification_status": "pending"
+        "verification_status": "confirmed_true_new"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "独立",
-        "模拟"
+        "冒险"
       ],
-      "scoring_version": "release_event_v2",
-      "release_event_type": "pending",
-      "release_event_date": "2026-08-28",
-      "release_event_age_days": 3,
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-04",
+      "release_event_age_days": 27,
       "release_event_window_days": 30,
-      "release_event_multiplier": 0.85,
+      "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 13583,
+        "initial_review_total": 2035,
         "verification_threshold": 5000,
-        "verification_status": "pending"
+        "verification_status": "confirmed_true_new"
       },
-      "release_event_date_basis": "actual_open_date",
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 5,
       "trend": [
         {
-          "date": "2026-08-29",
-          "peak": 8622
+          "date": "2026-08-05",
+          "peak": 46409
         },
         {
-          "date": "2026-08-30",
-          "peak": 8752
+          "date": "2026-08-06",
+          "peak": 37149
+        },
+        {
+          "date": "2026-08-07",
+          "peak": 34389
+        },
+        {
+          "date": "2026-08-08",
+          "peak": 34389
+        },
+        {
+          "date": "2026-08-09",
+          "peak": 46345
+        },
+        {
+          "date": "2026-08-10",
+          "peak": 43711
+        },
+        {
+          "date": "2026-08-11",
+          "peak": 36325
         },
         {
           "date": "2026-08-31",
-          "peak": 12196
+          "peak": 7604
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 3,
+      "prior_count": 2,
+      "repeat_window_prior_count": 2
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1331550"
+        "url": "https://store.steampowered.com/app/1478500/"
       }
     ],
     "game": {
-      "slug": "big-ambitions",
-      "appid": "1331550",
-      "name": "Big Ambitions",
+      "slug": "big-walk",
+      "appid": "1478500",
+      "name": "Big Walk",
       "name_cn": null,
-      "description": "Big Ambitions 是一款革命性的角色扮演模拟经营游戏。 你从一无所有起步，开办小企业，创建大公司，最终成为全纽约最大的企业家。",
-      "release_date": "2026-08-28",
+      "description": "与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。",
+      "release_date": "2026-08-04",
       "genres": [
-        "独立",
-        "模拟"
+        "冒险"
       ],
       "tags": [
-        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "跨平台多人",
         "Steam 成就",
-        "Steam 创意工坊",
+        "完全支持控制器",
+        "视角舒适度",
+        "可选颜色",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 92.0,
-      "review_total": 13768,
-      "developer": "Hovgaard Games",
-      "publisher": "Hovgaard Games",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1787936588",
-      "steam_url": "https://store.steampowered.com/app/1331550",
-      "product_family_identity": "appid:1331550",
-      "product_family_appid": "1331550",
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 96.0,
+      "review_total": 32559,
+      "developer": "House House",
+      "publisher": "Panic",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
+      "steam_url": "https://store.steampowered.com/app/1478500",
+      "product_family_identity": "appid:1478500",
+      "product_family_appid": "1478500",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-08-29",
-          "peak": 8622
+          "date": "2026-08-05",
+          "peak": 46409
         },
         {
-          "date": "2026-08-30",
-          "peak": 8752
+          "date": "2026-08-06",
+          "peak": 37149
+        },
+        {
+          "date": "2026-08-07",
+          "peak": 34389
+        },
+        {
+          "date": "2026-08-08",
+          "peak": 34389
+        },
+        {
+          "date": "2026-08-09",
+          "peak": 46345
+        },
+        {
+          "date": "2026-08-10",
+          "peak": 43711
+        },
+        {
+          "date": "2026-08-11",
+          "peak": 36325
         },
         {
           "date": "2026-08-31",
-          "peak": 12196
+          "peak": 7604
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Big Ambitions》是一款把商业经营和生活模拟放进纽约开放世界的单人游戏。你从小公寓和第一份工作起步，租店、进货、招人，再把一家小店扩成连锁企业。",
-      "reference_frame": "它不只让你在报表里调数字，还要求角色亲自跑店面、买设备和处理生活需求。企业做大后，仓库、物流、采购与管理层逐步接手重复劳动，经营尺度也随之扩大。",
-      "for_players": "适合喜欢经营模拟、资源调度和从一间小店慢慢搭出商业版图的人；愿意同时照顾角色睡眠、健康与生活目标，也会更容易接受它的节奏。",
-      "not_for_players": "如果你只想看数字自动增长，不喜欢亲自跑地图、布置店面或处理库存与员工，前期会显得琐碎；偏好短局、高压决策的人也可能觉得扩张太慢。",
-      "star_reason": "8 月 31 日，它的 24 小时峰值从 8,752 升至 12,196，单日增长约 39%；Steam 当日记录 13,768 条评价、92% 好评。按新采集口径剔除《星球大战》后，它计入前一日摘星债务约为 13.87 分，仍略高于下一名的 13.45 分，连续第二天当选。",
+      "positioning": "Big Walk 是把和朋友走散、找路、再会合做成主玩法的在线合作冒险。你们在开阔世界闲逛和解谜，沟通会受距离、地形和声音影响；它是一场共同赴约的远足，不是随时凑人的合作闯关。",
+      "reference_frame": "可以把它理解为“受限沟通下的合作探索”：难点不在连招或刷装备，而在把每个人看见的地标、听见的提示和手上的工具拼成同一张路线图。",
+      "for_players": "它适合已有固定伙伴、喜欢边聊天边探索的人：愿意认地标、容忍绕路，也享受把误会讲明白的时刻。操作压力不高，重点是观察、交流和一起组织路线。",
+      "not_for_players": "如果你更想单人推进、随机匹配随时开局，或希望语音清晰、目标明确，这套设计会显得拖沓。宿主存档、固定同伴和受限交流都要求一群人反复回到同一段旅程。",
+      "star_reason": "8 月 31 日保存的观测峰值为 7,604 人。按新规则复算，本期得分 7.06；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "选择店铺类型并租下场地，装修空间、准备设备与第一批库存。",
-        "根据客流和收支调整商品、价格与排班，让店面稳定赚钱。",
-        "雇用员工和经理，建设仓储与配送网络，再把利润投向新店、房产或更大的公司。"
+        "看见地标或挡路装置后，分头观察、试用物品，并交换线索。",
+        "失去联系时，用靠近、手势、指向和工具重新确认方向。",
+        "解开谜题、打开新路径后，带着共同发现继续前进。"
       ],
-      "content_length": 485
-    }
+      "content_length": 423
+    },
+    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },
   "main_signal": {
     "rank": 1,
-    "type": "release_event_rise",
-    "label": "发行节点起量",
-    "score": 17.34,
-    "fact_summary": "Big Ambitions 今日观测峰值 12,196，较过往最高峰值提升 +39%，被识别为「发行节点起量」。",
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 7.06,
+    "fact_summary": "Big Walk 今日观测峰值 7,604，未超过过往最高峰值 46,409，被识别为「新作起量」。",
     "metrics": {
-      "current_peak": 12196,
-      "previous_peak": 8752,
-      "previous_record_peak": 8752,
-      "growth_rate": 0.3935,
-      "record_growth_rate": 0.3935,
-      "scoring_peak": 12196,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-08-04",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-08-31 20:15:01",
+      "current_peak": 7604,
+      "previous_peak": 46409,
+      "previous_record_peak": 46409,
+      "growth_rate": -0.8362,
+      "record_growth_rate": -0.8362,
+      "scoring_peak": 7604,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 18.41,
-      "raw_record_growth_score": 13.77,
-      "growth_score_multiplier": 0.1445,
+      "peak_score": 6.84,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 0.1226,
-      "growth_scale_crossing_component": 0.022,
-      "record_growth_score": 1.99,
+      "growth_scale_base_component": 3.4461,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 20.41,
-      "event_adjusted_score": 17.34,
-      "event_multiplier": 0.85,
-      "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 17.34,
+      "score_before_multiplier": 6.84,
+      "event_adjusted_score": 6.84,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 9.41,
       "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-08-31",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.85,
-      "base_score": 17.34,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 1.0312,
+      "base_score": 7.06,
+      "score_multiplier": 0.75,
+      "score_multiplier_reasons": [
+        "repeat_window_star_2x"
+      ],
+      "repeat_window_star_count": 2,
+      "app_repeat_window_star_count": 2,
+      "app_prior_total_star_count": 2,
+      "family_repeat_window_star_count": 2,
+      "family_prior_total_star_count": 2,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
+      "prior_total_star_count": 2,
+      "total_star_count": 3,
+      "star_appearance_count": 3,
+      "cumulative_star_count": 2,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 92.0,
-      "review_total": 13768,
-      "days_seen": 3,
-      "comeback_gap_days": 1,
-      "is_new_release": false,
-      "release_age_days": 3,
-      "steam_release_age_days": 3,
-      "release_age_basis": "actual_open_date",
-      "release_verification_required": true,
+      "review_ratio": 95.0,
+      "review_total": 29685,
+      "days_seen": 8,
+      "comeback_gap_days": 20,
+      "is_new_release": true,
+      "release_age_days": 27,
+      "steam_release_age_days": 27,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 13583,
+        "initial_review_total": 2035,
         "verification_threshold": 5000,
-        "verification_status": "pending"
+        "verification_status": "confirmed_true_new"
       },
       "all_platform_release_date": null,
       "is_comeback_age": false,
       "comeback_reason": "not_comeback_age",
       "comeback_evidence": null,
       "genres": [
-        "独立",
-        "模拟"
+        "冒险"
       ],
-      "scoring_version": "release_event_v2",
-      "release_event_type": "pending",
-      "release_event_date": "2026-08-28",
-      "release_event_age_days": 3,
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-04",
+      "release_event_age_days": 27,
       "release_event_window_days": 30,
-      "release_event_multiplier": 0.85,
+      "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 13583,
+        "initial_review_total": 2035,
         "verification_threshold": 5000,
-        "verification_status": "pending"
+        "verification_status": "confirmed_true_new"
       },
-      "release_event_date_basis": "actual_open_date",
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 5,
       "trend": [
         {
-          "date": "2026-08-29",
-          "peak": 8622
+          "date": "2026-08-05",
+          "peak": 46409
         },
         {
-          "date": "2026-08-30",
-          "peak": 8752
+          "date": "2026-08-06",
+          "peak": 37149
+        },
+        {
+          "date": "2026-08-07",
+          "peak": 34389
+        },
+        {
+          "date": "2026-08-08",
+          "peak": 34389
+        },
+        {
+          "date": "2026-08-09",
+          "peak": 46345
+        },
+        {
+          "date": "2026-08-10",
+          "peak": 43711
+        },
+        {
+          "date": "2026-08-11",
+          "peak": 36325
         },
         {
           "date": "2026-08-31",
-          "peak": 12196
+          "peak": 7604
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 3,
+      "prior_count": 2,
+      "repeat_window_prior_count": 2
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1331550"
+        "url": "https://store.steampowered.com/app/1478500/"
       }
     ],
     "game": {
-      "slug": "big-ambitions",
-      "appid": "1331550",
-      "name": "Big Ambitions",
+      "slug": "big-walk",
+      "appid": "1478500",
+      "name": "Big Walk",
       "name_cn": null,
-      "description": "Big Ambitions 是一款革命性的角色扮演模拟经营游戏。 你从一无所有起步，开办小企业，创建大公司，最终成为全纽约最大的企业家。",
-      "release_date": "2026-08-28",
+      "description": "与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。",
+      "release_date": "2026-08-04",
       "genres": [
-        "独立",
-        "模拟"
+        "冒险"
       ],
       "tags": [
-        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "跨平台多人",
         "Steam 成就",
-        "Steam 创意工坊",
+        "完全支持控制器",
+        "视角舒适度",
+        "可选颜色",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
         "Steam 云",
         "家庭共享"
       ],
-      "review_score": "Very Positive",
-      "review_ratio": 92.0,
-      "review_total": 13768,
-      "developer": "Hovgaard Games",
-      "publisher": "Hovgaard Games",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1331550/6ef350077eee961864c78ac396a16195ef385fae/header.jpg?t=1787936588",
-      "steam_url": "https://store.steampowered.com/app/1331550",
-      "product_family_identity": "appid:1331550",
-      "product_family_appid": "1331550",
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 96.0,
+      "review_total": 32559,
+      "developer": "House House",
+      "publisher": "Panic",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
+      "steam_url": "https://store.steampowered.com/app/1478500",
+      "product_family_identity": "appid:1478500",
+      "product_family_appid": "1478500",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-08-29",
-          "peak": 8622
+          "date": "2026-08-05",
+          "peak": 46409
         },
         {
-          "date": "2026-08-30",
-          "peak": 8752
+          "date": "2026-08-06",
+          "peak": 37149
+        },
+        {
+          "date": "2026-08-07",
+          "peak": 34389
+        },
+        {
+          "date": "2026-08-08",
+          "peak": 34389
+        },
+        {
+          "date": "2026-08-09",
+          "peak": 46345
+        },
+        {
+          "date": "2026-08-10",
+          "peak": 43711
+        },
+        {
+          "date": "2026-08-11",
+          "peak": 36325
         },
         {
           "date": "2026-08-31",
-          "peak": 12196
+          "peak": 7604
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Big Ambitions》是一款把商业经营和生活模拟放进纽约开放世界的单人游戏。你从小公寓和第一份工作起步，租店、进货、招人，再把一家小店扩成连锁企业。",
-      "reference_frame": "它不只让你在报表里调数字，还要求角色亲自跑店面、买设备和处理生活需求。企业做大后，仓库、物流、采购与管理层逐步接手重复劳动，经营尺度也随之扩大。",
-      "for_players": "适合喜欢经营模拟、资源调度和从一间小店慢慢搭出商业版图的人；愿意同时照顾角色睡眠、健康与生活目标，也会更容易接受它的节奏。",
-      "not_for_players": "如果你只想看数字自动增长，不喜欢亲自跑地图、布置店面或处理库存与员工，前期会显得琐碎；偏好短局、高压决策的人也可能觉得扩张太慢。",
-      "star_reason": "8 月 31 日，它的 24 小时峰值从 8,752 升至 12,196，单日增长约 39%；Steam 当日记录 13,768 条评价、92% 好评。按新采集口径剔除《星球大战》后，它计入前一日摘星债务约为 13.87 分，仍略高于下一名的 13.45 分，连续第二天当选。",
+      "positioning": "Big Walk 是把和朋友走散、找路、再会合做成主玩法的在线合作冒险。你们在开阔世界闲逛和解谜，沟通会受距离、地形和声音影响；它是一场共同赴约的远足，不是随时凑人的合作闯关。",
+      "reference_frame": "可以把它理解为“受限沟通下的合作探索”：难点不在连招或刷装备，而在把每个人看见的地标、听见的提示和手上的工具拼成同一张路线图。",
+      "for_players": "它适合已有固定伙伴、喜欢边聊天边探索的人：愿意认地标、容忍绕路，也享受把误会讲明白的时刻。操作压力不高，重点是观察、交流和一起组织路线。",
+      "not_for_players": "如果你更想单人推进、随机匹配随时开局，或希望语音清晰、目标明确，这套设计会显得拖沓。宿主存档、固定同伴和受限交流都要求一群人反复回到同一段旅程。",
+      "star_reason": "8 月 31 日保存的观测峰值为 7,604 人。按新规则复算，本期得分 7.06；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "选择店铺类型并租下场地，装修空间、准备设备与第一批库存。",
-        "根据客流和收支调整商品、价格与排班，让店面稳定赚钱。",
-        "雇用员工和经理，建设仓储与配送网络，再把利润投向新店、房产或更大的公司。"
+        "看见地标或挡路装置后，分头观察、试用物品，并交换线索。",
+        "失去联系时，用靠近、手势、指向和工具重新确认方向。",
+        "解开谜题、打开新路径后，带着共同发现继续前进。"
       ],
-      "content_length": 485
-    }
+      "content_length": 423
+    },
+    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },
   "secondary_signals": [],
   "candidate_signals": []

@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "date": "2026-08-28",
   "title": "08.28 今日之星",
-  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "summary": "按新版评分与入选规则重排。",
   "status": "published",
   "hero_image": null,
   "hero_state": "data-cover",
@@ -10,9 +10,14 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 29.15,
+    "score": 44.98,
     "fact_summary": "STAR WARS Zero Company™ 今日观测峰值 69,046，首次进入当前观察窗口，被识别为「新作起量」。",
     "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-08-27",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-08-28 23:39:01",
       "current_peak": 69046,
       "previous_peak": 0,
       "previous_record_peak": 0,
@@ -21,7 +26,7 @@
       "scoring_peak": 69046,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 29.15,
+      "peak_score": 35.98,
       "raw_record_growth_score": 0.0,
       "growth_score_multiplier": 0.5905,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
@@ -30,15 +35,19 @@
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 29.15,
-      "event_adjusted_score": 29.15,
+      "score_before_multiplier": 35.98,
+      "event_adjusted_score": 35.98,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 29.15,
+      "review_adjusted_score": 44.98,
       "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-08-28",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.0,
-      "base_score": 29.15,
+      "combined_score_multiplier": 1.25,
+      "base_score": 44.98,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -82,7 +91,7 @@
         "体育",
         "策略"
       ],
-      "scoring_version": "release_event_v2",
+      "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
       "release_event_date": "2026-08-27",
       "release_event_age_days": 1,
@@ -95,12 +104,14 @@
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 1,
       "trend": [
         {
           "date": "2026-08-28",
           "peak": 69046
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
       "count": 1,
@@ -110,7 +121,7 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/2075800"
+        "url": "https://store.steampowered.com/app/2075800/"
       }
     ],
     "game": {
@@ -148,12 +159,12 @@
         "可用 HDR",
         "家庭共享"
       ],
-      "review_score": "Mostly Positive",
-      "review_ratio": 78.0,
-      "review_total": 4236,
+      "review_score": "Very Positive",
+      "review_ratio": 82.0,
+      "review_total": 19795,
       "developer": "Bit Reactor",
       "publisher": "Electronic Arts",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1787848803",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1788256323",
       "steam_url": "https://store.steampowered.com/app/2075800",
       "product_family_identity": "appid:2075800",
       "product_family_appid": "2075800",
@@ -171,22 +182,27 @@
       "reference_frame": "它采用玩家熟悉的小队回合制战术框架：先读战场，再安排移动与攻击顺序，让不同队员的武器和能力互相接上。星战题材负责提供角色与战场语境，胜负仍要靠每个回合的取舍。",
       "for_players": "适合喜欢回合制小队战术、愿意花时间读技能与站位，同时想在克隆人战争语境里带一支自定义队伍行动的人。可调整难度和随时保存也给反复试验留出了空间。",
       "not_for_players": "如果你期待的是即时光剑战斗、多人合作，或不喜欢停下来计算行动顺序、接受失误后重新部署，这种以回合决策为主的节奏可能会显得慢。",
-      "star_reason": "8 月 28 日，《STAR WARS Zero Company™》24 小时峰值达到 69,046，采集时仍有 53,284 人在线，模型以 29.15 分列第 1。这是它进入当前观察窗口的首个完整信号；Steam 已累计 4,236 条评价、78% 好评，首发规模和玩家反馈都已经形成可继续观察的样本。",
+      "star_reason": "8 月 28 日保存的观测峰值为 69,046 人。按新规则复算，本期得分 44.98；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
         "进入任务后观察敌人、目标和地形，决定小队的推进方向与优先威胁。",
         "轮流移动、寻找掩体并使用攻击或能力，把有限行动投入最需要解决的位置。",
         "根据上一场任务暴露的问题调整队员搭配和战术，再进入下一次部署。"
       ],
-      "content_length": 525
+      "content_length": 450
     }
   },
   "main_signal": {
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 29.15,
+    "score": 44.98,
     "fact_summary": "STAR WARS Zero Company™ 今日观测峰值 69,046，首次进入当前观察窗口，被识别为「新作起量」。",
     "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-08-27",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-08-28 23:39:01",
       "current_peak": 69046,
       "previous_peak": 0,
       "previous_record_peak": 0,
@@ -195,7 +211,7 @@
       "scoring_peak": 69046,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 29.15,
+      "peak_score": 35.98,
       "raw_record_growth_score": 0.0,
       "growth_score_multiplier": 0.5905,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
@@ -204,15 +220,19 @@
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 29.15,
-      "event_adjusted_score": 29.15,
+      "score_before_multiplier": 35.98,
+      "event_adjusted_score": 35.98,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 29.15,
+      "review_adjusted_score": 44.98,
       "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-08-28",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.0,
-      "base_score": 29.15,
+      "combined_score_multiplier": 1.25,
+      "base_score": 44.98,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -256,7 +276,7 @@
         "体育",
         "策略"
       ],
-      "scoring_version": "release_event_v2",
+      "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
       "release_event_date": "2026-08-27",
       "release_event_age_days": 1,
@@ -269,12 +289,14 @@
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 1,
       "trend": [
         {
           "date": "2026-08-28",
           "peak": 69046
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
       "count": 1,
@@ -284,7 +306,7 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/2075800"
+        "url": "https://store.steampowered.com/app/2075800/"
       }
     ],
     "game": {
@@ -322,12 +344,12 @@
         "可用 HDR",
         "家庭共享"
       ],
-      "review_score": "Mostly Positive",
-      "review_ratio": 78.0,
-      "review_total": 4236,
+      "review_score": "Very Positive",
+      "review_ratio": 82.0,
+      "review_total": 19795,
       "developer": "Bit Reactor",
       "publisher": "Electronic Arts",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1787848803",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2075800/2c7d5dad080c4888faaa03c4a955136c50f5bfae/header.jpg?t=1788256323",
       "steam_url": "https://store.steampowered.com/app/2075800",
       "product_family_identity": "appid:2075800",
       "product_family_appid": "2075800",
@@ -345,13 +367,13 @@
       "reference_frame": "它采用玩家熟悉的小队回合制战术框架：先读战场，再安排移动与攻击顺序，让不同队员的武器和能力互相接上。星战题材负责提供角色与战场语境，胜负仍要靠每个回合的取舍。",
       "for_players": "适合喜欢回合制小队战术、愿意花时间读技能与站位，同时想在克隆人战争语境里带一支自定义队伍行动的人。可调整难度和随时保存也给反复试验留出了空间。",
       "not_for_players": "如果你期待的是即时光剑战斗、多人合作，或不喜欢停下来计算行动顺序、接受失误后重新部署，这种以回合决策为主的节奏可能会显得慢。",
-      "star_reason": "8 月 28 日，《STAR WARS Zero Company™》24 小时峰值达到 69,046，采集时仍有 53,284 人在线，模型以 29.15 分列第 1。这是它进入当前观察窗口的首个完整信号；Steam 已累计 4,236 条评价、78% 好评，首发规模和玩家反馈都已经形成可继续观察的样本。",
+      "star_reason": "8 月 28 日保存的观测峰值为 69,046 人。按新规则复算，本期得分 44.98；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
         "进入任务后观察敌人、目标和地形，决定小队的推进方向与优先威胁。",
         "轮流移动、寻找掩体并使用攻击或能力，把有限行动投入最需要解决的位置。",
         "根据上一场任务暴露的问题调整队员搭配和战术，再进入下一次部署。"
       ],
-      "content_length": 525
+      "content_length": 450
     }
   },
   "secondary_signals": [],

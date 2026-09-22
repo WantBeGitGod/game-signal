@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "date": "2026-09-12",
   "title": "09.12 今日之星",
-  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "summary": "按新版评分与入选规则重排。",
   "status": "published",
   "hero_image": null,
   "hero_state": "data-cover",
@@ -10,9 +10,14 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 74.64,
+    "score": 79.31,
     "fact_summary": "WARDOGS 今日观测峰值 363,228，较过往最高峰值提升 +99%，被识别为「新作起量」。",
     "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-10",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-12 17:51:35",
       "current_peak": 363228,
       "previous_peak": 182544,
       "previous_record_peak": 182544,
@@ -34,30 +39,32 @@
       "event_adjusted_score": 74.64,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 74.64,
+      "review_adjusted_score": 93.3,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-12",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.0,
-      "base_score": 74.64,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 1.0625,
+      "base_score": 79.31,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": 77.0,
@@ -86,7 +93,7 @@
         "模拟",
         "抢先体验"
       ],
-      "scoring_version": "release_event_v2",
+      "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
       "release_event_date": "2026-09-10",
       "release_event_age_days": 2,
@@ -113,17 +120,18 @@
           "date": "2026-09-12",
           "peak": 363228
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1867240"
+        "url": "https://store.steampowered.com/app/1867240/"
       }
     ],
     "game": {
@@ -148,15 +156,14 @@
         "视角舒适度",
         "自定义音量控制",
         "立体声",
-        "环绕声",
-        "家庭共享"
+        "环绕声"
       ],
       "review_score": "Mostly Positive",
-      "review_ratio": 77.0,
-      "review_total": 37110,
+      "review_ratio": 79.0,
+      "review_total": 77332,
       "developer": "BULKHEAD",
       "publisher": "Team17",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789059636",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789503126",
       "steam_url": "https://store.steampowered.com/app/1867240",
       "product_family_identity": "appid:1867240",
       "product_family_appid": "1867240",
@@ -178,25 +185,31 @@
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《WARDOGS》把百人陆海空混战、载具推进与场景破坏塞进同一张战场；一场局更像不断移动的前线。",
-      "reference_frame": "它把目标模式扩展成会变形的战线：掩体和通路被打穿后，安全路线很快失效，步兵、车辆和空中火力得重新判断怎样抵达目标区。一次局部突破，常常会让整片战场换一条走法。",
-      "for_players": "适合喜欢大规模多人混战、愿意在混乱里读战线，也享受步兵与载具轮换、跟着队友打出局部突破的人。喜欢每次复活都有新路线可试的感觉，会很容易沉进去。",
-      "not_for_players": "如果你更偏好小队规模明确、节奏可控的竞技射击，或只想在固定地图练枪法与点位记忆，百人战场的噪声、频繁阵亡和变化的火力线会让人疲惫；不喜欢载具干扰纯步兵对枪的玩家也未必合适。",
-      "star_reason": "9 月 12 日，WARDOGS 的本地 24 小时观测峰值达到 363,228，较此前记录 182,544 增长约 99%；Steam 好评率为 77%，样本 37,110 篇。首发后的第二天，它以 74.64 分拿下原模型第 1 名：这片战场已被足够多人看见，评价也开始检验它的混战承诺。",
+      "positioning": "《WARDOGS》是一款百人、三方争夺控制区的军事射击游戏：步兵交火、载具协作和可破坏掩体同时改变一条前线，救人、运输和占区都能赚到下一场可用的现金。",
+      "reference_frame": "熟悉《使命召唤：现代战争4》Ground War 的玩家，可以先用载具协同、选择路线推进据点来理解它。WARDOGS 的差别在于三方会持续打断前线，现金又会让每次买枪、装备或载具都影响下一场的投入。",
+      "for_players": "适合喜欢大规模战场、愿意和队友沟通，也乐于处理运输、救援和推进等支援分工的玩家。枪法之外，路线、预算和何时把资源投入战线都能形成判断空间。",
+      "not_for_players": "如果你只想要固定地图、双方对等的小规模对枪，三方干扰、载具火力和场景破坏会增加读图负担；不喜欢频繁阵亡后重新配装的人也可能觉得疲惫。",
+      "star_reason": "9 月 12 日保存的观测峰值为 363,228 人。按新规则复算，本期得分 79.31；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "根据战线、队友与目标状态，选择步兵或载具路线接近交火区。",
-        "用火力和场景破坏打开缺口、夺取区域，再按新的通路转移前线。"
+        "根据钱包和队伍的缺口购买枪械、装备或载具，选择一条进入控制区的路线。",
+        "用交火、救援、运输或修筑工事帮助队伍夺区，战线被载具火力或破坏改写后重新找掩体和进场口。",
+        "把对局收益留作后续预算，决定下一场先用低成本支援，还是投入更贵的装备与载具争取突破。"
       ],
-      "content_length": 469
+      "content_length": 488
     }
   },
   "main_signal": {
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 74.64,
+    "score": 79.31,
     "fact_summary": "WARDOGS 今日观测峰值 363,228，较过往最高峰值提升 +99%，被识别为「新作起量」。",
     "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-10",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-12 17:51:35",
       "current_peak": 363228,
       "previous_peak": 182544,
       "previous_record_peak": 182544,
@@ -218,30 +231,32 @@
       "event_adjusted_score": 74.64,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 74.64,
+      "review_adjusted_score": 93.3,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-12",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.0,
-      "base_score": 74.64,
-      "score_multiplier": 1.0,
-      "score_multiplier_reasons": [],
-      "repeat_window_star_count": 0,
-      "app_repeat_window_star_count": 0,
-      "app_prior_total_star_count": 0,
-      "family_repeat_window_star_count": 0,
-      "family_prior_total_star_count": 0,
+      "combined_score_multiplier": 1.0625,
+      "base_score": 79.31,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 0,
-      "total_star_count": 1,
-      "star_appearance_count": 1,
-      "cumulative_star_count": 0,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": 77.0,
@@ -270,7 +285,7 @@
         "模拟",
         "抢先体验"
       ],
-      "scoring_version": "release_event_v2",
+      "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
       "release_event_date": "2026-09-10",
       "release_event_age_days": 2,
@@ -297,17 +312,18 @@
           "date": "2026-09-12",
           "peak": 363228
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
-      "count": 1,
-      "prior_count": 0,
-      "repeat_window_prior_count": 0
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/1867240"
+        "url": "https://store.steampowered.com/app/1867240/"
       }
     ],
     "game": {
@@ -332,15 +348,14 @@
         "视角舒适度",
         "自定义音量控制",
         "立体声",
-        "环绕声",
-        "家庭共享"
+        "环绕声"
       ],
       "review_score": "Mostly Positive",
-      "review_ratio": 77.0,
-      "review_total": 37110,
+      "review_ratio": 79.0,
+      "review_total": 77332,
       "developer": "BULKHEAD",
       "publisher": "Team17",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789059636",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789503126",
       "steam_url": "https://store.steampowered.com/app/1867240",
       "product_family_identity": "appid:1867240",
       "product_family_appid": "1867240",
@@ -362,16 +377,17 @@
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《WARDOGS》把百人陆海空混战、载具推进与场景破坏塞进同一张战场；一场局更像不断移动的前线。",
-      "reference_frame": "它把目标模式扩展成会变形的战线：掩体和通路被打穿后，安全路线很快失效，步兵、车辆和空中火力得重新判断怎样抵达目标区。一次局部突破，常常会让整片战场换一条走法。",
-      "for_players": "适合喜欢大规模多人混战、愿意在混乱里读战线，也享受步兵与载具轮换、跟着队友打出局部突破的人。喜欢每次复活都有新路线可试的感觉，会很容易沉进去。",
-      "not_for_players": "如果你更偏好小队规模明确、节奏可控的竞技射击，或只想在固定地图练枪法与点位记忆，百人战场的噪声、频繁阵亡和变化的火力线会让人疲惫；不喜欢载具干扰纯步兵对枪的玩家也未必合适。",
-      "star_reason": "9 月 12 日，WARDOGS 的本地 24 小时观测峰值达到 363,228，较此前记录 182,544 增长约 99%；Steam 好评率为 77%，样本 37,110 篇。首发后的第二天，它以 74.64 分拿下原模型第 1 名：这片战场已被足够多人看见，评价也开始检验它的混战承诺。",
+      "positioning": "《WARDOGS》是一款百人、三方争夺控制区的军事射击游戏：步兵交火、载具协作和可破坏掩体同时改变一条前线，救人、运输和占区都能赚到下一场可用的现金。",
+      "reference_frame": "熟悉《使命召唤：现代战争4》Ground War 的玩家，可以先用载具协同、选择路线推进据点来理解它。WARDOGS 的差别在于三方会持续打断前线，现金又会让每次买枪、装备或载具都影响下一场的投入。",
+      "for_players": "适合喜欢大规模战场、愿意和队友沟通，也乐于处理运输、救援和推进等支援分工的玩家。枪法之外，路线、预算和何时把资源投入战线都能形成判断空间。",
+      "not_for_players": "如果你只想要固定地图、双方对等的小规模对枪，三方干扰、载具火力和场景破坏会增加读图负担；不喜欢频繁阵亡后重新配装的人也可能觉得疲惫。",
+      "star_reason": "9 月 12 日保存的观测峰值为 363,228 人。按新规则复算，本期得分 79.31；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "根据战线、队友与目标状态，选择步兵或载具路线接近交火区。",
-        "用火力和场景破坏打开缺口、夺取区域，再按新的通路转移前线。"
+        "根据钱包和队伍的缺口购买枪械、装备或载具，选择一条进入控制区的路线。",
+        "用交火、救援、运输或修筑工事帮助队伍夺区，战线被载具火力或破坏改写后重新找掩体和进场口。",
+        "把对局收益留作后续预算，决定下一场先用低成本支援，还是投入更贵的装备与载具争取突破。"
       ],
-      "content_length": 469
+      "content_length": 488
     }
   },
   "secondary_signals": [],

@@ -28,9 +28,9 @@
     "Steam 云",
     "家庭共享"
   ],
-  "review_score": "Very Positive",
-  "review_ratio": 93.0,
-  "review_total": 11240,
+  "review_score": "Overwhelmingly Positive",
+  "review_ratio": 96.0,
+  "review_total": 32559,
   "developer": "House House",
   "publisher": "Panic",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
@@ -48,6 +48,10 @@
       "peak": 37149
     },
     {
+      "date": "2026-08-07",
+      "peak": 34389
+    },
+    {
       "date": "2026-08-08",
       "peak": 34389
     },
@@ -62,6 +66,10 @@
     {
       "date": "2026-08-11",
       "peak": 36325
+    },
+    {
+      "date": "2026-08-31",
+      "peak": 7604
     }
   ]
 }

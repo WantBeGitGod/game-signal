@@ -1,0 +1,58 @@
+{
+  "slug": "shadow-dungeon",
+  "appid": "4423580",
+  "name": "Shadow Dungeon",
+  "name_cn": null,
+  "description": "梦魇般的怪物自黑暗中爬行而出，魔王潜伏于深渊之下。踏入暗影地牢，杀出一条血路，书写属于你的传奇史诗。",
+  "release_date": "2026-08-26",
+  "genres": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "tags": [
+    "单人",
+    "完全支持控制器",
+    "视角舒适度",
+    "#category_contrast_controls",
+    "自定义音量控制",
+    "#category_playable_at_your_own_pace",
+    "无需应对快速反应事件",
+    "随时保存",
+    "立体声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 80.0,
+  "review_total": 1080,
+  "developer": "OO Cat",
+  "publisher": "OO Cat",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4423580/c7169de56a893cba3b8dba5674f6c4fe34ca96ab/header.jpg?t=1787744876",
+  "steam_url": "https://store.steampowered.com/app/4423580",
+  "product_family_identity": "appid:4423580",
+  "product_family_appid": "4423580",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-08-26",
+      "peak": 5172
+    },
+    {
+      "date": "2026-08-27",
+      "peak": 5172
+    },
+    {
+      "date": "2026-08-28",
+      "peak": 5925
+    },
+    {
+      "date": "2026-08-29",
+      "peak": 5925
+    },
+    {
+      "date": "2026-08-30",
+      "peak": 5588
+    }
+  ]
+}

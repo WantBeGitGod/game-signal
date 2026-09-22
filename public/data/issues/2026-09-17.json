@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "date": "2026-09-17",
   "title": "09.17 今日之星",
-  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "summary": "按新版评分与入选规则重排。",
   "status": "published",
   "hero_image": null,
   "hero_state": "data-cover",
@@ -10,71 +10,73 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 27.89,
-    "fact_summary": "[WoG] War of Genesis: Idle Loot 今日观测峰值 47,449，较过往最高峰值提升 +14%，被识别为「新作起量」。",
+    "score": 9.6,
+    "fact_summary": "Dimraeth 今日观测峰值 8,530，未超过过往最高峰值 11,464，被识别为「新作起量」。",
     "metrics": {
-      "observation_cutoff_at": "2026-09-17 20:40:50",
-      "current_peak": 47449,
-      "previous_peak": 41788,
-      "previous_record_peak": 41788,
-      "growth_rate": 0.1355,
-      "record_growth_rate": 0.1355,
-      "scoring_peak": 47449,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-15",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-17 20:40:33",
+      "current_peak": 8530,
+      "previous_peak": 11464,
+      "previous_record_peak": 11464,
+      "growth_rate": -0.2559,
+      "record_growth_rate": -0.2559,
+      "scoring_peak": 8530,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 28.06,
-      "raw_record_growth_score": 4.74,
-      "growth_score_multiplier": 1.0,
+      "peak_score": 7.68,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.2103,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 2.794,
-      "growth_scale_crossing_component": 0.3745,
-      "record_growth_score": 4.74,
+      "growth_scale_base_component": 0.2103,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 32.81,
-      "event_adjusted_score": 32.81,
+      "score_before_multiplier": 7.68,
+      "event_adjusted_score": 7.68,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 32.81,
+      "review_adjusted_score": 9.6,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-17",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.85,
-      "base_score": 27.89,
-      "score_multiplier": 0.85,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "combined_score_multiplier": 1.25,
+      "base_score": 9.6,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 68.0,
-      "review_total": 911,
-      "days_seen": 7,
+      "review_ratio": 82.0,
+      "review_total": 877,
+      "days_seen": 2,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 7,
-      "steam_release_age_days": 7,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
       "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 177,
+        "initial_review_total": 877,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -84,220 +86,182 @@
       "comeback_evidence": null,
       "genres": [
         "动作",
-        "休闲",
+        "冒险",
         "角色扮演",
-        "免费",
         "抢先体验"
       ],
-      "scoring_version": "release_event_v2",
+      "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
-      "release_event_date": "2026-09-10",
-      "release_event_age_days": 7,
+      "release_event_date": "2026-09-15",
+      "release_event_age_days": 2,
       "release_event_window_days": 30,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 177,
+        "initial_review_total": 877,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 2,
+      "pre_bonus_model_rank": 4,
       "trend": [
         {
-          "date": "2026-09-11",
-          "peak": 9594
-        },
-        {
-          "date": "2026-09-12",
-          "peak": 15836
-        },
-        {
-          "date": "2026-09-13",
-          "peak": 24635
-        },
-        {
-          "date": "2026-09-14",
-          "peak": 28237
-        },
-        {
-          "date": "2026-09-15",
-          "peak": 32410
-        },
-        {
           "date": "2026-09-16",
-          "peak": 41788
+          "peak": 11464
         },
         {
           "date": "2026-09-17",
-          "peak": 47449
+          "peak": 8530
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4891320"
+        "url": "https://store.steampowered.com/app/2402680/"
       }
     ],
     "game": {
-      "slug": "wog-war-of-genesis-idle-loot",
-      "appid": "4891320",
-      "name": "[WoG] War of Genesis: Idle Loot",
+      "slug": "dimraeth",
+      "appid": "2402680",
+      "name": "Dimraeth",
       "name_cn": null,
-      "description": "挂着就好，其余的交给它。在桌面一角的小空间里，3D 角色会自己战斗、自己捡宝。捡到好装备，还能上 Steam 社区市场交易。明明是放置游戏，却让人忍不住一直盯着看，会上瘾的刷宝乐趣。",
-      "release_date": "2026-09-10",
+      "description": "一款支持 1–8 人游玩的奇幻像素RPG。 在八大种族与六种职业中塑造你的角色，自由成长并搭配技能。探索古老大陆、精通元素战斗、与伙伴建立羁绊，打造属于你的家园。在 迪姆雷斯的命运之战中，无论独自踏上征程还是与朋友同行，你都能找到属于自己的乐趣。",
+      "release_date": "2026-09-15",
       "genres": [
         "动作",
-        "休闲",
+        "冒险",
         "角色扮演",
-        "免费",
         "抢先体验"
       ],
       "tags": [
         "单人",
         "多人",
-        "玩家对战",
-        "线上玩家对战",
+        "合作",
+        "在线合作",
         "Steam 成就",
-        "应用内购买",
-        "可调整文字大小",
-        "自定义音量控制",
-        "可调整难度",
-        "#category_playable_at_your_own_pace",
-        "无需应对快速反应事件",
+        "完全支持控制器",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 云",
+        "统计数据",
         "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 68.0,
-      "review_total": 911,
-      "developer": "New Normal Soft Inc.",
-      "publisher": "New Normal Soft Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/80d3cc10f37c03a6b520846baf44883651132896/header.jpg?t=1789051819",
-      "steam_url": "https://store.steampowered.com/app/4891320",
-      "product_family_identity": "appid:4891320",
-      "product_family_appid": "4891320",
+      "review_score": "Very Positive",
+      "review_ratio": 80.0,
+      "review_total": 1812,
+      "developer": "Mudtek",
+      "publisher": "Mudtek",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1789631916",
+      "steam_url": "https://store.steampowered.com/app/2402680",
+      "product_family_identity": "appid:2402680",
+      "product_family_appid": "2402680",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-09-11",
-          "peak": 9594
-        },
-        {
-          "date": "2026-09-12",
-          "peak": 15836
-        },
-        {
-          "date": "2026-09-13",
-          "peak": 24635
-        },
-        {
-          "date": "2026-09-14",
-          "peak": 28237
-        },
-        {
-          "date": "2026-09-15",
-          "peak": 32410
-        },
-        {
           "date": "2026-09-16",
-          "peak": 41788
+          "peak": 11464
         },
         {
           "date": "2026-09-17",
-          "peak": 47449
+          "peak": 8530
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《War of Genesis: Idle Loot》是一款常驻桌面角落的免费 3D 放置刷装 RPG。英雄自己打怪、捡装备，你在空闲时回来整理战利品，决定下一轮该用什么配置。",
-      "reference_frame": "玩过《TBH: Task Bar Hero》，就容易理解这种“平时放着跑，有好掉落再介入”的节奏。WoG 把像素小队换成 3D 英雄，还接入联盟 Raid、世界首领和 PvP，让刷到的装备有更多检验配置的去处。",
-      "for_players": "适合喜欢装备成长、愿意反复微调配置，却没有整段时间刷图的人；桌面常驻能把一次长时间游玩拆成许多短暂回看。",
-      "not_for_players": "如果乐趣主要来自亲手走位、连招和击杀，自动战斗可能很快变得无聊；不喜欢筛选随机掉落或在线交易的人，也容易觉得整理装备麻烦。",
-      "star_reason": "9 月 17 日，本地观测峰值升至 47,449，较此前纪录增长约 14%；当日评价快照为 68% 好评、911 篇。它以 27.89 分排在模型第二，因第一名《伊莫》未通过重复摘星门槛而顺延入选，这是它第二次成为今日之星。",
+      "positioning": "《Dimraeth》是一款像素风开放世界动作 RPG，可单人游玩，也支持最多八人合作。角色探索世界、搜集材料、制作装备并建设落脚点，再去挑战更危险的敌人；当前为抢先体验。",
+      "reference_frame": "《Terraria》玩家熟悉的“带回资源、改善装备、挑战新区域”可以帮助理解成长。但本作的战斗更强调观察招式与管理耐力，攻击、格挡、闪避和招架需要在敌人面前当场作出取舍。",
+      "for_players": "适合既喜欢制作养成，又愿意亲手练习战斗节奏的人。和朋友共同探索、为下一次出发做准备，也能成为游玩的主要乐趣。",
+      "not_for_players": "只想轻松堆高数值、一路站着输出，或要求抢先体验就提供完整内容的人，需要接受战斗失误和版本尚在扩充的现实。",
+      "star_reason": "9 月 17 日保存的观测峰值为 8,530 人。按新规则复算，本期得分 9.60；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "让英雄自动战斗，积累武器、护甲和宝石。",
-        "回看掉落，换上适合当前配置的装备，把可交易的物品放进 Steam 社区市场。",
-        "用调整后的配置挑战首领或竞技场，遇到卡点再回来继续刷装。"
+        "探索区域、收集材料，回到据点制作和调整装备、能力。",
+        "观察敌人动作，分配进攻与防守的时机；获得成长后继续前往危险区域。"
       ],
-      "content_length": 476
-    }
+      "content_length": 391
+    },
+    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },
   "main_signal": {
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 27.89,
-    "fact_summary": "[WoG] War of Genesis: Idle Loot 今日观测峰值 47,449，较过往最高峰值提升 +14%，被识别为「新作起量」。",
+    "score": 9.6,
+    "fact_summary": "Dimraeth 今日观测峰值 8,530，未超过过往最高峰值 11,464，被识别为「新作起量」。",
     "metrics": {
-      "observation_cutoff_at": "2026-09-17 20:40:50",
-      "current_peak": 47449,
-      "previous_peak": 41788,
-      "previous_record_peak": 41788,
-      "growth_rate": 0.1355,
-      "record_growth_rate": 0.1355,
-      "scoring_peak": 47449,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-15",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-17 20:40:33",
+      "current_peak": 8530,
+      "previous_peak": 11464,
+      "previous_record_peak": 11464,
+      "growth_rate": -0.2559,
+      "record_growth_rate": -0.2559,
+      "scoring_peak": 8530,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 28.06,
-      "raw_record_growth_score": 4.74,
-      "growth_score_multiplier": 1.0,
+      "peak_score": 7.68,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.2103,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
-      "growth_scale_base_component": 2.794,
-      "growth_scale_crossing_component": 0.3745,
-      "record_growth_score": 4.74,
+      "growth_scale_base_component": 0.2103,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 32.81,
-      "event_adjusted_score": 32.81,
+      "score_before_multiplier": 7.68,
+      "event_adjusted_score": 7.68,
       "event_multiplier": 1.0,
       "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 32.81,
+      "review_adjusted_score": 9.6,
       "review_penalty_reason": null,
       "review_ratio_scoring_version": "v2",
       "review_observation_date": "2026-09-17",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 0.85,
-      "base_score": 27.89,
-      "score_multiplier": 0.85,
-      "score_multiplier_reasons": [
-        "repeat_window_star_1x"
-      ],
-      "repeat_window_star_count": 1,
-      "app_repeat_window_star_count": 1,
-      "app_prior_total_star_count": 1,
-      "family_repeat_window_star_count": 1,
-      "family_prior_total_star_count": 1,
+      "combined_score_multiplier": 1.25,
+      "base_score": 9.6,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
       "repeat_window_days": 30,
       "repeat_window_max_wins": 3,
       "repeat_window_limit_reached": false,
       "repeat_old_star_blocked": false,
-      "prior_total_star_count": 1,
-      "total_star_count": 2,
-      "star_appearance_count": 2,
-      "cumulative_star_count": 1,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
-      "review_ratio": 68.0,
-      "review_total": 911,
-      "days_seen": 7,
+      "review_ratio": 82.0,
+      "review_total": 877,
+      "days_seen": 2,
       "comeback_gap_days": 1,
       "is_new_release": true,
-      "release_age_days": 7,
-      "steam_release_age_days": 7,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
       "release_age_basis": "confirmed_identity",
       "release_verification_required": false,
       "release_verification": {
         "source": "initial_review_observation",
-        "initial_review_total": 177,
+        "initial_review_total": 877,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
@@ -307,150 +271,110 @@
       "comeback_evidence": null,
       "genres": [
         "动作",
-        "休闲",
+        "冒险",
         "角色扮演",
-        "免费",
         "抢先体验"
       ],
-      "scoring_version": "release_event_v2",
+      "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
-      "release_event_date": "2026-09-10",
-      "release_event_age_days": 7,
+      "release_event_date": "2026-09-15",
+      "release_event_age_days": 2,
       "release_event_window_days": 30,
       "release_event_multiplier": 1.0,
       "release_event_evidence": {
         "source": "initial_review_observation",
-        "initial_review_total": 177,
+        "initial_review_total": 877,
         "verification_threshold": 5000,
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 2,
+      "pre_bonus_model_rank": 4,
       "trend": [
         {
-          "date": "2026-09-11",
-          "peak": 9594
-        },
-        {
-          "date": "2026-09-12",
-          "peak": 15836
-        },
-        {
-          "date": "2026-09-13",
-          "peak": 24635
-        },
-        {
-          "date": "2026-09-14",
-          "peak": 28237
-        },
-        {
-          "date": "2026-09-15",
-          "peak": 32410
-        },
-        {
           "date": "2026-09-16",
-          "peak": 41788
+          "peak": 11464
         },
         {
           "date": "2026-09-17",
-          "peak": 47449
+          "peak": 8530
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
-      "count": 2,
-      "prior_count": 1,
-      "repeat_window_prior_count": 1
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
     },
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4891320"
+        "url": "https://store.steampowered.com/app/2402680/"
       }
     ],
     "game": {
-      "slug": "wog-war-of-genesis-idle-loot",
-      "appid": "4891320",
-      "name": "[WoG] War of Genesis: Idle Loot",
+      "slug": "dimraeth",
+      "appid": "2402680",
+      "name": "Dimraeth",
       "name_cn": null,
-      "description": "挂着就好，其余的交给它。在桌面一角的小空间里，3D 角色会自己战斗、自己捡宝。捡到好装备，还能上 Steam 社区市场交易。明明是放置游戏，却让人忍不住一直盯着看，会上瘾的刷宝乐趣。",
-      "release_date": "2026-09-10",
+      "description": "一款支持 1–8 人游玩的奇幻像素RPG。 在八大种族与六种职业中塑造你的角色，自由成长并搭配技能。探索古老大陆、精通元素战斗、与伙伴建立羁绊，打造属于你的家园。在 迪姆雷斯的命运之战中，无论独自踏上征程还是与朋友同行，你都能找到属于自己的乐趣。",
+      "release_date": "2026-09-15",
       "genres": [
         "动作",
-        "休闲",
+        "冒险",
         "角色扮演",
-        "免费",
         "抢先体验"
       ],
       "tags": [
         "单人",
         "多人",
-        "玩家对战",
-        "线上玩家对战",
+        "合作",
+        "在线合作",
         "Steam 成就",
-        "应用内购买",
-        "可调整文字大小",
-        "自定义音量控制",
-        "可调整难度",
-        "#category_playable_at_your_own_pace",
-        "无需应对快速反应事件",
+        "完全支持控制器",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 云",
+        "统计数据",
         "家庭共享"
       ],
-      "review_score": "Mixed",
-      "review_ratio": 68.0,
-      "review_total": 911,
-      "developer": "New Normal Soft Inc.",
-      "publisher": "New Normal Soft Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4891320/80d3cc10f37c03a6b520846baf44883651132896/header.jpg?t=1789051819",
-      "steam_url": "https://store.steampowered.com/app/4891320",
-      "product_family_identity": "appid:4891320",
-      "product_family_appid": "4891320",
+      "review_score": "Very Positive",
+      "review_ratio": 80.0,
+      "review_total": 1812,
+      "developer": "Mudtek",
+      "publisher": "Mudtek",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1789631916",
+      "steam_url": "https://store.steampowered.com/app/2402680",
+      "product_family_identity": "appid:2402680",
+      "product_family_appid": "2402680",
       "product_family_role": "full",
       "trend": [
         {
-          "date": "2026-09-11",
-          "peak": 9594
-        },
-        {
-          "date": "2026-09-12",
-          "peak": 15836
-        },
-        {
-          "date": "2026-09-13",
-          "peak": 24635
-        },
-        {
-          "date": "2026-09-14",
-          "peak": 28237
-        },
-        {
-          "date": "2026-09-15",
-          "peak": 32410
-        },
-        {
           "date": "2026-09-16",
-          "peak": 41788
+          "peak": 11464
         },
         {
           "date": "2026-09-17",
-          "peak": 47449
+          "peak": 8530
         }
       ]
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《War of Genesis: Idle Loot》是一款常驻桌面角落的免费 3D 放置刷装 RPG。英雄自己打怪、捡装备，你在空闲时回来整理战利品，决定下一轮该用什么配置。",
-      "reference_frame": "玩过《TBH: Task Bar Hero》，就容易理解这种“平时放着跑，有好掉落再介入”的节奏。WoG 把像素小队换成 3D 英雄，还接入联盟 Raid、世界首领和 PvP，让刷到的装备有更多检验配置的去处。",
-      "for_players": "适合喜欢装备成长、愿意反复微调配置，却没有整段时间刷图的人；桌面常驻能把一次长时间游玩拆成许多短暂回看。",
-      "not_for_players": "如果乐趣主要来自亲手走位、连招和击杀，自动战斗可能很快变得无聊；不喜欢筛选随机掉落或在线交易的人，也容易觉得整理装备麻烦。",
-      "star_reason": "9 月 17 日，本地观测峰值升至 47,449，较此前纪录增长约 14%；当日评价快照为 68% 好评、911 篇。它以 27.89 分排在模型第二，因第一名《伊莫》未通过重复摘星门槛而顺延入选，这是它第二次成为今日之星。",
+      "positioning": "《Dimraeth》是一款像素风开放世界动作 RPG，可单人游玩，也支持最多八人合作。角色探索世界、搜集材料、制作装备并建设落脚点，再去挑战更危险的敌人；当前为抢先体验。",
+      "reference_frame": "《Terraria》玩家熟悉的“带回资源、改善装备、挑战新区域”可以帮助理解成长。但本作的战斗更强调观察招式与管理耐力，攻击、格挡、闪避和招架需要在敌人面前当场作出取舍。",
+      "for_players": "适合既喜欢制作养成，又愿意亲手练习战斗节奏的人。和朋友共同探索、为下一次出发做准备，也能成为游玩的主要乐趣。",
+      "not_for_players": "只想轻松堆高数值、一路站着输出，或要求抢先体验就提供完整内容的人，需要接受战斗失误和版本尚在扩充的现实。",
+      "star_reason": "9 月 17 日保存的观测峰值为 8,530 人。按新规则复算，本期得分 9.60；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
-        "让英雄自动战斗，积累武器、护甲和宝石。",
-        "回看掉落，换上适合当前配置的装备，把可交易的物品放进 Steam 社区市场。",
-        "用调整后的配置挑战首领或竞技场，遇到卡点再回来继续刷装。"
+        "探索区域、收集材料，回到据点制作和调整装备、能力。",
+        "观察敌人动作，分配进攻与防守的时机；获得成长后继续前往危险区域。"
       ],
-      "content_length": 476
-    }
+      "content_length": 391
+    },
+    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。"
   },
   "secondary_signals": [],
   "candidate_signals": []

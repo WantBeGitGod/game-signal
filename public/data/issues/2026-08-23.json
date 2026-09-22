@@ -2,7 +2,7 @@
   "schema_version": "1.0.0",
   "date": "2026-08-23",
   "title": "08.23 今日之星",
-  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "summary": "按新版评分与入选规则重排。",
   "status": "published",
   "hero_image": null,
   "hero_state": "data-cover",
@@ -10,9 +10,14 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 27.26,
+    "score": 26.5,
     "fact_summary": "Call of Duty®: Modern Warfare® 4 - Beta 今日观测峰值 51,107，未超过过往最高峰值 115,145，被识别为「新作起量」。",
     "metrics": {
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-08-21",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-08-23 18:50:58",
       "current_peak": 51107,
       "previous_peak": 115145,
       "previous_record_peak": 115145,
@@ -21,7 +26,7 @@
       "scoring_peak": 51107,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 25.76,
+      "peak_score": 29.41,
       "raw_record_growth_score": 0.0,
       "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
@@ -30,15 +35,21 @@
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 25.76,
-      "event_adjusted_score": 25.76,
+      "score_before_multiplier": 29.41,
+      "event_adjusted_score": 29.41,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 25.76,
-      "review_penalty_reason": null,
-      "secondary_labels": [],
-      "combined_score_multiplier": 1.0,
-      "base_score": 25.76,
+      "review_ratio_multiplier": 0.85,
+      "review_adjusted_score": 25.0,
+      "review_penalty_reason": "below_50",
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-08-22",
+      "review_observation_age_days": 1,
+      "review_ratio_carried_forward": true,
+      "secondary_labels": [
+        "评分背离"
+      ],
+      "combined_score_multiplier": 0.85,
+      "base_score": 25.0,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -56,8 +67,8 @@
       "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 3,
       "unstarred_runner_up_bonus": 1.5,
-      "review_ratio": null,
-      "review_total": 0,
+      "review_ratio": 37.0,
+      "review_total": 2705,
       "days_seen": 3,
       "comeback_gap_days": 1,
       "is_new_release": true,
@@ -78,7 +89,7 @@
       "genres": [
         "动作"
       ],
-      "scoring_version": "release_event_v2",
+      "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
       "release_event_date": "2026-08-21",
       "release_event_age_days": 2,
@@ -91,6 +102,7 @@
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 3,
       "trend": [
         {
           "date": "2026-08-21",
@@ -104,7 +116,8 @@
           "date": "2026-08-23",
           "peak": 51107
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
       "count": 1,
@@ -114,7 +127,7 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4783780"
+        "url": "https://store.steampowered.com/app/4783780/"
       }
     ],
     "game": {
@@ -152,11 +165,11 @@
         "Steam 云"
       ],
       "review_score": "Mostly Negative",
-      "review_ratio": 37.0,
-      "review_total": 2705,
+      "review_ratio": 34.0,
+      "review_total": 20760,
       "developer": "Infinity Ward, Beenox, Digital Legends, Activision Shanghai, Raven Software, Treyarch, Sledgehammer Games, High Moon Studios",
       "publisher": "Activision",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783780/8c72205bfdf522bada8431d2aacbd1b6c66fac4c/header.jpg?t=1787359096",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783780/8c72205bfdf522bada8431d2aacbd1b6c66fac4c/header.jpg?t=1787941380",
       "steam_url": "https://store.steampowered.com/app/4783780",
       "product_family_identity": "appid:4783780",
       "product_family_appid": "4783780",
@@ -178,26 +191,35 @@
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Call of Duty®: Modern Warfare® 4 - Beta》是《现代战争 4》的公开试玩节点，用几张多人战场先交出这代作品的移动、射击和交战节奏，让玩家在正式发售前直接检验手感。",
+      "positioning": "《Call of Duty®: Modern Warfare® 4 - Beta》是《现代战争 4》的公开试玩节点，用多人战场先交出这代作品的移动、射击和交战节奏，让玩家在正式发售前直接检验手感。",
       "reference_frame": "它仍以小队枪战的读图、架枪和争夺目标为骨架，但试玩介绍把“灵活机动、玩家选择与掌控力”放在前面。判断它是否适合你，关键在于移动能否服务枪线和临场决策，而不只是动作数量变多。",
       "for_players": "适合熟悉快节奏多人 FPS、愿意反复练枪并通过读图和走位提高稳定性的人。试玩节点也适合想先确认网络、性能、移动系统和武器手感，再决定是否关注正式版的系列玩家。",
       "not_for_players": "如果你更想要长线单人叙事、低压力合作，或不喜欢频繁重生、快速遭遇和版本初期不断调整配置，这次以多人竞技验证为主的 Beta 很难提供完整产品体验。",
-      "star_reason": "8 月 23 日，该 Beta 的 Steam 观测峰值为 51,107，模型以 27.26 分列第 2。第 1 名《How to Fish》已在前一天摘星，本日周内峰值又超过 80,000，按重复超级爆发规则自动顺延；这次 Beta 因而成为当天第一款可公开选择的新信号。快照没有可靠的当日评价口径，结论不引用后来评价。",
+      "star_reason": "8 月 23 日保存的观测峰值为 51,107 人。按新规则复算，本期得分 26.50；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
         "进入多人对局，根据模式目标和出生位置快速判断第一条推进路线。",
         "用移动、掩体和武器配置争夺有利枪线，在交火后根据敌方位置及时换点。",
         "从死亡与回合变化里修正路线、交战距离和装备选择，再投入下一轮目标争夺。"
       ],
-      "content_length": 568
-    }
+      "content_length": 484
+    },
+    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。",
+    "secondary_labels": [
+      "评分背离"
+    ]
   },
   "main_signal": {
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 27.26,
+    "score": 26.5,
     "fact_summary": "Call of Duty®: Modern Warfare® 4 - Beta 今日观测峰值 51,107，未超过过往最高峰值 115,145，被识别为「新作起量」。",
     "metrics": {
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-08-21",
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-08-23 18:50:58",
       "current_peak": 51107,
       "previous_peak": 115145,
       "previous_record_peak": 115145,
@@ -206,7 +228,7 @@
       "scoring_peak": 51107,
       "player_discount": 1.0,
       "discount_reasons": [],
-      "peak_score": 25.76,
+      "peak_score": 29.41,
       "raw_record_growth_score": 0.0,
       "growth_score_multiplier": 1.0,
       "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
@@ -215,15 +237,21 @@
       "record_growth_score": 0.0,
       "days_seen_score": 0.0,
       "signal_type_score": 0.0,
-      "score_before_multiplier": 25.76,
-      "event_adjusted_score": 25.76,
+      "score_before_multiplier": 29.41,
+      "event_adjusted_score": 29.41,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 25.76,
-      "review_penalty_reason": null,
-      "secondary_labels": [],
-      "combined_score_multiplier": 1.0,
-      "base_score": 25.76,
+      "review_ratio_multiplier": 0.85,
+      "review_adjusted_score": 25.0,
+      "review_penalty_reason": "below_50",
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-08-22",
+      "review_observation_age_days": 1,
+      "review_ratio_carried_forward": true,
+      "secondary_labels": [
+        "评分背离"
+      ],
+      "combined_score_multiplier": 0.85,
+      "base_score": 25.0,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
       "repeat_window_star_count": 0,
@@ -241,8 +269,8 @@
       "cumulative_star_count": 0,
       "unstarred_runner_up_streak_days": 3,
       "unstarred_runner_up_bonus": 1.5,
-      "review_ratio": null,
-      "review_total": 0,
+      "review_ratio": 37.0,
+      "review_total": 2705,
       "days_seen": 3,
       "comeback_gap_days": 1,
       "is_new_release": true,
@@ -263,7 +291,7 @@
       "genres": [
         "动作"
       ],
-      "scoring_version": "release_event_v2",
+      "scoring_version": "watched_games_v1",
       "release_event_type": "true_new",
       "release_event_date": "2026-08-21",
       "release_event_age_days": 2,
@@ -276,6 +304,7 @@
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 3,
       "trend": [
         {
           "date": "2026-08-21",
@@ -289,7 +318,8 @@
           "date": "2026-08-23",
           "peak": 51107
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-09-22"
     },
     "star_appearance": {
       "count": 1,
@@ -299,7 +329,7 @@
     "sources": [
       {
         "title": "Steam 商店",
-        "url": "https://store.steampowered.com/app/4783780"
+        "url": "https://store.steampowered.com/app/4783780/"
       }
     ],
     "game": {
@@ -337,11 +367,11 @@
         "Steam 云"
       ],
       "review_score": "Mostly Negative",
-      "review_ratio": 37.0,
-      "review_total": 2705,
+      "review_ratio": 34.0,
+      "review_total": 20760,
       "developer": "Infinity Ward, Beenox, Digital Legends, Activision Shanghai, Raven Software, Treyarch, Sledgehammer Games, High Moon Studios",
       "publisher": "Activision",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783780/8c72205bfdf522bada8431d2aacbd1b6c66fac4c/header.jpg?t=1787359096",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4783780/8c72205bfdf522bada8431d2aacbd1b6c66fac4c/header.jpg?t=1787941380",
       "steam_url": "https://store.steampowered.com/app/4783780",
       "product_family_identity": "appid:4783780",
       "product_family_appid": "4783780",
@@ -363,18 +393,22 @@
     },
     "quick_take": {
       "schema_version": "1.0",
-      "positioning": "《Call of Duty®: Modern Warfare® 4 - Beta》是《现代战争 4》的公开试玩节点，用几张多人战场先交出这代作品的移动、射击和交战节奏，让玩家在正式发售前直接检验手感。",
+      "positioning": "《Call of Duty®: Modern Warfare® 4 - Beta》是《现代战争 4》的公开试玩节点，用多人战场先交出这代作品的移动、射击和交战节奏，让玩家在正式发售前直接检验手感。",
       "reference_frame": "它仍以小队枪战的读图、架枪和争夺目标为骨架，但试玩介绍把“灵活机动、玩家选择与掌控力”放在前面。判断它是否适合你，关键在于移动能否服务枪线和临场决策，而不只是动作数量变多。",
       "for_players": "适合熟悉快节奏多人 FPS、愿意反复练枪并通过读图和走位提高稳定性的人。试玩节点也适合想先确认网络、性能、移动系统和武器手感，再决定是否关注正式版的系列玩家。",
       "not_for_players": "如果你更想要长线单人叙事、低压力合作，或不喜欢频繁重生、快速遭遇和版本初期不断调整配置，这次以多人竞技验证为主的 Beta 很难提供完整产品体验。",
-      "star_reason": "8 月 23 日，该 Beta 的 Steam 观测峰值为 51,107，模型以 27.26 分列第 2。第 1 名《How to Fish》已在前一天摘星，本日周内峰值又超过 80,000，按重复超级爆发规则自动顺延；这次 Beta 因而成为当天第一款可公开选择的新信号。快照没有可靠的当日评价口径，结论不引用后来评价。",
+      "star_reason": "8 月 23 日保存的观测峰值为 51,107 人。按新规则复算，本期得分 26.50；结合此前摘星记录与入选条件，成为本期今日之星。",
       "core_loop": [
         "进入多人对局，根据模式目标和出生位置快速判断第一条推进路线。",
         "用移动、掩体和武器配置争夺有利枪线，在交火后根据敌方位置及时换点。",
         "从死亡与回合变化里修正路线、交战距离和装备选择，再投入下一轮目标争夺。"
       ],
-      "content_length": 568
-    }
+      "content_length": 484
+    },
+    "selection_note": "本期顺延入选：更高评分候选中，有游戏处于两连庄后的 30 天冷却期。",
+    "secondary_labels": [
+      "评分背离"
+    ]
   },
   "secondary_signals": [],
   "candidate_signals": []
