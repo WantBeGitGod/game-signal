@@ -1,7 +1,38 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-23T00:36:33",
+  "generated_at": "2026-09-23T20:39:25",
   "games": [
+    {
+      "game": {
+        "slug": "trails-in-the-sky-2nd-chapter",
+        "appid": "4225980",
+        "name": "Trails in the Sky 2nd Chapter",
+        "name_cn": null,
+        "description": "《空之轨迹 the 2nd》为故事RPG《空之轨迹 the 1st》的正统续作。本作描绘了少女艾丝蒂尔为了寻找在前作结局中突然不见踪影的少年约书亚，踏上全新旅程的故事。",
+        "genres": [
+          "动作",
+          "冒险",
+          "角色扮演"
+        ],
+        "developer": "Nihon Falcom",
+        "publisher": "Nihon Falcom, GungHo Online Entertainment America, Inc., Clouded Leopard Entertainment",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/7e2f29dcf817ea28698ed1e27f4b86c98ebf1aa3/header_schinese.jpg?t=1789409245",
+        "product_family_identity": "appid:4225980",
+        "product_family_appid": "4225980",
+        "product_family_role": "full"
+      },
+      "article_slugs": [
+        "trails-in-the-sky-2nd-chapter"
+      ],
+      "article_title": "空之轨迹 the 2nd-等到续章，才肯把眼泪交出来",
+      "article_published_at": "2026-09-22",
+      "star_dates": [],
+      "member_appids": [
+        "4225980"
+      ],
+      "article_count": 1,
+      "latest_star_date": null
+    },
     {
       "game": {
         "slug": "how-to-fish",
