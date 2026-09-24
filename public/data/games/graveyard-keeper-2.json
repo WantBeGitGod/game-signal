@@ -1,0 +1,42 @@
+{
+  "slug": "graveyard-keeper-2",
+  "appid": "4358690",
+  "name": "Graveyard Keeper 2",
+  "name_cn": "守墓人2",
+  "description": "史上最不靠谱的中世纪墓园模拟器杀回来了！重建城镇、打理墓园、实现生产自动化，率领你的亡灵大军奔赴战场，把僵尸生意做大做强！《守墓人2》来更大的经营版图，更完整的自动化系统，作为一部极其荒诞离奇的续作，丧心病狂程度史无前例！",
+  "release_date": "2026-09-22",
+  "genres": [
+    "冒险",
+    "角色扮演",
+    "模拟"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "自定义音量控制",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "立体声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 86.0,
+  "review_total": 1975,
+  "developer": "Lazy Bear Games",
+  "publisher": "tinyBuild",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/8bfd6d4cd1ae84a26860992c4aac8c05458b123c/header_alt_assets_1_schinese.jpg?t=1790169326",
+  "steam_url": "https://store.steampowered.com/app/4358690",
+  "product_family_identity": "appid:4358690",
+  "product_family_appid": "4358690",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-09-23",
+      "peak": 54969
+    }
+  ]
+}

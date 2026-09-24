@@ -1,7 +1,38 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-23T20:39:25",
+  "generated_at": "2026-09-25T00:11:42",
   "games": [
+    {
+      "game": {
+        "slug": "graveyard-keeper-2",
+        "appid": "4358690",
+        "name": "Graveyard Keeper 2",
+        "name_cn": "守墓人2",
+        "description": "史上最不靠谱的中世纪墓园模拟器杀回来了！重建城镇、打理墓园、实现生产自动化，率领你的亡灵大军奔赴战场，把僵尸生意做大做强！《守墓人2》来更大的经营版图，更完整的自动化系统，作为一部极其荒诞离奇的续作，丧心病狂程度史无前例！",
+        "genres": [
+          "冒险",
+          "角色扮演",
+          "模拟"
+        ],
+        "developer": "Lazy Bear Games",
+        "publisher": "tinyBuild",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/8bfd6d4cd1ae84a26860992c4aac8c05458b123c/header_alt_assets_1_schinese.jpg?t=1790169326",
+        "product_family_identity": "appid:4358690",
+        "product_family_appid": "4358690",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-09-23"
+      ],
+      "member_appids": [
+        "4358690"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-09-23"
+    },
     {
       "game": {
         "slug": "trails-in-the-sky-2nd-chapter",
