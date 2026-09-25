@@ -24,8 +24,8 @@
     "家庭共享"
   ],
   "review_score": "Very Positive",
-  "review_ratio": 86.0,
-  "review_total": 1975,
+  "review_ratio": 84.0,
+  "review_total": 3122,
   "developer": "Lazy Bear Games",
   "publisher": "tinyBuild",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/8bfd6d4cd1ae84a26860992c4aac8c05458b123c/header_alt_assets_1_schinese.jpg?t=1790169326",
@@ -37,6 +37,10 @@
     {
       "date": "2026-09-23",
       "peak": 54969
+    },
+    {
+      "date": "2026-09-24",
+      "peak": 53788
     }
   ]
 }

@@ -1,0 +1,591 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-09-24",
+  "title": "09.24 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 32.29,
+    "fact_summary": "守墓人2 今日观测峰值 53,788，未超过过往最高峰值 54,969，被识别为「新作起量」。",
+    "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-22",
+      "current_release_date": "2026-09-22",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-24 17:51:52",
+      "current_peak": 53788,
+      "previous_peak": 54969,
+      "previous_record_peak": 54969,
+      "growth_rate": -0.0215,
+      "record_growth_rate": -0.0215,
+      "scoring_peak": 53788,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 30.39,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 4.8345,
+      "growth_scale_crossing_component": 0.4379,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 30.39,
+      "event_adjusted_score": 30.39,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 37.99,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-09-24",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0625,
+      "base_score": 32.29,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 86.0,
+      "review_total": 1975,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "official_store_and_launch_announcements",
+        "verified_on": "2026-09-24",
+        "store_url": "https://store.steampowered.com/app/4358690/",
+        "release_date": "2026-09-22",
+        "basis": "New standalone sequel; official prelaunch Demo followed by September 22 full launch. Separate Demo AppID 5075680. Current review counts are not imported as historical observations.",
+        "announcements": [
+          {
+            "title": "Graveyard Keeper 2 is OUT NOW 💀",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504932",
+            "published_at": "2026-09-22T17:02:59+00:00"
+          },
+          {
+            "title": "Graveyard Keeper 2 Demo is Now Available!",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262702148",
+            "published_at": "2026-09-14T15:59:25+00:00"
+          },
+          {
+            "title": "Graveyard Keeper 2 is Launching on 22 September!",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297668",
+            "published_at": "2026-08-26T17:21:59+00:00"
+          }
+        ]
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "冒险",
+        "角色扮演",
+        "模拟"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-22",
+      "release_event_age_days": 2,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "official_store_and_launch_announcements",
+        "verified_on": "2026-09-24",
+        "store_url": "https://store.steampowered.com/app/4358690/",
+        "release_date": "2026-09-22",
+        "basis": "New standalone sequel; official prelaunch Demo followed by September 22 full launch. Separate Demo AppID 5075680. Current review counts are not imported as historical observations.",
+        "announcements": [
+          {
+            "title": "Graveyard Keeper 2 is OUT NOW 💀",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504932",
+            "published_at": "2026-09-22T17:02:59+00:00"
+          },
+          {
+            "title": "Graveyard Keeper 2 Demo is Now Available!",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262702148",
+            "published_at": "2026-09-14T15:59:25+00:00"
+          },
+          {
+            "title": "Graveyard Keeper 2 is Launching on 22 September!",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297668",
+            "published_at": "2026-08-26T17:21:59+00:00"
+          }
+        ]
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 2,
+      "trend": [
+        {
+          "date": "2026-09-23",
+          "peak": 54969
+        },
+        {
+          "date": "2026-09-24",
+          "peak": 53788
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4358690"
+      }
+    ],
+    "game": {
+      "slug": "graveyard-keeper-2",
+      "appid": "4358690",
+      "name": "Graveyard Keeper 2",
+      "name_cn": "守墓人2",
+      "description": "史上最不靠谱的中世纪墓园模拟器杀回来了！重建城镇、打理墓园、实现生产自动化，率领你的亡灵大军奔赴战场，把僵尸生意做大做强！《守墓人2》来更大的经营版图，更完整的自动化系统，作为一部极其荒诞离奇的续作，丧心病狂程度史无前例！",
+      "release_date": "2026-09-22",
+      "genres": [
+        "冒险",
+        "角色扮演",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 84.0,
+      "review_total": 3122,
+      "developer": "Lazy Bear Games",
+      "publisher": "tinyBuild",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/8bfd6d4cd1ae84a26860992c4aac8c05458b123c/header_alt_assets_1_schinese.jpg?t=1790169326",
+      "steam_url": "https://store.steampowered.com/app/4358690",
+      "product_family_identity": "appid:4358690",
+      "product_family_appid": "4358690",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-23",
+          "peak": 54969
+        },
+        {
+          "date": "2026-09-24",
+          "peak": 53788
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《守墓人2》把墓园经营扩成一门覆盖小镇的生意。你从处理尸体和收集材料起步，逐渐安排僵尸种植、制作、运输，再把产出投入城镇修复和防御。",
+      "reference_frame": "玩过《幻兽帕鲁》基地生产的人，会熟悉把劳动力放进不同工序、再盯着资源流动起来的乐趣。这里不需要捕捉生物和探索开放世界：工人是僵尸，生产链围着墓园、小镇居民的任务和亡灵部队转。",
+      "for_players": "喜欢一开始亲自跑腿、后来把杂活交给自动生产的玩家，会从僵尸逐步接管工序里得到成就感。愿意同时追材料、任务和城镇变化，也比较容易进入它的节奏。",
+      "not_for_players": "如果你只想安静种田，不想处理尸体题材、战斗和防御；或者很讨厌反复收集、等待加工、在几条任务间来回切换，这套循环可能会觉得忙而碎。",
+      "star_reason": "9 月 24 日的本地 Steam 生产快照记录了 53,788 人的当日观测峰值，略低于前一日的 54,969；同期可靠评价为 1,975 条、86% 好评。它以 32.29 分通过首发观察与公开资格检查，成为本期今日之星。",
+      "core_loop": [
+        "处理墓园事务，收集植物、动物与遗骸，把材料送进制作流程。",
+        "安排僵尸种植、加工和运输，找出缺料的环节，用产出扩建墓园、修复小镇。",
+        "接居民委托，制作装备和防御设施，带着亡灵部队应对战斗，再回头补生产链。"
+      ],
+      "content_length": 484
+    },
+    "platform_attention": {
+      "sampled_at": "2026-09-25T10:14:50+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 15,
+          "inspected_count": 20,
+          "top_views": 994698,
+          "search_url": "https://www.youtube.com/results?search_query=Graveyard%20Keeper%202",
+          "sources": [
+            {
+              "title": "Graveyard Keeper 2 - 10 Things They DIDN'T Tell You",
+              "url": "https://www.youtube.com/watch?v=x9fokGh_hVw",
+              "published_on": "2026-09-21"
+            },
+            {
+              "title": "I Played 100% of Graveyard Keeper 2",
+              "url": "https://www.youtube.com/watch?v=N84q1nzOuUw",
+              "published_on": "2026-09-24"
+            },
+            {
+              "title": "Can I Beat Graveyard Keeper 2 in 100 Days?",
+              "url": "https://www.youtube.com/watch?v=FC0INrD4yQA",
+              "published_on": "2026-09-23"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 18,
+          "inspected_count": 30,
+          "top_views": 100000,
+          "search_url": "https://search.bilibili.com/all?keyword=Graveyard%20Keeper%202",
+          "sources": [
+            {
+              "title": "【守墓人2/ Graveyard Keeper2 】从新开始的尸露骨物语实况 连载中",
+              "url": "https://www.bilibili.com/video/BV1jYhs61EbY/",
+              "published_on": "2026-09-23"
+            },
+            {
+              "title": "【守墓人2 游戏实况】尸体二次就业计划",
+              "url": "https://www.bilibili.com/video/BV11YaT61EoA/",
+              "published_on": "2026-09-25"
+            },
+            {
+              "title": "解锁塔楼制作梦尘【守墓人2】全流程攻略剧情解说__ Graveyard Keeper 2 丨库洛Steam新游试玩推荐分享",
+              "url": "https://www.bilibili.com/video/BV1mxe66LETP/",
+              "published_on": "2026-09-18"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 2。",
+    "selection_context": {
+      "model_rank": 2,
+      "leader": {
+        "name": "Valheim",
+        "appid": "892970",
+        "score": 33.0,
+        "reason": "处于摘星冷却期，至 2026-09-26 结束；过去 30 天已摘星 3 次。",
+        "url": "https://store.steampowered.com/app/892970/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 32.29,
+    "fact_summary": "守墓人2 今日观测峰值 53,788，未超过过往最高峰值 54,969，被识别为「新作起量」。",
+    "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-22",
+      "current_release_date": "2026-09-22",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-24 17:51:52",
+      "current_peak": 53788,
+      "previous_peak": 54969,
+      "previous_record_peak": 54969,
+      "growth_rate": -0.0215,
+      "record_growth_rate": -0.0215,
+      "scoring_peak": 53788,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 30.39,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 4.8345,
+      "growth_scale_crossing_component": 0.4379,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 30.39,
+      "event_adjusted_score": 30.39,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 37.99,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-09-24",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0625,
+      "base_score": 32.29,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 86.0,
+      "review_total": 1975,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "official_store_and_launch_announcements",
+        "verified_on": "2026-09-24",
+        "store_url": "https://store.steampowered.com/app/4358690/",
+        "release_date": "2026-09-22",
+        "basis": "New standalone sequel; official prelaunch Demo followed by September 22 full launch. Separate Demo AppID 5075680. Current review counts are not imported as historical observations.",
+        "announcements": [
+          {
+            "title": "Graveyard Keeper 2 is OUT NOW 💀",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504932",
+            "published_at": "2026-09-22T17:02:59+00:00"
+          },
+          {
+            "title": "Graveyard Keeper 2 Demo is Now Available!",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262702148",
+            "published_at": "2026-09-14T15:59:25+00:00"
+          },
+          {
+            "title": "Graveyard Keeper 2 is Launching on 22 September!",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297668",
+            "published_at": "2026-08-26T17:21:59+00:00"
+          }
+        ]
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "冒险",
+        "角色扮演",
+        "模拟"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-22",
+      "release_event_age_days": 2,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "official_store_and_launch_announcements",
+        "verified_on": "2026-09-24",
+        "store_url": "https://store.steampowered.com/app/4358690/",
+        "release_date": "2026-09-22",
+        "basis": "New standalone sequel; official prelaunch Demo followed by September 22 full launch. Separate Demo AppID 5075680. Current review counts are not imported as historical observations.",
+        "announcements": [
+          {
+            "title": "Graveyard Keeper 2 is OUT NOW 💀",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010504932",
+            "published_at": "2026-09-22T17:02:59+00:00"
+          },
+          {
+            "title": "Graveyard Keeper 2 Demo is Now Available!",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1843481262702148",
+            "published_at": "2026-09-14T15:59:25+00:00"
+          },
+          {
+            "title": "Graveyard Keeper 2 is Launching on 22 September!",
+            "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951297668",
+            "published_at": "2026-08-26T17:21:59+00:00"
+          }
+        ]
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 2,
+      "trend": [
+        {
+          "date": "2026-09-23",
+          "peak": 54969
+        },
+        {
+          "date": "2026-09-24",
+          "peak": 53788
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4358690"
+      }
+    ],
+    "game": {
+      "slug": "graveyard-keeper-2",
+      "appid": "4358690",
+      "name": "Graveyard Keeper 2",
+      "name_cn": "守墓人2",
+      "description": "史上最不靠谱的中世纪墓园模拟器杀回来了！重建城镇、打理墓园、实现生产自动化，率领你的亡灵大军奔赴战场，把僵尸生意做大做强！《守墓人2》来更大的经营版图，更完整的自动化系统，作为一部极其荒诞离奇的续作，丧心病狂程度史无前例！",
+      "release_date": "2026-09-22",
+      "genres": [
+        "冒险",
+        "角色扮演",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "自定义音量控制",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 84.0,
+      "review_total": 3122,
+      "developer": "Lazy Bear Games",
+      "publisher": "tinyBuild",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/8bfd6d4cd1ae84a26860992c4aac8c05458b123c/header_alt_assets_1_schinese.jpg?t=1790169326",
+      "steam_url": "https://store.steampowered.com/app/4358690",
+      "product_family_identity": "appid:4358690",
+      "product_family_appid": "4358690",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-23",
+          "peak": 54969
+        },
+        {
+          "date": "2026-09-24",
+          "peak": 53788
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《守墓人2》把墓园经营扩成一门覆盖小镇的生意。你从处理尸体和收集材料起步，逐渐安排僵尸种植、制作、运输，再把产出投入城镇修复和防御。",
+      "reference_frame": "玩过《幻兽帕鲁》基地生产的人，会熟悉把劳动力放进不同工序、再盯着资源流动起来的乐趣。这里不需要捕捉生物和探索开放世界：工人是僵尸，生产链围着墓园、小镇居民的任务和亡灵部队转。",
+      "for_players": "喜欢一开始亲自跑腿、后来把杂活交给自动生产的玩家，会从僵尸逐步接管工序里得到成就感。愿意同时追材料、任务和城镇变化，也比较容易进入它的节奏。",
+      "not_for_players": "如果你只想安静种田，不想处理尸体题材、战斗和防御；或者很讨厌反复收集、等待加工、在几条任务间来回切换，这套循环可能会觉得忙而碎。",
+      "star_reason": "9 月 24 日的本地 Steam 生产快照记录了 53,788 人的当日观测峰值，略低于前一日的 54,969；同期可靠评价为 1,975 条、86% 好评。它以 32.29 分通过首发观察与公开资格检查，成为本期今日之星。",
+      "core_loop": [
+        "处理墓园事务，收集植物、动物与遗骸，把材料送进制作流程。",
+        "安排僵尸种植、加工和运输，找出缺料的环节，用产出扩建墓园、修复小镇。",
+        "接居民委托，制作装备和防御设施，带着亡灵部队应对战斗，再回头补生产链。"
+      ],
+      "content_length": 484
+    },
+    "platform_attention": {
+      "sampled_at": "2026-09-25T10:14:50+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 15,
+          "inspected_count": 20,
+          "top_views": 994698,
+          "search_url": "https://www.youtube.com/results?search_query=Graveyard%20Keeper%202",
+          "sources": [
+            {
+              "title": "Graveyard Keeper 2 - 10 Things They DIDN'T Tell You",
+              "url": "https://www.youtube.com/watch?v=x9fokGh_hVw",
+              "published_on": "2026-09-21"
+            },
+            {
+              "title": "I Played 100% of Graveyard Keeper 2",
+              "url": "https://www.youtube.com/watch?v=N84q1nzOuUw",
+              "published_on": "2026-09-24"
+            },
+            {
+              "title": "Can I Beat Graveyard Keeper 2 in 100 Days?",
+              "url": "https://www.youtube.com/watch?v=FC0INrD4yQA",
+              "published_on": "2026-09-23"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 18,
+          "inspected_count": 30,
+          "top_views": 100000,
+          "search_url": "https://search.bilibili.com/all?keyword=Graveyard%20Keeper%202",
+          "sources": [
+            {
+              "title": "【守墓人2/ Graveyard Keeper2 】从新开始的尸露骨物语实况 连载中",
+              "url": "https://www.bilibili.com/video/BV1jYhs61EbY/",
+              "published_on": "2026-09-23"
+            },
+            {
+              "title": "【守墓人2 游戏实况】尸体二次就业计划",
+              "url": "https://www.bilibili.com/video/BV11YaT61EoA/",
+              "published_on": "2026-09-25"
+            },
+            {
+              "title": "解锁塔楼制作梦尘【守墓人2】全流程攻略剧情解说__ Graveyard Keeper 2 丨库洛Steam新游试玩推荐分享",
+              "url": "https://www.bilibili.com/video/BV1mxe66LETP/",
+              "published_on": "2026-09-18"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 2。",
+    "selection_context": {
+      "model_rank": 2,
+      "leader": {
+        "name": "Valheim",
+        "appid": "892970",
+        "score": 33.0,
+        "reason": "处于摘星冷却期，至 2026-09-26 结束；过去 30 天已摘星 3 次。",
+        "url": "https://store.steampowered.com/app/892970/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
