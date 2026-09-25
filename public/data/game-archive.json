@@ -1,7 +1,46 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-25T18:17:55",
+  "generated_at": "2026-09-25T18:47:37",
   "games": [
+    {
+      "game": {
+        "slug": "aniimo",
+        "appid": "4126040",
+        "name": "Aniimo",
+        "name_cn": "伊莫",
+        "description": "《伊莫》是一款多人在线大世界捉宠RPG。你将在广袤的艾德尔大陆上邂逅各种神奇生物——伊莫。和他们联结合体，还能以全新的视角和能力感受这个世界的美好。你也可以来到浮空天际的近未来都市，邂逅其他冒险家，交流旅途心得或是感受竞技的魅力。快带上你的伊莫，开启一场超越想象的大世界冒险之旅吧！",
+        "genres": [
+          "动作",
+          "冒险",
+          "大型多人在线",
+          "角色扮演",
+          "模拟",
+          "策略",
+          "免费"
+        ],
+        "developer": "Pawprint Studio",
+        "publisher": "Pawprint Studio",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg?t=1789813151",
+        "product_family_identity": "appid:4126040",
+        "product_family_appid": "4126040",
+        "product_family_role": "full"
+      },
+      "article_slugs": [
+        "aniimo"
+      ],
+      "article_title": "伊莫-把捉宠做成一套借身体的世界语法",
+      "article_published_at": "2026-09-17",
+      "star_dates": [
+        "2026-09-25",
+        "2026-09-17",
+        "2026-09-16"
+      ],
+      "member_appids": [
+        "4126040"
+      ],
+      "article_count": 1,
+      "latest_star_date": "2026-09-25"
+    },
     {
       "game": {
         "slug": "graveyard-keeper-2",
@@ -208,44 +247,6 @@
       ],
       "article_count": 1,
       "latest_star_date": "2026-09-19"
-    },
-    {
-      "game": {
-        "slug": "aniimo",
-        "appid": "4126040",
-        "name": "Aniimo",
-        "name_cn": "伊莫",
-        "description": "《伊莫》是一款多人在线大世界捉宠RPG。你将在广袤的艾德尔大陆上邂逅各种神奇生物——伊莫。和他们联结合体，还能以全新的视角和能力感受这个世界的美好。你也可以来到浮空天际的近未来都市，邂逅其他冒险家，交流旅途心得或是感受竞技的魅力。快带上你的伊莫，开启一场超越想象的大世界冒险之旅吧！",
-        "genres": [
-          "动作",
-          "冒险",
-          "大型多人在线",
-          "角色扮演",
-          "模拟",
-          "策略",
-          "免费"
-        ],
-        "developer": "Pawprint Studio",
-        "publisher": "Pawprint Studio",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg?t=1789813151",
-        "product_family_identity": "appid:4126040",
-        "product_family_appid": "4126040",
-        "product_family_role": "full"
-      },
-      "article_slugs": [
-        "aniimo"
-      ],
-      "article_title": "伊莫-把捉宠做成一套借身体的世界语法",
-      "article_published_at": "2026-09-17",
-      "star_dates": [
-        "2026-09-17",
-        "2026-09-16"
-      ],
-      "member_appids": [
-        "4126040"
-      ],
-      "article_count": 1,
-      "latest_star_date": "2026-09-17"
     },
     {
       "game": {
