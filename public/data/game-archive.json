@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-26T18:19:34",
+  "generated_at": "2026-09-26T20:39:42",
   "games": [
     {
       "game": {
@@ -20,16 +20,18 @@
         "product_family_appid": "4080220",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "ea-sports-fc-27"
+      ],
+      "article_title": "EA SPORTS FC™ 27-一座足球城，四份作业",
+      "article_published_at": "2026-09-26",
       "star_dates": [
         "2026-09-26"
       ],
       "member_appids": [
         "4080220"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-09-26"
     },
     {
