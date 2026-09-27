@@ -1,0 +1,57 @@
+{
+  "slug": "control-resonant",
+  "appid": "3669870",
+  "name": "CONTROL Resonant",
+  "name_cn": null,
+  "description": "畅玩这款惊险刺激的动作冒险角色扮演游戏，探索濒临超自然毁灭、遭扭曲的曼哈顿。释放迪伦·法登的非凡力量，对抗扭曲现实的宇宙威胁，努力守护其人性，并为全人类的存续而战。",
+  "release_date": "2026-09-24",
+  "genres": [
+    "动作",
+    "冒险",
+    "角色扮演"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "视角舒适度",
+    "可选颜色",
+    "#category_contrast_controls",
+    "自定义音量控制",
+    "可调整难度",
+    "可以仅用键盘",
+    "无需应对快速反应事件",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "随时保存",
+    "字幕选项",
+    "Steam 云",
+    "可用 HDR",
+    "家庭共享"
+  ],
+  "review_score": "Very Positive",
+  "review_ratio": 88.0,
+  "review_total": 5588,
+  "developer": "Remedy Entertainment",
+  "publisher": "Remedy Entertainment",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/918498496cb30b36cec93ebad589b132ddac8379/header_schinese.jpg?t=1790259464",
+  "steam_url": "https://store.steampowered.com/app/3669870",
+  "product_family_identity": "appid:3669870",
+  "product_family_appid": "3669870",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-09-25",
+      "peak": 31894
+    },
+    {
+      "date": "2026-09-26",
+      "peak": 33443
+    },
+    {
+      "date": "2026-09-27",
+      "peak": 39384
+    }
+  ]
+}
