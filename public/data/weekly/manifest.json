@@ -1,8 +1,18 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-21T13:09:09",
-  "latest_weekly": "2026-09-14-week",
+  "generated_at": "2026-09-28T13:10:23",
+  "latest_weekly": "2026-09-21-week",
   "issues": [
+    {
+      "slug": "2026-09-21-week",
+      "issue_number": 18,
+      "week_start": "2026-09-21",
+      "week_end": "2026-09-27",
+      "title": "联结还在跑图\n僵尸已经上岗",
+      "summary": "9 月 21 日至 27 日的榜面像一场交接：WARDOGS 以三方战线和跨局现金开周，Aniimo 连续三天第二后在 25 日回到第一，最终以 23 分拿下综合第一；《守墓人2》在发售后两次实际摘星，带着墓园产线、城镇修复和亡灵部队拿到 20 分。后半周又有 EA SPORTS FC™ 27 与 CONTROL Resonant 进入前二。它们都只占了三天，却把问题推得很具体：捉宠的联结能不能继续改写路线，自动化能不能把经营里的杂活真正交出去。",
+      "status": "published",
+      "published_at": "2026-09-28 13:10:22"
+    },
     {
       "slug": "2026-09-14-week",
       "issue_number": 17,

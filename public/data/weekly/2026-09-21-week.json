@@ -1,0 +1,387 @@
+{
+  "schema_version": "2.0.0",
+  "slug": "2026-09-21-week",
+  "issue_number": 18,
+  "week_start": "2026-09-21",
+  "week_end": "2026-09-27",
+  "title": "联结还在跑图\n僵尸已经上岗",
+  "summary": "9 月 21 日至 27 日的榜面像一场交接：WARDOGS 以三方战线和跨局现金开周，Aniimo 连续三天第二后在 25 日回到第一，最终以 23 分拿下综合第一；《守墓人2》在发售后两次实际摘星，带着墓园产线、城镇修复和亡灵部队拿到 20 分。后半周又有 EA SPORTS FC™ 27 与 CONTROL Resonant 进入前二。它们都只占了三天，却把问题推得很具体：捉宠的联结能不能继续改写路线，自动化能不能把经营里的杂活真正交出去。",
+  "editorial": {
+    "title_lines": [
+      "联结还在跑图",
+      "僵尸已经上岗"
+    ],
+    "intro": "9 月 21 日至 27 日的榜面像一场交接：WARDOGS 以三方战线和跨局现金开周，Aniimo 连续三天第二后在 25 日回到第一，最终以 23 分拿下综合第一；《守墓人2》在发售后两次实际摘星，带着墓园产线、城镇修复和亡灵部队拿到 20 分。后半周又有 EA SPORTS FC™ 27 与 CONTROL Resonant 进入前二。它们都只占了三天，却把问题推得很具体：捉宠的联结能不能继续改写路线，自动化能不能把经营里的杂活真正交出去。",
+    "features": {
+      "4126040": {
+        "heading": "先借一具身体，再把地图读一遍",
+        "paragraphs": [
+          "Aniimo 在 9 月 21 日至 25 日连续五天进入前五：前三天第二、24 日第三、25 日第一并实际摘星，平均名次为 2，以 23 分位列本周综合第一。它在 26 日后没有再进入保存的前五，周榜仍只记录这五次已发布日榜的出现，不把缺席补成下滑或留存结论。",
+          "《伊莫》的游戏感受落在“联结”上。玩家先随环境与时段寻找、捕捉生物，再借它们的身体滑翔、潜水、钻地、解谜或战斗；新能力又把原本只是背景的地形变成下一条可走的路线。它可以借《幻兽帕鲁》解释开放世界里的发现与捕捉入口，但核心不是把伙伴塞进生产链，而是每次换身体后地图会不会多出一个值得重看的问题。",
+          "本周三次稳定在第二、最后回到第一，留下的不是“热度已稳”的答案。更该继续看的是：不同伊莫的能力能否在首发的新鲜展示之后继续制造折返路线；夺蛋、家园与大世界探索会不会给朋友提供彼此不同的回访理由。若每次捕捉都只是更换外观，跑图会很快失去方向；若能力持续改变谁能到哪里、怎样和同伴配合，收集才会留下下一次上线的动词。"
+        ]
+      },
+      "4358690": {
+        "heading": "把墓园的杂活交给死人，自己去管一座城",
+        "paragraphs": [
+          "《守墓人2》从 23 日起连续五天进入前五：首日第一、次日第二并两次实际摘星，随后依次落在第四、第五、第四，平均名次 3.2，以 20 分排在第二。它与 WARDOGS 同分，但两次真正摘星让它留在前面。这个轨迹记录的是首发周的可见度变化；后几天的名次回落还不足以回答玩家会不会长期留下。",
+          "墓园在这里不是一张黑色幽默皮肤。玩家处理遗骸、采集材料、做出设施，再把种植、加工和运输交给僵尸；省下的时间回到城镇修复、居民任务、装备和防御。经营和战斗因此有一条清楚的接口：一条产线若能解决正在卡住的材料、岗位或工事问题，玩家就会知道自己为什么该让又一名僵尸上岗。",
+          "首发周的关键仍是这条委派链有没有被游戏讲清。玩家能否分辨是自己漏了步骤，还是研究、配方、僵尸岗位和资源流真的出了问题？城镇战会不会让塔楼、路障、装备与亡灵小队回头改变经营选择？若这些环节只把待办清单拉长，自动化只是另一层维护；若它不断腾出手来解决更大的城镇麻烦，坟地跑产线就会有持续的操作重量。"
+        ]
+      }
+    },
+    "notes": {
+      "1867240": "WARDOGS 六天进入前五：21 日第一并摘星，25 日又回到第二，随后落在第三至第五，20 分排第三。三方控制区里买装备、调载具、救人和推进都会带回下一场的钱；接下来要看服务器入口、支援分工和跨局预算能否把混战变成愿意复述的队伍故事。",
+      "4080220": "EA SPORTS FC™ 27 在 25 日第三、26 日第一并摘星、27 日第二，三天 15 分排第四。传跑、攻防转换、经理生涯、卡牌阵容与组队入口让足球模拟有多条投入路径；55% 的同期可靠评价意味着首发注意力和体验认可仍须分开看。",
+      "3669870": "CONTROL Resonant 从 25 日第五、26 日第三走到 27 日第一并摘星，三天 12 分排第五。重力异常、区域探索和变形近战武器把路线与交手位置绑在一起；后续要看这套新战斗重心能否让探索收益持续回流到玩家的能力选择。"
+    },
+    "next_watch": [
+      "Aniimo 的联结能力会不会继续打开明确的折返路线，并让组队探索留下不同于夺蛋的共同目标？",
+      "守墓人2 的僵尸岗位、生产链与城镇战，能否让玩家清楚看见每一次自动化替掉了什么麻烦？",
+      "WARDOGS 的服务器、支援分工与跨局现金，会不会让三方战线在首发周之后仍有稳定的社群叙事？"
+    ]
+  },
+  "published_days": [
+    "2026-09-21",
+    "2026-09-22",
+    "2026-09-23",
+    "2026-09-24",
+    "2026-09-25",
+    "2026-09-26",
+    "2026-09-27"
+  ],
+  "status": "published",
+  "published_at": "2026-09-28 13:10:22",
+  "signals": [
+    {
+      "rank": 1,
+      "signal_type": "release_event_rise",
+      "label": "发行节点起量",
+      "score": 23.0,
+      "selection_reason": "Aniimo 在 7 个已保存日榜中进入前五 5 天、前二 4 天，实际摘星 1 次，周复选分 23。",
+      "metrics": {
+        "product_family_identity": "appid:4126040",
+        "actual_star_count": 1,
+        "first_place_days": 1,
+        "second_place_days": 3,
+        "top_two_days": 4,
+        "top_five_days": 5,
+        "average_rank": 2.0,
+        "weekly_score": 23,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-09-21",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-09-22",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-09-23",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-09-24",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-09-25",
+            "rank": 1,
+            "actual_star": true
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-09-25"
+      },
+      "chart_status": "missing",
+      "article_selected": true,
+      "article_slug": "aniimo",
+      "chart_path": null,
+      "game": {
+        "slug": "aniimo",
+        "appid": "4126040",
+        "name": "Aniimo",
+        "description": "《伊莫》是一款多人在线大世界捉宠RPG。你将在广袤的艾德尔大陆上邂逅各种神奇生物——伊莫。和他们联结合体，还能以全新的视角和能力感受这个世界的美好。你也可以来到浮空天际的近未来都市，邂逅其他冒险家，交流旅途心得或是感受竞技的魅力。快带上你的伊莫，开启一场超越想象的大世界冒险之旅吧！",
+        "developer": "Pawprint Studio",
+        "publisher": "Pawprint Studio",
+        "release_date": "2026-09-15",
+        "review_ratio": 74.0,
+        "review_total": 18043,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4126040/d1a1d8a5c304f61edfec2fd4d7b8680d7a7e7ed6/header_schinese.jpg?t=1789813151",
+        "steam_url": "https://store.steampowered.com/app/4126040",
+        "product_family_identity": "appid:4126040",
+        "product_family_appid": "4126040",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 2,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 20.0,
+      "selection_reason": "Graveyard Keeper 2 在 7 个已保存日榜中进入前五 5 天、前二 2 天，实际摘星 2 次，周复选分 20。",
+      "metrics": {
+        "product_family_identity": "appid:4358690",
+        "actual_star_count": 2,
+        "first_place_days": 1,
+        "second_place_days": 1,
+        "top_two_days": 2,
+        "top_five_days": 5,
+        "average_rank": 3.2,
+        "weekly_score": 20,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-09-23",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-09-24",
+            "rank": 2,
+            "actual_star": true
+          },
+          {
+            "date": "2026-09-25",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-09-26",
+            "rank": 5,
+            "actual_star": false
+          },
+          {
+            "date": "2026-09-27",
+            "rank": 4,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-09-27"
+      },
+      "chart_status": "ready",
+      "article_selected": true,
+      "article_slug": "graveyard-keeper-2",
+      "chart_path": "/data/charts/2026-09-21-week/4358690.json",
+      "game": {
+        "slug": "graveyard-keeper-2",
+        "appid": "4358690",
+        "name": "Graveyard Keeper 2",
+        "description": "史上最不靠谱的中世纪墓园模拟器杀回来了！重建城镇、打理墓园、实现生产自动化，率领你的亡灵大军奔赴战场，把僵尸生意做大做强！《守墓人2》来更大的经营版图，更完整的自动化系统，作为一部极其荒诞离奇的续作，丧心病狂程度史无前例！",
+        "developer": "Lazy Bear Games",
+        "publisher": "tinyBuild",
+        "release_date": "2026-09-22",
+        "review_ratio": 81.0,
+        "review_total": 4642,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4358690/8bfd6d4cd1ae84a26860992c4aac8c05458b123c/header_alt_assets_1_schinese.jpg?t=1790169326",
+        "steam_url": "https://store.steampowered.com/app/4358690",
+        "product_family_identity": "appid:4358690",
+        "product_family_appid": "4358690",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 3,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 20.0,
+      "selection_reason": "WARDOGS 在 7 个已保存日榜中进入前五 6 天、前二 2 天，实际摘星 1 次，周复选分 20。",
+      "metrics": {
+        "product_family_identity": "appid:1867240",
+        "actual_star_count": 1,
+        "first_place_days": 1,
+        "second_place_days": 1,
+        "top_two_days": 2,
+        "top_five_days": 6,
+        "average_rank": 3.17,
+        "weekly_score": 20,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-09-21",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-09-22",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-09-24",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-09-25",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-09-26",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-09-27",
+            "rank": 5,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-09-27"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-09-21-week/1867240.json",
+      "game": {
+        "slug": "wardogs",
+        "appid": "1867240",
+        "name": "WARDOGS",
+        "description": "《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。",
+        "developer": "BULKHEAD",
+        "publisher": "Team17",
+        "release_date": "2026-09-10",
+        "review_ratio": 77.0,
+        "review_total": 92009,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1789503126",
+        "steam_url": "https://store.steampowered.com/app/1867240",
+        "product_family_identity": "appid:1867240",
+        "product_family_appid": "1867240",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 15.0,
+      "selection_reason": "EA SPORTS FC™ 27 在 7 个已保存日榜中进入前五 3 天、前二 2 天，实际摘星 1 次，周复选分 15。",
+      "metrics": {
+        "product_family_identity": "appid:4080220",
+        "actual_star_count": 1,
+        "first_place_days": 1,
+        "second_place_days": 1,
+        "top_two_days": 2,
+        "top_five_days": 3,
+        "average_rank": 2.0,
+        "weekly_score": 15,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-09-25",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-09-26",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-09-27",
+            "rank": 2,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-09-27"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-09-21-week/4080220.json",
+      "game": {
+        "slug": "ea-sports-fc-27",
+        "appid": "4080220",
+        "name": "EA SPORTS FC™ 27",
+        "description": "欢迎在《EA SPORTS FC™ 27》中体验全世界的游戏。 踏入 The Grounds，体验这座连接街头与球场的足球乐园；随着灵感源自社区反馈的创新带来更真实的足球玩法，在每一种模式中感受更强的掌控力。",
+        "developer": "EA CANADA, EA Romania",
+        "publisher": "Electronic Arts",
+        "release_date": "2026-09-24",
+        "review_ratio": 55.0,
+        "review_total": 4106,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg?t=1790357926",
+        "steam_url": "https://store.steampowered.com/app/4080220",
+        "product_family_identity": "appid:4080220",
+        "product_family_appid": "4080220",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 12.0,
+      "selection_reason": "CONTROL Resonant 在 7 个已保存日榜中进入前五 3 天、前二 1 天，实际摘星 1 次，周复选分 12。",
+      "metrics": {
+        "product_family_identity": "appid:3669870",
+        "actual_star_count": 1,
+        "first_place_days": 1,
+        "second_place_days": 0,
+        "top_two_days": 1,
+        "top_five_days": 3,
+        "average_rank": 3.0,
+        "weekly_score": 12,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-09-25",
+            "rank": 5,
+            "actual_star": false
+          },
+          {
+            "date": "2026-09-26",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-09-27",
+            "rank": 1,
+            "actual_star": true
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-09-27"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-09-21-week/3669870.json",
+      "game": {
+        "slug": "control-resonant",
+        "appid": "3669870",
+        "name": "CONTROL Resonant",
+        "description": "畅玩这款惊险刺激的动作冒险角色扮演游戏，探索濒临超自然毁灭、遭扭曲的曼哈顿。释放迪伦·法登的非凡力量，对抗扭曲现实的宇宙威胁，努力守护其人性，并为全人类的存续而战。",
+        "developer": "Remedy Entertainment",
+        "publisher": "Remedy Entertainment",
+        "release_date": "2026-09-24",
+        "review_ratio": 88.0,
+        "review_total": 5588,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/918498496cb30b36cec93ebad589b132ddac8379/header_schinese.jpg?t=1790259464",
+        "steam_url": "https://store.steampowered.com/app/3669870",
+        "product_family_identity": "appid:3669870",
+        "product_family_appid": "3669870",
+        "product_family_role": "full"
+      }
+    }
+  ]
+}
