@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-28T18:18:56",
+  "generated_at": "2026-09-28T20:37:07",
   "games": [
     {
       "game": {
@@ -20,16 +20,18 @@
         "product_family_appid": "4019220",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "dressmaker"
+      ],
+      "article_title": "针影裁梦-裁缝铺里没有一键换装",
+      "article_published_at": "2026-09-28",
       "star_dates": [
         "2026-09-28"
       ],
       "member_appids": [
         "4019220"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-09-28"
     },
     {
