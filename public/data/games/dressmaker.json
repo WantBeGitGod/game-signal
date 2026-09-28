@@ -1,0 +1,61 @@
+{
+  "slug": "dressmaker",
+  "appid": "4019220",
+  "name": "Dressmaker",
+  "name_cn": null,
+  "description": "在《针影裁梦》的世界，成为一名裁缝吧！选择布料、裁剪制版、缝制各类服装，来满足（或恶搞！）小镇居民。这款温馨的裁缝模拟游戏，灵感源自真实的服装制作工艺。",
+  "release_date": "2026-09-21",
+  "genres": [
+    "休闲",
+    "模拟"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "自定义音量控制",
+    "可以仅用鼠标",
+    "无需应对快速反应事件",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Overwhelmingly Positive",
+  "review_ratio": 98.0,
+  "review_total": 5201,
+  "developer": "Cozy Lives",
+  "publisher": "Free Lives",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg?t=1790484978",
+  "steam_url": "https://store.steampowered.com/app/4019220",
+  "product_family_identity": "appid:4019220",
+  "product_family_appid": "4019220",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-09-22",
+      "peak": 8029
+    },
+    {
+      "date": "2026-09-23",
+      "peak": 13090
+    },
+    {
+      "date": "2026-09-24",
+      "peak": 13103
+    },
+    {
+      "date": "2026-09-25",
+      "peak": 16727
+    },
+    {
+      "date": "2026-09-26",
+      "peak": 20648
+    },
+    {
+      "date": "2026-09-27",
+      "peak": 25732
+    },
+    {
+      "date": "2026-09-28",
+      "peak": 32164
+    }
+  ]
+}
