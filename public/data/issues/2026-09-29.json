@@ -1,0 +1,525 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-09-29",
+  "title": "09.29 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 37.59,
+    "fact_summary": "EA SPORTS FC™ 27 今日观测峰值 78,122，未超过过往最高峰值 91,542，被识别为「新作起量」。",
+    "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-24",
+      "current_release_date": "2026-09-24",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-29 17:50:40",
+      "current_peak": 78122,
+      "previous_peak": 91542,
+      "previous_record_peak": 91542,
+      "growth_rate": -0.1466,
+      "record_growth_rate": -0.1466,
+      "scoring_peak": 78122,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 39.31,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 13.4079,
+      "growth_scale_crossing_component": 0.6812,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 39.31,
+      "event_adjusted_score": 39.31,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 0.9,
+      "review_adjusted_score": 44.23,
+      "review_penalty_reason": "below_60",
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-09-29",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [
+        "评分背离"
+      ],
+      "combined_score_multiplier": 0.9562,
+      "base_score": 37.59,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 54.0,
+      "review_total": 4995,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 2820,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "模拟",
+        "体育"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-24",
+      "release_event_age_days": 5,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 2820,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-09-25",
+          "peak": 39600
+        },
+        {
+          "date": "2026-09-26",
+          "peak": 91542
+        },
+        {
+          "date": "2026-09-27",
+          "peak": 88196
+        },
+        {
+          "date": "2026-09-28",
+          "peak": 91140
+        },
+        {
+          "date": "2026-09-29",
+          "peak": 78122
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4080220"
+      }
+    ],
+    "game": {
+      "slug": "ea-sports-fc-27",
+      "appid": "4080220",
+      "name": "EA SPORTS FC™ 27",
+      "name_cn": null,
+      "description": "欢迎在《EA SPORTS FC™ 27》中体验全世界的游戏。 踏入 The Grounds，体验这座连接街头与球场的足球乐园；随着灵感源自社区反馈的创新带来更真实的足球玩法，在每一种模式中感受更强的掌控力。",
+      "release_date": "2026-09-24",
+      "genres": [
+        "模拟",
+        "体育"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "同屏/分屏玩家对战",
+        "合作",
+        "在线合作",
+        "同屏/分屏合作",
+        "同屏/分屏",
+        "跨平台多人",
+        "Steam 成就",
+        "完全支持控制器",
+        "应用内购买",
+        "聊天语音转文字",
+        "可选颜色",
+        "#category_contrast_controls",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "字幕选项",
+        "可用 HDR"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 54.0,
+      "review_total": 4995,
+      "developer": "EA CANADA, EA Romania",
+      "publisher": "Electronic Arts",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg?t=1790357926",
+      "steam_url": "https://store.steampowered.com/app/4080220",
+      "product_family_identity": "appid:4080220",
+      "product_family_appid": "4080220",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-25",
+          "peak": 39600
+        },
+        {
+          "date": "2026-09-26",
+          "peak": 91542
+        },
+        {
+          "date": "2026-09-27",
+          "peak": 88196
+        },
+        {
+          "date": "2026-09-28",
+          "peak": 91140
+        },
+        {
+          "date": "2026-09-29",
+          "peak": 78122
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《EA SPORTS FC™ 27》是一款足球模拟游戏：你可以直接踢比赛，也可以把每场球接进经理生涯、Ultimate Team 阵容或朋友的 Clubs。",
+      "reference_frame": "玩过《NBA 2K27》的人会认得即时比赛、球队经营和卡牌配队并行的结构。FC 27 换成足球的传跑、控球和防线移动；篮球的投篮时机搬不过来，失球后得立刻判断谁去封线。The Grounds 把短局小场和 Clubs 组队放在一起，方便朋友先踢几分钟。",
+      "for_players": "适合喜欢足球攻防里读空间、改传跑路线的人；带队过赛季、琢磨阵容或和朋友打短局也各有入口。",
+      "not_for_players": "不喜欢连续操作、切人防守和临场判断，比赛本身就会吃力。只想偶尔踢球，不必把卡牌和赛季任务都当成功课。",
+      "star_reason": "9 月 29 日本地快照记录到 78,122 人的当日峰值，低于此前 91,542 的高点；同批可靠评价为 4,995 条、54% 好评。首发观察已成熟，模型第一名通过重复摘星与公开资格检查，所以今天再次记录它；这组数据还不能说明哪种模式留住了玩家。",
+      "core_loop": [
+        "看防线和队友跑位，用控球、传球或换边找到射门位置。",
+        "丢球就切换防守人、封住传球线，决定压上还是回收。",
+        "把比赛结果带回轮换、转会和阵容调整，或与朋友继续磨合。"
+      ],
+      "content_length": 476
+    },
+    "platform_attention": {
+      "sampled_at": "2026-09-29T10:15:22+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 0,
+          "inspected_count": 20,
+          "top_views": null,
+          "search_url": "https://www.youtube.com/results?search_query=EA%20SPORTS%20FC%E2%84%A2%2027",
+          "sources": []
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 1,
+          "inspected_count": 30,
+          "top_views": 859,
+          "search_url": "https://search.bilibili.com/all?keyword=EA%20SPORTS%20FC%E2%84%A2%2027",
+          "sources": [
+            {
+              "title": "EA SPORTS FC™ 27 官方中文v1.0.1全DLC（VBS1.9一键启动） 解压即玩！",
+              "url": "https://www.bilibili.com/video/BV1jca56DELu/",
+              "published_on": "2026-09-29"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "secondary_labels": [
+      "评分背离"
+    ]
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 37.59,
+    "fact_summary": "EA SPORTS FC™ 27 今日观测峰值 78,122，未超过过往最高峰值 91,542，被识别为「新作起量」。",
+    "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-24",
+      "current_release_date": "2026-09-24",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-09-29 17:50:40",
+      "current_peak": 78122,
+      "previous_peak": 91542,
+      "previous_record_peak": 91542,
+      "growth_rate": -0.1466,
+      "record_growth_rate": -0.1466,
+      "scoring_peak": 78122,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 39.31,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 13.4079,
+      "growth_scale_crossing_component": 0.6812,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 39.31,
+      "event_adjusted_score": 39.31,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 0.9,
+      "review_adjusted_score": 44.23,
+      "review_penalty_reason": "below_60",
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-09-29",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [
+        "评分背离"
+      ],
+      "combined_score_multiplier": 0.9562,
+      "base_score": 37.59,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 54.0,
+      "review_total": 4995,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 2820,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "模拟",
+        "体育"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-24",
+      "release_event_age_days": 5,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 2820,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-09-25",
+          "peak": 39600
+        },
+        {
+          "date": "2026-09-26",
+          "peak": 91542
+        },
+        {
+          "date": "2026-09-27",
+          "peak": 88196
+        },
+        {
+          "date": "2026-09-28",
+          "peak": 91140
+        },
+        {
+          "date": "2026-09-29",
+          "peak": 78122
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4080220"
+      }
+    ],
+    "game": {
+      "slug": "ea-sports-fc-27",
+      "appid": "4080220",
+      "name": "EA SPORTS FC™ 27",
+      "name_cn": null,
+      "description": "欢迎在《EA SPORTS FC™ 27》中体验全世界的游戏。 踏入 The Grounds，体验这座连接街头与球场的足球乐园；随着灵感源自社区反馈的创新带来更真实的足球玩法，在每一种模式中感受更强的掌控力。",
+      "release_date": "2026-09-24",
+      "genres": [
+        "模拟",
+        "体育"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "同屏/分屏玩家对战",
+        "合作",
+        "在线合作",
+        "同屏/分屏合作",
+        "同屏/分屏",
+        "跨平台多人",
+        "Steam 成就",
+        "完全支持控制器",
+        "应用内购买",
+        "聊天语音转文字",
+        "可选颜色",
+        "#category_contrast_controls",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "字幕选项",
+        "可用 HDR"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 54.0,
+      "review_total": 4995,
+      "developer": "EA CANADA, EA Romania",
+      "publisher": "Electronic Arts",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg?t=1790357926",
+      "steam_url": "https://store.steampowered.com/app/4080220",
+      "product_family_identity": "appid:4080220",
+      "product_family_appid": "4080220",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-25",
+          "peak": 39600
+        },
+        {
+          "date": "2026-09-26",
+          "peak": 91542
+        },
+        {
+          "date": "2026-09-27",
+          "peak": 88196
+        },
+        {
+          "date": "2026-09-28",
+          "peak": 91140
+        },
+        {
+          "date": "2026-09-29",
+          "peak": 78122
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《EA SPORTS FC™ 27》是一款足球模拟游戏：你可以直接踢比赛，也可以把每场球接进经理生涯、Ultimate Team 阵容或朋友的 Clubs。",
+      "reference_frame": "玩过《NBA 2K27》的人会认得即时比赛、球队经营和卡牌配队并行的结构。FC 27 换成足球的传跑、控球和防线移动；篮球的投篮时机搬不过来，失球后得立刻判断谁去封线。The Grounds 把短局小场和 Clubs 组队放在一起，方便朋友先踢几分钟。",
+      "for_players": "适合喜欢足球攻防里读空间、改传跑路线的人；带队过赛季、琢磨阵容或和朋友打短局也各有入口。",
+      "not_for_players": "不喜欢连续操作、切人防守和临场判断，比赛本身就会吃力。只想偶尔踢球，不必把卡牌和赛季任务都当成功课。",
+      "star_reason": "9 月 29 日本地快照记录到 78,122 人的当日峰值，低于此前 91,542 的高点；同批可靠评价为 4,995 条、54% 好评。首发观察已成熟，模型第一名通过重复摘星与公开资格检查，所以今天再次记录它；这组数据还不能说明哪种模式留住了玩家。",
+      "core_loop": [
+        "看防线和队友跑位，用控球、传球或换边找到射门位置。",
+        "丢球就切换防守人、封住传球线，决定压上还是回收。",
+        "把比赛结果带回轮换、转会和阵容调整，或与朋友继续磨合。"
+      ],
+      "content_length": 476
+    },
+    "platform_attention": {
+      "sampled_at": "2026-09-29T10:15:22+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 0,
+          "inspected_count": 20,
+          "top_views": null,
+          "search_url": "https://www.youtube.com/results?search_query=EA%20SPORTS%20FC%E2%84%A2%2027",
+          "sources": []
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 1,
+          "inspected_count": 30,
+          "top_views": 859,
+          "search_url": "https://search.bilibili.com/all?keyword=EA%20SPORTS%20FC%E2%84%A2%2027",
+          "sources": [
+            {
+              "title": "EA SPORTS FC™ 27 官方中文v1.0.1全DLC（VBS1.9一键启动） 解压即玩！",
+              "url": "https://www.bilibili.com/video/BV1jca56DELu/",
+              "published_on": "2026-09-29"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "secondary_labels": [
+      "评分背离"
+    ]
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
