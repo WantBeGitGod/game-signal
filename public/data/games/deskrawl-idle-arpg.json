@@ -1,0 +1,49 @@
+{
+  "slug": "deskrawl-idle-arpg",
+  "appid": "4623570",
+  "name": "Deskrawl: Idle ARPG",
+  "name_cn": null,
+  "description": "受《暗黑破坏神》系列启发，以放置玩法还原经典暗黑式刷宝体验，无论工作还是休闲，随时挂机下本。选择四种不同职业，探索两片大陆三大主城，不断刷取极品装备、积累财富、构筑Build，将角色打造成传奇英雄。",
+  "release_date": "2026-09-28",
+  "genres": [
+    "动作",
+    "冒险",
+    "休闲",
+    "独立",
+    "角色扮演"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "视角舒适度",
+    "自定义音量控制",
+    "可调整难度",
+    "可以仅用鼠标",
+    "#category_playable_at_your_own_pace",
+    "无需应对快速反应事件",
+    "随时保存",
+    "Steam 云",
+    "Steam 排行榜",
+    "家庭共享"
+  ],
+  "review_score": "Mostly Positive",
+  "review_ratio": 75.0,
+  "review_total": 690,
+  "developer": "First Day Games",
+  "publisher": "First Day Games, Gamersky Games",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623570/ce2d7987b39a72e550ef2801db198b5ddc217a50/header_schinese.jpg?t=1790673311",
+  "steam_url": "https://store.steampowered.com/app/4623570",
+  "product_family_identity": "appid:4623570",
+  "product_family_appid": "4623570",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-09-29",
+      "peak": 22451
+    },
+    {
+      "date": "2026-09-30",
+      "peak": 32234
+    }
+  ]
+}
