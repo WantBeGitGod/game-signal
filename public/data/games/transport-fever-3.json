@@ -1,0 +1,42 @@
+{
+  "slug": "transport-fever-3",
+  "appid": "3493540",
+  "name": "Transport Fever 3",
+  "name_cn": null,
+  "description": "更宏大、更深入、更动感的运输大亨养成游戏《狂热运输 3》强势回归。利用超过一个世纪以来不断发展的交通方式，打造改变世界格局的陆海空交通路线。设计并构建您的理想交通网络。",
+  "release_date": "2026-09-29",
+  "genres": [
+    "休闲",
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "包含关卡编辑器",
+    "家庭共享"
+  ],
+  "review_score": "Mixed",
+  "review_ratio": 69.0,
+  "review_total": 2740,
+  "developer": "Urban Games",
+  "publisher": "Paradox Interactive",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/8b9bceaacd144199a662460cf9d1f5800947eea1/header_alt_assets_0_schinese.jpg?t=1790777411",
+  "steam_url": "https://store.steampowered.com/app/3493540",
+  "product_family_identity": "appid:3493540",
+  "product_family_appid": "3493540",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-09-30",
+      "peak": 30718
+    },
+    {
+      "date": "2026-10-01",
+      "peak": 41675
+    }
+  ]
+}

@@ -1,7 +1,38 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-30T21:03:29",
+  "generated_at": "2026-10-01T18:18:51",
   "games": [
+    {
+      "game": {
+        "slug": "transport-fever-3",
+        "appid": "3493540",
+        "name": "Transport Fever 3",
+        "name_cn": null,
+        "description": "更宏大、更深入、更动感的运输大亨养成游戏《狂热运输 3》强势回归。利用超过一个世纪以来不断发展的交通方式，打造改变世界格局的陆海空交通路线。设计并构建您的理想交通网络。",
+        "genres": [
+          "休闲",
+          "模拟",
+          "策略"
+        ],
+        "developer": "Urban Games",
+        "publisher": "Paradox Interactive",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/8b9bceaacd144199a662460cf9d1f5800947eea1/header_alt_assets_0_schinese.jpg?t=1790777411",
+        "product_family_identity": "appid:3493540",
+        "product_family_appid": "3493540",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-10-01"
+      ],
+      "member_appids": [
+        "3493540"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-10-01"
+    },
     {
       "game": {
         "slug": "deskrawl-idle-arpg",

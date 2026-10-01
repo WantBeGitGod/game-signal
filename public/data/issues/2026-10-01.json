@@ -1,0 +1,485 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-10-01",
+  "title": "10.01 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 48.04,
+    "fact_summary": "Transport Fever 3 今日观测峰值 41,675，较过往最高峰值提升 +36%，被识别为「新作起量」。",
+    "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-29",
+      "current_release_date": "2026-09-29",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-01 17:50:25",
+      "current_peak": 41675,
+      "previous_peak": 30718,
+      "previous_record_peak": 30718,
+      "growth_rate": 0.3567,
+      "record_growth_rate": 0.3567,
+      "scoring_peak": 41675,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 25.95,
+      "raw_record_growth_score": 12.48,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 1.5098,
+      "growth_scale_crossing_component": 0.3167,
+      "record_growth_score": 12.48,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 38.43,
+      "event_adjusted_score": 38.43,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 48.04,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-10-01",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.25,
+      "base_score": 48.04,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 69.0,
+      "review_total": 2740,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 1756,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "休闲",
+        "模拟",
+        "策略"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-29",
+      "release_event_age_days": 2,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 1756,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-09-30",
+          "peak": 30718
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 41675
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3493540"
+      }
+    ],
+    "game": {
+      "slug": "transport-fever-3",
+      "appid": "3493540",
+      "name": "Transport Fever 3",
+      "name_cn": null,
+      "description": "更宏大、更深入、更动感的运输大亨养成游戏《狂热运输 3》强势回归。利用超过一个世纪以来不断发展的交通方式，打造改变世界格局的陆海空交通路线。设计并构建您的理想交通网络。",
+      "release_date": "2026-09-29",
+      "genres": [
+        "休闲",
+        "模拟",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "包含关卡编辑器",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 69.0,
+      "review_total": 2740,
+      "developer": "Urban Games",
+      "publisher": "Paradox Interactive",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/8b9bceaacd144199a662460cf9d1f5800947eea1/header_alt_assets_0_schinese.jpg?t=1790777411",
+      "steam_url": "https://store.steampowered.com/app/3493540",
+      "product_family_identity": "appid:3493540",
+      "product_family_appid": "3493540",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-30",
+          "peak": 30718
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 41675
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Transport Fever 3》让你经营一张跨越公路、铁路、海路和航线的运输网：送人送货能赚钱，空跑、堵车和维护费也会持续吃掉利润。",
+      "reference_frame": "玩过《Big Ambitions》的人会熟悉“店铺缺货，就要补仓储和配送”的经营问题；这里把供货路线放大到整张地图。你亲自铺轨、建站、安排车辆，让农场、工厂和城市接上网络，处理的是运力与转运，而非角色跑店、雇人管公司。",
+      "for_players": "喜欢盯着地图找堵点、算线路吞吐和成本，并愿意反复改造一张越来越复杂的网络，能在这里找到持续的经营题目。也可以调低经济压力，专心搭建自己想看的交通景观。",
+      "not_for_players": "如果更想亲自驾驶车辆、快速完成一关，或不喜欢为一条线路反复看数据、拆站重铺，长时间的规划和排障可能会磨掉兴致。",
+      "star_reason": "10 月 1 日本地生产快照记录到 41,675 人的当日观测峰值，比此前最高点增加约 36%；同批可靠评价为 2,740 条、69% 好评。9 月 29 日正式推出后的首发观察已成熟，模型第一名通过公开资格检查，今天摘星。峰值继续上行说明这两天仍有人进入，后续能否留住玩家还需继续观察。",
+      "core_loop": [
+        "看城市需要什么、货物从哪里来，选运输方式并把产地、车站和目的地连起来。",
+        "给线路配车、设装卸与换乘，观察货物积压、车辆排队和乘客等待，逐段疏通瓶颈。",
+        "用交付收入扩建路网，同时核算车辆维护和基建成本；城市需求增加后，再调整旧线路和新货链。"
+      ],
+      "content_length": 552
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-01T10:15:06+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 12,
+          "inspected_count": 20,
+          "top_views": 211061,
+          "search_url": "https://www.youtube.com/results?search_query=Transport%20Fever%203",
+          "sources": [
+            {
+              "title": "Transport Fever 3 - Launch Trailer",
+              "url": "https://www.youtube.com/watch?v=XQa1tqsIopA",
+              "published_on": "2026-09-30"
+            },
+            {
+              "title": "Transport Fever 3 How to Understand Supply and Demand (Tips and Tricks)",
+              "url": "https://www.youtube.com/watch?v=XYnKP-Z8mVg",
+              "published_on": "2026-10-01"
+            },
+            {
+              "title": "Overcoming Overwhelmed | One #5 | Transport Fever 3",
+              "url": "https://www.youtube.com/watch?v=qEh7n0dk05Q",
+              "published_on": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 16,
+          "inspected_count": 30,
+          "top_views": 17000,
+          "search_url": "https://search.bilibili.com/all?keyword=Transport%20Fever%203",
+          "sources": [
+            {
+              "title": "从马车到火车(2) 狂热运输 3 Transport Fever 3",
+              "url": "https://www.bilibili.com/video/BV1DKYN6JEpQ/",
+              "published_on": "2026-10-01"
+            },
+            {
+              "title": "[即将发售]狂热运输3：67个技巧，助您成为运输大资本家！| Transport Fever 3",
+              "url": "https://www.bilibili.com/video/BV1vsap6TEPq/",
+              "published_on": "2026-09-29"
+            },
+            {
+              "title": "【狂热运输3】巨大温带：先来看看有什么变化#01【 Transport Fever 3 】饼狐",
+              "url": "https://www.bilibili.com/video/BV1d1aZ6zEfq/",
+              "published_on": "2026-09-30"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 48.04,
+    "fact_summary": "Transport Fever 3 今日观测峰值 41,675，较过往最高峰值提升 +36%，被识别为「新作起量」。",
+    "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-29",
+      "current_release_date": "2026-09-29",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-01 17:50:25",
+      "current_peak": 41675,
+      "previous_peak": 30718,
+      "previous_record_peak": 30718,
+      "growth_rate": 0.3567,
+      "record_growth_rate": 0.3567,
+      "scoring_peak": 41675,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 25.95,
+      "raw_record_growth_score": 12.48,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 1.5098,
+      "growth_scale_crossing_component": 0.3167,
+      "record_growth_score": 12.48,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 38.43,
+      "event_adjusted_score": 38.43,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 48.04,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-10-01",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.25,
+      "base_score": 48.04,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 69.0,
+      "review_total": 2740,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 1756,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "休闲",
+        "模拟",
+        "策略"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-29",
+      "release_event_age_days": 2,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 1756,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-09-30",
+          "peak": 30718
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 41675
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3493540"
+      }
+    ],
+    "game": {
+      "slug": "transport-fever-3",
+      "appid": "3493540",
+      "name": "Transport Fever 3",
+      "name_cn": null,
+      "description": "更宏大、更深入、更动感的运输大亨养成游戏《狂热运输 3》强势回归。利用超过一个世纪以来不断发展的交通方式，打造改变世界格局的陆海空交通路线。设计并构建您的理想交通网络。",
+      "release_date": "2026-09-29",
+      "genres": [
+        "休闲",
+        "模拟",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "包含关卡编辑器",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 69.0,
+      "review_total": 2740,
+      "developer": "Urban Games",
+      "publisher": "Paradox Interactive",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/8b9bceaacd144199a662460cf9d1f5800947eea1/header_alt_assets_0_schinese.jpg?t=1790777411",
+      "steam_url": "https://store.steampowered.com/app/3493540",
+      "product_family_identity": "appid:3493540",
+      "product_family_appid": "3493540",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-30",
+          "peak": 30718
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 41675
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Transport Fever 3》让你经营一张跨越公路、铁路、海路和航线的运输网：送人送货能赚钱，空跑、堵车和维护费也会持续吃掉利润。",
+      "reference_frame": "玩过《Big Ambitions》的人会熟悉“店铺缺货，就要补仓储和配送”的经营问题；这里把供货路线放大到整张地图。你亲自铺轨、建站、安排车辆，让农场、工厂和城市接上网络，处理的是运力与转运，而非角色跑店、雇人管公司。",
+      "for_players": "喜欢盯着地图找堵点、算线路吞吐和成本，并愿意反复改造一张越来越复杂的网络，能在这里找到持续的经营题目。也可以调低经济压力，专心搭建自己想看的交通景观。",
+      "not_for_players": "如果更想亲自驾驶车辆、快速完成一关，或不喜欢为一条线路反复看数据、拆站重铺，长时间的规划和排障可能会磨掉兴致。",
+      "star_reason": "10 月 1 日本地生产快照记录到 41,675 人的当日观测峰值，比此前最高点增加约 36%；同批可靠评价为 2,740 条、69% 好评。9 月 29 日正式推出后的首发观察已成熟，模型第一名通过公开资格检查，今天摘星。峰值继续上行说明这两天仍有人进入，后续能否留住玩家还需继续观察。",
+      "core_loop": [
+        "看城市需要什么、货物从哪里来，选运输方式并把产地、车站和目的地连起来。",
+        "给线路配车、设装卸与换乘，观察货物积压、车辆排队和乘客等待，逐段疏通瓶颈。",
+        "用交付收入扩建路网，同时核算车辆维护和基建成本；城市需求增加后，再调整旧线路和新货链。"
+      ],
+      "content_length": 552
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-01T10:15:06+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 12,
+          "inspected_count": 20,
+          "top_views": 211061,
+          "search_url": "https://www.youtube.com/results?search_query=Transport%20Fever%203",
+          "sources": [
+            {
+              "title": "Transport Fever 3 - Launch Trailer",
+              "url": "https://www.youtube.com/watch?v=XQa1tqsIopA",
+              "published_on": "2026-09-30"
+            },
+            {
+              "title": "Transport Fever 3 How to Understand Supply and Demand (Tips and Tricks)",
+              "url": "https://www.youtube.com/watch?v=XYnKP-Z8mVg",
+              "published_on": "2026-10-01"
+            },
+            {
+              "title": "Overcoming Overwhelmed | One #5 | Transport Fever 3",
+              "url": "https://www.youtube.com/watch?v=qEh7n0dk05Q",
+              "published_on": "2026-10-01"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 16,
+          "inspected_count": 30,
+          "top_views": 17000,
+          "search_url": "https://search.bilibili.com/all?keyword=Transport%20Fever%203",
+          "sources": [
+            {
+              "title": "从马车到火车(2) 狂热运输 3 Transport Fever 3",
+              "url": "https://www.bilibili.com/video/BV1DKYN6JEpQ/",
+              "published_on": "2026-10-01"
+            },
+            {
+              "title": "[即将发售]狂热运输3：67个技巧，助您成为运输大资本家！| Transport Fever 3",
+              "url": "https://www.bilibili.com/video/BV1vsap6TEPq/",
+              "published_on": "2026-09-29"
+            },
+            {
+              "title": "【狂热运输3】巨大温带：先来看看有什么变化#01【 Transport Fever 3 】饼狐",
+              "url": "https://www.bilibili.com/video/BV1d1aZ6zEfq/",
+              "published_on": "2026-09-30"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
