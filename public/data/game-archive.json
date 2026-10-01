@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-01T18:18:51",
+  "generated_at": "2026-10-01T20:36:13",
   "games": [
     {
       "game": {
@@ -21,16 +21,18 @@
         "product_family_appid": "3493540",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "transport-fever-3"
+      ],
+      "article_title": "Transport Fever 3-把货都送到，才是城市的骨架",
+      "article_published_at": "2026-10-01",
       "star_dates": [
         "2026-10-01"
       ],
       "member_appids": [
         "3493540"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-10-01"
     },
     {
