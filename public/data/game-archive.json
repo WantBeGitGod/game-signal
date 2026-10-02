@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-01T20:38:08",
+  "generated_at": "2026-10-02T20:40:20",
   "games": [
     {
       "game": {
@@ -1526,16 +1526,18 @@
         "product_family_appid": "3561220",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "pass-the-fear"
+      ],
+      "article_title": "风暴怕死队-数值飞升，电脑先投降",
+      "article_published_at": "2026-10-02",
       "star_dates": [
         "2026-07-25"
       ],
       "member_appids": [
         "3561220"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-07-25"
     },
     {
