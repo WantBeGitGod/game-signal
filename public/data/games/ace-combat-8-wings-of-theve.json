@@ -1,0 +1,50 @@
+{
+  "slug": "ace-combat-8-wings-of-theve",
+  "appid": "2288340",
+  "name": "ACE COMBAT 8: WINGS OF THEVE",
+  "name_cn": null,
+  "description": "享受在空中自由自在翱翔的爽快感，依据自身判断将敌人接二连三击坠破的快感，打破艰难局面化成为英雄成就感的戏剧性飞行射击游戏。最高峰的天空‧大自然‧都市画面以及强大带入感的剧场表现，让玩家体验真正的王牌驾驶员故事。",
+  "release_date": "2026-10-01",
+  "genres": [
+    "动作"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "跨平台多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "应用内购买",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 云",
+    "可用 HDR",
+    "家庭共享"
+  ],
+  "review_score": "Mostly Positive",
+  "review_ratio": 76.0,
+  "review_total": 8932,
+  "developer": "Bandai Namco Aces Inc.",
+  "publisher": "Bandai Namco Entertainment Inc.",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1790908088",
+  "steam_url": "https://store.steampowered.com/app/2288340",
+  "product_family_identity": "appid:2288340",
+  "product_family_appid": "2288340",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-10-02",
+      "peak": 34345
+    },
+    {
+      "date": "2026-10-03",
+      "peak": 48743
+    }
+  ]
+}
