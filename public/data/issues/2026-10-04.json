@@ -1,0 +1,557 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-10-04",
+  "title": "10.04 今日之星",
+  "summary": "10 月 4 日特别补刊：采用北京时间 10 月 5 日 00:42 的 SteamDB 存档时点在线参评；未将其冒充当天 24 小时峰值。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 27.76,
+    "fact_summary": "Deskrawl: Idle ARPG 在本期采用的存档中时点在线为 41,956 人，以该在线观测值参评，综合评分 27.76 分；存档时间为北京时间 10 月 5 日 00:42，本期按 10 月 4 日特别补刊计入。",
+    "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-28",
+      "current_release_date": "2026-09-28",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-04",
+      "current_peak": 41956,
+      "previous_peak": 41868,
+      "previous_record_peak": 41868,
+      "growth_rate": 0.0021,
+      "record_growth_rate": 0.0021,
+      "scoring_peak": 41956,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 26.05,
+      "raw_record_growth_score": 0.07,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 2.8047,
+      "growth_scale_crossing_component": 0.3196,
+      "record_growth_score": 0.07,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 26.12,
+      "event_adjusted_score": 26.12,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 32.66,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-10-03",
+      "review_observation_age_days": 1,
+      "review_ratio_carried_forward": true,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0625,
+      "base_score": 27.76,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 69.0,
+      "review_total": 1330,
+      "days_seen": 6,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 6,
+      "steam_release_age_days": 6,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 369,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-28",
+      "release_event_age_days": 6,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 369,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-09-29",
+          "peak": 22451
+        },
+        {
+          "date": "2026-09-30",
+          "peak": 32234
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 35991
+        },
+        {
+          "date": "2026-10-02",
+          "peak": 38294
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 41868
+        },
+        {
+          "date": "2026-10-04",
+          "peak": 41956
+        }
+      ],
+      "recovery_observation_kind": "players_now",
+      "recovery_source_captured_at": "2026-10-04T16:42:28Z",
+      "recovery_reporting_date": "2026-10-04",
+      "recovery_date_assignment": "owner_authorized_single_issue",
+      "recovery_metric_note": "归档时点在线用作本期评分输入，不是10月4日的24小时峰值；实际存档时间为10月5日00:42（UTC+8）。"
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4623570"
+      },
+      {
+        "title": "SteamDB Trending 存档（10月5日00:42；10月4日特别补刊）",
+        "url": "https://web.archive.org/web/20261004164228/https://steamdb.info/stats/trendingfollowers/"
+      }
+    ],
+    "game": {
+      "slug": "deskrawl-idle-arpg",
+      "appid": "4623570",
+      "name": "Deskrawl: Idle ARPG",
+      "name_cn": null,
+      "description": "受《暗黑破坏神》系列启发，以放置玩法还原经典暗黑式刷宝体验，无论工作还是休闲，随时挂机下本。选择四种不同职业，探索两片大陆三大主城，不断刷取极品装备、积累财富、构筑Build，将角色打造成传奇英雄。",
+      "release_date": "2026-09-28",
+      "genres": [
+        "动作",
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "视角舒适度",
+        "自定义音量控制",
+        "可调整难度",
+        "可以仅用鼠标",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "随时保存",
+        "Steam 云",
+        "Steam 排行榜",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 69.0,
+      "review_total": 1330,
+      "developer": "First Day Games",
+      "publisher": "First Day Games, Gamersky Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623570/ce2d7987b39a72e550ef2801db198b5ddc217a50/header_schinese.jpg?t=1790673311",
+      "steam_url": "https://store.steampowered.com/app/4623570",
+      "product_family_identity": "appid:4623570",
+      "product_family_appid": "4623570",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-29",
+          "peak": 22451
+        },
+        {
+          "date": "2026-09-30",
+          "peak": 32234
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 35991
+        },
+        {
+          "date": "2026-10-02",
+          "peak": 38294
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 41868
+        },
+        {
+          "date": "2026-10-04",
+          "peak": 41956
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《桌面破坏神：挂机ARPG》让角色在桌面底部自动刷怪，你隔一会儿回来筛装备、换技能，再看这套配置能走多远。",
+      "reference_frame": "玩过《暗黑破坏神 II》的人会熟悉“刷怪掉装备、找词条补构筑、再挑战更难敌人”的循环。这里把走位和施法交给自动战斗，主要参与变成判断掉落和调整配置；不能指望靠临场操作救回一套打不过的 Build。",
+      "for_players": "适合喜欢随机掉落、配装和看效率变化，又想把游戏放在工作或浏览间隙的人。短暂回访时，最好能找到一件值得换的装备，或看懂一个配置改动的效果。",
+      "not_for_players": "如果你更在意亲自走位、放技能和战斗手感，自动化会省掉你最想玩的部分；不喜欢重复刷取和清理装备的人，也可能觉得回访只是整理仓库。",
+      "star_reason": "本期为存档补刊，采用北京时间 10 月 5 日 00:42 的存档作为 10 月 4 日参评依据：时点在线 41,956 人，并非当天 24 小时峰值。评价沿用 10 月 3 日可靠观测：1,330 条、69% 好评。计入既有摘星扣分后仍以 27.76 分排第一，通过资格检查，继 9 月 30 日后第二次摘星。",
+      "core_loop": [
+        "选职业、安排装备和技能，让角色先在能应付的区域自动刷取。",
+        "回来比较新掉落，补伤害或生存缺口；捕获的仆从也能帮助运输或强化战斗。",
+        "把收益投入角色和城镇服务，再测试更高难度；卡住就继续刷装、调整搭配。"
+      ],
+      "content_length": 506
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-04T20:26:50+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 8,
+          "inspected_count": 19,
+          "top_views": 12017,
+          "search_url": "https://www.youtube.com/results?search_query=Deskrawl%3A%20Idle%20ARPG",
+          "sources": [
+            {
+              "title": "刷到獵人畢業神聖武器！開三孔！強化＋１０！｜《桌面破壞神：掛機ARPG》 Deskrawl: Idle ARPG",
+              "url": "https://www.youtube.com/watch?v=2s49YvOw1fU",
+              "published_on": "2026-10-03"
+            },
+            {
+              "title": "How to OP speed farm in Deskrawl: Idle ARPG",
+              "url": "https://www.youtube.com/watch?v=PBMfL5nHkgE",
+              "published_on": "2026-09-29"
+            },
+            {
+              "title": "桌面破壞神 2天上70等 打通最高難度 細節資訊帶你看! | Deskrawl: Idle ARPG",
+              "url": "https://www.youtube.com/watch?v=LhGbQGIpXcg",
+              "published_on": "2026-10-04"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 0,
+          "inspected_count": 30,
+          "top_views": null,
+          "search_url": "https://search.bilibili.com/all?keyword=Deskrawl%3A%20Idle%20ARPG",
+          "sources": []
+        }
+      ],
+      "controversies": []
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 27.76,
+    "fact_summary": "Deskrawl: Idle ARPG 在本期采用的存档中时点在线为 41,956 人，以该在线观测值参评，综合评分 27.76 分；存档时间为北京时间 10 月 5 日 00:42，本期按 10 月 4 日特别补刊计入。",
+    "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-28",
+      "current_release_date": "2026-09-28",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-04",
+      "current_peak": 41956,
+      "previous_peak": 41868,
+      "previous_record_peak": 41868,
+      "growth_rate": 0.0021,
+      "record_growth_rate": 0.0021,
+      "scoring_peak": 41956,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 26.05,
+      "raw_record_growth_score": 0.07,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 2.8047,
+      "growth_scale_crossing_component": 0.3196,
+      "record_growth_score": 0.07,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 26.12,
+      "event_adjusted_score": 26.12,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 32.66,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-10-03",
+      "review_observation_age_days": 1,
+      "review_ratio_carried_forward": true,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0625,
+      "base_score": 27.76,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 69.0,
+      "review_total": 1330,
+      "days_seen": 6,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 6,
+      "steam_release_age_days": 6,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 369,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-28",
+      "release_event_age_days": 6,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 369,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-09-29",
+          "peak": 22451
+        },
+        {
+          "date": "2026-09-30",
+          "peak": 32234
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 35991
+        },
+        {
+          "date": "2026-10-02",
+          "peak": 38294
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 41868
+        },
+        {
+          "date": "2026-10-04",
+          "peak": 41956
+        }
+      ],
+      "recovery_observation_kind": "players_now",
+      "recovery_source_captured_at": "2026-10-04T16:42:28Z",
+      "recovery_reporting_date": "2026-10-04",
+      "recovery_date_assignment": "owner_authorized_single_issue",
+      "recovery_metric_note": "归档时点在线用作本期评分输入，不是10月4日的24小时峰值；实际存档时间为10月5日00:42（UTC+8）。"
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4623570"
+      },
+      {
+        "title": "SteamDB Trending 存档（10月5日00:42；10月4日特别补刊）",
+        "url": "https://web.archive.org/web/20261004164228/https://steamdb.info/stats/trendingfollowers/"
+      }
+    ],
+    "game": {
+      "slug": "deskrawl-idle-arpg",
+      "appid": "4623570",
+      "name": "Deskrawl: Idle ARPG",
+      "name_cn": null,
+      "description": "受《暗黑破坏神》系列启发，以放置玩法还原经典暗黑式刷宝体验，无论工作还是休闲，随时挂机下本。选择四种不同职业，探索两片大陆三大主城，不断刷取极品装备、积累财富、构筑Build，将角色打造成传奇英雄。",
+      "release_date": "2026-09-28",
+      "genres": [
+        "动作",
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "视角舒适度",
+        "自定义音量控制",
+        "可调整难度",
+        "可以仅用鼠标",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "随时保存",
+        "Steam 云",
+        "Steam 排行榜",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 69.0,
+      "review_total": 1330,
+      "developer": "First Day Games",
+      "publisher": "First Day Games, Gamersky Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623570/ce2d7987b39a72e550ef2801db198b5ddc217a50/header_schinese.jpg?t=1790673311",
+      "steam_url": "https://store.steampowered.com/app/4623570",
+      "product_family_identity": "appid:4623570",
+      "product_family_appid": "4623570",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-29",
+          "peak": 22451
+        },
+        {
+          "date": "2026-09-30",
+          "peak": 32234
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 35991
+        },
+        {
+          "date": "2026-10-02",
+          "peak": 38294
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 41868
+        },
+        {
+          "date": "2026-10-04",
+          "peak": 41956
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《桌面破坏神：挂机ARPG》让角色在桌面底部自动刷怪，你隔一会儿回来筛装备、换技能，再看这套配置能走多远。",
+      "reference_frame": "玩过《暗黑破坏神 II》的人会熟悉“刷怪掉装备、找词条补构筑、再挑战更难敌人”的循环。这里把走位和施法交给自动战斗，主要参与变成判断掉落和调整配置；不能指望靠临场操作救回一套打不过的 Build。",
+      "for_players": "适合喜欢随机掉落、配装和看效率变化，又想把游戏放在工作或浏览间隙的人。短暂回访时，最好能找到一件值得换的装备，或看懂一个配置改动的效果。",
+      "not_for_players": "如果你更在意亲自走位、放技能和战斗手感，自动化会省掉你最想玩的部分；不喜欢重复刷取和清理装备的人，也可能觉得回访只是整理仓库。",
+      "star_reason": "本期为存档补刊，采用北京时间 10 月 5 日 00:42 的存档作为 10 月 4 日参评依据：时点在线 41,956 人，并非当天 24 小时峰值。评价沿用 10 月 3 日可靠观测：1,330 条、69% 好评。计入既有摘星扣分后仍以 27.76 分排第一，通过资格检查，继 9 月 30 日后第二次摘星。",
+      "core_loop": [
+        "选职业、安排装备和技能，让角色先在能应付的区域自动刷取。",
+        "回来比较新掉落，补伤害或生存缺口；捕获的仆从也能帮助运输或强化战斗。",
+        "把收益投入角色和城镇服务，再测试更高难度；卡住就继续刷装、调整搭配。"
+      ],
+      "content_length": 506
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-04T20:26:50+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 8,
+          "inspected_count": 19,
+          "top_views": 12017,
+          "search_url": "https://www.youtube.com/results?search_query=Deskrawl%3A%20Idle%20ARPG",
+          "sources": [
+            {
+              "title": "刷到獵人畢業神聖武器！開三孔！強化＋１０！｜《桌面破壞神：掛機ARPG》 Deskrawl: Idle ARPG",
+              "url": "https://www.youtube.com/watch?v=2s49YvOw1fU",
+              "published_on": "2026-10-03"
+            },
+            {
+              "title": "How to OP speed farm in Deskrawl: Idle ARPG",
+              "url": "https://www.youtube.com/watch?v=PBMfL5nHkgE",
+              "published_on": "2026-09-29"
+            },
+            {
+              "title": "桌面破壞神 2天上70等 打通最高難度 細節資訊帶你看! | Deskrawl: Idle ARPG",
+              "url": "https://www.youtube.com/watch?v=LhGbQGIpXcg",
+              "published_on": "2026-10-04"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 0,
+          "inspected_count": 30,
+          "top_views": null,
+          "search_url": "https://search.bilibili.com/all?keyword=Deskrawl%3A%20Idle%20ARPG",
+          "sources": []
+        }
+      ],
+      "controversies": []
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

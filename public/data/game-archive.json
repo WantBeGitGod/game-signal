@@ -1,7 +1,41 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-04T00:59:06",
+  "generated_at": "2026-10-05T04:28:44",
   "games": [
+    {
+      "game": {
+        "slug": "deskrawl-idle-arpg",
+        "appid": "4623570",
+        "name": "Deskrawl: Idle ARPG",
+        "name_cn": null,
+        "description": "受《暗黑破坏神》系列启发，以放置玩法还原经典暗黑式刷宝体验，无论工作还是休闲，随时挂机下本。选择四种不同职业，探索两片大陆三大主城，不断刷取极品装备、积累财富、构筑Build，将角色打造成传奇英雄。",
+        "genres": [
+          "动作",
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演"
+        ],
+        "developer": "First Day Games",
+        "publisher": "First Day Games, Gamersky Games",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623570/ce2d7987b39a72e550ef2801db198b5ddc217a50/header_schinese.jpg?t=1790673311",
+        "product_family_identity": "appid:4623570",
+        "product_family_appid": "4623570",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-10-04",
+        "2026-09-30"
+      ],
+      "member_appids": [
+        "4623570"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-10-04"
+    },
     {
       "game": {
         "slug": "ace-combat-8-wings-of-theve",
@@ -97,39 +131,6 @@
       ],
       "article_count": 1,
       "latest_star_date": "2026-10-01"
-    },
-    {
-      "game": {
-        "slug": "deskrawl-idle-arpg",
-        "appid": "4623570",
-        "name": "Deskrawl: Idle ARPG",
-        "name_cn": null,
-        "description": "受《暗黑破坏神》系列启发，以放置玩法还原经典暗黑式刷宝体验，无论工作还是休闲，随时挂机下本。选择四种不同职业，探索两片大陆三大主城，不断刷取极品装备、积累财富、构筑Build，将角色打造成传奇英雄。",
-        "genres": [
-          "动作",
-          "冒险",
-          "休闲",
-          "独立",
-          "角色扮演"
-        ],
-        "developer": "First Day Games",
-        "publisher": "First Day Games, Gamersky Games",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623570/ce2d7987b39a72e550ef2801db198b5ddc217a50/header_schinese.jpg?t=1790673311",
-        "product_family_identity": "appid:4623570",
-        "product_family_appid": "4623570",
-        "product_family_role": "full"
-      },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
-      "star_dates": [
-        "2026-09-30"
-      ],
-      "member_appids": [
-        "4623570"
-      ],
-      "article_count": 0,
-      "latest_star_date": "2026-09-30"
     },
     {
       "game": {

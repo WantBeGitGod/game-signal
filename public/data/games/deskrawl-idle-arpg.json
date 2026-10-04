@@ -26,9 +26,9 @@
     "Steam 排行榜",
     "家庭共享"
   ],
-  "review_score": "Mostly Positive",
-  "review_ratio": 75.0,
-  "review_total": 690,
+  "review_score": "Mixed",
+  "review_ratio": 69.0,
+  "review_total": 1330,
   "developer": "First Day Games",
   "publisher": "First Day Games, Gamersky Games",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623570/ce2d7987b39a72e550ef2801db198b5ddc217a50/header_schinese.jpg?t=1790673311",
@@ -44,6 +44,22 @@
     {
       "date": "2026-09-30",
       "peak": 32234
+    },
+    {
+      "date": "2026-10-01",
+      "peak": 35991
+    },
+    {
+      "date": "2026-10-02",
+      "peak": 38294
+    },
+    {
+      "date": "2026-10-03",
+      "peak": 41868
+    },
+    {
+      "date": "2026-10-04",
+      "peak": 41956
     }
   ]
 }
