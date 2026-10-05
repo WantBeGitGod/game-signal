@@ -10,6 +10,7 @@
         <a v-if="starSignal?.game.steam_url" :href="starSignal.game.steam_url" target="_blank" rel="noopener noreferrer" class="text-link">前往 Steam <ArrowUpRight :size="16" /></a>
       </div>
     </section>
+    <HomeNews />
     <section class="home-archive">
       <div class="section-heading"><div><p class="eyebrow">THE STAR ARCHIVE</p><h2>还有这些，值得一看。</h2></div><NuxtLink to="/issues" class="archive-button">浏览全部往日之星 <ArrowRight :size="20" /></NuxtLink></div>
       <div class="home-star-grid">

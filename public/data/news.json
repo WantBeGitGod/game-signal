@@ -1,0 +1,1461 @@
+{
+  "schema_version": "1.0",
+  "generated_at": "2026-10-05T15:22:15.897337+00:00",
+  "events": [
+    {
+      "id": 41,
+      "title": "《控制：Resonant》后续计划：连续二周目与拍照模式",
+      "summary": "Eurogamer 9 月 25 日转述 Remedy 的更新计划：10 月加入 New Game++，允许连续开启二周目而不清空已有进度；11 月计划加入拍照模式。这是公布的计划，现有证据尚未确认两项功能已经上线。",
+      "topics": [
+        "控制：Resonant",
+        "Remedy Entertainment"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-05T15:14:28.857302+00:00",
+      "updated_at": "2026-10-05T15:21:24.217251+00:00",
+      "content_updated_at": "2026-10-05T15:14:28.857302+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.eurogamer.net/control-resonant-post-launch-plan-new-game-plus",
+          "title": "Control Resonant's post-launch plan includes a Photo Mode and New Game Plus Plus coming next month: \"Do 665 runs if you want!\"",
+          "published_at": "2026-09-25T16:58:01+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 41,
+          "text": "Eurogamer 9 月 25 日转述 Remedy 的更新计划：10 月加入 New Game++，允许连续开启二周目而不清空已有进度；11 月计划加入拍照模式。这是公布的计划，现有证据尚未确认两项功能已经上线。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.eurogamer.net/control-resonant-post-launch-plan-new-game-plus",
+          "action": "create_event",
+          "recorded_at": "2026-10-05T15:14:28.858308+00:00",
+          "source_published_at": "2026-09-25T16:58:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "《007 First Light》免费更新：二周目、更高难度与拍照",
+      "summary": "据 Eurogamer 10 月 1 日报道，Extended Operations 免费更新加入 New Game Plus、通关后解锁的 00 难度、拍照模式和新的 TacSim 挑战。更高难度会限制道具并收紧招架时机，适合通关后还想继续挑战的玩家。",
+      "topics": [
+        "007 First Light",
+        "IO Interactive"
+      ],
+      "kind": "dlc",
+      "created_at": "2026-10-05T15:14:25.351586+00:00",
+      "updated_at": "2026-10-05T15:21:24.038176+00:00",
+      "content_updated_at": "2026-10-05T15:14:25.351586+00:00",
+      "prominence": "featured",
+      "recommendation": "通关后想再玩一轮，这次更新提供了新目标；只是想拍照，也有理由回来看。",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc",
+          "title": "007 First Light gets free new DLC today, adding New Game Plus and Photo modes, new TacSim missions and more",
+          "published_at": "2026-10-01T14:28:56+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 40,
+          "text": "据 Eurogamer 10 月 1 日报道，Extended Operations 免费更新加入 New Game Plus、通关后解锁的 00 难度、拍照模式和新的 TacSim 挑战。更高难度会限制道具并收紧招架时机，适合通关后还想继续挑战的玩家。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.eurogamer.net/007-james-bond-first-light-free-dlc",
+          "action": "create_event",
+          "recorded_at": "2026-10-05T15:14:25.352595+00:00",
+          "source_published_at": "2026-10-01T14:28:56+00:00"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "《战争机器：E-Day》：战役评价先到，多人部分仍待测试",
+      "summary": "Eurogamer 10 月 1 日先发表战役评测，肯定演出、侧翼战术与战斗节奏，也批评队友命令过多、部分重装敌人的战斗令人挫败。作者尚未测试多人内容，因此暂不评分；不能当作完整游戏的最终评价。",
+      "topics": [
+        "Gears of War: E-Day",
+        "The Coalition",
+        "Xbox",
+        "Eurogamer"
+      ],
+      "kind": "review",
+      "created_at": "2026-10-05T15:11:17.667983+00:00",
+      "updated_at": "2026-10-05T15:21:23.873582+00:00",
+      "content_updated_at": "2026-10-05T15:11:17.667983+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.eurogamer.net/gears-of-war-eday-campaign-review",
+          "title": "Gears of War E-Day campaign review - turns out you can teach old Cogs new tricks",
+          "published_at": "2026-10-01T13:00:33+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 38,
+          "text": "Eurogamer 10 月 1 日先发表战役评测，肯定演出、侧翼战术与战斗节奏，也批评队友命令过多、部分重装敌人的战斗令人挫败。作者尚未测试多人内容，因此暂不评分；不能当作完整游戏的最终评价。",
+          "evidence_kind": "review",
+          "source_url": "https://www.eurogamer.net/gears-of-war-eday-campaign-review",
+          "action": "create_event",
+          "recorded_at": "2026-10-05T15:11:17.668977+00:00",
+          "source_published_at": "2026-10-01T13:00:33+00:00"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "《星球大战：银河赛车》：Eurogamer 看好驾驶与战役组合",
+      "summary": "Eurogamer 10 月 2 日的评测肯定《Star Wars: Galactic Racer》的驾驶手感与 Roguelite 战役组合，尤其欣赏双重加速带来的风险选择。该文没有给出数字评分；这里记录的是这篇评测的观点。",
+      "topics": [
+        "Star Wars: Galactic Racer",
+        "Fuse Games",
+        "Secret Mode",
+        "Eurogamer"
+      ],
+      "kind": "review",
+      "created_at": "2026-10-05T15:11:12.516189+00:00",
+      "updated_at": "2026-10-05T15:21:23.707819+00:00",
+      "content_updated_at": "2026-10-05T15:11:12.516189+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
+          "title": "Star Wars: Galactic Racer review",
+          "published_at": "2026-10-02T13:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 37,
+          "text": "Eurogamer 10 月 2 日的评测肯定《Star Wars: Galactic Racer》的驾驶手感与 Roguelite 战役组合，尤其欣赏双重加速带来的风险选择。该文没有给出数字评分；这里记录的是这篇评测的观点。",
+          "evidence_kind": "review",
+          "source_url": "https://www.eurogamer.net/star-wars-galactic-racer-review",
+          "action": "create_event",
+          "recorded_at": "2026-10-05T15:11:12.517195+00:00",
+          "source_published_at": "2026-10-02T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "《漫威金刚狼》：Destructoid 8/10，爽快与重复并存",
+      "summary": "Destructoid 9 月 10 日在 PS5 Pro 上评测，给出 8/10。作者认可战斗演出、角色表演与画面表现，但认为招式变化有限、部分挑战重复，也遇到移动卡住的问题。这是当时评测版本的体验，不代表后续补丁状态。",
+      "topics": [
+        "漫威金刚狼",
+        "Insomniac Games",
+        "Destructoid"
+      ],
+      "kind": "review",
+      "created_at": "2026-10-05T15:09:54.988220+00:00",
+      "updated_at": "2026-10-05T15:21:23.541316+00:00",
+      "content_updated_at": "2026-10-05T15:09:54.988220+00:00",
+      "prominence": "featured",
+      "recommendation": "想体验金刚狼式的近身动作值得看看；在意战斗变化和操作流畅度，先留意评测中的缺点。",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.destructoid.com/reviews/marvels-wolverine-review/",
+          "title": "Marvel’s Wolverine review – Still the best there is at what he does",
+          "published_at": "2026-09-10T15:00:05+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 36,
+          "text": "Destructoid 9 月 10 日在 PS5 Pro 上评测，给出 8/10。作者认可战斗演出、角色表演与画面表现，但认为招式变化有限、部分挑战重复，也遇到移动卡住的问题。这是当时评测版本的体验，不代表后续补丁状态。",
+          "evidence_kind": "review",
+          "source_url": "https://www.destructoid.com/reviews/marvels-wolverine-review/",
+          "action": "create_event",
+          "recorded_at": "2026-10-05T15:09:54.989213+00:00",
+          "source_published_at": "2026-09-10T15:00:05+00:00"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "《瘟疫传说：Resonance》：Windows Central 4.5/5",
+      "summary": "Windows Central 8 月 26 日的 PC 版评测给出 4.5/5，肯定前传故事、战斗和双时间线叙事，也指出部分敌人出现不合理、部分谜题偏简单。作者使用的是发行方提供的评测版本，明确未测试 Xbox 版。",
+      "topics": [
+        "瘟疫传说：Resonance",
+        "Asobo Studio",
+        "Focus Entertainment",
+        "Windows Central"
+      ],
+      "kind": "review",
+      "created_at": "2026-10-05T15:09:50.760868+00:00",
+      "updated_at": "2026-10-05T15:21:23.396960+00:00",
+      "content_updated_at": "2026-10-05T15:09:50.760868+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.windowscentral.com/gaming/resonance-a-plague-tale-legacy-review",
+          "title": "REVIEW: Resonance: A Plague Tale Legacy is the spin-off that's better than the originals",
+          "published_at": "2026-08-26T16:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 35,
+          "text": "Windows Central 8 月 26 日的 PC 版评测给出 4.5/5，肯定前传故事、战斗和双时间线叙事，也指出部分敌人出现不合理、部分谜题偏简单。作者使用的是发行方提供的评测版本，明确未测试 Xbox 版。",
+          "evidence_kind": "review",
+          "source_url": "https://www.windowscentral.com/gaming/resonance-a-plague-tale-legacy-review",
+          "action": "create_event",
+          "recorded_at": "2026-10-05T15:09:50.761870+00:00",
+          "source_published_at": "2026-08-26T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "《控制：Resonant》：PC Gamer 76/100，世界出色，战斗拖后腿",
+      "summary": "PC Gamer 的 9 月 18 日 PC 版评测给出 76/100。作者肯定怪诞场景、探索与角色表演，但认为重复处决、敌人血量和成长节奏让战斗变得漫长。这是一家媒体的评价，适合与其他评测对照阅读。",
+      "topics": [
+        "控制：Resonant",
+        "Remedy Entertainment",
+        "PC Gamer"
+      ],
+      "kind": "review",
+      "created_at": "2026-10-05T15:09:47.146806+00:00",
+      "updated_at": "2026-10-05T15:21:23.198428+00:00",
+      "content_updated_at": "2026-10-05T15:09:47.146806+00:00",
+      "prominence": "featured",
+      "recommendation": "喜欢 Remedy 的世界和探索，可以重点看；若更看重近战手感，先读评测中的战斗问题。",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.pcgamer.com/games/action/control-resonant-review/",
+          "title": "Control Resonant review",
+          "published_at": "2026-09-18T13:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 34,
+          "text": "PC Gamer 的 9 月 18 日 PC 版评测给出 76/100。作者肯定怪诞场景、探索与角色表演，但认为重复处决、敌人血量和成长节奏让战斗变得漫长。这是一家媒体的评价，适合与其他评测对照阅读。",
+          "evidence_kind": "review",
+          "source_url": "https://www.pcgamer.com/games/action/control-resonant-review/",
+          "action": "create_event",
+          "recorded_at": "2026-10-05T15:09:47.147807+00:00",
+          "source_published_at": "2026-09-18T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "火焰纹章：Fortune’s Weave · 官方发售档期",
+      "summary": "任天堂美国商店列出《Fire Emblem: Fortune’s Weave》Switch 2 实体版发售日期为 2026 年 9 月 17 日；页面标注开发商 Intelligent Systems、发行商 Nintendo。",
+      "topics": [
+        "火焰纹章：Fortune’s Weave",
+        "Intelligent Systems",
+        "Nintendo"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T20:38:28.319345+00:00",
+      "updated_at": "2026-10-04T20:38:28.557797+00:00",
+      "content_updated_at": "2026-10-04T20:38:28.319345+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-125688/",
+          "title": "Fire Emblem: Fortune's Weave – Nintendo Switch 2 (Physical Copy) - Nintendo Official Site",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 33,
+          "text": "任天堂美国商店列出《Fire Emblem: Fortune’s Weave》Switch 2 实体版发售日期为 2026 年 9 月 17 日；页面标注开发商 Intelligent Systems、发行商 Nintendo。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-125688/",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T20:38:28.328293+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "寂静岭：Townfall · 官方发售档期",
+      "summary": "KONAMI 官方公告确认《SILENT HILL: Townfall》于 2026 年 9 月 24 日在 PS5 和 PC 发售，并对新西兰日期作出例外说明。游戏由 Screen Burn Interactive 开发，KONAMI 与 Annapurna Interactive 联合发行。",
+      "topics": [
+        "寂静岭：Townfall",
+        "Screen Burn Interactive",
+        "KONAMI",
+        "Annapurna Interactive"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T20:38:27.483033+00:00",
+      "updated_at": "2026-10-04T20:38:27.659245+00:00",
+      "content_updated_at": "2026-10-04T20:38:27.483033+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.konami.com/games/us/en/topics/3265/",
+          "title": "SILENT HILL: Townfall, An Immersive First-Person Horror, Releases September 24; Pre-orders Available Now | Konami Digital Entertainment,Inc.",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 32,
+          "text": "KONAMI 官方公告确认《SILENT HILL: Townfall》于 2026 年 9 月 24 日在 PS5 和 PC 发售，并对新西兰日期作出例外说明。游戏由 Screen Burn Interactive 开发，KONAMI 与 Annapurna Interactive 联合发行。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://www.konami.com/games/us/en/topics/3265/",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T20:38:27.484029+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "控制：Resonant · 官方发售档期",
+      "summary": "Remedy 官方公告确认《CONTROL Resonant》于 2026 年 9 月 24 日在 PS5、Xbox Series X|S 和 PC 发售；Mac 版本另有安排，不套用该日期。",
+      "topics": [
+        "控制：Resonant",
+        "Remedy Entertainment"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T20:38:26.624095+00:00",
+      "updated_at": "2026-10-04T20:38:26.897522+00:00",
+      "content_updated_at": "2026-10-04T20:38:26.624095+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.remedygames.com/article/control-resonant-launches-worldwide-on-september-24",
+          "title": "CONTROL Resonant Launches Worldwide on September 24",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 31,
+          "text": "Remedy 官方公告确认《CONTROL Resonant》于 2026 年 9 月 24 日在 PS5、Xbox Series X|S 和 PC 发售；Mac 版本另有安排，不套用该日期。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://www.remedygames.com/article/control-resonant-launches-worldwide-on-september-24",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T20:38:26.625149+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "鬼武者：剑之道 · 官方发售档期",
+      "summary": "Capcom 官方产品资料列出《鬼武者：剑之道》发售日期为 2026 年 9 月 4 日，平台为 PS5、Xbox Series X|S、Switch 2 和 PC。",
+      "topics": [
+        "鬼武者：剑之道",
+        "Capcom"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T20:38:25.862151+00:00",
+      "updated_at": "2026-10-04T20:38:26.062546+00:00",
+      "content_updated_at": "2026-10-04T20:38:25.862151+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.capcom.co.jp/ir/english/news/html/e260907.html",
+          "title": "Onimusha: Way of the Sword Sells Over 1 Million Units on Launch Day!– Total series sales surpass 10 million units driven by this first new title in 20 years – | Press Release | CAPCOM",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 30,
+          "text": "Capcom 官方产品资料列出《鬼武者：剑之道》发售日期为 2026 年 9 月 4 日，平台为 PS5、Xbox Series X|S、Switch 2 和 PC。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://www.capcom.co.jp/ir/english/news/html/e260907.html",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T20:38:25.863150+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "黎明行者之血 · 官方发售档期",
+      "summary": "Bandai Namco 于 2026 年 9 月 3 日发布《黎明行者之血》现已发售公告，确认 PC、PS5 和 Xbox Series X|S 版本已经推出；开发团队为 Rebel Wolves。",
+      "topics": [
+        "黎明行者之血",
+        "Rebel Wolves",
+        "Bandai Namco Entertainment"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T20:38:25.036934+00:00",
+      "updated_at": "2026-10-04T20:38:25.236823+00:00",
+      "content_updated_at": "2026-10-04T20:38:25.036934+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.bandainamcoent.com/news/the-blood-of-dawnwalker-is-now-available",
+          "title": "Cross the Gates of Vale Sangora and Let the Saga Begin – The Blood of Dawnwalker is Now Available on PC, PlayStation 5 and Xbox Series X|S | Bandai Namco Entertainment America Inc.",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 29,
+          "text": "Bandai Namco 于 2026 年 9 月 3 日发布《黎明行者之血》现已发售公告，确认 PC、PS5 和 Xbox Series X|S 版本已经推出；开发团队为 Rebel Wolves。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://www.bandainamcoent.com/news/the-blood-of-dawnwalker-is-now-available",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T20:38:25.037948+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "瘟疫传说：Resonance · 官方发售档期",
+      "summary": "Focus Entertainment 与 Asobo Studio 官方公告确认《Resonance: A Plague Tale Legacy》于 2026 年 8 月 27 日在 PS5、Xbox Series X|S 和 PC 发售。",
+      "topics": [
+        "瘟疫传说：Resonance",
+        "Asobo Studio",
+        "Focus Entertainment"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T20:38:22.174507+00:00",
+      "updated_at": "2026-10-04T20:38:23.116220+00:00",
+      "content_updated_at": "2026-10-04T20:38:22.174507+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.focus-entmt.com/en/news/resonance-a-plague-tale-legacy-releases-august-27",
+          "title": "Resonance: A Plague Tale Legacy: Resonance: A Plague Tale Legacy Releases August 27 - Focus Entertainment",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 28,
+          "text": "Focus Entertainment 与 Asobo Studio 官方公告确认《Resonance: A Plague Tale Legacy》于 2026 年 8 月 27 日在 PS5、Xbox Series X|S 和 PC 发售。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://www.focus-entmt.com/en/news/resonance-a-plague-tale-legacy-releases-august-27",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T20:38:22.176738+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "刺客信条：黑旗 Resynced · 官方发售档期",
+      "summary": "Ubisoft 官方公告确认《刺客信条：黑旗 Resynced》于 2026 年 7 月 9 日在 PS5、Xbox Series X|S 和 PC 发售；项目由 Ubisoft Singapore 牵头开发。",
+      "topics": [
+        "刺客信条：黑旗 Resynced",
+        "Ubisoft Singapore",
+        "Ubisoft"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T20:38:21.425291+00:00",
+      "updated_at": "2026-10-04T20:38:21.623068+00:00",
+      "content_updated_at": "2026-10-04T20:38:21.425291+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://news.ubisoft.com/en-us/article/4WSO7FBW76v05UxZSqG5L8/assassins-creed-black-flag-resynced-out-july-9-everything-you-need-to-know",
+          "title": "Assassin's Creed Black Flag Resynced Out July 9: Everything You Need to Know",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 27,
+          "text": "Ubisoft 官方公告确认《刺客信条：黑旗 Resynced》于 2026 年 7 月 9 日在 PS5、Xbox Series X|S 和 PC 发售；项目由 Ubisoft Singapore 牵头开发。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://news.ubisoft.com/en-us/article/4WSO7FBW76v05UxZSqG5L8/assassins-creed-black-flag-resynced-out-july-9-everything-you-need-to-know",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T20:38:21.426210+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "极限竞速：地平线6 · 官方发售档期",
+      "summary": "《极限竞速：地平线6》官方公告确认 Xbox Series X|S 和 PC 版于 2026 年 5 月 19 日发售。该日期不用于 PS5 版，也不用于高级版抢先体验。",
+      "topics": [
+        "极限竞速：地平线6",
+        "Playground Games",
+        "Xbox Game Studios"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T20:38:20.542481+00:00",
+      "updated_at": "2026-10-04T20:38:20.779843+00:00",
+      "content_updated_at": "2026-10-04T20:38:20.542481+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://forza.net/news/forza-horizon-6-coming-may-2026",
+          "title": "Forza Horizon 6 Releases May 19 on Xbox Series X|S and PC",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 26,
+          "text": "《极限竞速：地平线6》官方公告确认 Xbox Series X|S 和 PC 版于 2026 年 5 月 19 日发售。该日期不用于 PS5 版，也不用于高级版抢先体验。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://forza.net/news/forza-horizon-6-coming-may-2026",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T20:38:20.555528+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "天外世界2 · 官方发售档期",
+      "summary": "Obsidian 官方 FAQ 确认《天外世界2》于 2025 年 10 月 29 日发售，所列平台包括 Xbox Series X|S、PC 和 PS5。",
+      "topics": [
+        "天外世界2",
+        "Obsidian Entertainment",
+        "Xbox Game Studios"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T20:38:19.726409+00:00",
+      "updated_at": "2026-10-04T20:38:19.905225+00:00",
+      "content_updated_at": "2026-10-04T20:38:19.726409+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://support.obsidian.net/article/177-faq",
+          "title": "FAQ - Obsidian Entertainment Support",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 25,
+          "text": "Obsidian 官方 FAQ 确认《天外世界2》于 2025 年 10 月 29 日发售，所列平台包括 Xbox Series X|S、PC 和 PS5。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://support.obsidian.net/article/177-faq",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T20:38:19.726993+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "马拉松 · 官方发售档期",
+      "summary": "PlayStation 官方支持页列出的《马拉松》发售日期为 2026 年 3 月 5 日。本节点保留 PS5 范围，其他平台另核。",
+      "topics": [
+        "马拉松",
+        "Bungie"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T20:38:18.846424+00:00",
+      "updated_at": "2026-10-04T20:38:19.108847+00:00",
+      "content_updated_at": "2026-10-04T20:38:18.846424+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.playstation.com/en-gb/support/games/marathon-support/",
+          "title": "Marathon support",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 24,
+          "text": "PlayStation 官方支持页列出的《马拉松》发售日期为 2026 年 3 月 5 日。本节点保留 PS5 范围，其他平台另核。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://www.playstation.com/en-gb/support/games/marathon-support/",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T20:38:18.846928+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "仁王3 · 官方发售档期",
+      "summary": "光荣特库摩与 Team NINJA 的官方公告确认《仁王3》于 2026 年 2 月 6 日在 PS5 和 PC 发售。",
+      "topics": [
+        "仁王3",
+        "Team NINJA",
+        "Koei Tecmo Games"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T20:37:16.204604+00:00",
+      "updated_at": "2026-10-04T20:38:18.185659+00:00",
+      "content_updated_at": "2026-10-04T20:37:16.204604+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.koeitecmoamerica.com/news/journey-through-the-ages-to-save-japan-in-koei-tecmos-nioh-3-coming-feb-6-2026/",
+          "title": "Journey Through the Ages to Save Japan in KOEI TECMO’s Nioh 3, Coming Feb. 6, 2026! - KOEI TECMO AMERICA",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 23,
+          "text": "光荣特库摩与 Team NINJA 的官方公告确认《仁王3》于 2026 年 2 月 6 日在 PS5 和 PC 发售。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://www.koeitecmoamerica.com/news/journey-through-the-ages-to-save-japan-in-koei-tecmos-nioh-3-coming-feb-6-2026/",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T20:37:16.205600+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "影之刃零 · 官方发售档期",
+      "summary": "S-GAME 在 PlayStation 官方博客确认《影之刃零》于 2026 年 10 月 29 日登陆 PS5。",
+      "topics": [
+        "影之刃零",
+        "S-GAME"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T20:37:15.372873+00:00",
+      "updated_at": "2026-10-04T20:37:15.551691+00:00",
+      "content_updated_at": "2026-10-04T20:37:15.372873+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://blog.playstation.com/2026/08/11/watch-the-phantom-blade-zero-gameplay-deep-dive-state-of-play-on-august-17-pre-orders-live-today/",
+          "title": "Watch the Phantom Blade Zero gameplay deep dive State of Play on August 17, pre-orders live today – PlayStation.Blog",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 22,
+          "text": "S-GAME 在 PlayStation 官方博客确认《影之刃零》于 2026 年 10 月 29 日登陆 PS5。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://blog.playstation.com/2026/08/11/watch-the-phantom-blade-zero-gameplay-deep-dive-state-of-play-on-august-17-pre-orders-live-today/",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T20:37:15.373866+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Grand Theft Auto VI · Xbox Series X|S 版发售",
+      "summary": "Xbox 官方产品页列出的发售日期为 2026 年 11 月 19 日。本节点保留该页面支持的 Xbox Series X|S 版本范围。",
+      "topics": [
+        "Grand Theft Auto VI",
+        "Xbox"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T17:35:31.473069+00:00",
+      "updated_at": "2026-10-04T17:35:31.652105+00:00",
+      "content_updated_at": "2026-10-04T17:35:31.473069+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.xbox.com/en-us/games/grand-theft-auto-vi",
+          "title": "Grand Theft Auto VI: Coming November 19, 2026 to XBOX Series X|S | XBOX",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 8,
+          "text": "Xbox 官方产品页列出的发售日期为 2026 年 11 月 19 日。本节点保留该页面支持的 Xbox Series X|S 版本范围。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://www.xbox.com/en-us/games/grand-theft-auto-vi",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T17:35:31.474586+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "漫威金刚狼 · PS5 版全球发售",
+      "summary": "Sony Interactive Entertainment 于 2026 年 9 月 15 日宣布《漫威金刚狼》在全球推出，由 Insomniac Games 开发，登陆 PS5。",
+      "topics": [
+        "漫威金刚狼",
+        "Sony Interactive Entertainment"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T17:35:30.604591+00:00",
+      "updated_at": "2026-10-04T17:35:30.800810+00:00",
+      "content_updated_at": "2026-10-04T17:35:30.604591+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://sonyinteractive.com/en/press-releases/2026/marvels-wolverine-launches-worldwide/",
+          "title": "Marvel's Wolverine Launches Worldwide, Exclusively on PlayStation®5",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 7,
+          "text": "Sony Interactive Entertainment 于 2026 年 9 月 15 日宣布《漫威金刚狼》在全球推出，由 Insomniac Games 开发，登陆 PS5。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://sonyinteractive.com/en/press-releases/2026/marvels-wolverine-launches-worldwide/",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T17:35:30.605598+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "007 First Light · PS5 / Xbox / PC 发售",
+      "summary": "IO Interactive 公告将 PS5、Xbox Series X|S 和 PC 版本发售日定为 2026 年 5 月 27 日。同文中的 Switch 2 版本安排为夏季，未与本节点合并。",
+      "topics": [
+        "007 First Light",
+        "IO Interactive"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T17:35:29.736858+00:00",
+      "updated_at": "2026-10-04T17:35:29.906128+00:00",
+      "content_updated_at": "2026-10-04T17:35:29.736858+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://ioi.dk/007firstlightgame/news/2026/discover-the-rules-of-spycraft-in-007-first-light-s-brand-new-trailer",
+          "title": "Discover the rules of spycraft in 007 First Light's brand-new trailer",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 6,
+          "text": "IO Interactive 公告将 PS5、Xbox Series X|S 和 PC 版本发售日定为 2026 年 5 月 27 日。同文中的 Switch 2 版本安排为夏季，未与本节点合并。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://ioi.dk/007firstlightgame/news/2026/discover-the-rules-of-spycraft-in-007-first-light-s-brand-new-trailer",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T17:35:29.737858+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "PRAGMATA · Steam 版发售",
+      "summary": "Capcom Town Store 于 2026 年 4 月 17 日宣布 Steam 版现已推出。本节点仅记录该页面明确说明的 Steam 版本。",
+      "topics": [
+        "PRAGMATA",
+        "Capcom Town"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T17:35:28.900030+00:00",
+      "updated_at": "2026-10-04T17:35:29.097524+00:00",
+      "content_updated_at": "2026-10-04T17:35:28.900030+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://store.captown.capcom.com/en/blogs/news/0000015",
+          "title": "General: PRAGMATA, Capcom’s bold new Science Fiction action adventure, is now available! – Capcom Town Store",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 5,
+          "text": "Capcom Town Store 于 2026 年 4 月 17 日宣布 Steam 版现已推出。本节点仅记录该页面明确说明的 Steam 版本。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://store.captown.capcom.com/en/blogs/news/0000015",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T17:35:28.901020+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "红色沙漠 · 全球发售 · PDT 日期",
+      "summary": "Pearl Abyss 宣布于 2026 年 3 月 19 日 15:00 PDT 全球上线。时间轴保留公告采用的 PDT 日期；亚洲时区会跨至次日。",
+      "topics": [
+        "红色沙漠",
+        "Pearl Abyss"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T17:35:27.852833+00:00",
+      "updated_at": "2026-10-04T17:35:28.069164+00:00",
+      "content_updated_at": "2026-10-04T17:35:27.852833+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.pearlabyss.com/en-US/Board/Detail?_boardNo=14684",
+          "title": "Pearl Abyss Launches Crimson Desert Worldwide Today | Pearl Abyss",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 4,
+          "text": "Pearl Abyss 宣布于 2026 年 3 月 19 日 15:00 PDT 全球上线。时间轴保留公告采用的 PDT 日期；亚洲时区会跨至次日。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://www.pearlabyss.com/en-US/Board/Detail?_boardNo=14684",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T17:35:27.853840+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "生化危机：安魂曲 · 本体发售",
+      "summary": "Capcom 公告将本作发售日定为 2026 年 2 月 27 日；本节点记录公告列出的 PS5、Xbox Series X|S 和 PC 平台。",
+      "topics": [
+        "生化危机：安魂曲",
+        "Capcom"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-04T17:35:27.004305+00:00",
+      "updated_at": "2026-10-04T17:35:27.262280+00:00",
+      "content_updated_at": "2026-10-04T17:35:27.004305+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.capcom.co.jp/ir/english/news/html/e250609.html",
+          "title": "Resident Evil Requiem, the Latest Title in the Series, Set to Release on February 27, 2026!– The highly anticipated new installment to launch during the series’ 30th anniversary – | Press Release | CAPCOM",
+          "published_at": null
+        }
+      ],
+      "progress": [
+        {
+          "id": 3,
+          "text": "Capcom 公告将本作发售日定为 2026 年 2 月 27 日；本节点记录公告列出的 PS5、Xbox Series X|S 和 PC 平台。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://www.capcom.co.jp/ir/english/news/html/e250609.html",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T17:35:27.006600+00:00",
+          "source_published_at": null
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "《王权》开发团队 Nerial 停止开发，进入休眠",
+      "summary": "据 GamesBeat 10 月 2 日报道，《王权》《千爵史诗》的开发团队 Nerial 宣布进入休眠并停止开发，员工开始寻找新工作。报道援引创始人说法称，Devolver 仍保留现有游戏权利；此消息不能等同于游戏立即下架。",
+      "topics": [
+        "Nerial",
+        "Reigns"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-04T09:25:52.236266+00:00",
+      "updated_at": "2026-10-05T15:21:23.041745+00:00",
+      "content_updated_at": "2026-10-04T09:25:52.236266+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://gamesbeat.com/reigns-dev-nerial-becomes-latest-studio-to-shut-down/",
+          "title": "Reigns dev Nerial becomes latest studio to shut down",
+          "published_at": "2026-10-02T18:02:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 2,
+          "text": "据 GamesBeat 10 月 2 日报道，《王权》《千爵史诗》的开发团队 Nerial 宣布进入休眠并停止开发，员工开始寻找新工作。报道援引创始人说法称，Devolver 仍保留现有游戏权利；此消息不能等同于游戏立即下架。",
+          "evidence_kind": "syndication",
+          "source_url": "https://gamesbeat.com/reigns-dev-nerial-becomes-latest-studio-to-shut-down/",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T09:25:52.236266+00:00",
+          "source_published_at": "2026-10-02T18:02:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "基础款 PS5 的 QSSR：先看金刚狼与羊蹄山的画面变化",
+      "summary": "索尼 10 月 1 日公布基础款 PS5 的 QSSR 超分辨率技术。Eurogamer 次日报道其已用于《漫威金刚狼》和《羊蹄山之魂》，并转述画面细节改善的评价。提升幅度因游戏而异，不能据此认为基础款已达到 PS5 Pro 的表现。",
+      "topics": [
+        "PlayStation",
+        "QSSR"
+      ],
+      "kind": "development",
+      "created_at": "2026-10-04T09:25:52.235264+00:00",
+      "updated_at": "2026-10-05T15:21:22.876252+00:00",
+      "content_updated_at": "2026-10-04T09:25:52.235264+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/",
+          "title": "AI upscaling is coming to PS5",
+          "published_at": "2026-10-01T16:00:09+00:00"
+        },
+        {
+          "url": "https://www.eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei",
+          "title": "PS5 gets \"AI-guided upscaling\" a bit like PS5 Pro's, and it's available now in Marvel's Wolverine and Ghost of Yotei",
+          "published_at": "2026-10-02T09:28:14+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 1,
+          "text": "索尼 10 月 1 日通过 PlayStation Blog 公布基础款 PS5 的 QSSR 超分辨率技术，源于与 AMD 合作的 Project Amethyst。此处是官方宣布，实际改善幅度须结合具体游戏判断。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://blog.playstation.com/2026/10/01/ai-upscaling-is-coming-to-ps5/",
+          "action": "create_event",
+          "recorded_at": "2026-10-04T09:25:52.236266+00:00",
+          "source_published_at": "2026-10-01T16:00:09+00:00"
+        },
+        {
+          "id": 42,
+          "text": "据 Eurogamer 10 月 2 日报道，基础款 PS5 的 QSSR 已用于《漫威金刚狼》和《羊蹄山之魂》。报道转述开发者与 Digital Foundry 对画面细节提升的评价；效果因游戏而异。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.eurogamer.net/ps5-ai-upscaling-qssr-marvels-wolverine-ghost-yotei",
+          "action": "attach_source",
+          "recorded_at": "2026-10-05T15:21:22.216737+00:00",
+          "source_published_at": "2026-10-02T09:28:14+00:00"
+        }
+      ]
+    }
+  ],
+  "timeline": [
+    {
+      "id": 10,
+      "event_id": 25,
+      "kind": "release",
+      "date_value": "2025-10-29",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T20:38:20.095460+00:00",
+      "game_name": "天外世界2",
+      "label": "本体发售",
+      "platform": "Xbox Series X|S / PC / PS5",
+      "region": null,
+      "source_url": "https://support.obsidian.net/article/177-faq"
+    },
+    {
+      "id": 8,
+      "event_id": 23,
+      "kind": "release",
+      "date_value": "2026-02-06",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T20:38:18.345055+00:00",
+      "game_name": "仁王3",
+      "label": "本体发售",
+      "platform": "PS5 / PC",
+      "region": null,
+      "source_url": "https://www.koeitecmoamerica.com/news/journey-through-the-ages-to-save-japan-in-koei-tecmos-nioh-3-coming-feb-6-2026/"
+    },
+    {
+      "id": 1,
+      "event_id": 3,
+      "kind": "release",
+      "date_value": "2026-02-27",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T17:35:27.488059+00:00",
+      "game_name": "生化危机：安魂曲",
+      "label": "本体发售",
+      "platform": "PS5 / Xbox Series X|S / PC",
+      "region": null,
+      "source_url": "https://www.capcom.co.jp/ir/english/news/html/e250609.html"
+    },
+    {
+      "id": 9,
+      "event_id": 24,
+      "kind": "release",
+      "date_value": "2026-03-05",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T20:38:19.310198+00:00",
+      "game_name": "马拉松",
+      "label": "本体发售",
+      "platform": "PS5",
+      "region": null,
+      "source_url": "https://www.playstation.com/en-gb/support/games/marathon-support/"
+    },
+    {
+      "id": 2,
+      "event_id": 4,
+      "kind": "release",
+      "date_value": "2026-03-19",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T17:35:28.338607+00:00",
+      "game_name": "红色沙漠",
+      "label": "全球发售 · PDT 日期",
+      "platform": "PS5 / Xbox Series X|S / PC / Mac",
+      "region": "官方公告日期（PDT）",
+      "source_url": "https://www.pearlabyss.com/en-US/Board/Detail?_boardNo=14684"
+    },
+    {
+      "id": 3,
+      "event_id": 5,
+      "kind": "release",
+      "date_value": "2026-04-17",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T17:35:29.376836+00:00",
+      "game_name": "PRAGMATA",
+      "label": "Steam 版发售",
+      "platform": "PC（Steam）",
+      "region": null,
+      "source_url": "https://store.captown.capcom.com/en/blogs/news/0000015"
+    },
+    {
+      "id": 11,
+      "event_id": 26,
+      "kind": "release",
+      "date_value": "2026-05-19",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T20:38:21.013727+00:00",
+      "game_name": "极限竞速：地平线6",
+      "label": "本体发售",
+      "platform": "Xbox Series X|S / PC",
+      "region": null,
+      "source_url": "https://forza.net/news/forza-horizon-6-coming-may-2026"
+    },
+    {
+      "id": 4,
+      "event_id": 6,
+      "kind": "release",
+      "date_value": "2026-05-27",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T17:35:30.195594+00:00",
+      "game_name": "007 First Light",
+      "label": "PS5 / Xbox / PC 发售",
+      "platform": "PS5 / Xbox Series X|S / PC",
+      "region": null,
+      "source_url": "https://ioi.dk/007firstlightgame/news/2026/discover-the-rules-of-spycraft-in-007-first-light-s-brand-new-trailer"
+    },
+    {
+      "id": 12,
+      "event_id": 27,
+      "kind": "release",
+      "date_value": "2026-07-09",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T20:38:21.755946+00:00",
+      "game_name": "刺客信条：黑旗 Resynced",
+      "label": "本体发售",
+      "platform": "PS5 / Xbox Series X|S / PC",
+      "region": null,
+      "source_url": "https://news.ubisoft.com/en-us/article/4WSO7FBW76v05UxZSqG5L8/assassins-creed-black-flag-resynced-out-july-9-everything-you-need-to-know"
+    },
+    {
+      "id": 13,
+      "event_id": 28,
+      "kind": "release",
+      "date_value": "2026-08-27",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T20:38:24.071998+00:00",
+      "game_name": "瘟疫传说：Resonance",
+      "label": "本体发售",
+      "platform": "PS5 / Xbox Series X|S / PC",
+      "region": null,
+      "source_url": "https://www.focus-entmt.com/en/news/resonance-a-plague-tale-legacy-releases-august-27"
+    },
+    {
+      "id": 14,
+      "event_id": 29,
+      "kind": "release",
+      "date_value": "2026-09-03",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T20:38:25.412338+00:00",
+      "game_name": "黎明行者之血",
+      "label": "本体发售",
+      "platform": "PS5 / Xbox Series X|S / PC",
+      "region": null,
+      "source_url": "https://www.bandainamcoent.com/news/the-blood-of-dawnwalker-is-now-available"
+    },
+    {
+      "id": 15,
+      "event_id": 30,
+      "kind": "release",
+      "date_value": "2026-09-04",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T20:38:26.243384+00:00",
+      "game_name": "鬼武者：剑之道",
+      "label": "本体发售",
+      "platform": "PS5 / Xbox Series X|S / Switch 2 / PC",
+      "region": null,
+      "source_url": "https://www.capcom.co.jp/ir/english/news/html/e260907.html"
+    },
+    {
+      "id": 5,
+      "event_id": 7,
+      "kind": "release",
+      "date_value": "2026-09-15",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T17:35:31.046470+00:00",
+      "game_name": "漫威金刚狼",
+      "label": "PS5 版全球发售",
+      "platform": "PS5",
+      "region": "全球",
+      "source_url": "https://sonyinteractive.com/en/press-releases/2026/marvels-wolverine-launches-worldwide/"
+    },
+    {
+      "id": 18,
+      "event_id": 33,
+      "kind": "release",
+      "date_value": "2026-09-17",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T20:38:28.717524+00:00",
+      "game_name": "火焰纹章：Fortune’s Weave",
+      "label": "Switch 2 实体版发售",
+      "platform": "Switch 2",
+      "region": "美国商店 · 实体版",
+      "source_url": "https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-125688/"
+    },
+    {
+      "id": 16,
+      "event_id": 31,
+      "kind": "release",
+      "date_value": "2026-09-24",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T20:38:27.025114+00:00",
+      "game_name": "控制：Resonant",
+      "label": "本体发售",
+      "platform": "PS5 / Xbox Series X|S / PC",
+      "region": null,
+      "source_url": "https://www.remedygames.com/article/control-resonant-launches-worldwide-on-september-24"
+    },
+    {
+      "id": 17,
+      "event_id": 32,
+      "kind": "release",
+      "date_value": "2026-09-24",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T20:38:27.846258+00:00",
+      "game_name": "寂静岭：Townfall",
+      "label": "本体发售",
+      "platform": "PS5 / PC",
+      "region": "公告标注新西兰日期例外",
+      "source_url": "https://www.konami.com/games/us/en/topics/3265/"
+    },
+    {
+      "id": 7,
+      "event_id": 22,
+      "kind": "release",
+      "date_value": "2026-10-29",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T20:37:15.734786+00:00",
+      "game_name": "影之刃零",
+      "label": "本体发售",
+      "platform": "PS5",
+      "region": null,
+      "source_url": "https://blog.playstation.com/2026/08/11/watch-the-phantom-blade-zero-gameplay-deep-dive-state-of-play-on-august-17-pre-orders-live-today/"
+    },
+    {
+      "id": 6,
+      "event_id": 8,
+      "kind": "release",
+      "date_value": "2026-11-19",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T17:35:31.954692+00:00",
+      "game_name": "Grand Theft Auto VI",
+      "label": "Xbox Series X|S 版发售",
+      "platform": "Xbox Series X|S",
+      "region": null,
+      "source_url": "https://www.xbox.com/en-us/games/grand-theft-auto-vi"
+    }
+  ],
+  "watched_games": [
+    {
+      "name": "007 First Light",
+      "aliases": [
+        "007 初露锋芒",
+        "007：初露锋芒"
+      ],
+      "selection_reason": "知名 IP 新作；IO Interactive 重点项目",
+      "official_url": "https://ioi.dk/007firstlightgame/news/2026/discover-the-rules-of-spycraft-in-007-first-light-s-brand-new-trailer",
+      "developers": [
+        "IO Interactive"
+      ],
+      "publishers": [
+        "IO Interactive"
+      ]
+    },
+    {
+      "name": "Grand Theft Auto VI",
+      "aliases": [
+        "GTA VI",
+        "GTA 6",
+        "侠盗猎车手6"
+      ],
+      "selection_reason": "知名系列新作；Rockstar 旗舰项目",
+      "official_url": "https://www.xbox.com/en-us/games/grand-theft-auto-vi",
+      "developers": [
+        "Rockstar Games"
+      ],
+      "publishers": [
+        "Rockstar Games"
+      ]
+    },
+    {
+      "name": "PRAGMATA",
+      "aliases": [
+        "识质存在",
+        "實質存在",
+        "实质存在"
+      ],
+      "selection_reason": "用户指定；Capcom 重点新作",
+      "official_url": "https://blog.playstation.com/2025/06/04/pragmata-coming-to-ps5-2026-new-gameplay-revealed/",
+      "developers": [
+        "Capcom"
+      ],
+      "publishers": [
+        "Capcom"
+      ]
+    },
+    {
+      "name": "仁王3",
+      "aliases": [
+        "Nioh 3",
+        "Nioh3",
+        "仁王 3"
+      ],
+      "selection_reason": "用户指定；知名动作系列新作",
+      "official_url": "https://www.koeitecmoamerica.com/news/journey-through-the-ages-to-save-japan-in-koei-tecmos-nioh-3-coming-feb-6-2026/",
+      "developers": [
+        "Team NINJA"
+      ],
+      "publishers": [
+        "Koei Tecmo Games"
+      ]
+    },
+    {
+      "name": "刺客信条：黑旗 Resynced",
+      "aliases": [
+        "Assassin’s Creed Black Flag Resynced",
+        "Assassin's Creed Black Flag Resynced",
+        "Assassin’s Creed Black Resynced"
+      ],
+      "selection_reason": "用户指定；知名系列重制新作",
+      "official_url": "https://news.ubisoft.com/en-us/article/4WSO7FBW76v05UxZSqG5L8/assassins-creed-black-flag-resynced-out-july-9-everything-you-need-to-know",
+      "developers": [
+        "Ubisoft Singapore"
+      ],
+      "publishers": [
+        "Ubisoft"
+      ]
+    },
+    {
+      "name": "天外世界2",
+      "aliases": [
+        "The Outer Worlds 2",
+        "天外世界 2"
+      ],
+      "selection_reason": "用户指定；Obsidian 系列新作",
+      "official_url": "https://support.obsidian.net/article/177-faq",
+      "developers": [
+        "Obsidian Entertainment"
+      ],
+      "publishers": [
+        "Xbox Game Studios"
+      ]
+    },
+    {
+      "name": "寂静岭：Townfall",
+      "aliases": [
+        "SILENT HILL: Townfall",
+        "Silent Hill Townfall"
+      ],
+      "selection_reason": "用户指定；知名恐怖系列新作",
+      "official_url": "https://www.konami.com/games/us/en/topics/3265/",
+      "developers": [
+        "Screen Burn Interactive"
+      ],
+      "publishers": [
+        "KONAMI",
+        "Annapurna Interactive"
+      ]
+    },
+    {
+      "name": "影之刃零",
+      "aliases": [
+        "Phantom Blade Zero"
+      ],
+      "selection_reason": "用户指定；国产重点新作",
+      "official_url": "https://pbz.s-game.com/en-US/news/creative-director-letter/",
+      "developers": [
+        "S-GAME"
+      ],
+      "publishers": [
+        "S-GAME"
+      ]
+    },
+    {
+      "name": "控制：Resonant",
+      "aliases": [
+        "CONTROL Resonant",
+        "Control Resonant"
+      ],
+      "selection_reason": "用户指定；Remedy 系列新作",
+      "official_url": "https://www.remedygames.com/article/control-resonant-launches-worldwide-on-september-24",
+      "developers": [
+        "Remedy Entertainment"
+      ],
+      "publishers": [
+        "Remedy Entertainment"
+      ]
+    },
+    {
+      "name": "极限竞速：地平线6",
+      "aliases": [
+        "Forza Horizon 6",
+        "地平线6",
+        "地平线 6"
+      ],
+      "selection_reason": "用户指定；知名竞速系列新作",
+      "official_url": "https://forza.net/news/forza-horizon-6-coming-may-2026",
+      "developers": [
+        "Playground Games"
+      ],
+      "publishers": [
+        "Xbox Game Studios"
+      ]
+    },
+    {
+      "name": "漫威金刚狼",
+      "aliases": [
+        "Marvel’s Wolverine",
+        "Marvel's Wolverine"
+      ],
+      "selection_reason": "用户指定；知名 IP 与主机平台重点项目",
+      "official_url": "https://sonyinteractive.com/en/press-releases/2026/marvels-wolverine-launches-worldwide/",
+      "developers": [
+        "Insomniac Games"
+      ],
+      "publishers": [
+        "Sony Interactive Entertainment"
+      ]
+    },
+    {
+      "name": "火焰纹章：Fortune’s Weave",
+      "aliases": [
+        "Fire Emblem: Fortune’s Weave",
+        "Fire Emblem: Fortune's Weave"
+      ],
+      "selection_reason": "用户指定；任天堂主机独占系列新作",
+      "official_url": "https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-125688/",
+      "developers": [
+        "Intelligent Systems"
+      ],
+      "publishers": [
+        "Nintendo"
+      ]
+    },
+    {
+      "name": "生化危机：安魂曲",
+      "aliases": [
+        "Resident Evil Requiem",
+        "Biohazard Requiem"
+      ],
+      "selection_reason": "知名系列新作；首批重点作品",
+      "official_url": "https://www.capcom.co.jp/ir/english/news/html/e250609.html",
+      "developers": [
+        "Capcom"
+      ],
+      "publishers": [
+        "Capcom"
+      ]
+    },
+    {
+      "name": "瘟疫传说：Resonance",
+      "aliases": [
+        "Resonance: A Plague Tale Legacy"
+      ],
+      "selection_reason": "用户指定；瘟疫传说系列新作",
+      "official_url": "https://www.focus-entmt.com/en/news/resonance-a-plague-tale-legacy-releases-august-27",
+      "developers": [
+        "Asobo Studio"
+      ],
+      "publishers": [
+        "Focus Entertainment"
+      ]
+    },
+    {
+      "name": "红色沙漠",
+      "aliases": [
+        "Crimson Desert"
+      ],
+      "selection_reason": "用户指定；厂商旗舰项目",
+      "official_url": "https://www.pearlabyss.com/en-US/Board/Detail?_boardNo=14684",
+      "developers": [
+        "Pearl Abyss"
+      ],
+      "publishers": [
+        "Pearl Abyss"
+      ]
+    },
+    {
+      "name": "马拉松",
+      "aliases": [
+        "Marathon"
+      ],
+      "selection_reason": "用户指定；Bungie 重点新作",
+      "official_url": "https://www.playstation.com/en-gb/support/games/marathon-support/",
+      "developers": [
+        "Bungie"
+      ],
+      "publishers": []
+    },
+    {
+      "name": "鬼武者：剑之道",
+      "aliases": [
+        "Onimusha: Way of the Sword"
+      ],
+      "selection_reason": "用户指定；知名动作系列新作",
+      "official_url": "https://www.capcom.co.jp/ir/english/news/html/e260907.html",
+      "developers": [
+        "Capcom"
+      ],
+      "publishers": [
+        "Capcom"
+      ]
+    },
+    {
+      "name": "黎明行者之血",
+      "aliases": [
+        "The Blood of Dawnwalker"
+      ],
+      "selection_reason": "用户指定；资深开发团队重点新 IP",
+      "official_url": "https://www.bandainamcoent.com/news/the-blood-of-dawnwalker-is-now-available",
+      "developers": [
+        "Rebel Wolves"
+      ],
+      "publishers": [
+        "Bandai Namco Entertainment"
+      ]
+    }
+  ]
+}

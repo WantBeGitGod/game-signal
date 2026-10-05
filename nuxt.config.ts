@@ -25,6 +25,10 @@ const articleRoutes = existsSync(articlesRoot)
       .map(file => `/articles/${file.replace(/\.md$/, "")}`)
   : []
 const legacyCaseRoutes = articleRoutes.map(route => route.replace("/articles/", "/cases/"))
+const newsPath = resolve(dataRoot, "news.json")
+const newsRoutes = existsSync(newsPath)
+  ? (JSON.parse(readFileSync(newsPath, "utf-8")).events || []).map((event: { id: number }) => `/news/${event.id}`)
+  : []
 
 export default defineNuxtConfig({
   compatibilityDate: "2025-01-01",
@@ -64,6 +68,8 @@ export default defineNuxtConfig({
       crawlLinks: true,
       routes: [
         "/",
+        "/news",
+        "/timeline",
         "/weekly",
         "/issues",
         "/articles",
@@ -73,6 +79,7 @@ export default defineNuxtConfig({
         "/system",
         "/author",
         ...weeklyRoutes,
+        ...newsRoutes,
         ...issueRoutes,
         ...gameRoutes,
         ...articleRoutes,

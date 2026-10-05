@@ -47,3 +47,25 @@ The Article preview image is identity metadata, not an editorial illustration. T
 - Private editorial review notes and style feedback logs are never exported.
 - SteamDB CSV/XLS/PNG source files remain private. Public chart JSON is derived display data and does not expose raw downloads.
 - `schema_version` changes when the JSON contract makes a breaking change.
+
+
+## Game news and release timeline
+
+`public/data/news.json` contains reviewed events and official timeline nodes. The optional additive `watched_games` field records cross-platform game identities: `name`, `aliases`, `developers`, `publishers`, `selection_reason`, and `official_url`. Games do not need Steam AppIDs or a release date to appear in this list. A watched game without an exported official node remains visibly pending; watchlist membership is not confirmation of a date.
+
+Developer and publisher fields describe title credits, not corporate ownership. Timeline dates preserve the official year/quarter/month/day precision and the source's platform and regional scope. Editorial reasons, raw evidence, private candidates and source credentials are excluded. `public/data/timeline-artwork.json` contains remote official artwork links and their sources; unavailable art retains a text fallback.
+
+For timeline artwork, prefer high-resolution official promotional art with the game title visible. For games on Steam, check the official store's double-resolution capsule (typically 1232 × 706) before using press-page thumbnails. Verify native image dimensions and the rendered desktop/mobile crop; do not upscale small thumbnails for large cards. Games without a Steam listing use publisher/developer or platform-holder official artwork under the same criteria.
+
+
+## News events
+
+News listing, topic filters and homepage recommendations exclude `kind: release_schedule`. These events remain in the public JSON and retain detail pages because official timeline nodes depend on their evidence. Substantive DLC and experience updates can appear in news. A media review score preserves its source, date and actual tested platform; it is not presented as a Metacritic aggregate or a verified cross-platform verdict.
+
+`public/data/news.json` contains reviewed public events and the separately maintained timeline. News events support optional additive fields: `prominence` (`featured` / `normal`), `recommendation`, `content_updated_at`, and `corrections` (`text`, `recorded_at`). Existing records without these fields remain readable as ordinary news. `archive`, draft, withdrawn and merged events are excluded from this public export.
+
+`created_at` means first recorded, not source publication. `updated_at` is the private editor version timestamp exposed by the existing contract; sort news by `content_updated_at` instead. The latter changes for initial creation, substantive progress and explicit public corrections, never merely because another report was attached or prominence was edited. Progress entries add `action`, `recorded_at`, and `source_published_at`; `attach_source` entries remain factual evidence but are not new developments.
+
+The homepage prioritizes actual featured events, then recent ordinary events. Featured entries require a nonempty public recommendation. Internal editor reasons, raw evidence and model records are never exported. Only explicitly authored public correction text is exported from edit history.
+
+Each exported event gets `/news/<id>` at generation time, including direct-load HTML and page metadata. Search/topic/kind/date filters live in `/news` query parameters. Re-export and regenerate after withdrawal to remove the event and its static detail page.

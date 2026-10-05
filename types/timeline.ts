@@ -1,0 +1,1 @@
+export interface TimelineArtwork { english_name: string; studio: string; image_url: string; source_url: string; image_position?: string; card_fit?: 'cover' | 'contain'; dialog_fit?: 'cover' | 'contain' }

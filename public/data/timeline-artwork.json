@@ -1,0 +1,116 @@
+{
+  "生化危机：安魂曲": {
+    "english_name": "RESIDENT EVIL REQUIEM",
+    "studio": "CAPCOM",
+    "image_url": "https://www.capcom.co.jp/ir/news/html/images/250609b.png",
+    "source_url": "https://www.capcom.co.jp/ir/english/news/html/e250609.html"
+  },
+  "红色沙漠": {
+    "english_name": "CRIMSON DESERT",
+    "studio": "PEARL ABYSS",
+    "image_url": "https://s1.pearlcdn.com/pearlabyss/Upload/Board/20263/24/77ee058966420260324081754891",
+    "source_url": "https://www.pearlabyss.com/en-US/Board/Detail?_boardNo=14684"
+  },
+  "PRAGMATA": {
+    "english_name": "PRAGMATA",
+    "studio": "CAPCOM",
+    "image_url": "https://blog.playstation.com/tachyon/2025/06/2448cc4c8d4c8fa115cfcf67a21a6b0cdfc48fc4.jpg",
+    "source_url": "https://blog.playstation.com/2025/06/04/pragmata-coming-to-ps5-2026-new-gameplay-revealed/"
+  },
+  "007 First Light": {
+    "english_name": "007 FIRST LIGHT",
+    "studio": "IO INTERACTIVE",
+    "image_url": "https://cms.ioi.dk/media/nuvnvjuh/thumbnail_rulesofspycraft_trailer_16x9.jpg?width=1200",
+    "source_url": "https://ioi.dk/007firstlightgame/news/2026/discover-the-rules-of-spycraft-in-007-first-light-s-brand-new-trailer"
+  },
+  "漫威金刚狼": {
+    "english_name": "MARVEL’S WOLVERINE",
+    "studio": "INSOMNIAC GAMES",
+    "image_url": "https://sonyinteractive.com/tachyon/2026/09/Marvels-Wolverine-Key-Art.jpg?resize=1920%2C1080&crop_strategy=smart",
+    "source_url": "https://sonyinteractive.com/en/press-releases/2026/marvels-wolverine-launches-worldwide/"
+  },
+  "Grand Theft Auto VI": {
+    "english_name": "GRAND THEFT AUTO VI",
+    "studio": "ROCKSTAR GAMES",
+    "image_url": "https://cms-assets.xboxservices.com/assets/0d/59/0d59c81b-b4a9-4256-8f54-d7da377cd99a.jpg?n=GTA-VI_GLP-Page-Hero-1084_1920x1080_01.jpg",
+    "source_url": "https://www.xbox.com/en-us/games/grand-theft-auto-vi"
+  },
+  "影之刃零": {
+    "english_name": "PHANTOM BLADE ZERO",
+    "studio": "S-GAME",
+    "image_url": "https://blog.playstation.com/tachyon/2026/08/e578afd2d55a68f54e6f22ff90a3b59e89c6102c.png",
+    "source_url": "https://blog.playstation.com/2026/08/11/watch-the-phantom-blade-zero-gameplay-deep-dive-state-of-play-on-august-17-pre-orders-live-today/"
+  },
+  "仁王3": {
+    "english_name": "NIOH 3",
+    "studio": "Team NINJA",
+    "image_url": "https://www.koeitecmoamerica.com/wp-content/uploads/2025/09/C-Daylight_PV1_thumbnail⑤-1.jpg",
+    "source_url": "https://www.koeitecmoamerica.com/news/journey-through-the-ages-to-save-japan-in-koei-tecmos-nioh-3-coming-feb-6-2026/"
+  },
+  "马拉松": {
+    "english_name": "MARATHON",
+    "studio": "Bungie",
+    "image_position": "right top",
+    "card_fit": "contain",
+    "dialog_fit": "contain",
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3065800/14feee66aaae7536289672601ac176364dd2ffa1/capsule_616x353_2x.jpg",
+    "source_url": "https://store.steampowered.com/app/3065800/Marathon/"
+  },
+  "天外世界2": {
+    "english_name": "THE OUTER WORLDS 2",
+    "studio": "Obsidian Entertainment",
+    "image_url": null,
+    "source_url": "https://support.obsidian.net/article/177-faq"
+  },
+  "极限竞速：地平线6": {
+    "english_name": "FORZA HORIZON 6",
+    "studio": "Playground Games",
+    "image_url": "https://cdn.forza.net/strapi-uploads/assets/Forza_Horizon_6_3840x2160_Hori_Final_ac7b0063ff.jpg",
+    "source_url": "https://forza.net/news/forza-horizon-6-coming-may-2026"
+  },
+  "刺客信条：黑旗 Resynced": {
+    "english_name": "ASSASSIN'S CREED BLACK FLAG RESYNCED",
+    "studio": "Ubisoft Singapore",
+    "image_url": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6JtJ2ErqVsdI0j4S8GhhRN/e072686be0016a374562c3d7d9c998c2/ACBFR_KeyArt_StandardEdition_960x540_23.04.26_615PMCEST.jpg",
+    "source_url": "https://news.ubisoft.com/en-us/article/4WSO7FBW76v05UxZSqG5L8/assassins-creed-black-flag-resynced-out-july-9-everything-you-need-to-know"
+  },
+  "瘟疫传说：Resonance": {
+    "english_name": "RESONANCE: A PLAGUE TALE LEGACY",
+    "studio": "Asobo Studio",
+    "image_position": "center top",
+    "card_fit": "contain",
+    "dialog_fit": "contain",
+    "image_url": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2713000/f56fc2c629b8bc65b0f9355540d5efc3fa8ba220/capsule_616x353_2x.jpg",
+    "source_url": "https://store.steampowered.com/app/2713000/Resonance_A_Plague_Tale_Legacy/"
+  },
+  "黎明行者之血": {
+    "english_name": "THE BLOOD OF DAWNWALKER",
+    "studio": "Rebel Wolves",
+    "image_url": "https://us-east-1-bandai.graphassets.com/AXzioIclSWilEjFtsMJPwz/cmtlv29nbd3qf06k3bq6ecmp0",
+    "source_url": "https://www.bandainamcoent.com/news/the-blood-of-dawnwalker-is-now-available"
+  },
+  "鬼武者：剑之道": {
+    "english_name": "ONIMUSHA: WAY OF THE SWORD",
+    "studio": "Capcom",
+    "image_url": "https://www.capcom.co.jp/ir/news/html/images/ogp/img_ogp_260603.png",
+    "source_url": "https://www.capcom.co.jp/ir/english/news/html/e260907.html"
+  },
+  "控制：Resonant": {
+    "english_name": "CONTROL RESONANT",
+    "studio": "Remedy Entertainment",
+    "image_url": "https://cdn.prod.website-files.com/64630b03551142e3347ae3da/6a1fd01b38356c082cad0b67_CTRL_R_Preorder_Combat_20.jpg",
+    "source_url": "https://www.remedygames.com/article/control-resonant-launches-worldwide-on-september-24"
+  },
+  "寂静岭：Townfall": {
+    "english_name": "SILENT HILL: TOWNFALL",
+    "studio": "Screen Burn Interactive",
+    "image_url": "https://www.konami.com/games_cms/promo/na/uploads/sh_townfall_key.png",
+    "source_url": "https://www.konami.com/games/us/en/topics/3265/"
+  },
+  "火焰纹章：Fortune’s Weave": {
+    "english_name": "FIRE EMBLEM: FORTUNE'S WEAVE",
+    "studio": "Intelligent Systems",
+    "image_url": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/My%20Nintendo%20Store/EN-US/Nintendo%20Switch%202/Software/Fire%20Emblem%20Fortune's%20Weave/125688-nintendo-switch-2-fire-emblem-fortunes-weave-2000x2000",
+    "source_url": "https://www.nintendo.com/us/store/products/fire-emblem-fortunes-weave-125688/"
+  }
+}
