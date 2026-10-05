@@ -1,0 +1,402 @@
+{
+  "schema_version": "2.0.0",
+  "slug": "2026-09-28-week",
+  "issue_number": 19,
+  "week_start": "2026-09-28",
+  "week_end": "2026-10-04",
+  "title": "球要自己踢\n宝让桌面刷",
+  "summary": "9 月 28 日至 10 月 4 日，FC 27 两次第一、两次第二，以 27 分占据综合榜首；桌面破坏神从周三起连续五天进入前五，两次摘星追到 24 分。一边要求玩家持续读传跑和防线，一边把战斗交出去，把配装留在工作间隙。WARDOGS 六天上榜却没有摘星，运输网和裁缝店也各有一次第一。七天日榜齐全，这周可以比较谁反复站在前列，下一步再看这些入口怎样接住玩家。",
+  "editorial": {
+    "title_lines": [
+      "球要自己踢",
+      "宝让桌面刷"
+    ],
+    "intro": "9 月 28 日至 10 月 4 日，FC 27 两次第一、两次第二，以 27 分占据综合榜首；桌面破坏神从周三起连续五天进入前五，两次摘星追到 24 分。一边要求玩家持续读传跑和防线，一边把战斗交出去，把配装留在工作间隙。WARDOGS 六天上榜却没有摘星，运输网和裁缝店也各有一次第一。七天日榜齐全，这周可以比较谁反复站在前列，下一步再看这些入口怎样接住玩家。",
+    "features": {
+      "4080220": {
+        "heading": "足球城再大，也要先把这一脚传明白",
+        "paragraphs": [
+          "FC 27 从周一到周五连续进入前五，名次依次为第二、第一、第三、第二、第一，29 日与 2 日两次实际摘星。27 分来自这五天的位置和两次摘星；周末未进前五，七天日榜都有记录。它在本周最突出的是多次回到前二，不能据此替任何一个模式宣布留存已经成立。",
+          "足球的连续判断仍是底盘：看队友跑位，把球送过防线；丢球以后切人、封线路，决定上抢还是回收。经理生涯把比赛接到轮换和转会，FUT 把阵容接到收集，The Grounds 则用小场与 Clubs 给朋友一个会合入口。模式越多，越需要让玩家知道自己今天来踢什么，以及一场球结束后能带走哪种进展。",
+          "10 月 2 日的可靠快照是 6,158 条评价、53% 好评，观测峰值 86,669，低于此前 91,542 的高点。首发注意力仍在，体验认可却明显分化。接下来该按比赛操作、经理生涯、FUT 和组队入口分别看反馈：哪条路让人愿意再踢，哪条路在比赛之外增加负担？总在线和总好评率都无法替这几份答卷逐一打分。"
+        ]
+      },
+      "4623570": {
+        "heading": "把战斗交出去，回来还剩什么值得决定",
+        "paragraphs": [
+          "桌面破坏神在 30 日第一次上榜就拿到第一，之后第四、第三、第三，4 日再回第一并摘星。五天前五、两次第一和两次实际摘星，合计 24 分。本周最后一天是存档补刊，参评的是 5 日 00:42 的时点在线 41,956，不能把它当成 4 日的全天峰值；保存的日排名仍照原记录计入。",
+          "角色在桌面底部自动刷怪，玩家隔一会儿回来筛装备、换技能，把收益投向角色和城镇，再看配置能否跨过下一道门槛。暗黑式掉落给回访提供期待，自动战斗则把参与集中到构筑判断。仆从还能拾取战利品或辅助战斗。喜欢亲自走位和施法的人会失去一部分乐趣，喜欢研究配置又没有整段时间的人，更容易理解这个入口。",
+          "9 月 30 日至 10 月 3 日，生产快照峰值从 32,234 升至 41,868，可靠好评率从 75% 降至 69%；刊期内实际曲线最高采到 44,715。在线增长与评价承压同时发生，挂机还会让程序在线和人的参与产生距离。下周该追问的是：回来能不能看懂一次换装的效果，整理掉落会不会变成另一份工作，首周修复有没有减少连接与配置摩擦。"
+        ]
+      }
+    },
+    "notes": {
+      "1867240": "WARDOGS 六天进入前五，29 日与 2 日两次第二，以 16 分排第三，本周没有实际摘星。上期问三方战线能否延续，本期排名说明它仍反复出现；服务器体验、支援分工和跨局现金有没有形成稳定队伍故事，仍缺新的体验证据。不能把零摘星写成无人再玩。",
+      "3493540": "Transport Fever 3 四天进入前五，1 日第一并摘星、4 日第二，以 15 分排第四。铺路建站、配车转运和疏通堵点，会把一条货链逐渐变成整张网；首发后要看扩建是否带来可读的新问题，还是让玩家花更多时间追查货物去了哪里。",
+      "4019220": "Dressmaker 周一第一并摘星，其后四次进入前五，以 14 分排第五。选布、排纸样、裁剪缝合，再把成衣交给顾客或摆进橱窗，卖的是亲手完成作品的过程。名次回落没有抹掉这条慢循环；下一步看新的委托能否持续给设计提供变化，而非只把同一套操作重复一遍。"
+    },
+    "next_watch": [
+      "FC 27 的比赛、经理生涯、FUT 与 The Grounds，哪一类具体体验正在改善，53% 好评背后的分歧能否按入口解释？",
+      "桌面破坏神下一次回访能否让玩家看懂配置改变的效果，连接、性能与装备处理的重复问题有没有减少？",
+      "Transport Fever 3 的扩建能否继续产生可读的运输瓶颈，首发后的评价会更多讨论规划乐趣，还是排障负担？"
+    ]
+  },
+  "published_days": [
+    "2026-09-28",
+    "2026-09-29",
+    "2026-09-30",
+    "2026-10-01",
+    "2026-10-02",
+    "2026-10-03",
+    "2026-10-04"
+  ],
+  "status": "published",
+  "published_at": "2026-10-05 13:21:21",
+  "signals": [
+    {
+      "rank": 1,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 27.0,
+      "selection_reason": "EA SPORTS FC™ 27 在 7 个已保存日榜中进入前五 5 天、前二 4 天，实际摘星 2 次，周复选分 27。",
+      "metrics": {
+        "product_family_identity": "appid:4080220",
+        "actual_star_count": 2,
+        "first_place_days": 2,
+        "second_place_days": 2,
+        "top_two_days": 4,
+        "top_five_days": 5,
+        "average_rank": 1.8,
+        "weekly_score": 27,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-09-28",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-09-29",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-09-30",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-01",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-02",
+            "rank": 1,
+            "actual_star": true
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-10-02"
+      },
+      "chart_status": "ready",
+      "article_selected": true,
+      "article_slug": "ea-sports-fc-27",
+      "chart_path": "/data/charts/2026-09-28-week/4080220.json",
+      "game": {
+        "slug": "ea-sports-fc-27",
+        "appid": "4080220",
+        "name": "EA SPORTS FC™ 27",
+        "description": "欢迎在《EA SPORTS FC™ 27》中体验全世界的游戏。 踏入 The Grounds，体验这座连接街头与球场的足球乐园；随着灵感源自社区反馈的创新带来更真实的足球玩法，在每一种模式中感受更强的掌控力。",
+        "developer": "EA CANADA, EA Romania",
+        "publisher": "Electronic Arts",
+        "release_date": "2026-09-24",
+        "review_ratio": 53.0,
+        "review_total": 6547,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg?t=1790973254",
+        "steam_url": "https://store.steampowered.com/app/4080220",
+        "product_family_identity": "appid:4080220",
+        "product_family_appid": "4080220",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 2,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 24.0,
+      "selection_reason": "Deskrawl: Idle ARPG 在 7 个已保存日榜中进入前五 5 天、前二 2 天，实际摘星 2 次，周复选分 24。",
+      "metrics": {
+        "product_family_identity": "appid:4623570",
+        "actual_star_count": 2,
+        "first_place_days": 2,
+        "second_place_days": 0,
+        "top_two_days": 2,
+        "top_five_days": 5,
+        "average_rank": 2.4,
+        "weekly_score": 24,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-09-30",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-10-01",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-02",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-03",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-04",
+            "rank": 1,
+            "actual_star": true
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-10-04"
+      },
+      "chart_status": "ready",
+      "article_selected": true,
+      "article_slug": "deskrawl-idle-arpg",
+      "chart_path": "/data/charts/2026-09-28-week/4623570.json",
+      "game": {
+        "slug": "deskrawl-idle-arpg",
+        "appid": "4623570",
+        "name": "Deskrawl: Idle ARPG",
+        "description": "受《暗黑破坏神》系列启发，以放置玩法还原经典暗黑式刷宝体验，无论工作还是休闲，随时挂机下本。选择四种不同职业，探索两片大陆三大主城，不断刷取极品装备、积累财富、构筑Build，将角色打造成传奇英雄。",
+        "developer": "First Day Games",
+        "publisher": "First Day Games, Gamersky Games",
+        "release_date": "2026-09-28",
+        "review_ratio": 69.0,
+        "review_total": 1330,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623570/ce2d7987b39a72e550ef2801db198b5ddc217a50/header_schinese.jpg?t=1790673311",
+        "steam_url": "https://store.steampowered.com/app/4623570",
+        "product_family_identity": "appid:4623570",
+        "product_family_appid": "4623570",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 3,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 16.0,
+      "selection_reason": "WARDOGS 在 7 个已保存日榜中进入前五 6 天、前二 2 天，实际摘星 0 次，周复选分 16。",
+      "metrics": {
+        "product_family_identity": "appid:1867240",
+        "actual_star_count": 0,
+        "first_place_days": 0,
+        "second_place_days": 2,
+        "top_two_days": 2,
+        "top_five_days": 6,
+        "average_rank": 3.33,
+        "weekly_score": 16,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-09-28",
+            "rank": 5,
+            "actual_star": false
+          },
+          {
+            "date": "2026-09-29",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-09-30",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-01",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-02",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-03",
+            "rank": 4,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-10-03"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-09-28-week/1867240.json",
+      "game": {
+        "slug": "wardogs",
+        "appid": "1867240",
+        "name": "WARDOGS",
+        "description": "《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。",
+        "developer": "BULKHEAD",
+        "publisher": "Team17",
+        "release_date": "2026-09-10",
+        "review_ratio": 75.0,
+        "review_total": 103649,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1790774170",
+        "steam_url": "https://store.steampowered.com/app/1867240",
+        "product_family_identity": "appid:1867240",
+        "product_family_appid": "1867240",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 15.0,
+      "selection_reason": "Transport Fever 3 在 7 个已保存日榜中进入前五 4 天、前二 2 天，实际摘星 1 次，周复选分 15。",
+      "metrics": {
+        "product_family_identity": "appid:3493540",
+        "actual_star_count": 1,
+        "first_place_days": 1,
+        "second_place_days": 1,
+        "top_two_days": 2,
+        "top_five_days": 4,
+        "average_rank": 3.0,
+        "weekly_score": 15,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-09-30",
+            "rank": 5,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-01",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-10-02",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-04",
+            "rank": 2,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-10-04"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-09-28-week/3493540.json",
+      "game": {
+        "slug": "transport-fever-3",
+        "appid": "3493540",
+        "name": "Transport Fever 3",
+        "description": "更宏大、更深入、更动感的运输大亨养成游戏《狂热运输 3》强势回归。利用超过一个世纪以来不断发展的交通方式，打造改变世界格局的陆海空交通路线。设计并构建您的理想交通网络。",
+        "developer": "Urban Games",
+        "publisher": "Paradox Interactive",
+        "release_date": "2026-09-29",
+        "review_ratio": 70.0,
+        "review_total": 3948,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/8b9bceaacd144199a662460cf9d1f5800947eea1/header_alt_assets_0_schinese.jpg?t=1790777411",
+        "steam_url": "https://store.steampowered.com/app/3493540",
+        "product_family_identity": "appid:3493540",
+        "product_family_appid": "3493540",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 14.0,
+      "selection_reason": "Dressmaker 在 7 个已保存日榜中进入前五 5 天、前二 1 天，实际摘星 1 次，周复选分 14。",
+      "metrics": {
+        "product_family_identity": "appid:4019220",
+        "actual_star_count": 1,
+        "first_place_days": 1,
+        "second_place_days": 0,
+        "top_two_days": 1,
+        "top_five_days": 5,
+        "average_rank": 3.8,
+        "weekly_score": 14,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-09-28",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-09-29",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-01",
+            "rank": 5,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-02",
+            "rank": 5,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-03",
+            "rank": 5,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-10-03"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-09-28-week/4019220.json",
+      "game": {
+        "slug": "dressmaker",
+        "appid": "4019220",
+        "name": "Dressmaker",
+        "description": "在《针影裁梦》的世界，成为一名裁缝吧！选择布料、裁剪制版、缝制各类服装，来满足（或恶搞！）小镇居民。这款温馨的裁缝模拟游戏，灵感源自真实的服装制作工艺。",
+        "developer": "Cozy Lives",
+        "publisher": "Free Lives",
+        "release_date": "2026-09-21",
+        "review_ratio": 98.0,
+        "review_total": 8589,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg?t=1790947386",
+        "steam_url": "https://store.steampowered.com/app/4019220",
+        "product_family_identity": "appid:4019220",
+        "product_family_appid": "4019220",
+        "product_family_role": "full"
+      }
+    }
+  ]
+}
