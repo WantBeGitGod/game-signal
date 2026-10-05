@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-05T13:27:35",
+  "generated_at": "2026-10-05T21:24:34",
   "games": [
     {
       "game": {
@@ -1013,16 +1013,18 @@
         "product_family_appid": "2764460",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "sandustry"
+      ],
+      "article_title": "沙金工业-沙子也得上班",
+      "article_published_at": "2026-10-05",
       "star_dates": [
         "2026-08-16"
       ],
       "member_appids": [
         "2764460"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-08-16"
     },
     {
