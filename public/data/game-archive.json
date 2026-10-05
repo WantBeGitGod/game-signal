@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-05T04:28:44",
+  "generated_at": "2026-10-05T13:26:22",
   "games": [
     {
       "game": {
@@ -1167,9 +1167,11 @@
         "product_family_appid": "2142790",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "fields-of-mistria"
+      ],
+      "article_title": "Fields of Mistria-地还没种完，喜酒先安排上了",
+      "article_published_at": "2026-10-03",
       "star_dates": [
         "2026-08-10",
         "2026-08-07"
@@ -1177,7 +1179,7 @@
       "member_appids": [
         "2142790"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-08-10"
     },
     {
