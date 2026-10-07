@@ -1,0 +1,641 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-10-05",
+  "title": "10.05 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 43.66,
+    "fact_summary": "Dressmaker 今日观测峰值 43,236，较过往最高峰值提升 +31%，被识别为「新作起量」。",
+    "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-21",
+      "current_release_date": "2026-09-21",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-05 18:00:59",
+      "current_peak": 43236,
+      "previous_peak": 33016,
+      "previous_record_peak": 33016,
+      "growth_rate": 0.3095,
+      "record_growth_rate": 0.3095,
+      "scoring_peak": 43236,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 26.52,
+      "raw_record_growth_score": 10.83,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 1.7441,
+      "growth_scale_crossing_component": 0.3324,
+      "record_growth_score": 10.83,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 37.35,
+      "event_adjusted_score": 37.35,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 51.36,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-10-05",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.1687,
+      "base_score": 43.66,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 98.0,
+      "review_total": 9993,
+      "days_seen": 13,
+      "comeback_gap_days": 2,
+      "is_new_release": true,
+      "release_age_days": 14,
+      "steam_release_age_days": 14,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 556,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "休闲",
+        "模拟"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-21",
+      "release_event_age_days": 14,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 556,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-09-22",
+          "peak": 8029
+        },
+        {
+          "date": "2026-09-23",
+          "peak": 13090
+        },
+        {
+          "date": "2026-09-24",
+          "peak": 13103
+        },
+        {
+          "date": "2026-09-25",
+          "peak": 16727
+        },
+        {
+          "date": "2026-09-26",
+          "peak": 20648
+        },
+        {
+          "date": "2026-09-27",
+          "peak": 25732
+        },
+        {
+          "date": "2026-09-28",
+          "peak": 32164
+        },
+        {
+          "date": "2026-09-29",
+          "peak": 31349
+        },
+        {
+          "date": "2026-09-30",
+          "peak": 29957
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 29919
+        },
+        {
+          "date": "2026-10-02",
+          "peak": 30785
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 33016
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 43236
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4019220"
+      }
+    ],
+    "game": {
+      "slug": "dressmaker",
+      "appid": "4019220",
+      "name": "Dressmaker",
+      "name_cn": null,
+      "description": "在《针影裁梦》的世界，成为一名裁缝吧！选择布料、裁剪制版、缝制各类服装，来满足（或恶搞！）小镇居民。这款温馨的裁缝模拟游戏，灵感源自真实的服装制作工艺。",
+      "release_date": "2026-09-21",
+      "genres": [
+        "休闲",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "自定义音量控制",
+        "可以仅用鼠标",
+        "无需应对快速反应事件",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 98.0,
+      "review_total": 10645,
+      "developer": "Cozy Lives",
+      "publisher": "Free Lives",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg?t=1790947386",
+      "steam_url": "https://store.steampowered.com/app/4019220",
+      "product_family_identity": "appid:4019220",
+      "product_family_appid": "4019220",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-22",
+          "peak": 8029
+        },
+        {
+          "date": "2026-09-23",
+          "peak": 13090
+        },
+        {
+          "date": "2026-09-24",
+          "peak": 13103
+        },
+        {
+          "date": "2026-09-25",
+          "peak": 16727
+        },
+        {
+          "date": "2026-09-26",
+          "peak": 20648
+        },
+        {
+          "date": "2026-09-27",
+          "peak": 25732
+        },
+        {
+          "date": "2026-09-28",
+          "peak": 32164
+        },
+        {
+          "date": "2026-09-29",
+          "peak": 31349
+        },
+        {
+          "date": "2026-09-30",
+          "peak": 29957
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 29919
+        },
+        {
+          "date": "2026-10-02",
+          "peak": 30785
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 33016
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 43236
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《针影裁梦》是一款接单做衣服的单人裁缝模拟。选布、排纸样、裁剪、缝合，再加装饰，一件衣服要在你的手里慢慢成形。",
+      "reference_frame": "可以按“接委托的手工制作”来理解：居民告诉你要穿去什么场合、喜欢什么，你负责把要求变成成衣。布料纹理落在哪块衣片上、轮廓怎么搭、蕾丝放哪里，都会改变结果；做好的原创设计也能摆进橱窗出售。",
+      "for_players": "适合愿意为一块布的颜色、一条裙子的轮廓慢慢比较，也享受从草图做到成品的人。顾客给你一个创作题目，具体怎么做仍有自己的余地。",
+      "not_for_players": "如果你只想快速换装看效果，或更喜欢紧张经营、追求唯一最优方案，反复排版和缝制可能太慢。你得愿意亲手完成中间步骤。",
+      "star_reason": "10 月 5 日观测峰值为 43,236 人，比此前观测纪录高约 31%；同批可靠评价为 9,993 条、98% 好评。首发观察已成熟，计入一次摘星扣分后仍以 43.66 分排第一。",
+      "core_loop": [
+        "读顾客的场合与偏好，挑面料，在素描本里定下颜色和装饰。",
+        "排纸样、裁出衣片，放到人台上预览，再用缝纫机拼合、加上细节。",
+        "交付成衣换取金币和声望，或展示自己的设计，再开始下一件作品。"
+      ],
+      "content_length": 432
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-07T07:19:00+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 1,
+          "inspected_count": 15,
+          "top_views": 185756,
+          "search_url": "https://www.youtube.com/results?search_query=Dressmaker",
+          "sources": [
+            {
+              "title": "It's the coziest game of the year (Dressmaker)",
+              "url": "https://www.youtube.com/watch?v=_SFPYjc59co",
+              "published_on": "2026-10-05"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 4,
+          "inspected_count": 30,
+          "top_views": 488,
+          "search_url": "https://search.bilibili.com/all?keyword=Dressmaker",
+          "sources": [
+            {
+              "title": "[中配]《 Dressmaker 》快速赚钱攻略：利用粗麻布与配饰提升收入",
+              "url": "https://www.bilibili.com/video/BV1h9Hx6mEhw/",
+              "published_on": "2026-10-05"
+            },
+            {
+              "title": "白嫖党狂喜~【针影裁梦 Dressmaker 】三端下载安装指南 手机电脑苹果均可运行 解压即玩秒进！免费自取~~~",
+              "url": "https://www.bilibili.com/video/BV1iqHZ6UERf/",
+              "published_on": "2026-10-06"
+            },
+            {
+              "title": "开始踩缝纫机 Dressmaker 2026.10.05 - 21.06.21.01",
+              "url": "https://www.bilibili.com/video/BV1kepw6TEpy/",
+              "published_on": "2026-10-07"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 43.66,
+    "fact_summary": "Dressmaker 今日观测峰值 43,236，较过往最高峰值提升 +31%，被识别为「新作起量」。",
+    "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-21",
+      "current_release_date": "2026-09-21",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-05 18:00:59",
+      "current_peak": 43236,
+      "previous_peak": 33016,
+      "previous_record_peak": 33016,
+      "growth_rate": 0.3095,
+      "record_growth_rate": 0.3095,
+      "scoring_peak": 43236,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 26.52,
+      "raw_record_growth_score": 10.83,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 1.7441,
+      "growth_scale_crossing_component": 0.3324,
+      "record_growth_score": 10.83,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 37.35,
+      "event_adjusted_score": 37.35,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 51.36,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-10-05",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.1687,
+      "base_score": 43.66,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 98.0,
+      "review_total": 9993,
+      "days_seen": 13,
+      "comeback_gap_days": 2,
+      "is_new_release": true,
+      "release_age_days": 14,
+      "steam_release_age_days": 14,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 556,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "休闲",
+        "模拟"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-21",
+      "release_event_age_days": 14,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 556,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-09-22",
+          "peak": 8029
+        },
+        {
+          "date": "2026-09-23",
+          "peak": 13090
+        },
+        {
+          "date": "2026-09-24",
+          "peak": 13103
+        },
+        {
+          "date": "2026-09-25",
+          "peak": 16727
+        },
+        {
+          "date": "2026-09-26",
+          "peak": 20648
+        },
+        {
+          "date": "2026-09-27",
+          "peak": 25732
+        },
+        {
+          "date": "2026-09-28",
+          "peak": 32164
+        },
+        {
+          "date": "2026-09-29",
+          "peak": 31349
+        },
+        {
+          "date": "2026-09-30",
+          "peak": 29957
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 29919
+        },
+        {
+          "date": "2026-10-02",
+          "peak": 30785
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 33016
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 43236
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4019220"
+      }
+    ],
+    "game": {
+      "slug": "dressmaker",
+      "appid": "4019220",
+      "name": "Dressmaker",
+      "name_cn": null,
+      "description": "在《针影裁梦》的世界，成为一名裁缝吧！选择布料、裁剪制版、缝制各类服装，来满足（或恶搞！）小镇居民。这款温馨的裁缝模拟游戏，灵感源自真实的服装制作工艺。",
+      "release_date": "2026-09-21",
+      "genres": [
+        "休闲",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "自定义音量控制",
+        "可以仅用鼠标",
+        "无需应对快速反应事件",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 98.0,
+      "review_total": 10645,
+      "developer": "Cozy Lives",
+      "publisher": "Free Lives",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg?t=1790947386",
+      "steam_url": "https://store.steampowered.com/app/4019220",
+      "product_family_identity": "appid:4019220",
+      "product_family_appid": "4019220",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-22",
+          "peak": 8029
+        },
+        {
+          "date": "2026-09-23",
+          "peak": 13090
+        },
+        {
+          "date": "2026-09-24",
+          "peak": 13103
+        },
+        {
+          "date": "2026-09-25",
+          "peak": 16727
+        },
+        {
+          "date": "2026-09-26",
+          "peak": 20648
+        },
+        {
+          "date": "2026-09-27",
+          "peak": 25732
+        },
+        {
+          "date": "2026-09-28",
+          "peak": 32164
+        },
+        {
+          "date": "2026-09-29",
+          "peak": 31349
+        },
+        {
+          "date": "2026-09-30",
+          "peak": 29957
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 29919
+        },
+        {
+          "date": "2026-10-02",
+          "peak": 30785
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 33016
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 43236
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《针影裁梦》是一款接单做衣服的单人裁缝模拟。选布、排纸样、裁剪、缝合，再加装饰，一件衣服要在你的手里慢慢成形。",
+      "reference_frame": "可以按“接委托的手工制作”来理解：居民告诉你要穿去什么场合、喜欢什么，你负责把要求变成成衣。布料纹理落在哪块衣片上、轮廓怎么搭、蕾丝放哪里，都会改变结果；做好的原创设计也能摆进橱窗出售。",
+      "for_players": "适合愿意为一块布的颜色、一条裙子的轮廓慢慢比较，也享受从草图做到成品的人。顾客给你一个创作题目，具体怎么做仍有自己的余地。",
+      "not_for_players": "如果你只想快速换装看效果，或更喜欢紧张经营、追求唯一最优方案，反复排版和缝制可能太慢。你得愿意亲手完成中间步骤。",
+      "star_reason": "10 月 5 日观测峰值为 43,236 人，比此前观测纪录高约 31%；同批可靠评价为 9,993 条、98% 好评。首发观察已成熟，计入一次摘星扣分后仍以 43.66 分排第一。",
+      "core_loop": [
+        "读顾客的场合与偏好，挑面料，在素描本里定下颜色和装饰。",
+        "排纸样、裁出衣片，放到人台上预览，再用缝纫机拼合、加上细节。",
+        "交付成衣换取金币和声望，或展示自己的设计，再开始下一件作品。"
+      ],
+      "content_length": 432
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-07T07:19:00+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 1,
+          "inspected_count": 15,
+          "top_views": 185756,
+          "search_url": "https://www.youtube.com/results?search_query=Dressmaker",
+          "sources": [
+            {
+              "title": "It's the coziest game of the year (Dressmaker)",
+              "url": "https://www.youtube.com/watch?v=_SFPYjc59co",
+              "published_on": "2026-10-05"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 4,
+          "inspected_count": 30,
+          "top_views": 488,
+          "search_url": "https://search.bilibili.com/all?keyword=Dressmaker",
+          "sources": [
+            {
+              "title": "[中配]《 Dressmaker 》快速赚钱攻略：利用粗麻布与配饰提升收入",
+              "url": "https://www.bilibili.com/video/BV1h9Hx6mEhw/",
+              "published_on": "2026-10-05"
+            },
+            {
+              "title": "白嫖党狂喜~【针影裁梦 Dressmaker 】三端下载安装指南 手机电脑苹果均可运行 解压即玩秒进！免费自取~~~",
+              "url": "https://www.bilibili.com/video/BV1iqHZ6UERf/",
+              "published_on": "2026-10-06"
+            },
+            {
+              "title": "开始踩缝纫机 Dressmaker 2026.10.05 - 21.06.21.01",
+              "url": "https://www.bilibili.com/video/BV1kepw6TEpy/",
+              "published_on": "2026-10-07"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
