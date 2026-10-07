@@ -32,7 +32,7 @@ if (import.meta.dev) {
     const date = props.issueDate, appid = props.appid
     if (!appid) return
     try {
-      const result = await $fetch<Preview | null>(`http://127.0.0.1:3212/preview/${date}`, { timeout: 3000 })
+      const result = await $fetch<Preview | null>(`http://127.0.0.1:33212/preview/${date}`, { timeout: 3000 })
       if (props.issueDate === date && props.appid === appid && result?.issue_date === date && result.appid === appid) {
         data.value = result
         await nextTick()
