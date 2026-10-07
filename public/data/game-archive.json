@@ -1,7 +1,40 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-07T15:19:31",
+  "generated_at": "2026-10-07T15:25:16",
   "games": [
+    {
+      "game": {
+        "slug": "aion-2",
+        "appid": "3393110",
+        "name": "AION 2",
+        "name_cn": null,
+        "description": "《AION 2》！唯一一款以天空为战场的 MMORPG。选择阵营，张开羽翼化身为守护者， 在比初代辽阔 36 倍的宏大世界中展开阵营激战！由虚幻引擎5全力打造，只有PC平台才能享受的游戏体验！",
+        "genres": [
+          "动作",
+          "冒险",
+          "大型多人在线",
+          "角色扮演",
+          "免费"
+        ],
+        "developer": "NC",
+        "publisher": "NC",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393110/10aa4b096ebe6af0d1dd7882e5ba004271aef6f7/header.jpg?t=1791205225",
+        "product_family_identity": "appid:3393110",
+        "product_family_appid": "3393110",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-10-06"
+      ],
+      "member_appids": [
+        "3393110"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-10-06"
+    },
     {
       "game": {
         "slug": "dressmaker",

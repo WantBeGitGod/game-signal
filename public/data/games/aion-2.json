@@ -1,0 +1,53 @@
+{
+  "slug": "aion-2",
+  "appid": "3393110",
+  "name": "AION 2",
+  "name_cn": null,
+  "description": "《AION 2》！唯一一款以天空为战场的 MMORPG。选择阵营，张开羽翼化身为守护者， 在比初代辽阔 36 倍的宏大世界中展开阵营激战！由虚幻引擎5全力打造，只有PC平台才能享受的游戏体验！",
+  "release_date": "2026-10-05",
+  "genres": [
+    "动作",
+    "冒险",
+    "大型多人在线",
+    "角色扮演",
+    "免费"
+  ],
+  "tags": [
+    "多人",
+    "大型多人在线",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "应用内购买",
+    "可调整文字大小",
+    "视角舒适度",
+    "可选颜色",
+    "#category_contrast_controls",
+    "自定义音量控制",
+    "立体声",
+    "字幕选项",
+    "环绕声",
+    "家庭共享"
+  ],
+  "review_score": "Mixed",
+  "review_ratio": 69.0,
+  "review_total": 11144,
+  "developer": "NC",
+  "publisher": "NC",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393110/10aa4b096ebe6af0d1dd7882e5ba004271aef6f7/header.jpg?t=1791205225",
+  "steam_url": "https://store.steampowered.com/app/3393110",
+  "product_family_identity": "appid:3393110",
+  "product_family_appid": "3393110",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-10-04",
+      "peak": 151798
+    },
+    {
+      "date": "2026-10-06",
+      "peak": 233712
+    }
+  ]
+}

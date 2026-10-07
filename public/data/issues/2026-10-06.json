@@ -1,0 +1,521 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-10-06",
+  "title": "10.06 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 73.61,
+    "fact_summary": "AION 2 今日观测峰值 233,712，较过往最高峰值提升 +54%，被识别为「新作起量」。",
+    "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-05",
+      "current_release_date": "2026-10-05",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-06 17:50:26",
+      "current_peak": 233712,
+      "previous_peak": 151798,
+      "previous_record_peak": 151798,
+      "growth_rate": 0.5396,
+      "record_growth_rate": 0.5396,
+      "scoring_peak": 233712,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 40.0,
+      "raw_record_growth_score": 18.89,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 36.8682,
+      "growth_scale_crossing_component": 2.2371,
+      "record_growth_score": 18.89,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 58.89,
+      "event_adjusted_score": 58.89,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 73.61,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-10-06",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.25,
+      "base_score": 73.61,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 69.0,
+      "review_total": 11144,
+      "days_seen": 2,
+      "comeback_gap_days": 2,
+      "is_new_release": true,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "official_advanced_access",
+      "release_verification_required": false,
+      "release_verification": {
+        "title": "Advanced Access & War for Atreia Series 1 Twitch Drops",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656390939",
+        "date": 1791109462,
+        "contents": "Hello Daevas, Don't miss your chance to earn Advanced Access and War for Atreia Series 1 in-game rewards by watching AION 2 Twitch streams before Oct 4, 23:59 PDT (Oct 5, 08:59 CEST)! Advanced Access rewards are available on any channel streaming AION 2, but tune in to one of our 60 War for Atreia c...",
+        "author": "nc_community",
+        "feed_label": "Community Announcements",
+        "feed_name": "steam_community_announcements",
+        "feed_type": 1,
+        "is_external_url": true
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "大型多人在线",
+        "角色扮演",
+        "免费"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-10-05",
+      "release_event_age_days": 1,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "title": "Advanced Access & War for Atreia Series 1 Twitch Drops",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656390939",
+        "date": 1791109462,
+        "contents": "Hello Daevas, Don't miss your chance to earn Advanced Access and War for Atreia Series 1 in-game rewards by watching AION 2 Twitch streams before Oct 4, 23:59 PDT (Oct 5, 08:59 CEST)! Advanced Access rewards are available on any channel streaming AION 2, but tune in to one of our 60 War for Atreia c...",
+        "author": "nc_community",
+        "feed_label": "Community Announcements",
+        "feed_name": "steam_community_announcements",
+        "feed_type": 1,
+        "is_external_url": true
+      },
+      "release_event_date_basis": "official_advanced_access",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-10-04",
+          "peak": 151798
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 233712
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3393110"
+      }
+    ],
+    "game": {
+      "slug": "aion-2",
+      "appid": "3393110",
+      "name": "AION 2",
+      "name_cn": null,
+      "description": "《AION 2》！唯一一款以天空为战场的 MMORPG。选择阵营，张开羽翼化身为守护者， 在比初代辽阔 36 倍的宏大世界中展开阵营激战！由虚幻引擎5全力打造，只有PC平台才能享受的游戏体验！",
+      "release_date": "2026-10-05",
+      "genres": [
+        "动作",
+        "冒险",
+        "大型多人在线",
+        "角色扮演",
+        "免费"
+      ],
+      "tags": [
+        "多人",
+        "大型多人在线",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "应用内购买",
+        "可调整文字大小",
+        "视角舒适度",
+        "可选颜色",
+        "#category_contrast_controls",
+        "自定义音量控制",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 69.0,
+      "review_total": 11144,
+      "developer": "NC",
+      "publisher": "NC",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393110/10aa4b096ebe6af0d1dd7882e5ba004271aef6f7/header.jpg?t=1791205225",
+      "steam_url": "https://store.steampowered.com/app/3393110",
+      "product_family_identity": "appid:3393110",
+      "product_family_appid": "3393110",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-04",
+          "peak": 151798
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 233712
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《AION 2》是一款把飞行纳入战斗的 MMORPG。选择天族或魔族、培养自己的职业角色，再和其他玩家一起挑战副本、参与阵营交战。",
+      "reference_frame": "玩过《仙境传说》的人会熟悉练职业、刷装备、组队打 Boss 这条长期成长线。这里更需要适应三维空间里的移动与战斗：张开翅膀以后，接近敌人的路线和攻击角度也会改变；职业成长经验能迁移，空中交战仍要重新学。",
+      "for_players": "适合愿意长期养一个角色、喜欢和固定队一起研究战斗的人。你要享受反复挑战和装备成长，也愿意把时间花在配合、走位与认识其他玩家上。",
+      "not_for_players": "如果你更想独自体验一段有明确结局的故事，或者讨厌重复刷取、等待队友，这种长期在线的节奏可能让你疲惫。能飞只是入口，持续参与多人玩法才是主要投入。",
+      "star_reason": "10 月 6 日本地观测峰值为 233,712，较此前最高观测值增长约 54%；同日可靠评价为 11,144 条、69% 好评。按本期规则得分 73.61，排名第一并通过资格检查，首次摘星。起量说明首发关注度，评价则提示体验存在分歧。",
+      "core_loop": [
+        "选定职业，推进任务和探索，熟悉技能与地面、空中的移动方式。",
+        "找队友挑战副本，按自己的职业职责配合，用战斗收益调整装备和技能。",
+        "带着成长后的角色进入下一轮副本或阵营交战，再根据遇到的对手调整打法。"
+      ],
+      "content_length": 500
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-07T07:24:43+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 16,
+          "inspected_count": 20,
+          "top_views": 236065,
+          "search_url": "https://www.youtube.com/results?search_query=AION%202",
+          "sources": [
+            {
+              "title": "AION 2 Templar: New In-Game Macro, Higher DPS",
+              "url": "https://www.youtube.com/watch?v=N9P4iuNHGLc",
+              "published_on": "2026-10-07"
+            },
+            {
+              "title": "AION 2 Sorcerer Build UPDATE - Best PvE Skills, Stigmas, Macro & Rotation",
+              "url": "https://www.youtube.com/watch?v=Qr9NvMvI1-M",
+              "published_on": "2026-10-07"
+            },
+            {
+              "title": "What The Game DOESN'T Tell You! Everything I Wish I Knew! // Aion 2 Beginner Guide",
+              "url": "https://www.youtube.com/watch?v=RKVtRzf3IIU",
+              "published_on": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 2,
+          "inspected_count": 28,
+          "top_views": 12000,
+          "search_url": "https://search.bilibili.com/all?keyword=AION%202",
+          "sources": [
+            {
+              "title": "玩《 AION 2 》玩得超开心",
+              "url": "https://www.bilibili.com/video/BV1cCHa6SEuW/",
+              "published_on": "2026-10-03"
+            },
+            {
+              "title": "《永恒之塔 2 Aion 2 》「自己做主」",
+              "url": "https://www.bilibili.com/video/BV1kEpA6TENh/",
+              "published_on": "2026-10-07"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 73.61,
+    "fact_summary": "AION 2 今日观测峰值 233,712，较过往最高峰值提升 +54%，被识别为「新作起量」。",
+    "metrics": {
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-05",
+      "current_release_date": "2026-10-05",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-06 17:50:26",
+      "current_peak": 233712,
+      "previous_peak": 151798,
+      "previous_record_peak": 151798,
+      "growth_rate": 0.5396,
+      "record_growth_rate": 0.5396,
+      "scoring_peak": 233712,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 40.0,
+      "raw_record_growth_score": 18.89,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 36.8682,
+      "growth_scale_crossing_component": 2.2371,
+      "record_growth_score": 18.89,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 58.89,
+      "event_adjusted_score": 58.89,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 73.61,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-10-06",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.25,
+      "base_score": 73.61,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 69.0,
+      "review_total": 11144,
+      "days_seen": 2,
+      "comeback_gap_days": 2,
+      "is_new_release": true,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "official_advanced_access",
+      "release_verification_required": false,
+      "release_verification": {
+        "title": "Advanced Access & War for Atreia Series 1 Twitch Drops",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656390939",
+        "date": 1791109462,
+        "contents": "Hello Daevas, Don't miss your chance to earn Advanced Access and War for Atreia Series 1 in-game rewards by watching AION 2 Twitch streams before Oct 4, 23:59 PDT (Oct 5, 08:59 CEST)! Advanced Access rewards are available on any channel streaming AION 2, but tune in to one of our 60 War for Atreia c...",
+        "author": "nc_community",
+        "feed_label": "Community Announcements",
+        "feed_name": "steam_community_announcements",
+        "feed_type": 1,
+        "is_external_url": true
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "大型多人在线",
+        "角色扮演",
+        "免费"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-10-05",
+      "release_event_age_days": 1,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "title": "Advanced Access & War for Atreia Series 1 Twitch Drops",
+        "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1845383656390939",
+        "date": 1791109462,
+        "contents": "Hello Daevas, Don't miss your chance to earn Advanced Access and War for Atreia Series 1 in-game rewards by watching AION 2 Twitch streams before Oct 4, 23:59 PDT (Oct 5, 08:59 CEST)! Advanced Access rewards are available on any channel streaming AION 2, but tune in to one of our 60 War for Atreia c...",
+        "author": "nc_community",
+        "feed_label": "Community Announcements",
+        "feed_name": "steam_community_announcements",
+        "feed_type": 1,
+        "is_external_url": true
+      },
+      "release_event_date_basis": "official_advanced_access",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-10-04",
+          "peak": 151798
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 233712
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3393110"
+      }
+    ],
+    "game": {
+      "slug": "aion-2",
+      "appid": "3393110",
+      "name": "AION 2",
+      "name_cn": null,
+      "description": "《AION 2》！唯一一款以天空为战场的 MMORPG。选择阵营，张开羽翼化身为守护者， 在比初代辽阔 36 倍的宏大世界中展开阵营激战！由虚幻引擎5全力打造，只有PC平台才能享受的游戏体验！",
+      "release_date": "2026-10-05",
+      "genres": [
+        "动作",
+        "冒险",
+        "大型多人在线",
+        "角色扮演",
+        "免费"
+      ],
+      "tags": [
+        "多人",
+        "大型多人在线",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "应用内购买",
+        "可调整文字大小",
+        "视角舒适度",
+        "可选颜色",
+        "#category_contrast_controls",
+        "自定义音量控制",
+        "立体声",
+        "字幕选项",
+        "环绕声",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 69.0,
+      "review_total": 11144,
+      "developer": "NC",
+      "publisher": "NC",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393110/10aa4b096ebe6af0d1dd7882e5ba004271aef6f7/header.jpg?t=1791205225",
+      "steam_url": "https://store.steampowered.com/app/3393110",
+      "product_family_identity": "appid:3393110",
+      "product_family_appid": "3393110",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-04",
+          "peak": 151798
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 233712
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《AION 2》是一款把飞行纳入战斗的 MMORPG。选择天族或魔族、培养自己的职业角色，再和其他玩家一起挑战副本、参与阵营交战。",
+      "reference_frame": "玩过《仙境传说》的人会熟悉练职业、刷装备、组队打 Boss 这条长期成长线。这里更需要适应三维空间里的移动与战斗：张开翅膀以后，接近敌人的路线和攻击角度也会改变；职业成长经验能迁移，空中交战仍要重新学。",
+      "for_players": "适合愿意长期养一个角色、喜欢和固定队一起研究战斗的人。你要享受反复挑战和装备成长，也愿意把时间花在配合、走位与认识其他玩家上。",
+      "not_for_players": "如果你更想独自体验一段有明确结局的故事，或者讨厌重复刷取、等待队友，这种长期在线的节奏可能让你疲惫。能飞只是入口，持续参与多人玩法才是主要投入。",
+      "star_reason": "10 月 6 日本地观测峰值为 233,712，较此前最高观测值增长约 54%；同日可靠评价为 11,144 条、69% 好评。按本期规则得分 73.61，排名第一并通过资格检查，首次摘星。起量说明首发关注度，评价则提示体验存在分歧。",
+      "core_loop": [
+        "选定职业，推进任务和探索，熟悉技能与地面、空中的移动方式。",
+        "找队友挑战副本，按自己的职业职责配合，用战斗收益调整装备和技能。",
+        "带着成长后的角色进入下一轮副本或阵营交战，再根据遇到的对手调整打法。"
+      ],
+      "content_length": 500
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-07T07:24:43+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 16,
+          "inspected_count": 20,
+          "top_views": 236065,
+          "search_url": "https://www.youtube.com/results?search_query=AION%202",
+          "sources": [
+            {
+              "title": "AION 2 Templar: New In-Game Macro, Higher DPS",
+              "url": "https://www.youtube.com/watch?v=N9P4iuNHGLc",
+              "published_on": "2026-10-07"
+            },
+            {
+              "title": "AION 2 Sorcerer Build UPDATE - Best PvE Skills, Stigmas, Macro & Rotation",
+              "url": "https://www.youtube.com/watch?v=Qr9NvMvI1-M",
+              "published_on": "2026-10-07"
+            },
+            {
+              "title": "What The Game DOESN'T Tell You! Everything I Wish I Knew! // Aion 2 Beginner Guide",
+              "url": "https://www.youtube.com/watch?v=RKVtRzf3IIU",
+              "published_on": "2026-10-07"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 2,
+          "inspected_count": 28,
+          "top_views": 12000,
+          "search_url": "https://search.bilibili.com/all?keyword=AION%202",
+          "sources": [
+            {
+              "title": "玩《 AION 2 》玩得超开心",
+              "url": "https://www.bilibili.com/video/BV1cCHa6SEuW/",
+              "published_on": "2026-10-03"
+            },
+            {
+              "title": "《永恒之塔 2 Aion 2 》「自己做主」",
+              "url": "https://www.bilibili.com/video/BV1kEpA6TENh/",
+              "published_on": "2026-10-07"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
