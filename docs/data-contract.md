@@ -8,6 +8,8 @@ The public repository receives reviewed publication data only. Raw SQLite files,
 - `public/data/status.json`: latest collection, publish state, continuous live days and delay marker.
 - `public/data/scoring.json`: public snapshot of the current deterministic scoring weights and discounts.
 - `public/data/issues/YYYY-MM-DD.json`: one public `star_signal`, facts, scores, trends, source links and `star_appearance` count. `main_signal` remains a compatibility alias for the star during the transition; `secondary_signals` is intentionally empty.
+
+When available, the star also has optional `platform_attention`: a one-time seven-day search sample with `sampled_at`, `basis: "搜索样本"`, and only successfully sampled platforms. Each platform exposes its searched-result count, matched recent-content count, highest cumulative view count in the sample, search URL and up to three item links. The field is absent when no platform succeeds. Missing platforms are not zeros; these counts are not platform totals or a cross-platform score. Private candidate details and collection failures are never exported. Historical issues need no backfill.
 - `public/data/weekly/manifest.json`: weekly issue archive and latest weekly pointer.
 - `public/data/weekly/<slug>.json`: one weekly Collection with the reselected top five, the actual-star timeline and exactly two selected Article references. Only those two Articles may carry one-month chart JSON references. The public fields are `article_selected` and `article_slug`; the weekly page owns no long-form body.
 - `public/data/charts/<appid>.json`: derived hour-level player curve, daily peaks and window peak from reviewed SteamDB chart imports.
@@ -48,6 +50,12 @@ The Article preview image is identity metadata, not an editorial illustration. T
 - SteamDB CSV/XLS/PNG source files remain private. Public chart JSON is derived display data and does not expose raw downloads.
 - `schema_version` changes when the JSON contract makes a breaking change.
 
+
+## Local community-report experiment
+
+`CommunityNotes` is development-only and reads sanitized summaries from the local editorial workbench. These records are not written into published issue JSON and are not fetched by generated production pages. For the same Steam AppID, repeat issues reuse the first nonempty community report; they retain its text, sources, sample count and actual sample timestamp. `issue_date` is the viewed issue, while `report_issue_date` identifies the original report and is linked visibly when reused. Issues older than the original report are not backfilled. This does not change daily-star scoring or merge issue archives.
+
+`sample_count` counts selected research candidates across reviews, news and video text. It is neither a game's total review count nor a population-level popularity indicator. Different collection and filtering versions cannot be compared as a change in public attention.
 
 ## Game news and release timeline
 

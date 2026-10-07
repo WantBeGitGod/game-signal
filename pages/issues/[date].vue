@@ -10,7 +10,9 @@
         <span class="data-note">规则评分 {{ starSignal.score.toFixed(1) }}</span>
       </div>
       <SignalCard :signal="starSignal" />
+      <PlatformAttention v-if="starSignal.platform_attention" :attention="starSignal.platform_attention" />
       <DailyStarQuickTake v-if="starSignal.quick_take" :brief="starSignal.quick_take" :selection-note="starSignal.selection_note" :selection-context="starSignal.selection_context" />
+      <CommunityNotes :issue-date="issue.date" :appid="starSignal.game.appid" />
     </section>
     <aside class="source-note">
       <Database :size="20" />

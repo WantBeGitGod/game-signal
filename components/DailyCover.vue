@@ -47,6 +47,7 @@
           <strong>{{ starAppearanceLabel }}</strong>
         </div>
       </div>
+      <PlatformAttention v-if="starSignal.platform_attention" :attention="starSignal.platform_attention" compact />
       <NuxtLink v-if="!home" :to="`/issues/${issue.date}#main-signal`" class="command-link">
         查看数据与速读
         <ArrowUpRight :size="18" />

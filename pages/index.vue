@@ -5,6 +5,7 @@
     <section id="quick-take" class="home-reading">
       <DailyStarQuickTake v-if="starSignal?.quick_take" :brief="starSignal.quick_take" :selection-note="starSignal.selection_note" :selection-context="starSignal.selection_context" positioning-shown />
       <div v-else class="quick-take-unavailable"><h2>游戏速读整理中</h2><p>{{ starSignal?.game.description || starSignal?.fact_summary }}</p></div>
+      <CommunityNotes v-if="starSignal" :issue-date="issue.date" :appid="starSignal.game.appid" />
       <div class="reading-links">
         <NuxtLink :to="`/issues/${issue.date}#main-signal`" class="text-link">查看数据与来源 <ArrowUpRight :size="16" /></NuxtLink>
         <a v-if="starSignal?.game.steam_url" :href="starSignal.game.steam_url" target="_blank" rel="noopener noreferrer" class="text-link">前往 Steam <ArrowUpRight :size="16" /></a>

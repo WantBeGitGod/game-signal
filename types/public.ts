@@ -46,6 +46,22 @@ export type Signal = {
   sources: Array<{ title: string; url: string }>
   game: PublicGame
   quick_take?: DailyStarQuickTake
+  platform_attention?: PlatformAttention
+}
+
+export type PlatformAttention = {
+  sampled_at: string
+  window_days: number
+  basis: "搜索样本"
+  platforms: Array<{
+    id: "youtube" | "bilibili"
+    sampled_count: number
+    inspected_count: number
+    top_views: number | null
+    search_url: string
+    sources: Array<{ title: string; url: string; published_on: string }>
+  }>
+  controversies: Array<{ theme: string; summary: string; sources: Array<{ title: string; url: string }> }>
 }
 
 export type DailyStarQuickTake = {
