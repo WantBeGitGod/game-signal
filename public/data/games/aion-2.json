@@ -31,8 +31,8 @@
     "家庭共享"
   ],
   "review_score": "Mixed",
-  "review_ratio": 69.0,
-  "review_total": 11144,
+  "review_ratio": 66.0,
+  "review_total": 15177,
   "developer": "NC",
   "publisher": "NC",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393110/10aa4b096ebe6af0d1dd7882e5ba004271aef6f7/header.jpg?t=1791205225",
@@ -48,6 +48,10 @@
     {
       "date": "2026-10-06",
       "peak": 233712
+    },
+    {
+      "date": "2026-10-07",
+      "peak": 383103
     }
   ]
 }
