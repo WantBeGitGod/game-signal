@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-07T23:02:39",
+  "generated_at": "2026-10-07T23:07:15",
   "games": [
     {
       "game": {
@@ -23,9 +23,11 @@
         "product_family_appid": "3393110",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "aion-2"
+      ],
+      "article_title": "永恒之塔2-翅膀张开了，朋友约齐了吗？",
+      "article_published_at": "2026-10-07",
       "star_dates": [
         "2026-10-07",
         "2026-10-06"
@@ -33,7 +35,7 @@
       "member_appids": [
         "3393110"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-10-07"
     },
     {
