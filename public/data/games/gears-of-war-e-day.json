@@ -1,0 +1,38 @@
+{
+  "slug": "gears-of-war-e-day",
+  "appid": "3010850",
+  "name": "Gears of War: E-Day",
+  "name_cn": null,
+  "description": "沉浸式重温事变日——游戏史上最受赞誉的第三人称射击系列之一，其残酷的起源故事就此展开。",
+  "release_date": "2026-10-06",
+  "genres": [
+    "动作",
+    "冒险"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "跨平台多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "应用内购买",
+    "DualSense 控制器支持",
+    "可用 HDR",
+    "家庭共享"
+  ],
+  "review_score": "Mostly Positive",
+  "review_ratio": 75.0,
+  "review_total": 5688,
+  "developer": "The Coalition",
+  "publisher": "Xbox Game Studios",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/1abb0c5ef76c14f463dd6e3964adb64f984237d2/header.jpg?t=1791405196",
+  "steam_url": "https://store.steampowered.com/app/3010850",
+  "product_family_identity": "appid:3010850",
+  "product_family_appid": "3010850",
+  "product_family_role": "full",
+  "trend": []
+}
