@@ -6,7 +6,7 @@ export interface NewsProgress {
 export interface NewsEvent {
   id: number; title: string; summary: string; topics: string[]; kind: string
   created_at: string; updated_at: string; sources: NewsSource[]; progress: NewsProgress[]
-  content_updated_at?: string; prominence?: 'featured' | 'normal' | 'archive'; recommendation?: string
+  reported_at?: string | null; content_updated_at?: string; prominence?: 'featured' | 'normal' | 'archive'; recommendation?: string
   corrections?: { text: string; recorded_at: string }[]
 }
 export interface TimelineNode {

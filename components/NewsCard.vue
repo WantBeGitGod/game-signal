@@ -1,6 +1,6 @@
 <template>
   <article :id="`event-${event.id}`" class="news-card" :class="{ 'is-featured': isFeatured(event) }">
-    <div class="news-meta"><span class="news-category">{{ newsKinds[event.kind] || '游戏动态' }}</span><span v-if="isFeatured(event)" class="news-pick"><Star :size="12" /> 精选</span><span v-if="newsStatus(event) !== '新收录'" class="news-change">{{ newsStatus(event) }}</span><time :datetime="newsTime(event)">{{ newsStatus(event) === '新收录' ? '收录 ' : '更新 ' }}{{ newsTimestamp(newsTime(event)) }}</time></div>
+    <div class="news-meta"><span class="news-category">{{ newsKinds[event.kind] || '游戏动态' }}</span><span v-if="isFeatured(event)" class="news-pick"><Star :size="12" /> 精选</span><span v-if="newsStatus(event) !== '新收录'" class="news-change">{{ newsStatus(event) }}</span><time :datetime="newsTime(event)">{{ newsStatus(event) === '新收录' ? '报道 ' : '进展 ' }}{{ newsTimestamp(newsTime(event)) }}</time></div>
     <h2><NuxtLink :to="`/news/${event.id}`">{{ event.title }}</NuxtLink></h2>
     <p class="news-summary">{{ event.summary }}</p>
     <p v-if="isFeatured(event)" class="news-recommendation"><span>为什么看</span>{{ event.recommendation }}</p>
