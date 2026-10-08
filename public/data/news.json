@@ -1,7 +1,43 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-08T03:23:03.965274+00:00",
+  "generated_at": "2026-10-08T06:57:14.188947+00:00",
   "events": [
+    {
+      "id": 44,
+      "title": "《Monster Hunter Stories 3: Twisted Reflection》推出 Xbox on PC 版",
+      "summary": "Xbox 官方宣布，《Monster Hunter Stories 3: Twisted Reflection》将于 2026 年 11 月 18 日登陆 Xbox on PC，并支持 Xbox Play Anywhere，可在 Xbox Series X|S、Windows 11 PC 与兼容掌机间无缝继承存档、追加内容与成就；游戏目前已上线 Xbox Series X|S。原文同时提到系列 10 周年、10 月 22 日至 25 日《Monster Hunter Stories》与《Monster Hunter Stories 2》免费试玩，以及 DLC「Side Story: Rudy」和通关后高难度内容。",
+      "topics": [
+        "Monster Hunter Stories 3: Twisted Reflection",
+        "Capcom",
+        "Xbox"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-08T05:22:59.243722+00:00",
+      "updated_at": "2026-10-08T05:22:59.243722+00:00",
+      "content_updated_at": "2026-10-08T05:22:59.243722+00:00",
+      "reported_at": "2026-10-08T04:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://news.xbox.com/en-us/2026/10/07/monster-hunter-stories-3-xbox-px-xbox-play-anywhere-announce/",
+          "title": "Monster Hunter Stories 3: Twisted Reflection Heading to XBOX on PC November 18",
+          "published_at": "2026-10-08T04:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 45,
+          "text": "《Monster Hunter Stories 3: Twisted Reflection》将于 2026 年 11 月 18 日推出 Xbox on PC 版本，支持 Xbox Play Anywhere；游戏目前已在 Xbox Series X|S 上线。原文另提到：系列于 10 月 8 日迎来 10 周年；《Monster Hunter Stories》和《Monster Hunter Stories 2: Wings of Ruin》将于 2026 年 10 月 22 日至 25 日向所有 Xbox 玩家开放三小时限时试玩；《Monster Hunter Stories 3》的 DLC「Side Story: Rudy」现已推出并包含在 Deluxe Edition、Premium Deluxe Edition 和 Deluxe Kit 中；通关后可挑战高难度最终 BOSS，击败后地图各区域会出现 Royal 版怪物等。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://news.xbox.com/en-us/2026/10/07/monster-hunter-stories-3-xbox-px-xbox-play-anywhere-announce/",
+          "action": "create_event",
+          "recorded_at": "2026-10-08T05:22:59.244736+00:00",
+          "source_published_at": "2026-10-08T04:00:00+00:00"
+        }
+      ]
+    },
     {
       "id": 43,
       "title": "Bit Reactor 开始让被休假员工回归",
