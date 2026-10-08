@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-08T20:43:52",
+  "generated_at": "2026-10-08T20:56:54",
   "games": [
     {
       "game": {
@@ -25,12 +25,14 @@
       ],
       "article_title": "战争机器：事变日-老兵归队，新兵先找掩体",
       "article_published_at": "2026-10-08",
-      "star_dates": [],
+      "star_dates": [
+        "2026-10-08"
+      ],
       "member_appids": [
         "3010850"
       ],
       "article_count": 1,
-      "latest_star_date": null
+      "latest_star_date": "2026-10-08"
     },
     {
       "game": {

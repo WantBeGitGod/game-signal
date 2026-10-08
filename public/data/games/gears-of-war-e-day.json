@@ -34,5 +34,18 @@
   "product_family_identity": "appid:3010850",
   "product_family_appid": "3010850",
   "product_family_role": "full",
-  "trend": []
+  "trend": [
+    {
+      "date": "2026-10-04",
+      "peak": 12907
+    },
+    {
+      "date": "2026-10-07",
+      "peak": 23132
+    },
+    {
+      "date": "2026-10-08",
+      "peak": 28579
+    }
+  ]
 }
