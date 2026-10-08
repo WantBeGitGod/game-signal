@@ -1,6 +1,6 @@
 <template>
   <section v-if="picks.length" class="home-news">
-    <div class="home-news-heading"><div><p class="eyebrow">THE NEWS DESK / 资讯</p><h2>{{ hasFeatured ? '这些消息，值得先看。' : '游戏世界，正在发生。' }}</h2></div><NuxtLink to="/news">全部资讯 <ArrowUpRight :size="18" /></NuxtLink></div>
+    <div class="home-news-heading"><div><p class="eyebrow">THE NEWS DESK / 资讯</p><h2>{{ hasFeatured ? '这些消息，值得先看。' : '游戏世界，正在发生。' }}</h2></div><NuxtLink to="/news">近期动态 <ArrowUpRight :size="18" /></NuxtLink></div>
     <div class="home-news-grid"><NewsCard v-for="event in picks" :key="event.id" :event="event" /></div>
   </section>
 </template>
@@ -8,7 +8,8 @@
 import { ArrowUpRight } from 'lucide-vue-next'
 import { homeNews, isFeatured } from '~/utils/newsFeed'
 const { data } = await useNews()
-const picks = computed(() => homeNews(data.value?.events || []))
+const newsNow = useNewsNow()
+const picks = computed(() => homeNews(data.value?.events || [], 3, newsNow.value))
 const hasFeatured = computed(() => picks.value.some(isFeatured))
 </script>
 <style scoped>
