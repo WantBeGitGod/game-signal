@@ -1,7 +1,150 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-08T01:24:36.587541+00:00",
+  "generated_at": "2026-10-08T07:33:11.140542+00:00",
   "events": [
+    {
+      "id": 46,
+      "title": "《Minecraft》Nintendo Switch 2 版开启预购并公布 10 月 27 日发售",
+      "summary": "任天堂官方宣布《Minecraft》Nintendo Switch 2 版即日起预购，2026 年 10 月 27 日发售，含数字 Standard、Deluxe Collection、Ultimate Collection 及实体版；各版本均附带 Super Mario Mash-Up Pack 与 Vibrant Visuals（分屏及部分 Marketplace 内容不支持）。原 Switch 数字版用户可在 2027 年 1 月底前于多数地区免费预购 Switch 2 数字标准版，或付费折扣升级至 Deluxe/Ultimate，日本和台湾地区标准版升级分别收费 100 日元、30 新台币。",
+      "topics": [
+        "Minecraft",
+        "Nintendo",
+        "Mojang Studios"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-08T07:28:40.846512+00:00",
+      "updated_at": "2026-10-08T07:28:40.846512+00:00",
+      "content_updated_at": "2026-10-08T07:28:40.846512+00:00",
+      "reported_at": "2026-10-07T16:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/whatsnew/pre-order-minecraft-for-nintendo-switch-tm-2-today/",
+          "title": "Pre-order Minecraft for Nintendo Switch™ 2 today!",
+          "published_at": "2026-10-07T16:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 47,
+          "text": "任天堂官方宣布《Minecraft》Nintendo Switch 2 版开启预购，将于 2026 年 10 月 27 日发售；提供数字标准版、Deluxe Collection 与 Ultimate Collection 三个数字版本，各版本均含 Super Mario Mash-Up Pack 与 Vibrant Visuals（部分玩法如分屏及部分 Marketplace 内容不支持）；也可在零售渠道预购实体版。数字版升级方面，Switch 数字版用户在 2027 年 1 月底前可在多数地区免费预购 Switch 2 数字标准版，或付费折扣升级到 Deluxe/Ultimate；日本与台湾地区分别需 100 日元和 30 新台币升级标准版。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://www.nintendo.com/us/whatsnew/pre-order-minecraft-for-nintendo-switch-tm-2-today/",
+          "action": "create_event",
+          "recorded_at": "2026-10-08T07:28:40.847531+00:00",
+          "source_published_at": "2026-10-07T16:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "《Muramasa: Revenant Blades》PC 版试玩与技能系统重做",
+      "summary": "PC Gamer 上手《Muramasa: Revenant Blades》PC 版并采访导演 Wataru Nakanishi，介绍这一 2013 年 Vita 版之后的“决定版”为首次登陆 PC 的 Vanillaware 作品。新增 108 把刀各自独立装备技能的系统，取消原作敌人随玩家升级的缩放改为固定等级，高清美术为逐张手工修图重制，并收录 Vita 版追加的多名可操作角色。导演表示暂无可比照移植其他作品的具体计划。",
+      "topics": [
+        "Vanillaware",
+        "Muramasa: Revenant Blades"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-08T07:28:34.052472+00:00",
+      "updated_at": "2026-10-08T07:28:34.052472+00:00",
+      "content_updated_at": "2026-10-08T07:28:34.052472+00:00",
+      "reported_at": "2026-10-08T04:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.pcgamer.com/games/action/muramasa/",
+          "title": "Muramasa: Revenant Blades has 108 swords, and its definitive update for PC wants to make sure you use them all",
+          "published_at": "2026-10-08T04:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 46,
+          "text": "PC Gamer 上手体验《Muramasa: Revenant Blades》PC 版并采访导演 Wataru Nakanishi：原作 Wii 发售 17 年后首次登陆 PC；新增可独立装备 108 把刀技能的系统（可同时装配三把刀的地面与空中技能各三个）；取消原作随玩家等级提升的敌人缩放，改为各区固定等级；高清化由美术手工修图重制，含 2013 年 Vita 版追加的多位可操作角色；导演称目前没有把其他作品移植 PC 的具体计划，但希望本作成功带动讨论。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.pcgamer.com/games/action/muramasa/",
+          "action": "create_event",
+          "recorded_at": "2026-10-08T07:28:34.054475+00:00",
+          "source_published_at": "2026-10-08T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "《Monster Hunter Stories 3: Twisted Reflection》推出 Xbox on PC 版",
+      "summary": "Xbox 官方宣布，《Monster Hunter Stories 3: Twisted Reflection》将于 2026 年 11 月 18 日登陆 Xbox on PC，并支持 Xbox Play Anywhere，可在 Xbox Series X|S、Windows 11 PC 与兼容掌机间无缝继承存档、追加内容与成就；游戏目前已上线 Xbox Series X|S。原文同时提到系列 10 周年、10 月 22 日至 25 日《Monster Hunter Stories》与《Monster Hunter Stories 2》免费试玩，以及 DLC「Side Story: Rudy」和通关后高难度内容。",
+      "topics": [
+        "Monster Hunter Stories 3: Twisted Reflection",
+        "Capcom",
+        "Xbox"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-08T05:22:59.243722+00:00",
+      "updated_at": "2026-10-08T05:22:59.243722+00:00",
+      "content_updated_at": "2026-10-08T05:22:59.243722+00:00",
+      "reported_at": "2026-10-08T04:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://news.xbox.com/en-us/2026/10/07/monster-hunter-stories-3-xbox-px-xbox-play-anywhere-announce/",
+          "title": "Monster Hunter Stories 3: Twisted Reflection Heading to XBOX on PC November 18",
+          "published_at": "2026-10-08T04:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 45,
+          "text": "《Monster Hunter Stories 3: Twisted Reflection》将于 2026 年 11 月 18 日推出 Xbox on PC 版本，支持 Xbox Play Anywhere；游戏目前已在 Xbox Series X|S 上线。原文另提到：系列于 10 月 8 日迎来 10 周年；《Monster Hunter Stories》和《Monster Hunter Stories 2: Wings of Ruin》将于 2026 年 10 月 22 日至 25 日向所有 Xbox 玩家开放三小时限时试玩；《Monster Hunter Stories 3》的 DLC「Side Story: Rudy」现已推出并包含在 Deluxe Edition、Premium Deluxe Edition 和 Deluxe Kit 中；通关后可挑战高难度最终 BOSS，击败后地图各区域会出现 Royal 版怪物等。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://news.xbox.com/en-us/2026/10/07/monster-hunter-stories-3-xbox-px-xbox-play-anywhere-announce/",
+          "action": "create_event",
+          "recorded_at": "2026-10-08T05:22:59.244736+00:00",
+          "source_published_at": "2026-10-08T04:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Bit Reactor 开始让被休假员工回归",
+      "summary": "Bit Reactor CEO Greg Foertsch 表示，工作室本周开始让更多在《Star Wars: Zero Company》发售前被无薪休假的员工回归，并将尽可能让更多人回来；此前报道称约80%员工被休假，Game File 援引知情人士称目前超过一半总员工已回到工资单，但工作室未公布具体回归人数。",
+      "topics": [
+        "Bit Reactor",
+        "Electronic Arts",
+        "Star Wars: Zero Company"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-08T03:22:56.166343+00:00",
+      "updated_at": "2026-10-08T03:22:56.166343+00:00",
+      "content_updated_at": "2026-10-08T03:22:56.166343+00:00",
+      "reported_at": "2026-10-07T19:24:25+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
+          "title": "Star Wars: Zero Company studio is bringing \"as many people back as possible\" after furloughing \"most\" of its developers",
+          "published_at": "2026-10-07T19:24:25+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 44,
+          "text": "Bit Reactor 在《Star Wars: Zero Company》发售前让约80%员工无薪休假，本周开始让更多团队回归工作；CEO Greg Foertsch 表示将尽可能让更多人回来，但未说明回归人数，Game File 援引知情人士称超过一半总员工已回到工资单。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
+          "action": "create_event",
+          "recorded_at": "2026-10-08T03:22:56.167344+00:00",
+          "source_published_at": "2026-10-07T19:24:25+00:00"
+        }
+      ]
+    },
     {
       "id": 41,
       "title": "《控制：Resonant》后续计划：连续二周目与拍照模式",
