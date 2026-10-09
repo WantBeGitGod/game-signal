@@ -1,0 +1,897 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-10-09",
+  "title": "10.09 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "established_release_rise",
+    "label": "老游起量",
+    "score": 34.21,
+    "fact_summary": "How to Fish 今日观测峰值 70,704，未超过过往最高峰值 82,158，被识别为「老游起量」。",
+    "metrics": {
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-08-20",
+      "current_release_date": "2026-08-20",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-09 18:02:21",
+      "current_peak": 70704,
+      "previous_peak": 82158,
+      "previous_record_peak": 82158,
+      "growth_rate": -0.1394,
+      "record_growth_rate": -0.1394,
+      "scoring_peak": 70704,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 36.59,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 10.7999,
+      "growth_scale_crossing_component": 0.607,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 36.59,
+      "event_adjusted_score": 36.59,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 40.25,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-10-09",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.935,
+      "base_score": 34.21,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 4,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 4,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 4,
+      "total_star_count": 5,
+      "star_appearance_count": 5,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 95.0,
+      "review_total": 79440,
+      "days_seen": 27,
+      "comeback_gap_days": 2,
+      "is_new_release": false,
+      "release_age_days": 50,
+      "steam_release_age_days": 50,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 74,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "休闲",
+        "独立",
+        "模拟"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-20",
+      "release_event_age_days": 50,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 74,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 2,
+      "trend": [
+        {
+          "date": "2026-09-09",
+          "peak": 73571
+        },
+        {
+          "date": "2026-09-10",
+          "peak": 65358
+        },
+        {
+          "date": "2026-09-11",
+          "peak": 59397
+        },
+        {
+          "date": "2026-09-12",
+          "peak": 64849
+        },
+        {
+          "date": "2026-09-13",
+          "peak": 67721
+        },
+        {
+          "date": "2026-09-14",
+          "peak": 67721
+        },
+        {
+          "date": "2026-09-15",
+          "peak": 50649
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 37183
+        },
+        {
+          "date": "2026-09-19",
+          "peak": 42922
+        },
+        {
+          "date": "2026-09-20",
+          "peak": 44724
+        },
+        {
+          "date": "2026-09-21",
+          "peak": 41727
+        },
+        {
+          "date": "2026-09-22",
+          "peak": 31801
+        },
+        {
+          "date": "2026-09-24",
+          "peak": 24505
+        },
+        {
+          "date": "2026-09-25",
+          "peak": 23324
+        },
+        {
+          "date": "2026-09-26",
+          "peak": 32063
+        },
+        {
+          "date": "2026-09-27",
+          "peak": 34226
+        },
+        {
+          "date": "2026-09-28",
+          "peak": 29141
+        },
+        {
+          "date": "2026-09-29",
+          "peak": 23845
+        },
+        {
+          "date": "2026-09-30",
+          "peak": 37538
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 39979
+        },
+        {
+          "date": "2026-10-02",
+          "peak": 38336
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 68705
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 82158
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 66692
+        },
+        {
+          "date": "2026-10-07",
+          "peak": 64958
+        },
+        {
+          "date": "2026-10-08",
+          "peak": 67330
+        },
+        {
+          "date": "2026-10-09",
+          "peak": 70704
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 5,
+      "prior_count": 4,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4001890"
+      }
+    ],
+    "game": {
+      "slug": "how-to-fish",
+      "appid": "4001890",
+      "name": "How to Fish",
+      "name_cn": null,
+      "description": "《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。",
+      "release_date": "2026-08-20",
+      "genres": [
+        "动作",
+        "休闲",
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "自定义音量控制",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
+        "家庭共享"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 95.0,
+      "review_total": 79440,
+      "developer": "Dazed Games",
+      "publisher": "Dazed Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
+      "steam_url": "https://store.steampowered.com/app/4001890",
+      "product_family_identity": "appid:4001890",
+      "product_family_appid": "4001890",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-09",
+          "peak": 73571
+        },
+        {
+          "date": "2026-09-10",
+          "peak": 65358
+        },
+        {
+          "date": "2026-09-11",
+          "peak": 59397
+        },
+        {
+          "date": "2026-09-12",
+          "peak": 64849
+        },
+        {
+          "date": "2026-09-13",
+          "peak": 67721
+        },
+        {
+          "date": "2026-09-14",
+          "peak": 67721
+        },
+        {
+          "date": "2026-09-15",
+          "peak": 50649
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 37183
+        },
+        {
+          "date": "2026-09-19",
+          "peak": 42922
+        },
+        {
+          "date": "2026-09-20",
+          "peak": 44724
+        },
+        {
+          "date": "2026-09-21",
+          "peak": 41727
+        },
+        {
+          "date": "2026-09-22",
+          "peak": 31801
+        },
+        {
+          "date": "2026-09-24",
+          "peak": 24505
+        },
+        {
+          "date": "2026-09-25",
+          "peak": 23324
+        },
+        {
+          "date": "2026-09-26",
+          "peak": 32063
+        },
+        {
+          "date": "2026-09-27",
+          "peak": 34226
+        },
+        {
+          "date": "2026-09-28",
+          "peak": 29141
+        },
+        {
+          "date": "2026-09-29",
+          "peak": 23845
+        },
+        {
+          "date": "2026-09-30",
+          "peak": 37538
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 39979
+        },
+        {
+          "date": "2026-10-02",
+          "peak": 38336
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 68705
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 82158
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 66692
+        },
+        {
+          "date": "2026-10-07",
+          "peak": 64958
+        },
+        {
+          "date": "2026-10-08",
+          "peak": 67330
+        },
+        {
+          "date": "2026-10-09",
+          "peak": 70704
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《How to Fish》把钓鱼做成了一场物理合作冒险：你和朋友撞上荒岛，从空手起步，靠抓鱼、卖鱼和买装备，一步步找回家的路。",
+      "reference_frame": "玩过《盗贼之海》，可以借用那种一起出海、搬东西、临时补位的默契。但这里的推进围绕鱼获、装备和岛屿任务展开，主要麻烦来自危险生物与物理操作；不用把海盗间抢货的 PvPvE 风险一并带过来。",
+      "for_players": "适合想和朋友边做事边笑、愿意把笨拙操作和临场补救当成乐趣的人。捕鱼后的处理与变现也要动手，装备升级则让下一座岛有明确盼头。",
+      "not_for_players": "如果你想安静收线、每次操作都精确可控，或不喜欢为装备重复赚钱，战斗和物理事故可能会打断你期待的放松节奏。",
+      "star_reason": "10 月 9 日本地观测峰值 70,704，同日可靠评价 79,440 条、95% 好评。首发观察已结束，这是它第五次摘星。峰值比昨天高约 5%，仍低于此前纪录；这次值得看的是上线近两个月后，仍有不少人在继续这趟冒险。",
+      "core_loop": [
+        "找地方下钩，把鱼拉上来，再处理鱼获、卖掉换钱。",
+        "买更好的钓具和武器，和队友分担捕鱼、战斗与救场，别让一次失手拖住整队。",
+        "完成任务、挑战 Boss，进入生物更危险、装备也更好的岛屿，再赚下一轮升级的钱。"
+      ],
+      "content_length": 463
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-09T10:16:36+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 0,
+          "inspected_count": 20,
+          "top_views": null,
+          "search_url": "https://www.youtube.com/results?search_query=How%20to%20Fish",
+          "sources": []
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 5,
+          "inspected_count": 30,
+          "top_views": 5932,
+          "search_url": "https://search.bilibili.com/all?keyword=How%20to%20Fish",
+          "sources": [
+            {
+              "title": "上火山钓鱼？应该通关了吧……｜渔力全开“ How To Fish ”",
+              "url": "https://www.bilibili.com/video/BV1e9pw6WEmn/",
+              "published_on": "2026-10-06"
+            },
+            {
+              "title": "【拖米】《渔力全开 / How to Fish 》",
+              "url": "https://www.bilibili.com/video/BV12NH76EEpJ/",
+              "published_on": "2026-10-09"
+            },
+            {
+              "title": "手游《渔力全开》中文版。钓鱼第一步到位畅玩！人称动作射击类风格，小白也能轻松上手，保姆级教程 全存档自由快解锁！",
+              "url": "https://www.bilibili.com/video/BV1k5aS6ZEtR/",
+              "published_on": "2026-10-02"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 2。",
+    "selection_context": {
+      "model_rank": 2,
+      "leader": {
+        "name": "AION 2",
+        "appid": "3393110",
+        "score": 37.5,
+        "reason": "处于摘星冷却期，至 2026-10-14 结束。",
+        "url": "https://store.steampowered.com/app/3393110/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "established_release_rise",
+    "label": "老游起量",
+    "score": 34.21,
+    "fact_summary": "How to Fish 今日观测峰值 70,704，未超过过往最高峰值 82,158，被识别为「老游起量」。",
+    "metrics": {
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-08-20",
+      "current_release_date": "2026-08-20",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-09 18:02:21",
+      "current_peak": 70704,
+      "previous_peak": 82158,
+      "previous_record_peak": 82158,
+      "growth_rate": -0.1394,
+      "record_growth_rate": -0.1394,
+      "scoring_peak": 70704,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 36.59,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 10.7999,
+      "growth_scale_crossing_component": 0.607,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 36.59,
+      "event_adjusted_score": 36.59,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 40.25,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v2",
+      "review_observation_date": "2026-10-09",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.935,
+      "base_score": 34.21,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_window_star_1x"
+      ],
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 4,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 4,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 4,
+      "total_star_count": 5,
+      "star_appearance_count": 5,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 95.0,
+      "review_total": 79440,
+      "days_seen": 27,
+      "comeback_gap_days": 2,
+      "is_new_release": false,
+      "release_age_days": 50,
+      "steam_release_age_days": 50,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 74,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "休闲",
+        "独立",
+        "模拟"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-20",
+      "release_event_age_days": 50,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 74,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 2,
+      "trend": [
+        {
+          "date": "2026-09-09",
+          "peak": 73571
+        },
+        {
+          "date": "2026-09-10",
+          "peak": 65358
+        },
+        {
+          "date": "2026-09-11",
+          "peak": 59397
+        },
+        {
+          "date": "2026-09-12",
+          "peak": 64849
+        },
+        {
+          "date": "2026-09-13",
+          "peak": 67721
+        },
+        {
+          "date": "2026-09-14",
+          "peak": 67721
+        },
+        {
+          "date": "2026-09-15",
+          "peak": 50649
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 37183
+        },
+        {
+          "date": "2026-09-19",
+          "peak": 42922
+        },
+        {
+          "date": "2026-09-20",
+          "peak": 44724
+        },
+        {
+          "date": "2026-09-21",
+          "peak": 41727
+        },
+        {
+          "date": "2026-09-22",
+          "peak": 31801
+        },
+        {
+          "date": "2026-09-24",
+          "peak": 24505
+        },
+        {
+          "date": "2026-09-25",
+          "peak": 23324
+        },
+        {
+          "date": "2026-09-26",
+          "peak": 32063
+        },
+        {
+          "date": "2026-09-27",
+          "peak": 34226
+        },
+        {
+          "date": "2026-09-28",
+          "peak": 29141
+        },
+        {
+          "date": "2026-09-29",
+          "peak": 23845
+        },
+        {
+          "date": "2026-09-30",
+          "peak": 37538
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 39979
+        },
+        {
+          "date": "2026-10-02",
+          "peak": 38336
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 68705
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 82158
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 66692
+        },
+        {
+          "date": "2026-10-07",
+          "peak": 64958
+        },
+        {
+          "date": "2026-10-08",
+          "peak": 67330
+        },
+        {
+          "date": "2026-10-09",
+          "peak": 70704
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 5,
+      "prior_count": 4,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4001890"
+      }
+    ],
+    "game": {
+      "slug": "how-to-fish",
+      "appid": "4001890",
+      "name": "How to Fish",
+      "name_cn": null,
+      "description": "《How to Fish》（渔力全开）是一款物力交互的钓鱼模拟游戏，支持 1 至 4 名玩家。喝着酒，驾着船，你突然撞上了一座小岛。为了能安全回家，你必须学会​​钓鱼。",
+      "release_date": "2026-08-20",
+      "genres": [
+        "动作",
+        "休闲",
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "自定义音量控制",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
+        "家庭共享"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 95.0,
+      "review_total": 79440,
+      "developer": "Dazed Games",
+      "publisher": "Dazed Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
+      "steam_url": "https://store.steampowered.com/app/4001890",
+      "product_family_identity": "appid:4001890",
+      "product_family_appid": "4001890",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-09",
+          "peak": 73571
+        },
+        {
+          "date": "2026-09-10",
+          "peak": 65358
+        },
+        {
+          "date": "2026-09-11",
+          "peak": 59397
+        },
+        {
+          "date": "2026-09-12",
+          "peak": 64849
+        },
+        {
+          "date": "2026-09-13",
+          "peak": 67721
+        },
+        {
+          "date": "2026-09-14",
+          "peak": 67721
+        },
+        {
+          "date": "2026-09-15",
+          "peak": 50649
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 37183
+        },
+        {
+          "date": "2026-09-19",
+          "peak": 42922
+        },
+        {
+          "date": "2026-09-20",
+          "peak": 44724
+        },
+        {
+          "date": "2026-09-21",
+          "peak": 41727
+        },
+        {
+          "date": "2026-09-22",
+          "peak": 31801
+        },
+        {
+          "date": "2026-09-24",
+          "peak": 24505
+        },
+        {
+          "date": "2026-09-25",
+          "peak": 23324
+        },
+        {
+          "date": "2026-09-26",
+          "peak": 32063
+        },
+        {
+          "date": "2026-09-27",
+          "peak": 34226
+        },
+        {
+          "date": "2026-09-28",
+          "peak": 29141
+        },
+        {
+          "date": "2026-09-29",
+          "peak": 23845
+        },
+        {
+          "date": "2026-09-30",
+          "peak": 37538
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 39979
+        },
+        {
+          "date": "2026-10-02",
+          "peak": 38336
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 68705
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 82158
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 66692
+        },
+        {
+          "date": "2026-10-07",
+          "peak": 64958
+        },
+        {
+          "date": "2026-10-08",
+          "peak": 67330
+        },
+        {
+          "date": "2026-10-09",
+          "peak": 70704
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《How to Fish》把钓鱼做成了一场物理合作冒险：你和朋友撞上荒岛，从空手起步，靠抓鱼、卖鱼和买装备，一步步找回家的路。",
+      "reference_frame": "玩过《盗贼之海》，可以借用那种一起出海、搬东西、临时补位的默契。但这里的推进围绕鱼获、装备和岛屿任务展开，主要麻烦来自危险生物与物理操作；不用把海盗间抢货的 PvPvE 风险一并带过来。",
+      "for_players": "适合想和朋友边做事边笑、愿意把笨拙操作和临场补救当成乐趣的人。捕鱼后的处理与变现也要动手，装备升级则让下一座岛有明确盼头。",
+      "not_for_players": "如果你想安静收线、每次操作都精确可控，或不喜欢为装备重复赚钱，战斗和物理事故可能会打断你期待的放松节奏。",
+      "star_reason": "10 月 9 日本地观测峰值 70,704，同日可靠评价 79,440 条、95% 好评。首发观察已结束，这是它第五次摘星。峰值比昨天高约 5%，仍低于此前纪录；这次值得看的是上线近两个月后，仍有不少人在继续这趟冒险。",
+      "core_loop": [
+        "找地方下钩，把鱼拉上来，再处理鱼获、卖掉换钱。",
+        "买更好的钓具和武器，和队友分担捕鱼、战斗与救场，别让一次失手拖住整队。",
+        "完成任务、挑战 Boss，进入生物更危险、装备也更好的岛屿，再赚下一轮升级的钱。"
+      ],
+      "content_length": 463
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-09T10:16:36+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 0,
+          "inspected_count": 20,
+          "top_views": null,
+          "search_url": "https://www.youtube.com/results?search_query=How%20to%20Fish",
+          "sources": []
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 5,
+          "inspected_count": 30,
+          "top_views": 5932,
+          "search_url": "https://search.bilibili.com/all?keyword=How%20to%20Fish",
+          "sources": [
+            {
+              "title": "上火山钓鱼？应该通关了吧……｜渔力全开“ How To Fish ”",
+              "url": "https://www.bilibili.com/video/BV1e9pw6WEmn/",
+              "published_on": "2026-10-06"
+            },
+            {
+              "title": "【拖米】《渔力全开 / How to Fish 》",
+              "url": "https://www.bilibili.com/video/BV12NH76EEpJ/",
+              "published_on": "2026-10-09"
+            },
+            {
+              "title": "手游《渔力全开》中文版。钓鱼第一步到位畅玩！人称动作射击类风格，小白也能轻松上手，保姆级教程 全存档自由快解锁！",
+              "url": "https://www.bilibili.com/video/BV1k5aS6ZEtR/",
+              "published_on": "2026-10-02"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 2。",
+    "selection_context": {
+      "model_rank": 2,
+      "leader": {
+        "name": "AION 2",
+        "appid": "3393110",
+        "score": 37.5,
+        "reason": "处于摘星冷却期，至 2026-10-14 结束。",
+        "url": "https://store.steampowered.com/app/3393110/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
