@@ -1,7 +1,78 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-08T07:33:11.140542+00:00",
+  "generated_at": "2026-10-09T09:57:12.661156+00:00",
   "events": [
+    {
+      "id": 49,
+      "title": "《Tales of Xillia》15 周年纪念派对公开 ufotable 新主视觉",
+      "summary": "万代南梦宫公开由 ufotable 绘制的《Tales of Xillia》15 周年纪念派对新主视觉图。派对定于 2026 年 11 月 3 日在日本横滨 Pacifico Yokohama 举行，多位日本配音演员将出席，并设有声优座谈等环节。",
+      "topics": [
+        "Bandai Namco",
+        "ufotable",
+        "Tales of Xillia"
+      ],
+      "kind": "industry_event",
+      "created_at": "2026-10-09T03:24:22.940519+00:00",
+      "updated_at": "2026-10-09T03:24:22.940519+00:00",
+      "content_updated_at": "2026-10-09T03:24:22.940519+00:00",
+      "reported_at": "2026-10-09T03:21:26+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://noisypixel.net/tales-of-xillia-15th-anniversary-party-ufotable-key-art/",
+          "title": "Tales of Xillia 15th Anniversary Reveals New ufotable Key Art",
+          "published_at": "2026-10-09T03:21:26+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 50,
+          "text": "万代南梦宫公开由 ufotable 绘制的《Tales of Xillia》15 周年纪念派对新主视觉图；该派对将于 2026 年 11 月 3 日在日本横滨 Pacifico Yokohama 举办，日本配音阵容的若干成员将出席，活动包含声优座谈等环节。",
+          "evidence_kind": "syndication",
+          "source_url": "https://noisypixel.net/tales-of-xillia-15th-anniversary-party-ufotable-key-art/",
+          "action": "create_event",
+          "recorded_at": "2026-10-09T03:24:22.941055+00:00",
+          "source_published_at": "2026-10-09T03:21:26+00:00"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "《CELESTAY》本周五正式发售并公开钓鱼玩法",
+      "summary": "由 BUBBLE GUM LLC 打造的单人悠闲生活游戏《CELESTAY》将于本周五正式发售。玩家通过钓鱼收集素材，把漂浮海面上的小屋一层层建向天空，房屋升高后可看到越过云层的新景色与星空。游戏提供等待自动钓鱼的“悠闲钓鱼”，以及需在恰当时机停住浮漂的“技巧钓鱼”：技巧钓鱼消耗1条鱼开始，浮漂停在蓝色条内可获得鱼，停在偶尔出现的橙色条内更易钓到珍稀鱼；水越深越易发现珍稀鱼与沉没文明的宝藏，但蓝色条更短、成功次数更多。",
+      "topics": [
+        "BUBBLE GUM LLC",
+        "CELESTAY"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-08T09:23:03.227229+00:00",
+      "updated_at": "2026-10-08T09:23:03.227229+00:00",
+      "content_updated_at": "2026-10-08T09:23:03.227229+00:00",
+      "reported_at": "2026-10-08T08:20:39+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gcores.com/articles/220626",
+          "title": "单人悠闲生活游戏《CELESTAY》将于本周五正式发售",
+          "published_at": "2026-10-08T08:20:39+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 49,
+          "text": "由 BUBBLE GUM LLC 打造的单人悠闲生活游戏《CELESTAY》将于本周五（文章发布当周周五）正式发售；玩家通过钓鱼收集素材，将海面上的小屋逐层建向天空，房屋升高后会看到越过云层的新景色与星空；游戏提供等待自动钓鱼的“悠闲钓鱼”与需在恰当时机停住浮漂的“技巧钓鱼”两种玩法，技巧钓鱼消耗1条鱼开始，浮漂停在蓝色条内可获得鱼，停在偶尔出现的橙色条内更易钓到珍稀鱼；水越深越易发现珍稀鱼与沉没文明的宝藏，但蓝色条更短、成功次数更多。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.gcores.com/articles/220626",
+          "action": "create_event",
+          "recorded_at": "2026-10-08T09:23:03.228224+00:00",
+          "source_published_at": "2026-10-08T08:20:39+00:00"
+        }
+      ]
+    },
     {
       "id": 46,
       "title": "《Minecraft》Nintendo Switch 2 版开启预购并公布 10 月 27 日发售",
