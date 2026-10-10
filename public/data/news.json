@@ -1,7 +1,42 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-10T07:24:14.537960+00:00",
+  "generated_at": "2026-10-10T09:23:17.545635+00:00",
   "events": [
+    {
+      "id": 58,
+      "title": "《Hell Hold'em》在 SAGA Barcelona Game Fest 2026 展出",
+      "summary": "以地狱为舞台的卡组构筑型 roguelike《Hell Hold'em》在 SAGA Barcelona Game Fest 2026 会场展出。该作融合 roguelike 与德州扑克，玩家通过出千扑克求生，“666”为最强牌型，凭独特世界观与扎实系统吸引到场者关注。",
+      "topics": [
+        "Hell Hold'em",
+        "SAGA Barcelona Game Fest 2026"
+      ],
+      "kind": "industry_event",
+      "created_at": "2026-10-10T09:23:06.186536+00:00",
+      "updated_at": "2026-10-10T09:23:06.186536+00:00",
+      "content_updated_at": "2026-10-10T09:23:06.186536+00:00",
+      "reported_at": "2026-10-10T09:13:29+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.4gamer.net/games/049/G104929/20261010013/",
+          "title": "イカサマポーカーで地獄を生き残れ。“666”が最強の役になる「Hell Hold'em」はローグライクとテキサス・ホールデムが見事に融合した注目作だ",
+          "published_at": "2026-10-10T09:13:29+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 59,
+          "text": "在游戏活动 SAGA Barcelona Game Fest 2026 会场，以地狱为舞台的卡组构筑型 roguelike《Hell Hold'em》被展出；该作融合 roguelike 与德州扑克，以出千扑克求生为题材，“666”为最强牌型，凭独特世界观与扎实系统吸引到场者关注。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.4gamer.net/games/049/G104929/20261010013/",
+          "action": "create_event",
+          "recorded_at": "2026-10-10T09:23:06.187118+00:00",
+          "source_published_at": "2026-10-10T09:13:29+00:00"
+        }
+      ]
+    },
     {
       "id": 57,
       "title": "《ARIDA 2: Rise of the Brave》出展 Brasil Game Show 2026 并提供日语 Demo",
