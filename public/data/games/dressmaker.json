@@ -20,10 +20,10 @@
   ],
   "review_score": "Overwhelmingly Positive",
   "review_ratio": 98.0,
-  "review_total": 10645,
+  "review_total": 12674,
   "developer": "Cozy Lives",
   "publisher": "Free Lives",
-  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg?t=1790947386",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg?t=1791464969",
   "steam_url": "https://store.steampowered.com/app/4019220",
   "product_family_identity": "appid:4019220",
   "product_family_appid": "4019220",
@@ -80,6 +80,26 @@
     {
       "date": "2026-10-05",
       "peak": 43236
+    },
+    {
+      "date": "2026-10-06",
+      "peak": 33140
+    },
+    {
+      "date": "2026-10-07",
+      "peak": 33778
+    },
+    {
+      "date": "2026-10-08",
+      "peak": 33146
+    },
+    {
+      "date": "2026-10-09",
+      "peak": 32366
+    },
+    {
+      "date": "2026-10-10",
+      "peak": 32885
     }
   ]
 }
