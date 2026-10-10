@@ -1,7 +1,106 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-10T11:24:13.807959+00:00",
+  "generated_at": "2026-10-10T17:25:12.478025+00:00",
   "events": [
+    {
+      "id": 43,
+      "title": "Bit Reactor 开始让被休假员工回归",
+      "summary": "Bit Reactor CEO Greg Foertsch 表示，工作室本周开始让更多在《Star Wars: Zero Company》发售前被无薪休假的员工回归，并将尽可能让更多人回来；此前报道称约80%员工被休假，Game File 援引知情人士称目前超过一半总员工已回到工资单，但工作室未公布具体回归人数。",
+      "topics": [
+        "Bit Reactor",
+        "Electronic Arts",
+        "Star Wars: Zero Company"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-08T03:22:56.166343+00:00",
+      "updated_at": "2026-10-10T17:25:05.944024+00:00",
+      "content_updated_at": "2026-10-10T17:25:05.945084+00:00",
+      "reported_at": "2026-10-10T16:52:57+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
+          "title": "Star Wars: Zero Company studio is bringing \"as many people back as possible\" after furloughing \"most\" of its developers",
+          "published_at": "2026-10-07T19:24:25+00:00"
+        },
+        {
+          "url": "https://www.pcgamer.com/games/strategy/the-studio-behind-star-wars-zero-company-is-hiring-back-some-of-its-furloughed-staff/",
+          "title": "The studio behind Star Wars Zero Company is bringing back some of its furloughed staff",
+          "published_at": "2026-10-10T16:52:57+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 44,
+          "text": "Bit Reactor 在《Star Wars: Zero Company》发售前让约80%员工无薪休假，本周开始让更多团队回归工作；CEO Greg Foertsch 表示将尽可能让更多人回来，但未说明回归人数，Game File 援引知情人士称超过一半总员工已回到工资单。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
+          "action": "create_event",
+          "recorded_at": "2026-10-08T03:22:56.167344+00:00",
+          "source_published_at": "2026-10-07T19:24:25+00:00"
+        },
+        {
+          "id": 64,
+          "text": "《Star Wars: Zero Company》开发商 Bit Reactor 本周在 Bluesky 宣布，已开始撤销此前让超过 80% 员工无薪休假的\"艰难决定\"，让部分被休假员工回归；CEO Greg Foertsch 称该决定是回应\"我们无法控制的意外业务发展\"，但\"有必要，以便最终让尽可能多的人回来\"。据 Game File 援引一名熟悉情况的不具名消息人士，公司工资单上的人数已恢复到休假前的一半以上；Bit Reactor 未公布具体回归人数。此前休假决定由 Bit Reactor 作出，而非发行商 EA。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.pcgamer.com/games/strategy/the-studio-behind-star-wars-zero-company-is-hiring-back-some-of-its-furloughed-staff/",
+          "action": "update_event",
+          "recorded_at": "2026-10-10T17:25:05.945084+00:00",
+          "source_published_at": "2026-10-10T16:52:57+00:00"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "《Deadlock》City Never Sleeps 更新第三次角色投票 Solomon 胜出",
+      "summary": "《Deadlock》的 City Never Sleeps 更新第三次角色投票结果公布，国际象棋大师 Solomon 胜出。据报道，Solomon 使用一套以国际象棋为基础的技能，围绕策略布置与压制对手展开。该角色的具体上线时间与平台安排尚不明确。",
+      "topics": [
+        "Deadlock",
+        "Solomon"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-10T05:23:02.131074+00:00",
+      "updated_at": "2026-10-10T17:24:57.513933+00:00",
+      "content_updated_at": "2026-10-10T17:24:57.515048+00:00",
+      "reported_at": "2026-10-10T16:55:26+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.shacknews.com/article/150966/deadlock-city-never-sleeps-solomon-wins-vote-3",
+          "title": "Chessmaster Solomon wins Deadlock City Never Sleeps update's third character vote",
+          "published_at": "2026-10-10T04:38:00+00:00"
+        },
+        {
+          "url": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
+          "title": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard",
+          "published_at": "2026-10-10T16:55:26+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 55,
+          "text": "《Deadlock》的‘City Never Sleeps’更新第三次角色投票结果出炉，Solomon（国际象棋大师）胜出；其技能为以国际象棋为基础的招式组合，用于布置策略并压制对手。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.shacknews.com/article/150966/deadlock-city-never-sleeps-solomon-wins-vote-3",
+          "action": "create_event",
+          "recorded_at": "2026-10-10T05:23:02.131597+00:00",
+          "source_published_at": "2026-10-10T04:38:00+00:00"
+        },
+        {
+          "id": 63,
+          "text": "《Deadlock》在加入国际象棋法师 Solomon 后，SteamDB 统计的同时在线玩家峰值达到 262,145 人，超过《Team Fortress 2》历史同时在线峰值 253,997 人；报道称玩家反映 Solomon 的枪是一副棋盘，每次换弹会依剩余子弹数重现不同的历史棋局（该说法作者未自行核实）。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
+          "action": "update_event",
+          "recorded_at": "2026-10-10T17:24:57.515048+00:00",
+          "source_published_at": "2026-10-10T16:55:26+00:00"
+        }
+      ]
+    },
     {
       "id": 61,
       "title": "《黑手党3：决定版》十周年更新修复任务进度与 NPC 行为",
@@ -250,41 +349,6 @@
           "action": "create_event",
           "recorded_at": "2026-10-10T05:23:07.117624+00:00",
           "source_published_at": "2026-10-10T03:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": 54,
-      "title": "《Deadlock》City Never Sleeps 更新第三次角色投票 Solomon 胜出",
-      "summary": "《Deadlock》的 City Never Sleeps 更新第三次角色投票结果公布，国际象棋大师 Solomon 胜出。据报道，Solomon 使用一套以国际象棋为基础的技能，围绕策略布置与压制对手展开。该角色的具体上线时间与平台安排尚不明确。",
-      "topics": [
-        "Deadlock",
-        "Solomon"
-      ],
-      "kind": "major_update",
-      "created_at": "2026-10-10T05:23:02.131074+00:00",
-      "updated_at": "2026-10-10T05:23:02.131074+00:00",
-      "content_updated_at": "2026-10-10T05:23:02.131074+00:00",
-      "reported_at": "2026-10-10T04:38:00+00:00",
-      "prominence": "normal",
-      "recommendation": "",
-      "corrections": [],
-      "sources": [
-        {
-          "url": "https://www.shacknews.com/article/150966/deadlock-city-never-sleeps-solomon-wins-vote-3",
-          "title": "Chessmaster Solomon wins Deadlock City Never Sleeps update's third character vote",
-          "published_at": "2026-10-10T04:38:00+00:00"
-        }
-      ],
-      "progress": [
-        {
-          "id": 55,
-          "text": "《Deadlock》的‘City Never Sleeps’更新第三次角色投票结果出炉，Solomon（国际象棋大师）胜出；其技能为以国际象棋为基础的招式组合，用于布置策略并压制对手。",
-          "evidence_kind": "original_reporting",
-          "source_url": "https://www.shacknews.com/article/150966/deadlock-city-never-sleeps-solomon-wins-vote-3",
-          "action": "create_event",
-          "recorded_at": "2026-10-10T05:23:02.131597+00:00",
-          "source_published_at": "2026-10-10T04:38:00+00:00"
         }
       ]
     },
@@ -569,42 +633,6 @@
           "action": "create_event",
           "recorded_at": "2026-10-08T05:22:59.244736+00:00",
           "source_published_at": "2026-10-08T04:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "id": 43,
-      "title": "Bit Reactor 开始让被休假员工回归",
-      "summary": "Bit Reactor CEO Greg Foertsch 表示，工作室本周开始让更多在《Star Wars: Zero Company》发售前被无薪休假的员工回归，并将尽可能让更多人回来；此前报道称约80%员工被休假，Game File 援引知情人士称目前超过一半总员工已回到工资单，但工作室未公布具体回归人数。",
-      "topics": [
-        "Bit Reactor",
-        "Electronic Arts",
-        "Star Wars: Zero Company"
-      ],
-      "kind": "business",
-      "created_at": "2026-10-08T03:22:56.166343+00:00",
-      "updated_at": "2026-10-08T03:22:56.166343+00:00",
-      "content_updated_at": "2026-10-08T03:22:56.166343+00:00",
-      "reported_at": "2026-10-07T19:24:25+00:00",
-      "prominence": "normal",
-      "recommendation": "",
-      "corrections": [],
-      "sources": [
-        {
-          "url": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
-          "title": "Star Wars: Zero Company studio is bringing \"as many people back as possible\" after furloughing \"most\" of its developers",
-          "published_at": "2026-10-07T19:24:25+00:00"
-        }
-      ],
-      "progress": [
-        {
-          "id": 44,
-          "text": "Bit Reactor 在《Star Wars: Zero Company》发售前让约80%员工无薪休假，本周开始让更多团队回归工作；CEO Greg Foertsch 表示将尽可能让更多人回来，但未说明回归人数，Game File 援引知情人士称超过一半总员工已回到工资单。",
-          "evidence_kind": "syndication",
-          "source_url": "https://www.eurogamer.net/star-wars-zero-company-bringing-back-furloughed-staff",
-          "action": "create_event",
-          "recorded_at": "2026-10-08T03:22:56.167344+00:00",
-          "source_published_at": "2026-10-07T19:24:25+00:00"
         }
       ]
     },
