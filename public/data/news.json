@@ -1,7 +1,115 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-10T09:23:17.545635+00:00",
+  "generated_at": "2026-10-10T11:24:13.807959+00:00",
   "events": [
+    {
+      "id": 61,
+      "title": "《黑手党3：决定版》十周年更新修复任务进度与 NPC 行为",
+      "summary": "Hangar 13 为《黑手党3：决定版》推出十周年 Steam 更新，带来生活质量改进：修复多个任务中玩家卡住无法推进的问题（如 Get Enzo Conti、Kill Tommy Marcano 及尾声）、部分任务中途崩溃，并改善 Alcee、Father James 等 NPC 的任务中途行为与成就追踪。媒体提醒改动规模不大。",
+      "topics": [
+        "Mafia 3: Definitive Edition",
+        "Hangar 13"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-10T11:24:09.396029+00:00",
+      "updated_at": "2026-10-10T11:24:09.396029+00:00",
+      "content_updated_at": "2026-10-10T11:24:09.396029+00:00",
+      "reported_at": "2026-10-10T11:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.pcgamer.com/games/third-person-shooter/mafia-3-which-pc-gamer-scored-54-percent-but-which-i-say-is-great-got-a-nice-little-10th-anniversary-update/",
+          "title": "Mafia 3, which PC Gamer scored 54% but which I say is great, got a nice little 10th-anniversary update",
+          "published_at": "2026-10-10T11:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 62,
+          "text": "《黑手党3：决定版》在发售十周年之际于 Steam 推出更新，Hangar 13 表示本次更新带来生活质量改进，重点包括更顺畅的任务进度、更好的 NPC 行为和更好的成就追踪；官方称修复了《Get Enzo Conti》《Kill Tommy Marcano》和尾声等任务中玩家报告卡住无法推进的位置，以及部分任务中途崩溃；Alcee、Father James 等角色不再在任务中途行为异常。更新为免费，但文章认为改动并不巨大。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.pcgamer.com/games/third-person-shooter/mafia-3-which-pc-gamer-scored-54-percent-but-which-i-say-is-great-got-a-nice-little-10th-anniversary-update/",
+          "action": "create_event",
+          "recorded_at": "2026-10-10T11:24:09.397075+00:00",
+          "source_published_at": "2026-10-10T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "《索尼克赛车 交叉世界》第二赛季EVA与哥斯拉联动试玩公开",
+      "summary": "TGS2026试玩显示，《索尼克赛车 交叉世界》第二赛季将加入《新世纪福音战士》与《哥斯拉》联动：绫波丽、明日香作为车手，零号机、初号机、二号机作为加速属性赛车，并新增还原初号机与雷天使交战场景的“第三新东京市”赛道；哥斯拉、摩斯拉、基多拉化身赛车，新赛道“逃离哥斯拉”中怪兽破坏与原子吐息会干扰比赛。试玩还包含《猎天使魔女》贝优妮塔、《女神异闻录3 Reload》埃葵斯、迈凯伦合作赛车及夏特特殊形态“超级夏特”。",
+      "topics": [
+        "SEGA",
+        "索尼克赛车 交叉世界",
+        "新世纪福音战士",
+        "哥斯拉"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-10T11:24:03.459151+00:00",
+      "updated_at": "2026-10-10T11:24:03.459151+00:00",
+      "content_updated_at": "2026-10-10T11:24:03.459151+00:00",
+      "reported_at": "2026-10-10T11:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gcores.com/articles/220708",
+          "title": "在“热闹”与“无厘头”中找到竞速的乐趣：《索尼克赛车 交叉世界》第二赛季试玩小结",
+          "published_at": "2026-10-10T11:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 61,
+          "text": "在TGS2026上提前试玩了《索尼克赛车 交叉世界》第二赛季部分内容：新增《新世纪福音战士》联动（绫波丽、明日香作为车手，零号机、初号机、二号机作为加速属性赛车，以及以第三新东京市为主题、还原初号机与第五使徒雷天使交战场景的新赛道）和《哥斯拉》联动（哥斯拉、摩斯拉、基多拉化身赛车，新赛道“逃离哥斯拉”以《索尼克大冒险》城市路线为基础，哥斯拉的破坏与原子吐息会影响比赛）；还带来《猎天使魔女》贝优妮塔与“蝴蝶魔女”座驾、《女神异闻录3 Reload》埃葵斯与“帕拉迪奥盛装车”、与迈凯伦合作的赛车及“迈凯伦索尼克”，以及夏特的特殊形态“超级夏特”（来自电影《刺猬索尼克3》设定，非独立车手）。作者认为联动不止是加角色换皮，而是把原作经典场景融入竞速体验，EVA角色未加入语音是可惜之处。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.gcores.com/articles/220708",
+          "action": "create_event",
+          "recorded_at": "2026-10-10T11:24:03.460202+00:00",
+          "source_published_at": "2026-10-10T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "《Heathen》预告展示肢体切断与斩首战斗机制",
+      "summary": "独立开发者 Christoper Yabsley 制作的第一人称 ARPG《Heathen》在新预告中展示肢体切断与斩首系统，玩家可砍下怪物头颅并在空中踢出，用以击杀另一只怪物；开发者称该机制让剑斧手感更好，切断肢体也是对抗多肢体敌人的关键。游戏设定在奇幻小镇 Saltgrave 的地下迷宫，含 Diablo 式刷宝、传送门等元素，正式版将支持在线合作，发售日期未公布。",
+      "topics": [
+        "Heathen",
+        "Christoper Yabsley",
+        "PC Gamer"
+      ],
+      "kind": "development",
+      "created_at": "2026-10-10T11:23:56.764554+00:00",
+      "updated_at": "2026-10-10T11:23:56.764554+00:00",
+      "content_updated_at": "2026-10-10T11:23:56.764554+00:00",
+      "reported_at": "2026-10-10T11:12:58+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.pcgamer.com/games/rpg/if-youre-skilful-enough-you-can-chop-the-head-off-a-monster-kick-it-midair-and-then-kill-another-monster-with-it-consider-me-sold-on-this-indie-first-person-arpg/",
+          "title": "'If you're skilful enough, you can chop the head off a monster, kick it midair, and then kill another monster with it': Consider me sold on this indie first-person ARPG",
+          "published_at": "2026-10-10T11:12:58+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 60,
+          "text": "PC Gamer 报道，独立开发者 Christoper Yabsley 制作的第一人称 ARPG《Heathen》在新预告中展示了肢体切断与斩首系统，玩家可砍下怪物头颅并在空中踢出，以此杀死另一只怪物；开发者称该系统让剑斧手感更好，且切断肢体在对抗多肢体敌人时是战斗关键。游戏设定在奇幻小镇 Saltgrave 地下的迷宫，含 Diablo 式刷宝与传送门等元素，正式版将支持在线合作，目前尚未公布发售日期。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.pcgamer.com/games/rpg/if-youre-skilful-enough-you-can-chop-the-head-off-a-monster-kick-it-midair-and-then-kill-another-monster-with-it-consider-me-sold-on-this-indie-first-person-arpg/",
+          "action": "create_event",
+          "recorded_at": "2026-10-10T11:23:56.765525+00:00",
+          "source_published_at": "2026-10-10T11:12:58+00:00"
+        }
+      ]
+    },
     {
       "id": 58,
       "title": "《Hell Hold'em》在 SAGA Barcelona Game Fest 2026 展出",
