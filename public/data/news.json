@@ -1,7 +1,78 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-10T03:25:23.538367+00:00",
+  "generated_at": "2026-10-10T05:23:11.731937+00:00",
   "events": [
+    {
+      "id": 55,
+      "title": "《Sonic Racing: CrossWorlds》第二年DLC公布City Escape赛道与哥斯拉",
+      "summary": "《Sonic Racing: CrossWorlds》第二年DLC将加入来自《Sonic Adventure 2》的经典赛道City Escape，并在其中出现哥斯拉，该关卡回归带有改动。",
+      "topics": [
+        "Sonic Racing: CrossWorlds",
+        "Sonic Adventure 2",
+        "Godzilla"
+      ],
+      "kind": "dlc",
+      "created_at": "2026-10-10T05:23:07.117085+00:00",
+      "updated_at": "2026-10-10T05:23:07.117085+00:00",
+      "content_updated_at": "2026-10-10T05:23:07.117085+00:00",
+      "reported_at": "2026-10-10T03:30:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.shacknews.com/article/150963/sonic-racing-crossworlds-year-2-dlc-preview",
+          "title": "Sonic Racing: CrossWorlds' Year 2 DLC includes a City Escape track with Godzilla [Update]",
+          "published_at": "2026-10-10T03:30:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 56,
+          "text": "《Sonic Racing: CrossWorlds》第二年DLC包含一条City Escape赛道，并出现哥斯拉（Godzilla）；该经典关卡来自《Sonic Adventure 2》，此次回归带有变化。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.shacknews.com/article/150963/sonic-racing-crossworlds-year-2-dlc-preview",
+          "action": "create_event",
+          "recorded_at": "2026-10-10T05:23:07.117624+00:00",
+          "source_published_at": "2026-10-10T03:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "《Deadlock》City Never Sleeps 更新第三次角色投票 Solomon 胜出",
+      "summary": "《Deadlock》的 City Never Sleeps 更新第三次角色投票结果公布，国际象棋大师 Solomon 胜出。据报道，Solomon 使用一套以国际象棋为基础的技能，围绕策略布置与压制对手展开。该角色的具体上线时间与平台安排尚不明确。",
+      "topics": [
+        "Deadlock",
+        "Solomon"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-10T05:23:02.131074+00:00",
+      "updated_at": "2026-10-10T05:23:02.131074+00:00",
+      "content_updated_at": "2026-10-10T05:23:02.131074+00:00",
+      "reported_at": "2026-10-10T04:38:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.shacknews.com/article/150966/deadlock-city-never-sleeps-solomon-wins-vote-3",
+          "title": "Chessmaster Solomon wins Deadlock City Never Sleeps update's third character vote",
+          "published_at": "2026-10-10T04:38:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 55,
+          "text": "《Deadlock》的‘City Never Sleeps’更新第三次角色投票结果出炉，Solomon（国际象棋大师）胜出；其技能为以国际象棋为基础的招式组合，用于布置策略并压制对手。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.shacknews.com/article/150966/deadlock-city-never-sleeps-solomon-wins-vote-3",
+          "action": "create_event",
+          "recorded_at": "2026-10-10T05:23:02.131597+00:00",
+          "source_published_at": "2026-10-10T04:38:00+00:00"
+        }
+      ]
+    },
     {
       "id": 53,
       "title": "《疯狂出租车：世界巡回》公布剧情模式新地图「巴西」",
