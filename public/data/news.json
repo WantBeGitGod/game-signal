@@ -1,7 +1,78 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-09T09:57:12.661156+00:00",
+  "generated_at": "2026-10-10T01:53:08.116768+00:00",
   "events": [
+    {
+      "id": 52,
+      "title": "类银河恶魔城生存恐怖新作《Silver Pines》正式发行",
+      "summary": "Team17于2026年10月9日发行WychElm开发的《Silver Pines》。这是一款以美国小镇为舞台的类银河恶魔城生存恐怖游戏，玩家扮演私家侦探雷德·沃克，揭露隐藏在黑暗中的秘密。",
+      "topics": [
+        "Team17",
+        "WychElm",
+        "Silver Pines"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-09T13:23:04.363678+00:00",
+      "updated_at": "2026-10-09T13:23:04.363678+00:00",
+      "content_updated_at": "2026-10-09T13:23:04.363678+00:00",
+      "reported_at": "2026-10-09T10:58:34+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.4gamer.net/games/987/G098799/20261009042/",
+          "title": "モンスターが徘徊する街に隠された秘密とは。メトロイドヴァニア風サバイバルホラー「Silver Pines」，配信開始",
+          "published_at": "2026-10-09T10:58:34+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 53,
+          "text": "Team17于2026年10月9日发行了WychElm开发的新作《Silver Pines》，这是一款以美国小镇为舞台、玩家扮演私家侦探雷德·沃克揭露黑暗秘密的类银河恶魔城生存恐怖游戏。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.4gamer.net/games/987/G098799/20261009042/",
+          "action": "create_event",
+          "recorded_at": "2026-10-09T13:23:04.364211+00:00",
+          "source_published_at": "2026-10-09T10:58:34+00:00"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "《Hungry Horrors》正式版1.0定于10月13日发售",
+      "summary": "ClumsyBearStudio于2026年10月9日宣布，Steam抢先体验中的卡牌构筑冒险游戏《Hungry Horrors》正式版1.0将于10月13日发售，含税价格1700日元。游戏玩法为向怪物端上料理、在其满意前避免自己被吃掉。",
+      "topics": [
+        "ClumsyBearStudio",
+        "Hungry Horrors"
+      ],
+      "kind": "release_schedule",
+      "created_at": "2026-10-09T13:22:56.022684+00:00",
+      "updated_at": "2026-10-09T13:22:56.022684+00:00",
+      "content_updated_at": "2026-10-09T13:22:56.022684+00:00",
+      "reported_at": "2026-10-09T11:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.4gamer.net/games/976/G097651/20261005028/",
+          "title": "怪物と戦わず料理を振る舞うデッキ構築ADV「ハングリー・ホラーズ」，正式版1.0を10月13日に発売",
+          "published_at": "2026-10-09T11:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 52,
+          "text": "ClumsyBearStudio于2026年10月9日宣布，Steam抢先体验中的《Hungry Horrors》正式版1.0将于10月13日发售，含税价格1700日元；本作是不与怪物战斗、通过端上料理在其满足前避免自己被吃掉的卡牌构筑冒险游戏。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.4gamer.net/games/976/G097651/20261005028/",
+          "action": "create_event",
+          "recorded_at": "2026-10-09T13:22:56.022684+00:00",
+          "source_published_at": "2026-10-09T11:00:00+00:00"
+        }
+      ]
+    },
     {
       "id": 49,
       "title": "《Tales of Xillia》15 周年纪念派对公开 ufotable 新主视觉",
