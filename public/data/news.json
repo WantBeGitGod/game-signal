@@ -1,7 +1,42 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-10T01:53:08.116768+00:00",
+  "generated_at": "2026-10-10T03:25:23.538367+00:00",
   "events": [
+    {
+      "id": 53,
+      "title": "《疯狂出租车：世界巡回》公布剧情模式新地图「巴西」",
+      "summary": "2026年10月9日巴西游戏展Brasil Game Show 2026在圣保罗开幕，开幕前举行的BGS Conference上，世嘉以全球首次公开的影像宣布《疯狂出租车：世界巡回》剧情模式将加入新地图「巴西」，上线时间等细节尚未公布。",
+      "topics": [
+        "世嘉",
+        "疯狂出租车：世界巡回"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-10T03:25:16.419070+00:00",
+      "updated_at": "2026-10-10T03:25:16.419070+00:00",
+      "content_updated_at": "2026-10-10T03:25:16.419070+00:00",
+      "reported_at": "2026-10-10T03:02:19+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.4gamer.net/games/991/G999110/20261010006/",
+          "title": "「Brasil Game Show 2026」開幕。オープニングイベントでセガが「クレイジータクシー：ワールドツアー」新マップ「ブラジル」を発表［BGS2026］",
+          "published_at": "2026-10-10T03:02:19+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 54,
+          "text": "2026年10月9日，Brasil Game Show 2026在巴西圣保罗开幕；开幕前的BGS Conference上，世嘉以全球首次公开的影像宣布《疯狂出租车：世界巡回》剧情模式将加入新地图「巴西」。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.4gamer.net/games/991/G999110/20261010006/",
+          "action": "create_event",
+          "recorded_at": "2026-10-10T03:25:16.419589+00:00",
+          "source_published_at": "2026-10-10T03:02:19+00:00"
+        }
+      ]
+    },
     {
       "id": 52,
       "title": "类银河恶魔城生存恐怖新作《Silver Pines》正式发行",
