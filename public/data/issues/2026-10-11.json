@@ -1,0 +1,575 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-10-11",
+  "title": "10.11 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "established_release_rise",
+    "label": "老游起量",
+    "score": 32.15,
+    "fact_summary": "Big Walk 今日观测峰值 17,986，较过往最高峰值提升 +47%，被识别为「老游起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-08-04",
+      "current_release_date": "2026-08-04",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-11 22:32:37",
+      "current_peak": 17986,
+      "previous_peak": 12248,
+      "previous_record_peak": 12248,
+      "growth_rate": 0.4685,
+      "record_growth_rate": 0.4685,
+      "scoring_peak": 17986,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 16.19,
+      "raw_record_growth_score": 16.4,
+      "growth_score_multiplier": 0.3199,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.24,
+      "growth_scale_crossing_component": 0.0799,
+      "record_growth_score": 5.25,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 21.43,
+      "event_adjusted_score": 21.43,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.5,
+      "review_adjusted_score": 32.15,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "overwhelmingly_positive",
+      "review_observation_date": "2026-10-11",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.5,
+      "base_score": 32.15,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 2,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 2,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 2,
+      "total_star_count": 3,
+      "star_appearance_count": 3,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 96.0,
+      "review_total": 42151,
+      "days_seen": 8,
+      "comeback_gap_days": 7,
+      "is_new_release": false,
+      "release_age_days": 68,
+      "steam_release_age_days": 68,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 2035,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "冒险"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-04",
+      "release_event_age_days": 68,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 2035,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 3,
+      "trend": [
+        {
+          "date": "2026-09-27",
+          "peak": 4229
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 4658
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 4153
+        },
+        {
+          "date": "2026-10-07",
+          "peak": 12248
+        },
+        {
+          "date": "2026-10-08",
+          "peak": 2521
+        },
+        {
+          "date": "2026-10-09",
+          "peak": 3193
+        },
+        {
+          "date": "2026-10-10",
+          "peak": 4235
+        },
+        {
+          "date": "2026-10-11",
+          "peak": 17986
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 3,
+      "prior_count": 2,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1478500"
+      }
+    ],
+    "game": {
+      "slug": "big-walk",
+      "appid": "1478500",
+      "name": "Big Walk",
+      "name_cn": null,
+      "description": "与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。",
+      "release_date": "2026-08-04",
+      "genres": [
+        "冒险"
+      ],
+      "tags": [
+        "多人",
+        "合作",
+        "在线合作",
+        "跨平台多人",
+        "Steam 成就",
+        "完全支持控制器",
+        "视角舒适度",
+        "可选颜色",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 96.0,
+      "review_total": 42151,
+      "developer": "House House",
+      "publisher": "Panic",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
+      "steam_url": "https://store.steampowered.com/app/1478500",
+      "product_family_identity": "appid:1478500",
+      "product_family_appid": "1478500",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-27",
+          "peak": 4229
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 4658
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 4153
+        },
+        {
+          "date": "2026-10-07",
+          "peak": 12248
+        },
+        {
+          "date": "2026-10-08",
+          "peak": 2521
+        },
+        {
+          "date": "2026-10-09",
+          "peak": 3193
+        },
+        {
+          "date": "2026-10-10",
+          "peak": 4235
+        },
+        {
+          "date": "2026-10-11",
+          "peak": 17986
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Big Walk 是一款和朋友边走边聊的合作解谜冒险。你们在开阔的岛上找路、摆弄奇怪装置，也会突然遇到说不出话、听不见队友的情况。",
+      "reference_frame": "玩过 PEAK 的人，会熟悉看地形、找队友、一起商量下一步的节奏。PEAK 把麻烦放在攀爬、体力和救援上；Big Walk 更关心信息怎么传过去：走远了声音变小，隔墙听不清，有时得靠手势或对讲机重新联系。",
+      "for_players": "适合能约到固定朋友、愿意慢慢试谜题，也享受迷路和互相比划的人。两人可以专心合作，大队伍则更热闹。",
+      "not_for_players": "没有单人模式和随机匹配，存档也跟着宿主。想随时独自推进，或只想高效通关、不能接受走路与等待的人，会比较难受。",
+      "star_reason": "10 月 11 日本地观测峰值 17,986，比当前观察窗口此前纪录 12,248 高约 47%；同日可靠评价 42,151 条、96% 好评。首发观察已成熟，这是第三次摘星，距前次已超过 30 天。这次看点是发售两个多月后的活跃回升，尚未超过首发周的峰值。",
+      "core_loop": [
+        "朝感兴趣的地标走，分头观察谜题，把各自发现的线索讲给同伴。",
+        "搬动物件、试用工具，用指向和挥手补上说不清的部分，一起验证解法。",
+        "解开挑战后继续探索；途中可以闲聊、看落日，也可以拿朋友的东西开个玩笑。"
+      ],
+      "content_length": 475
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-11T15:00:15+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "bilibili",
+          "sampled_count": 20,
+          "inspected_count": 29,
+          "top_views": 5673,
+          "search_url": "https://search.bilibili.com/all?keyword=Big%20Walk",
+          "sources": [
+            {
+              "title": "我投降！【2026.10.09 Big Walk 】",
+              "url": "https://www.bilibili.com/video/BV1mxpi66EMy/",
+              "published_on": "2026-10-10"
+            },
+            {
+              "title": "自用 BIG WALK 无声关卡",
+              "url": "https://www.bilibili.com/video/BV1BXp76gEGo/",
+              "published_on": "2026-10-11"
+            },
+            {
+              "title": "【锦策桃虾奈露】（年锦视角）梦之队玩 Big Walk 团建全场回放10.11",
+              "url": "https://www.bilibili.com/video/BV1emp36JEi6/",
+              "published_on": "2026-10-11"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "How to Fish",
+        "appid": "4001890",
+        "score": 37.92,
+        "reason": "处于摘星冷却期，至 2026-10-16 结束。",
+        "url": "https://store.steampowered.com/app/4001890/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "established_release_rise",
+    "label": "老游起量",
+    "score": 32.15,
+    "fact_summary": "Big Walk 今日观测峰值 17,986，较过往最高峰值提升 +47%，被识别为「老游起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-08-04",
+      "current_release_date": "2026-08-04",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-11 22:32:37",
+      "current_peak": 17986,
+      "previous_peak": 12248,
+      "previous_record_peak": 12248,
+      "growth_rate": 0.4685,
+      "record_growth_rate": 0.4685,
+      "scoring_peak": 17986,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 16.19,
+      "raw_record_growth_score": 16.4,
+      "growth_score_multiplier": 0.3199,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.24,
+      "growth_scale_crossing_component": 0.0799,
+      "record_growth_score": 5.25,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 21.43,
+      "event_adjusted_score": 21.43,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.5,
+      "review_adjusted_score": 32.15,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "overwhelmingly_positive",
+      "review_observation_date": "2026-10-11",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.5,
+      "base_score": 32.15,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 2,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 2,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 2,
+      "total_star_count": 3,
+      "star_appearance_count": 3,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 96.0,
+      "review_total": 42151,
+      "days_seen": 8,
+      "comeback_gap_days": 7,
+      "is_new_release": false,
+      "release_age_days": 68,
+      "steam_release_age_days": 68,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 2035,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "冒险"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-08-04",
+      "release_event_age_days": 68,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 2035,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 3,
+      "trend": [
+        {
+          "date": "2026-09-27",
+          "peak": 4229
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 4658
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 4153
+        },
+        {
+          "date": "2026-10-07",
+          "peak": 12248
+        },
+        {
+          "date": "2026-10-08",
+          "peak": 2521
+        },
+        {
+          "date": "2026-10-09",
+          "peak": 3193
+        },
+        {
+          "date": "2026-10-10",
+          "peak": 4235
+        },
+        {
+          "date": "2026-10-11",
+          "peak": 17986
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 3,
+      "prior_count": 2,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1478500"
+      }
+    ],
+    "game": {
+      "slug": "big-walk",
+      "appid": "1478500",
+      "name": "Big Walk",
+      "name_cn": null,
+      "description": "与好友相伴，在这个广阔世界中闲逛、迷路。《Untitled Goose Game》主创团队带来的在线合作“边走边聊”游戏。",
+      "release_date": "2026-08-04",
+      "genres": [
+        "冒险"
+      ],
+      "tags": [
+        "多人",
+        "合作",
+        "在线合作",
+        "跨平台多人",
+        "Steam 成就",
+        "完全支持控制器",
+        "视角舒适度",
+        "可选颜色",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Overwhelmingly Positive",
+      "review_ratio": 96.0,
+      "review_total": 42151,
+      "developer": "House House",
+      "publisher": "Panic",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
+      "steam_url": "https://store.steampowered.com/app/1478500",
+      "product_family_identity": "appid:1478500",
+      "product_family_appid": "1478500",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-27",
+          "peak": 4229
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 4658
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 4153
+        },
+        {
+          "date": "2026-10-07",
+          "peak": 12248
+        },
+        {
+          "date": "2026-10-08",
+          "peak": 2521
+        },
+        {
+          "date": "2026-10-09",
+          "peak": 3193
+        },
+        {
+          "date": "2026-10-10",
+          "peak": 4235
+        },
+        {
+          "date": "2026-10-11",
+          "peak": 17986
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Big Walk 是一款和朋友边走边聊的合作解谜冒险。你们在开阔的岛上找路、摆弄奇怪装置，也会突然遇到说不出话、听不见队友的情况。",
+      "reference_frame": "玩过 PEAK 的人，会熟悉看地形、找队友、一起商量下一步的节奏。PEAK 把麻烦放在攀爬、体力和救援上；Big Walk 更关心信息怎么传过去：走远了声音变小，隔墙听不清，有时得靠手势或对讲机重新联系。",
+      "for_players": "适合能约到固定朋友、愿意慢慢试谜题，也享受迷路和互相比划的人。两人可以专心合作，大队伍则更热闹。",
+      "not_for_players": "没有单人模式和随机匹配，存档也跟着宿主。想随时独自推进，或只想高效通关、不能接受走路与等待的人，会比较难受。",
+      "star_reason": "10 月 11 日本地观测峰值 17,986，比当前观察窗口此前纪录 12,248 高约 47%；同日可靠评价 42,151 条、96% 好评。首发观察已成熟，这是第三次摘星，距前次已超过 30 天。这次看点是发售两个多月后的活跃回升，尚未超过首发周的峰值。",
+      "core_loop": [
+        "朝感兴趣的地标走，分头观察谜题，把各自发现的线索讲给同伴。",
+        "搬动物件、试用工具，用指向和挥手补上说不清的部分，一起验证解法。",
+        "解开挑战后继续探索；途中可以闲聊、看落日，也可以拿朋友的东西开个玩笑。"
+      ],
+      "content_length": 475
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-11T15:00:15+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "bilibili",
+          "sampled_count": 20,
+          "inspected_count": 29,
+          "top_views": 5673,
+          "search_url": "https://search.bilibili.com/all?keyword=Big%20Walk",
+          "sources": [
+            {
+              "title": "我投降！【2026.10.09 Big Walk 】",
+              "url": "https://www.bilibili.com/video/BV1mxpi66EMy/",
+              "published_on": "2026-10-10"
+            },
+            {
+              "title": "自用 BIG WALK 无声关卡",
+              "url": "https://www.bilibili.com/video/BV1BXp76gEGo/",
+              "published_on": "2026-10-11"
+            },
+            {
+              "title": "【锦策桃虾奈露】（年锦视角）梦之队玩 Big Walk 团建全场回放10.11",
+              "url": "https://www.bilibili.com/video/BV1emp36JEi6/",
+              "published_on": "2026-10-11"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "How to Fish",
+        "appid": "4001890",
+        "score": 37.92,
+        "reason": "处于摘星冷却期，至 2026-10-16 结束。",
+        "url": "https://store.steampowered.com/app/4001890/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
