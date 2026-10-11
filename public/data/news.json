@@ -1,7 +1,43 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-10T17:25:12.478025+00:00",
+  "generated_at": "2026-10-11T04:40:35.673525+00:00",
   "events": [
+    {
+      "id": 62,
+      "title": "《Huni Kuin: Beya Xinã Bena》出展BGS2026并定于2027年Q1发售",
+      "summary": "在2026年巴西游戏展上，亚马逊原住民参与开发的2D动作游戏《Huni Kuin: Beya Xinã Bena》出展，题材取自部族神话。报道方采访了与该族群合作逾14年的人类学家Guilherme Meneses。该作预定2027年第一季度发售，展台呈现由村民绘制的画面与配音。",
+      "topics": [
+        "Huni Kuin: Beya Xinã Bena",
+        "Brasil Game Show 2026",
+        "Guilherme Meneses"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-11T04:40:28.433233+00:00",
+      "updated_at": "2026-10-11T04:40:28.433233+00:00",
+      "content_updated_at": "2026-10-11T04:40:28.433233+00:00",
+      "reported_at": "2026-10-11T03:07:36+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.4gamer.net/games/049/G104930/20261011002/",
+          "title": "「Huni Kuin: Beya Xinã Bena」は，アマゾンの村人が絵を描き，声を当てた2Dアクション［BGS2026］",
+          "published_at": "2026-10-11T03:07:36+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 65,
+          "text": "在2026年巴西游戏展（Brasil Game Show 2026）上，展出了由亚马逊原住民参与开发的2D动作游戏《Huni Kuin: Beya Xinã Bena》，该作以部族神话为题材，预定2027年第一季度发售，报道方采访了与该族群合作超过14年的人类学家Guilherme Meneses。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.4gamer.net/games/049/G104930/20261011002/",
+          "action": "create_event",
+          "recorded_at": "2026-10-11T04:40:28.434413+00:00",
+          "source_published_at": "2026-10-11T03:07:36+00:00"
+        }
+      ]
+    },
     {
       "id": 43,
       "title": "Bit Reactor 开始让被休假员工回归",
