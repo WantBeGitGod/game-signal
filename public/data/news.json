@@ -1,7 +1,78 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-11T13:22:48.451749+00:00",
+  "generated_at": "2026-10-11T23:55:30.761200+00:00",
   "events": [
+    {
+      "id": 66,
+      "title": "PC Gamer 现场试玩 Bumper Bout：双人对战弹珠入选 PAX Omegathon 压轴，10 月 29 日发售",
+      "summary": "PC Gamer 记者在 PAX Australia 现场试玩了双人对战弹珠游戏 Bumper Bout。该作被选为 PAX Omegathon 主舞台赛事的压轴比赛；两名玩家各占半屏打弹珠并可把球打到对方场地，球落洞扣心、先失五心输掉回合，击打 bumpers 和 targets 积攒攻击球，攒满四颗解锁角色大招，关卡包含太空关与手足球关。记者表示试玩时相当投入，但也提醒展会热门 demo 未必能延续到正式版。游戏计划提供单人街机与生存模式，正式版加入在线多人，Steam 已有 demo，完整版 10 月 29 日发售。",
+      "topics": [
+        "Bumper Bout",
+        "PAX Australia",
+        "PC Gamer"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-11T23:55:20.988088+00:00",
+      "updated_at": "2026-10-11T23:55:20.988088+00:00",
+      "content_updated_at": "2026-10-11T23:55:20.988088+00:00",
+      "reported_at": "2026-10-11T23:19:02+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.pcgamer.com/games/pvp-pinball-is-such-a-good-idea-i-cant-believe-i-havent-played-it-before/",
+          "title": "PvP pinball is such a good idea I can't believe I haven't played it before",
+          "published_at": "2026-10-11T23:19:02+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 69,
+          "text": "PC Gamer 记者在 2026 年 PAX Australia 现场试玩了双人对战弹珠游戏 Bumper Bout，该作被选为 PAX Omegathon 主舞台赛事的压轴比赛；玩法为两名玩家各占半屏打弹珠，可将球打到对方场地，球落洞扣一颗心、先失五心者输掉回合，击打 bumpers 和 targets 可积攒攻击球，攒满四颗可解锁角色大招（如重力井、海盗扔炸弹）；关卡包括卫星与月球互相弹跳的太空关和拨动球员立牌弹球的手足球关；作者试玩体验投入，但也指出展会热门 demo 未必能延续到正式版。本作计划提供单人模式（街机与生存模式），正式版将加入在线多人，Steam 已有 demo，完整版将于 10 月 29 日发售。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.pcgamer.com/games/pvp-pinball-is-such-a-good-idea-i-cant-believe-i-havent-played-it-before/",
+          "action": "create_event",
+          "recorded_at": "2026-10-11T23:55:20.990254+00:00",
+          "source_published_at": "2026-10-11T23:19:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "《MARVEL Tōkon: Fighting Souls》公布Year1追加角色阵容",
+      "summary": "SIE于10月11日公开《MARVEL Tōkon: Fighting Souls》Year1追加角色信息：在已公布的凤凰、镭射眼之后，近期将加入索尔（简·福斯特），并确认毒液参战。",
+      "topics": [
+        "SIE",
+        "MARVEL Tōkon: Fighting Souls"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-11T23:55:13.355746+00:00",
+      "updated_at": "2026-10-11T23:55:13.355746+00:00",
+      "content_updated_at": "2026-10-11T23:55:13.355746+00:00",
+      "reported_at": "2026-10-11T23:48:08+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://automaton-media.com/articles/newsjp/tokon-20261012-473035/",
+          "title": "マーベル対戦格闘ゲーム『MARVEL Tōkon: Fighting Souls』に「ソー（ジェーン・フォスター）」や「ヴェノム」参戦決定。Year1追加キャラ一斉お披露目",
+          "published_at": "2026-10-11T23:48:08+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 68,
+          "text": "SIE于10月11日公布《MARVEL Tōkon: Fighting Souls》Year1追加角色阵容，已公布的「凤凰」「镭射眼」之后，接下来将加入「索尔（简·福斯特）」，并确认「毒液」参战。",
+          "evidence_kind": "syndication",
+          "source_url": "https://automaton-media.com/articles/newsjp/tokon-20261012-473035/",
+          "action": "create_event",
+          "recorded_at": "2026-10-11T23:55:13.355746+00:00",
+          "source_published_at": "2026-10-11T23:48:08+00:00"
+        }
+      ]
+    },
     {
       "id": 64,
       "title": "《Fable》主观道德系统细节公开：每个 NPC 有自己的道德判断",
