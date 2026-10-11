@@ -1,7 +1,43 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-11T09:22:43.432851+00:00",
+  "generated_at": "2026-10-11T13:22:48.451749+00:00",
   "events": [
+    {
+      "id": 64,
+      "title": "《Fable》主观道德系统细节公开：每个 NPC 有自己的道德判断",
+      "summary": "Playground Games 在 Gamescom 2026 向媒体说明《Fable》的道德系统设计：每个 NPC 拥有自己的价值观，会依据玩家行为、决定与角色背景做出各自反应，而非简单的好坏判定。副游戏总监 William Kennedy 称这种主观道德“与当今世界相连”，并认为系统足够丰富，玩家可在 Albion 各地塑造自己的身份。该作为 2020 年公布的开放世界动作 RPG，此前已确认 2027 年 2 月 23 日登陆 PS5、Xbox Series 与 PC。",
+      "topics": [
+        "Fable",
+        "Playground Games",
+        "Xbox"
+      ],
+      "kind": "development",
+      "created_at": "2026-10-11T13:22:39.808819+00:00",
+      "updated_at": "2026-10-11T13:22:39.808819+00:00",
+      "content_updated_at": "2026-10-11T13:22:39.808819+00:00",
+      "reported_at": "2026-10-11T10:45:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://vandal.elespanol.com/noticia/2026284008/la-moralidad-subjetiva-de-fable-conecta-con-el-mundo-moderno-de-hoy-dice-playground-games/",
+          "title": "La moralidad subjetiva de Fable 'conecta con el mundo moderno de hoy', dice Playground Games",
+          "published_at": "2026-10-11T10:45:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 67,
+          "text": "Playground Games 在 Gamescom 2026 向包括 Vandal 在内的媒体介绍，《Fable》采用主观道德系统：每个 NPC 拥有自己的价值观与道德判断，会对玩家的行为、决定和角色背景做出不同反应。副游戏总监 William Kennedy 表示这种主观道德设计“与当今世界相连”，并称系统在机制上足够丰富，玩家可在 Albion 各地创造自己的身份。这是对 2020 年公布、此前已有发售日与试玩报道的 Xbox RPG 的新细节说明。",
+          "evidence_kind": "syndication",
+          "source_url": "https://vandal.elespanol.com/noticia/2026284008/la-moralidad-subjetiva-de-fable-conecta-con-el-mundo-moderno-de-hoy-dice-playground-games/",
+          "action": "create_event",
+          "recorded_at": "2026-10-11T13:22:39.809936+00:00",
+          "source_published_at": "2026-10-11T10:45:00+00:00"
+        }
+      ]
+    },
     {
       "id": 63,
       "title": "《プロジェクトセカイ》6周年纪念追加乐曲「at」",
