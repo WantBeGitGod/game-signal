@@ -38,7 +38,16 @@ test('recent feed expires old items and rejects undated/future items without fal
   const items = [event(1, '2030-01-04T00:00:00Z'), event(2, '2029-12-01T00:00:00Z', { updated_at: '2030-01-04T00:00:00Z', prominence: 'featured', recommendation: 'Old important news' }), event(3, '2030-01-04T00:00:00Z', { reported_at: null }), event(4, '2030-01-05T00:00:00Z')]
   assert.deepEqual(selectRecent(items).map(e => e.id), [1])
   assert.deepEqual(homeRecent(items).map(e => e.id), [1])
-  assert.equal(selectNews(items, { now: clock + 8 * 86400000 }).length, 0)
+  assert.equal(selectNews(items, { now: clock + 16 * 86400000 }).length, 0)
+})
+test('fifteen-day boundary partitions recent and history, while featured remains browseable', () => {
+  const boundary = clock - 15 * 86400000
+  const items = [event(1, new Date(boundary).toISOString()), event(2, new Date(boundary - 1).toISOString()), event(3, '2029-03-01T00:00:00Z', { prominence: 'featured', recommendation: 'Still important', topics: ['Long-lived studio'] }), event(4, '2030-01-05T00:00:00Z', { prominence: 'featured', recommendation: 'Future' }), event(5, '2029-03-01T00:00:00Z', { prominence: 'archive' }), event(6, '2029-03-01T00:00:00Z', { kind: 'release_schedule' }), event(7, '2029-03-01T00:00:00Z', { reported_at: null }), event(8, new Date(clock - 14 * 86400000).toISOString())]
+  assert.deepEqual(selectRecent(items).map(e => e.id), [8, 1])
+  assert.deepEqual(selectRecent(items, { view: 'history' }).map(e => e.id), [2, 3])
+  assert.deepEqual(selectRecent(items, { view: 'featured' }).map(e => e.id), [3])
+  assert.deepEqual(selectRecent(items, { view: 'history', search: ' GAME 3 ', topic: 'Long-lived studio' }).map(e => e.id), [3])
+  assert.deepEqual(homeRecent(items).map(e => e.id), [8, 1])
 })
 test('a recent repost cannot freshen a legacy event; substantive progress can', () => {
   const item = event(1, '2030-01-04T00:00:00Z', { reported_at: undefined, progress: [{ action: 'create_event', source_published_at: '2029-12-01T00:00:00Z' }, { action: 'attach_source', source_published_at: '2030-01-03T00:00:00Z' }] })

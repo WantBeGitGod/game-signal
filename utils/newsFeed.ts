@@ -37,8 +37,13 @@ export function selectNews(events: NewsEvent[], filters: { view?: string; search
     // Date evidence remains available to the timeline and its source detail pages.
     if (e.prominence === 'archive' || e.kind === 'release_schedule') return false
     const stamp = Date.parse(newsTime(e))
-    if (!Number.isFinite(stamp) || stamp > clock || clock - stamp > 7 * 86_400_000) return false
-    if (filters.view === 'featured' && !isFeatured(e)) return false
+    if (!Number.isFinite(stamp) || stamp > clock) return false
+    const recent = clock - stamp <= 15 * 86_400_000
+    if (filters.view === 'featured') {
+      if (!isFeatured(e)) return false
+    } else if (filters.view === 'history') {
+      if (recent) return false
+    } else if (!recent) return false
     if (filters.topic && !e.topics.includes(filters.topic)) return false
     return !query || `${e.title} ${e.summary} ${e.topics.join(' ')}`.toLocaleLowerCase().includes(query)
   }).sort((a, b) => Date.parse(newsTime(b)) - Date.parse(newsTime(a)) || b.id - a.id)
