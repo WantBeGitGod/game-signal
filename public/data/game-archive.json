@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-12T10:16:52",
+  "generated_at": "2026-10-12T12:30:38",
   "games": [
     {
       "game": {
@@ -668,8 +668,8 @@
       "article_slugs": [
         "onimusha-way-of-the-sword"
       ],
-      "article_title": "鬼武者 Way of the Sword-这一刀，终于砍回来了",
-      "article_published_at": "2026-09-07",
+      "article_title": "鬼武者：剑之道-刀是好刀，路有点绕",
+      "article_published_at": "2026-10-12",
       "star_dates": [
         "2026-09-06",
         "2026-09-05"
