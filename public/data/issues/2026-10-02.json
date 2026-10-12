@@ -10,9 +10,11 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 33.75,
+    "score": 37.5,
     "fact_summary": "EA SPORTS FC™ 27 今日观测峰值 86,669，未超过过往最高峰值 91,542，被识别为「新作起量」。",
     "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-24",
@@ -43,22 +45,23 @@
       "score_before_multiplier": 40.0,
       "event_adjusted_score": 40.0,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 0.9,
-      "review_adjusted_score": 45.0,
-      "review_penalty_reason": "below_60",
-      "review_ratio_scoring_version": "v2",
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 50.0,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "mixed",
       "review_observation_date": "2026-10-02",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
-      "secondary_labels": [
-        "评分背离"
-      ],
-      "combined_score_multiplier": 0.8438,
-      "base_score": 33.75,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.9375,
+      "base_score": 37.5,
       "score_multiplier": 0.75,
       "score_multiplier_reasons": [
-        "repeat_window_star_2x"
+        "repeat_score_window_star_2x"
       ],
+      "repeat_score_window_days": 90,
+      "repeat_score_prior_star_count": 2,
       "repeat_window_star_count": 2,
       "app_repeat_window_star_count": 2,
       "app_prior_total_star_count": 2,
@@ -144,7 +147,8 @@
           "date": "2026-10-02",
           "peak": 86669
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-10-12"
     },
     "star_appearance": {
       "count": 3,
@@ -195,11 +199,11 @@
         "可用 HDR"
       ],
       "review_score": "Mixed",
-      "review_ratio": 53.0,
-      "review_total": 6158,
+      "review_ratio": 51.0,
+      "review_total": 8776,
       "developer": "EA CANADA, EA Romania",
       "publisher": "Electronic Arts",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg?t=1790875777",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg?t=1790973254",
       "steam_url": "https://store.steampowered.com/app/4080220",
       "product_family_identity": "appid:4080220",
       "product_family_appid": "4080220",
@@ -288,18 +292,17 @@
         }
       ],
       "controversies": []
-    },
-    "secondary_labels": [
-      "评分背离"
-    ]
+    }
   },
   "main_signal": {
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 33.75,
+    "score": 37.5,
     "fact_summary": "EA SPORTS FC™ 27 今日观测峰值 86,669，未超过过往最高峰值 91,542，被识别为「新作起量」。",
     "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-24",
@@ -330,22 +333,23 @@
       "score_before_multiplier": 40.0,
       "event_adjusted_score": 40.0,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 0.9,
-      "review_adjusted_score": 45.0,
-      "review_penalty_reason": "below_60",
-      "review_ratio_scoring_version": "v2",
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 50.0,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "mixed",
       "review_observation_date": "2026-10-02",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
-      "secondary_labels": [
-        "评分背离"
-      ],
-      "combined_score_multiplier": 0.8438,
-      "base_score": 33.75,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.9375,
+      "base_score": 37.5,
       "score_multiplier": 0.75,
       "score_multiplier_reasons": [
-        "repeat_window_star_2x"
+        "repeat_score_window_star_2x"
       ],
+      "repeat_score_window_days": 90,
+      "repeat_score_prior_star_count": 2,
       "repeat_window_star_count": 2,
       "app_repeat_window_star_count": 2,
       "app_prior_total_star_count": 2,
@@ -431,7 +435,8 @@
           "date": "2026-10-02",
           "peak": 86669
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-10-12"
     },
     "star_appearance": {
       "count": 3,
@@ -482,11 +487,11 @@
         "可用 HDR"
       ],
       "review_score": "Mixed",
-      "review_ratio": 53.0,
-      "review_total": 6158,
+      "review_ratio": 51.0,
+      "review_total": 8776,
       "developer": "EA CANADA, EA Romania",
       "publisher": "Electronic Arts",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg?t=1790875777",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4080220/ff6a3779f1ca83aae8ad3878454f6c11008ea24d/header.jpg?t=1790973254",
       "steam_url": "https://store.steampowered.com/app/4080220",
       "product_family_identity": "appid:4080220",
       "product_family_appid": "4080220",
@@ -575,10 +580,7 @@
         }
       ],
       "controversies": []
-    },
-    "secondary_labels": [
-      "评分背离"
-    ]
+    }
   },
   "secondary_signals": [],
   "candidate_signals": []
