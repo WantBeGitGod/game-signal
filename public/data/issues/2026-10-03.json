@@ -10,9 +10,11 @@
     "rank": 1,
     "type": "release_event_rise",
     "label": "发行节点起量",
-    "score": 43.21,
+    "score": 47.53,
     "fact_summary": "ACE COMBAT 8: WINGS OF THEVE 今日观测峰值 48,743，较过往最高峰值提升 +42%，被识别为「发行节点起量」。",
     "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
       "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
       "first_playable_date": "2026-10-01",
@@ -43,18 +45,21 @@
       "score_before_multiplier": 43.21,
       "event_adjusted_score": 43.21,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 43.21,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 47.53,
       "review_penalty_reason": null,
-      "review_ratio_scoring_version": "v2",
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "mostly_positive",
       "review_observation_date": "2026-10-03",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.0,
-      "base_score": 43.21,
+      "combined_score_multiplier": 1.1,
+      "base_score": 47.53,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "repeat_score_window_days": 90,
+      "repeat_score_prior_star_count": 0,
       "repeat_window_star_count": 0,
       "app_repeat_window_star_count": 0,
       "app_prior_total_star_count": 0,
@@ -115,7 +120,8 @@
           "date": "2026-10-03",
           "peak": 48743
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-10-12"
     },
     "star_appearance": {
       "count": 1,
@@ -157,12 +163,12 @@
         "可用 HDR",
         "家庭共享"
       ],
-      "review_score": "Mostly Positive",
-      "review_ratio": 76.0,
-      "review_total": 8932,
+      "review_score": "Very Positive",
+      "review_ratio": 82.0,
+      "review_total": 18193,
       "developer": "Bandai Namco Aces Inc.",
       "publisher": "Bandai Namco Entertainment Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1790908088",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1791286652",
       "steam_url": "https://store.steampowered.com/app/2288340",
       "product_family_identity": "appid:2288340",
       "product_family_appid": "2288340",
@@ -184,13 +190,13 @@
       "reference_frame": "可以把它理解成任务制的街机空战：先把飞机带到合适的攻击位置，再用武器处理目标。飞行路线、接敌角度和目标选择共同决定战斗节奏，云层、战场景观与剧情演出则把一次次出击串成战役。",
       "for_players": "适合喜欢战斗机、空中机动和大场面战役，也愿意在三维空间中练习追踪与攻击位置的玩家。单人剧情和线上任务提供了不同的出击方式。",
       "not_for_players": "如果你容易因快速转向和三维移动感到眩晕，或更偏爱复杂仪表操作与严谨的飞行程序，本作的街机化战斗可能不合口味。",
-      "star_reason": "10 月 3 日观测峰值为 48,743 人，较此前纪录 34,345 人增长约 42%。本期快照记录 76% 好评、8,932 条评价，综合得分 43.21，在通过摘星条件的候选中排名第一。",
+      "star_reason": "10 月 3 日观测峰值 48,743 人，较此前纪录 34,345 人增长约 42%；同批可靠评价为 8,932 条、76% 好评。按新规则得分 47.53，排名第一并通过首发观察，首次摘星。飞行题材的新作关注度仍在上升，后续要看玩家是否愿意继续完成战役和挑战。",
       "core_loop": [
         "进入任务，驾驶战机接近敌方目标，决定先处理哪一批兵器。",
         "调整航向与攻击位置，运用不同武器击破目标，继续完成本次出击。",
         "随后续任务推进战役与角色故事；也可进入线上模式，与其他飞行员共同出击。"
       ],
-      "content_length": 455
+      "content_length": 491
     },
     "platform_attention": {
       "sampled_at": "2026-10-03T16:56:03+00:00",
@@ -237,9 +243,11 @@
     "rank": 1,
     "type": "release_event_rise",
     "label": "发行节点起量",
-    "score": 43.21,
+    "score": 47.53,
     "fact_summary": "ACE COMBAT 8: WINGS OF THEVE 今日观测峰值 48,743，较过往最高峰值提升 +42%，被识别为「发行节点起量」。",
     "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
       "new_game_score_multiplier": 1.0,
       "watched_games_scoring": true,
       "first_playable_date": "2026-10-01",
@@ -270,18 +278,21 @@
       "score_before_multiplier": 43.21,
       "event_adjusted_score": 43.21,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 43.21,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 47.53,
       "review_penalty_reason": null,
-      "review_ratio_scoring_version": "v2",
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "mostly_positive",
       "review_observation_date": "2026-10-03",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.0,
-      "base_score": 43.21,
+      "combined_score_multiplier": 1.1,
+      "base_score": 47.53,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "repeat_score_window_days": 90,
+      "repeat_score_prior_star_count": 0,
       "repeat_window_star_count": 0,
       "app_repeat_window_star_count": 0,
       "app_prior_total_star_count": 0,
@@ -342,7 +353,8 @@
           "date": "2026-10-03",
           "peak": 48743
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-10-12"
     },
     "star_appearance": {
       "count": 1,
@@ -384,12 +396,12 @@
         "可用 HDR",
         "家庭共享"
       ],
-      "review_score": "Mostly Positive",
-      "review_ratio": 76.0,
-      "review_total": 8932,
+      "review_score": "Very Positive",
+      "review_ratio": 82.0,
+      "review_total": 18193,
       "developer": "Bandai Namco Aces Inc.",
       "publisher": "Bandai Namco Entertainment Inc.",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1790908088",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1791286652",
       "steam_url": "https://store.steampowered.com/app/2288340",
       "product_family_identity": "appid:2288340",
       "product_family_appid": "2288340",
@@ -411,13 +423,13 @@
       "reference_frame": "可以把它理解成任务制的街机空战：先把飞机带到合适的攻击位置，再用武器处理目标。飞行路线、接敌角度和目标选择共同决定战斗节奏，云层、战场景观与剧情演出则把一次次出击串成战役。",
       "for_players": "适合喜欢战斗机、空中机动和大场面战役，也愿意在三维空间中练习追踪与攻击位置的玩家。单人剧情和线上任务提供了不同的出击方式。",
       "not_for_players": "如果你容易因快速转向和三维移动感到眩晕，或更偏爱复杂仪表操作与严谨的飞行程序，本作的街机化战斗可能不合口味。",
-      "star_reason": "10 月 3 日观测峰值为 48,743 人，较此前纪录 34,345 人增长约 42%。本期快照记录 76% 好评、8,932 条评价，综合得分 43.21，在通过摘星条件的候选中排名第一。",
+      "star_reason": "10 月 3 日观测峰值 48,743 人，较此前纪录 34,345 人增长约 42%；同批可靠评价为 8,932 条、76% 好评。按新规则得分 47.53，排名第一并通过首发观察，首次摘星。飞行题材的新作关注度仍在上升，后续要看玩家是否愿意继续完成战役和挑战。",
       "core_loop": [
         "进入任务，驾驶战机接近敌方目标，决定先处理哪一批兵器。",
         "调整航向与攻击位置，运用不同武器击破目标，继续完成本次出击。",
         "随后续任务推进战役与角色故事；也可进入线上模式，与其他飞行员共同出击。"
       ],
-      "content_length": 455
+      "content_length": 491
     },
     "platform_attention": {
       "sampled_at": "2026-10-03T16:56:03+00:00",
