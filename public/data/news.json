@@ -1,7 +1,42 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-11T23:55:30.761200+00:00",
+  "generated_at": "2026-10-12T03:24:06.430227+00:00",
   "events": [
+    {
+      "id": 67,
+      "title": "《BLEACH Mirrors High》预注册突破 70 万并公布上线奖励",
+      "summary": "万代南梦宫宣布《BLEACH Mirrors High》全球预注册突破 70 万，触发全服奖励：上线时发放 7,200 镜界石（约 24 抽）及 3 星 [Substitute Soul Reaper] 等免费角色。该作为即将推出的移动端动作 RPG。",
+      "topics": [
+        "Bandai Namco Entertainment",
+        "BLEACH Mirrors High"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-12T03:23:58.698545+00:00",
+      "updated_at": "2026-10-12T03:23:58.698545+00:00",
+      "content_updated_at": "2026-10-12T03:23:58.698545+00:00",
+      "reported_at": "2026-10-12T03:00:45+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://noisypixel.net/bleach-mirrors-high-700000-pre-registrations-rewards/",
+          "title": "Bleach Mirrors High Surpasses 700,000 Pre-Registrations, Unlocks 24 Pulls and Free Characters",
+          "published_at": "2026-10-12T03:00:45+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 70,
+          "text": "万代南梦宫宣布，其即将推出的手游动作 RPG《BLEACH Mirrors High》全球预注册人数已突破 70 万，达成里程碑后全服玩家将在游戏上线时获得 7,200 镜界石（约合 24 抽）以及 3 星 [Substitute Soul Reaper] 等免费角色奖励。",
+          "evidence_kind": "syndication",
+          "source_url": "https://noisypixel.net/bleach-mirrors-high-700000-pre-registrations-rewards/",
+          "action": "create_event",
+          "recorded_at": "2026-10-12T03:23:58.699081+00:00",
+          "source_published_at": "2026-10-12T03:00:45+00:00"
+        }
+      ]
+    },
     {
       "id": 66,
       "title": "PC Gamer 现场试玩 Bumper Bout：双人对战弹珠入选 PAX Omegathon 压轴，10 月 29 日发售",
