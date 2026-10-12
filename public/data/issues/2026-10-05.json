@@ -10,9 +10,11 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 43.66,
+    "score": 59.53,
     "fact_summary": "Dressmaker 今日观测峰值 43,236，较过往最高峰值提升 +31%，被识别为「新作起量」。",
     "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-21",
@@ -43,20 +45,23 @@
       "score_before_multiplier": 37.35,
       "event_adjusted_score": 37.35,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 51.36,
+      "review_ratio_multiplier": 1.5,
+      "review_adjusted_score": 70.04,
       "review_penalty_reason": null,
-      "review_ratio_scoring_version": "v2",
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "overwhelmingly_positive",
       "review_observation_date": "2026-10-05",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.1687,
-      "base_score": 43.66,
+      "combined_score_multiplier": 1.5938,
+      "base_score": 59.53,
       "score_multiplier": 0.85,
       "score_multiplier_reasons": [
-        "repeat_window_star_1x"
+        "repeat_score_window_star_1x"
       ],
+      "repeat_score_window_days": 90,
+      "repeat_score_prior_star_count": 1,
       "repeat_window_star_count": 1,
       "app_repeat_window_star_count": 1,
       "app_prior_total_star_count": 1,
@@ -162,7 +167,8 @@
           "date": "2026-10-05",
           "peak": 43236
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-10-12"
     },
     "star_appearance": {
       "count": 2,
@@ -197,10 +203,10 @@
       ],
       "review_score": "Overwhelmingly Positive",
       "review_ratio": 98.0,
-      "review_total": 10645,
+      "review_total": 13266,
       "developer": "Cozy Lives",
       "publisher": "Free Lives",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg?t=1790947386",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg?t=1791464969",
       "steam_url": "https://store.steampowered.com/app/4019220",
       "product_family_identity": "appid:4019220",
       "product_family_appid": "4019220",
@@ -266,13 +272,13 @@
       "reference_frame": "可以按“接委托的手工制作”来理解：居民告诉你要穿去什么场合、喜欢什么，你负责把要求变成成衣。布料纹理落在哪块衣片上、轮廓怎么搭、蕾丝放哪里，都会改变结果；做好的原创设计也能摆进橱窗出售。",
       "for_players": "适合愿意为一块布的颜色、一条裙子的轮廓慢慢比较，也享受从草图做到成品的人。顾客给你一个创作题目，具体怎么做仍有自己的余地。",
       "not_for_players": "如果你只想快速换装看效果，或更喜欢紧张经营、追求唯一最优方案，反复排版和缝制可能太慢。你得愿意亲手完成中间步骤。",
-      "star_reason": "10 月 5 日观测峰值为 43,236 人，比此前观测纪录高约 31%；同批可靠评价为 9,993 条、98% 好评。首发观察已成熟，计入一次摘星扣分后仍以 43.66 分排第一。",
+      "star_reason": "10 月 5 日观测峰值 43,236 人，比此前观测纪录高约 31%；同批可靠评价为 9,993 条、98% 好评。好评如潮的评价加成与一次摘星折算计入后，得分 59.53，排名第一并通过首发观察，这是第二次摘星。首发两周后，裁缝铺的制作循环仍在吸引玩家。",
       "core_loop": [
         "读顾客的场合与偏好，挑面料，在素描本里定下颜色和装饰。",
         "排纸样、裁出衣片，放到人台上预览，再用缝纫机拼合、加上细节。",
         "交付成衣换取金币和声望，或展示自己的设计，再开始下一件作品。"
       ],
-      "content_length": 432
+      "content_length": 471
     },
     "platform_attention": {
       "sampled_at": "2026-10-07T07:19:00+00:00",
@@ -325,9 +331,11 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 43.66,
+    "score": 59.53,
     "fact_summary": "Dressmaker 今日观测峰值 43,236，较过往最高峰值提升 +31%，被识别为「新作起量」。",
     "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-21",
@@ -358,20 +366,23 @@
       "score_before_multiplier": 37.35,
       "event_adjusted_score": 37.35,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.1,
-      "review_adjusted_score": 51.36,
+      "review_ratio_multiplier": 1.5,
+      "review_adjusted_score": 70.04,
       "review_penalty_reason": null,
-      "review_ratio_scoring_version": "v2",
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "overwhelmingly_positive",
       "review_observation_date": "2026-10-05",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.1687,
-      "base_score": 43.66,
+      "combined_score_multiplier": 1.5938,
+      "base_score": 59.53,
       "score_multiplier": 0.85,
       "score_multiplier_reasons": [
-        "repeat_window_star_1x"
+        "repeat_score_window_star_1x"
       ],
+      "repeat_score_window_days": 90,
+      "repeat_score_prior_star_count": 1,
       "repeat_window_star_count": 1,
       "app_repeat_window_star_count": 1,
       "app_prior_total_star_count": 1,
@@ -477,7 +488,8 @@
           "date": "2026-10-05",
           "peak": 43236
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-10-12"
     },
     "star_appearance": {
       "count": 2,
@@ -512,10 +524,10 @@
       ],
       "review_score": "Overwhelmingly Positive",
       "review_ratio": 98.0,
-      "review_total": 10645,
+      "review_total": 13266,
       "developer": "Cozy Lives",
       "publisher": "Free Lives",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg?t=1790947386",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg?t=1791464969",
       "steam_url": "https://store.steampowered.com/app/4019220",
       "product_family_identity": "appid:4019220",
       "product_family_appid": "4019220",
@@ -581,13 +593,13 @@
       "reference_frame": "可以按“接委托的手工制作”来理解：居民告诉你要穿去什么场合、喜欢什么，你负责把要求变成成衣。布料纹理落在哪块衣片上、轮廓怎么搭、蕾丝放哪里，都会改变结果；做好的原创设计也能摆进橱窗出售。",
       "for_players": "适合愿意为一块布的颜色、一条裙子的轮廓慢慢比较，也享受从草图做到成品的人。顾客给你一个创作题目，具体怎么做仍有自己的余地。",
       "not_for_players": "如果你只想快速换装看效果，或更喜欢紧张经营、追求唯一最优方案，反复排版和缝制可能太慢。你得愿意亲手完成中间步骤。",
-      "star_reason": "10 月 5 日观测峰值为 43,236 人，比此前观测纪录高约 31%；同批可靠评价为 9,993 条、98% 好评。首发观察已成熟，计入一次摘星扣分后仍以 43.66 分排第一。",
+      "star_reason": "10 月 5 日观测峰值 43,236 人，比此前观测纪录高约 31%；同批可靠评价为 9,993 条、98% 好评。好评如潮的评价加成与一次摘星折算计入后，得分 59.53，排名第一并通过首发观察，这是第二次摘星。首发两周后，裁缝铺的制作循环仍在吸引玩家。",
       "core_loop": [
         "读顾客的场合与偏好，挑面料，在素描本里定下颜色和装饰。",
         "排纸样、裁出衣片，放到人台上预览，再用缝纫机拼合、加上细节。",
         "交付成衣换取金币和声望，或展示自己的设计，再开始下一件作品。"
       ],
-      "content_length": 432
+      "content_length": 471
     },
     "platform_attention": {
       "sampled_at": "2026-10-07T07:19:00+00:00",
