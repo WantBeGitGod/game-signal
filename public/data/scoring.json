@@ -19,6 +19,8 @@
     0.6,
     0.5
   ],
+  "repeat_score_window_effective_date": "2026-10-12",
+  "repeat_score_window_days": 90,
   "release_event_scoring_effective_date": "2026-07-31",
   "review_ratio_scoring_effective_date": "2026-08-01",
   "review_ratio_multipliers": {

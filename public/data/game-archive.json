@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-11T23:04:50",
+  "generated_at": "2026-10-12T10:03:01",
   "games": [
     {
       "game": {
@@ -286,7 +286,7 @@
         ],
         "developer": "Urban Games",
         "publisher": "Paradox Interactive",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/8b9bceaacd144199a662460cf9d1f5800947eea1/header_alt_assets_0_schinese.jpg?t=1790777411",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/8b9bceaacd144199a662460cf9d1f5800947eea1/header_alt_assets_0_schinese.jpg?t=1791359026",
         "product_family_identity": "appid:3493540",
         "product_family_appid": "3493540",
         "product_family_role": "full"

@@ -13,6 +13,8 @@
     "score": 48.04,
     "fact_summary": "Transport Fever 3 今日观测峰值 41,675，较过往最高峰值提升 +36%，被识别为「新作起量」。",
     "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-29",
@@ -46,7 +48,8 @@
       "review_ratio_multiplier": 1.0,
       "review_adjusted_score": 48.04,
       "review_penalty_reason": null,
-      "review_ratio_scoring_version": "v2",
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "mixed",
       "review_observation_date": "2026-10-01",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
@@ -55,6 +58,8 @@
       "base_score": 48.04,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "repeat_score_window_days": 90,
+      "repeat_score_prior_star_count": 0,
       "repeat_window_star_count": 0,
       "app_repeat_window_star_count": 0,
       "app_prior_total_star_count": 0,
@@ -117,7 +122,8 @@
           "date": "2026-10-01",
           "peak": 41675
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-10-12"
     },
     "star_appearance": {
       "count": 1,
@@ -153,10 +159,10 @@
       ],
       "review_score": "Mixed",
       "review_ratio": 69.0,
-      "review_total": 2740,
+      "review_total": 5610,
       "developer": "Urban Games",
       "publisher": "Paradox Interactive",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/8b9bceaacd144199a662460cf9d1f5800947eea1/header_alt_assets_0_schinese.jpg?t=1790777411",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/8b9bceaacd144199a662460cf9d1f5800947eea1/header_alt_assets_0_schinese.jpg?t=1791359026",
       "steam_url": "https://store.steampowered.com/app/3493540",
       "product_family_identity": "appid:3493540",
       "product_family_appid": "3493540",
@@ -250,6 +256,8 @@
     "score": 48.04,
     "fact_summary": "Transport Fever 3 今日观测峰值 41,675，较过往最高峰值提升 +36%，被识别为「新作起量」。",
     "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-09-29",
@@ -283,7 +291,8 @@
       "review_ratio_multiplier": 1.0,
       "review_adjusted_score": 48.04,
       "review_penalty_reason": null,
-      "review_ratio_scoring_version": "v2",
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "mixed",
       "review_observation_date": "2026-10-01",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
@@ -292,6 +301,8 @@
       "base_score": 48.04,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "repeat_score_window_days": 90,
+      "repeat_score_prior_star_count": 0,
       "repeat_window_star_count": 0,
       "app_repeat_window_star_count": 0,
       "app_prior_total_star_count": 0,
@@ -354,7 +365,8 @@
           "date": "2026-10-01",
           "peak": 41675
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-10-12"
     },
     "star_appearance": {
       "count": 1,
@@ -390,10 +402,10 @@
       ],
       "review_score": "Mixed",
       "review_ratio": 69.0,
-      "review_total": 2740,
+      "review_total": 5610,
       "developer": "Urban Games",
       "publisher": "Paradox Interactive",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/8b9bceaacd144199a662460cf9d1f5800947eea1/header_alt_assets_0_schinese.jpg?t=1790777411",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493540/8b9bceaacd144199a662460cf9d1f5800947eea1/header_alt_assets_0_schinese.jpg?t=1791359026",
       "steam_url": "https://store.steampowered.com/app/3493540",
       "product_family_identity": "appid:3493540",
       "product_family_appid": "3493540",
