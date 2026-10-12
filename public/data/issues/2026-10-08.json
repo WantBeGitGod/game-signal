@@ -10,9 +10,11 @@
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 36.73,
+    "score": 40.41,
     "fact_summary": "Gears of War: E-Day 今日观测峰值 28,579，较过往最高峰值提升 +24%，被识别为「新作起量」。",
     "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-10-06",
@@ -43,18 +45,21 @@
       "score_before_multiplier": 29.39,
       "event_adjusted_score": 29.39,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 36.73,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 40.41,
       "review_penalty_reason": null,
-      "review_ratio_scoring_version": "v2",
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "mostly_positive",
       "review_observation_date": "2026-10-08",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.25,
-      "base_score": 36.73,
+      "combined_score_multiplier": 1.375,
+      "base_score": 40.41,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "repeat_score_window_days": 90,
+      "repeat_score_prior_star_count": 0,
       "repeat_window_star_count": 0,
       "app_repeat_window_star_count": 0,
       "app_prior_total_star_count": 0,
@@ -68,7 +73,7 @@
       "total_star_count": 1,
       "star_appearance_count": 1,
       "cumulative_star_count": 0,
-      "unstarred_runner_up_streak_days": 2,
+      "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": 75.0,
       "review_total": 5688,
@@ -106,7 +111,7 @@
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 2,
+      "pre_bonus_model_rank": 1,
       "trend": [
         {
           "date": "2026-10-04",
@@ -120,7 +125,8 @@
           "date": "2026-10-08",
           "peak": 28579
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-10-12"
     },
     "star_appearance": {
       "count": 1,
@@ -160,11 +166,11 @@
         "家庭共享"
       ],
       "review_score": "Mostly Positive",
-      "review_ratio": 75.0,
-      "review_total": 5688,
+      "review_ratio": 74.0,
+      "review_total": 7880,
       "developer": "The Coalition",
       "publisher": "Xbox Game Studios",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/1abb0c5ef76c14f463dd6e3964adb64f984237d2/header.jpg?t=1791405196",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/1abb0c5ef76c14f463dd6e3964adb64f984237d2/header.jpg?t=1791488050",
       "steam_url": "https://store.steampowered.com/app/3010850",
       "product_family_identity": "appid:3010850",
       "product_family_appid": "3010850",
@@ -213,26 +219,17 @@
         }
       ],
       "controversies": []
-    },
-    "selection_note": "本期为递补入选，原评分排名第 2。",
-    "selection_context": {
-      "model_rank": 2,
-      "leader": {
-        "name": "AION 2",
-        "appid": "3393110",
-        "score": 37.5,
-        "reason": "处于摘星冷却期，至 2026-10-14 结束。",
-        "url": "https://store.steampowered.com/app/3393110/"
-      }
     }
   },
   "main_signal": {
     "rank": 1,
     "type": "new_release_rise",
     "label": "新作起量",
-    "score": 36.73,
+    "score": 40.41,
     "fact_summary": "Gears of War: E-Day 今日观测峰值 28,579，较过往最高峰值提升 +24%，被识别为「新作起量」。",
     "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
       "new_game_score_multiplier": 1.25,
       "watched_games_scoring": true,
       "first_playable_date": "2026-10-06",
@@ -263,18 +260,21 @@
       "score_before_multiplier": 29.39,
       "event_adjusted_score": 29.39,
       "event_multiplier": 1.0,
-      "review_ratio_multiplier": 1.0,
-      "review_adjusted_score": 36.73,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 40.41,
       "review_penalty_reason": null,
-      "review_ratio_scoring_version": "v2",
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "mostly_positive",
       "review_observation_date": "2026-10-08",
       "review_observation_age_days": 0,
       "review_ratio_carried_forward": false,
       "secondary_labels": [],
-      "combined_score_multiplier": 1.25,
-      "base_score": 36.73,
+      "combined_score_multiplier": 1.375,
+      "base_score": 40.41,
       "score_multiplier": 1.0,
       "score_multiplier_reasons": [],
+      "repeat_score_window_days": 90,
+      "repeat_score_prior_star_count": 0,
       "repeat_window_star_count": 0,
       "app_repeat_window_star_count": 0,
       "app_prior_total_star_count": 0,
@@ -288,7 +288,7 @@
       "total_star_count": 1,
       "star_appearance_count": 1,
       "cumulative_star_count": 0,
-      "unstarred_runner_up_streak_days": 2,
+      "unstarred_runner_up_streak_days": 0,
       "unstarred_runner_up_bonus": 0.0,
       "review_ratio": 75.0,
       "review_total": 5688,
@@ -326,7 +326,7 @@
         "verification_status": "confirmed_true_new"
       },
       "release_event_date_basis": "confirmed_identity",
-      "pre_bonus_model_rank": 2,
+      "pre_bonus_model_rank": 1,
       "trend": [
         {
           "date": "2026-10-04",
@@ -340,7 +340,8 @@
           "date": "2026-10-08",
           "peak": 28579
         }
-      ]
+      ],
+      "scoring_rules_as_of": "2026-10-12"
     },
     "star_appearance": {
       "count": 1,
@@ -380,11 +381,11 @@
         "家庭共享"
       ],
       "review_score": "Mostly Positive",
-      "review_ratio": 75.0,
-      "review_total": 5688,
+      "review_ratio": 74.0,
+      "review_total": 7880,
       "developer": "The Coalition",
       "publisher": "Xbox Game Studios",
-      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/1abb0c5ef76c14f463dd6e3964adb64f984237d2/header.jpg?t=1791405196",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3010850/1abb0c5ef76c14f463dd6e3964adb64f984237d2/header.jpg?t=1791488050",
       "steam_url": "https://store.steampowered.com/app/3010850",
       "product_family_identity": "appid:3010850",
       "product_family_appid": "3010850",
@@ -433,17 +434,6 @@
         }
       ],
       "controversies": []
-    },
-    "selection_note": "本期为递补入选，原评分排名第 2。",
-    "selection_context": {
-      "model_rank": 2,
-      "leader": {
-        "name": "AION 2",
-        "appid": "3393110",
-        "score": 37.5,
-        "reason": "处于摘星冷却期，至 2026-10-14 结束。",
-        "url": "https://store.steampowered.com/app/3393110/"
-      }
     }
   },
   "secondary_signals": [],
