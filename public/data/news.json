@@ -1,7 +1,101 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-12T11:24:10.635168+00:00",
+  "generated_at": "2026-10-12T15:49:45.512300+00:00",
   "events": [
+    {
+      "id": 54,
+      "title": "《Deadlock》在线峰值达 262,145 人，超过《军团要塞 2》",
+      "summary": "据 PC Gamer 10 月 10 日报道，SteamDB 当时记录的《Deadlock》同时在线峰值达到 262,145 人，超过《军团要塞 2》的历史峰值 253,997 人。这一纪录出现在“City Never Sleeps”更新陆续加入新角色、Solomon 登场期间。",
+      "topics": [
+        "Deadlock",
+        "Solomon"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-10T05:23:02.131074+00:00",
+      "updated_at": "2026-10-12T15:49:42.418496+00:00",
+      "content_updated_at": "2026-10-12T15:49:42.418496+00:00",
+      "reported_at": "2026-10-10T16:55:26+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [
+        {
+          "text": "标题和摘要已改为在线峰值纪录，角色投票作为背景保留；数值为原报道当时的记录。",
+          "recorded_at": "2026-10-12T15:49:42.418496+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.shacknews.com/article/150966/deadlock-city-never-sleeps-solomon-wins-vote-3",
+          "title": "Chessmaster Solomon wins Deadlock City Never Sleeps update's third character vote",
+          "published_at": "2026-10-10T04:38:00+00:00"
+        },
+        {
+          "url": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
+          "title": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard",
+          "published_at": "2026-10-10T16:55:26+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 55,
+          "text": "《Deadlock》的‘City Never Sleeps’更新第三次角色投票结果出炉，Solomon（国际象棋大师）胜出；其技能为以国际象棋为基础的招式组合，用于布置策略并压制对手。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.shacknews.com/article/150966/deadlock-city-never-sleeps-solomon-wins-vote-3",
+          "action": "create_event",
+          "recorded_at": "2026-10-10T05:23:02.131597+00:00",
+          "source_published_at": "2026-10-10T04:38:00+00:00"
+        },
+        {
+          "id": 63,
+          "text": "据 PC Gamer 10 月 10 日报道，SteamDB 当时记录的《Deadlock》同时在线峰值为 262,145 人，超过《军团要塞 2》的历史峰值 253,997 人。报道发生在“City Never Sleeps”更新陆续加入新角色、Solomon 登场期间。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
+          "action": "update_event",
+          "recorded_at": "2026-10-10T17:24:57.515048+00:00",
+          "source_published_at": "2026-10-10T16:55:26+00:00"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "任天堂高管：没有取消实体游戏的计划",
+      "summary": "据 AUTOMATON 报道，任天堂拉丁美洲地区副总裁兼总经理 Bill van Zyll 表示，公司没有取消实体游戏媒介的计划。实体发行虽然增加成本，但仍有喜爱实体版的玩家。",
+      "topics": [
+        "任天堂",
+        "Bill van Zyll"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-12T07:24:10.684354+00:00",
+      "updated_at": "2026-10-12T15:49:42.004869+00:00",
+      "content_updated_at": "2026-10-12T15:49:42.004869+00:00",
+      "reported_at": "2026-10-12T06:28:38+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [
+        {
+          "text": "已将标题、摘要和事实说明译为中文，原始来源保持不变。",
+          "recorded_at": "2026-10-12T15:49:42.004869+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://automaton-media.com/articles/newsjp/20261012-473063/",
+          "title": "海外任天堂幹部、「物理メディアの廃止予定はない」と明言。その分コストはかかるけど、“愛好家たち”は確かに居るから",
+          "published_at": "2026-10-12T06:28:38+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 74,
+          "text": "据 AUTOMATON 报道，任天堂拉丁美洲地区副总裁兼总经理 Bill van Zyll 表示，没有取消实体游戏媒介的计划；实体发行虽有成本，但仍有喜爱实体版的玩家。",
+          "evidence_kind": "syndication",
+          "source_url": "https://automaton-media.com/articles/newsjp/20261012-473063/",
+          "action": "create_event",
+          "recorded_at": "2026-10-12T07:24:10.685490+00:00",
+          "source_published_at": "2026-10-12T06:28:38+00:00"
+        }
+      ]
+    },
     {
       "id": 72,
       "title": "Valve 免费公布 Steam Frame 完整 CAD 文件并详解扩展口",
@@ -35,41 +129,6 @@
           "action": "create_event",
           "recorded_at": "2026-10-12T11:24:02.527210+00:00",
           "source_published_at": "2026-10-12T11:17:32+00:00"
-        }
-      ]
-    },
-    {
-      "id": 71,
-      "title": "任天堂幹部、物理メディア廃止の予定はないと明言",
-      "summary": "任天堂のラテンアメリカ地域担当副社長兼ゼネラルマネージャーBill van Zyll氏が、物理メディアの廃止予定はないと明言したと報じられた。物理メディアにはコストがかかる一方、愛好家が存在することも述べられている。",
-      "topics": [
-        "任天堂",
-        "Bill van Zyll"
-      ],
-      "kind": "business",
-      "created_at": "2026-10-12T07:24:10.684354+00:00",
-      "updated_at": "2026-10-12T07:24:10.684354+00:00",
-      "content_updated_at": "2026-10-12T07:24:10.684354+00:00",
-      "reported_at": "2026-10-12T06:28:38+00:00",
-      "prominence": "normal",
-      "recommendation": "",
-      "corrections": [],
-      "sources": [
-        {
-          "url": "https://automaton-media.com/articles/newsjp/20261012-473063/",
-          "title": "海外任天堂幹部、「物理メディアの廃止予定はない」と明言。その分コストはかかるけど、“愛好家たち”は確かに居るから",
-          "published_at": "2026-10-12T06:28:38+00:00"
-        }
-      ],
-      "progress": [
-        {
-          "id": 74,
-          "text": "任天堂ラテンアメリカ地域担当副社長兼ゼネラルマネージャーのBill van Zyll氏が、物理メディアの廃止予定はないと明言したとAutomatonが報じた。物理メディアにはコストがかかる一方、愛好家が存在するとの趣旨も述べられている。",
-          "evidence_kind": "syndication",
-          "source_url": "https://automaton-media.com/articles/newsjp/20261012-473063/",
-          "action": "create_event",
-          "recorded_at": "2026-10-12T07:24:10.685490+00:00",
-          "source_published_at": "2026-10-12T06:28:38+00:00"
         }
       ]
     },
@@ -445,55 +504,6 @@
           "action": "update_event",
           "recorded_at": "2026-10-10T17:25:05.945084+00:00",
           "source_published_at": "2026-10-10T16:52:57+00:00"
-        }
-      ]
-    },
-    {
-      "id": 54,
-      "title": "《Deadlock》City Never Sleeps 更新第三次角色投票 Solomon 胜出",
-      "summary": "《Deadlock》的 City Never Sleeps 更新第三次角色投票结果公布，国际象棋大师 Solomon 胜出。据报道，Solomon 使用一套以国际象棋为基础的技能，围绕策略布置与压制对手展开。该角色的具体上线时间与平台安排尚不明确。",
-      "topics": [
-        "Deadlock",
-        "Solomon"
-      ],
-      "kind": "major_update",
-      "created_at": "2026-10-10T05:23:02.131074+00:00",
-      "updated_at": "2026-10-10T17:24:57.513933+00:00",
-      "content_updated_at": "2026-10-10T17:24:57.515048+00:00",
-      "reported_at": "2026-10-10T16:55:26+00:00",
-      "prominence": "normal",
-      "recommendation": "",
-      "corrections": [],
-      "sources": [
-        {
-          "url": "https://www.shacknews.com/article/150966/deadlock-city-never-sleeps-solomon-wins-vote-3",
-          "title": "Chessmaster Solomon wins Deadlock City Never Sleeps update's third character vote",
-          "published_at": "2026-10-10T04:38:00+00:00"
-        },
-        {
-          "url": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
-          "title": "Deadlock surpasses Team Fortress 2's all-time concurrent player count peak as it adds a chess wizard",
-          "published_at": "2026-10-10T16:55:26+00:00"
-        }
-      ],
-      "progress": [
-        {
-          "id": 55,
-          "text": "《Deadlock》的‘City Never Sleeps’更新第三次角色投票结果出炉，Solomon（国际象棋大师）胜出；其技能为以国际象棋为基础的招式组合，用于布置策略并压制对手。",
-          "evidence_kind": "original_reporting",
-          "source_url": "https://www.shacknews.com/article/150966/deadlock-city-never-sleeps-solomon-wins-vote-3",
-          "action": "create_event",
-          "recorded_at": "2026-10-10T05:23:02.131597+00:00",
-          "source_published_at": "2026-10-10T04:38:00+00:00"
-        },
-        {
-          "id": 63,
-          "text": "《Deadlock》在加入国际象棋法师 Solomon 后，SteamDB 统计的同时在线玩家峰值达到 262,145 人，超过《Team Fortress 2》历史同时在线峰值 253,997 人；报道称玩家反映 Solomon 的枪是一副棋盘，每次换弹会依剩余子弹数重现不同的历史棋局（该说法作者未自行核实）。",
-          "evidence_kind": "original_reporting",
-          "source_url": "https://www.pcgamer.com/games/moba/deadlock-surpasses-team-fortress-2s-all-time-concurrent-player-count-peak-as-it-adds-a-chess-wizard/",
-          "action": "update_event",
-          "recorded_at": "2026-10-10T17:24:57.515048+00:00",
-          "source_published_at": "2026-10-10T16:55:26+00:00"
         }
       ]
     },
