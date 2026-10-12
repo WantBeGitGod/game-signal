@@ -1,7 +1,82 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-12T03:24:06.430227+00:00",
+  "generated_at": "2026-10-12T05:22:52.666691+00:00",
   "events": [
+    {
+      "id": 69,
+      "title": "《Star Wars: Galactic Racer》开发团队用桌游原型化 roguelite 成长系统",
+      "summary": "PC Gamer 引述 Eurogamer 采访，Fuse Games 创意总监 Kieran Crimmins 与 CEO Matt Webster 透露，团队曾用简易桌游原型化《Star Wars: Galactic Racer》的 roguelite 成长系统：每场赛事给予改装点数用于随机三选一属性提升，可能掉落影响能力或状态效果的零件，赛后可用积分购买更多升级或新能力；解锁内容进入池中以在后续跑局出现，改装点数还可用于跨局保留的永久升级。团队称桌游让验证系统手感比纯软件原型更快。",
+      "topics": [
+        "Fuse Games",
+        "Star Wars: Galactic Racer",
+        "Kieran Crimmins",
+        "Matt Webster"
+      ],
+      "kind": "development",
+      "created_at": "2026-10-12T05:22:44.961754+00:00",
+      "updated_at": "2026-10-12T05:22:44.961754+00:00",
+      "content_updated_at": "2026-10-12T05:22:44.961754+00:00",
+      "reported_at": "2026-10-12T02:15:46+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/",
+          "title": "Star Wars Galactic Racer's devs tested its roguelite progression system by turning it into a board game",
+          "published_at": "2026-10-12T02:15:46+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 72,
+          "text": "PC Gamer 转述 Eurogamer 对 Fuse Games 创意总监 Kieran Crimmins 与 CEO Matt Webster 的采访：开发团队用桌游（Post-its、涂鸦与骰子）快速原型化《Star Wars: Galactic Racer》的 roguelite 成长系统，以验证升级与元进程的手感；该系统按赛事给予改装点数、随机三选一属性提升，并可能掉落影响能力或状态效果的零件，赛后可用积分购买升级或新能力，解锁进入池中以在后续跑局中出现，改装点数可用于跨局保留的永久升级。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.pcgamer.com/games/racing/star-wars-galactic-racers-devs-tested-its-roguelite-progression-system-by-turning-it-into-a-board-game/",
+          "action": "create_event",
+          "recorded_at": "2026-10-12T05:22:44.963385+00:00",
+          "source_published_at": "2026-10-12T02:15:46+00:00"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "《Wonder Boy in Monster Land》疑遭未授权版本上架 Steam",
+      "summary": "PC Gamer 报道，2026 年 9 月 28 日 Steam 出现一款拼写为「Wonderboy in Monster Land」的游戏，开发发行方列为 Retro Maniac。由于 Wonder Boy 游戏 IP 属 LAT Corp、商标属 Sega，该页面未显著标示两者，引发未授权质疑。原版作曲家 Shinichi Sakamoto 称其不合法，指出日本区不可见并表示正在申请下架；作者实测确认该版本只是运行于 MAME 模拟器的 ROM，仅删去了 Sega 开场标志。Valve 与 Sega 均未回复作者询问，粉丝账号称该页面正被官方 DMCA 处理，但报道时 Steam 尚未出现下架提示，商品仍在售。",
+      "topics": [
+        "Wonder Boy in Monster Land",
+        "Retro Maniac",
+        "Steam",
+        "Sega",
+        "LAT Corp"
+      ],
+      "kind": "development",
+      "created_at": "2026-10-12T05:22:36.114945+00:00",
+      "updated_at": "2026-10-12T05:22:36.114945+00:00",
+      "content_updated_at": "2026-10-12T05:22:36.114945+00:00",
+      "reported_at": "2026-10-12T02:57:30+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
+          "title": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut",
+          "published_at": "2026-10-12T02:57:30+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 71,
+          "text": "PC Gamer 报道，一款名为「Wonderboy in Monster Land」（注意拼写为 Wonderboy 而非 Wonder Boy）的游戏于 2026 年 9 月 28 日上架 Steam，开发与发行方列为 Retro Maniac；因 Wonder Boy 游戏 IP 归 LAT Corp 所有、商标归 Sega 所有，而该页面未显著标示 Sega 或 LAT Corp，加之改名拼写，引发其未经授权的质疑。原版《Wonder Boy in Monster Land》作曲家 Shinichi Sakamoto 也表示该 Retro Maniac 版本不合法，并指出其在日本区不可见，他正在申请下架；作者购买后确认该版本只是运行在 MAME 街机模拟器中的 ROM，唯一明显改动是去掉了 Sega 标志的开场画面。作者联系 Valve 和 Sega 均未获回复，Wonder Boy Universe 粉丝账号称该页面正被官方 DMCA 处理，但截至报道时 Steam 页面尚未出现 DMCA 下架提示，商品仍在售。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
+          "action": "create_event",
+          "recorded_at": "2026-10-12T05:22:36.117203+00:00",
+          "source_published_at": "2026-10-12T02:57:30+00:00"
+        }
+      ]
+    },
     {
       "id": 67,
       "title": "《BLEACH Mirrors High》预注册突破 70 万并公布上线奖励",
