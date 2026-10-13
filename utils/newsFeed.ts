@@ -4,6 +4,12 @@ export const newsKinds: Record<string, string> = {
   announcement: '新作与宣发', release_schedule: '发售安排', dlc: '扩展内容',
   major_update: '体验与更新', business: '厂商与行业', development: '游戏体验技术', review: '口碑与评测', industry_event: '展会与发布会'
 }
+export const newsCategories = [
+  { value: 'updates', label: '新作与更新', kinds: ['announcement', 'dlc', 'major_update'] },
+  { value: 'experience', label: '口碑与体验', kinds: ['review', 'development'] },
+  { value: 'industry', label: '厂商与行业', kinds: ['business'] },
+  { value: 'events', label: '展会与发布会', kinds: ['industry_event'] }
+]
 export const evidenceNames: Record<string, string> = {
   official_statement: '官方陈述', original_reporting: '媒体原创报道',
   syndication: '媒体转述', review: '实测与评价', unconfirmed_rumor: '未确认爆料'
@@ -30,9 +36,10 @@ export function newsStatus(event: NewsEvent) {
   if (correction && correction >= update) return '内容更正'
   return update ? '有新进展' : '新收录'
 }
-export function selectNews(events: NewsEvent[], filters: { view?: string; search?: string; topic?: string; now?: number } = {}) {
+export function selectNews(events: NewsEvent[], filters: { view?: string; search?: string; topic?: string; category?: string; now?: number } = {}) {
   const query = (filters.search || '').trim().toLocaleLowerCase()
   const clock = filters.now ?? Date.now()
+  const category = newsCategories.find(c => c.value === filters.category)
   return events.filter(e => {
     // Date evidence remains available to the timeline and its source detail pages.
     if (e.prominence === 'archive' || e.kind === 'release_schedule') return false
@@ -45,6 +52,7 @@ export function selectNews(events: NewsEvent[], filters: { view?: string; search
       if (recent) return false
     } else if (!recent) return false
     if (filters.topic && !e.topics.includes(filters.topic)) return false
+    if (category && !category.kinds.includes(e.kind)) return false
     return !query || `${e.title} ${e.summary} ${e.topics.join(' ')}`.toLocaleLowerCase().includes(query)
   }).sort((a, b) => Date.parse(newsTime(b)) - Date.parse(newsTime(a)) || b.id - a.id)
 }

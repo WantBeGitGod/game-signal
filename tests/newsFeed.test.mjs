@@ -1,10 +1,24 @@
 import test from 'node:test'
 import assert from 'node:assert/strict'
-import { groupNews, homeNews, isFeatured, newsDay, newsStatus, newsTime, selectNews } from '../utils/newsFeed.ts'
+import { groupNews, homeNews, isFeatured, newsCategories, newsDay, newsStatus, newsTime, selectNews } from '../utils/newsFeed.ts'
 const clock = Date.parse('2030-01-04T12:00:00Z')
 const selectRecent = (items, filters = {}) => selectNews(items, { now: clock, ...filters })
 const homeRecent = items => homeNews(items, 3, clock)
 const event = (id, date, extra = {}) => ({ id, title: `Game ${id}`, summary: '一条消息', topics: ['Studio'], kind: 'announcement', created_at: date, updated_at: date, reported_at: date, sources: [], progress: [], ...extra })
+
+test('four broad categories cover public news kinds without treating entity labels as types', () => {
+  const kinds = ['announcement', 'dlc', 'major_update', 'review', 'development', 'business', 'industry_event', 'release_schedule']
+  const items = kinds.map((kind, i) => event(i + 1, '2030-01-03T00:00:00Z', { kind, topics: ['Nintendo', 'Solomon'] }))
+  assert.deepEqual(newsCategories.map(c => selectRecent(items, { category: c.value }).map(e => e.id)), [[3, 2, 1], [5, 4], [6], [7]])
+  assert.deepEqual(selectRecent(items, { category: 'unknown' }).map(e => e.id), [7, 6, 5, 4, 3, 2, 1])
+})
+
+test('category combines with history, featured, search and existing topic links', () => {
+  const items = [event(1, '2029-03-01T00:00:00Z', { kind: 'review', prominence: 'featured', recommendation: 'Long-lived review' }), event(2, '2029-03-01T00:00:00Z', { kind: 'business' }), event(3, '2030-01-03T00:00:00Z', { kind: 'review' })]
+  assert.deepEqual(selectRecent(items, { view: 'history', category: 'experience', search: ' GAME 1 ', topic: 'Studio' }).map(e => e.id), [1])
+  assert.deepEqual(selectRecent(items, { view: 'featured', category: 'experience' }).map(e => e.id), [1])
+  assert.deepEqual(selectRecent(items, { category: 'experience' }).map(e => e.id), [3])
+})
 test('release dates stay out of news and homepage even when featured; substantive DLC remains news', () => {
   const items = [event(1, '2030-01-04T00:00:00Z', { kind: 'release_schedule', prominence: 'featured', recommendation: 'Release date' }), event(2, '2030-01-02T00:00:00Z', { kind: 'review' }), event(3, '2030-01-03T00:00:00Z', { kind: 'dlc' })]
   assert.deepEqual(selectRecent(items).map(e => e.id), [3, 2])
