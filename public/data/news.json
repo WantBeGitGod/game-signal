@@ -1,7 +1,41 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-12T15:49:45.512300+00:00",
+  "generated_at": "2026-10-13T00:03:11.668172+00:00",
   "events": [
+    {
+      "id": 73,
+      "title": "《私の赤いボールはどこだ?》在OIGS2026展出未公开关卡，叙事转向姐妹故事",
+      "summary": "4Gamer在OSAKA INDIEGAMES SUMMIT 2026会场试玩了点击式解谜游戏《私の赤いボールはどこだ?》的未公开关卡。报道同时介绍，该作的故事背景已从亲子关系转变为姐妹故事。",
+      "topics": [
+        "私の赤いボールはどこだ?"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-13T00:02:58.498438+00:00",
+      "updated_at": "2026-10-13T00:02:58.498438+00:00",
+      "content_updated_at": "2026-10-13T00:02:58.498438+00:00",
+      "reported_at": "2026-10-12T23:30:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.4gamer.net/games/937/G093713/20261011010/",
+          "title": "ボールを渡した瞬間の，ネコの幸せそうな顔がたまらない。「私の赤いボールはどこだ?」は親子の話から姉妹の物語へ［OIGS2026］",
+          "published_at": "2026-10-12T23:30:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 76,
+          "text": "4Gamer在OSAKA INDIEGAMES SUMMIT 2026会场上试玩了点击式解谜游戏《私の赤いボールはどこだ?》的未公开关卡，并介绍该作已由亲子故事转变为姐妹故事。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.4gamer.net/games/937/G093713/20261011010/",
+          "action": "create_event",
+          "recorded_at": "2026-10-13T00:02:58.498438+00:00",
+          "source_published_at": "2026-10-12T23:30:00+00:00"
+        }
+      ]
+    },
     {
       "id": 54,
       "title": "《Deadlock》在线峰值达 262,145 人，超过《军团要塞 2》",
