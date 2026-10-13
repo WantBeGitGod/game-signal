@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-13T18:36:48",
+  "generated_at": "2026-10-13T20:47:30",
   "games": [
     {
       "game": {
@@ -58,9 +58,11 @@
         "product_family_appid": "632360",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "risk-of-rain-2"
+      ],
+      "article_title": "雨中冒险2-再开一局，雨又下大了",
+      "article_published_at": "2026-10-13",
       "star_dates": [
         "2026-10-12",
         "2026-10-11"
@@ -68,7 +70,7 @@
       "member_appids": [
         "632360"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-10-12"
     },
     {
