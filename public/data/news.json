@@ -1,7 +1,48 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-13T00:03:11.668172+00:00",
+  "generated_at": "2026-10-13T09:33:36.571728+00:00",
   "events": [
+    {
+      "id": 72,
+      "title": "Valve 免费公布 Steam Frame 完整 CAD 文件并详解扩展口",
+      "summary": "Valve 免费发布 Steam Frame VR 头显的完整 CAD 文件，覆盖光罩、头带、电池仓、面部接口、核心模块与手柄，并公开扩展口文档：该口提供一条 Gen4 PCIe 通道、供电与相机功能，可加装 Arcturus Vision RGB 相机等外设。Valve 同时确认正在开发可换电池、配离耳式扬声器的升级头带，称将于不久后推出。此前 Steam Deck、Steam Machine、Steam Controller 的 CAD 也已公开。",
+      "topics": [
+        "Valve",
+        "Steam Frame",
+        "Arcturus Vision"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-12T11:24:02.524240+00:00",
+      "updated_at": "2026-10-13T09:33:34.899826+00:00",
+      "content_updated_at": "2026-10-13T09:33:34.899826+00:00",
+      "reported_at": "2026-10-12T11:17:32+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [
+        {
+          "text": "已将这条硬件消息的分类更正为“厂商与行业”。",
+          "recorded_at": "2026-10-13T09:33:34.899826+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
+          "title": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free",
+          "published_at": "2026-10-12T11:17:32+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 75,
+          "text": "Valve 免费公布了 Steam Frame VR 头显的完整 CAD 文件，涵盖光罩（light blocker）、头带、电池仓、面部接口、核心模块与手柄，并说明扩展口（Valve 称 auxiliary port）的接口方式，可用于加装带供电的配件，例如 Arcturus Vision RGB 相机；该口带一条 Gen4 PCIe 通道以及供电和相机功能。Valve 还确认正在开发可换电池、带离耳式扬声器的升级头带，官方称「coming soon」。此前 Valve 已为 Steam Deck、Steam Machine、Steam Controller 公布过 CAD 文件。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
+          "action": "create_event",
+          "recorded_at": "2026-10-12T11:24:02.527210+00:00",
+          "source_published_at": "2026-10-12T11:17:32+00:00"
+        }
+      ]
+    },
     {
       "id": 73,
       "title": "《私の赤いボールはどこだ?》在OIGS2026展出未公开关卡，叙事转向姐妹故事",
@@ -127,42 +168,6 @@
           "action": "create_event",
           "recorded_at": "2026-10-12T07:24:10.685490+00:00",
           "source_published_at": "2026-10-12T06:28:38+00:00"
-        }
-      ]
-    },
-    {
-      "id": 72,
-      "title": "Valve 免费公布 Steam Frame 完整 CAD 文件并详解扩展口",
-      "summary": "Valve 免费发布 Steam Frame VR 头显的完整 CAD 文件，覆盖光罩、头带、电池仓、面部接口、核心模块与手柄，并公开扩展口文档：该口提供一条 Gen4 PCIe 通道、供电与相机功能，可加装 Arcturus Vision RGB 相机等外设。Valve 同时确认正在开发可换电池、配离耳式扬声器的升级头带，称将于不久后推出。此前 Steam Deck、Steam Machine、Steam Controller 的 CAD 也已公开。",
-      "topics": [
-        "Valve",
-        "Steam Frame",
-        "Arcturus Vision"
-      ],
-      "kind": "announcement",
-      "created_at": "2026-10-12T11:24:02.524240+00:00",
-      "updated_at": "2026-10-12T11:24:02.524240+00:00",
-      "content_updated_at": "2026-10-12T11:24:02.524240+00:00",
-      "reported_at": "2026-10-12T11:17:32+00:00",
-      "prominence": "normal",
-      "recommendation": "",
-      "corrections": [],
-      "sources": [
-        {
-          "url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
-          "title": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free",
-          "published_at": "2026-10-12T11:17:32+00:00"
-        }
-      ],
-      "progress": [
-        {
-          "id": 75,
-          "text": "Valve 免费公布了 Steam Frame VR 头显的完整 CAD 文件，涵盖光罩（light blocker）、头带、电池仓、面部接口、核心模块与手柄，并说明扩展口（Valve 称 auxiliary port）的接口方式，可用于加装带供电的配件，例如 Arcturus Vision RGB 相机；该口带一条 Gen4 PCIe 通道以及供电和相机功能。Valve 还确认正在开发可换电池、带离耳式扬声器的升级头带，官方称「coming soon」。此前 Valve 已为 Steam Deck、Steam Machine、Steam Controller 公布过 CAD 文件。",
-          "evidence_kind": "original_reporting",
-          "source_url": "https://www.pcgamer.com/hardware/vr-hardware/here-come-the-weird-and-wonderful-mods-for-the-steam-frame-as-valve-drops-the-full-cad-files-for-free/",
-          "action": "create_event",
-          "recorded_at": "2026-10-12T11:24:02.527210+00:00",
-          "source_published_at": "2026-10-12T11:17:32+00:00"
         }
       ]
     },
