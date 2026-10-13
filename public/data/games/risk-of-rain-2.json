@@ -32,8 +32,8 @@
     "家庭共享"
   ],
   "review_score": "Very Positive",
-  "review_ratio": 94.0,
-  "review_total": 354332,
+  "review_ratio": 93.85183012140634,
+  "review_total": 354512,
   "developer": "Hopoo Games",
   "publisher": "Gearbox Publishing, 2K",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/77f4cff7fea7de8a4566d1fb76ace16967604da7/header_alt_assets_7.jpg?t=1791475448",
@@ -45,6 +45,10 @@
     {
       "date": "2026-10-11",
       "peak": 35817
+    },
+    {
+      "date": "2026-10-12",
+      "peak": 41113
     }
   ]
 }
