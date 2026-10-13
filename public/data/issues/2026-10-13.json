@@ -1,0 +1,963 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-10-13",
+  "title": "10.13 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "established_release_rise",
+    "label": "老游起量",
+    "score": 26.4,
+    "fact_summary": "WARDOGS 今日观测峰值 129,945，未超过过往最高峰值 400,196，被识别为「老游起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-10",
+      "current_release_date": "2026-09-10",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-13 18:00:38",
+      "current_peak": 129945,
+      "previous_peak": 400196,
+      "previous_record_peak": 400196,
+      "growth_rate": -0.6753,
+      "record_growth_rate": -0.6753,
+      "scoring_peak": 129945,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 40.0,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 256.2509,
+      "growth_scale_crossing_component": 1.1994,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 40.0,
+      "event_adjusted_score": 40.0,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 44.0,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "mostly_positive",
+      "review_observation_date": "2026-10-13",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.66,
+      "base_score": 26.4,
+      "score_multiplier": 0.6,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_3x"
+      ],
+      "repeat_score_window_days": 90,
+      "repeat_score_prior_star_count": 3,
+      "repeat_window_star_count": 2,
+      "app_repeat_window_star_count": 2,
+      "app_prior_total_star_count": 3,
+      "family_repeat_window_star_count": 2,
+      "family_prior_total_star_count": 3,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 3,
+      "total_star_count": 4,
+      "star_appearance_count": 4,
+      "cumulative_star_count": 2,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 74.05647287359511,
+      "review_total": 115312,
+      "days_seen": 29,
+      "comeback_gap_days": 2,
+      "is_new_release": false,
+      "release_age_days": 33,
+      "steam_release_age_days": 33,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 0,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "独立",
+        "大型多人在线",
+        "模拟",
+        "抢先体验"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-10",
+      "release_event_age_days": 33,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 0,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 2,
+      "trend": [
+        {
+          "date": "2026-09-13",
+          "peak": 400196
+        },
+        {
+          "date": "2026-09-14",
+          "peak": 373437
+        },
+        {
+          "date": "2026-09-15",
+          "peak": 297498
+        },
+        {
+          "date": "2026-09-16",
+          "peak": 339753
+        },
+        {
+          "date": "2026-09-17",
+          "peak": 267549
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 272237
+        },
+        {
+          "date": "2026-09-19",
+          "peak": 296591
+        },
+        {
+          "date": "2026-09-20",
+          "peak": 327437
+        },
+        {
+          "date": "2026-09-21",
+          "peak": 364279
+        },
+        {
+          "date": "2026-09-22",
+          "peak": 275686
+        },
+        {
+          "date": "2026-09-24",
+          "peak": 246370
+        },
+        {
+          "date": "2026-09-25",
+          "peak": 248325
+        },
+        {
+          "date": "2026-09-26",
+          "peak": 259453
+        },
+        {
+          "date": "2026-09-27",
+          "peak": 278063
+        },
+        {
+          "date": "2026-09-28",
+          "peak": 298847
+        },
+        {
+          "date": "2026-09-29",
+          "peak": 220366
+        },
+        {
+          "date": "2026-09-30",
+          "peak": 205540
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 206762
+        },
+        {
+          "date": "2026-10-02",
+          "peak": 214489
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 231380
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 262785
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 187490
+        },
+        {
+          "date": "2026-10-07",
+          "peak": 180768
+        },
+        {
+          "date": "2026-10-08",
+          "peak": 140186
+        },
+        {
+          "date": "2026-10-09",
+          "peak": 132821
+        },
+        {
+          "date": "2026-10-10",
+          "peak": 141253
+        },
+        {
+          "date": "2026-10-11",
+          "peak": 174271
+        },
+        {
+          "date": "2026-10-12",
+          "peak": 177066
+        },
+        {
+          "date": "2026-10-13",
+          "peak": 129945
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 4,
+      "prior_count": 3,
+      "repeat_window_prior_count": 2
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1867240"
+      }
+    ],
+    "game": {
+      "slug": "wardogs",
+      "appid": "1867240",
+      "name": "WARDOGS",
+      "name_cn": null,
+      "description": "《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。",
+      "release_date": "2026-09-10",
+      "genres": [
+        "动作",
+        "独立",
+        "大型多人在线",
+        "模拟",
+        "抢先体验"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "Steam 成就",
+        "视角舒适度",
+        "自定义音量控制",
+        "立体声",
+        "环绕声"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 74.05647287359511,
+      "review_total": 115312,
+      "developer": "BULKHEAD",
+      "publisher": "Team17",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1790774170",
+      "steam_url": "https://store.steampowered.com/app/1867240",
+      "product_family_identity": "appid:1867240",
+      "product_family_appid": "1867240",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-13",
+          "peak": 400196
+        },
+        {
+          "date": "2026-09-14",
+          "peak": 373437
+        },
+        {
+          "date": "2026-09-15",
+          "peak": 297498
+        },
+        {
+          "date": "2026-09-16",
+          "peak": 339753
+        },
+        {
+          "date": "2026-09-17",
+          "peak": 267549
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 272237
+        },
+        {
+          "date": "2026-09-19",
+          "peak": 296591
+        },
+        {
+          "date": "2026-09-20",
+          "peak": 327437
+        },
+        {
+          "date": "2026-09-21",
+          "peak": 364279
+        },
+        {
+          "date": "2026-09-22",
+          "peak": 275686
+        },
+        {
+          "date": "2026-09-24",
+          "peak": 246370
+        },
+        {
+          "date": "2026-09-25",
+          "peak": 248325
+        },
+        {
+          "date": "2026-09-26",
+          "peak": 259453
+        },
+        {
+          "date": "2026-09-27",
+          "peak": 278063
+        },
+        {
+          "date": "2026-09-28",
+          "peak": 298847
+        },
+        {
+          "date": "2026-09-29",
+          "peak": 220366
+        },
+        {
+          "date": "2026-09-30",
+          "peak": 205540
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 206762
+        },
+        {
+          "date": "2026-10-02",
+          "peak": 214489
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 231380
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 262785
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 187490
+        },
+        {
+          "date": "2026-10-07",
+          "peak": 180768
+        },
+        {
+          "date": "2026-10-08",
+          "peak": 140186
+        },
+        {
+          "date": "2026-10-09",
+          "peak": 132821
+        },
+        {
+          "date": "2026-10-10",
+          "peak": 141253
+        },
+        {
+          "date": "2026-10-11",
+          "peak": 174271
+        },
+        {
+          "date": "2026-10-12",
+          "peak": 177066
+        },
+        {
+          "date": "2026-10-13",
+          "peak": 129945
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "WARDOGS 是一款百人三队争夺控制区的军事 FPS。你可以带枪冲前线，也可以开车运输、救人或修工事，用团队贡献赚现金，再决定下一条命买什么装备。",
+      "reference_frame": "玩过《战地》（Battlefield），会熟悉步兵和载具配合着推进战线的场面。WARDOGS 多了一支随时可能插进来的敌队，现金还会跨局保留；买一辆车、换一套贵装备，都要想想这次投入能帮队伍做什么。",
+      "for_players": "适合喜欢大场面、愿意和队友分工的人。枪法之外，运人、救人和守住入口也能带来贡献感，乐趣常在计划被打乱后临场补位。",
+      "not_for_players": "如果你想要短回合、固定双方、胜负主要由个人枪法决定，三方混战和反复赶路可能会让你烦躁；它也还在抢先体验中。",
+      "star_reason": "10 月 13 日观测峰值为 129,945，低于此前纪录 400,196；当天 115,312 条评价约 74% 好评。它通过本期重复入选资格，顺延成为今日之星。这次摘星说明仍有活跃规模，不代表在线创新高。",
+      "core_loop": [
+        "先看钱包和前线缺什么，买枪械、工具或载具，选路线进入控制区。",
+        "通过交火、救援和运输帮助队友站住区域；遇到第三队包抄或掩体被打穿，重新找路。",
+        "把贡献换成现金，留给下一次配装；继续争区积累团队分数，直到一队达到胜利目标。"
+      ],
+      "content_length": 480
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-13T10:33:46+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 6,
+          "inspected_count": 20,
+          "top_views": 1239037,
+          "search_url": "https://www.youtube.com/results?search_query=WARDOGS",
+          "sources": [
+            {
+              "title": "WARDOGS | Road to Season 02",
+              "url": "https://www.youtube.com/watch?v=J2VxjMnMDw4",
+              "published_on": "2026-10-10"
+            },
+            {
+              "title": "TOP 350 Moments in WARDOGS That Will Blow Your Mind!",
+              "url": "https://www.youtube.com/watch?v=O0tFRexbDyU",
+              "published_on": "2026-10-08"
+            },
+            {
+              "title": "The Wardogs Class You’re Probably Missing Out On…",
+              "url": "https://www.youtube.com/watch?v=a6RKB6uw0Ro",
+              "published_on": "2026-10-13"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 17,
+          "inspected_count": 27,
+          "top_views": 89000,
+          "search_url": "https://search.bilibili.com/all?keyword=WARDOGS",
+          "sources": [
+            {
+              "title": "【 WarDogs 】战狗最全S2赛季资讯，大量平衡性改动抢先看！",
+              "url": "https://www.bilibili.com/video/BV1Dfpe6gEmY/",
+              "published_on": "2026-10-10"
+            },
+            {
+              "title": "【 Wardogs 战狗周报】第二赛季改动信息完全体！土豆模式就是作弊？换边限制、CEO公开求挨骂、鼓励进攻FOB、装备解锁顺序调整、小队目标系统、装备数值改动等等",
+              "url": "https://www.bilibili.com/video/BV1EopJ6LEi7/",
+              "published_on": "2026-10-11"
+            },
+            {
+              "title": "【 WARDOGS 】个人感觉目前最好的一种门",
+              "url": "https://www.bilibili.com/video/BV1HopZ6fExG/",
+              "published_on": "2026-10-13"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 2。",
+    "selection_context": {
+      "model_rank": 2,
+      "leader": {
+        "name": "AION 2",
+        "appid": "3393110",
+        "score": 37.5,
+        "reason": "处于摘星冷却期，至 2026-10-14 结束。",
+        "url": "https://store.steampowered.com/app/3393110/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "established_release_rise",
+    "label": "老游起量",
+    "score": 26.4,
+    "fact_summary": "WARDOGS 今日观测峰值 129,945，未超过过往最高峰值 400,196，被识别为「老游起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-09-10",
+      "current_release_date": "2026-09-10",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-13 18:00:38",
+      "current_peak": 129945,
+      "previous_peak": 400196,
+      "previous_record_peak": 400196,
+      "growth_rate": -0.6753,
+      "record_growth_rate": -0.6753,
+      "scoring_peak": 129945,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 40.0,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 256.2509,
+      "growth_scale_crossing_component": 1.1994,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 40.0,
+      "event_adjusted_score": 40.0,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 44.0,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "mostly_positive",
+      "review_observation_date": "2026-10-13",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.66,
+      "base_score": 26.4,
+      "score_multiplier": 0.6,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_3x"
+      ],
+      "repeat_score_window_days": 90,
+      "repeat_score_prior_star_count": 3,
+      "repeat_window_star_count": 2,
+      "app_repeat_window_star_count": 2,
+      "app_prior_total_star_count": 3,
+      "family_repeat_window_star_count": 2,
+      "family_prior_total_star_count": 3,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 3,
+      "total_star_count": 4,
+      "star_appearance_count": 4,
+      "cumulative_star_count": 2,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 74.05647287359511,
+      "review_total": 115312,
+      "days_seen": 29,
+      "comeback_gap_days": 2,
+      "is_new_release": false,
+      "release_age_days": 33,
+      "steam_release_age_days": 33,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 0,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "独立",
+        "大型多人在线",
+        "模拟",
+        "抢先体验"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-09-10",
+      "release_event_age_days": 33,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 0,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 2,
+      "trend": [
+        {
+          "date": "2026-09-13",
+          "peak": 400196
+        },
+        {
+          "date": "2026-09-14",
+          "peak": 373437
+        },
+        {
+          "date": "2026-09-15",
+          "peak": 297498
+        },
+        {
+          "date": "2026-09-16",
+          "peak": 339753
+        },
+        {
+          "date": "2026-09-17",
+          "peak": 267549
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 272237
+        },
+        {
+          "date": "2026-09-19",
+          "peak": 296591
+        },
+        {
+          "date": "2026-09-20",
+          "peak": 327437
+        },
+        {
+          "date": "2026-09-21",
+          "peak": 364279
+        },
+        {
+          "date": "2026-09-22",
+          "peak": 275686
+        },
+        {
+          "date": "2026-09-24",
+          "peak": 246370
+        },
+        {
+          "date": "2026-09-25",
+          "peak": 248325
+        },
+        {
+          "date": "2026-09-26",
+          "peak": 259453
+        },
+        {
+          "date": "2026-09-27",
+          "peak": 278063
+        },
+        {
+          "date": "2026-09-28",
+          "peak": 298847
+        },
+        {
+          "date": "2026-09-29",
+          "peak": 220366
+        },
+        {
+          "date": "2026-09-30",
+          "peak": 205540
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 206762
+        },
+        {
+          "date": "2026-10-02",
+          "peak": 214489
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 231380
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 262785
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 187490
+        },
+        {
+          "date": "2026-10-07",
+          "peak": 180768
+        },
+        {
+          "date": "2026-10-08",
+          "peak": 140186
+        },
+        {
+          "date": "2026-10-09",
+          "peak": 132821
+        },
+        {
+          "date": "2026-10-10",
+          "peak": 141253
+        },
+        {
+          "date": "2026-10-11",
+          "peak": 174271
+        },
+        {
+          "date": "2026-10-12",
+          "peak": 177066
+        },
+        {
+          "date": "2026-10-13",
+          "peak": 129945
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 4,
+      "prior_count": 3,
+      "repeat_window_prior_count": 2
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1867240"
+      }
+    ],
+    "game": {
+      "slug": "wardogs",
+      "appid": "1867240",
+      "name": "WARDOGS",
+      "name_cn": null,
+      "description": "《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。",
+      "release_date": "2026-09-10",
+      "genres": [
+        "动作",
+        "独立",
+        "大型多人在线",
+        "模拟",
+        "抢先体验"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "Steam 成就",
+        "视角舒适度",
+        "自定义音量控制",
+        "立体声",
+        "环绕声"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 74.05647287359511,
+      "review_total": 115312,
+      "developer": "BULKHEAD",
+      "publisher": "Team17",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1790774170",
+      "steam_url": "https://store.steampowered.com/app/1867240",
+      "product_family_identity": "appid:1867240",
+      "product_family_appid": "1867240",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-09-13",
+          "peak": 400196
+        },
+        {
+          "date": "2026-09-14",
+          "peak": 373437
+        },
+        {
+          "date": "2026-09-15",
+          "peak": 297498
+        },
+        {
+          "date": "2026-09-16",
+          "peak": 339753
+        },
+        {
+          "date": "2026-09-17",
+          "peak": 267549
+        },
+        {
+          "date": "2026-09-18",
+          "peak": 272237
+        },
+        {
+          "date": "2026-09-19",
+          "peak": 296591
+        },
+        {
+          "date": "2026-09-20",
+          "peak": 327437
+        },
+        {
+          "date": "2026-09-21",
+          "peak": 364279
+        },
+        {
+          "date": "2026-09-22",
+          "peak": 275686
+        },
+        {
+          "date": "2026-09-24",
+          "peak": 246370
+        },
+        {
+          "date": "2026-09-25",
+          "peak": 248325
+        },
+        {
+          "date": "2026-09-26",
+          "peak": 259453
+        },
+        {
+          "date": "2026-09-27",
+          "peak": 278063
+        },
+        {
+          "date": "2026-09-28",
+          "peak": 298847
+        },
+        {
+          "date": "2026-09-29",
+          "peak": 220366
+        },
+        {
+          "date": "2026-09-30",
+          "peak": 205540
+        },
+        {
+          "date": "2026-10-01",
+          "peak": 206762
+        },
+        {
+          "date": "2026-10-02",
+          "peak": 214489
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 231380
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 262785
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 187490
+        },
+        {
+          "date": "2026-10-07",
+          "peak": 180768
+        },
+        {
+          "date": "2026-10-08",
+          "peak": 140186
+        },
+        {
+          "date": "2026-10-09",
+          "peak": 132821
+        },
+        {
+          "date": "2026-10-10",
+          "peak": 141253
+        },
+        {
+          "date": "2026-10-11",
+          "peak": 174271
+        },
+        {
+          "date": "2026-10-12",
+          "peak": 177066
+        },
+        {
+          "date": "2026-10-13",
+          "peak": 129945
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "WARDOGS 是一款百人三队争夺控制区的军事 FPS。你可以带枪冲前线，也可以开车运输、救人或修工事，用团队贡献赚现金，再决定下一条命买什么装备。",
+      "reference_frame": "玩过《战地》（Battlefield），会熟悉步兵和载具配合着推进战线的场面。WARDOGS 多了一支随时可能插进来的敌队，现金还会跨局保留；买一辆车、换一套贵装备，都要想想这次投入能帮队伍做什么。",
+      "for_players": "适合喜欢大场面、愿意和队友分工的人。枪法之外，运人、救人和守住入口也能带来贡献感，乐趣常在计划被打乱后临场补位。",
+      "not_for_players": "如果你想要短回合、固定双方、胜负主要由个人枪法决定，三方混战和反复赶路可能会让你烦躁；它也还在抢先体验中。",
+      "star_reason": "10 月 13 日观测峰值为 129,945，低于此前纪录 400,196；当天 115,312 条评价约 74% 好评。它通过本期重复入选资格，顺延成为今日之星。这次摘星说明仍有活跃规模，不代表在线创新高。",
+      "core_loop": [
+        "先看钱包和前线缺什么，买枪械、工具或载具，选路线进入控制区。",
+        "通过交火、救援和运输帮助队友站住区域；遇到第三队包抄或掩体被打穿，重新找路。",
+        "把贡献换成现金，留给下一次配装；继续争区积累团队分数，直到一队达到胜利目标。"
+      ],
+      "content_length": 480
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-13T10:33:46+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 6,
+          "inspected_count": 20,
+          "top_views": 1239037,
+          "search_url": "https://www.youtube.com/results?search_query=WARDOGS",
+          "sources": [
+            {
+              "title": "WARDOGS | Road to Season 02",
+              "url": "https://www.youtube.com/watch?v=J2VxjMnMDw4",
+              "published_on": "2026-10-10"
+            },
+            {
+              "title": "TOP 350 Moments in WARDOGS That Will Blow Your Mind!",
+              "url": "https://www.youtube.com/watch?v=O0tFRexbDyU",
+              "published_on": "2026-10-08"
+            },
+            {
+              "title": "The Wardogs Class You’re Probably Missing Out On…",
+              "url": "https://www.youtube.com/watch?v=a6RKB6uw0Ro",
+              "published_on": "2026-10-13"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 17,
+          "inspected_count": 27,
+          "top_views": 89000,
+          "search_url": "https://search.bilibili.com/all?keyword=WARDOGS",
+          "sources": [
+            {
+              "title": "【 WarDogs 】战狗最全S2赛季资讯，大量平衡性改动抢先看！",
+              "url": "https://www.bilibili.com/video/BV1Dfpe6gEmY/",
+              "published_on": "2026-10-10"
+            },
+            {
+              "title": "【 Wardogs 战狗周报】第二赛季改动信息完全体！土豆模式就是作弊？换边限制、CEO公开求挨骂、鼓励进攻FOB、装备解锁顺序调整、小队目标系统、装备数值改动等等",
+              "url": "https://www.bilibili.com/video/BV1EopJ6LEi7/",
+              "published_on": "2026-10-11"
+            },
+            {
+              "title": "【 WARDOGS 】个人感觉目前最好的一种门",
+              "url": "https://www.bilibili.com/video/BV1HopZ6fExG/",
+              "published_on": "2026-10-13"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 2。",
+    "selection_context": {
+      "model_rank": 2,
+      "leader": {
+        "name": "AION 2",
+        "appid": "3393110",
+        "score": 37.5,
+        "reason": "处于摘星冷却期，至 2026-10-14 结束。",
+        "url": "https://store.steampowered.com/app/3393110/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
