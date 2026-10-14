@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-14T18:18:57",
+  "generated_at": "2026-10-14T20:49:12",
   "games": [
     {
       "game": {
@@ -20,16 +20,18 @@
         "product_family_appid": "3219030",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "planet-zoo-2"
+      ],
+      "article_title": "动物园之星2-海陆空齐了，园长的作业更多了",
+      "article_published_at": "2026-10-14",
       "star_dates": [
         "2026-10-14"
       ],
       "member_appids": [
         "3219030"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-10-14"
     },
     {
