@@ -1,0 +1,48 @@
+{
+  "slug": "planet-zoo-2",
+  "appid": "3219030",
+  "name": "Planet Zoo 2",
+  "name_cn": null,
+  "description": "投身《动物园之星 2》，打造野趣盎然的世界。建造环球特色动物园，守护自然生灵百态，保育陆生、水生与飞行物种，更能跳出园区边界，将动物放归广袤的野生动物保护区。",
+  "release_date": "2026-10-13",
+  "genres": [
+    "模拟",
+    "策略"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "可调整文字大小",
+    "视角舒适度",
+    "可选颜色",
+    "自定义音量控制",
+    "#category_playable_at_your_own_pace",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "随时保存",
+    "立体声",
+    "环绕声",
+    "Steam 云",
+    "可用 HDR",
+    "家庭共享"
+  ],
+  "review_score": "Mixed",
+  "review_ratio": 69.19866444073456,
+  "review_total": 1198,
+  "developer": "Frontier Developments",
+  "publisher": "Frontier Developments",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/fbb25f7da79e75dc595a72534a53ac02bbec854f/header_schinese.jpg?t=1791912652",
+  "steam_url": "https://store.steampowered.com/app/3219030",
+  "product_family_identity": "appid:3219030",
+  "product_family_appid": "3219030",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-10-14",
+      "peak": 39878
+    }
+  ]
+}

@@ -1,0 +1,519 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-10-14",
+  "title": "10.14 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 31.61,
+    "fact_summary": "Planet Zoo 2 今日观测峰值 39,878，首次进入当前观察窗口，被识别为「新作起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-13",
+      "current_release_date": "2026-10-13",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-14 17:50:08",
+      "current_peak": 39878,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 39878,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 25.29,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.2988,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.0,
+      "growth_scale_crossing_component": 0.2988,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 25.29,
+      "event_adjusted_score": 25.29,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 31.61,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "mixed",
+      "review_observation_date": "2026-10-14",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.25,
+      "base_score": 31.61,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 90,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 1,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 69.19866444073456,
+      "review_total": 1198,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 1198,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "模拟",
+        "策略"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-10-13",
+      "release_event_age_days": 1,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 1198,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 2,
+      "trend": [
+        {
+          "date": "2026-10-14",
+          "peak": 39878
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3219030"
+      }
+    ],
+    "game": {
+      "slug": "planet-zoo-2",
+      "appid": "3219030",
+      "name": "Planet Zoo 2",
+      "name_cn": null,
+      "description": "投身《动物园之星 2》，打造野趣盎然的世界。建造环球特色动物园，守护自然生灵百态，保育陆生、水生与飞行物种，更能跳出园区边界，将动物放归广袤的野生动物保护区。",
+      "release_date": "2026-10-13",
+      "genres": [
+        "模拟",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "可调整文字大小",
+        "视角舒适度",
+        "可选颜色",
+        "自定义音量控制",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
+        "环绕声",
+        "Steam 云",
+        "可用 HDR",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 69.19866444073456,
+      "review_total": 1198,
+      "developer": "Frontier Developments",
+      "publisher": "Frontier Developments",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/fbb25f7da79e75dc595a72534a53ac02bbec854f/header_schinese.jpg?t=1791912652",
+      "steam_url": "https://store.steampowered.com/app/3219030",
+      "product_family_identity": "appid:3219030",
+      "product_family_appid": "3219030",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-14",
+          "peak": 39878
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Planet Zoo 2 是一款动物园建造经营游戏。你要把动物住得舒服、游客逛得开心和园区赚得到钱，安排在同一张地图上。",
+      "reference_frame": "它的经营难题藏在你亲手搭的园区里：栖息地满足不同动物的需求，步道把游客送到展区，商店和设施接住客流。续作把全水生动物、飞鸟和野生动物保护区也纳入设计，造景时要想清楚这些空间怎样运转。",
+      "for_players": "适合愿意花时间摆建筑、看动物活动，再回来修经营问题的人。你可以用蓝图起步，也可以逐件搭建，乐趣在于把一个想法做成能正常营业的地方。",
+      "not_for_players": "如果你只想看可爱动物，不愿反复调整空间和检查需求，经营反馈可能打断兴致；喜欢快节奏即时操作的人也未必享受这份慢工。",
+      "star_reason": "10 月 14 日本地观测峰值为 39,878；当天快照的 1,198 条评价约 69% 好评，属于褒贬不一。它于 10 月 13 日发售，通过首发观察资格后首次摘星。热度已经出现，口碑仍值得继续看。",
+      "core_loop": [
+        "先按动物需求搭栖息地、水族馆或鸟舍，调整地形与装饰，再接上游客步道。",
+        "观察动物状态和游客需求，补设施、改布局，让园区评级和收入支撑下一轮扩建。",
+        "推进保育目标，把符合要求的动物放归保护区；也可以在沙盒里慢慢打磨自己的园区。"
+      ],
+      "content_length": 466
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-14T10:13:30+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 17,
+          "inspected_count": 29,
+          "top_views": 311775,
+          "search_url": "https://www.youtube.com/results?search_query=Planet%20Zoo%202",
+          "sources": [
+            {
+              "title": "Planet Zoo 2 - OUT NOW on PC, Xbox Series X|S & PlayStation 5 | Launch Trailer",
+              "url": "https://www.youtube.com/watch?v=_zqLJeOiFbE",
+              "published_on": "2026-10-14"
+            },
+            {
+              "title": "Planet Zoo 2 | Keeper Talks - Greater Flamingo",
+              "url": "https://www.youtube.com/watch?v=PN5Hn-XrOtI",
+              "published_on": "2026-10-13"
+            },
+            {
+              "title": "Planet Zoo 2 | Binturong Reveal",
+              "url": "https://www.youtube.com/watch?v=TpgZ0x50H7Q",
+              "published_on": "2026-10-11"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 4,
+          "inspected_count": 30,
+          "top_views": 41000,
+          "search_url": "https://search.bilibili.com/all?keyword=Planet%20Zoo%202",
+          "sources": [
+            {
+              "title": "动物园之星2_ Planet Zoo 2 直播录像 | 游戏直播实况合集（持续更新中）",
+              "url": "https://www.bilibili.com/video/BV1YmpC6zEq5/",
+              "published_on": "2026-10-14"
+            },
+            {
+              "title": "【动物园之星2】4K 最高画质 全流程通关攻略 动物园建造模拟经营游戏 生涯模式 - Planet Zoo 2",
+              "url": "https://www.bilibili.com/video/BV1Ndpz6mEtv/",
+              "published_on": "2026-10-14"
+            },
+            {
+              "title": "懒人整合 Planet Zoo 2 动物园之星 2 pc+ios直装！附保姆级教程+全DLC+优化版整合包！无偿分享！",
+              "url": "https://www.bilibili.com/video/BV1EqpC6jEhj/",
+              "published_on": "2026-10-14"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 2。",
+    "selection_context": {
+      "model_rank": 2,
+      "leader": {
+        "name": "AION 2",
+        "appid": "3393110",
+        "score": 37.5,
+        "reason": "处于摘星冷却期，至 2026-10-14 结束。",
+        "url": "https://store.steampowered.com/app/3393110/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 31.61,
+    "fact_summary": "Planet Zoo 2 今日观测峰值 39,878，首次进入当前观察窗口，被识别为「新作起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-13",
+      "current_release_date": "2026-10-13",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-14 17:50:08",
+      "current_peak": 39878,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 39878,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 25.29,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.2988,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.0,
+      "growth_scale_crossing_component": 0.2988,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 25.29,
+      "event_adjusted_score": 25.29,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 31.61,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "mixed",
+      "review_observation_date": "2026-10-14",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.25,
+      "base_score": 31.61,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 90,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 1,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 69.19866444073456,
+      "review_total": 1198,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": true,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 1198,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "模拟",
+        "策略"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-10-13",
+      "release_event_age_days": 1,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 1198,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 2,
+      "trend": [
+        {
+          "date": "2026-10-14",
+          "peak": 39878
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3219030"
+      }
+    ],
+    "game": {
+      "slug": "planet-zoo-2",
+      "appid": "3219030",
+      "name": "Planet Zoo 2",
+      "name_cn": null,
+      "description": "投身《动物园之星 2》，打造野趣盎然的世界。建造环球特色动物园，守护自然生灵百态，保育陆生、水生与飞行物种，更能跳出园区边界，将动物放归广袤的野生动物保护区。",
+      "release_date": "2026-10-13",
+      "genres": [
+        "模拟",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "可调整文字大小",
+        "视角舒适度",
+        "可选颜色",
+        "自定义音量控制",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
+        "环绕声",
+        "Steam 云",
+        "可用 HDR",
+        "家庭共享"
+      ],
+      "review_score": "Mixed",
+      "review_ratio": 69.19866444073456,
+      "review_total": 1198,
+      "developer": "Frontier Developments",
+      "publisher": "Frontier Developments",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/fbb25f7da79e75dc595a72534a53ac02bbec854f/header_schinese.jpg?t=1791912652",
+      "steam_url": "https://store.steampowered.com/app/3219030",
+      "product_family_identity": "appid:3219030",
+      "product_family_appid": "3219030",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-14",
+          "peak": 39878
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Planet Zoo 2 是一款动物园建造经营游戏。你要把动物住得舒服、游客逛得开心和园区赚得到钱，安排在同一张地图上。",
+      "reference_frame": "它的经营难题藏在你亲手搭的园区里：栖息地满足不同动物的需求，步道把游客送到展区，商店和设施接住客流。续作把全水生动物、飞鸟和野生动物保护区也纳入设计，造景时要想清楚这些空间怎样运转。",
+      "for_players": "适合愿意花时间摆建筑、看动物活动，再回来修经营问题的人。你可以用蓝图起步，也可以逐件搭建，乐趣在于把一个想法做成能正常营业的地方。",
+      "not_for_players": "如果你只想看可爱动物，不愿反复调整空间和检查需求，经营反馈可能打断兴致；喜欢快节奏即时操作的人也未必享受这份慢工。",
+      "star_reason": "10 月 14 日本地观测峰值为 39,878；当天快照的 1,198 条评价约 69% 好评，属于褒贬不一。它于 10 月 13 日发售，通过首发观察资格后首次摘星。热度已经出现，口碑仍值得继续看。",
+      "core_loop": [
+        "先按动物需求搭栖息地、水族馆或鸟舍，调整地形与装饰，再接上游客步道。",
+        "观察动物状态和游客需求，补设施、改布局，让园区评级和收入支撑下一轮扩建。",
+        "推进保育目标，把符合要求的动物放归保护区；也可以在沙盒里慢慢打磨自己的园区。"
+      ],
+      "content_length": 466
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-14T10:13:30+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 17,
+          "inspected_count": 29,
+          "top_views": 311775,
+          "search_url": "https://www.youtube.com/results?search_query=Planet%20Zoo%202",
+          "sources": [
+            {
+              "title": "Planet Zoo 2 - OUT NOW on PC, Xbox Series X|S & PlayStation 5 | Launch Trailer",
+              "url": "https://www.youtube.com/watch?v=_zqLJeOiFbE",
+              "published_on": "2026-10-14"
+            },
+            {
+              "title": "Planet Zoo 2 | Keeper Talks - Greater Flamingo",
+              "url": "https://www.youtube.com/watch?v=PN5Hn-XrOtI",
+              "published_on": "2026-10-13"
+            },
+            {
+              "title": "Planet Zoo 2 | Binturong Reveal",
+              "url": "https://www.youtube.com/watch?v=TpgZ0x50H7Q",
+              "published_on": "2026-10-11"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 4,
+          "inspected_count": 30,
+          "top_views": 41000,
+          "search_url": "https://search.bilibili.com/all?keyword=Planet%20Zoo%202",
+          "sources": [
+            {
+              "title": "动物园之星2_ Planet Zoo 2 直播录像 | 游戏直播实况合集（持续更新中）",
+              "url": "https://www.bilibili.com/video/BV1YmpC6zEq5/",
+              "published_on": "2026-10-14"
+            },
+            {
+              "title": "【动物园之星2】4K 最高画质 全流程通关攻略 动物园建造模拟经营游戏 生涯模式 - Planet Zoo 2",
+              "url": "https://www.bilibili.com/video/BV1Ndpz6mEtv/",
+              "published_on": "2026-10-14"
+            },
+            {
+              "title": "懒人整合 Planet Zoo 2 动物园之星 2 pc+ios直装！附保姆级教程+全DLC+优化版整合包！无偿分享！",
+              "url": "https://www.bilibili.com/video/BV1EqpC6jEhj/",
+              "published_on": "2026-10-14"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 2。",
+    "selection_context": {
+      "model_rank": 2,
+      "leader": {
+        "name": "AION 2",
+        "appid": "3393110",
+        "score": 37.5,
+        "reason": "处于摘星冷却期，至 2026-10-14 结束。",
+        "url": "https://store.steampowered.com/app/3393110/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
