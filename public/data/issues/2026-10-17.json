@@ -1,0 +1,525 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-10-17",
+  "title": "10.17 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 79.28,
+    "fact_summary": "Enshrouded 今日观测峰值 71,139，较过往最高峰值提升 +121%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-15",
+      "current_release_date": "2026-10-15",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-17 17:50:12",
+      "current_peak": 71139,
+      "previous_peak": 32139,
+      "previous_record_peak": 32139,
+      "growth_rate": 1.2135,
+      "record_growth_rate": 1.2135,
+      "scoring_peak": 71139,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 36.75,
+      "raw_record_growth_score": 35.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 1.6527,
+      "growth_scale_crossing_component": 0.6114,
+      "record_growth_score": 35.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 71.75,
+      "event_adjusted_score": 71.75,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.3,
+      "review_adjusted_score": 93.28,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "very_positive",
+      "review_observation_date": "2026-10-17",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.105,
+      "base_score": 79.28,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_1x"
+      ],
+      "repeat_score_window_days": 90,
+      "repeat_score_prior_star_count": 1,
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 85.9009113197946,
+      "review_total": 108085,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 107551,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "角色扮演"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-15",
+      "release_event_age_days": 2,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 107551,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-10-16",
+          "peak": 32139
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 71139
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1203620"
+      }
+    ],
+    "game": {
+      "slug": "enshrouded",
+      "appid": "1203620",
+      "name": "Enshrouded",
+      "name_cn": null,
+      "description": "《雾锁王国》是一款单人/合作生存动作RPG，在这里，你的自由与创造力将被摆在第一位。竭尽全力战胜蚕食薪谷王国的腐化瘴气：探索手工打造的瑰丽世界，揭开隐藏的秘密并披荆斩棘开辟道路，在完全支持地形改造的世界中尽情建造。",
+      "release_date": "2026-10-15",
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "可调整文字大小",
+        "视角舒适度",
+        "可选颜色",
+        "自定义音量控制",
+        "可调整难度",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 85.9009113197946,
+      "review_total": 108085,
+      "developer": "Keen Games GmbH",
+      "publisher": "Keen Games GmbH",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
+      "steam_url": "https://store.steampowered.com/app/1203620",
+      "product_family_identity": "appid:1203620",
+      "product_family_appid": "1203620",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-16",
+          "peak": 32139
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 71139
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《雾锁王国》（Enshrouded）是一款能单人也能合作的生存动作 RPG。你在被瘴气侵蚀的王国里探险，把带回的材料变成装备和自己的家。",
+      "reference_frame": "玩过 Valheim，会熟悉出门采集、回家制作、准备好再挑战强敌的节奏。《雾锁王国》把冒险放进手工设计的世界，抓钩和滑翔帮你接近遗迹，体素地形还能挖开、改造；探索路线与造房子的自由更直接地连在一起。",
+      "for_players": "适合既想冒险打怪，也愿意停下来修房子的人。和朋友轮换探索、建造和耕作的分工，能让同一片家园慢慢长出各自的痕迹。",
+      "not_for_players": "如果只想连续打关卡，不喜欢采集、制作和整理之间的往返，建造再自由也未必留得住你；只想轻松造景的人也要接受外出战斗。",
+      "star_reason": "10 月 17 日本地观测峰值达 71,139，比此前记录 32,139 高约 121%；当天可靠快照的 108,085 条评价约 85.9% 好评，属特别好评。10 月 15 日正式版推出后，它连续第二天摘星，观测热度仍在扩大。峰值是本地采样下界，尚不能据此判断长期留存。",
+      "core_loop": [
+        "带好装备探索遗迹、进入瘴气，打怪找材料，再用抓钩和滑翔寻找下一处落脚点。",
+        "救回幸存者，解锁配方，把收获做成工具与装备，或拿来扩建、装饰村落。",
+        "调整技能树，选择近战、弓箭或法术，把新的战斗手段带去更危险的区域。"
+      ],
+      "content_length": 502
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-17T10:13:27+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 14,
+          "inspected_count": 30,
+          "top_views": 1726821,
+          "search_url": "https://www.youtube.com/results?search_query=Enshrouded",
+          "sources": [
+            {
+              "title": "Enshrouded 1.0 Is Easily One of the Best Survival Action RPGs 🔥",
+              "url": "https://www.youtube.com/watch?v=tWfLmJTQMCk",
+              "published_on": "2026-10-17"
+            },
+            {
+              "title": "Enshrouded 1.0 - Launch Trailer",
+              "url": "https://www.youtube.com/watch?v=gp7PZXkyxxY",
+              "published_on": "2026-10-15"
+            },
+            {
+              "title": "Top 10 Things I Wish I Knew Before Starting Enshrouded",
+              "url": "https://www.youtube.com/watch?v=xwAtD5UUv0Q",
+              "published_on": "2026-10-17"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 9,
+          "inspected_count": 30,
+          "top_views": 163,
+          "search_url": "https://search.bilibili.com/all?keyword=Enshrouded",
+          "sources": [
+            {
+              "title": "Enshrouded 1.0：Sparkworks 能把基地变成陷阱吗？",
+              "url": "https://www.bilibili.com/video/BV1v5pS6xEdX/",
+              "published_on": "2026-10-15"
+            },
+            {
+              "title": "【中字】海外博主锐评《 Enshrouded 》1.0：两年蜕变,玩法全面进化",
+              "url": "https://www.bilibili.com/video/BV1h2JC6bEtr/",
+              "published_on": "2026-10-15"
+            },
+            {
+              "title": "Enshrouded on 4GB VRAM… 75 FPS, But at What Cost",
+              "url": "https://www.bilibili.com/video/BV16wJb6AEVv/",
+              "published_on": "2026-10-17"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 79.28,
+    "fact_summary": "Enshrouded 今日观测峰值 71,139，较过往最高峰值提升 +121%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-15",
+      "current_release_date": "2026-10-15",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-17 17:50:12",
+      "current_peak": 71139,
+      "previous_peak": 32139,
+      "previous_record_peak": 32139,
+      "growth_rate": 1.2135,
+      "record_growth_rate": 1.2135,
+      "scoring_peak": 71139,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 36.75,
+      "raw_record_growth_score": 35.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 1.6527,
+      "growth_scale_crossing_component": 0.6114,
+      "record_growth_score": 35.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 71.75,
+      "event_adjusted_score": 71.75,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.3,
+      "review_adjusted_score": 93.28,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "very_positive",
+      "review_observation_date": "2026-10-17",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.105,
+      "base_score": 79.28,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_1x"
+      ],
+      "repeat_score_window_days": 90,
+      "repeat_score_prior_star_count": 1,
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 3,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 85.9009113197946,
+      "review_total": 108085,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 107551,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "角色扮演"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-15",
+      "release_event_age_days": 2,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 107551,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-10-16",
+          "peak": 32139
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 71139
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1203620"
+      }
+    ],
+    "game": {
+      "slug": "enshrouded",
+      "appid": "1203620",
+      "name": "Enshrouded",
+      "name_cn": null,
+      "description": "《雾锁王国》是一款单人/合作生存动作RPG，在这里，你的自由与创造力将被摆在第一位。竭尽全力战胜蚕食薪谷王国的腐化瘴气：探索手工打造的瑰丽世界，揭开隐藏的秘密并披荆斩棘开辟道路，在完全支持地形改造的世界中尽情建造。",
+      "release_date": "2026-10-15",
+      "genres": [
+        "动作",
+        "冒险",
+        "独立",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "可调整文字大小",
+        "视角舒适度",
+        "可选颜色",
+        "自定义音量控制",
+        "可调整难度",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 85.9009113197946,
+      "review_total": 108085,
+      "developer": "Keen Games GmbH",
+      "publisher": "Keen Games GmbH",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
+      "steam_url": "https://store.steampowered.com/app/1203620",
+      "product_family_identity": "appid:1203620",
+      "product_family_appid": "1203620",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-16",
+          "peak": 32139
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 71139
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《雾锁王国》（Enshrouded）是一款能单人也能合作的生存动作 RPG。你在被瘴气侵蚀的王国里探险，把带回的材料变成装备和自己的家。",
+      "reference_frame": "玩过 Valheim，会熟悉出门采集、回家制作、准备好再挑战强敌的节奏。《雾锁王国》把冒险放进手工设计的世界，抓钩和滑翔帮你接近遗迹，体素地形还能挖开、改造；探索路线与造房子的自由更直接地连在一起。",
+      "for_players": "适合既想冒险打怪，也愿意停下来修房子的人。和朋友轮换探索、建造和耕作的分工，能让同一片家园慢慢长出各自的痕迹。",
+      "not_for_players": "如果只想连续打关卡，不喜欢采集、制作和整理之间的往返，建造再自由也未必留得住你；只想轻松造景的人也要接受外出战斗。",
+      "star_reason": "10 月 17 日本地观测峰值达 71,139，比此前记录 32,139 高约 121%；当天可靠快照的 108,085 条评价约 85.9% 好评，属特别好评。10 月 15 日正式版推出后，它连续第二天摘星，观测热度仍在扩大。峰值是本地采样下界，尚不能据此判断长期留存。",
+      "core_loop": [
+        "带好装备探索遗迹、进入瘴气，打怪找材料，再用抓钩和滑翔寻找下一处落脚点。",
+        "救回幸存者，解锁配方，把收获做成工具与装备，或拿来扩建、装饰村落。",
+        "调整技能树，选择近战、弓箭或法术，把新的战斗手段带去更危险的区域。"
+      ],
+      "content_length": 502
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-17T10:13:27+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 14,
+          "inspected_count": 30,
+          "top_views": 1726821,
+          "search_url": "https://www.youtube.com/results?search_query=Enshrouded",
+          "sources": [
+            {
+              "title": "Enshrouded 1.0 Is Easily One of the Best Survival Action RPGs 🔥",
+              "url": "https://www.youtube.com/watch?v=tWfLmJTQMCk",
+              "published_on": "2026-10-17"
+            },
+            {
+              "title": "Enshrouded 1.0 - Launch Trailer",
+              "url": "https://www.youtube.com/watch?v=gp7PZXkyxxY",
+              "published_on": "2026-10-15"
+            },
+            {
+              "title": "Top 10 Things I Wish I Knew Before Starting Enshrouded",
+              "url": "https://www.youtube.com/watch?v=xwAtD5UUv0Q",
+              "published_on": "2026-10-17"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 9,
+          "inspected_count": 30,
+          "top_views": 163,
+          "search_url": "https://search.bilibili.com/all?keyword=Enshrouded",
+          "sources": [
+            {
+              "title": "Enshrouded 1.0：Sparkworks 能把基地变成陷阱吗？",
+              "url": "https://www.bilibili.com/video/BV1v5pS6xEdX/",
+              "published_on": "2026-10-15"
+            },
+            {
+              "title": "【中字】海外博主锐评《 Enshrouded 》1.0：两年蜕变,玩法全面进化",
+              "url": "https://www.bilibili.com/video/BV1h2JC6bEtr/",
+              "published_on": "2026-10-15"
+            },
+            {
+              "title": "Enshrouded on 4GB VRAM… 75 FPS, But at What Cost",
+              "url": "https://www.bilibili.com/video/BV16wJb6AEVv/",
+              "published_on": "2026-10-17"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

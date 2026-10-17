@@ -32,8 +32,8 @@
     "家庭共享"
   ],
   "review_score": "Very Positive",
-  "review_ratio": 85.90715102602486,
-  "review_total": 107551,
+  "review_ratio": 85.9009113197946,
+  "review_total": 108085,
   "developer": "Keen Games GmbH",
   "publisher": "Keen Games GmbH",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
@@ -45,6 +45,10 @@
     {
       "date": "2026-10-16",
       "peak": 32139
+    },
+    {
+      "date": "2026-10-17",
+      "peak": 71139
     }
   ]
 }
