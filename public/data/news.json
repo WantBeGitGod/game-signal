@@ -1,7 +1,221 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-13T09:33:36.571728+00:00",
+  "generated_at": "2026-10-17T16:07:27.367163+00:00",
   "events": [
+    {
+      "id": 80,
+      "title": "Eurogamer 评测《Ace Combat 8: Wings of Theve》：战役刺激但个别任务拖累",
+      "summary": "Eurogamer 发布《Ace Combat 8: Wings of Theve》评测，认为其战役紧张刺激、场面壮观，把系列推向新高度；云层既带来视觉震撼，也影响导弹锁定等战术选择，任务中途的补给与降落环节仍保持压力。批评集中在部分任务过长、剧情不均衡、一处护送关难度陡增和强制空中潜行关卡；多人模式含 PvPvE 与特殊任务，被视为可重复体验战役快感的方式。原文未给出数字评分。",
+      "topics": [
+        "Ace Combat 8",
+        "Bandai Namco Aces",
+        "Bandai Namco Entertainment",
+        "Eurogamer"
+      ],
+      "kind": "review",
+      "created_at": "2026-10-17T16:07:21.953162+00:00",
+      "updated_at": "2026-10-17T16:07:21.953162+00:00",
+      "content_updated_at": "2026-10-17T16:07:21.953162+00:00",
+      "reported_at": "2026-10-13T09:19:45+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review",
+          "title": "Ace Combat 8: Wings of Theve review – thrill-packed campaign takes this long-running series to new heights",
+          "published_at": "2026-10-13T09:19:45+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 83,
+          "text": "Eurogamer 评测《Ace Combat 8: Wings of Theve》，认为其战役紧张刺激，把系列推到新高度：30 个任务多数像好莱坞暑期档大片式场面，云层既是视觉奇观也是影响导弹锁定与战术的要素；缺点是部分任务冗长、剧情不均衡、个别护送与强制潜行关卡拖后腿，长时间游玩易疲惫，但多人模式（含两个 PvPvE 模式与四人/八人特殊任务）提供了可重复的战役级快感。",
+          "evidence_kind": "review",
+          "source_url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:07:21.954658+00:00",
+          "source_published_at": "2026-10-13T09:19:45+00:00"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "title": "《God of War Laufey》公布不含游戏本体的收藏版",
+      "summary": "PlayStation 公布《God of War Laufey》收藏版，与游戏同在 2027 年 2 月 16 日推出。收藏版不含游戏本体，内含 Faye 发光树脂雕像、51 张插画卡牌和迷你画册，仅在美国、英国、法国、德国、奥地利、西班牙、葡萄牙、意大利、荷兰、比利时和卢森堡限量发售，澳大利亚不在范围内。",
+      "topics": [
+        "PlayStation",
+        "God of War Laufey"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-17T16:06:55.191466+00:00",
+      "updated_at": "2026-10-17T16:06:55.191466+00:00",
+      "content_updated_at": "2026-10-17T16:06:55.191466+00:00",
+      "reported_at": "2026-10-13T11:18:32+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://press-start.com.au/news/playstation/2026/10/13/the-god-of-war-laufey-collectors-edition-includes-a-light-up-faye-statue/",
+          "title": "The God Of War Laufey Collector’s Edition Includes A Light-Up Faye Statue",
+          "published_at": "2026-10-13T11:18:32+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 82,
+          "text": "PlayStation 公布了《God of War Laufey》收藏版，与游戏同在 2027 年 2 月 16 日推出；收藏版不含游戏本体，包含 Faye 发光树脂雕像、51 张各自配有插画的 oracle 卡牌和开发团队策划的迷你画册，仅限美国、英国、法国、德国、奥地利、西班牙、葡萄牙、意大利、荷兰、比利时和卢森堡限量发售，澳大利亚不在发售范围内。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://press-start.com.au/news/playstation/2026/10/13/the-god-of-war-laufey-collectors-edition-includes-a-light-up-faye-statue/",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:06:55.193500+00:00",
+          "source_published_at": "2026-10-13T11:18:32+00:00"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "title": "《Escape Academy 2: Back 2 School》11 月 5 日登陆 PS5",
+      "summary": "Coin Crew Games 宣布《Escape Academy 2: Back 2 School》将于 11 月 5 日登陆 PS5。续作由前作较线性的叙事扩展为开放式校园，校园、剧情与全部谜题从一开始即支持本地或在线双人合作；官方同时介绍了 Headmaster's Tower 与 Humanities Campus 的场景和美术升级思路。",
+      "topics": [
+        "Coin Crew Games",
+        "Escape Academy 2: Back 2 School",
+        "PlayStation 5"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-17T16:06:46.354910+00:00",
+      "updated_at": "2026-10-17T16:06:46.354910+00:00",
+      "content_updated_at": "2026-10-17T16:06:46.354910+00:00",
+      "reported_at": "2026-10-13T12:04:54+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://blog.playstation.com/2026/10/13/escape-academy-2-back-2-school-comes-to-ps5-on-november-5/",
+          "title": "Escape Academy 2: Back 2 School comes to PS5 on November 5",
+          "published_at": "2026-10-13T12:04:54+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 81,
+          "text": "Coin Crew Games 宣布《Escape Academy 2: Back 2 School》将于 11 月 5 日登陆 PS5，续作从较线性的叙事扩展为开放式校园，校园、剧情与全部谜题支持本地或在线双人合作；官方同时介绍了 Headmaster's Tower 与 Humanities Campus 的场景与美术升级。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://blog.playstation.com/2026/10/13/escape-academy-2-back-2-school-comes-to-ps5-on-november-5/",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:06:46.355966+00:00",
+          "source_published_at": "2026-10-13T12:04:54+00:00"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "title": "《Rayman Legends Retold》公布无障碍功能与 12 月 3 日发售安排",
+      "summary": "育碧发布的文章中确认《Rayman Legends Retold》将于 2026 年 12 月 3 日发售，并介绍了可逐项开关的无障碍选项：死亡多次后可获 Fairy Blessing 无敌/飞行/复活，Golden Heart 提供额外护盾，Dragon Rides 支持自动射击，部分连按动作可自动触发；另有蜘蛛恐惧模式、高对比度与元素高亮、HUD 背景、字幕字号与背景不透明度调整，以及 PC 键鼠/手柄支持、全平台按键重映射、关闭震动与镜头晃动等设置。",
+      "topics": [
+        "Rayman Legends Retold",
+        "Ubisoft"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-17T16:06:31.856262+00:00",
+      "updated_at": "2026-10-17T16:06:31.856262+00:00",
+      "content_updated_at": "2026-10-17T16:06:31.856262+00:00",
+      "reported_at": "2026-10-13T12:42:46+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://gamecritics.com/brad-gallaway/rayman-legends-retold-accessibility-spotlight/",
+          "title": "Rayman Legends Retold Accessibility Spotlight",
+          "published_at": "2026-10-13T12:42:46+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 79,
+          "text": "育碧通过 GameCritics 发布的文章介绍了《Rayman Legends Retold》的无障碍功能，包括可单独开关的 Fairy Blessing（防止受伤、飞行、复活自己与队友）、Golden Heart 额外护盾、Autoshoot 自动射击、按住/切换输入、自动连发动作、蜘蛛恐惧模式、高对比度与高亮模式、HUD 背景、字幕字号与背景不透明度调整，以及 PC 键鼠与手柄支持、全平台按键重映射、关闭震动和关闭镜头晃动等选项；游戏将于 2026 年 12 月 3 日发售。",
+          "evidence_kind": "syndication",
+          "source_url": "https://gamecritics.com/brad-gallaway/rayman-legends-retold-accessibility-spotlight/",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:06:31.857912+00:00",
+          "source_published_at": "2026-10-13T12:42:46+00:00"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "《Helldivers 2》公布“Scope of Authority”高级战争债券，10月20日上线",
+      "summary": "官方宣布《Helldivers 2》高级战争债券“Scope of Authority”将于10月20日推出，主打远程与潜行作战：新增R-40 Sightliner狙击步枪、P-44 Mist手枪、AMW-20 Apex反器材步枪、LAS-44 Nova能量步枪和G-11 Caltrops投掷物，以及两套仿吉利服护甲，其Stationary Shroud被动可在蹲伏或匍匐时减少武器晃动与侦测范围。官方说明需拥有本体、超级货币和游戏进度解锁。",
+      "topics": [
+        "Arrowhead Studios",
+        "Helldivers 2",
+        "SIE"
+      ],
+      "kind": "dlc",
+      "created_at": "2026-10-17T16:06:22.497272+00:00",
+      "updated_at": "2026-10-17T16:06:22.497272+00:00",
+      "content_updated_at": "2026-10-17T16:06:22.497272+00:00",
+      "reported_at": "2026-10-13T13:00:36+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://blog.playstation.com/2026/10/13/helldivers-2-scope-of-authority-premium-warbond-launches-oct-20/",
+          "title": "Helldivers 2: Scope of Authority Premium Warbond launches Oct 20",
+          "published_at": "2026-10-13T13:00:36+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 78,
+          "text": "《Helldivers 2》将于10月20日推出“Scope of Authority”高级战争债券，包含R-40 Sightliner狙击步枪、P-44 Mist手枪、AMW-20 Apex反器材步枪、LAS-44 Nova能量步枪、G-11 Caltrops投掷物、仿吉利服风格的SS-33轻甲与SS-15中甲（均带Stationary Shroud被动，蹲伏或匍匐时减少武器晃动与侦测范围）、相关披风与表情动作等；官方说明需拥有本体、超级货币及游戏进度解锁。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://blog.playstation.com/2026/10/13/helldivers-2-scope-of-authority-premium-warbond-launches-oct-20/",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:06:22.498271+00:00",
+          "source_published_at": "2026-10-13T13:00:36+00:00"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "title": "《Sifu》登陆 Android 与 iOS，配触屏操控与自适应镜头",
+      "summary": "Sloclap 的《Sifu》已于 2026 年 10 月 13 日推出 Android 与 iOS 版，售价 8 美元/6 英镑。手机版针对小屏重新设计：加入触屏操作、简化环境交互、采用新的自适应镜头，并保留原有画风与战斗手感，同时支持手柄。报道称移动版画面因硬件较弱而较为柔和，未提供帧率或性能实测数据。",
+      "topics": [
+        "Sifu",
+        "Sloclap"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-17T16:06:01.299572+00:00",
+      "updated_at": "2026-10-17T16:06:01.299572+00:00",
+      "content_updated_at": "2026-10-17T16:06:01.299572+00:00",
+      "reported_at": "2026-10-13T14:26:57+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.eurogamer.net/sifu-mobile-release-android-ios",
+          "title": "Sifu, the singular kung fu action game, is out now on Android and iOS",
+          "published_at": "2026-10-13T14:26:57+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 77,
+          "text": "Sloclap 的《Sifu》于 2026 年 10 月 13 日登陆 Android 与 iOS，售价 8 美元/6 英镑；手机版专为小屏开发，加入触屏操控和环境交互简化，采用新的自适应镜头，保留原作画风与战斗手感，并支持手柄；报道称移动版画面因硬件较弱而较柔和，未提及具体帧率或性能实测。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.eurogamer.net/sifu-mobile-release-android-ios",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:06:01.301572+00:00",
+          "source_published_at": "2026-10-13T14:26:57+00:00"
+        }
+      ]
+    },
     {
       "id": 72,
       "title": "Valve 免费公布 Steam Frame 完整 CAD 文件并详解扩展口",
