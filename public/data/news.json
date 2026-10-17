@@ -1,7 +1,296 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-17T16:16:55.068213+00:00",
+  "generated_at": "2026-10-17T16:19:23.983600+00:00",
   "events": [
+    {
+      "id": 110,
+      "title": "《Dragon Ball Xenoverse 3》公开 Gogeta 实机演示",
+      "summary": "Bandai Namco 发布《Dragon Ball Xenoverse 3》新实机演示，展示 Gogeta 的技能与招式，包括变身后续招式变化及 Super Saiyan Blue 形态。游戏已确认 2027 年登陆 PS5、Xbox Series X/S 与 PC，具体发售日尚未公布。",
+      "topics": [
+        "Dragon Ball Xenoverse 3",
+        "Bandai Namco",
+        "Gogeta"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-17T16:19:10.124848+00:00",
+      "updated_at": "2026-10-17T16:19:10.124848+00:00",
+      "content_updated_at": "2026-10-17T16:19:10.124848+00:00",
+      "reported_at": "2026-10-17T11:45:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://vandal.elespanol.com/noticia/2026290010/dragon-ball-xenoverse-3-muestra-el-poder-y-habilidades-de-gogeta-en-la-esperada-secuela-de-la-saga/",
+          "title": "Dragon Ball Xenoverse 3 muestra el poder y habilidades de Gogeta en la esperada secuela de la saga",
+          "published_at": "2026-10-17T11:45:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 118,
+          "text": "Bandai Namco 发布《Dragon Ball Xenoverse 3》新实机演示，展示 Gogeta 的技能组与招式，包括其在变身之后招式会发生变化，以及可达到 Super Saiyan Blue 形态；游戏已确认 2027 年登陆 PS5、Xbox Series X/S 与 PC，具体发售日未公布。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://vandal.elespanol.com/noticia/2026290010/dragon-ball-xenoverse-3-muestra-el-poder-y-habilidades-de-gogeta-en-la-esperada-secuela-de-la-saga/",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:19:10.125367+00:00",
+          "source_published_at": "2026-10-17T11:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "title": "《Drunken Goddess Reflux》取消公开 Steam 试玩改办封闭测试，称担忧被 AI 克隆",
+      "summary": "Alliance Arts 取消了《Drunken Goddess Reflux》原定 10 月 19 日的 Steam 公开试玩，改为面向有限参与者的封闭线上试玩。工作室表示，试玩原需限制视频发布与直播，难以妥善管理；更担心试玩内容被 AI 等工具快速模仿复制，并在正式发售前抢先推出。该作为与动漫恶魔少女对决的“烈酒轮盘”饮酒恐怖游戏。",
+      "topics": [
+        "Alliance Arts",
+        "Drunken Goddess Reflux",
+        "Steam"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-17T16:19:02.530888+00:00",
+      "updated_at": "2026-10-17T16:19:02.530888+00:00",
+      "content_updated_at": "2026-10-17T16:19:02.530888+00:00",
+      "reported_at": "2026-10-17T12:04:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
+          "title": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'",
+          "published_at": "2026-10-17T12:04:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 117,
+          "text": "Alliance Arts 取消了《Drunken Goddess Reflux》原定 10 月 19 日的 Steam 公开试玩，改为面向有限参与者举办封闭线上试玩；工作室称部分原因是担心试玩内容被 AI 等工具快速模仿复制并在正式发售前抢先推出，同时也表示难以妥善管理试玩期的视频发布与直播限制。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.pcgamer.com/gaming-industry/game-development/developer-cancels-public-demo-of-its-upcoming-horror-drinking-game-fearing-it-will-be-instantly-cloned-by-ai-vibe-coders-we-sincerely-apologise-for-the-short-notice/",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:19:02.532009+00:00",
+          "source_published_at": "2026-10-17T12:04:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "title": "《上古卷轴4：湮没》GOTY 豪华版加入 GOG 保存计划，《Ghostwire: Tokyo》首次登陆 GOG",
+      "summary": "GOG 宣布《The Elder Scrolls IV: Oblivion - GOTY Edition Deluxe》加入 GOG 保存计划，更新带来五种本地化语言、现代手柄支持与热插拔、优化手柄布局，并修复 Alt+Tab 切换及手柄重绑定时的内存泄漏。同期《Ghostwire: Tokyo》首次登陆 GOG 并同样加入保存计划，两款作品均面向现代 PC 系统长期可玩。",
+      "topics": [
+        "GOG",
+        "The Elder Scrolls IV: Oblivion",
+        "Ghostwire: Tokyo"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-17T16:18:55.307887+00:00",
+      "updated_at": "2026-10-17T16:18:55.307887+00:00",
+      "content_updated_at": "2026-10-17T16:18:55.307887+00:00",
+      "reported_at": "2026-10-17T12:27:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.rpgsite.net/news/21582-the-elder-scrolls-4-oblivion-goty-edition-controller-support-pc-gog-preservation-program",
+          "title": "The Elder Scrolls IV: Oblivion is now on the GOG Preservation Program",
+          "published_at": "2026-10-17T12:27:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 116,
+          "text": "GOG 宣布《The Elder Scrolls IV: Oblivion - GOTY Edition Deluxe》加入 GOG 保存计划，该版本更新加入英语、德语、法语、意大利语和西班牙语五种本地化，支持现代手柄与热插拔、优化手柄布局，并修复 Alt+Tab 切换与手柄重绑定时的内存泄漏；同时《Ghostwire: Tokyo》首次登陆 GOG 并加入该计划。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.rpgsite.net/news/21582-the-elder-scrolls-4-oblivion-goty-edition-controller-support-pc-gog-preservation-program",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:18:55.308879+00:00",
+          "source_published_at": "2026-10-17T12:27:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "title": "NetEase 宣布加重 Marvel Rivals 言语违规处罚",
+      "summary": "NetEase 表示已进一步加重 Marvel Rivals 中言语违规的处罚，处罚力度将根据违规性质、严重程度和历史记录区分，对严重或重复违规者处罚显著更重；同时称言语审核是长期承诺，将持续改进检测与处罚系统。部分玩家担忧自动检测误判，也有人呼吁引入人工审核。",
+      "topics": [
+        "NetEase",
+        "Marvel Rivals"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-17T16:18:42.816028+00:00",
+      "updated_at": "2026-10-17T16:18:42.816028+00:00",
+      "content_updated_at": "2026-10-17T16:18:42.816028+00:00",
+      "reported_at": "2026-10-17T12:36:09+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gamesradar.com/games/third-person-shooter/marvel-rivals-addresses-the-games-toxic-speech-problem-we-will-absolutely-not-treat-these-behaviors-as-acceptable-simply-because-they-are-unfortunately-common/",
+          "title": "Marvel Rivals has \"further escalated our penalties for speech violations,\" promises more moderation",
+          "published_at": "2026-10-17T12:36:09+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 115,
+          "text": "NetEase 宣布已进一步加重 Marvel Rivals 中言语违规的处罚，处罚力度视违规性质、严重程度和历史记录而定，对严重或重复违规者处罚显著更重，并表示将持续改进检测与处罚系统。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.gamesradar.com/games/third-person-shooter/marvel-rivals-addresses-the-games-toxic-speech-problem-we-will-absolutely-not-treat-these-behaviors-as-acceptable-simply-because-they-are-unfortunately-common/",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:18:42.817032+00:00",
+          "source_published_at": "2026-10-17T12:36:09+00:00"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "title": "《CLUTCH》主创专访：Maverick Games 谈剧情赛车方向与团队构成",
+      "summary": "机核在 REDLAND 试玩《CLUTCH》（《离合：红线》）并专访 Maverick Games 创意总监 Mike Brown 与艺术总监 Ben Penrose。该工作室约 140 人，约 40 人曾参与《极限竞速：地平线》系列，另有成员参与过《驾驶俱乐部》《摩托风暴》等作品。两位主创称离开 Playground Games 是因成功商业公式压缩创意空间，希望做一款以固定兄妹主角、深度剧情和车辆个性化为核心的单机沉浸式赛车游戏，而非追求长游玩时长。",
+      "topics": [
+        "CLUTCH",
+        "Maverick Games",
+        "Mike Brown",
+        "Ben Penrose",
+        "Playground Games"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-17T16:18:29.718965+00:00",
+      "updated_at": "2026-10-17T16:18:29.718965+00:00",
+      "content_updated_at": "2026-10-17T16:18:29.718965+00:00",
+      "reported_at": "2026-10-17T12:53:14+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gcores.com/articles/221055",
+          "title": "当《地平线》老兵请来了《皮囊》的编剧，我们终于等到了剧情类赛车游戏？",
+          "published_at": "2026-10-17T12:53:14+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 114,
+          "text": "机核在 REDLAND 试玩《CLUTCH》（中文名《离合：红线》）并专访 Maverick Games 创始人兼创意总监 Mike Brown 与艺术总监 Ben Penrose。该工作室约 140 人，其中约 40 人曾参与《极限竞速：地平线》系列开发，团队还包括曾参与《驾驶俱乐部》《摩托风暴》等作品的开发者。两人称离开 Playground Games 是因为成功商业公式令创意冒险意愿降低，并希望制作一款不靠刷时长的单机沉浸式剧情赛车游戏。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.gcores.com/articles/221055",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:18:29.719954+00:00",
+          "source_published_at": "2026-10-17T12:53:14+00:00"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "title": "Valve 测试 Steam Achievement Sets 成就分组功能",
+      "summary": "Valve 开启 Steam Achievement Sets 测试，开发者可将成就分组成多个集合，每组独立进度并有完成奖杯；后续新增成就不破坏既有完成状态。集合分基础游戏与 DLC 两类，DLC 成就未购内容前不计入整体进度，开发者还可归档限时成就。Steam 同步更新成就页，支持按集合筛选、最多与三名好友比较进度，并将 Perfect Games 改为 Completed。测试向玩家和开发者开放，已有多款游戏接入。",
+      "topics": [
+        "Valve",
+        "Steam"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-17T16:18:14.479930+00:00",
+      "updated_at": "2026-10-17T16:18:14.479930+00:00",
+      "content_updated_at": "2026-10-17T16:18:14.479930+00:00",
+      "reported_at": "2026-10-17T13:12:01+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.eurogamer.net/steam-achievement-sets-beta",
+          "title": "Steam's Achievement Sets beta aims to stop new content breaking your completion status",
+          "published_at": "2026-10-17T13:12:01+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 113,
+          "text": "Valve 正在测试 Steam Achievement Sets 功能，允许开发者把一款游戏的成就分组为若干集合；每组有独立进度条，完成某组会在个人资料上加“set complete”奖杯，之后该组新增成就也不会破坏既有完成状态。集合分基础游戏（蓝色）与 DLC（紫色）两类，DLC 成就在玩家获得对应内容前不计入整体进度；开发者还可以归档单个成就或整组成就，已解锁的仍显示在个人资料上，错过的不会阻塞完成度。玩家仍照常解锁成就，Steam 再把已解锁成就归入开发者创建的集合，并新增可按集合及锁定/解锁状态筛选的成就页、最多与三名好友比较进度，以及把 Perfect Games 标签改为 Completed。该测试对玩家与开发者开放，已加入集合的游戏包括《Against the Storm》《Crusader Kings 3》《Left 4 Dead 2》《Portal 2》《Team Fortress 2》等。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.eurogamer.net/steam-achievement-sets-beta",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:18:14.480923+00:00",
+          "source_published_at": "2026-10-17T13:12:01+00:00"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "title": "《黎明行者之血》1.1 更新公布：新增定向动物抚摸与更轻松的故事模式",
+      "summary": "Rebel Wolves 公布《黎明行者之血》1.1 更新内容：新增可改变互动方向的“定向动物抚摸”；加入含额外战斗辅助、更侧重叙事与抉择的新故事模式，原故事模式更名为“Forgiving”；玩家可通过 Draught of Mind Rebirth 重置技能点；另有战斗瞄准、移动、镜头与 FrameGen 技术改进，总计约 1100 项改动。",
+      "topics": [
+        "黎明行者之血",
+        "Rebel Wolves",
+        "Bandai Namco Entertainment"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-17T16:18:00.854766+00:00",
+      "updated_at": "2026-10-17T16:18:00.854766+00:00",
+      "content_updated_at": "2026-10-17T16:18:00.854766+00:00",
+      "reported_at": "2026-10-17T13:53:20+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-first-major-update-will-add-directional-animal-petting-and-a-new-story-mode-thats-easier-than-the-previous-story-mode/",
+          "title": "The Blood of Dawnwalker's first major update will add directional animal petting and a new story mode that's easier than the previous story mode",
+          "published_at": "2026-10-17T13:53:20+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 112,
+          "text": "Rebel Wolves 宣布《黎明行者之血》1.1 版本更新，将加入可改变宠物互动方向的“定向动物抚摸”、新的故事模式（含额外战斗辅助，原故事模式更名为“Forgiving”）、可重置技能点数的 Draught of Mind Rebirth，以及战斗瞄准、移动、镜头和 FrameGen 技术改进，总计约 1100 项改动；此前报道还提到游戏首三天售出 100 万份、续作已在开发中。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.pcgamer.com/games/rpg/the-blood-of-dawnwalkers-first-major-update-will-add-directional-animal-petting-and-a-new-story-mode-thats-easier-than-the-previous-story-mode/",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:18:00.855863+00:00",
+          "source_published_at": "2026-10-17T13:53:20+00:00"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "title": "《Ghostwire: Tokyo》加入 GOG 保存计划，移除 Bethesda.NET 整合",
+      "summary": "《Ghostwire: Tokyo》已加入 GOG Preservation Program。该 GOG 版本移除了 Bethesda.NET 整合，并承诺未来因操作系统变化出现的稳定性问题将通过补丁处理。报道同时回顾该作曾获 PC Gamer 72 分评价，累计玩家超过 600 万。",
+      "topics": [
+        "Ghostwire: Tokyo",
+        "Tango Gameworks",
+        "GOG",
+        "Bethesda Softworks"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-17T16:17:51.893327+00:00",
+      "updated_at": "2026-10-17T16:17:51.893327+00:00",
+      "content_updated_at": "2026-10-17T16:17:51.893327+00:00",
+      "reported_at": "2026-10-17T15:45:38+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/",
+          "title": "Ghostwire: Tokyo joins GOG Preservation Program, which means you don't have to deal with Bethesda.NET anymore",
+          "published_at": "2026-10-17T15:45:38+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 111,
+          "text": "《Ghostwire: Tokyo》加入 GOG Preservation Program，该版本移除了 Bethesda.NET 整合，并承诺未来操作系统变化导致的稳定性问题将通过补丁处理；文章提到游戏曾获 PC Gamer 评测 72 分。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.pcgamer.com/games/action/ghostwire-tokyo-joins-gog-preservation-program-which-means-you-dont-have-to-deal-with-bethesda-net-anymore/",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:17:51.905201+00:00",
+          "source_published_at": "2026-10-17T15:45:38+00:00"
+        }
+      ]
+    },
     {
       "id": 102,
       "title": "Galaxies Showcase 2026 汇总：多款新作公布与试玩开放",
