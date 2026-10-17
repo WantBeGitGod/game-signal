@@ -1,7 +1,211 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-17T16:14:20.289867+00:00",
+  "generated_at": "2026-10-17T16:16:55.068213+00:00",
   "events": [
+    {
+      "id": 102,
+      "title": "Galaxies Showcase 2026 汇总：多款新作公布与试玩开放",
+      "summary": "Eurogamer 选编 Galaxies Showcase 2026 中值得关注的 11 款游戏与公布：音乐冒险《There Are No Ghosts at the Grand》12 月推出并已开放 Steam 试玩，雪地生存驾驶游戏 AfterZero: The Last Drive 2027 年登陆 PC、PS5、Xbox Series X/S，太空岗位模拟 Contact Protocol 与心理恐怖 Deperson 均提供试玩、明年推出，LKA 新作 When Sirens Fall Silent 明年推出，Squad 宣布 2027 年登陆 PS5 与 Xbox Series X/S 且 PS5 Alpha 预览开放至 10 月 25 日，《My Penguin Friend》明年登陆 Steam。",
+      "topics": [
+        "Eurogamer",
+        "There Are No Ghosts at the Grand",
+        "AfterZero: The Last Drive",
+        "Contact Protocol",
+        "Deperson",
+        "When Sirens Fall Silent",
+        "Squad",
+        "My Penguin Friend"
+      ],
+      "kind": "industry_event",
+      "created_at": "2026-10-17T16:16:50.254467+00:00",
+      "updated_at": "2026-10-17T16:16:50.254467+00:00",
+      "content_updated_at": "2026-10-17T16:16:50.254467+00:00",
+      "reported_at": "2026-10-16T15:04:58+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.eurogamer.net/galaxies-showcase-2026-games-roundup",
+          "title": "11 games and announcements that got us excited in the latest Galaxies Showcase",
+          "published_at": "2026-10-16T15:04:58+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 110,
+          "text": "Eurogamer 从 2026 年 Galaxies Showcase 近两小时内容中挑出 11 款让其兴奋的游戏与公布，包括《There Are No Ghosts at the Grand》放出 Steam 试玩并将于 12 月推出，AfterZero: The Last Drive 定于 2027 年登陆 PC、PS5、Xbox Series X/S，Contact Protocol 现提供 Steam 试玩并于明年推出，Deperson 明年推出且已有 Steam 试玩，LKA 的 When Sirens Fall Silent 明年推出，Squad 宣布 2027 年登陆 PS5 与 Xbox Series X/S 且 PS5 Alpha 预览开放至 10 月 25 日，My Penguin Friend 明年登陆 Steam。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.eurogamer.net/galaxies-showcase-2026-games-roundup",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:16:50.256074+00:00",
+          "source_published_at": "2026-10-16T15:04:58+00:00"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "title": "《STRANGER THAN HEAVEN》公开「小仓篇」故事预告",
+      "summary": "世嘉公开 RGG 工作室新作《STRANGER THAN HEAVEN》的故事预告系列第一弹「第一部 小仓篇」，聚焦主角大东真的人生转折与人际相遇。游戏以 1915 至 1965 年间的五个时代与城市为舞台，预告中包含战斗及歌唱场景。",
+      "topics": [
+        "Sega",
+        "RGG Studio",
+        "STRANGER THAN HEAVEN"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-17T16:16:22.281811+00:00",
+      "updated_at": "2026-10-17T16:16:22.281811+00:00",
+      "content_updated_at": "2026-10-17T16:16:22.281811+00:00",
+      "reported_at": "2026-10-16T15:21:40+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "http://www.gamespark.jp/article/2026/10/17/173722.html",
+          "title": "RGGスタジオ完全新作『STRANGER THAN HEAVEN』主人公・大東真の人生を紹介するストーリートレイラー公開！第1弾は1915年の小倉編",
+          "published_at": "2026-10-16T15:21:40+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 109,
+          "text": "世嘉公开 RGG 工作室新作《STRANGER THAN HEAVEN》的最新预告片，首弹为「第一部 小仓篇」故事预告，聚焦主角大东真的人生；游戏以 1915 至 1965 年的五个时代与城市为舞台，预告中包含战斗与歌唱场景。",
+          "evidence_kind": "syndication",
+          "source_url": "http://www.gamespark.jp/article/2026/10/17/173722.html",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:16:22.283506+00:00",
+          "source_published_at": "2026-10-16T15:21:40+00:00"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "title": "Steam 同时在线用户数达 4350 万，年内第三次刷新纪录",
+      "summary": "据 SteamDB 数据，Steam 在 2026 年 10 月 11 日同时在线用户数达到 4350 万，创平台新高；这是 2026 年内第三次刷新纪录，年初为 4200 万，3 月再增约 50 万。媒体指出该数字包含后台挂机用户，不完全等于正在游玩的人数，但反映平台持续增长；Kotaku 提醒可参照 Fortnite 2024 年 1430 万同时在线与 Roblox 今年 1.23 亿日活。",
+      "topics": [
+        "Valve",
+        "Steam",
+        "SteamDB"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-17T16:15:43.322576+00:00",
+      "updated_at": "2026-10-17T16:15:43.322576+00:00",
+      "content_updated_at": "2026-10-17T16:15:43.322576+00:00",
+      "reported_at": "2026-10-16T15:40:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://vandal.elespanol.com/noticia/2026289023/steam-batio-su-record-de-jugadores-simultaneos-y-sube-el-liston-de-nuevo-por-tercera-vez-en-2026/",
+          "title": "Steam batió su récord de jugadores simultáneos y sube el listón de nuevo por tercera vez en 2026",
+          "published_at": "2026-10-16T15:40:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 106,
+          "text": "据 SteamDB 数据，Valve 的 Steam 平台在 2026 年 10 月 11 日同时在线用户数达到 4350 万，创下平台新纪录；这是 2026 年内第三次刷新纪录（年初 4200 万，3 月再增约 50 万）。该数字并非全部为正在游玩的用户，可能包含后台挂机，但反映平台持续增长。Vandal 同时引述 Kotaku 的视角：Fortnite 2024 年曾录得 1430 万同时在线，Roblox 今年日活达 1.23 亿。",
+          "evidence_kind": "syndication",
+          "source_url": "https://vandal.elespanol.com/noticia/2026289023/steam-batio-su-record-de-jugadores-simultaneos-y-sube-el-liston-de-nuevo-por-tercera-vez-en-2026/",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:15:43.343915+00:00",
+          "source_published_at": "2026-10-16T15:40:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "title": "《No Rest for the Wicked》公布职业系统重做，1.0 定于 2027 年 3 月",
+      "summary": "Moon Studios 在“Wicked Inside”直播中宣布，《No Rest for the Wicked》将以 24 个随武器自动切换的动态职业取代旧属性系统，并加入 362 项可跨职业组合的特质、带风险收益取舍的 Cerim 核心及六个可加入阵营。1.0 正式版计划 2027 年 3 月登陆 Steam 与 PS5，内容规模约为抢先体验版两倍，并包含新区域、敌人、Boss、掉落系统重做与 PS5 性能优化。",
+      "topics": [
+        "No Rest for the Wicked",
+        "Moon Studios"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-17T16:15:34.987310+00:00",
+      "updated_at": "2026-10-17T16:15:34.987310+00:00",
+      "content_updated_at": "2026-10-17T16:15:34.987310+00:00",
+      "reported_at": "2026-10-16T15:43:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gameswelt.de/no-rest-for-the-wicked/news/neues-klassensystem-und-1-0-release-fuer-maerz-2027-angekuendigt-335214",
+          "title": "No Rest for the Wicked - Neues Klassensystem und 1.0-Release für März 2027 angekündigt",
+          "published_at": "2026-10-16T15:43:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 105,
+          "text": "Moon Studios 在“Wicked Inside”直播中公布《No Rest for the Wicked》将取消旧属性系统，改为由武器自动切换的 24 个动态职业、362 项可跨职业组合的特质，以及带风险收益取舍的 Cerim 核心系统；六个可加入阵营各有任务线、商人和专属特质。1.0 正式版计划 2027 年 3 月登陆 PC（Steam）与 PS5，内容规模约为抢先体验版的两倍，并包含新区域、敌人、Boss、掉落系统重做和 PS5 性能优化。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.gameswelt.de/no-rest-for-the-wicked/news/neues-klassensystem-und-1-0-release-fuer-maerz-2027-angekuendigt-335214",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:15:34.988412+00:00",
+          "source_published_at": "2026-10-16T15:43:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "title": "《Ace Combat 8: Wings of Theve》媒体评测：Eurogamer 4/5，GameCritics 9.5/10",
+      "summary": "Eurogamer 发布《Ace Combat 8: Wings of Theve》评测，认为其战役紧张刺激、场面壮观，把系列推向新高度；云层既带来视觉震撼，也影响导弹锁定等战术选择，任务中途的补给与降落环节仍保持压力。批评集中在部分任务过长、剧情不均衡、一处护送关难度陡增和强制空中潜行关卡；多人模式含 PvPvE 与特殊任务，被视为可重复体验战役快感的方式。Eurogamer 给出 4/5；GameCritics 另给出 9.5/10，后者同时指出 PC 版存在帧时间波动与卡顿。",
+      "topics": [
+        "Ace Combat 8",
+        "Bandai Namco Aces",
+        "Bandai Namco Entertainment",
+        "Eurogamer"
+      ],
+      "kind": "review",
+      "created_at": "2026-10-17T16:07:21.953162+00:00",
+      "updated_at": "2026-10-17T16:14:29.982498+00:00",
+      "content_updated_at": "2026-10-17T16:14:29.982498+00:00",
+      "reported_at": "2026-10-13T09:19:45+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [
+        {
+          "text": "补充核验 Eurogamer 评分为 4/5，纠正此前“原文未给出数字评分”的说法。",
+          "recorded_at": "2026-10-17T16:14:29.982498+00:00"
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://gamecritics.com/ali-arkani/ace-combat-8-wings-of-theve-review/",
+          "title": "Ace Combat 8: Wings Of Theve Review",
+          "published_at": "2026-10-14T13:11:28+00:00"
+        },
+        {
+          "url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review",
+          "title": "Ace Combat 8: Wings of Theve review – thrill-packed campaign takes this long-running series to new heights",
+          "published_at": "2026-10-13T09:19:45+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 89,
+          "text": "GameCritics 给出 9.5/10 的评测，认为《Ace Combat 8: Wings of Theve》战役与多人模式整体扎实，云层影响导弹锁定与结冰失速带来战术变化，多人为重做的 Ace Combat Online 含六种模式并可自定义化身与战斗通行证；主要缺点是自动瞄准切换低效、UE5 导致帧时间不稳与卡顿且缺少帧生成技术，难以在 4K 下稳定 60 FPS。评测副本于 PC 游玩，约 21 小时战役、3 小时多人并通关。",
+          "evidence_kind": "review",
+          "source_url": "https://gamecritics.com/ali-arkani/ace-combat-8-wings-of-theve-review/",
+          "action": "attach_source",
+          "recorded_at": "2026-10-17T16:10:57.053916+00:00",
+          "source_published_at": "2026-10-14T13:11:28+00:00"
+        },
+        {
+          "id": 104,
+          "text": "Eurogamer 评测《Ace Combat 8: Wings of Theve》，认为其战役紧张刺激，把系列推到新高度：30 个任务多数像好莱坞暑期档大片式场面，云层既是视觉奇观也是影响导弹锁定与战术的要素；缺点是部分任务冗长、剧情不均衡、个别护送与强制潜行关卡拖后腿，长时间游玩易疲惫，但多人模式（含两个 PvPvE 模式与四人/八人特殊任务）提供了可重复的战役级快感。 Eurogamer 的原始评测评分为 4/5。",
+          "evidence_kind": "review",
+          "source_url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review",
+          "action": "update_event",
+          "recorded_at": "2026-10-17T16:14:29.744593+00:00",
+          "source_published_at": "2026-10-13T09:19:45+00:00"
+        }
+      ]
+    },
     {
       "id": 96,
       "title": "《火焰纹章：Fortune’s Weave》扩展通行证开售：首波武器、假日季新盟友与 2027 新剧情",
@@ -396,6 +600,43 @@
       ]
     },
     {
+      "id": 84,
+      "title": "RPG Site 评《Tales of Eternia Remastered》：周到重制但画面选项有取舍",
+      "summary": "RPG Site 于 2026 年 10 月 14 日发表《Tales of Eternia Remastered》评测，认为 TOSE 的这次重制认真且周到：补回原英文版缺失的 Skits、加入全新英语配音（覆盖主线场景与 250 多个 Skits）、原版/重制画面切换、遇敌率开关、New Game+、默认奔跑与场景暂停/跳过等调整。文章也指出角色精灵图在两种画面模式下均未改动，重制道具精灵与背景不协调，且没有 4:3 比例、原始英语配音或 CRT 滤镜选项。",
+      "topics": [
+        "Tales of Eternia Remastered",
+        "Bandai Namco",
+        "TOSE",
+        "RPG Site"
+      ],
+      "kind": "review",
+      "created_at": "2026-10-17T16:10:33.715429+00:00",
+      "updated_at": "2026-10-17T16:14:30.147512+00:00",
+      "content_updated_at": "2026-10-17T16:10:33.715429+00:00",
+      "reported_at": "2026-10-14T15:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.rpgsite.net/feature/21563-tales-eternia-remastered-review",
+          "title": "Tales of Eternia Remastered Review",
+          "published_at": "2026-10-14T15:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 87,
+          "text": "RPG Site 的 Adam Vitale 于 2026 年 10 月 14 日发表《Tales of Eternia Remastered》评测，认为这款由 TOSE 开发的重制版认真且周到：加入原版英文版缺失的 Skits、全新英语配音（含主线场景与 250 多个 Skits）、原版/重制画面切换、遇敌率开关、New Game+、默认奔跑与场景暂停/跳过等调整，并指出角色精灵图在各设置下均未改动、重制道具精灵与背景不协调，没有 4:3 显示、原始英语配音或 CRT 滤镜选项。",
+          "evidence_kind": "review",
+          "source_url": "https://www.rpgsite.net/feature/21563-tales-eternia-remastered-review",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:10:33.716421+00:00",
+          "source_published_at": "2026-10-14T15:00:00+00:00"
+        }
+      ]
+    },
+    {
       "id": 83,
       "title": "《Guild Wars 2》Living World季度不再单独售卖，改为随资料片捆绑",
       "summary": "ArenaNet宣布调整《Guild Wars 2》付费结构：Living World季节性章节不再单独收费，改为随对应资料片提供——本体含第一季，《Heart of Thorns》含第二季，《Path of Fire》含第三、四季度，《End of Dragons》含最终季；拥有相应资料片的账号会自动补齐缺失章节。9月12日之后购买过Living World DLC的玩家将获宝石补偿。官方称目标是简化购买流程、降低新玩家和回归玩家进入门槛。",
@@ -503,57 +744,6 @@
           "action": "create_event",
           "recorded_at": "2026-10-17T16:09:58.487373+00:00",
           "source_published_at": "2026-10-14T15:30:18+00:00"
-        }
-      ]
-    },
-    {
-      "id": 80,
-      "title": "Eurogamer 评测《Ace Combat 8: Wings of Theve》：战役刺激但个别任务拖累",
-      "summary": "Eurogamer 发布《Ace Combat 8: Wings of Theve》评测，认为其战役紧张刺激、场面壮观，把系列推向新高度；云层既带来视觉震撼，也影响导弹锁定等战术选择，任务中途的补给与降落环节仍保持压力。批评集中在部分任务过长、剧情不均衡、一处护送关难度陡增和强制空中潜行关卡；多人模式含 PvPvE 与特殊任务，被视为可重复体验战役快感的方式。原文未给出数字评分。",
-      "topics": [
-        "Ace Combat 8",
-        "Bandai Namco Aces",
-        "Bandai Namco Entertainment",
-        "Eurogamer"
-      ],
-      "kind": "review",
-      "created_at": "2026-10-17T16:07:21.953162+00:00",
-      "updated_at": "2026-10-17T16:10:57.051583+00:00",
-      "content_updated_at": "2026-10-17T16:07:21.953162+00:00",
-      "reported_at": "2026-10-13T09:19:45+00:00",
-      "prominence": "normal",
-      "recommendation": "",
-      "corrections": [],
-      "sources": [
-        {
-          "url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review",
-          "title": "Ace Combat 8: Wings of Theve review – thrill-packed campaign takes this long-running series to new heights",
-          "published_at": "2026-10-13T09:19:45+00:00"
-        },
-        {
-          "url": "https://gamecritics.com/ali-arkani/ace-combat-8-wings-of-theve-review/",
-          "title": "Ace Combat 8: Wings Of Theve Review",
-          "published_at": "2026-10-14T13:11:28+00:00"
-        }
-      ],
-      "progress": [
-        {
-          "id": 83,
-          "text": "Eurogamer 评测《Ace Combat 8: Wings of Theve》，认为其战役紧张刺激，把系列推到新高度：30 个任务多数像好莱坞暑期档大片式场面，云层既是视觉奇观也是影响导弹锁定与战术的要素；缺点是部分任务冗长、剧情不均衡、个别护送与强制潜行关卡拖后腿，长时间游玩易疲惫，但多人模式（含两个 PvPvE 模式与四人/八人特殊任务）提供了可重复的战役级快感。",
-          "evidence_kind": "review",
-          "source_url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review",
-          "action": "create_event",
-          "recorded_at": "2026-10-17T16:07:21.954658+00:00",
-          "source_published_at": "2026-10-13T09:19:45+00:00"
-        },
-        {
-          "id": 89,
-          "text": "GameCritics 给出 9.5/10 的评测，认为《Ace Combat 8: Wings of Theve》战役与多人模式整体扎实，云层影响导弹锁定与结冰失速带来战术变化，多人为重做的 Ace Combat Online 含六种模式并可自定义化身与战斗通行证；主要缺点是自动瞄准切换低效、UE5 导致帧时间不稳与卡顿且缺少帧生成技术，难以在 4K 下稳定 60 FPS。评测副本于 PC 游玩，约 21 小时战役、3 小时多人并通关。",
-          "evidence_kind": "review",
-          "source_url": "https://gamecritics.com/ali-arkani/ace-combat-8-wings-of-theve-review/",
-          "action": "attach_source",
-          "recorded_at": "2026-10-17T16:10:57.053916+00:00",
-          "source_published_at": "2026-10-14T13:11:28+00:00"
         }
       ]
     },
@@ -2505,7 +2695,7 @@
       ],
       "kind": "release_schedule",
       "created_at": "2026-10-04T17:35:31.473069+00:00",
-      "updated_at": "2026-10-04T17:35:31.652105+00:00",
+      "updated_at": "2026-10-17T16:16:23.886241+00:00",
       "content_updated_at": "2026-10-04T17:35:31.473069+00:00",
       "reported_at": null,
       "prominence": "normal",
@@ -2516,6 +2706,11 @@
           "url": "https://www.xbox.com/en-us/games/grand-theft-auto-vi",
           "title": "Grand Theft Auto VI: Coming November 19, 2026 to XBOX Series X|S | XBOX",
           "published_at": null
+        },
+        {
+          "url": "https://www.4gamer.net/games/758/G075801/20261015057/",
+          "title": "「グランド・セフト・オートVI」，ローンチトレイラーを公開。ゲーム映像とともに，Justiceの新曲「Flower in a Hurricane」がお披露目",
+          "published_at": "2026-10-15T14:18:41+00:00"
         }
       ],
       "progress": [
@@ -2527,6 +2722,15 @@
           "action": "create_event",
           "recorded_at": "2026-10-04T17:35:31.474586+00:00",
           "source_published_at": null
+        },
+        {
+          "id": 98,
+          "text": "Rockstar Games 于 2026 年 10 月 15 日公开了《Grand Theft Auto VI》的发售预告片，影片描绘雷奥尼达州发生的争斗与阴谋，并使用电子音乐组合 Justice 的新曲《Flower in a Hurricane》，该曲将收录于官方原声带《Grand Theft Auto VI: The Album》。游戏预定 11 月 19 日登陆 PS5 与 Xbox Series X|S。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.4gamer.net/games/758/G075801/20261015057/",
+          "action": "attach_source",
+          "recorded_at": "2026-10-17T16:13:33.245292+00:00",
+          "source_published_at": "2026-10-15T14:18:41+00:00"
         }
       ]
     },
@@ -3011,6 +3215,19 @@
       "platform": "PS5",
       "region": null,
       "source_url": "https://blog.playstation.com/2026/08/11/watch-the-phantom-blade-zero-gameplay-deep-dive-state-of-play-on-august-17-pre-orders-live-today/"
+    },
+    {
+      "id": 6,
+      "event_id": 8,
+      "kind": "release",
+      "date_value": "2026-11-19",
+      "date_precision": "day",
+      "updated_at": "2026-10-04T17:35:31.954692+00:00",
+      "game_name": "Grand Theft Auto VI",
+      "label": "Xbox Series X|S 版发售",
+      "platform": "Xbox Series X|S",
+      "region": null,
+      "source_url": "https://www.xbox.com/en-us/games/grand-theft-auto-vi"
     }
   ],
   "watched_games": [
