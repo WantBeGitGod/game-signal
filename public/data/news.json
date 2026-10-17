@@ -1,7 +1,274 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-17T16:07:27.367163+00:00",
+  "generated_at": "2026-10-17T16:11:46.168587+00:00",
   "events": [
+    {
+      "id": 88,
+      "title": "Eurogamer 试玩《塞尔达传说 时之笛》Switch 2 重制版：新画风与现代操作获认可，英文配音受批评",
+      "summary": "Eurogamer 在 Switch 2《塞尔达传说 时之笛》重制版的试玩中认为游戏正成为一部出色的重制。作者认可新美术风格让海拉鲁更有质感，并提到一键跳跃、右摇杆自由视角、快捷道具菜单等现代化操作，森林神殿等迷宫有细微布局调整，海拉鲁平原地理与城镇场景被重建。不足之处是英文配音被形容为廉价的 90 年代动画配音，但玩家可切换语音语言。",
+      "topics": [
+        "Nintendo",
+        "《塞尔达传说 时之笛》"
+      ],
+      "kind": "development",
+      "created_at": "2026-10-17T16:11:41.694036+00:00",
+      "updated_at": "2026-10-17T16:11:41.694036+00:00",
+      "content_updated_at": "2026-10-17T16:11:41.694036+00:00",
+      "reported_at": "2026-10-14T13:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.eurogamer.net/ocarina-of-time-remake-switch-2-preview",
+          "title": "No matter what your opinion is on the art style, The Legend of Zelda: Ocarina of Time is shaping up to be a brilliant remake",
+          "published_at": "2026-10-14T13:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 93,
+          "text": "Eurogamer 在约数小时的 Switch 2《塞尔达传说 时之笛》重制版试玩后认为游戏“正逐渐成为一部出色的重制”：美术风格沿用‘鬼娃’式重做引发两极反应，但作者本人认可新画风让海拉鲁更有质感；重制加入一键跳跃（可改为 Y 键）、右摇杆自由视角、快捷道具菜单等现代操作；森林神殿等迷宫有小幅布局调整，海拉鲁平原地理与部分场景被重建，还藏有妖精提示纸条；英文配音被作者批评像廉价 90 年代动画配音，但可切换语音语言。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.eurogamer.net/ocarina-of-time-remake-switch-2-preview",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:11:41.694607+00:00",
+          "source_published_at": "2026-10-14T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "title": "Summer Eternal 公布玩家参股的工作室结构",
+      "summary": "前 Disco Elysium 开发者组建的 Summer Eternal 公布玩家与开发者共有的工作室结构：非营利组织 Players Non-Profit 持有工作室 5% 股份，其余 95% 由全职员工、自由职业者与投资者分持。玩家购买工作室商品（包括 500 页 Anthology）即可加入该组织并参与治理。其新作 Red Rooster 正式公布为物理驱动的“incendiary RPG”，以 Unreal Engine 开发、脱离等距视角，目前接近前期制作尾声。",
+      "topics": [
+        "Summer Eternal",
+        "Players Non-Profit",
+        "Red Rooster"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-17T16:10:42.567699+00:00",
+      "updated_at": "2026-10-17T16:11:31.429027+00:00",
+      "content_updated_at": "2026-10-17T16:11:31.430016+00:00",
+      "reported_at": "2026-10-14T14:00:16+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.eurogamer.net/summer-eternal-studio-structure-player-non-profit",
+          "title": "\"This non-profit will be the 'voice of the gamers'\" - Former Disco Elysium devs break new ground with player- and developer-owned studio structure",
+          "published_at": "2026-10-14T14:00:16+00:00"
+        },
+        {
+          "url": "https://www.eurogamer.net/summer-eternal-red-rooster-zaum-disco-like-incendiary-rpg",
+          "title": "Ex-ZA/UM developers reveal Red Rooster, an \"incendiary RPG\" that is very intentionally not trying to be a \"Disco Elysium successor\" or \"Disco-like\"",
+          "published_at": "2026-10-14T13:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 88,
+          "text": "前 Disco Elysium 开发者组建的 Summer Eternal 公布了玩家与开发者共有的工作室结构：非营利组织 Players Non-Profit 持有工作室 5% 股份，其余 95% 由全职员工、自由职业者与投资者分持；购买工作室任何商品（包括 500 页 Anthology）即可加入该非营利组织并参与治理，成员可召集大会讨论议题、使用游戏收入组织活动或支持工会工作；其正在开发中的游戏 Red Rooster 被描述为融合文本向等距 RPG 与沉浸式模拟世界构建的“incendiary RPG”，仍在开发中。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.eurogamer.net/summer-eternal-studio-structure-player-non-profit",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:10:42.568248+00:00",
+          "source_published_at": "2026-10-14T14:00:16+00:00"
+        },
+        {
+          "id": 92,
+          "text": "Eurogamer 报道，Summer Eternal 通过《Summer Eternal Anthology》一书正式公布新作《Red Rooster》：一款自称“incendiary RPG”的物理驱动作品，玩家扮演白领囚犯 Redrick Roost，与一名依赖鸦片类药物的数学家搭档，调查一连串纵火案，线索指向其担任消防局长的兄弟；游戏设定在 Arta-Tantor 三部分城市的“fractalised border archipelago”，带有强烈科幻底色的政治架空历史世界观。工作室称游戏以 Unreal Engine 开发、采用先进物理特性、脱离等距视角转为三维世界与动态镜头，目标“double-A”制作预算，目前接近前期制作尾声，已有内部可玩技术演示。购买该书者可获得 Players Non-Profit 会员资格，该组织持有 Summer Eternal 5% 股份，会员可对工作室治理及 Red Rooster 未来 5% 利润用途投票。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.eurogamer.net/summer-eternal-red-rooster-zaum-disco-like-incendiary-rpg",
+          "action": "update_event",
+          "recorded_at": "2026-10-17T16:11:31.430016+00:00",
+          "source_published_at": "2026-10-14T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "title": "《Gran Turismo 7》Spec IV 第一部分上线，并公布限定版 DualSense 手柄",
+      "summary": "Polyphony Digital 宣布《Gran Turismo 7》Spec IV 更新第一部分于 2026 年 10 月 14 日免费上线，新增六款车辆、Sportsland Sugo 赛道、6 个 World Circuit 赛事、Scapes 新地点以及 Car Viewer 和 Experience 模式等。同时公布系列 30 周年纪念的 DualSense 无线控制器 Gran Turismo 限定版，售价 84.99 美元/12,480 日元/84.99 欧元/74.99 英镑，10 月 22 日开始预售，12 月 10 日起全球发售。",
+      "topics": [
+        "Gran Turismo 7",
+        "Polyphony Digital",
+        "PlayStation"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-17T16:11:21.393147+00:00",
+      "updated_at": "2026-10-17T16:11:21.393147+00:00",
+      "content_updated_at": "2026-10-17T16:11:21.393147+00:00",
+      "reported_at": "2026-10-14T13:00:48+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://blog.playstation.com/2026/10/14/gran-turismo-7s-spec-iv-part-1-launches-today-and-a-first-look-at-dualsense-wireless-controller-gran-turismo-limited-edition/",
+          "title": "Gran Turismo 7’s Spec IV (Part 1) launches today and a first look at DualSense wireless controller – Gran Turismo Limited Edition",
+          "published_at": "2026-10-14T13:00:48+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 91,
+          "text": "《Gran Turismo 7》Spec IV 更新第一部分于2026年10月14日上线，免费向所有玩家开放，新增六款车辆、Sportsland Sugo 赛道、6个 World Circuit 赛事、新 Scapes 地点、Car Viewer 新功能与 Experience 模式等。同时公布为纪念系列30周年的 DualSense 无线控制器 Gran Turismo 限定版，建议零售价 84.99 美元/12,480 日元/84.99 欧元/74.99 英镑，10月22日开始预售，12月10日起全球发售。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://blog.playstation.com/2026/10/14/gran-turismo-7s-spec-iv-part-1-launches-today-and-a-first-look-at-dualsense-wireless-controller-gran-turismo-limited-edition/",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:11:21.395149+00:00",
+          "source_published_at": "2026-10-14T13:00:48+00:00"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "title": "《塞尔达传说 时之笛》Switch 2 版发布概览预告：麦克风陶笛、重战之殿与 amiibo",
+      "summary": "任天堂在 11 月 5 日发售前发布《塞尔达传说 时之笛》Switch 2 版概览预告。新版包含重制画面、全配音过场与扩展对话、全交响乐配乐，并可用 Switch 2 麦克风哼唱或演奏旋律让游戏中陶笛回应；新增“陨落英雄之殿”供了解并重战被击败的怪物，支持 Nintendo Switch App 的 ZELDA NOTES 服务。两款新 amiibo 将于 2027 年推出，可解锁游戏内特殊面具，系列旧 amiibo 也能提供奖励。",
+      "topics": [
+        "Nintendo",
+        "《塞尔达传说 时之笛》"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-17T16:11:12.996358+00:00",
+      "updated_at": "2026-10-17T16:11:12.996358+00:00",
+      "content_updated_at": "2026-10-17T16:11:12.996358+00:00",
+      "reported_at": "2026-10-14T13:06:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.rpgsite.net/news/21564-zelda-ocarina-of-time-switch-2-remake-overview-trailer-amiibo-support",
+          "title": "The Legend of Zelda: Ocarina of Time Switch 2 overview trailer released",
+          "published_at": "2026-10-14T13:06:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 90,
+          "text": "任天堂在《塞尔达传说 时之笛》Switch 2 版 11 月 5 日发售前发布概览预告片，展示增强画面与新玩法元素，并确认 amiibo 支持、全新配音过场与扩展对话、全交响乐配乐；玩家可对着 Switch 2 麦克风哼唱或演奏已学会的旋律，游戏中林克的陶笛会回应；新增“陨落英雄之殿”，可了解被击败的怪物并与之重战；支持 Nintendo Switch App 内的 ZELDA NOTES 服务；两款新 amiibo 将于 2027 年推出，可解锁特殊游戏内面具。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.rpgsite.net/news/21564-zelda-ocarina-of-time-switch-2-remake-overview-trailer-amiibo-support",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:11:12.997433+00:00",
+          "source_published_at": "2026-10-14T13:06:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "title": "《Guild Wars 2》Living World季度不再单独售卖，改为随资料片捆绑",
+      "summary": "ArenaNet宣布调整《Guild Wars 2》付费结构：Living World季节性章节不再单独收费，改为随对应资料片提供——本体含第一季，《Heart of Thorns》含第二季，《Path of Fire》含第三、四季度，《End of Dragons》含最终季；拥有相应资料片的账号会自动补齐缺失章节。9月12日之后购买过Living World DLC的玩家将获宝石补偿。官方称目标是简化购买流程、降低新玩家和回归玩家进入门槛。",
+      "topics": [
+        "ArenaNet",
+        "Guild Wars 2",
+        "NCsoft"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-17T16:10:17.916394+00:00",
+      "updated_at": "2026-10-17T16:10:17.916394+00:00",
+      "content_updated_at": "2026-10-17T16:10:17.916394+00:00",
+      "reported_at": "2026-10-14T15:14:15+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.eurogamer.net/guild-wars-2-living-world-expansions",
+          "title": "ArenaNet solves an ongoing Guild Wars 2 issue by ditching paid Living World add-ons and bundling them with expansions",
+          "published_at": "2026-10-14T15:14:15+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 86,
+          "text": "ArenaNet宣布改变《Guild Wars 2》的运营方式，不再单独售卖Living World季节性章节，而是将其叙事内容与资料片捆绑：拥有本体可获得第一季，购买《Heart of Thorns》可获得第二季，第三、四季度随《Path of Fire》提供，最后一部Living World季度随《End of Dragons》提供；拥有上述资料片的账号会自动补齐缺失章节。9月12日之后购买过Living World DLC的玩家将获得宝石作为补偿。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.eurogamer.net/guild-wars-2-living-world-expansions",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:10:17.931109+00:00",
+          "source_published_at": "2026-10-14T15:14:15+00:00"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "title": "IGN Japan 试玩《塞尔达传说 时之笛》重制版：关卡与演出大幅改动",
+      "summary": "IGN Japan 在约一小时的试玩后指出，《塞尔达传说 时之笛》重制版并非忠实复刻：新增对话、重做解谜与关卡布局、加入舞台剧式演出和新美术风格，并按现代操作体系调整教程。试玩在 Switch 2 上以 60fps 呈现，游戏支持一键跳跃和右摇杆自由控制视角，试玩范围约为故事的三分之一。",
+      "topics": [
+        "Nintendo",
+        "《塞尔达传说 时之笛》"
+      ],
+      "kind": "development",
+      "created_at": "2026-10-17T16:10:08.443632+00:00",
+      "updated_at": "2026-10-17T16:10:08.443632+00:00",
+      "content_updated_at": "2026-10-17T16:10:08.443632+00:00",
+      "reported_at": "2026-10-14T15:15:36+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://jp.ign.com/the-legend-of-zelda-ocarina-of-time/84410/",
+          "title": "『ゼルダの伝説 時のオカリナ』リメイクをプレイした感想！想像以上に原作と違った！",
+          "published_at": "2026-10-14T15:15:36+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 85,
+          "text": "IGN Japan 的编辑试玩《塞尔达传说 时之笛》重制约一小时后表示，本作并非忠实还原原作，而是新增对话、重做解谜与关卡设计、采用舞台剧式演出和新美术风格；试玩在 Switch 2 上以 60fps 运行，游戏支持一键跳跃、右摇杆自由控制视角。试玩范围约覆盖故事的三分之一。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://jp.ign.com/the-legend-of-zelda-ocarina-of-time/84410/",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:10:08.446573+00:00",
+          "source_published_at": "2026-10-14T15:15:36+00:00"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "title": "PlayStation Plus 十月游戏目录公布：《Mafia: The Old Country》等 10 月 20 日入库",
+      "summary": "PlayStation 公布 2026 年 10 月 Plus 游戏目录阵容。Extra 与 Premium 档 10 月 20 日起可玩《Mafia: The Old Country》《Horizon Forbidden West》与首日入库的合作射击《Mycopunk》；Premium 档另添《Dino Crisis 2》和《RollerCoaster Tycoon 3 Complete Edition》。文中还列出《Poppy Playtime: Chapter 2》《The Midnight Walk》等分批加入的作品，并提示各档阵容可能因地区而异。",
+      "topics": [
+        "PlayStation",
+        "PlayStation Plus",
+        "Mafia: The Old Country",
+        "Horizon Forbidden West",
+        "Mycopunk",
+        "Dino Crisis 2",
+        "RollerCoaster Tycoon 3 Complete Edition"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-17T16:09:58.486365+00:00",
+      "updated_at": "2026-10-17T16:09:58.486365+00:00",
+      "content_updated_at": "2026-10-17T16:09:58.486365+00:00",
+      "reported_at": "2026-10-14T15:30:18+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://blog.playstation.com/2026/10/14/playstation-plus-game-catalog-for-october-mafia-the-old-country-horizon-forbidden-west-mycopunk-and-more/",
+          "title": "PlayStation Plus Game Catalog for October: Mafia: The Old Country, Horizon Forbidden West, Mycopunk and more",
+          "published_at": "2026-10-14T15:30:18+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 84,
+          "text": "PlayStation 公布 2026 年 10 月 PlayStation Plus 游戏目录：Extra 与 Premium 档将于 10 月 20 日起加入《Mafia: The Old Country》《Horizon Forbidden West》，以及首日入库的《Mycopunk》；Premium 档新增《Dino Crisis 2》和《RollerCoaster Tycoon 3 Complete Edition》。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://blog.playstation.com/2026/10/14/playstation-plus-game-catalog-for-october-mafia-the-old-country-horizon-forbidden-west-mycopunk-and-more/",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:09:58.487373+00:00",
+          "source_published_at": "2026-10-14T15:30:18+00:00"
+        }
+      ]
+    },
     {
       "id": 80,
       "title": "Eurogamer 评测《Ace Combat 8: Wings of Theve》：战役刺激但个别任务拖累",
@@ -14,7 +281,7 @@
       ],
       "kind": "review",
       "created_at": "2026-10-17T16:07:21.953162+00:00",
-      "updated_at": "2026-10-17T16:07:21.953162+00:00",
+      "updated_at": "2026-10-17T16:10:57.051583+00:00",
       "content_updated_at": "2026-10-17T16:07:21.953162+00:00",
       "reported_at": "2026-10-13T09:19:45+00:00",
       "prominence": "normal",
@@ -25,6 +292,11 @@
           "url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review",
           "title": "Ace Combat 8: Wings of Theve review – thrill-packed campaign takes this long-running series to new heights",
           "published_at": "2026-10-13T09:19:45+00:00"
+        },
+        {
+          "url": "https://gamecritics.com/ali-arkani/ace-combat-8-wings-of-theve-review/",
+          "title": "Ace Combat 8: Wings Of Theve Review",
+          "published_at": "2026-10-14T13:11:28+00:00"
         }
       ],
       "progress": [
@@ -36,6 +308,15 @@
           "action": "create_event",
           "recorded_at": "2026-10-17T16:07:21.954658+00:00",
           "source_published_at": "2026-10-13T09:19:45+00:00"
+        },
+        {
+          "id": 89,
+          "text": "GameCritics 给出 9.5/10 的评测，认为《Ace Combat 8: Wings of Theve》战役与多人模式整体扎实，云层影响导弹锁定与结冰失速带来战术变化，多人为重做的 Ace Combat Online 含六种模式并可自定义化身与战斗通行证；主要缺点是自动瞄准切换低效、UE5 导致帧时间不稳与卡顿且缺少帧生成技术，难以在 4K 下稳定 60 FPS。评测副本于 PC 游玩，约 21 小时战役、3 小时多人并通关。",
+          "evidence_kind": "review",
+          "source_url": "https://gamecritics.com/ali-arkani/ace-combat-8-wings-of-theve-review/",
+          "action": "attach_source",
+          "recorded_at": "2026-10-17T16:10:57.053916+00:00",
+          "source_published_at": "2026-10-14T13:11:28+00:00"
         }
       ]
     },
