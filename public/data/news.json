@@ -1,7 +1,244 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-17T16:11:46.168587+00:00",
+  "generated_at": "2026-10-17T16:14:20.289867+00:00",
   "events": [
+    {
+      "id": 96,
+      "title": "《火焰纹章：Fortune’s Weave》扩展通行证开售：首波武器、假日季新盟友与 2027 新剧情",
+      "summary": "任天堂与 Intelligent Systems 推出《火焰纹章：Fortune’s Weave》扩展通行证，售价 34.99 美元/29.99 英镑，分三部分推出。第一部分即日起提供可在游戏内使用的多种武器；第二部分今年假日季推出，含角色新服装及 Aurora、Smyrnos、Jurah 三名新盟友；第三部分 2027 年推出，加入新剧情、新盟友与职业等内容。",
+      "topics": [
+        "Nintendo",
+        "Intelligent Systems",
+        "火焰纹章：Fortune’s Weave"
+      ],
+      "kind": "dlc",
+      "created_at": "2026-10-17T16:14:16.561625+00:00",
+      "updated_at": "2026-10-17T16:14:16.561625+00:00",
+      "content_updated_at": "2026-10-17T16:14:16.561625+00:00",
+      "reported_at": "2026-10-15T13:48:43+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
+          "title": "Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it",
+          "published_at": "2026-10-15T13:48:43+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 103,
+          "text": "任天堂与 Intelligent Systems 推出《火焰纹章：Fortune’s Weave》扩展通行证，售价 34.99 美元/29.99 英镑，分三部分推出：第一部分即日起提供可在游戏内使用的武器；第二部分今年假日季推出，含角色新服装及 Aurora、Smyrnos、Jurah 三名新盟友；第三部分 2027 年推出，含新剧情、新盟友与职业等内容。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:14:16.635111+00:00",
+          "source_published_at": "2026-10-15T13:48:43+00:00"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "title": "《Caves of Qud》首个大型 DLC《Diaspora》12 月 9 日 Steam 抢先体验",
+      "summary": "Freehold Games 与 Kitfox Games 公布《Caves of Qud》首个大型 DLC《Diaspora》，2026 年 12 月 9 日以抢先体验形式登陆 Steam，定价 14.99 美元。首发加入可扮演的动物与植物、新真亲族方舟城与种姓、可隔两格攻击的长矛、新生物物品、可骑乘 saltback 与商队、改进的道路河流系统，2027 年还将追加任务线与新人形派系等内容。",
+      "topics": [
+        "Caves of Qud",
+        "Freehold Games",
+        "Kitfox Games",
+        "Steam"
+      ],
+      "kind": "dlc",
+      "created_at": "2026-10-17T16:14:00.340139+00:00",
+      "updated_at": "2026-10-17T16:14:08.526877+00:00",
+      "content_updated_at": "2026-10-17T16:14:00.340139+00:00",
+      "reported_at": "2026-10-15T14:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.rpgsite.net/news/21543-caves-of-qud-dlc-release-date-expansion-diaspora-new-features",
+          "title": "Caves of Qud: Diaspora expansion launches December 9 via early access on Steam",
+          "published_at": "2026-10-15T14:00:00+00:00"
+        },
+        {
+          "url": "https://www.pcgamer.com/games/roguelike/finally-our-favorite-roguelike-for-sickos-will-let-me-play-as-a-sapient-tree/",
+          "title": "Finally: Our favorite roguelike for sickos will let me play as a sapient tree",
+          "published_at": "2026-10-15T14:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 101,
+          "text": "Freehold Games 与 Kitfox Games 公布《Caves of Qud》首个大型 DLC 扩展《Diaspora》，将于 2026 年 12 月 9 日在 Steam 以抢先体验形式推出，定价 14.99 美元；抢先体验首发包含可扮演的动物与植物（狗、猫、蛙、变色龙、藤蔓、树等）、新真亲族方舟城与种姓（Propeller、Starsteer、Man of Kelp、Delphine）、新武器长矛（可隔两格攻击）、新生物与物品、可骑乘的 saltback 与 dromad 商队、改进的道路与河流系统；2027 年还计划加入新任务线、Foxen 与 snailfolk 两个新人形派系及更多生物、物品、生物群系等内容。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.rpgsite.net/news/21543-caves-of-qud-dlc-release-date-expansion-diaspora-new-features",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:14:00.340657+00:00",
+          "source_published_at": "2026-10-15T14:00:00+00:00"
+        },
+        {
+          "id": 102,
+          "text": "PC Gamer 报道，《Caves of Qud》的首个大型扩展《Diaspora》将于 12 月 9 日在 Steam 以抢先体验形式推出；玩家可首次以变异动物或植物（包括树）开局并突变为人形，扩展还会增加新突变、新生物与器物、可骑乘的 saltback 龟以及骆驼人商队内容；抢先体验预计持续约一年，期间将追加多步任务线、新派系与地下村落、季节性大型商队、更多物品、生物、突变种群与真菌感染。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.pcgamer.com/games/roguelike/finally-our-favorite-roguelike-for-sickos-will-let-me-play-as-a-sapient-tree/",
+          "action": "attach_source",
+          "recorded_at": "2026-10-17T16:14:08.527448+00:00",
+          "source_published_at": "2026-10-15T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "title": "生存心理恐怖 FPS《夢廻症》登陆 Steam",
+      "summary": "发行商 Rollover 于 2026 年 10 月 15 日在 Steam 发售由 TPX500 开发的生存心理恐怖 FPS《夢廻症》（PC），支持日语显示并提供试玩版。游戏以分析心理学为核心，玩家在现实扭曲的世界中探索主角被封存的记忆并面对“影”，选择导向不同结局；战斗为资源有限的 FPS 形式，探索中主角精神会逐渐恶化。",
+      "topics": [
+        "Rollover",
+        "TPX500",
+        "夢廻症",
+        "Steam"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-17T16:13:49.869661+00:00",
+      "updated_at": "2026-10-17T16:13:49.869661+00:00",
+      "content_updated_at": "2026-10-17T16:13:49.869661+00:00",
+      "reported_at": "2026-10-15T14:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.4gamer.net/games/050/G105061/20261015049/",
+          "title": "狂気や幻覚に呑まれる前に，封じられた記憶と自らの「影」に向き合う。サバイバルサイコホラー「夢廻症」，本日発売",
+          "published_at": "2026-10-15T14:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 100,
+          "text": "发行商 Rollover 于 2026 年 10 月 15 日在 Steam 发售由 TPX500 开发的生存心理恐怖 FPS《夢廻症》（PC），本作支持日语显示，Steam 商店提供试玩版；游戏以分析心理学为核心，玩家在扭曲世界中探索主角被封存的记忆并面对自己的“影”，选择会导向不同结局，战斗为有限资源的 FPS 形式，探索中主角精神会逐渐恶化。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.4gamer.net/games/050/G105061/20261015049/",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:13:49.870731+00:00",
+          "source_published_at": "2026-10-15T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "title": "育碧提议关闭 RedLynx 并裁减新加坡岗位",
+      "summary": "据 Gamespot 及 VGC、Mediacorp 等报道，育碧提议关闭芬兰《Trials》系列开发商 RedLynx，影响 52 名员工；该关闭仍属提案，需先完成芬兰法律要求的员工协商。育碧声明称育碧新加坡有 70 个岗位受影响（Gamespot 开头写作 72 人，存在出入），该工作室曾主导《Skull and Bones》。育碧另宣布《彩虹六号 Mobile》将于 2027 年 1 月关闭。",
+      "topics": [
+        "Ubisoft",
+        "RedLynx",
+        "Ubisoft Singapore"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-17T16:13:16.475006+00:00",
+      "updated_at": "2026-10-17T16:13:16.475006+00:00",
+      "content_updated_at": "2026-10-17T16:13:16.475006+00:00",
+      "reported_at": "2026-10-15T15:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gamereactor.eu/ubisoft-restructuring-redlynx/",
+          "title": "RedLynx Closure Proposed as Ubisoft Cuts Singapore Staff",
+          "published_at": "2026-10-15T15:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 97,
+          "text": "育碧提议关闭位于芬兰的《Trials》系列开发商 RedLynx，涉及 52 名员工；该关闭仍属提案，尚需按芬兰法律完成员工协商，并非最终决定。同时育碧新加坡有 70 个岗位受到影响（Gamespot 另处写作 72 人，存在出入），育碧还宣布《彩虹六号 Mobile》将于 2027 年 1 月关闭。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.gamereactor.eu/ubisoft-restructuring-redlynx/",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:13:16.476731+00:00",
+          "source_published_at": "2026-10-15T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "title": "DLSS 5 十月更新模型实测：NBA 2K27 性能开销降低但收益有限",
+      "summary": "PC Gamer 在 RTX Spark 笔记本上实测 NBA 2K27 的 DLSS 5 十月更新模型：1440p 下平均帧率由原模型 107 fps 升至 134 fps，但相比关闭 DLSS 5 的 200 fps 仍下降约 33%。Nvidia 称新模型显存占用降低、参数规模缩小；作者认为画质提升主要出现在过场，实际游玩视角收益有限。",
+      "topics": [
+        "Nvidia",
+        "DLSS 5",
+        "NBA 2K27",
+        "Asus ProArt P16",
+        "PC Gamer"
+      ],
+      "kind": "development",
+      "created_at": "2026-10-17T16:13:04.669493+00:00",
+      "updated_at": "2026-10-17T16:13:04.669493+00:00",
+      "content_updated_at": "2026-10-17T16:13:04.669493+00:00",
+      "reported_at": "2026-10-15T15:26:59+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.pcgamer.com/hardware/i-jammed-nvidias-new-dlss-5-october-update-model-into-the-rtx-spark-and-its-25-percent-faster-at-1440p/",
+          "title": "I jammed Nvidia's new DLSS 5 October update model into the RTX Spark and it's 25% faster at 1440p",
+          "published_at": "2026-10-15T15:26:59+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 96,
+          "text": "PC Gamer 在 RTX Spark 笔记本（Asus ProArt P16）上实测 NBA 2K27 使用的 DLSS 5 十月更新模型：1440p High、DLSS Balanced 加 4x 多帧生成下，平均帧率从原模型 107 fps 提升到 134 fps（约 25%），但相比关闭 DLSS 5 的 200 fps 仍有约 33% 性能损失；Nvidia 称新模型显存占用 4K 下降低 20%，模型参数约 1.18 亿、缩小约 24%。作者认为额外光照与色调改进主要见于过场，实际游玩视角收益有限。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.pcgamer.com/hardware/i-jammed-nvidias-new-dlss-5-october-update-model-into-the-rtx-spark-and-its-25-percent-faster-at-1440p/",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:13:04.670482+00:00",
+          "source_published_at": "2026-10-15T15:26:59+00:00"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "title": "《全面战争：幕府将军2 - 完整版》口碑崩塌，Sega 宣布下架并恢复原版",
+      "summary": "《全面战争：幕府将军2 - 完整版》发售后因旧 bug、未解决体验问题及生成式 AI 使用指控遭遇大量差评。Sega 表示当前体验不达标，正与平台方合作将该版本下架并恢复原版销售，同时调查问题；已购玩家仍可访问该版本，但能否回到原版尚未说明。报道时该版本仍在 Steam、GOG 和 Epic 商店在售。",
+      "topics": [
+        "Sega",
+        "Creative Assembly",
+        "Total War: Shogun 2 - Complete Edition",
+        "Steam",
+        "GOG",
+        "Epic Games Store"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-17T16:12:41.581900+00:00",
+      "updated_at": "2026-10-17T16:12:41.581900+00:00",
+      "content_updated_at": "2026-10-17T16:12:41.581900+00:00",
+      "reported_at": "2026-10-15T15:50:41+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/",
+          "title": "The Shogun 2 remaster is so bad, Sega is removing it from sale and bringing back the original",
+          "published_at": "2026-10-15T15:50:41+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 94,
+          "text": "《全面战争：幕府将军2 - 完整版》发售后遭遇大量差评，Sega 表示当前体验不达标，正与平台方合作将该版本下架并恢复原版销售，同时继续调查问题；已购买该版本的玩家仍可访问，但能否回到原版未说明。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/",
+          "action": "create_event",
+          "recorded_at": "2026-10-17T16:12:41.582976+00:00",
+          "source_published_at": "2026-10-15T15:50:41+00:00"
+        }
+      ]
+    },
     {
       "id": 88,
       "title": "Eurogamer 试玩《塞尔达传说 时之笛》Switch 2 重制版：新画风与现代操作获认可，英文配音受批评",
@@ -2774,19 +3011,6 @@
       "platform": "PS5",
       "region": null,
       "source_url": "https://blog.playstation.com/2026/08/11/watch-the-phantom-blade-zero-gameplay-deep-dive-state-of-play-on-august-17-pre-orders-live-today/"
-    },
-    {
-      "id": 6,
-      "event_id": 8,
-      "kind": "release",
-      "date_value": "2026-11-19",
-      "date_precision": "day",
-      "updated_at": "2026-10-04T17:35:31.954692+00:00",
-      "game_name": "Grand Theft Auto VI",
-      "label": "Xbox Series X|S 版发售",
-      "platform": "Xbox Series X|S",
-      "region": null,
-      "source_url": "https://www.xbox.com/en-us/games/grand-theft-auto-vi"
     }
   ],
   "watched_games": [
