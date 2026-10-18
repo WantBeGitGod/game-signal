@@ -1,7 +1,37 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-17T18:18:58",
+  "generated_at": "2026-10-18T18:16:23",
   "games": [
+    {
+      "game": {
+        "slug": "castlevania-belmont-s-curse",
+        "appid": "4231820",
+        "name": "Castlevania: Belmont's Curse",
+        "name_cn": null,
+        "description": "鲜红的诅咒，会是绝望还是希望？ 在悪魔城伝説 (Castlevania Dracula's Curse) 的23年之后，随着年轻的贝尔蒙特在巴黎冒险并成长。 KONAMI × Evil Empire × Motion Twin联手推出最新的探索型2D动作游戏。",
+        "genres": [
+          "动作",
+          "角色扮演"
+        ],
+        "developer": "KONAMI, Evil Empire",
+        "publisher": "KONAMI",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/6b65aec2c398006aea8b76e1463cc34d0e4ba68b/header.jpg?t=1792036946",
+        "product_family_identity": "appid:4231820",
+        "product_family_appid": "4231820",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-10-18"
+      ],
+      "member_appids": [
+        "4231820"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-10-18"
+    },
     {
       "game": {
         "slug": "enshrouded",

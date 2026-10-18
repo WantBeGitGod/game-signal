@@ -1,0 +1,53 @@
+{
+  "slug": "castlevania-belmont-s-curse",
+  "appid": "4231820",
+  "name": "Castlevania: Belmont's Curse",
+  "name_cn": null,
+  "description": "鲜红的诅咒，会是绝望还是希望？ 在悪魔城伝説 (Castlevania Dracula's Curse) 的23年之后，随着年轻的贝尔蒙特在巴黎冒险并成长。 KONAMI × Evil Empire × Motion Twin联手推出最新的探索型2D动作游戏。",
+  "release_date": "2026-10-14",
+  "genres": [
+    "动作",
+    "角色扮演"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "自定义音量控制",
+    "可调整难度",
+    "推荐使用手柄",
+    "可以仅用键盘",
+    "DualSense 控制器支持",
+    "立体声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": "Mostly Positive",
+  "review_ratio": 71.13991612657261,
+  "review_total": 5246,
+  "developer": "KONAMI, Evil Empire",
+  "publisher": "KONAMI",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/6b65aec2c398006aea8b76e1463cc34d0e4ba68b/header.jpg?t=1792036946",
+  "steam_url": "https://store.steampowered.com/app/4231820",
+  "product_family_identity": "appid:4231820",
+  "product_family_appid": "4231820",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-10-15",
+      "peak": 17772
+    },
+    {
+      "date": "2026-10-16",
+      "peak": 17808
+    },
+    {
+      "date": "2026-10-17",
+      "peak": 17510
+    },
+    {
+      "date": "2026-10-18",
+      "peak": 21092
+    }
+  ]
+}
