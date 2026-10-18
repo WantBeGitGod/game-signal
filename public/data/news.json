@@ -1,7 +1,42 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-17T16:19:23.983600+00:00",
+  "generated_at": "2026-10-18T10:12:41.248876+00:00",
   "events": [
+    {
+      "id": 111,
+      "title": "《符文世界：龙之荒野》确认参展核聚变2026北京站",
+      "summary": "《符文世界：龙之荒野》将在核聚变2026北京站设展区，玩家可现场参与小游戏并获取主题周边。展会于2026年10月24日至25日在北京首钢国际会展中心1、3号馆举办，单日票139元、优惠票129元，经哔哩哔哩会员购发售。该作为开放世界生存建造游戏，支持单人探索或好友组队，包含采集建造、技能修习与挑战巨龙等内容。",
+      "topics": [
+        "RuneScape: Dragonwilds",
+        "核聚变2026北京站"
+      ],
+      "kind": "industry_event",
+      "created_at": "2026-10-18T10:12:26.360172+00:00",
+      "updated_at": "2026-10-18T10:12:26.360172+00:00",
+      "content_updated_at": "2026-10-18T10:12:26.360172+00:00",
+      "reported_at": "2026-10-18T06:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gcores.com/articles/221044",
+          "title": "冒险家集结，开启巨龙之地的生存之旅！|《符文世界：龙之荒野》核聚变2026展区介绍",
+          "published_at": "2026-10-18T06:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 119,
+          "text": "《符文世界：龙之荒野》将在核聚变2026北京站设展位，展会于2026年10月24日至25日在北京石景山首钢国际会展中心1、3号馆举行，现场提供游戏试玩小游戏与主题周边，单日票价139元（优惠129元）通过哔哩哔哩会员购售票。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://www.gcores.com/articles/221044",
+          "action": "create_event",
+          "recorded_at": "2026-10-18T10:12:26.360876+00:00",
+          "source_published_at": "2026-10-18T06:00:00+00:00"
+        }
+      ]
+    },
     {
       "id": 110,
       "title": "《Dragon Ball Xenoverse 3》公开 Gogeta 实机演示",
