@@ -1,0 +1,407 @@
+{
+  "schema_version": "2.0.0",
+  "slug": "2026-10-12-week",
+  "issue_number": 21,
+  "week_start": "2026-10-12",
+  "week_end": "2026-10-18",
+  "title": "天上还在打团\n雾里又要盖房",
+  "summary": "10 月 12–18 日，永恒之塔 2 连续五天模型第一，七天没离开前三，以 35 分守住综合第一。《雾锁王国》则在周五进入前二，周末连拿第一，两次摘星让它用三天攒出 20 分，排到第二。动物园新开张，裁缝铺继续营业，WARDOGS 也再摘一星。七天日榜齐全：一边靠整周积累守位，一边在正式版窗口集中起量，两种强势在本期撞到了一起。",
+  "editorial": {
+    "title_lines": [
+      "天上还在打团",
+      "雾里又要盖房"
+    ],
+    "intro": "10 月 12–18 日，永恒之塔 2 连续五天模型第一，七天没离开前三，以 35 分守住综合第一。《雾锁王国》则在周五进入前二，周末连拿第一，两次摘星让它用三天攒出 20 分，排到第二。动物园新开张，裁缝铺继续营业，WARDOGS 也再摘一星。七天日榜齐全：一边靠整周积累守位，一边在正式版窗口集中起量，两种强势在本期撞到了一起。",
+    "features": {
+      "3393110": {
+        "heading": "五天第一之后，翅膀还要往哪里飞",
+        "paragraphs": [
+          "永恒之塔 2 周一到周五都是模型第一，周六第二、周日第三。七天排名贡献 32 分，15 日实际摘星再加 3 分，合计 35 分。它仍是整周最稳定的前排，周末也确实让出了第一；本周只有一次摘星，不能把五次模型第一都算成公开获选。",
+          "选职业、练技能、调装备，再把角色带进副本或阵营交战，长期成长负责接住每次回来的理由。飞行则把高度和接近路线加进战斗判断。喜欢经营同一角色、和队友磨合的人，有机会把一次配合变成下一晚的约定；只想看完一段故事的人，未必愿意持续刷取和协调时间。",
+          "上期问进度不同的朋友能否找到共同目标，本周排名还不能交出答案。15 日日榜保存的峰值为 287,521，同日 31,168 条评价约 59.5% 好评；随后补齐的整期曲线另记录了 12 日凌晨 392,107 的窗口高点。规模与评价分歧并存。接下来我更想看普通队伍怎样选挑战，以及飞行究竟改变了哪一次接敌，而不只看翅膀是否好看。"
+        ]
+      },
+      "1203620": {
+        "heading": "出去冒险的人，回家还得添一面墙",
+        "paragraphs": [
+          "《雾锁王国》16 日第二并摘星，17 日第一再摘星，18 日继续第一，三天拿到 14 分，再加两次摘星的 6 分。前四天未进前五，周末的集中起量仍足以让它排到综合第二。10 月 15 日正式版上线，为这次回到榜面提供了明确的时间节点。",
+          "出门探遗迹、打怪找材料，回家制作装备和扩建村落，再带着新能力走远一点，这条循环很容易让合作生存玩家认路。抓钩、滑翔与可改造的体素地形，让找路和造房子都多了自己的解法；救回幸存者还能解锁配方。爱冒险也爱装修的人可以轮换着忙，只想连续打关卡的人，则要接受采集与整理占去的时间。",
+          "本期曲线从 16 日中午才开始，18 日晚采到 108,845 的窗口高点。17 日日榜决策时保存的 71,139 仍保留原样，两者观察截止不同，不能相互替换。正式版首个周末已经把人带回来，下一步要看队伍离开首轮探索后，还愿意为哪座建筑、哪套配置或哪片遗迹再约一晚。"
+        ]
+      }
+    },
+    "notes": {
+      "3219030": "《动物园之星 2》14、15 日连续第二，随后第三、第四、第四，五天前五加一次摘星，共 18 分排第三。栖息地、游客步道和经营设施得在同一张地图上运转，水生动物与飞鸟又提出不同的空间题。14 日窗口高点 39,878 已出现，首发日榜的评价则仍属褒贬不一；后续要看造景乐趣能否顺畅接到照料与经营。",
+      "4019220": "《针影裁梦》七天都在第三至第五，没有实际摘星，靠持续出现拿到 15 分。上期问新委托能否继续带来创作选择，本期数据只确认它还在榜上：周内观测高点为 12 日的 35,215，18 日为 29,445。裁剪、预览和缝制究竟越来越顺手，还是逐渐变成重复劳动，仍需具体玩家体验来回答。",
+      "1867240": "WARDOGS 四天进入前五，13 日第二并摘星，合计 12 分排第五，周末未进前五。曲线在 16 日凌晨采到 317,428 的周内高点，日榜却没有同步回到第一。三方战线、支援分工与跨局现金能否继续让朋友组队回来，比只解释某一个在线高点更值得追问。"
+    },
+    "next_watch": [
+      "永恒之塔 2 进度不同的朋友会选什么共同挑战，飞行在普通队伍的接敌中具体改变了哪些判断？",
+      "雾锁王国的正式版首个周末之后，玩家继续回来的目标更多落在探索、角色构筑还是共同建造，采集整理又会在哪里打断合作？",
+      "动物园之星 2 的水族馆、鸟舍与游客路线能否顺畅接入日常经营，首发评价里的具体摩擦会怎样变化？"
+    ]
+  },
+  "published_days": [
+    "2026-10-12",
+    "2026-10-13",
+    "2026-10-14",
+    "2026-10-15",
+    "2026-10-16",
+    "2026-10-17",
+    "2026-10-18"
+  ],
+  "status": "published",
+  "published_at": "2026-10-19 13:07:18",
+  "signals": [
+    {
+      "rank": 1,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 35.0,
+      "selection_reason": "AION 2 在 7 个已保存日榜中进入前五 7 天、前二 6 天，实际摘星 1 次，周复选分 35。",
+      "metrics": {
+        "product_family_identity": "appid:3393110",
+        "actual_star_count": 1,
+        "first_place_days": 5,
+        "second_place_days": 1,
+        "top_two_days": 6,
+        "top_five_days": 7,
+        "average_rank": 1.43,
+        "weekly_score": 35,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-10-12",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-13",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-14",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-15",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-10-16",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-17",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-18",
+            "rank": 3,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-10-18"
+      },
+      "chart_status": "ready",
+      "article_selected": true,
+      "article_slug": "aion-2",
+      "chart_path": "/data/charts/2026-10-12-week/3393110.json",
+      "game": {
+        "slug": "aion-2",
+        "appid": "3393110",
+        "name": "AION 2",
+        "description": "《AION 2》！唯一一款以天空为战场的 MMORPG。选择阵营，张开羽翼化身为守护者， 在比初代辽阔 36 倍的宏大世界中展开阵营激战！由虚幻引擎5全力打造，只有PC平台才能享受的游戏体验！",
+        "developer": "NC",
+        "publisher": "NC",
+        "release_date": "2026-10-05",
+        "review_ratio": 58.46878680800942,
+        "review_total": 33960,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393110/10aa4b096ebe6af0d1dd7882e5ba004271aef6f7/header.jpg?t=1791504829",
+        "steam_url": "https://store.steampowered.com/app/3393110",
+        "product_family_identity": "appid:3393110",
+        "product_family_appid": "3393110",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 2,
+      "signal_type": "release_event_rise",
+      "label": "发行节点起量",
+      "score": 20.0,
+      "selection_reason": "Enshrouded 在 7 个已保存日榜中进入前五 3 天、前二 3 天，实际摘星 2 次，周复选分 20。",
+      "metrics": {
+        "product_family_identity": "appid:1203620",
+        "actual_star_count": 2,
+        "first_place_days": 2,
+        "second_place_days": 1,
+        "top_two_days": 3,
+        "top_five_days": 3,
+        "average_rank": 1.33,
+        "weekly_score": 20,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-10-16",
+            "rank": 2,
+            "actual_star": true
+          },
+          {
+            "date": "2026-10-17",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-10-18",
+            "rank": 1,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-10-18"
+      },
+      "chart_status": "ready",
+      "article_selected": true,
+      "article_slug": "enshrouded",
+      "chart_path": "/data/charts/2026-10-12-week/1203620.json",
+      "game": {
+        "slug": "enshrouded",
+        "appid": "1203620",
+        "name": "Enshrouded",
+        "description": "《雾锁王国》是一款单人/合作生存动作RPG，在这里，你的自由与创造力将被摆在第一位。竭尽全力战胜蚕食薪谷王国的腐化瘴气：探索手工打造的瑰丽世界，揭开隐藏的秘密并披荆斩棘开辟道路，在完全支持地形改造的世界中尽情建造。",
+        "developer": "Keen Games GmbH",
+        "publisher": "Keen Games GmbH",
+        "release_date": "2026-10-15",
+        "review_ratio": 85.88479262672811,
+        "review_total": 108500,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
+        "steam_url": "https://store.steampowered.com/app/1203620",
+        "product_family_identity": "appid:1203620",
+        "product_family_appid": "1203620",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 3,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 18.0,
+      "selection_reason": "Planet Zoo 2 在 7 个已保存日榜中进入前五 5 天、前二 2 天，实际摘星 1 次，周复选分 18。",
+      "metrics": {
+        "product_family_identity": "appid:3219030",
+        "actual_star_count": 1,
+        "first_place_days": 0,
+        "second_place_days": 2,
+        "top_two_days": 2,
+        "top_five_days": 5,
+        "average_rank": 3.0,
+        "weekly_score": 18,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-10-14",
+            "rank": 2,
+            "actual_star": true
+          },
+          {
+            "date": "2026-10-15",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-16",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-17",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-18",
+            "rank": 4,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-10-18"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-10-12-week/3219030.json",
+      "game": {
+        "slug": "planet-zoo-2",
+        "appid": "3219030",
+        "name": "Planet Zoo 2",
+        "description": "投身《动物园之星 2》，打造野趣盎然的世界。建造环球特色动物园，守护自然生灵百态，保育陆生、水生与飞行物种，更能跳出园区边界，将动物放归广袤的野生动物保护区。",
+        "developer": "Frontier Developments",
+        "publisher": "Frontier Developments",
+        "release_date": "2026-10-13",
+        "review_ratio": 64.02467963929757,
+        "review_total": 4214,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/fbb25f7da79e75dc595a72534a53ac02bbec854f/header_schinese.jpg?t=1791984269",
+        "steam_url": "https://store.steampowered.com/app/3219030",
+        "product_family_identity": "appid:3219030",
+        "product_family_appid": "3219030",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "new_release_rise",
+      "label": "新作起量",
+      "score": 15.0,
+      "selection_reason": "Dressmaker 在 7 个已保存日榜中进入前五 7 天、前二 0 天，实际摘星 0 次，周复选分 15。",
+      "metrics": {
+        "product_family_identity": "appid:4019220",
+        "actual_star_count": 0,
+        "first_place_days": 0,
+        "second_place_days": 0,
+        "top_two_days": 0,
+        "top_five_days": 7,
+        "average_rank": 3.86,
+        "weekly_score": 15,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-10-12",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-13",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-14",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-15",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-16",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-17",
+            "rank": 5,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-18",
+            "rank": 5,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-10-18"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-10-12-week/4019220.json",
+      "game": {
+        "slug": "dressmaker",
+        "appid": "4019220",
+        "name": "Dressmaker",
+        "description": "在《针影裁梦》的世界，成为一名裁缝吧！选择布料、裁剪制版、缝制各类服装，来满足（或恶搞！）小镇居民。这款温馨的裁缝模拟游戏，灵感源自真实的服装制作工艺。",
+        "developer": "Cozy Lives",
+        "publisher": "Free Lives",
+        "release_date": "2026-09-21",
+        "review_ratio": 98.55945994816466,
+        "review_total": 16591,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/5e595cd60fb58b5d312be21ba4aa03d4a0131547/header_schinese.jpg?t=1792150938",
+        "steam_url": "https://store.steampowered.com/app/4019220",
+        "product_family_identity": "appid:4019220",
+        "product_family_appid": "4019220",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "established_release_rise",
+      "label": "老游起量",
+      "score": 12.0,
+      "selection_reason": "WARDOGS 在 7 个已保存日榜中进入前五 4 天、前二 1 天，实际摘星 1 次，周复选分 12。",
+      "metrics": {
+        "product_family_identity": "appid:1867240",
+        "actual_star_count": 1,
+        "first_place_days": 0,
+        "second_place_days": 1,
+        "top_two_days": 1,
+        "top_five_days": 4,
+        "average_rank": 3.75,
+        "weekly_score": 12,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-10-12",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-13",
+            "rank": 2,
+            "actual_star": true
+          },
+          {
+            "date": "2026-10-15",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-10-16",
+            "rank": 5,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-10-16"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-10-12-week/1867240.json",
+      "game": {
+        "slug": "wardogs",
+        "appid": "1867240",
+        "name": "WARDOGS",
+        "description": "《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。",
+        "developer": "BULKHEAD",
+        "publisher": "Team17",
+        "release_date": "2026-09-10",
+        "review_ratio": 71.87139930866726,
+        "review_total": 124976,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/c24972c6aeeb826a72a86fd8616c3a33d49e4b4f/header_alt_assets_0_schinese.jpg?t=1791928607",
+        "steam_url": "https://store.steampowered.com/app/1867240",
+        "product_family_identity": "appid:1867240",
+        "product_family_appid": "1867240",
+        "product_family_role": "full"
+      }
+    }
+  ]
+}
