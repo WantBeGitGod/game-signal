@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-19T18:18:08",
+  "generated_at": "2026-10-19T20:43:00",
   "games": [
     {
       "game": {
@@ -85,9 +85,11 @@
         "product_family_appid": "1203620",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "enshrouded"
+      ],
+      "article_title": "雾锁王国-出门拯救世界，回家还得添一面墙",
+      "article_published_at": "2026-10-19",
       "star_dates": [
         "2026-10-17",
         "2026-10-16"
@@ -95,7 +97,7 @@
       "member_appids": [
         "1203620"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-10-17"
     },
     {
