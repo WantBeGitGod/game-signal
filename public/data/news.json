@@ -1,7 +1,114 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-18T10:12:41.248876+00:00",
+  "generated_at": "2026-10-19T10:12:42.831663+00:00",
   "events": [
+    {
+      "id": 116,
+      "title": "高难度 Boss 战特化 2D 射击动作《メメメメ》Steam 体验版上线",
+      "summary": "个人开发者もどき正在开发的《メメメメ》已在 Steam 提供体验版。该作为高难度 2D 射击动作游戏，没有探索要素与杂兵战，主打与 Boss 的直接战斗。",
+      "topics": [
+        "もどき",
+        "メメメメ",
+        "Steam"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-19T10:12:29.974120+00:00",
+      "updated_at": "2026-10-19T10:12:29.974120+00:00",
+      "content_updated_at": "2026-10-19T10:12:29.974120+00:00",
+      "reported_at": "2026-10-19T09:01:38+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.4gamer.net/games/956/G095675/20261019030/",
+          "title": "探索要素もザコ戦もなく，ボスとの戦闘に特化した高難度2Dシューティングアクション「メメメメ」，体験版配信中",
+          "published_at": "2026-10-19T09:01:38+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 124,
+          "text": "个人开发者もどき正在开发的以 Boss 战为核心、无探索与杂兵战的高难度 2D 射击动作游戏《メメメメ》已在 Steam 放出体验版。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.4gamer.net/games/956/G095675/20261019030/",
+          "action": "create_event",
+          "recorded_at": "2026-10-19T10:12:29.974664+00:00",
+          "source_published_at": "2026-10-19T09:01:38+00:00"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "title": "任天堂承认低估塞尔达 40 周年纪念版 Switch 2 需求，正在补货",
+      "summary": "任天堂拉丁美洲副总裁兼总经理 Bill van Zyll 在接受 Coelho no Japão 采访时承认，公司低估了塞尔达传说 40 周年纪念版 Switch 2 主机的受欢迎程度，该主机开售后迅速售罄，并在多个市场出现缺货。他表示这是全球现象，美国表现“非常出色”、巴西预售达到上限，并称任天堂正在补货特别版硬件与软件，但需要一些时间，请玩家耐心等待。",
+      "topics": [
+        "Nintendo",
+        "Bill van Zyll",
+        "塞尔达传说 40 周年纪念版 Switch 2"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-19T10:11:58.227115+00:00",
+      "updated_at": "2026-10-19T10:11:58.227115+00:00",
+      "content_updated_at": "2026-10-19T10:11:58.227115+00:00",
+      "reported_at": "2026-10-19T09:49:38+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gamesradar.com/games/the-legend-of-zelda/nintendo-underestimated-how-well-its-zelda-40th-anniversary-edition-switch-2-would-sell-exec-admits-but-restocks-are-coming-please-be-patient/",
+          "title": "Nintendo \"underestimated\" how well Zelda 40th Anniversary Edition Switch 2 would sell, exec admits",
+          "published_at": "2026-10-19T09:49:38+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 122,
+          "text": "任天堂拉丁美洲副总裁兼总经理 Bill van Zyll 在接受 Coelho no Japão 采访时承认，公司低估了塞尔达传说 40 周年纪念版 Switch 2 主机的受欢迎程度，它上市后立刻售罄并以“全球现象”的方式在各地缺货；任天堂正在补货特别版硬件和软件，但需要一些时间，并请求玩家耐心。他提到美国销量“非常出色”，巴西的预售也达到上限。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.gamesradar.com/games/the-legend-of-zelda/nintendo-underestimated-how-well-its-zelda-40th-anniversary-edition-switch-2-would-sell-exec-admits-but-restocks-are-coming-please-be-patient/",
+          "action": "create_event",
+          "recorded_at": "2026-10-19T10:11:58.228105+00:00",
+          "source_published_at": "2026-10-19T09:49:38+00:00"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "title": "Bloober Team 称愿在条件允许下继续推出实体版游戏",
+      "summary": "Bloober Team CEO Piotr Babieno 向 GamesRadar+ 表示，只要能够生产，工作室希望尽可能长久地为自家游戏推出实体零售版。他承认数字发行更容易、成本更低且利润更高，但认为收藏游戏让玩家与开发团队建立情感联系。该说法是有条件的偏好，并非每款未来作品都将发行盒装版的保证，能否实现取决于实体版的生产能力。PlayStation 已承诺 2028 年前停止光盘生产，相关讨论在此背景下出现。",
+      "topics": [
+        "Bloober Team",
+        "Piotr Babieno"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-19T10:11:45.634063+00:00",
+      "updated_at": "2026-10-19T10:11:45.634063+00:00",
+      "content_updated_at": "2026-10-19T10:11:45.634063+00:00",
+      "reported_at": "2026-10-19T10:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gamereactor.eu/physical-games-bloober/",
+          "title": "Bloober Team backs physical games, if production allows",
+          "published_at": "2026-10-19T10:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 120,
+          "text": "Bloober Team CEO Piotr Babieno 向 GamesRadar+ 表示，只要具备生产能力，团队希望尽可能长久地继续为自家游戏推出实体零售版；他承认数字发行更简单、更便宜、利润更高，但认为收藏游戏能建立玩家与开发团队之间的情感联系。该表态附有条件，并不保证未来每款作品都有盒装版。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.gamereactor.eu/physical-games-bloober/",
+          "action": "create_event",
+          "recorded_at": "2026-10-19T10:11:45.635143+00:00",
+          "source_published_at": "2026-10-19T10:00:00+00:00"
+        }
+      ]
+    },
     {
       "id": 111,
       "title": "《符文世界：龙之荒野》确认参展核聚变2026北京站",
