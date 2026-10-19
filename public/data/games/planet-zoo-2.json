@@ -30,11 +30,11 @@
     "家庭共享"
   ],
   "review_score": "Mixed",
-  "review_ratio": 69.19866444073456,
-  "review_total": 1198,
+  "review_ratio": 62.63526416295353,
+  "review_total": 4713,
   "developer": "Frontier Developments",
   "publisher": "Frontier Developments",
-  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/fbb25f7da79e75dc595a72534a53ac02bbec854f/header_schinese.jpg?t=1791912652",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/fbb25f7da79e75dc595a72534a53ac02bbec854f/header_schinese.jpg?t=1791984269",
   "steam_url": "https://store.steampowered.com/app/3219030",
   "product_family_identity": "appid:3219030",
   "product_family_appid": "3219030",
@@ -43,6 +43,26 @@
     {
       "date": "2026-10-14",
       "peak": 39878
+    },
+    {
+      "date": "2026-10-15",
+      "peak": 34319
+    },
+    {
+      "date": "2026-10-16",
+      "peak": 32879
+    },
+    {
+      "date": "2026-10-17",
+      "peak": 31578
+    },
+    {
+      "date": "2026-10-18",
+      "peak": 34494
+    },
+    {
+      "date": "2026-10-19",
+      "peak": 37775
     }
   ]
 }

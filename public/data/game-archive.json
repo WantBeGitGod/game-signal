@@ -1,7 +1,40 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-18T23:42:32",
+  "generated_at": "2026-10-19T18:18:08",
   "games": [
+    {
+      "game": {
+        "slug": "planet-zoo-2",
+        "appid": "3219030",
+        "name": "Planet Zoo 2",
+        "name_cn": null,
+        "description": "投身《动物园之星 2》，打造野趣盎然的世界。建造环球特色动物园，守护自然生灵百态，保育陆生、水生与飞行物种，更能跳出园区边界，将动物放归广袤的野生动物保护区。",
+        "genres": [
+          "模拟",
+          "策略"
+        ],
+        "developer": "Frontier Developments",
+        "publisher": "Frontier Developments",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/fbb25f7da79e75dc595a72534a53ac02bbec854f/header_schinese.jpg?t=1791984269",
+        "product_family_identity": "appid:3219030",
+        "product_family_appid": "3219030",
+        "product_family_role": "full"
+      },
+      "article_slugs": [
+        "planet-zoo-2"
+      ],
+      "article_title": "动物园之星2-海陆空齐了，园长的作业更多了",
+      "article_published_at": "2026-10-14",
+      "star_dates": [
+        "2026-10-19",
+        "2026-10-14"
+      ],
+      "member_appids": [
+        "3219030"
+      ],
+      "article_count": 1,
+      "latest_star_date": "2026-10-19"
+    },
     {
       "game": {
         "slug": "castlevania-belmont-s-curse",
@@ -101,38 +134,6 @@
       ],
       "article_count": 1,
       "latest_star_date": "2026-10-15"
-    },
-    {
-      "game": {
-        "slug": "planet-zoo-2",
-        "appid": "3219030",
-        "name": "Planet Zoo 2",
-        "name_cn": null,
-        "description": "投身《动物园之星 2》，打造野趣盎然的世界。建造环球特色动物园，守护自然生灵百态，保育陆生、水生与飞行物种，更能跳出园区边界，将动物放归广袤的野生动物保护区。",
-        "genres": [
-          "模拟",
-          "策略"
-        ],
-        "developer": "Frontier Developments",
-        "publisher": "Frontier Developments",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3219030/fbb25f7da79e75dc595a72534a53ac02bbec854f/header_schinese.jpg?t=1791912652",
-        "product_family_identity": "appid:3219030",
-        "product_family_appid": "3219030",
-        "product_family_role": "full"
-      },
-      "article_slugs": [
-        "planet-zoo-2"
-      ],
-      "article_title": "动物园之星2-海陆空齐了，园长的作业更多了",
-      "article_published_at": "2026-10-14",
-      "star_dates": [
-        "2026-10-14"
-      ],
-      "member_appids": [
-        "3219030"
-      ],
-      "article_count": 1,
-      "latest_star_date": "2026-10-14"
     },
     {
       "game": {
