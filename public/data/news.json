@@ -1,7 +1,163 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-19T10:12:42.831663+00:00",
+  "generated_at": "2026-10-20T10:41:12.103955+00:00",
   "events": [
+    {
+      "id": 122,
+      "title": "开放世界狩猎模拟《Hunting Simulator 3》Steam 试玩版上线",
+      "summary": "Nacon 配合 Steam Next Fest，于2026年10月20日发布开发中的开放世界狩猎模拟游戏《Hunting Simulator 3》的试玩版。玩家可在多样环境中探索并狩猎野生动物。",
+      "topics": [
+        "Nacon",
+        "Hunting Simulator 3",
+        "Steam"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-20T10:41:00.651520+00:00",
+      "updated_at": "2026-10-20T10:41:00.651520+00:00",
+      "content_updated_at": "2026-10-20T10:41:00.651520+00:00",
+      "reported_at": "2026-10-20T10:03:03+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.4gamer.net/games/860/G086099/20261020038/",
+          "title": "広大なオープンワールドで狩りを楽しむ「Hunting Simulator 3」，デモ版を本日リリース",
+          "published_at": "2026-10-20T10:03:03+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 131,
+          "text": "Nacon 配合 Steam Next Fest，于2026年10月20日发布开放世界狩猎模拟游戏《Hunting Simulator 3》的试玩版。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.4gamer.net/games/860/G086099/20261020038/",
+          "action": "create_event",
+          "recorded_at": "2026-10-20T10:41:00.652223+00:00",
+          "source_published_at": "2026-10-20T10:03:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "title": "《ACE COMBAT 8》Ver.1.01.002 更新将于10月23日修复“无限闪光弹”",
+      "summary": "万代南梦宫娱乐宣布，飞行射击游戏《ACE COMBAT 8: WINGS OF THEVE》的更新数据 Ver.1.01.002 将于10月23日推送，主要修正“影22部队”的“无限闪光弹”问题。游戏登陆 PS5、Xbox Series X|S 与 PC。",
+      "topics": [
+        "ACE COMBAT 8: WINGS OF THEVE",
+        "Bandai Namco Entertainment"
+      ],
+      "kind": "development",
+      "created_at": "2026-10-20T10:40:45.009455+00:00",
+      "updated_at": "2026-10-20T10:40:45.009455+00:00",
+      "content_updated_at": "2026-10-20T10:40:45.009455+00:00",
+      "reported_at": "2026-10-20T10:11:10+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://game.watch.impress.co.jp/docs/news/2149774.html",
+          "title": "「エスコン8」影22部隊の“無限フレア”が修正へ。アップデートが10月23日に配信",
+          "published_at": "2026-10-20T10:11:10+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 127,
+          "text": "万代南梦宫娱乐宣布，《ACE COMBAT 8: WINGS OF THEVE》的更新数据“Ver.1.01.002”将于10月23日推送，修正“影22部队”的“无限闪光弹”问题；该作登陆PS5、Xbox Series X|S与PC。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://game.watch.impress.co.jp/docs/news/2149774.html",
+          "action": "create_event",
+          "recorded_at": "2026-10-20T10:40:45.010026+00:00",
+          "source_published_at": "2026-10-20T10:11:10+00:00"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "title": "《赛博朋克2077》10月22日推出更新2.5，加入《边缘行者2》要素",
+      "summary": "CD PROJEKT RED于10月20日宣布，《赛博朋克2077》将于10月22日推出“更新2.5”，实装《赛博朋克：边缘行者2》相关要素，并追加新物品与新内容。具体改动细节以官方说明为准。",
+      "topics": [
+        "CD PROJEKT RED",
+        "Cyberpunk 2077"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-20T10:40:32.398045+00:00",
+      "updated_at": "2026-10-20T10:40:51.589297+00:00",
+      "content_updated_at": "2026-10-20T10:40:32.398045+00:00",
+      "reported_at": "2026-10-20T10:29:09+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://automaton-media.com/articles/newsjp/20261020-474531/",
+          "title": "『サイバーパンク2077』なんとまたアプデ決定、「エッジランナーズ2」要素実装へ。新アイテムに新コンテンツも、10月22日に来る",
+          "published_at": "2026-10-20T10:29:09+00:00"
+        },
+        {
+          "url": "https://www.gameswelt.de/cyberpunk-2077/news/uodate-2-5-zur-premiere-von-edgerunners-season-2-335237",
+          "title": "Cyberpunk 2077 - Uodate 2.5 zur Premiere von Edgerunners Season 2",
+          "published_at": "2026-10-20T10:06:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 126,
+          "text": "CD PROJEKT RED于10月20日宣布，《赛博朋克2077》将于10月22日推出“更新2.5”，加入《赛博朋克：边缘行者2》相关要素、新物品与新内容。",
+          "evidence_kind": "syndication",
+          "source_url": "https://automaton-media.com/articles/newsjp/20261020-474531/",
+          "action": "create_event",
+          "recorded_at": "2026-10-20T10:40:32.398530+00:00",
+          "source_published_at": "2026-10-20T10:29:09+00:00"
+        },
+        {
+          "id": 129,
+          "text": "《赛博朋克：边缘行者》第二季全部十集已在 Netflix 上线，CD PROJEKT RED 同期预告《赛博朋克2077》更新 2.5。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.gameswelt.de/cyberpunk-2077/news/uodate-2-5-zur-premiere-von-edgerunners-season-2-335237",
+          "action": "attach_source",
+          "recorded_at": "2026-10-20T10:40:51.589850+00:00",
+          "source_published_at": "2026-10-20T10:06:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "title": "《Subnautica 2》公布“Early access 2.0”更新，新增首个大型恐怖区域并调整玩法",
+      "summary": "Unknown Worlds 创意总监 Anthony Gallegos 在开发者视频日志中宣布，《Subnautica 2》将迎来被称为“Early access 2.0”的更新，官方称其为游戏进入抢先体验以来“最重大的更新”。内容包含一个全新可玩区域与其中多个新生物群系，Gallegos 称这是“我们做过最恐怖的区域之一”，环境黑暗、充满威胁又兼具美感；同时加入大量新故事要素和新生物，并调整 Collector Leviathan 的行为，使其“比以往更可怕”。此外还将加入新道具与生物模组，冲刺改为随鳍自带而非占用生物模组槽位，Tadpole 新增名为 frog chassis 的底盘。",
+      "topics": [
+        "Subnautica 2",
+        "Unknown Worlds",
+        "Anthony Gallegos"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-20T10:40:27.285291+00:00",
+      "updated_at": "2026-10-20T10:40:27.285291+00:00",
+      "content_updated_at": "2026-10-20T10:40:27.285291+00:00",
+      "reported_at": "2026-10-20T10:32:58+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-is-heading-for-early-access-2-0-which-brings-one-of-our-scariest-regions-weve-ever-done/",
+          "title": "Subnautica 2 is heading for 'Early access 2.0,' which brings 'one of our scariest regions we've ever done'",
+          "published_at": "2026-10-20T10:32:58+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 125,
+          "text": "Unknown Worlds 创意总监 Anthony Gallegos 在视频日志中宣布，《Subnautica 2》将进入“Early access 2.0”阶段，Update 包含一个全新可玩区域与多个新生物群系、大量新故事要素、新生物、新道具、新生物模组，调整 Collector Leviathan 行为使其“更可怕”，新增 Tadpole 的 frog chassis，并将冲刺改为随鳍自带功能而非生物模组。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.pcgamer.com/games/survival-crafting/subnautica-2-is-heading-for-early-access-2-0-which-brings-one-of-our-scariest-regions-weve-ever-done/",
+          "action": "create_event",
+          "recorded_at": "2026-10-20T10:40:27.285797+00:00",
+          "source_published_at": "2026-10-20T10:32:58+00:00"
+        }
+      ]
+    },
     {
       "id": 116,
       "title": "高难度 Boss 战特化 2D 射击动作《メメメメ》Steam 体验版上线",
@@ -595,7 +751,7 @@
       "created_at": "2026-10-17T16:07:21.953162+00:00",
       "updated_at": "2026-10-17T16:14:29.982498+00:00",
       "content_updated_at": "2026-10-17T16:14:29.982498+00:00",
-      "reported_at": "2026-10-13T09:19:45+00:00",
+      "reported_at": null,
       "prominence": "normal",
       "recommendation": "",
       "corrections": [
@@ -609,11 +765,6 @@
           "url": "https://gamecritics.com/ali-arkani/ace-combat-8-wings-of-theve-review/",
           "title": "Ace Combat 8: Wings Of Theve Review",
           "published_at": "2026-10-14T13:11:28+00:00"
-        },
-        {
-          "url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review",
-          "title": "Ace Combat 8: Wings of Theve review – thrill-packed campaign takes this long-running series to new heights",
-          "published_at": "2026-10-13T09:19:45+00:00"
         }
       ],
       "progress": [
@@ -625,15 +776,6 @@
           "action": "attach_source",
           "recorded_at": "2026-10-17T16:10:57.053916+00:00",
           "source_published_at": "2026-10-14T13:11:28+00:00"
-        },
-        {
-          "id": 104,
-          "text": "Eurogamer 评测《Ace Combat 8: Wings of Theve》，认为其战役紧张刺激，把系列推到新高度：30 个任务多数像好莱坞暑期档大片式场面，云层既是视觉奇观也是影响导弹锁定与战术的要素；缺点是部分任务冗长、剧情不均衡、个别护送与强制潜行关卡拖后腿，长时间游玩易疲惫，但多人模式（含两个 PvPvE 模式与四人/八人特殊任务）提供了可重复的战役级快感。 Eurogamer 的原始评测评分为 4/5。",
-          "evidence_kind": "review",
-          "source_url": "https://www.eurogamer.net/ace-combat-8-wings-of-theve-review",
-          "action": "update_event",
-          "recorded_at": "2026-10-17T16:14:29.744593+00:00",
-          "source_published_at": "2026-10-13T09:19:45+00:00"
         }
       ]
     },
