@@ -28,11 +28,11 @@
     "家庭共享"
   ],
   "review_score": "Very Positive",
-  "review_ratio": 82.0,
-  "review_total": 18193,
+  "review_ratio": 83.96362978376911,
+  "review_total": 22106,
   "developer": "Bandai Namco Aces Inc.",
   "publisher": "Bandai Namco Entertainment Inc.",
-  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1791286652",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1792128424",
   "steam_url": "https://store.steampowered.com/app/2288340",
   "product_family_identity": "appid:2288340",
   "product_family_appid": "2288340",
@@ -45,6 +45,74 @@
     {
       "date": "2026-10-03",
       "peak": 48743
+    },
+    {
+      "date": "2026-10-04",
+      "peak": 40186
+    },
+    {
+      "date": "2026-10-05",
+      "peak": 48863
+    },
+    {
+      "date": "2026-10-06",
+      "peak": 37757
+    },
+    {
+      "date": "2026-10-07",
+      "peak": 34758
+    },
+    {
+      "date": "2026-10-08",
+      "peak": 31824
+    },
+    {
+      "date": "2026-10-09",
+      "peak": 29559
+    },
+    {
+      "date": "2026-10-10",
+      "peak": 28444
+    },
+    {
+      "date": "2026-10-11",
+      "peak": 31040
+    },
+    {
+      "date": "2026-10-12",
+      "peak": 29681
+    },
+    {
+      "date": "2026-10-13",
+      "peak": 24474
+    },
+    {
+      "date": "2026-10-14",
+      "peak": 21788
+    },
+    {
+      "date": "2026-10-15",
+      "peak": 20356
+    },
+    {
+      "date": "2026-10-16",
+      "peak": 17798
+    },
+    {
+      "date": "2026-10-17",
+      "peak": 18533
+    },
+    {
+      "date": "2026-10-18",
+      "peak": 20916
+    },
+    {
+      "date": "2026-10-19",
+      "peak": 19498
+    },
+    {
+      "date": "2026-10-20",
+      "peak": 15325
     }
   ]
 }

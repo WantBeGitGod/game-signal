@@ -1,0 +1,773 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-10-20",
+  "title": "10.20 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 15.24,
+    "fact_summary": "ACE COMBAT 8: WINGS OF THEVE 今日观测峰值 15,325，未超过过往最高峰值 48,863，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-01",
+      "current_release_date": "2026-10-01",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-20 18:00:42",
+      "current_peak": 15325,
+      "previous_peak": 48863,
+      "previous_record_peak": 48863,
+      "growth_rate": -0.6864,
+      "record_growth_rate": -0.6864,
+      "scoring_peak": 15325,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 13.79,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 3.8201,
+      "growth_scale_crossing_component": 0.0532,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 13.79,
+      "event_adjusted_score": 13.79,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.3,
+      "review_adjusted_score": 17.93,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "very_positive",
+      "review_observation_date": "2026-10-20",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.105,
+      "base_score": 15.24,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_1x"
+      ],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 1,
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 83.96362978376911,
+      "review_total": 22106,
+      "days_seen": 19,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 19,
+      "steam_release_age_days": 19,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 6871,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-01",
+      "release_event_age_days": 19,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 6871,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 7,
+      "trend": [
+        {
+          "date": "2026-10-02",
+          "peak": 34345
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 48743
+        },
+        {
+          "date": "2026-10-04",
+          "peak": 40186
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 48863
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 37757
+        },
+        {
+          "date": "2026-10-07",
+          "peak": 34758
+        },
+        {
+          "date": "2026-10-08",
+          "peak": 31824
+        },
+        {
+          "date": "2026-10-09",
+          "peak": 29559
+        },
+        {
+          "date": "2026-10-10",
+          "peak": 28444
+        },
+        {
+          "date": "2026-10-11",
+          "peak": 31040
+        },
+        {
+          "date": "2026-10-12",
+          "peak": 29681
+        },
+        {
+          "date": "2026-10-13",
+          "peak": 24474
+        },
+        {
+          "date": "2026-10-14",
+          "peak": 21788
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 20356
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 17798
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 18533
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 20916
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 19498
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 15325
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2288340"
+      }
+    ],
+    "game": {
+      "slug": "ace-combat-8-wings-of-theve",
+      "appid": "2288340",
+      "name": "ACE COMBAT 8: WINGS OF THEVE",
+      "name_cn": null,
+      "description": "享受在空中自由自在翱翔的爽快感，依据自身判断将敌人接二连三击坠破的快感，打破艰难局面化成为英雄成就感的戏剧性飞行射击游戏。最高峰的天空‧大自然‧都市画面以及强大带入感的剧场表现，让玩家体验真正的王牌驾驶员故事。",
+      "release_date": "2026-10-01",
+      "genres": [
+        "动作"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "跨平台多人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "应用内购买",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 云",
+        "可用 HDR",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 83.96362978376911,
+      "review_total": 22106,
+      "developer": "Bandai Namco Aces Inc.",
+      "publisher": "Bandai Namco Entertainment Inc.",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1792128424",
+      "steam_url": "https://store.steampowered.com/app/2288340",
+      "product_family_identity": "appid:2288340",
+      "product_family_appid": "2288340",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-02",
+          "peak": 34345
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 48743
+        },
+        {
+          "date": "2026-10-04",
+          "peak": 40186
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 48863
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 37757
+        },
+        {
+          "date": "2026-10-07",
+          "peak": 34758
+        },
+        {
+          "date": "2026-10-08",
+          "peak": 31824
+        },
+        {
+          "date": "2026-10-09",
+          "peak": 29559
+        },
+        {
+          "date": "2026-10-10",
+          "peak": 28444
+        },
+        {
+          "date": "2026-10-11",
+          "peak": 31040
+        },
+        {
+          "date": "2026-10-12",
+          "peak": 29681
+        },
+        {
+          "date": "2026-10-13",
+          "peak": 24474
+        },
+        {
+          "date": "2026-10-14",
+          "peak": 21788
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 20356
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 17798
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 18533
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 20916
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 19498
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 15325
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《空战奇兵8 希孚之翼》是一款任务制飞行射击游戏。你驾驶战斗机穿过云层、追逐敌机，在一次次出击中推进王牌飞行员与队友的故事。",
+      "reference_frame": "可以先按街机空战来理解：把飞机带到能攻击的位置，再用武器解决目标。你要同时顾着航向、敌人的位置和任务要求，追着一架飞机跑，可能就会错过另一边的威胁。战役用云海、无线电与过场串起这些交战。",
+      "for_players": "适合喜欢战斗机和大场面，愿意练习三维追踪、享受一次漂亮接敌的玩家。想边打任务边看战争故事，也有明确的推进目标。",
+      "not_for_players": "快速转向和三维移动容易让你眩晕的话，先留意这份操作负担；偏爱复杂仪表和严谨飞行程序的人，也要接受这里的街机节奏。",
+      "star_reason": "10月20日本地观测峰值15,325，低于此前48,863的纪录；22,106条可靠评价约84%好评，为特别好评。它通过首发与重复观察后第二次摘星。今天值得看的，是发售后的持续出击热度，后续仍要观察。",
+      "core_loop": [
+        "进入任务，找出需要优先处理的目标，驾驶战机接近战场。",
+        "转向、追踪、调整攻击位置，用武器击破敌机或地面兵器。",
+        "完成本次目标，继续推进战役；想和别人一起飞，也能进入线上合作任务。"
+      ],
+      "content_length": 450
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-20T10:53:09+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 3,
+          "inspected_count": 20,
+          "top_views": 264122,
+          "search_url": "https://www.youtube.com/results?search_query=ACE%20COMBAT%208%3A%20WINGS%20OF%20THEVE",
+          "sources": [
+            {
+              "title": "Ace Combat 8: Wings of Theve Review",
+              "url": "https://www.youtube.com/watch?v=Ov41LU0jVyY",
+              "published_on": "2026-10-13"
+            },
+            {
+              "title": "【空戰奇兵8 : 希孚之翼】值得買嗎? | 伏Game評 | Ace Combat 8: Wings of Theve",
+              "url": "https://www.youtube.com/watch?v=ipLxua02qXg",
+              "published_on": "2026-10-20"
+            },
+            {
+              "title": "【ACE COMBAT 8: WINGS OF THEVE】I'm winging it",
+              "url": "https://www.youtube.com/watch?v=Dt5OHkR6Tok",
+              "published_on": "2026-10-19"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 0,
+          "inspected_count": 30,
+          "top_views": null,
+          "search_url": "https://search.bilibili.com/all?keyword=ACE%20COMBAT%208%3A%20WINGS%20OF%20THEVE",
+          "sources": []
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 7。",
+    "selection_context": {
+      "model_rank": 7,
+      "leader": {
+        "name": "Enshrouded",
+        "appid": "1203620",
+        "score": 39.0,
+        "reason": "处于摘星冷却期，至 2026-10-24 结束；过去 30 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/1203620/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 15.24,
+    "fact_summary": "ACE COMBAT 8: WINGS OF THEVE 今日观测峰值 15,325，未超过过往最高峰值 48,863，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-01",
+      "current_release_date": "2026-10-01",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-20 18:00:42",
+      "current_peak": 15325,
+      "previous_peak": 48863,
+      "previous_record_peak": 48863,
+      "growth_rate": -0.6864,
+      "record_growth_rate": -0.6864,
+      "scoring_peak": 15325,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 13.79,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 3.8201,
+      "growth_scale_crossing_component": 0.0532,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 13.79,
+      "event_adjusted_score": 13.79,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.3,
+      "review_adjusted_score": 17.93,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "very_positive",
+      "review_observation_date": "2026-10-20",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.105,
+      "base_score": 15.24,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_1x"
+      ],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 1,
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 83.96362978376911,
+      "review_total": 22106,
+      "days_seen": 19,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 19,
+      "steam_release_age_days": 19,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 6871,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-01",
+      "release_event_age_days": 19,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 6871,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 7,
+      "trend": [
+        {
+          "date": "2026-10-02",
+          "peak": 34345
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 48743
+        },
+        {
+          "date": "2026-10-04",
+          "peak": 40186
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 48863
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 37757
+        },
+        {
+          "date": "2026-10-07",
+          "peak": 34758
+        },
+        {
+          "date": "2026-10-08",
+          "peak": 31824
+        },
+        {
+          "date": "2026-10-09",
+          "peak": 29559
+        },
+        {
+          "date": "2026-10-10",
+          "peak": 28444
+        },
+        {
+          "date": "2026-10-11",
+          "peak": 31040
+        },
+        {
+          "date": "2026-10-12",
+          "peak": 29681
+        },
+        {
+          "date": "2026-10-13",
+          "peak": 24474
+        },
+        {
+          "date": "2026-10-14",
+          "peak": 21788
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 20356
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 17798
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 18533
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 20916
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 19498
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 15325
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2288340"
+      }
+    ],
+    "game": {
+      "slug": "ace-combat-8-wings-of-theve",
+      "appid": "2288340",
+      "name": "ACE COMBAT 8: WINGS OF THEVE",
+      "name_cn": null,
+      "description": "享受在空中自由自在翱翔的爽快感，依据自身判断将敌人接二连三击坠破的快感，打破艰难局面化成为英雄成就感的戏剧性飞行射击游戏。最高峰的天空‧大自然‧都市画面以及强大带入感的剧场表现，让玩家体验真正的王牌驾驶员故事。",
+      "release_date": "2026-10-01",
+      "genres": [
+        "动作"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "跨平台多人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "应用内购买",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 云",
+        "可用 HDR",
+        "家庭共享"
+      ],
+      "review_score": "Very Positive",
+      "review_ratio": 83.96362978376911,
+      "review_total": 22106,
+      "developer": "Bandai Namco Aces Inc.",
+      "publisher": "Bandai Namco Entertainment Inc.",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1792128424",
+      "steam_url": "https://store.steampowered.com/app/2288340",
+      "product_family_identity": "appid:2288340",
+      "product_family_appid": "2288340",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-02",
+          "peak": 34345
+        },
+        {
+          "date": "2026-10-03",
+          "peak": 48743
+        },
+        {
+          "date": "2026-10-04",
+          "peak": 40186
+        },
+        {
+          "date": "2026-10-05",
+          "peak": 48863
+        },
+        {
+          "date": "2026-10-06",
+          "peak": 37757
+        },
+        {
+          "date": "2026-10-07",
+          "peak": 34758
+        },
+        {
+          "date": "2026-10-08",
+          "peak": 31824
+        },
+        {
+          "date": "2026-10-09",
+          "peak": 29559
+        },
+        {
+          "date": "2026-10-10",
+          "peak": 28444
+        },
+        {
+          "date": "2026-10-11",
+          "peak": 31040
+        },
+        {
+          "date": "2026-10-12",
+          "peak": 29681
+        },
+        {
+          "date": "2026-10-13",
+          "peak": 24474
+        },
+        {
+          "date": "2026-10-14",
+          "peak": 21788
+        },
+        {
+          "date": "2026-10-15",
+          "peak": 20356
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 17798
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 18533
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 20916
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 19498
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 15325
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《空战奇兵8 希孚之翼》是一款任务制飞行射击游戏。你驾驶战斗机穿过云层、追逐敌机，在一次次出击中推进王牌飞行员与队友的故事。",
+      "reference_frame": "可以先按街机空战来理解：把飞机带到能攻击的位置，再用武器解决目标。你要同时顾着航向、敌人的位置和任务要求，追着一架飞机跑，可能就会错过另一边的威胁。战役用云海、无线电与过场串起这些交战。",
+      "for_players": "适合喜欢战斗机和大场面，愿意练习三维追踪、享受一次漂亮接敌的玩家。想边打任务边看战争故事，也有明确的推进目标。",
+      "not_for_players": "快速转向和三维移动容易让你眩晕的话，先留意这份操作负担；偏爱复杂仪表和严谨飞行程序的人，也要接受这里的街机节奏。",
+      "star_reason": "10月20日本地观测峰值15,325，低于此前48,863的纪录；22,106条可靠评价约84%好评，为特别好评。它通过首发与重复观察后第二次摘星。今天值得看的，是发售后的持续出击热度，后续仍要观察。",
+      "core_loop": [
+        "进入任务，找出需要优先处理的目标，驾驶战机接近战场。",
+        "转向、追踪、调整攻击位置，用武器击破敌机或地面兵器。",
+        "完成本次目标，继续推进战役；想和别人一起飞，也能进入线上合作任务。"
+      ],
+      "content_length": 450
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-20T10:53:09+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 3,
+          "inspected_count": 20,
+          "top_views": 264122,
+          "search_url": "https://www.youtube.com/results?search_query=ACE%20COMBAT%208%3A%20WINGS%20OF%20THEVE",
+          "sources": [
+            {
+              "title": "Ace Combat 8: Wings of Theve Review",
+              "url": "https://www.youtube.com/watch?v=Ov41LU0jVyY",
+              "published_on": "2026-10-13"
+            },
+            {
+              "title": "【空戰奇兵8 : 希孚之翼】值得買嗎? | 伏Game評 | Ace Combat 8: Wings of Theve",
+              "url": "https://www.youtube.com/watch?v=ipLxua02qXg",
+              "published_on": "2026-10-20"
+            },
+            {
+              "title": "【ACE COMBAT 8: WINGS OF THEVE】I'm winging it",
+              "url": "https://www.youtube.com/watch?v=Dt5OHkR6Tok",
+              "published_on": "2026-10-19"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 0,
+          "inspected_count": 30,
+          "top_views": null,
+          "search_url": "https://search.bilibili.com/all?keyword=ACE%20COMBAT%208%3A%20WINGS%20OF%20THEVE",
+          "sources": []
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 7。",
+    "selection_context": {
+      "model_rank": 7,
+      "leader": {
+        "name": "Enshrouded",
+        "appid": "1203620",
+        "score": 39.0,
+        "reason": "处于摘星冷却期，至 2026-10-24 结束；过去 30 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/1203620/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
