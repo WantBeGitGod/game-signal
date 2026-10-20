@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-20T18:54:17",
+  "generated_at": "2026-10-20T20:35:44",
   "games": [
     {
       "game": {
@@ -14,14 +14,16 @@
         ],
         "developer": "Bandai Namco Aces Inc.",
         "publisher": "Bandai Namco Entertainment Inc.",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1791286652",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288340/13dea8084135fd130605b78189c82e39bf944c35/header.jpg?t=1792128424",
         "product_family_identity": "appid:2288340",
         "product_family_appid": "2288340",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "ace-combat-8-wings-of-theve"
+      ],
+      "article_title": "空战奇兵8 希孚之翼-王牌能下班，佣兵还想再飞一局",
+      "article_published_at": "2026-10-20",
       "star_dates": [
         "2026-10-20",
         "2026-10-03"
@@ -29,7 +31,7 @@
       "member_appids": [
         "2288340"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-10-20"
     },
     {
