@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-20T10:41:12.103955+00:00",
+  "generated_at": "2026-10-20T13:50:39.704159+00:00",
   "events": [
     {
       "id": 122,
@@ -35,41 +35,6 @@
           "action": "create_event",
           "recorded_at": "2026-10-20T10:41:00.652223+00:00",
           "source_published_at": "2026-10-20T10:03:03+00:00"
-        }
-      ]
-    },
-    {
-      "id": 119,
-      "title": "《ACE COMBAT 8》Ver.1.01.002 更新将于10月23日修复“无限闪光弹”",
-      "summary": "万代南梦宫娱乐宣布，飞行射击游戏《ACE COMBAT 8: WINGS OF THEVE》的更新数据 Ver.1.01.002 将于10月23日推送，主要修正“影22部队”的“无限闪光弹”问题。游戏登陆 PS5、Xbox Series X|S 与 PC。",
-      "topics": [
-        "ACE COMBAT 8: WINGS OF THEVE",
-        "Bandai Namco Entertainment"
-      ],
-      "kind": "development",
-      "created_at": "2026-10-20T10:40:45.009455+00:00",
-      "updated_at": "2026-10-20T10:40:45.009455+00:00",
-      "content_updated_at": "2026-10-20T10:40:45.009455+00:00",
-      "reported_at": "2026-10-20T10:11:10+00:00",
-      "prominence": "normal",
-      "recommendation": "",
-      "corrections": [],
-      "sources": [
-        {
-          "url": "https://game.watch.impress.co.jp/docs/news/2149774.html",
-          "title": "「エスコン8」影22部隊の“無限フレア”が修正へ。アップデートが10月23日に配信",
-          "published_at": "2026-10-20T10:11:10+00:00"
-        }
-      ],
-      "progress": [
-        {
-          "id": 127,
-          "text": "万代南梦宫娱乐宣布，《ACE COMBAT 8: WINGS OF THEVE》的更新数据“Ver.1.01.002”将于10月23日推送，修正“影22部队”的“无限闪光弹”问题；该作登陆PS5、Xbox Series X|S与PC。",
-          "evidence_kind": "original_reporting",
-          "source_url": "https://game.watch.impress.co.jp/docs/news/2149774.html",
-          "action": "create_event",
-          "recorded_at": "2026-10-20T10:40:45.010026+00:00",
-          "source_published_at": "2026-10-20T10:11:10+00:00"
         }
       ]
     },
