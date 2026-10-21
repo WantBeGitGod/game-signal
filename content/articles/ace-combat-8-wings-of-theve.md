@@ -22,8 +22,6 @@ cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/
 
 ![战机座舱与云海](/images/articles/ace-combat-8-wings-of-theve/01-cloud-flight.jpg)
 
-*官方截图：座舱外的云海，先把飞行的吸引力摆到眼前。*
-
 ## 先说清楚，你想怎样飞
 
 这是 Bandai Namco Aces 开发、Bandai Namco Entertainment 发行的任务制飞行射击游戏。中国区 Steam 商店列出的发售日为 2026 年 10 月 1 日。写实战机、云海与城市提供了视觉上的真实感，操作和任务体验则明确朝街机空战组织。它给玩家的核心工作，是把飞机带到能够有效攻击的位置，再用合适的武器处理目标。[Steam 中文商店](https://store.steampowered.com/app/2288340/?l=schinese)
@@ -51,8 +49,6 @@ cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/
 
 ![云层上方的战机编队](/images/articles/ace-combat-8-wings-of-theve/02-squadron.jpg)
 
-*官方截图：云层上的战机编队，让同伴作战有了直观的形象。*
-
 ## 英雄身份，需要在任务里兑现
 
 本作把玩家放在一个背负传奇名字的位置上。故土失守，残存的舰艇带着难民撤退，一个被赋予希望的王牌身份落到主角身上。官方故事介绍同时保留了这份传奇背后的虚构，以及与三位同伴共同作战的关系。角色的压力来自别人相信这个名字，玩家则要在一次次出击里给这份相信提供理由。[官方故事介绍](https://www.bandainamcoent.com/news/ace-combat-8-wings-of-theve-takes-flight-this-october)
@@ -64,8 +60,6 @@ cover_image_url: "https://shared.akamai.steamstatic.com/store_item_assets/steam/
 因此我不会只用“系列情怀”解释百万销量。多年积累的品牌和战机记忆当然构成有利条件，产品还需要让这些记忆进入当前可玩的任务。怀念一个旧名字，与愿意投入十几个晚上的新体验，中间有一段需要新作自己完成的转换。现阶段能确认的是成交规模；品牌、玩法展示与其他传播各自贡献多少，仍不能从总销量拆出来。
 
 ![角色递出绘有 REX 图案的飞行头盔](/images/articles/ace-combat-8-wings-of-theve/03-rex-helmet.jpg)
-
-*官方剧情画面：递到眼前的头盔，让王牌身份有了具体的承接。*
 
 ## 线上再出击，先回答重新积累值不值
 
@@ -80,8 +74,6 @@ Warfare 的威胁等级把持续成功变成了风险。连续得分而没有被
 独立成长也会增加约朋友的成本。战役熟练度不同，线上积累不同，想开的飞机不同，一次邀请要同时面对这些差异。玩家关心的常常很朴素：今晚能否一起开始，我在这一局里能帮上什么，结束以后有没有得到值得下次再来的东西。大厅规模与内容数量能提供想象，回答这些问题还需要清晰的实际路径。
 
 ![四架不同涂装的战机编队飞行](/images/articles/ace-combat-8-wings-of-theve/04-online-formation.png)
-
-*官方线上模式宣传画面：四架战机以不同涂装组成编队。*
 
 ## 赛季给人目标，也给发行团队一份长期作业
 
