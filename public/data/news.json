@@ -1,7 +1,223 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-20T13:50:39.704159+00:00",
+  "generated_at": "2026-10-21T10:11:46.384977+00:00",
   "events": [
+    {
+      "id": 129,
+      "title": "《赛博朋克2077》实装《边缘行者》第二季内容并加入双持玩法",
+      "summary": "据GamesRadar报道，《赛博朋克2077》已更新《赛博朋克：边缘行者》第二季相关内容，并新增双持武器的玩法。同篇报道中，CD PROJEKT RED剧情负责人Patrick Mills在Bluesky确认《边缘行者》第二季设定在2078年；该系列创作者此前称时间设定属于剧透。报道未说明更新具体版本与平台范围。",
+      "topics": [
+        "CD PROJEKT RED",
+        "Cyberpunk 2077",
+        "Cyberpunk: Edgerunners"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-21T10:11:31.250438+00:00",
+      "updated_at": "2026-10-21T10:11:31.250438+00:00",
+      "content_updated_at": "2026-10-21T10:11:31.250438+00:00",
+      "reported_at": "2026-10-21T09:57:25+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gamesradar.com/entertainment/anime-shows/cyberpunk-loremaster-confirms-year-of-edgerunners-2-despite-creator-originally-saying-its-a-spoiler/",
+          "title": "Cyberpunk loremaster confirms year of Edgerunners 2 despite creator saying it's a \"spoiler\"",
+          "published_at": "2026-10-21T09:57:25+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 138,
+          "text": "《赛博朋克2077》已加入《赛博朋克：边缘行者》第二季相关内容，并新增双手各持一把武器的双持玩法；CD PROJEKT RED 剧情负责人在 Bluesky 上确认《边缘行者》第二季设定在2078年。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.gamesradar.com/entertainment/anime-shows/cyberpunk-loremaster-confirms-year-of-edgerunners-2-despite-creator-originally-saying-its-a-spoiler/",
+          "action": "create_event",
+          "recorded_at": "2026-10-21T10:11:31.250645+00:00",
+          "source_published_at": "2026-10-21T09:57:25+00:00"
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "title": "合作恐怖钓鱼游戏《GONE Fishing》推出 1.0 正式版",
+      "summary": "GONE Studios 于 2026 年 10 月 20 日在 Steam 将《GONE Fishing》从抢先体验更新为 1.0 正式版，售价 999 日元，11 月 4 日前 33% 折扣。正式版新增结局和可强化鱼线、鱼竿的饰品系统，并进行了 bug 修复与网络优化。",
+      "topics": [
+        "GONE Studios",
+        "GONE Fishing",
+        "Steam"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-21T10:11:26.463028+00:00",
+      "updated_at": "2026-10-21T10:11:26.463028+00:00",
+      "content_updated_at": "2026-10-21T10:11:26.463028+00:00",
+      "reported_at": "2026-10-21T09:58:06+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.4gamer.net/games/908/G090881/20261021032/",
+          "title": "最大8人で遊べる協力型ホラーフィッシングゲーム「GONE Fishing」，正式リリース。エンディングや新たな成長システムを追加",
+          "published_at": "2026-10-21T09:58:06+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 137,
+          "text": "GONE Studios 于 2026 年 10 月 20 日在 Steam 将合作型恐怖钓鱼游戏《GONE Fishing》从抢先体验更新至 1.0 正式版，售价 999 日元，11 月 4 日前 33% 折扣；正式版新增结局与可强化鱼线、鱼竿的饰品系统，并进行了 bug 修复与网络优化。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.4gamer.net/games/908/G090881/20261021032/",
+          "action": "create_event",
+          "recorded_at": "2026-10-21T10:11:26.463157+00:00",
+          "source_published_at": "2026-10-21T09:58:06+00:00"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "title": "Super Flower 推出显卡 12V-2x6 供电过流监测转接配件",
+      "summary": "Super Flower 发布 VGA 12+4 pin OCP Dongle，安装在显卡与 12V-2x6/12VHPWR 供电线之间，监测各 +12V 引脚电流。任一引脚超过 9.5A 时亮橙灯并间歇蜂鸣，超过 12A 时亮红灯并持续蜂鸣；持续 195 秒后触发 VGA Black Screen Protection。据报道该配件目前似乎仅在台湾随电源捆绑销售。",
+      "topics": [
+        "Super Flower"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-21T10:11:22.191562+00:00",
+      "updated_at": "2026-10-21T10:11:22.191562+00:00",
+      "content_updated_at": "2026-10-21T10:11:22.191562+00:00",
+      "reported_at": "2026-10-21T09:59:41+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/heres-another-gizmo-to-prevent-your-graphics-card-from-melting-wouldnt-it-be-nice-if-12-4-pin-connectors-werent-a-cause-for-concern-at-all/",
+          "title": "Here's another gizmo to prevent your graphics card from melting - wouldn't it be nice if 12+4-pin connectors weren't a cause for concern at all?",
+          "published_at": "2026-10-21T09:59:41+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 136,
+          "text": "Super Flower 推出名为 VGA 12+4 pin OCP Dongle 的显卡供电转接配件，接在显卡与 12V-2x6/12VHPWR 供电线之间，监测六个 +12V 引脚电流：任一引脚超过 9.5A 时亮橙灯并间歇蜂鸣，超过 12A 时亮红灯并持续蜂鸣，持续 195 秒后触发 VGA Black Screen Protection。据 Uniko's Hardware 发现，该配件目前似乎仅在台湾随电源捆绑销售。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.pcgamer.com/hardware/graphics-cards/heres-another-gizmo-to-prevent-your-graphics-card-from-melting-wouldnt-it-be-nice-if-12-4-pin-connectors-werent-a-cause-for-concern-at-all/",
+          "action": "create_event",
+          "recorded_at": "2026-10-21T10:11:22.192299+00:00",
+          "source_published_at": "2026-10-21T09:59:41+00:00"
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "title": "《Beyond These Stars》评测：无战斗城市建造的完成度与中盘节奏争议",
+      "summary": "Game*Spark 评测《Beyond These Stars》：在宇宙鲸鱼背上建城、无战斗的城市建造游戏，供应链与设施布局、扩展生存区的地形设计、便利 UI 与大量剧情事件获肯定，被视为类型要素齐全的高完成度作品；但首次游玩中盘后进展明显变慢，缺少提升生产效率的引导，独有体验也偏薄，评测认为能否享受取决于是否愿意重做城市、重头优化布局。评测基于厂商提供的预览版，未给出数字评分；报道内平台为 PC（Steam / Epic Games Store / Xbox / GOG.com）。",
+      "topics": [
+        "Beyond These Stars",
+        "Balancing Monkey Games",
+        "Game*Spark"
+      ],
+      "kind": "review",
+      "created_at": "2026-10-21T10:11:13.783941+00:00",
+      "updated_at": "2026-10-21T10:11:13.783941+00:00",
+      "content_updated_at": "2026-10-21T10:11:13.783941+00:00",
+      "reported_at": "2026-10-21T10:00:03+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "http://www.gamespark.jp/article/2026/10/21/173897.html",
+          "title": "Game*Sparkレビュー：『Beyond These Stars』―“中だるみ”は改善されるのか？ 宇宙クジラと旅する戦闘なしシティビルダー続編",
+          "published_at": "2026-10-21T10:00:03+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 135,
+          "text": "Game*Spark 评测《Beyond These Stars》，认为这款以宇宙鲸鱼背部建城、无战斗的城市建造游戏作为类型“全能包”完成度高，供应链与设施布局、扩展生存区的地形设计、便利 UI 和大量剧情事件是优点，但首次游玩中盘后进展变慢、缺乏提升生产效率的引导、独有体验偏薄；评测未给出数字评分，平台标注为 PC（Steam / Epic Games Store / Xbox / GOG.com），评测基于厂商提供的预览版。",
+          "evidence_kind": "review",
+          "source_url": "http://www.gamespark.jp/article/2026/10/21/173897.html",
+          "action": "create_event",
+          "recorded_at": "2026-10-21T10:11:13.784041+00:00",
+          "source_published_at": "2026-10-21T10:00:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "title": "《Console Archives 雷电Project》10月22日登陆PS5与Switch 2",
+      "summary": "Hamster宣布《Console Archives 雷电Project》将于10月22日在PS5与Nintendo Switch 2配信，属于《Console Archives》系列新内容。该作是1995年PS版《雷电Project》的移植，一套收录初代《雷电》与《雷电II》两作，保留射击与炸弹、道具切换等经典玩法。",
+      "topics": [
+        "Hamster",
+        "雷电Project",
+        "雷电",
+        "雷电II",
+        "Console Archives"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-21T10:11:05.236577+00:00",
+      "updated_at": "2026-10-21T10:11:05.236577+00:00",
+      "content_updated_at": "2026-10-21T10:11:05.236577+00:00",
+      "reported_at": "2026-10-21T10:00:07+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "http://www.gamespark.jp/article/2026/10/21/173898.html",
+          "title": "PS5/スイッチ2に『雷電プロジェクト』復刻！名作STG『雷電』『雷電II』がセットになった移植作",
+          "published_at": "2026-10-21T10:00:07+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 134,
+          "text": "Hamster宣布《Console Archives 雷电Project》将作为《Console Archives》系列新内容于10月22日在PS5与Nintendo Switch 2平台配信，该作收录1995年PS版《雷电Project》，即初代《雷电》与《雷电II》两作的合集移植。",
+          "evidence_kind": "syndication",
+          "source_url": "http://www.gamespark.jp/article/2026/10/21/173898.html",
+          "action": "create_event",
+          "recorded_at": "2026-10-21T10:11:05.236744+00:00",
+          "source_published_at": "2026-10-21T10:00:07+00:00"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "title": "《红色沙漠》首个 DLC《未知的旅路》预览影像公开，10 月 30 日发售",
+      "summary": "Pearl Abyss 公开《红色沙漠》首个 DLC《红色沙漠 Enhanced：未知的旅路》预览影像，并确认 10 月 30 日全球同步发售。DLC 把舞台扩展至 Paiwel 海域：玩家可自行造船装饰并出海探索新岛屿、潜水寻找沉没遗迹与宝物，与特定人物发展恋爱甚至结婚，经营借用设施赚取财货，住房扩展到可自行搭建墙壁窗户等结构；另含依次挑战强敌 Boss 的讨伐内容。DLC 提供日语等追加语音与语言支持，PS5、Xbox Series X|S、Steam 与 Epic Games Store 已开放预购，预购赠送潜水服外观。",
+      "topics": [
+        "Pearl Abyss",
+        "红色沙漠",
+        "Crimson Desert"
+      ],
+      "kind": "dlc",
+      "created_at": "2026-10-21T10:10:51.955936+00:00",
+      "updated_at": "2026-10-21T10:10:51.955936+00:00",
+      "content_updated_at": "2026-10-21T10:10:51.955936+00:00",
+      "reported_at": "2026-10-21T10:03:08+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.4gamer.net/games/484/G048495/20261021030/",
+          "title": "「紅の砂漠」初のDLC「未知なる旅路」プレビュー映像が公開。大海原の航海と水中探索に加え，恋愛や施設経営も",
+          "published_at": "2026-10-21T10:03:08+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 133,
+          "text": "Pearl Abyss 于 10 月 21 日公开《红色沙漠》首个 DLC《红色沙漠 Enhanced：未知的旅路》的预览影像，该 DLC 于 10 月 30 日全球同步发售，将冒险舞台扩展至 Paiwel 海域，加入造船航海、水下探索、与特定人物发展恋爱与结婚、设施经营、可自行搭建房屋结构的扩展住房，以及依次挑战强敌 Boss 的讨伐内容；DLC 提供日语等追加语音与语言支持，PS5、Xbox Series X|S、Steam、Epic Games Store 已开放预购，预购赠送潜水服外观。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.4gamer.net/games/484/G048495/20261021030/",
+          "action": "create_event",
+          "recorded_at": "2026-10-21T10:10:51.956381+00:00",
+          "source_published_at": "2026-10-21T10:03:08+00:00"
+        }
+      ]
+    },
     {
       "id": 122,
       "title": "开放世界狩猎模拟《Hunting Simulator 3》Steam 试玩版上线",
@@ -59,11 +275,6 @@
           "url": "https://automaton-media.com/articles/newsjp/20261020-474531/",
           "title": "『サイバーパンク2077』なんとまたアプデ決定、「エッジランナーズ2」要素実装へ。新アイテムに新コンテンツも、10月22日に来る",
           "published_at": "2026-10-20T10:29:09+00:00"
-        },
-        {
-          "url": "https://www.gameswelt.de/cyberpunk-2077/news/uodate-2-5-zur-premiere-von-edgerunners-season-2-335237",
-          "title": "Cyberpunk 2077 - Uodate 2.5 zur Premiere von Edgerunners Season 2",
-          "published_at": "2026-10-20T10:06:00+00:00"
         }
       ],
       "progress": [
@@ -75,15 +286,6 @@
           "action": "create_event",
           "recorded_at": "2026-10-20T10:40:32.398530+00:00",
           "source_published_at": "2026-10-20T10:29:09+00:00"
-        },
-        {
-          "id": 129,
-          "text": "《赛博朋克：边缘行者》第二季全部十集已在 Netflix 上线，CD PROJEKT RED 同期预告《赛博朋克2077》更新 2.5。",
-          "evidence_kind": "syndication",
-          "source_url": "https://www.gameswelt.de/cyberpunk-2077/news/uodate-2-5-zur-premiere-von-edgerunners-season-2-335237",
-          "action": "attach_source",
-          "recorded_at": "2026-10-20T10:40:51.589850+00:00",
-          "source_published_at": "2026-10-20T10:06:00+00:00"
         }
       ]
     },
