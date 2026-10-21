@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-21T18:12:07",
+  "generated_at": "2026-10-21T20:41:18",
   "games": [
     {
       "game": {
@@ -20,9 +20,11 @@
         "product_family_appid": "4231820",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "castlevania-belmont-s-curse"
+      ],
+      "article_title": "恶魔城：贝尔蒙特的诅咒-这次，鞭子想带着老招牌飞",
+      "article_published_at": "2026-10-21",
       "star_dates": [
         "2026-10-21",
         "2026-10-18"
@@ -30,7 +32,7 @@
       "member_appids": [
         "4231820"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-10-21"
     },
     {
