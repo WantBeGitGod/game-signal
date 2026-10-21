@@ -1,0 +1,557 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-10-21",
+  "title": "10.21 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 11.69,
+    "fact_summary": "Castlevania: Belmont's Curse 今日观测峰值 11,109，未超过过往最高峰值 21,120，被识别为「新作起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-14",
+      "current_release_date": "2026-10-14",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-21 17:50:12",
+      "current_peak": 11109,
+      "previous_peak": 21120,
+      "previous_record_peak": 21120,
+      "growth_rate": -0.474,
+      "record_growth_rate": -0.474,
+      "scoring_peak": 11109,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 10.0,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.7248,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.7137,
+      "growth_scale_crossing_component": 0.0111,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 10.0,
+      "event_adjusted_score": 10.0,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 13.75,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "mostly_positive",
+      "review_observation_date": "2026-10-21",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.1687,
+      "base_score": 11.69,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_1x"
+      ],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 1,
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 74.58454233711421,
+      "review_total": 7582,
+      "days_seen": 7,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 7,
+      "steam_release_age_days": 7,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 576,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-10-14",
+      "release_event_age_days": 7,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 576,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 8,
+      "trend": [
+        {
+          "date": "2026-10-15",
+          "peak": 17772
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 17808
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 17510
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 21092
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 21120
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 14110
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 11109
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4231820"
+      }
+    ],
+    "game": {
+      "slug": "castlevania-belmont-s-curse",
+      "appid": "4231820",
+      "name": "Castlevania: Belmont's Curse",
+      "name_cn": null,
+      "description": "鲜红的诅咒，会是绝望还是希望？ 在悪魔城伝説 (Castlevania Dracula's Curse) 的23年之后，随着年轻的贝尔蒙特在巴黎冒险并成长。 KONAMI × Evil Empire × Motion Twin联手推出最新的探索型2D动作游戏。",
+      "release_date": "2026-10-14",
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "自定义音量控制",
+        "可调整难度",
+        "推荐使用手柄",
+        "可以仅用键盘",
+        "DualSense 控制器支持",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 74.58454233711421,
+      "review_total": 7582,
+      "developer": "KONAMI, Evil Empire",
+      "publisher": "KONAMI",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/6b65aec2c398006aea8b76e1463cc34d0e4ba68b/header.jpg?t=1792036946",
+      "steam_url": "https://store.steampowered.com/app/4231820",
+      "product_family_identity": "appid:4231820",
+      "product_family_appid": "4231820",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-15",
+          "peak": 17772
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 17808
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 17510
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 21092
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 21120
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 14110
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 11109
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Castlevania：Belmont’s Curse 是一款单人横版动作探索游戏。你扮演罗斯·贝尔蒙特，挥鞭穿过怪物出没的巴黎，边打边找能让自己变强的新装备。",
+      "reference_frame": "鞭子同时管战斗和移动：抽打敌人，也能带着角色像空中飞人一样穿行。打倒 Boss 后，对方会被封进塔罗牌，变成你能使用的魔法和特殊动作。每场硬仗的奖励，都是下一段冒险里可以亲手试的新招。",
+      "for_players": "适合喜欢横版操作，也愿意为了新装备多探一段路的人。战斗、移动和成长轮流给你目标，练熟一套打法后还有换招的空间。",
+      "not_for_players": "如果不喜欢跳跃、找路，或反复练习 Boss 出招，这些持续操作会成为负担；只想轻松看故事也要留意。",
+      "star_reason": "10月21日本地观测峰值11,109，较此前21,120的纪录回落约47%；7,582条可靠评价约74.6%好评。发售一周后第二次摘星，仍有万人级热度，后续要看回落能否企稳。",
+      "core_loop": [
+        "跳跃、挥鞭调整位置，抓住敌人的空当，清出前进路线。",
+        "探索地图找武器和遗物，换搭配，再试一试攻防打法。",
+        "挑战 Boss，取得卡牌能力，把新招用进接下来的战斗与探索。"
+      ],
+      "content_length": 435
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-21T10:11:04+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 9,
+          "inspected_count": 20,
+          "top_views": 507265,
+          "search_url": "https://www.youtube.com/results?search_query=Castlevania%3A%20Belmont%27s%20Curse",
+          "sources": [
+            {
+              "title": "Castlevania: Belmont's Curse - Before You Buy",
+              "url": "https://www.youtube.com/watch?v=fVRmZT8Ve7k",
+              "published_on": "2026-10-17"
+            },
+            {
+              "title": "Castlevania: Belmont's Curse - Full Game Walkthrough",
+              "url": "https://www.youtube.com/watch?v=xbFrfZeVaUU",
+              "published_on": "2026-10-15"
+            },
+            {
+              "title": "Castlevania: Belmont's Curse 100% Walkthrough - FULL GAME (No Commentary)",
+              "url": "https://www.youtube.com/watch?v=q3NuImErog8",
+              "published_on": "2026-10-18"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 8。",
+    "selection_context": {
+      "model_rank": 8,
+      "leader": {
+        "name": "Enshrouded",
+        "appid": "1203620",
+        "score": 34.29,
+        "reason": "处于摘星冷却期，至 2026-10-24 结束；过去 30 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/1203620/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "new_release_rise",
+    "label": "新作起量",
+    "score": 11.69,
+    "fact_summary": "Castlevania: Belmont's Curse 今日观测峰值 11,109，未超过过往最高峰值 21,120，被识别为「新作起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.25,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-14",
+      "current_release_date": "2026-10-14",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-21 17:50:12",
+      "current_peak": 11109,
+      "previous_peak": 21120,
+      "previous_record_peak": 21120,
+      "growth_rate": -0.474,
+      "record_growth_rate": -0.474,
+      "scoring_peak": 11109,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 10.0,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.7248,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.7137,
+      "growth_scale_crossing_component": 0.0111,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 10.0,
+      "event_adjusted_score": 10.0,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.1,
+      "review_adjusted_score": 13.75,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "mostly_positive",
+      "review_observation_date": "2026-10-21",
+      "review_observation_age_days": 0,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.1687,
+      "base_score": 11.69,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_1x"
+      ],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 1,
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 30,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": 74.58454233711421,
+      "review_total": 7582,
+      "days_seen": 7,
+      "comeback_gap_days": 1,
+      "is_new_release": true,
+      "release_age_days": 7,
+      "steam_release_age_days": 7,
+      "release_age_basis": "confirmed_identity",
+      "release_verification_required": false,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": 576,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "true_new",
+      "release_event_date": "2026-10-14",
+      "release_event_age_days": 7,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 1.0,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": 576,
+        "verification_threshold": 5000,
+        "verification_status": "confirmed_true_new"
+      },
+      "release_event_date_basis": "confirmed_identity",
+      "pre_bonus_model_rank": 8,
+      "trend": [
+        {
+          "date": "2026-10-15",
+          "peak": 17772
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 17808
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 17510
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 21092
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 21120
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 14110
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 11109
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4231820"
+      }
+    ],
+    "game": {
+      "slug": "castlevania-belmont-s-curse",
+      "appid": "4231820",
+      "name": "Castlevania: Belmont's Curse",
+      "name_cn": null,
+      "description": "鲜红的诅咒，会是绝望还是希望？ 在悪魔城伝説 (Castlevania Dracula's Curse) 的23年之后，随着年轻的贝尔蒙特在巴黎冒险并成长。 KONAMI × Evil Empire × Motion Twin联手推出最新的探索型2D动作游戏。",
+      "release_date": "2026-10-14",
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "自定义音量控制",
+        "可调整难度",
+        "推荐使用手柄",
+        "可以仅用键盘",
+        "DualSense 控制器支持",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": "Mostly Positive",
+      "review_ratio": 74.58454233711421,
+      "review_total": 7582,
+      "developer": "KONAMI, Evil Empire",
+      "publisher": "KONAMI",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/6b65aec2c398006aea8b76e1463cc34d0e4ba68b/header.jpg?t=1792036946",
+      "steam_url": "https://store.steampowered.com/app/4231820",
+      "product_family_identity": "appid:4231820",
+      "product_family_appid": "4231820",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-15",
+          "peak": 17772
+        },
+        {
+          "date": "2026-10-16",
+          "peak": 17808
+        },
+        {
+          "date": "2026-10-17",
+          "peak": 17510
+        },
+        {
+          "date": "2026-10-18",
+          "peak": 21092
+        },
+        {
+          "date": "2026-10-19",
+          "peak": 21120
+        },
+        {
+          "date": "2026-10-20",
+          "peak": 14110
+        },
+        {
+          "date": "2026-10-21",
+          "peak": 11109
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Castlevania：Belmont’s Curse 是一款单人横版动作探索游戏。你扮演罗斯·贝尔蒙特，挥鞭穿过怪物出没的巴黎，边打边找能让自己变强的新装备。",
+      "reference_frame": "鞭子同时管战斗和移动：抽打敌人，也能带着角色像空中飞人一样穿行。打倒 Boss 后，对方会被封进塔罗牌，变成你能使用的魔法和特殊动作。每场硬仗的奖励，都是下一段冒险里可以亲手试的新招。",
+      "for_players": "适合喜欢横版操作，也愿意为了新装备多探一段路的人。战斗、移动和成长轮流给你目标，练熟一套打法后还有换招的空间。",
+      "not_for_players": "如果不喜欢跳跃、找路，或反复练习 Boss 出招，这些持续操作会成为负担；只想轻松看故事也要留意。",
+      "star_reason": "10月21日本地观测峰值11,109，较此前21,120的纪录回落约47%；7,582条可靠评价约74.6%好评。发售一周后第二次摘星，仍有万人级热度，后续要看回落能否企稳。",
+      "core_loop": [
+        "跳跃、挥鞭调整位置，抓住敌人的空当，清出前进路线。",
+        "探索地图找武器和遗物，换搭配，再试一试攻防打法。",
+        "挑战 Boss，取得卡牌能力，把新招用进接下来的战斗与探索。"
+      ],
+      "content_length": 435
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-21T10:11:04+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 9,
+          "inspected_count": 20,
+          "top_views": 507265,
+          "search_url": "https://www.youtube.com/results?search_query=Castlevania%3A%20Belmont%27s%20Curse",
+          "sources": [
+            {
+              "title": "Castlevania: Belmont's Curse - Before You Buy",
+              "url": "https://www.youtube.com/watch?v=fVRmZT8Ve7k",
+              "published_on": "2026-10-17"
+            },
+            {
+              "title": "Castlevania: Belmont's Curse - Full Game Walkthrough",
+              "url": "https://www.youtube.com/watch?v=xbFrfZeVaUU",
+              "published_on": "2026-10-15"
+            },
+            {
+              "title": "Castlevania: Belmont's Curse 100% Walkthrough - FULL GAME (No Commentary)",
+              "url": "https://www.youtube.com/watch?v=q3NuImErog8",
+              "published_on": "2026-10-18"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 8。",
+    "selection_context": {
+      "model_rank": 8,
+      "leader": {
+        "name": "Enshrouded",
+        "appid": "1203620",
+        "score": 34.29,
+        "reason": "处于摘星冷却期，至 2026-10-24 结束；过去 30 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/1203620/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

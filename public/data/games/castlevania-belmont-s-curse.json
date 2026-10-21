@@ -23,8 +23,8 @@
     "家庭共享"
   ],
   "review_score": "Mostly Positive",
-  "review_ratio": 71.13991612657261,
-  "review_total": 5246,
+  "review_ratio": 74.58454233711421,
+  "review_total": 7582,
   "developer": "KONAMI, Evil Empire",
   "publisher": "KONAMI",
   "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4231820/6b65aec2c398006aea8b76e1463cc34d0e4ba68b/header.jpg?t=1792036946",
@@ -48,6 +48,18 @@
     {
       "date": "2026-10-18",
       "peak": 21092
+    },
+    {
+      "date": "2026-10-19",
+      "peak": 21120
+    },
+    {
+      "date": "2026-10-20",
+      "peak": 14110
+    },
+    {
+      "date": "2026-10-21",
+      "peak": 11109
     }
   ]
 }
