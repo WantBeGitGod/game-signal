@@ -22,53 +22,17 @@
     "立体声",
     "环绕声"
   ],
-  "review_score": "Mostly Positive",
-  "review_ratio": 74.05647287359511,
-  "review_total": 115312,
+  "review_score": "Mixed",
+  "review_ratio": 69.81824550182364,
+  "review_total": 131331,
   "developer": "BULKHEAD",
   "publisher": "Team17",
-  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/be00107d586c0bf0412e9e4acedb64629a99aa5b/header_schinese.jpg?t=1790774170",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/c24972c6aeeb826a72a86fd8616c3a33d49e4b4f/header_alt_assets_0_schinese.jpg?t=1791928607",
   "steam_url": "https://store.steampowered.com/app/1867240",
   "product_family_identity": "appid:1867240",
   "product_family_appid": "1867240",
   "product_family_role": "full",
   "trend": [
-    {
-      "date": "2026-09-13",
-      "peak": 400196
-    },
-    {
-      "date": "2026-09-14",
-      "peak": 373437
-    },
-    {
-      "date": "2026-09-15",
-      "peak": 297498
-    },
-    {
-      "date": "2026-09-16",
-      "peak": 339753
-    },
-    {
-      "date": "2026-09-17",
-      "peak": 267549
-    },
-    {
-      "date": "2026-09-18",
-      "peak": 272237
-    },
-    {
-      "date": "2026-09-19",
-      "peak": 296591
-    },
-    {
-      "date": "2026-09-20",
-      "peak": 327437
-    },
-    {
-      "date": "2026-09-21",
-      "peak": 364279
-    },
     {
       "date": "2026-09-22",
       "peak": 275686
@@ -148,6 +112,42 @@
     {
       "date": "2026-10-13",
       "peak": 129945
+    },
+    {
+      "date": "2026-10-14",
+      "peak": 117128
+    },
+    {
+      "date": "2026-10-15",
+      "peak": 102456
+    },
+    {
+      "date": "2026-10-16",
+      "peak": 317428
+    },
+    {
+      "date": "2026-10-17",
+      "peak": 272445
+    },
+    {
+      "date": "2026-10-18",
+      "peak": 269429
+    },
+    {
+      "date": "2026-10-19",
+      "peak": 268818
+    },
+    {
+      "date": "2026-10-20",
+      "peak": 205297
+    },
+    {
+      "date": "2026-10-21",
+      "peak": 157594
+    },
+    {
+      "date": "2026-10-22",
+      "peak": 145782
     }
   ]
 }
