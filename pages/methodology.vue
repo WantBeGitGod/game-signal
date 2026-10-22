@@ -23,7 +23,7 @@
       </h2>
       <p>
         系统先判断当天是否存在合格发行事件，再比较峰值规模和是否突破历史高点；连续出现只保留为审计材料，不额外得分。
-        同一 App ID 在过去 30 天重复摘星时会承担自己的分数折算；已确认的试玩版与正式版共享公开曝光次数，但不互相传递分数债务。
+        同一 App ID 的次数上限与分数折算分别计算：2026 年 10 月 23 日起，滚动 90 天最多摘星两次；过去 365 天的实际摘星继续参与分数折算。已确认的试玩版与正式版共享家族曝光次数，但不互相传递分数债务。
         2026 年 9 月起，低于 60% 的可靠好评率会折算并标记“评分背离”。9 月 5 日起，高于 90% 的奖励要求同一评价快照至少 100 条评论。
       </p>
     </section>
@@ -70,20 +70,20 @@
           <dd>全部取消；标签只解释发行节点</dd>
         </div>
         <div>
-          <dt>30 天重复摘星折算</dt>
+          <dt>年度重复摘星折算</dt>
           <dd>{{ repeatRule }}</dd>
         </div>
         <div>
           <dt>产品家族曝光</dt>
-          <dd>30 天最多 {{ scoring.product_family_repeat_window_max_wins || 4 }} 次，试玩最多占前 {{ scoring.product_family_trial_window_max_wins || 3 }} 次</dd>
+          <dd>{{ scoring.product_family_repeat_window_days || 30 }} 天最多 {{ scoring.product_family_repeat_window_max_wins || 4 }} 次，试玩最多占前 {{ scoring.product_family_trial_window_max_wins || 3 }} 次</dd>
         </div>
         <div>
           <dt>评论核验阈值</dt>
           <dd>首次可靠观察超过 {{ (scoring.release_review_verification_threshold || 5000).toLocaleString() }} 条只触发核验，不直接定案</dd>
         </div>
         <div>
-          <dt>连续摘星上限</dt>
-          <dd>最多连续两天，两连庄后冷却完整 7 天；此后每次摘星再冷却 7 天。30 天累计最多三次，重复摘星折扣保留。独立正式版周期重新起算。</dd>
+          <dt>次数上限与连续摘星冷却</dt>
+          <dd>{{ scoring.repeat_ceiling_window_effective_date || "2026-10-23" }} 起，同一 App ID 在滚动 {{ scoring.daily_star_repeat_window_days || 90 }} 天最多摘星 {{ scoring.daily_star_repeat_window_max_wins || 2 }} 次；10 月 17—22 日仍为 30 天最多两次。两连庄后冷却完整 7 天，此后每次摘星再冷却 7 天。独立正式版周期不清除同 App ID 的次数记录或年度扣分。</dd>
         </div>
         <div>
           <dt>冷却后的复选</dt>
@@ -99,10 +99,9 @@ useSeoMeta({ title: "分析方法" })
 const { data: scoring } = await useScoring()
 const repeatRule = computed(() => {
   if (!scoring.value) return ""
-  const multipliers = scoring.value.cumulative_star_score_multipliers.map(percent).join(" / ")
-  const days = scoring.value.daily_star_repeat_window_days || 30
-  const maxWins = scoring.value.daily_star_repeat_window_max_wins || 3
-  return `${days} 天窗口：${multipliers}；${maxWins} 次后暂退`
+  const multipliers = [1, ...(scoring.value.balanced_star_score_multipliers || scoring.value.cumulative_star_score_multipliers)].map(percent).join(" / ")
+  const days = scoring.value.repeat_score_window_days || 365
+  return `过去 ${days} 天实际摘星 0 / 1 / 2 / 3 / 4 次及以上，分数分别乘以 ${multipliers}。旧规则及同 App ID 早期发行周期的摘星均计入，每条记录逐日到期；次数限制解除不清空年度扣分。`
 })
 const eventRule = computed(() => {
   if (!scoring.value) return ""
@@ -120,7 +119,7 @@ const methods = [
   { code: "01", title: "新作起量", text: "首次进入市场的产品在 30 天窗口内快速进入可见区间；有官方 Advanced Access 时，从实际开放游玩的日期起算。" },
   { code: "05", title: "老游起量", text: "当前发行周期已超过 30 天的普通发行候选，不再标为新作；标签不额外加分，仍需满足参评与摘星条件。" },
   { code: "02", title: "试玩起量", text: "Demo 或 Playtest 可以独立成为今日之星，但必须明确标注试玩身份，不能冒充正式首发。" },
-  { code: "03", title: "正式版起量", text: "EA 转正间隔 ≤180 天继承全部历史，>180 天独立计算加分、峰值、摘星惩罚、冷却与观测门槛。公开摘星档案保留全部记录；EA 日期未知时不擅自重置。" },
+  { code: "03", title: "正式版起量", text: "EA 转正间隔 ≤180 天继承原周期，>180 天独立计算加分、峰值、冷却与观测门槛。同 App ID 的摘星次数上限与年度扣分仍跨周期保留；公开摘星档案完整保留，EA 日期未知时不擅自重置。" },
   { code: "04", title: "重大更新回流", text: "只有近 14 天内可核验的大型版本、资料片、实质赛季内容或系统重做可以让老游戏重新参选；补丁、折扣与普通回流不行。" }
 ]
 function percent(value: number) {

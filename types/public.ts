@@ -103,6 +103,10 @@ export type ScoringSnapshot = {
     otherwise: number
   }
   new_release_window_days: number
+  repeat_ceiling_window_effective_date?: string
+  repeat_score_window_days?: number
+  balanced_star_score_multipliers?: number[]
+  product_family_repeat_window_days?: number
   daily_star_repeat_window_days?: number
   daily_star_repeat_window_max_wins?: number
   product_family_repeat_window_max_wins?: number
