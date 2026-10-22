@@ -1,44 +1,39 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-22T18:13:38",
+  "generated_at": "2026-10-22T22:24:31",
   "games": [
     {
       "game": {
-        "slug": "wardogs",
-        "appid": "1867240",
-        "name": "WARDOGS",
+        "slug": "cpm-2",
+        "appid": "4252340",
+        "name": "CPM 2",
         "name_cn": null,
-        "description": "《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。",
+        "description": "Open-world racing sandbox with cross-platform multiplayer. Complete parking challenges, drift, and participate in races: drag, rally, circuit, and Drift. Tune cars and organize car meets with friends.",
         "genres": [
-          "动作",
-          "独立",
           "大型多人在线",
+          "竞速",
           "模拟",
+          "体育",
+          "免费",
           "抢先体验"
         ],
-        "developer": "BULKHEAD",
-        "publisher": "Team17",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/c24972c6aeeb826a72a86fd8616c3a33d49e4b4f/header_alt_assets_0_schinese.jpg?t=1791928607",
-        "product_family_identity": "appid:1867240",
-        "product_family_appid": "1867240",
+        "developer": "OGames",
+        "publisher": "OGames",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4252340/f712f104515ff0af8e05be7afd75f30eb092cd58/header.jpg?t=1791484313",
+        "product_family_identity": "appid:4252340",
+        "product_family_appid": "4252340",
         "product_family_role": "full"
       },
-      "article_slugs": [
-        "wardogs"
-      ],
-      "article_title": "WARDOGS-把一场战争存进下一场",
-      "article_published_at": "2026-09-15",
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
       "star_dates": [
-        "2026-10-22",
-        "2026-10-13",
-        "2026-09-21",
-        "2026-09-13",
-        "2026-09-12"
+        "2026-10-22"
       ],
       "member_appids": [
-        "1867240"
+        "4252340"
       ],
-      "article_count": 1,
+      "article_count": 0,
       "latest_star_date": "2026-10-22"
     },
     {
@@ -210,6 +205,44 @@
       ],
       "article_count": 1,
       "latest_star_date": "2026-10-15"
+    },
+    {
+      "game": {
+        "slug": "wardogs",
+        "appid": "1867240",
+        "name": "WARDOGS",
+        "name_cn": null,
+        "description": "《WARDOGS》是一款全面战争式第一人称射击游戏，在一个最高可支持 100 名玩家的大规模军事沙盒中，融合了战术枪战、诸兵种联合作战以及建造与破坏机制等元素。",
+        "genres": [
+          "动作",
+          "独立",
+          "大型多人在线",
+          "模拟",
+          "抢先体验"
+        ],
+        "developer": "BULKHEAD",
+        "publisher": "Team17",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1867240/c24972c6aeeb826a72a86fd8616c3a33d49e4b4f/header_alt_assets_0_schinese.jpg?t=1791928607",
+        "product_family_identity": "appid:1867240",
+        "product_family_appid": "1867240",
+        "product_family_role": "full"
+      },
+      "article_slugs": [
+        "wardogs"
+      ],
+      "article_title": "WARDOGS-把一场战争存进下一场",
+      "article_published_at": "2026-09-15",
+      "star_dates": [
+        "2026-10-13",
+        "2026-09-21",
+        "2026-09-13",
+        "2026-09-12"
+      ],
+      "member_appids": [
+        "1867240"
+      ],
+      "article_count": 1,
+      "latest_star_date": "2026-10-13"
     },
     {
       "game": {

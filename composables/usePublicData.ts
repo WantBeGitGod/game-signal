@@ -64,7 +64,7 @@ export function useScoring() {
         otherwise: 1
       },
       new_release_window_days: 30,
-      repeat_ceiling_window_effective_date: "2026-10-23",
+      repeat_ceiling_window_effective_date: "2026-10-22",
       repeat_score_window_days: 365,
       balanced_star_score_multipliers: [0.85, 0.75, 0.6, 0.5],
       daily_star_repeat_window_days: 90,

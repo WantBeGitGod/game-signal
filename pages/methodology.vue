@@ -23,7 +23,7 @@
       </h2>
       <p>
         系统先判断当天是否存在合格发行事件，再比较峰值规模和是否突破历史高点；连续出现只保留为审计材料，不额外得分。
-        同一 App ID 的次数上限与分数折算分别计算：2026 年 10 月 23 日起，滚动 90 天最多摘星两次；过去 365 天的实际摘星继续参与分数折算。已确认的试玩版与正式版共享家族曝光次数，但不互相传递分数债务。
+        同一 App ID 的次数上限与分数折算分别计算：2026 年 10 月 22 日起，滚动 90 天最多摘星两次；过去 365 天的实际摘星继续参与分数折算。已确认的试玩版与正式版共享家族曝光次数，但不互相传递分数债务。
         2026 年 9 月起，低于 60% 的可靠好评率会折算并标记“评分背离”。9 月 5 日起，高于 90% 的奖励要求同一评价快照至少 100 条评论。
       </p>
     </section>
@@ -83,7 +83,7 @@
         </div>
         <div>
           <dt>次数上限与连续摘星冷却</dt>
-          <dd>{{ scoring.repeat_ceiling_window_effective_date || "2026-10-23" }} 起，同一 App ID 在滚动 {{ scoring.daily_star_repeat_window_days || 90 }} 天最多摘星 {{ scoring.daily_star_repeat_window_max_wins || 2 }} 次；10 月 17—22 日仍为 30 天最多两次。两连庄后冷却完整 7 天，此后每次摘星再冷却 7 天。独立正式版周期不清除同 App ID 的次数记录或年度扣分。</dd>
+          <dd>{{ scoring.repeat_ceiling_window_effective_date || "2026-10-22" }} 起，同一 App ID 在滚动 {{ scoring.daily_star_repeat_window_days || 90 }} 天最多摘星 {{ scoring.daily_star_repeat_window_max_wins || 2 }} 次；10 月 17—21 日仍为 30 天最多两次。两连庄后冷却完整 7 天，此后每次摘星再冷却 7 天。独立正式版周期不清除同 App ID 的次数记录或年度扣分。</dd>
         </div>
         <div>
           <dt>冷却后的复选</dt>
