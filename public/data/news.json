@@ -1,7 +1,148 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-21T10:11:46.384977+00:00",
+  "generated_at": "2026-10-22T10:07:57.239894+00:00",
   "events": [
+    {
+      "id": 137,
+      "title": "《赛马娘》7th EVENT洛杉矶公演中止后宣布退还住宿与交通费",
+      "summary": "Cygames于10月21日就《赛马娘》7周年世界巡演洛杉矶公演中止公布追加措施：原定10月22日、23日的公演已于10月20日宣布取消，此次对原计划现场参加的观众退还住宿费与交通费相关费用，已抵达当地的观众在规定期间和条件下同样可获退还；办理需提供收据等支付凭证，具体手续确定后将在特设网站公布。",
+      "topics": [
+        "Cygames",
+        "ウマ娘 プリティーダービー"
+      ],
+      "kind": "industry_event",
+      "created_at": "2026-10-22T10:07:53.143274+00:00",
+      "updated_at": "2026-10-22T10:07:53.143274+00:00",
+      "content_updated_at": "2026-10-22T10:07:53.143274+00:00",
+      "reported_at": "2026-10-22T09:44:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://game.watch.impress.co.jp/docs/news/2150490.html",
+          "title": "ウマ娘、「7th EVENT」中止について追加対応。宿泊・交通費に関する費用を返金決定",
+          "published_at": "2026-10-22T09:44:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 146,
+          "text": "Cygames于10月21日就《赛马娘》7周年世界巡演洛杉矶公演（原定10月22日、23日举办，10月20日已宣布中止）公布追加补偿措施：对原计划现场参加的观众退还住宿费与交通费相关费用，对已抵达当地的观众在设定期间和条件后同样予以退还，办理时需提供可确认支付内容与金额的收据等材料，具体手续确定后将在7th EVENT特设网站公布。",
+          "evidence_kind": "syndication",
+          "source_url": "https://game.watch.impress.co.jp/docs/news/2150490.html",
+          "action": "create_event",
+          "recorded_at": "2026-10-22T10:07:53.143932+00:00",
+          "source_published_at": "2026-10-22T09:44:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 136,
+      "title": "《STELLAR WING》10 月 30 日登陆 Steam",
+      "summary": "RAIDENWORKS 宣布，太空战机动作游戏《STELLAR WING》将于 2026 年 10 月 30 日在 Steam 发售，定价 4.99 美元，体验版已开放。玩家以 4 人小队作战，可挑战敌方母舰战、巨大机械生命体讨伐任务以及 4vs4 团队死斗；机体可在引擎、装甲、主兵装、副兵装四个槽位从约 200 种零件中自由搭配，三个国家各 8 名飞行员供组队选用，母舰战需协作按顺序击破弱点。",
+      "topics": [
+        "RAIDENWORKS",
+        "STELLAR WING",
+        "Steam"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-22T10:07:48.228990+00:00",
+      "updated_at": "2026-10-22T10:07:48.228990+00:00",
+      "content_updated_at": "2026-10-22T10:07:48.228990+00:00",
+      "reported_at": "2026-10-22T09:45:02+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "http://www.gamespark.jp/article/2026/10/22/173944.html",
+          "title": "4vs4のチームデスマッチや敵母艦・宇宙生物の討伐が楽しめる宇宙戦闘機アクション『STELLAR WING』10月30日Steamにて配信。体験版も配布中",
+          "published_at": "2026-10-22T09:45:02+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 145,
+          "text": "RAIDENWORKS 开发的太空战机动作游戏《STELLAR WING》将于 2026 年 10 月 30 日在 Steam 发售，售价 4.99 美元（日元价格按发售时汇率折算），体验版现已配布。游戏支持组建 4 人小队，包含攻击敌方母舰、讨伐巨大机械生命体任务及 4vs4 团队死斗等模式；战机可在引擎、装甲、主兵装、副兵装四个槽位从约 200 种零件中更换；三个国家各有 8 名飞行员可选，组队与母舰战需要协作攻击弱点。",
+          "evidence_kind": "original_reporting",
+          "source_url": "http://www.gamespark.jp/article/2026/10/22/173944.html",
+          "action": "create_event",
+          "recorded_at": "2026-10-22T10:07:48.229639+00:00",
+          "source_published_at": "2026-10-22T09:45:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "title": "《ARMORED CORE VI》桌游开发中，或于2027年发售",
+      "summary": "中国桌游厂商 QUETI TECTONICS 宣布正在开发《ARMORED CORE VI FIRES OF RUBICON》桌游，并借德国 SPIEL Essen 展会公开消息；宣传图标注「COMIMNG IN 2027」，暗示2027年发售，更多情报将陆续公布。",
+      "topics": [
+        "ARMORED CORE VI FIRES OF RUBICON",
+        "QUETI TECTONICS"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-22T10:07:33.791053+00:00",
+      "updated_at": "2026-10-22T10:07:33.791053+00:00",
+      "content_updated_at": "2026-10-22T10:07:33.791053+00:00",
+      "reported_at": "2026-10-22T09:59:51+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://game.watch.impress.co.jp/docs/news/2150502.html",
+          "title": "「アーマード・コア6」ボードゲームが開発中！ 2027年発売かロボミニチュアゲームメーカーによるもの",
+          "published_at": "2026-10-22T09:59:51+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 142,
+          "text": "中国桌游厂商 QUETI TECTONICS 于10月22日宣布正在开发《ARMORED CORE VI FIRES OF RUBICON》桌游，配合德国 SPIEL Essen 展会公开，宣传图中标注「COMIMNG IN 2027」，暗示2027年发售，后续情报将陆续公布。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://game.watch.impress.co.jp/docs/news/2150502.html",
+          "action": "create_event",
+          "recorded_at": "2026-10-22T10:07:33.791657+00:00",
+          "source_published_at": "2026-10-22T09:59:51+00:00"
+        }
+      ]
+    },
+    {
+      "id": 132,
+      "title": "《RIDE KAMENS STORIES》将于2026年10月31日结束服务",
+      "summary": "万代卡片事业部宣布，可阅览《RIDE KAMENS》故事的手机应用《RIDE KAMENS STORIES》（iOS/Android）将于2026年10月31日结束服务。该应用此前作为主应用结束服务后另推出的故事阅览版存在，停服后不再提供运行保证和支持，官方提示日期可能不预告变更。",
+      "topics": [
+        "バンダイ カード事業部",
+        "ライドカメンズストーリーズ"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-22T10:07:19.304139+00:00",
+      "updated_at": "2026-10-22T10:07:19.304139+00:00",
+      "content_updated_at": "2026-10-22T10:07:19.304139+00:00",
+      "reported_at": "2026-10-22T10:04:27+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.4gamer.net/games/772/G077288/20261022036/",
+          "title": "「ライドカメンズ」の物語が閲覧できる「ライドカメンズストーリーズ」，10月31日にサービス終了。動作保証，サポートの対象外となる",
+          "published_at": "2026-10-22T10:04:27+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 141,
+          "text": "万代卡片事业部宣布，手游《RIDE KAMENS STORIES》（iOS/Android）将于2026年10月31日结束服务，结束后不再提供运行保证与支持，日期可能不预告变更；该应用是2025年10月31日结束服务的《RIDE KAMENS》的离线故事阅览版之外的独立应用。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.4gamer.net/games/772/G077288/20261022036/",
+          "action": "create_event",
+          "recorded_at": "2026-10-22T10:07:19.304589+00:00",
+          "source_published_at": "2026-10-22T10:04:27+00:00"
+        }
+      ]
+    },
     {
       "id": 129,
       "title": "《赛博朋克2077》实装《边缘行者》第二季内容并加入双持玩法",
