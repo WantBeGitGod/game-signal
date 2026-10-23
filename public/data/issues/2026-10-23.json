@@ -1,0 +1,505 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-10-23",
+  "title": "10.23 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 16.27,
+    "fact_summary": "FINAL FANTASY RESONANCE 今日观测峰值 18,080，首次进入当前观察窗口，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-22",
+      "current_release_date": "2026-10-22",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-23 17:50:26",
+      "current_peak": 18080,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 18080,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 16.27,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.0808,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.0,
+      "growth_scale_crossing_component": 0.0808,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 16.27,
+      "event_adjusted_score": 16.27,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 16.27,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 16.27,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "角色扮演"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-22",
+      "release_event_age_days": 1,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 4,
+      "trend": [
+        {
+          "date": "2026-10-23",
+          "peak": 18080
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3259780"
+      }
+    ],
+    "game": {
+      "slug": "final-fantasy-resonance",
+      "appid": "3259780",
+      "name": "FINAL FANTASY RESONANCE",
+      "name_cn": null,
+      "description": "如果“FINAL FANTASY”一直以像素风格持续进化…… 本作是以此为概念，并以崭新像素风格描绘的“FINAL FANTASY”系列最新作品。 除了围绕“水晶”展开的故事，以及回合制指令战斗与能力更换等系列经典要素外，亦收录了丰富多样的反复游玩内容。",
+      "release_date": "2026-10-22",
+      "genres": [
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "自定义音量控制",
+        "可调整难度",
+        "可以仅用键盘",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "DualSense 控制器支持",
+        "Steam 输入 API 支持",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Square Enix, LANCARSE Ltd.",
+      "publisher": "Square Enix",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/710da43babb2043f9f6ad0e50023e31167d94708/header.jpg?t=1792685446",
+      "steam_url": "https://store.steampowered.com/app/3259780",
+      "product_family_identity": "appid:3259780",
+      "product_family_appid": "3259780",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-23",
+          "peak": 18080
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "FINAL FANTASY RESONANCE 是一款 HD-2D 像素风单人回合制 RPG。你带着伙伴穿过城镇与荒野，借历代最终幻想角色的幻影能力，追查威胁世界的力量。",
+      "reference_frame": "可以从经典日式队伍 RPG 的节奏理解它：探索时推进故事，遇敌后停下来选指令。战斗的关键是打弱点，把敌人打进失衡，再拿额外回合接共鸣攻击；队伍搭配要服务于这一轮如何打开突破口。熟悉的系列角色以幻影形式补充技能，给你调整队伍解法的空间。",
+      "for_players": "适合喜欢像素幻想冒险、愿意逐回合琢磨技能搭配，也享受系列角色重逢的人。乐趣在于让一次准备变成战斗里的连续优势。",
+      "not_for_players": "如果你更想亲手闪避、即时连招，或不愿在剧情探索和队伍配置之间停留，这套指令战斗节奏可能偏慢。",
+      "star_reason": "10月23日本地观测峰值18,080，首次进入观察窗口并首次摘星。当天评分快照暂无可靠评价，口碑仍待后续观察；当前数据只能说明发售初期已有玩家聚集。",
+      "core_loop": [
+        "探索新区域、推进伙伴故事，遇敌后寻找可利用的弱点。",
+        "用对应攻击打出失衡，争取额外回合，再用共鸣攻击兑现优势。",
+        "调整幻影与技能搭配，继续挑战下一段敌人，或转去竞技场等支线检验队伍。"
+      ],
+      "content_length": 456
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-23T10:10:34+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 15,
+          "inspected_count": 20,
+          "top_views": 345650,
+          "search_url": "https://www.youtube.com/results?search_query=FINAL%20FANTASY%20RESONANCE",
+          "sources": [
+            {
+              "title": "Final Fantasy RESONANCE: Early-Game Power Leveling Spots | Vision & Level Gap Mechanics Analysis ...",
+              "url": "https://www.youtube.com/watch?v=D6c4lR5QLpA",
+              "published_on": "2026-10-23"
+            },
+            {
+              "title": "Final Fantasy Resonance Review: Impressive HD-2D Visuals, Excellent Perf On All Platforms",
+              "url": "https://www.youtube.com/watch?v=-SAL0vyCF44",
+              "published_on": "2026-10-22"
+            },
+            {
+              "title": "Final Fantasy Resonance Review",
+              "url": "https://www.youtube.com/watch?v=jyYlpv-N-wA",
+              "published_on": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 9,
+          "inspected_count": 30,
+          "top_views": 24000,
+          "search_url": "https://search.bilibili.com/all?keyword=FINAL%20FANTASY%20RESONANCE",
+          "sources": [
+            {
+              "title": "【 最终幻想 ：共鸣】全剧情通关流程攻略 HD-2D日式回合制JRPG游戏 FINAL FANTASY RESONANCE",
+              "url": "https://www.bilibili.com/video/BV1CPnT6LEhy/",
+              "published_on": "2026-10-21"
+            },
+            {
+              "title": "这才是 最终幻想 该有的样子！《 FINAL FANTASY RESONANCE 》体验分享",
+              "url": "https://www.bilibili.com/video/BV1QWnx65E25/",
+              "published_on": "2026-10-23"
+            },
+            {
+              "title": "《 FINAL FANTASY RESONANCE 》通关评测：时光倒流，重回巅峰！",
+              "url": "https://www.bilibili.com/video/BV1M2ns66Esf/",
+              "published_on": "2026-10-23"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 4。",
+    "selection_context": {
+      "model_rank": 4,
+      "leader": {
+        "name": "Enshrouded",
+        "appid": "1203620",
+        "score": 33.35,
+        "reason": "处于摘星冷却期，至 2026-10-24 结束；过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/1203620/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 16.27,
+    "fact_summary": "FINAL FANTASY RESONANCE 今日观测峰值 18,080，首次进入当前观察窗口，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-22",
+      "current_release_date": "2026-10-22",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-23 17:50:26",
+      "current_peak": 18080,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 18080,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 16.27,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.0808,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.0,
+      "growth_scale_crossing_component": 0.0808,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 16.27,
+      "event_adjusted_score": 16.27,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 16.27,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 16.27,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "角色扮演"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-22",
+      "release_event_age_days": 1,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 4,
+      "trend": [
+        {
+          "date": "2026-10-23",
+          "peak": 18080
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3259780"
+      }
+    ],
+    "game": {
+      "slug": "final-fantasy-resonance",
+      "appid": "3259780",
+      "name": "FINAL FANTASY RESONANCE",
+      "name_cn": null,
+      "description": "如果“FINAL FANTASY”一直以像素风格持续进化…… 本作是以此为概念，并以崭新像素风格描绘的“FINAL FANTASY”系列最新作品。 除了围绕“水晶”展开的故事，以及回合制指令战斗与能力更换等系列经典要素外，亦收录了丰富多样的反复游玩内容。",
+      "release_date": "2026-10-22",
+      "genres": [
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "自定义音量控制",
+        "可调整难度",
+        "可以仅用键盘",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "DualSense 控制器支持",
+        "Steam 输入 API 支持",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Square Enix, LANCARSE Ltd.",
+      "publisher": "Square Enix",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/710da43babb2043f9f6ad0e50023e31167d94708/header.jpg?t=1792685446",
+      "steam_url": "https://store.steampowered.com/app/3259780",
+      "product_family_identity": "appid:3259780",
+      "product_family_appid": "3259780",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-23",
+          "peak": 18080
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "FINAL FANTASY RESONANCE 是一款 HD-2D 像素风单人回合制 RPG。你带着伙伴穿过城镇与荒野，借历代最终幻想角色的幻影能力，追查威胁世界的力量。",
+      "reference_frame": "可以从经典日式队伍 RPG 的节奏理解它：探索时推进故事，遇敌后停下来选指令。战斗的关键是打弱点，把敌人打进失衡，再拿额外回合接共鸣攻击；队伍搭配要服务于这一轮如何打开突破口。熟悉的系列角色以幻影形式补充技能，给你调整队伍解法的空间。",
+      "for_players": "适合喜欢像素幻想冒险、愿意逐回合琢磨技能搭配，也享受系列角色重逢的人。乐趣在于让一次准备变成战斗里的连续优势。",
+      "not_for_players": "如果你更想亲手闪避、即时连招，或不愿在剧情探索和队伍配置之间停留，这套指令战斗节奏可能偏慢。",
+      "star_reason": "10月23日本地观测峰值18,080，首次进入观察窗口并首次摘星。当天评分快照暂无可靠评价，口碑仍待后续观察；当前数据只能说明发售初期已有玩家聚集。",
+      "core_loop": [
+        "探索新区域、推进伙伴故事，遇敌后寻找可利用的弱点。",
+        "用对应攻击打出失衡，争取额外回合，再用共鸣攻击兑现优势。",
+        "调整幻影与技能搭配，继续挑战下一段敌人，或转去竞技场等支线检验队伍。"
+      ],
+      "content_length": 456
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-23T10:10:34+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 15,
+          "inspected_count": 20,
+          "top_views": 345650,
+          "search_url": "https://www.youtube.com/results?search_query=FINAL%20FANTASY%20RESONANCE",
+          "sources": [
+            {
+              "title": "Final Fantasy RESONANCE: Early-Game Power Leveling Spots | Vision & Level Gap Mechanics Analysis ...",
+              "url": "https://www.youtube.com/watch?v=D6c4lR5QLpA",
+              "published_on": "2026-10-23"
+            },
+            {
+              "title": "Final Fantasy Resonance Review: Impressive HD-2D Visuals, Excellent Perf On All Platforms",
+              "url": "https://www.youtube.com/watch?v=-SAL0vyCF44",
+              "published_on": "2026-10-22"
+            },
+            {
+              "title": "Final Fantasy Resonance Review",
+              "url": "https://www.youtube.com/watch?v=jyYlpv-N-wA",
+              "published_on": "2026-10-21"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 9,
+          "inspected_count": 30,
+          "top_views": 24000,
+          "search_url": "https://search.bilibili.com/all?keyword=FINAL%20FANTASY%20RESONANCE",
+          "sources": [
+            {
+              "title": "【 最终幻想 ：共鸣】全剧情通关流程攻略 HD-2D日式回合制JRPG游戏 FINAL FANTASY RESONANCE",
+              "url": "https://www.bilibili.com/video/BV1CPnT6LEhy/",
+              "published_on": "2026-10-21"
+            },
+            {
+              "title": "这才是 最终幻想 该有的样子！《 FINAL FANTASY RESONANCE 》体验分享",
+              "url": "https://www.bilibili.com/video/BV1QWnx65E25/",
+              "published_on": "2026-10-23"
+            },
+            {
+              "title": "《 FINAL FANTASY RESONANCE 》通关评测：时光倒流，重回巅峰！",
+              "url": "https://www.bilibili.com/video/BV1M2ns66Esf/",
+              "published_on": "2026-10-23"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 4。",
+    "selection_context": {
+      "model_rank": 4,
+      "leader": {
+        "name": "Enshrouded",
+        "appid": "1203620",
+        "score": 33.35,
+        "reason": "处于摘星冷却期，至 2026-10-24 结束；过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/1203620/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
