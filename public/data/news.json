@@ -1,7 +1,149 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-22T10:07:57.239894+00:00",
+  "generated_at": "2026-10-24T10:10:01.730691+00:00",
   "events": [
+    {
+      "id": 144,
+      "title": "《2XKO》最终补丁1.3.3加入Sett与Samira，10月27日凑齐完整阵容",
+      "summary": "Riot Games宣布，格斗游戏《2XKO》的最后两位斗士Sett与Samira将于2026年10月27日随1.3.3补丁上线，从而完成游戏的完整阵容。官方同时确认这是本作最后一次大型更新；据开发者故事，游戏的活跃开发将于2026年12月结束，不过服务器将继续在线，玩法内容已对玩家解锁。更新后还有1.3.3b小平衡与修复补丁（目标11月12日）及11月20日至22日的Battle Coliseum Major赛事。",
+      "topics": [
+        "Riot Games",
+        "2XKO"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-24T10:09:56.271953+00:00",
+      "updated_at": "2026-10-24T10:09:56.271953+00:00",
+      "content_updated_at": "2026-10-24T10:09:56.271953+00:00",
+      "reported_at": "2026-10-24T07:05:38+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gamereactor.eu/2xko-sett-final-champion-oct-27/",
+          "title": "2XKO's roster is complete: Sett and Samira arrive October 27 in the final major update",
+          "published_at": "2026-10-24T07:05:38+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 153,
+          "text": "Riot Games在10月22日的开发者故事中宣布，《2XKO》最后两位斗士Sett与Samira将于2026年10月27日随1.3.3补丁加入，凑齐完整阵容；官方称这是游戏最后一次大型更新，2026年12月结束活跃开发，但服务器继续在线。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.gamereactor.eu/2xko-sett-final-champion-oct-27/",
+          "action": "create_event",
+          "recorded_at": "2026-10-24T10:09:56.272442+00:00",
+          "source_published_at": "2026-10-24T07:05:38+00:00"
+        }
+      ]
+    },
+    {
+      "id": 143,
+      "title": "机核专访《无比坚硬：荒原骑士》制作人，谈创作理念与早期开发状态",
+      "summary": "机核发布对独立游戏《无比坚硬：荒原骑士》制作人的专访。制作人讲述自身从拍电影、玩摇滚到做游戏的经历，强调刻意不与他人作品雷同的创作取向，并称建立团队信任、排除外部意见是开发中最难的部分。采访期间作者通过游戏引擎试玩到开发中版本；文章指出游戏战斗部分仍较早期，框架已搭好但细节待打磨，并提示玩家可在 Steam 新品节下载 DEMO。",
+      "topics": [
+        "无比坚硬：荒原骑士",
+        "机核",
+        "Steam"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-24T10:09:50.797591+00:00",
+      "updated_at": "2026-10-24T10:09:50.797591+00:00",
+      "content_updated_at": "2026-10-24T10:09:50.797591+00:00",
+      "reported_at": "2026-10-24T07:19:55+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gcores.com/articles/221426",
+          "title": "“我这就是个低俗游戏”｜机核专访《无比坚硬：荒原骑士》制作人",
+          "published_at": "2026-10-24T07:19:55+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 152,
+          "text": "机核发布对独立游戏《无比坚硬：荒原骑士》制作人的专访，制作人谈及其创作理念、与团队的信任建立过程，并称游戏战斗部分仍处早期、框架已搭好但需大量打磨。采访期间机核作者通过游戏引擎试玩到仍在开发中的版本，并提示玩家可在 Steam 新品节下载 DEMO 试玩。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.gcores.com/articles/221426",
+          "action": "create_event",
+          "recorded_at": "2026-10-24T10:09:50.798366+00:00",
+          "source_published_at": "2026-10-24T07:19:55+00:00"
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "title": "八位堂推出《古墓丽影》30周年联名手柄，猎户座3代与Pro 3同步开售",
+      "summary": "八位堂于10月24日推出两款《古墓丽影》30周年纪念手柄：猎户座3代Xbox版549元，采用星锁TMR磁阻可调空气摇杆、两段式霍尔线性扳机与专业级背键，PC端支持1kHz回报率和2.4GHz六轴体感，兼容Xbox Series X|S、Windows PC、Apple与Android；Pro 3蓝牙款399元，配TMR摇杆、双扳机切换与磁吸ABXY布局互换，覆盖Switch 1/2、Windows PC、Apple、SteamOS和Android。两款随双11首发活动开售。",
+      "topics": [
+        "八位堂",
+        "古墓丽影"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-24T10:09:30.207281+00:00",
+      "updated_at": "2026-10-24T10:09:30.207281+00:00",
+      "content_updated_at": "2026-10-24T10:09:30.207281+00:00",
+      "reported_at": "2026-10-24T09:14:05+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gcores.com/articles/221429",
+          "title": "致敬《古墓丽影》三十周年，八位堂两款联名纪念手柄全球上市",
+          "published_at": "2026-10-24T09:14:05+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 151,
+          "text": "八位堂于2026年10月24日推出《古墓丽影》30周年联名手柄两款：猎户座3代XBOX版售价549元，采用星锁TMR磁阻可调空气摇杆、两段式霍尔线性扳机、专业级背键，PC端支持1kHz回报率与2.4GHz六轴体感，兼容Apple、Android、Xbox Series X|S与Windows PC；Pro 3蓝牙手柄售价399元，采用TMR摇杆、双扳机切换、磁吸ABXY布局互换，兼容Switch 1/2、Windows PC、Apple、SteamOS与Android。两款随双11首发活动开售。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.gcores.com/articles/221429",
+          "action": "create_event",
+          "recorded_at": "2026-10-24T10:09:30.207851+00:00",
+          "source_published_at": "2026-10-24T09:14:05+00:00"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "title": "《Fallout 76》累计玩家突破 2500 万，宠物随行更新「World Pets」12 月 1 日上线",
+      "summary": "Bethesda 于 2026 年 10 月 24 日宣布，《Fallout 76》累计玩家数突破 2500 万，较 2024 年 5 月的 2000 万继续增长。同期公开的下一大型更新「World Pets」将于 12 月 1 日上线，此前只能在 C.A.M.P. 内饲养的宠物可被带出同行，狗、猫以及 radhog、deathclaw 等废土生物会与玩家一起旅行和战斗。游戏在 PC（Steam/Microsoft Store）、PS5/PS4、Xbox Series X|S/Xbox One 运营。",
+      "topics": [
+        "Bethesda Softworks",
+        "Fallout 76",
+        "Steam"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-24T10:09:15.098483+00:00",
+      "updated_at": "2026-10-24T10:09:15.098483+00:00",
+      "content_updated_at": "2026-10-24T10:09:15.098483+00:00",
+      "reported_at": "2026-10-24T09:57:19+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "http://www.gamespark.jp/article/2026/10/24/174045.html",
+          "title": "『Fallout 76』累計プレイヤー数2,500万人突破！ペットと冒険できる新アップデート「World Pets」は12月1日配信",
+          "published_at": "2026-10-24T09:57:19+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 150,
+          "text": "Bethesda Softworks 于 2026 年 10 月 24 日在 Steam 新闻宣布，《Fallout 76》累计玩家数突破 2500 万；该数字在 2024 年 5 月曾突破 2000 万。同期公布的下一大型更新「World Pets」将于 12 月 1 日上线，把此前只能在 C.A.M.P. 内饲养的宠物带出，狗、猫以及 radhog、deathclaw 等废土生物可与玩家一同旅行并战斗。",
+          "evidence_kind": "syndication",
+          "source_url": "http://www.gamespark.jp/article/2026/10/24/174045.html",
+          "action": "create_event",
+          "recorded_at": "2026-10-24T10:09:15.099020+00:00",
+          "source_published_at": "2026-10-24T09:57:19+00:00"
+        }
+      ]
+    },
     {
       "id": 137,
       "title": "《赛马娘》7th EVENT洛杉矶公演中止后宣布退还住宿与交通费",
