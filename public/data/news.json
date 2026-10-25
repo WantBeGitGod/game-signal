@@ -1,7 +1,80 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-24T10:10:01.730691+00:00",
+  "generated_at": "2026-10-25T10:15:08.296154+00:00",
   "events": [
+    {
+      "id": 149,
+      "title": "饭岛多纪哉说明《ONI零～复活～》与《ONI零 X》发售顺序",
+      "summary": "Game*Spark 在“全国娱乐祭”会场采访饭岛多纪哉。他表示，听取玩家对《ONI零 X》主角与《流转》的反馈后，决定先推出《ONI零～复活～》，并计划明年发售该作、后年推出《ONI零 X》；但由于发行商 Mebius 的喜多村身体不适正在疗养，开发进展并不顺利。",
+      "topics": [
+        "饭岛多纪哉",
+        "ONI零～复活～",
+        "ONI零 X",
+        "Mebius"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-25T10:14:57.374216+00:00",
+      "updated_at": "2026-10-25T10:14:57.374216+00:00",
+      "content_updated_at": "2026-10-25T10:14:57.374216+00:00",
+      "reported_at": "2026-10-25T08:00:03+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "http://www.gamespark.jp/article/2026/10/25/174060.html",
+          "title": "『ONI零 X』に先駆け『ONI零～復活～』を制作へ！ 飯島多紀哉氏が明かす『ONI』シリーズの今後と、幻の『忍者大戦』構想【ミニインタビュー】",
+          "published_at": "2026-10-25T08:00:03+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 158,
+          "text": "饭岛多纪哉在采访中表示，将为《ONI零 X》先推出《ONI零～复活～》，计划明年发售《ONI零～复活～》、后年发售《ONI零 X》；因发行商Mebius的喜多村身体不适疗养，开发进展不顺。",
+          "evidence_kind": "original_reporting",
+          "source_url": "http://www.gamespark.jp/article/2026/10/25/174060.html",
+          "action": "create_event",
+          "recorded_at": "2026-10-25T10:14:57.374769+00:00",
+          "source_published_at": "2026-10-25T08:00:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "title": "《Nocturne》开发者采访：正在推进主机移植，2027 年初计划推出官方日本语",
+      "summary": "Game*Spark 邮件采访节奏动作 RPG《Nocturne》开发者 Benjamin Pracy。作品将敌我战斗做成节奏游戏，收录 101 首与剧情呼应的曲目，设有难度选项和街机模式，截至采访时 Steam 好评率 98%，尚未支持日本语。开发者表示正全力准备家用主机移植，进度将在近期公布；目标 2027 年初实现官方日本语本地化，之后希望与其他游戏工作室和艺人合作推出新内容，并允许玩家直播与变现。",
+      "topics": [
+        "Pracy Studios",
+        "Nocturne",
+        "Steam"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-25T10:14:49.898473+00:00",
+      "updated_at": "2026-10-25T10:14:49.898473+00:00",
+      "content_updated_at": "2026-10-25T10:14:49.898473+00:00",
+      "reported_at": "2026-10-25T08:15:03+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "http://www.gamespark.jp/article/2026/10/25/174061.html",
+          "title": "「他のゲームスタジオやアーティストとのコラボも実現したい」リズムアクションRPG『Nocturne』【開発者インタビュー】",
+          "published_at": "2026-10-25T08:15:03+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 157,
+          "text": "Game*Spark 以邮件形式采访 Pracy Studios 开发者 Benjamin Pracy，介绍节奏动作 RPG《Nocturne》：玩家与敌人的战斗以节奏游戏形式进行，设有难度设置和挑战高分的街机模式，收录 101 首曲目，截至采访时 Steam 好评率 98%，日本语尚未支持。开发者称正全力进行家用主机移植，希望在 2027 年初推出官方日本语本地化，之后愿意与其他游戏工作室及艺人合作推出新内容，并允许玩家直播和变现。",
+          "evidence_kind": "original_reporting",
+          "source_url": "http://www.gamespark.jp/article/2026/10/25/174061.html",
+          "action": "create_event",
+          "recorded_at": "2026-10-25T10:14:49.899055+00:00",
+          "source_published_at": "2026-10-25T08:15:03+00:00"
+        }
+      ]
+    },
     {
       "id": 144,
       "title": "《2XKO》最终补丁1.3.3加入Sett与Samira，10月27日凑齐完整阵容",
