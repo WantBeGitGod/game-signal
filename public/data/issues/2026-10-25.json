@@ -1,0 +1,549 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-10-25",
+  "title": "10.25 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 14.51,
+    "fact_summary": "Moon Sweepers 今日观测峰值 13,061，较过往最高峰值提升 +54%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-23",
+      "current_release_date": "2026-10-23",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-25 17:50:35",
+      "current_peak": 13061,
+      "previous_peak": 8488,
+      "previous_record_peak": 8488,
+      "growth_rate": 0.5388,
+      "record_growth_rate": 0.5388,
+      "scoring_peak": 13061,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 11.75,
+      "raw_record_growth_score": 18.86,
+      "growth_score_multiplier": 0.1459,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.1153,
+      "growth_scale_crossing_component": 0.0306,
+      "record_growth_score": 2.75,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 14.51,
+      "event_adjusted_score": 14.51,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 14.51,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 14.51,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "休闲",
+        "独立",
+        "模拟",
+        "策略"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-23",
+      "release_event_age_days": 2,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 6,
+      "trend": [
+        {
+          "date": "2026-10-24",
+          "peak": 8488
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 13061
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/5335510"
+      }
+    ],
+    "game": {
+      "slug": "moon-sweepers",
+      "appid": "5335510",
+      "name": "Moon Sweepers",
+      "name_cn": null,
+      "description": "整个月球等你打扫，开局只有一把牙刷。与好友组成最多16人的清洁小队，收集并出售月尘，升级工具，解锁清洁载具。把这份离谱的工作做成蒸蒸日上的生意，前提是你的朋友真的肯帮忙。",
+      "release_date": "2026-10-23",
+      "genres": [
+        "动作",
+        "冒险",
+        "休闲",
+        "独立",
+        "模拟",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "自定义音量控制",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 输入 API 支持",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "DragDrop Games",
+      "publisher": "DragDrop Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792738801",
+      "steam_url": "https://store.steampowered.com/app/5335510",
+      "product_family_identity": "appid:5335510",
+      "product_family_appid": "5335510",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-24",
+          "peak": 8488
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 13061
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Moon Sweepers 是一款能单人游玩、最多16人联机的月球清扫模拟。开局经费只够一把牙刷，你得把月尘变成下一件工具的钱。",
+      "reference_frame": "可以从合作采集游戏的“干活、交货、换设备”理解它：刷下来的灰尘装满背包，就送去仓库发货，收入再投入工具和运力。比起 Ore Factory Squad 把矿石接进加工链、按合同交货，这里更直接地围绕清扫面积和往返搬运展开；地面一块块变干净，就是最直观的进度。",
+      "for_players": "适合喜欢看脏地面慢慢变干净、愿意边聊天边做重复劳动，也享受设备逐级升级的人。多人可以各扫一片，也能围着同一区域一起干。",
+      "not_for_players": "如果你容易厌倦来回交货和刷地，或希望合作始终带着紧张战斗与严密岗位配合，这里的劳动节奏可能撑不起兴趣。",
+      "star_reason": "10月25日本地观测峰值13,061，较此前8,488提高约54%，首次摘星。当天评分快照没有可靠评价，口碑暂不下结论；这次值得追踪的是，发售后的玩家聚集是否还会继续扩大。",
+      "core_loop": [
+        "刷掉月尘并收集起来，装满后运回仓库，发射货物换钱。",
+        "升级清扫工具和携带容量，让下一趟能清得更多、跑得更少。",
+        "把仓库放到工作区附近，逐步解锁清扫载具，和队友分头扩大清洁范围。"
+      ],
+      "content_length": 467
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-25T10:10:16+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 11,
+          "inspected_count": 19,
+          "top_views": 58013,
+          "search_url": "https://www.youtube.com/results?search_query=Moon%20Sweepers",
+          "sources": [
+            {
+              "title": "We have to LITERALLY clean the ENTIRE MOON | Moon Sweepers Part 1",
+              "url": "https://www.youtube.com/watch?v=4C6poRImasE",
+              "published_on": "2026-10-25"
+            },
+            {
+              "title": "Moon Sweepers How to Use Packer and Robot Vacuum",
+              "url": "https://www.youtube.com/watch?v=MleaJa4IOuk",
+              "published_on": "2026-10-25"
+            },
+            {
+              "title": "MOON SWEEPERS - Full Gameplay Walkthrough Part 1 [FULL GAME] No Commentary",
+              "url": "https://www.youtube.com/watch?v=5X7wa4PP8Tk",
+              "published_on": "2026-10-24"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 3,
+          "inspected_count": 30,
+          "top_views": 1164,
+          "search_url": "https://search.bilibili.com/all?keyword=Moon%20Sweepers",
+          "sources": [
+            {
+              "title": "【评论区抽喜加一，10月29日开奖】扫除咯！——《 Moon Sweepers 》",
+              "url": "https://www.bilibili.com/video/BV1fnHK6BEAN/",
+              "published_on": "2026-10-25"
+            },
+            {
+              "title": "《 Moon Sweepers 》全工具一键解锁升级，金钱充裕，轻松横扫月面清扫全程无忧",
+              "url": "https://www.bilibili.com/video/BV1YWHV6SEHr/",
+              "published_on": "2026-10-25"
+            },
+            {
+              "title": "《 Moon Sweepers 》解锁工具+升级工具+随身上交灰尘！最新修改工具实测",
+              "url": "https://www.bilibili.com/video/BV18XH56SEDF/",
+              "published_on": "2026-10-25"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 6。",
+    "selection_context": {
+      "model_rank": 6,
+      "leader": {
+        "name": "AION 2",
+        "appid": "3393110",
+        "score": 30.0,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/3393110/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 14.51,
+    "fact_summary": "Moon Sweepers 今日观测峰值 13,061，较过往最高峰值提升 +54%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-23",
+      "current_release_date": "2026-10-23",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-25 17:50:35",
+      "current_peak": 13061,
+      "previous_peak": 8488,
+      "previous_record_peak": 8488,
+      "growth_rate": 0.5388,
+      "record_growth_rate": 0.5388,
+      "scoring_peak": 13061,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 11.75,
+      "raw_record_growth_score": 18.86,
+      "growth_score_multiplier": 0.1459,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.1153,
+      "growth_scale_crossing_component": 0.0306,
+      "record_growth_score": 2.75,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 14.51,
+      "event_adjusted_score": 14.51,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 14.51,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 14.51,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "休闲",
+        "独立",
+        "模拟",
+        "策略"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-23",
+      "release_event_age_days": 2,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 6,
+      "trend": [
+        {
+          "date": "2026-10-24",
+          "peak": 8488
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 13061
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/5335510"
+      }
+    ],
+    "game": {
+      "slug": "moon-sweepers",
+      "appid": "5335510",
+      "name": "Moon Sweepers",
+      "name_cn": null,
+      "description": "整个月球等你打扫，开局只有一把牙刷。与好友组成最多16人的清洁小队，收集并出售月尘，升级工具，解锁清洁载具。把这份离谱的工作做成蒸蒸日上的生意，前提是你的朋友真的肯帮忙。",
+      "release_date": "2026-10-23",
+      "genres": [
+        "动作",
+        "冒险",
+        "休闲",
+        "独立",
+        "模拟",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "自定义音量控制",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 输入 API 支持",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "DragDrop Games",
+      "publisher": "DragDrop Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792738801",
+      "steam_url": "https://store.steampowered.com/app/5335510",
+      "product_family_identity": "appid:5335510",
+      "product_family_appid": "5335510",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-24",
+          "peak": 8488
+        },
+        {
+          "date": "2026-10-25",
+          "peak": 13061
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Moon Sweepers 是一款能单人游玩、最多16人联机的月球清扫模拟。开局经费只够一把牙刷，你得把月尘变成下一件工具的钱。",
+      "reference_frame": "可以从合作采集游戏的“干活、交货、换设备”理解它：刷下来的灰尘装满背包，就送去仓库发货，收入再投入工具和运力。比起 Ore Factory Squad 把矿石接进加工链、按合同交货，这里更直接地围绕清扫面积和往返搬运展开；地面一块块变干净，就是最直观的进度。",
+      "for_players": "适合喜欢看脏地面慢慢变干净、愿意边聊天边做重复劳动，也享受设备逐级升级的人。多人可以各扫一片，也能围着同一区域一起干。",
+      "not_for_players": "如果你容易厌倦来回交货和刷地，或希望合作始终带着紧张战斗与严密岗位配合，这里的劳动节奏可能撑不起兴趣。",
+      "star_reason": "10月25日本地观测峰值13,061，较此前8,488提高约54%，首次摘星。当天评分快照没有可靠评价，口碑暂不下结论；这次值得追踪的是，发售后的玩家聚集是否还会继续扩大。",
+      "core_loop": [
+        "刷掉月尘并收集起来，装满后运回仓库，发射货物换钱。",
+        "升级清扫工具和携带容量，让下一趟能清得更多、跑得更少。",
+        "把仓库放到工作区附近，逐步解锁清扫载具，和队友分头扩大清洁范围。"
+      ],
+      "content_length": 467
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-25T10:10:16+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 11,
+          "inspected_count": 19,
+          "top_views": 58013,
+          "search_url": "https://www.youtube.com/results?search_query=Moon%20Sweepers",
+          "sources": [
+            {
+              "title": "We have to LITERALLY clean the ENTIRE MOON | Moon Sweepers Part 1",
+              "url": "https://www.youtube.com/watch?v=4C6poRImasE",
+              "published_on": "2026-10-25"
+            },
+            {
+              "title": "Moon Sweepers How to Use Packer and Robot Vacuum",
+              "url": "https://www.youtube.com/watch?v=MleaJa4IOuk",
+              "published_on": "2026-10-25"
+            },
+            {
+              "title": "MOON SWEEPERS - Full Gameplay Walkthrough Part 1 [FULL GAME] No Commentary",
+              "url": "https://www.youtube.com/watch?v=5X7wa4PP8Tk",
+              "published_on": "2026-10-24"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 3,
+          "inspected_count": 30,
+          "top_views": 1164,
+          "search_url": "https://search.bilibili.com/all?keyword=Moon%20Sweepers",
+          "sources": [
+            {
+              "title": "【评论区抽喜加一，10月29日开奖】扫除咯！——《 Moon Sweepers 》",
+              "url": "https://www.bilibili.com/video/BV1fnHK6BEAN/",
+              "published_on": "2026-10-25"
+            },
+            {
+              "title": "《 Moon Sweepers 》全工具一键解锁升级，金钱充裕，轻松横扫月面清扫全程无忧",
+              "url": "https://www.bilibili.com/video/BV1YWHV6SEHr/",
+              "published_on": "2026-10-25"
+            },
+            {
+              "title": "《 Moon Sweepers 》解锁工具+升级工具+随身上交灰尘！最新修改工具实测",
+              "url": "https://www.bilibili.com/video/BV18XH56SEDF/",
+              "published_on": "2026-10-25"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 6。",
+    "selection_context": {
+      "model_rank": 6,
+      "leader": {
+        "name": "AION 2",
+        "appid": "3393110",
+        "score": 30.0,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/3393110/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
