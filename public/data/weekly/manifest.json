@@ -1,8 +1,18 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-19T13:07:18",
-  "latest_weekly": "2026-10-12-week",
+  "generated_at": "2026-10-26T13:38:42",
+  "latest_weekly": "2026-10-19-week",
   "issues": [
+    {
+      "slug": "2026-10-19-week",
+      "issue_number": 22,
+      "week_start": "2026-10-19",
+      "week_end": "2026-10-25",
+      "title": "雾里盖房还没下班\n天上打团又到周末",
+      "summary": "10 月 19–25 日，《雾锁王国》五天模型第一、两天第二，以 33 分拿下综合第一；永恒之塔 2 在周末换到头名，整周 30 分排第二。两款游戏七天包办前二，本周都没有实际摘星。新的公开星位落到更后面的游戏，FINAL FANTASY RESONANCE 三天两星冲到第四。七天日榜齐全，整周占位与新作起步，各有一条清楚的轨迹。",
+      "status": "published",
+      "published_at": "2026-10-26 13:38:42"
+    },
     {
       "slug": "2026-10-12-week",
       "issue_number": 21,
