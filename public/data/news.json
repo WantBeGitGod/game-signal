@@ -1,7 +1,82 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-26T10:17:23.053922+00:00",
+  "generated_at": "2026-10-27T10:08:59.524880+00:00",
   "events": [
+    {
+      "id": 157,
+      "title": "独立开发者称《Crown Me Again》公布后遭疑似 AI 克隆《King Dies Rich》",
+      "summary": "增量的刷装游戏《Crown Me Again》开发者 _Powski_ 在 Reddit 表示，作品 9 月末公布后出现了概念相似的《King Dies Rich》，后者同样坐在王座上自动攻击、以战利品构筑 build 并永久强化，但系统远多于原作。《King Dies Rich》商店页写明动画与音效由生成式 AI 制作，据 SteamDB 于 10 月 3 日登记、11 月 13 日发售，并已推出免费 Android 与浏览器版。开发者承认难以断言是克隆，表达了困惑与难过；报道也指出两者内容差异明显、类似受《Nodebuster》影响的作品此前已有多款，无法下定论。",
+      "topics": [
+        "_Powski_",
+        "The Code Otter",
+        "Crown Me Again",
+        "Outlane",
+        "King Dies Rich",
+        "Steam"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-27T10:08:56.789133+00:00",
+      "updated_at": "2026-10-27T10:08:56.789133+00:00",
+      "content_updated_at": "2026-10-27T10:08:56.789133+00:00",
+      "reported_at": "2026-10-27T09:37:20+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://automaton-media.com/articles/newsjp/20261027-475895/",
+          "title": "あるゲーム開発者、新作発表後に「だいぶ似てるAI製ゲーム」が現れて困惑。“似てるだけじゃない”ゆえのつらさ、クローンとも言えない",
+          "published_at": "2026-10-27T09:37:20+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 166,
+          "text": "《Crown Me Again》开发者 _Powski_ 在 Reddit 发帖，称其作品公布后出现了概念高度相似的《King Dies Rich》，后者商店页承认动画与音效由生成式 AI 制作；他因对方系统远比自己的作品多而难以判断是否算克隆，并表达了困惑与难过。报道指出《Crown Me Again》9 月末公布、计划 2027 年第一季度登陆 Steam，《King Dies Rich》据 SteamDB 于 10 月 3 日登记、11 月 13 日发售，并已于 10 月 12 日推出免费 Android 与浏览器版。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://automaton-media.com/articles/newsjp/20261027-475895/",
+          "action": "create_event",
+          "recorded_at": "2026-10-27T10:08:56.789822+00:00",
+          "source_published_at": "2026-10-27T09:37:20+00:00"
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "title": "构筑系自动战斗 Roguelite《ELbab》推出 Steam 正式版，新增无尽模式",
+      "summary": "独立开发者 makz 的自动战斗 Roguelite《ELbab》已在 PC（Steam）推出正式版 v1.0。游戏以「可玩的刷装构筑设计工具」为概念，受《Path of Exile》与其非官方构筑模拟器 PoB 影响：玩家在「圆环图书馆」中选角，用刻石解锁技能树节点强化角色，战斗自动进行。v1.0 新增仅能用通关最高难度存档挑战的 Endless Mode 与新的强化书籍，并加入战斗回放、分析及最高 10 倍速战斗。售价 800 日元，11 月 3 日前四折 480 日元。",
+      "topics": [
+        "ELbab",
+        "makz",
+        "Steam"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-27T10:08:47.885082+00:00",
+      "updated_at": "2026-10-27T10:08:47.885082+00:00",
+      "content_updated_at": "2026-10-27T10:08:47.885082+00:00",
+      "reported_at": "2026-10-27T09:45:03+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "http://www.gamespark.jp/article/2026/10/27/174141.html",
+          "title": "キャラビルドを練りまくるオートバトル・ローグライク『ELbab』Steam正式リリース。『Path of Exile』も外部ビルドシムの「PoB」も大好きという人向け",
+          "published_at": "2026-10-27T09:45:03+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 165,
+          "text": "独立开发者 makz 的自动战斗类 Roguelite《ELbab》在 PC（Steam）推出正式版 v1.0，新增仅可用通关最高难度存档挑战的「Endless Mode」、新的强化书籍，以及战斗回放、分析与最高 10 倍速战斗功能；游戏售价 800 日元，11 月 3 日前四折 480 日元。",
+          "evidence_kind": "original_reporting",
+          "source_url": "http://www.gamespark.jp/article/2026/10/27/174141.html",
+          "action": "create_event",
+          "recorded_at": "2026-10-27T10:08:47.885259+00:00",
+          "source_published_at": "2026-10-27T09:45:03+00:00"
+        }
+      ]
+    },
     {
       "id": 152,
       "title": "《浪漫沙加3 命运联合》公开角色、系统与战斗新情报",
