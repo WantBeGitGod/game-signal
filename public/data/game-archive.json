@@ -1,7 +1,40 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-26T18:14:05",
+  "generated_at": "2026-10-27T18:11:59",
   "games": [
+    {
+      "game": {
+        "slug": "scam-with-your-friends",
+        "appid": "4954910",
+        "name": "Scam With Your Friends",
+        "name_cn": null,
+        "description": "和朋友们一起经营一家诈骗呼叫中心。用越来越荒唐的骗局，骗光 AI 来电者毕生的积蓄。完成每日指标，把办公室搅得天翻地覆，并在暴怒成性的老板面前熬过一场残酷的绩效考核。",
+        "genres": [
+          "动作",
+          "休闲",
+          "独立",
+          "模拟",
+          "抢先体验"
+        ],
+        "developer": "JakeHub, Metater",
+        "publisher": "Jatater Worldwide",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/128effac3212fc1b92b4f6cd8891995df0d4b199/header.jpg?t=1792556475",
+        "product_family_identity": "appid:4954910",
+        "product_family_appid": "4954910",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-10-27"
+      ],
+      "member_appids": [
+        "4954910"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-10-27"
+    },
     {
       "game": {
         "slug": "moon-sweepers",
