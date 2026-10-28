@@ -1,7 +1,39 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-27T20:38:32",
+  "generated_at": "2026-10-28T18:15:07",
   "games": [
+    {
+      "game": {
+        "slug": "questaway",
+        "appid": "5195600",
+        "name": "QuestAway",
+        "name_cn": null,
+        "description": "住在任务栏旁边的迷你放置类RPG。组好英雄队伍，派他们出去战斗，你就回去忙自己的事。等你回来，战利品已经在等着了。每天12次，所有人一起挑战一只巨像。",
+        "genres": [
+          "休闲",
+          "独立",
+          "角色扮演",
+          "免费"
+        ],
+        "developer": "ART X GAMES",
+        "publisher": "ART X GAMES",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195600/46a7e932499272c331584e439bb050d4735f347d/header.jpg?t=1792803036",
+        "product_family_identity": "appid:5195600",
+        "product_family_appid": "5195600",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-10-28"
+      ],
+      "member_appids": [
+        "5195600"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-10-28"
+    },
     {
       "game": {
         "slug": "scam-with-your-friends",

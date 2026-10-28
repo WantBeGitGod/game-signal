@@ -1,0 +1,541 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-10-28",
+  "title": "10.28 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 5.98,
+    "fact_summary": "QuestAway 今日观测峰值 6,641，未超过过往最高峰值 7,954，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-23",
+      "current_release_date": "2026-10-23",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-28 17:50:27",
+      "current_peak": 6641,
+      "previous_peak": 7954,
+      "previous_record_peak": 7954,
+      "growth_rate": -0.1651,
+      "record_growth_rate": -0.1651,
+      "scoring_peak": 6641,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 5.98,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.1012,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.1012,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 5.98,
+      "event_adjusted_score": 5.98,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 5.98,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 5.98,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 3,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "休闲",
+        "独立",
+        "角色扮演",
+        "免费"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-23",
+      "release_event_age_days": 5,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 8,
+      "trend": [
+        {
+          "date": "2026-10-25",
+          "peak": 7954
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 6731
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 6641
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/5195600"
+      }
+    ],
+    "game": {
+      "slug": "questaway",
+      "appid": "5195600",
+      "name": "QuestAway",
+      "name_cn": null,
+      "description": "住在任务栏旁边的迷你放置类RPG。组好英雄队伍，派他们出去战斗，你就回去忙自己的事。等你回来，战利品已经在等着了。每天12次，所有人一起挑战一只巨像。",
+      "release_date": "2026-10-23",
+      "genres": [
+        "休闲",
+        "独立",
+        "角色扮演",
+        "免费"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "应用内购买",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "ART X GAMES",
+      "publisher": "ART X GAMES",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195600/46a7e932499272c331584e439bb050d4735f347d/header.jpg?t=1792803036",
+      "steam_url": "https://store.steampowered.com/app/5195600",
+      "product_family_identity": "appid:5195600",
+      "product_family_appid": "5195600",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-25",
+          "peak": 7954
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 6731
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 6641
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "QuestAway 是一款住在任务栏旁边的免费放置RPG：你配好英雄小队，让他们自己打怪，忙完手头的事再回来收装备。",
+      "reference_frame": "玩过《TBH：Task Bar Hero》，就容易理解这种“后台打、回来配装”的节奏。QuestAway把养成铺到最多四名英雄的职业搭配上，还用全服巨像给小队安排共同目标；参照的是桌面刷装循环，不能照搬前者的物品经济。",
+      "for_players": "适合想在工作间隙看一点成长、愿意反复整理掉落和调阵容的人。战斗自己进行，你的参与主要落在配置与回访。",
+      "not_for_players": "如果你想亲手走位打连招，或希望所有职业都能免费解锁，要留意：部分职业需要付费水晶。小窗口也装着不少养成菜单。",
+      "star_reason": "10月28日本地观测峰值6,641，低于此前7,954，今天首次摘星。本期评分快照缺少可靠评价；另行核对时商店显示21%好评、648篇评价，口碑明显偏负。这次摘星只记录玩家规模，不代表品质推荐。",
+      "core_loop": [
+        "选英雄、安排技能，让小队去能打得动的区域自动战斗。",
+        "回来挑装备、花成长资源调整配置，再试更难的关卡。",
+        "巨像出现时派队参战，用奖励继续补强英雄。"
+      ],
+      "content_length": 434
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-28T10:14:00+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 9,
+          "inspected_count": 16,
+          "top_views": 13653,
+          "search_url": "https://www.youtube.com/results?search_query=QuestAway",
+          "sources": [
+            {
+              "title": "[QuestAway] Rift Difficulty Levels 4-10 Walkthrough Setup Reference 🔥 Skill & Passive Skill Tree ...",
+              "url": "https://www.youtube.com/watch?v=sqy5DEDoSqk",
+              "published_on": "2026-10-28"
+            },
+            {
+              "title": "【QuestAway】🛑直播中🛑全新放置遊戲🔥開局探索、打怪刷寶｜300個關卡&每個職業20個技能&大型節點的被動樹｜小月歡樂星 LIVE｜桌面放置STEAM遊戲【小月】",
+              "url": "https://www.youtube.com/watch?v=g5M-1Z2LS7U",
+              "published_on": "2026-10-25"
+            },
+            {
+              "title": "QuestAway: 5 DICAS ESSENCIAIS para COMEÇAR BEM! (Guia para Iniciantes)",
+              "url": "https://www.youtube.com/watch?v=TzE1akQ45R0",
+              "published_on": "2026-10-25"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 18,
+          "inspected_count": 30,
+          "top_views": 6898,
+          "search_url": "https://search.bilibili.com/all?keyword=QuestAway",
+          "sources": [
+            {
+              "title": "steam挂机游戏 questaway 前途堪忧，13号或迎来甜品undealt。",
+              "url": "https://www.bilibili.com/video/BV1Nxxu6qEAe/",
+              "published_on": "2026-10-28"
+            },
+            {
+              "title": "新挂机卓游 questaway 百暴配置BD攻略分享",
+              "url": "https://www.bilibili.com/video/BV1GHxL6eE26/",
+              "published_on": "2026-10-28"
+            },
+            {
+              "title": "STEAM挂机游戏 questaway 怎么搬砖，弓箭工程牧师体系详解",
+              "url": "https://www.bilibili.com/video/BV1EaHc6dEAH/",
+              "published_on": "2026-10-27"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 8。",
+    "selection_context": {
+      "model_rank": 8,
+      "leader": {
+        "name": "AION 2",
+        "appid": "3393110",
+        "score": 30.0,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/3393110/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 5.98,
+    "fact_summary": "QuestAway 今日观测峰值 6,641，未超过过往最高峰值 7,954，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-23",
+      "current_release_date": "2026-10-23",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-28 17:50:27",
+      "current_peak": 6641,
+      "previous_peak": 7954,
+      "previous_record_peak": 7954,
+      "growth_rate": -0.1651,
+      "record_growth_rate": -0.1651,
+      "scoring_peak": 6641,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 5.98,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.1012,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.1012,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 5.98,
+      "event_adjusted_score": 5.98,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 5.98,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 5.98,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 3,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "休闲",
+        "独立",
+        "角色扮演",
+        "免费"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-23",
+      "release_event_age_days": 5,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 8,
+      "trend": [
+        {
+          "date": "2026-10-25",
+          "peak": 7954
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 6731
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 6641
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/5195600"
+      }
+    ],
+    "game": {
+      "slug": "questaway",
+      "appid": "5195600",
+      "name": "QuestAway",
+      "name_cn": null,
+      "description": "住在任务栏旁边的迷你放置类RPG。组好英雄队伍，派他们出去战斗，你就回去忙自己的事。等你回来，战利品已经在等着了。每天12次，所有人一起挑战一只巨像。",
+      "release_date": "2026-10-23",
+      "genres": [
+        "休闲",
+        "独立",
+        "角色扮演",
+        "免费"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "应用内购买",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "ART X GAMES",
+      "publisher": "ART X GAMES",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5195600/46a7e932499272c331584e439bb050d4735f347d/header.jpg?t=1792803036",
+      "steam_url": "https://store.steampowered.com/app/5195600",
+      "product_family_identity": "appid:5195600",
+      "product_family_appid": "5195600",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-25",
+          "peak": 7954
+        },
+        {
+          "date": "2026-10-27",
+          "peak": 6731
+        },
+        {
+          "date": "2026-10-28",
+          "peak": 6641
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "QuestAway 是一款住在任务栏旁边的免费放置RPG：你配好英雄小队，让他们自己打怪，忙完手头的事再回来收装备。",
+      "reference_frame": "玩过《TBH：Task Bar Hero》，就容易理解这种“后台打、回来配装”的节奏。QuestAway把养成铺到最多四名英雄的职业搭配上，还用全服巨像给小队安排共同目标；参照的是桌面刷装循环，不能照搬前者的物品经济。",
+      "for_players": "适合想在工作间隙看一点成长、愿意反复整理掉落和调阵容的人。战斗自己进行，你的参与主要落在配置与回访。",
+      "not_for_players": "如果你想亲手走位打连招，或希望所有职业都能免费解锁，要留意：部分职业需要付费水晶。小窗口也装着不少养成菜单。",
+      "star_reason": "10月28日本地观测峰值6,641，低于此前7,954，今天首次摘星。本期评分快照缺少可靠评价；另行核对时商店显示21%好评、648篇评价，口碑明显偏负。这次摘星只记录玩家规模，不代表品质推荐。",
+      "core_loop": [
+        "选英雄、安排技能，让小队去能打得动的区域自动战斗。",
+        "回来挑装备、花成长资源调整配置，再试更难的关卡。",
+        "巨像出现时派队参战，用奖励继续补强英雄。"
+      ],
+      "content_length": 434
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-28T10:14:00+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 9,
+          "inspected_count": 16,
+          "top_views": 13653,
+          "search_url": "https://www.youtube.com/results?search_query=QuestAway",
+          "sources": [
+            {
+              "title": "[QuestAway] Rift Difficulty Levels 4-10 Walkthrough Setup Reference 🔥 Skill & Passive Skill Tree ...",
+              "url": "https://www.youtube.com/watch?v=sqy5DEDoSqk",
+              "published_on": "2026-10-28"
+            },
+            {
+              "title": "【QuestAway】🛑直播中🛑全新放置遊戲🔥開局探索、打怪刷寶｜300個關卡&每個職業20個技能&大型節點的被動樹｜小月歡樂星 LIVE｜桌面放置STEAM遊戲【小月】",
+              "url": "https://www.youtube.com/watch?v=g5M-1Z2LS7U",
+              "published_on": "2026-10-25"
+            },
+            {
+              "title": "QuestAway: 5 DICAS ESSENCIAIS para COMEÇAR BEM! (Guia para Iniciantes)",
+              "url": "https://www.youtube.com/watch?v=TzE1akQ45R0",
+              "published_on": "2026-10-25"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 18,
+          "inspected_count": 30,
+          "top_views": 6898,
+          "search_url": "https://search.bilibili.com/all?keyword=QuestAway",
+          "sources": [
+            {
+              "title": "steam挂机游戏 questaway 前途堪忧，13号或迎来甜品undealt。",
+              "url": "https://www.bilibili.com/video/BV1Nxxu6qEAe/",
+              "published_on": "2026-10-28"
+            },
+            {
+              "title": "新挂机卓游 questaway 百暴配置BD攻略分享",
+              "url": "https://www.bilibili.com/video/BV1GHxL6eE26/",
+              "published_on": "2026-10-28"
+            },
+            {
+              "title": "STEAM挂机游戏 questaway 怎么搬砖，弓箭工程牧师体系详解",
+              "url": "https://www.bilibili.com/video/BV1EaHc6dEAH/",
+              "published_on": "2026-10-27"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 8。",
+    "selection_context": {
+      "model_rank": 8,
+      "leader": {
+        "name": "AION 2",
+        "appid": "3393110",
+        "score": 30.0,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/3393110/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
