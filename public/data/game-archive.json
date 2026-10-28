@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-28T18:15:07",
+  "generated_at": "2026-10-28T20:40:37",
   "games": [
     {
       "game": {
@@ -55,16 +55,18 @@
         "product_family_appid": "4954910",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "scam-with-your-friends"
+      ],
+      "article_title": "Scam With Your Friends-下班以后，还要向AI交业绩",
+      "article_published_at": "2026-10-28",
       "star_dates": [
         "2026-10-27"
       ],
       "member_appids": [
         "4954910"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-10-27"
     },
     {
