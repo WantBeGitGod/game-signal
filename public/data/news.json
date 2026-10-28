@@ -1,7 +1,78 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-27T10:08:59.524880+00:00",
+  "generated_at": "2026-10-28T10:07:30.830514+00:00",
   "events": [
+    {
+      "id": 161,
+      "title": "Valve 要求开发者送审前须在 Steam 试玩所提交版本至少 5 分钟",
+      "summary": "报道称 Valve 更新 Steam 审核条件：开发者须以开发者账号启动送审游戏并运行至少 5 分钟，试玩须在最近 7 天内完成，或在最新版本上传默认分支后进行，否则无法送审。该要求此前不存在，开发者社区推测此举意在减少未运行测试即送审的作品，与生成式 AI 带来的劣质游戏泛滥讨论相关。",
+      "topics": [
+        "Valve",
+        "Steam"
+      ],
+      "kind": "business",
+      "created_at": "2026-10-28T10:07:25.310642+00:00",
+      "updated_at": "2026-10-28T10:07:25.310642+00:00",
+      "content_updated_at": "2026-10-28T10:07:25.310642+00:00",
+      "reported_at": "2026-10-28T09:31:12+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gcores.com/articles/221584",
+          "title": "V社更新审核要求，开发者必须游玩送审游戏5分钟",
+          "published_at": "2026-10-28T09:31:12+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 170,
+          "text": "Valve 在 Steam 游戏审核中新增要求：开发者必须使用开发者账号在 Steam 上启动送审游戏并运行至少 5 分钟，且试玩须在过去 7 天内完成，或在最新版本上传至默认分支之后进行；未测试提交版本则无法送审。该变化由 Automaton 报道、4gamers 提供后台截图，本周多名开发者在 Reddit r/gamedev 讨论，称此前并无此要求，部分开发者推测是为遏制未经运行测试即送审的劣质（含生成式 AI 泛滥）游戏。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.gcores.com/articles/221584",
+          "action": "create_event",
+          "recorded_at": "2026-10-28T10:07:25.311015+00:00",
+          "source_published_at": "2026-10-28T09:31:12+00:00"
+        }
+      ]
+    },
+    {
+      "id": 158,
+      "title": "《Console Archives マールじゃん!!》PS5/Switch 2 复刻版10月29日推出",
+      "summary": "Hamster 宣布麻雀风绘合游戏《Console Archives マールじゃん!!》将于2026年10月29日登陆 PS5 与 Nintendo Switch 2，售价1,200日元。该作是日本一软件2003年 PS 作品的复刻，保留以绘牌三组先凑齐取胜的规则，并加入角色必杀技与作弊技；收录短篇剧情、24人自由对战和双人模式。",
+      "topics": [
+        "ハムスター",
+        "日本一ソフトウェア",
+        "マールじゃん!!"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-28T10:06:55.680094+00:00",
+      "updated_at": "2026-10-28T10:06:55.680094+00:00",
+      "content_updated_at": "2026-10-28T10:06:55.680094+00:00",
+      "reported_at": "2026-10-28T10:02:38+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "http://www.gamespark.jp/article/2026/10/28/174188.html",
+          "title": "日本一ソフトウェア『マール王国』シリーズのイカサマあり麻雀風スピンオフ『マールじゃん!!』PS5/スイッチ2で復刻！10月29日配信",
+          "published_at": "2026-10-28T10:02:38+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 167,
+          "text": "Hamster 宣布《Console Archives マールじゃん!!》将于2026年10月29日登陆 PS5 与 Nintendo Switch 2，售价1,200日元；该作是日本一软件2003年 PS 平台麻雀风绘合游戏的复刻，玩家可用必杀技与作弊技对战，含剧情模式、自由对战与双人模式。",
+          "evidence_kind": "syndication",
+          "source_url": "http://www.gamespark.jp/article/2026/10/28/174188.html",
+          "action": "create_event",
+          "recorded_at": "2026-10-28T10:06:55.680652+00:00",
+          "source_published_at": "2026-10-28T10:02:38+00:00"
+        }
+      ]
+    },
     {
       "id": 157,
       "title": "独立开发者称《Crown Me Again》公布后遭疑似 AI 克隆《King Dies Rich》",
