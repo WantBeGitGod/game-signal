@@ -1,7 +1,37 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-28T20:40:37",
+  "generated_at": "2026-10-29T18:15:09",
   "games": [
+    {
+      "game": {
+        "slug": "phantom-blade-zero",
+        "appid": "4115450",
+        "name": "Phantom Blade Zero",
+        "name_cn": null,
+        "description": "由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。",
+        "genres": [
+          "动作",
+          "角色扮演"
+        ],
+        "developer": "S-GAME Studio",
+        "publisher": "S-GAME Publishing",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1793261976",
+        "product_family_identity": "appid:4115450",
+        "product_family_appid": "4115450",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-10-29"
+      ],
+      "member_appids": [
+        "4115450"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-10-29"
+    },
     {
       "game": {
         "slug": "questaway",

@@ -1,0 +1,46 @@
+{
+  "slug": "phantom-blade-zero",
+  "appid": "4115450",
+  "name": "Phantom Blade Zero",
+  "name_cn": null,
+  "description": "由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。",
+  "release_date": "2026-10-28",
+  "genres": [
+    "动作",
+    "角色扮演"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "完全支持控制器",
+    "可调整文字大小",
+    "自定义音量控制",
+    "可调整难度",
+    "推荐使用手柄",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "Steam 输入 API 支持",
+    "立体声",
+    "字幕选项",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": null,
+  "review_ratio": null,
+  "review_total": 0,
+  "developer": "S-GAME Studio",
+  "publisher": "S-GAME Publishing",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1793261976",
+  "steam_url": "https://store.steampowered.com/app/4115450",
+  "product_family_identity": "appid:4115450",
+  "product_family_appid": "4115450",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-10-29",
+      "peak": 436089
+    }
+  ]
+}
