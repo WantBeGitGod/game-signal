@@ -1,7 +1,151 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-28T10:07:30.830514+00:00",
+  "generated_at": "2026-10-30T10:17:27.412546+00:00",
   "events": [
+    {
+      "id": 172,
+      "title": "《Titan Quest II》抢先体验更新加入英雄怪物与增益神龛",
+      "summary": "Grimlore Games与THQ Nordic为《Titan Quest II》推出新的抢先体验更新，恢复此前被移除的技能槽，并加入英雄怪物与增益神龛等新内容。",
+      "topics": [
+        "Titan Quest II",
+        "Grimlore Games",
+        "THQ Nordic"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-30T10:17:24.994766+00:00",
+      "updated_at": "2026-10-30T10:17:24.994766+00:00",
+      "content_updated_at": "2026-10-30T10:17:24.994766+00:00",
+      "reported_at": "2026-10-30T09:12:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gameswelt.de/titan-quest-ii/news/neues-feature-update-bringt-helden-monster-buff-schreine-und-mehr-335358",
+          "title": "Titan Quest II - Neues Feature-Update bringt Helden-Monster, Buff-Schreine und mehr",
+          "published_at": "2026-10-30T09:12:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 181,
+          "text": "Grimlore Games与THQ Nordic为《Titan Quest II》推出新的抢先体验更新，除恢复此前被移除的技能槽外，还加入英雄怪物（Helden-Monster）与增益神龛（Buff-Schreine）。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.gameswelt.de/titan-quest-ii/news/neues-feature-update-bringt-helden-monster-buff-schreine-und-mehr-335358",
+          "action": "create_event",
+          "recorded_at": "2026-10-30T10:17:24.995364+00:00",
+          "source_published_at": "2026-10-30T09:12:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 171,
+      "title": "《Gothic 1 Remake》免费更新第一弹：摄影模式、Marvin Mode 与 Modkit beta 上线",
+      "summary": "THQ Nordic Japan 宣布《Gothic 1 Remake》免费更新 Feature Update #1 上线，新增摄影模式、可解锁门锁与传送并生成内容的官方作弊 Marvin Mode、主角发型与纹身自定义、长椅等待时间及武器强化等改动，并修复双戒指与日志等多项问题。更新同时以 beta 形式开启第一阶段 Mod 支持 Modkit BETA，公开脚本规格与源码，成品可在 Steam 创意工坊分享。游戏现于 PC（Steam）与 Xbox Series X|S 发售，Steam 版 11 月 6 日前 25% 折扣；PS5 下载版预定 11 月 24 日。",
+      "topics": [
+        "THQ Nordic Japan",
+        "Gothic 1 Remake",
+        "Steam"
+      ],
+      "kind": "major_update",
+      "created_at": "2026-10-30T10:17:07.813511+00:00",
+      "updated_at": "2026-10-30T10:17:07.813511+00:00",
+      "content_updated_at": "2026-10-30T10:17:07.813511+00:00",
+      "reported_at": "2026-10-30T10:00:03+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "http://www.gamespark.jp/article/2026/10/30/174309.html",
+          "title": "【25％オフ】「名もなき英雄」のアクションRPG『Gothic 1 Remake』無料アプデ第1弾！フォトモードや公式チート、Modサポートの第1段階が登場しセールも",
+          "published_at": "2026-10-30T10:00:03+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 180,
+          "text": "THQ Nordic Japan 公布《Gothic 1 Remake》免费更新第一弹 Feature Update #1：加入可摆姿势拍照的摄影模式、官方作弊模式 Marvin Mode（可解锁门锁、传送、生成物品/角色/生物等）、主角发型与纹身自定义、长椅等待时间、强化自制武器性能与更多声音反应，并修复双戒指装备与日志解锁等多项问题；同时以 beta 形式开启第一阶段 Mod 支持「Modkit BETA」，公开脚本语言规格并提供脚本源码，Mod 可在 Steam 创意工坊分享。游戏在 PC（Steam）与 Xbox Series X|S 发售，Steam 版售价 6490 日元，11 月 6 日前 25% 折扣为 4867 日元；PS5 下载版预定 2026 年 11 月 24 日发售。",
+          "evidence_kind": "syndication",
+          "source_url": "http://www.gamespark.jp/article/2026/10/30/174309.html",
+          "action": "create_event",
+          "recorded_at": "2026-10-30T10:17:07.814188+00:00",
+          "source_published_at": "2026-10-30T10:00:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": 170,
+      "title": "《Attack on Titan 3》公开 Switch 2 版实机预告，确认 12 月 10 日多平台发售",
+      "summary": "光荣特库摩与 Omega Force 于 2026 年 10 月 30 日发布《Attack on Titan 3》Nintendo Switch 2 版实机玩法介绍预告，为该版本在 12 月发售前的首支预告。游戏确认于 12 月 10 日登陆 PS5、Xbox Series X|S、Nintendo Switch 2 与 PC（Steam）。",
+      "topics": [
+        "Koei Tecmo",
+        "Omega Force",
+        "Attack on Titan 3",
+        "Nintendo Switch 2"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-10-30T10:17:01.034656+00:00",
+      "updated_at": "2026-10-30T10:17:01.034656+00:00",
+      "content_updated_at": "2026-10-30T10:17:01.034656+00:00",
+      "reported_at": "2026-10-30T10:02:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.rpgsite.net/news/21661-attack-on-titan-3-nintendo-switch-2-gameplay-video-introduction",
+          "title": "Attack on Titan 3 Nintendo Switch 2 gameplay introduction video released",
+          "published_at": "2026-10-30T10:02:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 179,
+          "text": "光荣特库摩与 Omega Force 于 2026 年 10 月 30 日发布《Attack on Titan 3》Nintendo Switch 2 版实机玩法介绍预告，这是该版本在 12 月发售前的首支预告；游戏将于 12 月 10 日登陆 PS5、Xbox Series X|S、Nintendo Switch 2 与 PC（Steam）。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.rpgsite.net/news/21661-attack-on-titan-3-nintendo-switch-2-gameplay-video-introduction",
+          "action": "create_event",
+          "recorded_at": "2026-10-30T10:17:01.035247+00:00",
+          "source_published_at": "2026-10-30T10:02:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 169,
+      "title": "《塞尔达传说 时之笛》Switch 2 版公开钩索短片与可用位置 UI 提示",
+      "summary": "任天堂公开 Switch 2《塞尔达传说 时之笛》的钩索介绍短片：钩索可抓住远处并快速移动，瞄准可钩住位置时 UI 变为蓝绿色、不可用时变为红色，方便玩家辨认可用位置。游戏预定 11 月 5 日发售，包装版与下载版分别售价 8,980 日元和 7,980 日元。",
+      "topics": [
+        "Nintendo",
+        "《塞尔达传说 时之笛》"
+      ],
+      "kind": "development",
+      "created_at": "2026-10-30T10:16:56.663663+00:00",
+      "updated_at": "2026-10-30T10:16:56.663663+00:00",
+      "content_updated_at": "2026-10-30T10:16:56.663663+00:00",
+      "reported_at": "2026-10-30T10:07:28+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://game.watch.impress.co.jp/docs/news/2152768.html",
+          "title": "「ゼルダの伝説 時のオカリナ」よりフックショットの映像が公開！ 複雑なダンジョンを探索するリンクの姿",
+          "published_at": "2026-10-30T10:07:28+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 178,
+          "text": "任天堂公开了 Switch 2《塞尔达传说 时之笛》的新短片，介绍道具“钩索”：钩索能抓住远处并快速移动；画面中可看出，瞄准能钩住的位置时 UI 变为蓝绿色，不能钩住时变为红色，使可用位置更容易辨认。游戏预定 11 月 5 日发售，包装版 8,980 日元、下载版 7,980 日元。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://game.watch.impress.co.jp/docs/news/2152768.html",
+          "action": "create_event",
+          "recorded_at": "2026-10-30T10:16:56.664285+00:00",
+          "source_published_at": "2026-10-30T10:07:28+00:00"
+        }
+      ]
+    },
     {
       "id": 161,
       "title": "Valve 要求开发者送审前须在 Steam 试玩所提交版本至少 5 分钟",
