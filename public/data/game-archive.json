@@ -1,7 +1,39 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-29T18:15:09",
+  "generated_at": "2026-10-30T18:15:31",
   "games": [
+    {
+      "game": {
+        "slug": "probably-stolen-cyberpunk-shopkeeper-sim",
+        "appid": "4348910",
+        "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+        "name_cn": null,
+        "description": "《深空当铺：可能是偷的》是一款设定在反乌托邦空间站内的赛博朋克店铺经营模拟游戏。制造、交易并走私来路不明的货物，在各方派系势力间周旋；看看为了维持生计，你愿意突破多少底线。在不断上涨的租金将你逼入走投无路的绝境之前，赚取足够的利润来彻底买下这间店铺。",
+        "genres": [
+          "独立",
+          "角色扮演",
+          "模拟",
+          "策略"
+        ],
+        "developer": "Questing Goose Studio",
+        "publisher": "tinyBuild",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/d9938fa30354c82c9549c17864145e3e92e23847/header_alt_assets_3_schinese.jpg?t=1793220934",
+        "product_family_identity": "appid:4348910",
+        "product_family_appid": "4348910",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-10-30"
+      ],
+      "member_appids": [
+        "4348910"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-10-30"
+    },
     {
       "game": {
         "slug": "phantom-blade-zero",

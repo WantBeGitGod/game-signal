@@ -1,0 +1,473 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-10-30",
+  "title": "10.30 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 59.97,
+    "fact_summary": "Probably Stolen - Cyberpunk Shopkeeper Sim 今日观测峰值 112,145，较过往最高峰值提升 +57%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-28",
+      "current_release_date": "2026-10-28",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-30 17:50:30",
+      "current_peak": 112145,
+      "previous_peak": 71410,
+      "previous_record_peak": 71410,
+      "growth_rate": 0.5704,
+      "record_growth_rate": 0.5704,
+      "scoring_peak": 112145,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 40.0,
+      "raw_record_growth_score": 19.97,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 8.159,
+      "growth_scale_crossing_component": 1.0214,
+      "record_growth_score": 19.97,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 59.97,
+      "event_adjusted_score": 59.97,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 59.97,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 59.97,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 2,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "独立",
+        "角色扮演",
+        "模拟",
+        "策略"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-28",
+      "release_event_age_days": 2,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-10-29",
+          "peak": 71410
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 112145
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4348910"
+      }
+    ],
+    "game": {
+      "slug": "probably-stolen-cyberpunk-shopkeeper-sim",
+      "appid": "4348910",
+      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "name_cn": null,
+      "description": "《深空当铺：可能是偷的》是一款设定在反乌托邦空间站内的赛博朋克店铺经营模拟游戏。制造、交易并走私来路不明的货物，在各方派系势力间周旋；看看为了维持生计，你愿意突破多少底线。在不断上涨的租金将你逼入走投无路的绝境之前，赚取足够的利润来彻底买下这间店铺。",
+      "release_date": "2026-10-28",
+      "genres": [
+        "独立",
+        "角色扮演",
+        "模拟",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "可调整文字大小",
+        "自定义音量控制",
+        "可以仅用鼠标",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Questing Goose Studio",
+      "publisher": "tinyBuild",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/d9938fa30354c82c9549c17864145e3e92e23847/header_alt_assets_3_schinese.jpg?t=1793220934",
+      "steam_url": "https://store.steampowered.com/app/4348910",
+      "product_family_identity": "appid:4348910",
+      "product_family_appid": "4348910",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-29",
+          "peak": 71410
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 112145
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《深空当铺：可能是偷的》是一款单人赛博朋克店铺经营游戏。你在空间站底层接手一家欠着债的小店，靠验货、制作和倒卖维持生计，攒钱把店真正买下来。",
+      "reference_frame": "熟悉买进卖出的经营循环，就能理解它的账本；麻烦在于货物和顾客都可能藏着问题。一瓶水要检测过滤，一把枪牵涉许可，眼前的买家还可能是来钓鱼执法的。赚差价和辨认风险得一起做。",
+      "for_players": "适合喜欢算小账、观察细节，又愿意在利润和人情之间犹豫的人。每次交易都给你一个具体判断，赚钱之外还有谁能信、谁不能惹。",
+      "not_for_players": "如果你只想安静摆货、看收入稳定上涨，不喜欢盘查、假货和逐渐加重的租金压力，这间店可能让你操心。",
+      "star_reason": "10月30日观测峰值达到112,145，比此前记录高约57%，今天首次摘星。本期评分快照缺少可靠评价，口碑倍率保持中性；这次入选主要来自在线规模和增长。",
+      "core_loop": [
+        "检查来货、判断真伪和处理成本，决定这笔生意接不接。",
+        "加工商品、讨价还价，把货卖出去；遇到违禁品，权衡藏匿、拒绝或举报的后果。",
+        "用收入交租、添设备和扩大生意，再面对更贵的进货与派系关系。"
+      ],
+      "content_length": 425
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-30T10:14:30+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 4,
+          "inspected_count": 20,
+          "top_views": 35677,
+          "search_url": "https://www.youtube.com/results?search_query=Probably%20Stolen%20-%20Cyberpunk%20Shopkeeper%20Sim",
+          "sources": [
+            {
+              "title": "Probably Stolen - Cyberpunk Shopkeeper Sim - Official Launch Trailer",
+              "url": "https://www.youtube.com/watch?v=k4PSidfSTzA",
+              "published_on": "2026-10-30"
+            },
+            {
+              "title": "🔴 Probably Stolen - Cyberpunk Shopkeeper Sim",
+              "url": "https://www.youtube.com/watch?v=zV-73gkpqU4",
+              "published_on": "2026-10-30"
+            },
+            {
+              "title": "🔴 Probably Stolen - Cyberpunk Shopkeeper Sim | Release day !",
+              "url": "https://www.youtube.com/watch?v=sYfyZA1_dFM",
+              "published_on": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 0,
+          "inspected_count": 30,
+          "top_views": null,
+          "search_url": "https://search.bilibili.com/all?keyword=Probably%20Stolen%20-%20Cyberpunk%20Shopkeeper%20Sim",
+          "sources": []
+        }
+      ],
+      "controversies": []
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 59.97,
+    "fact_summary": "Probably Stolen - Cyberpunk Shopkeeper Sim 今日观测峰值 112,145，较过往最高峰值提升 +57%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-28",
+      "current_release_date": "2026-10-28",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-10-30 17:50:30",
+      "current_peak": 112145,
+      "previous_peak": 71410,
+      "previous_record_peak": 71410,
+      "growth_rate": 0.5704,
+      "record_growth_rate": 0.5704,
+      "scoring_peak": 112145,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 40.0,
+      "raw_record_growth_score": 19.97,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 8.159,
+      "growth_scale_crossing_component": 1.0214,
+      "record_growth_score": 19.97,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 59.97,
+      "event_adjusted_score": 59.97,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 59.97,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 59.97,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 2,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "独立",
+        "角色扮演",
+        "模拟",
+        "策略"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-28",
+      "release_event_age_days": 2,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-10-29",
+          "peak": 71410
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 112145
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4348910"
+      }
+    ],
+    "game": {
+      "slug": "probably-stolen-cyberpunk-shopkeeper-sim",
+      "appid": "4348910",
+      "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "name_cn": null,
+      "description": "《深空当铺：可能是偷的》是一款设定在反乌托邦空间站内的赛博朋克店铺经营模拟游戏。制造、交易并走私来路不明的货物，在各方派系势力间周旋；看看为了维持生计，你愿意突破多少底线。在不断上涨的租金将你逼入走投无路的绝境之前，赚取足够的利润来彻底买下这间店铺。",
+      "release_date": "2026-10-28",
+      "genres": [
+        "独立",
+        "角色扮演",
+        "模拟",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "可调整文字大小",
+        "自定义音量控制",
+        "可以仅用鼠标",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Questing Goose Studio",
+      "publisher": "tinyBuild",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/d9938fa30354c82c9549c17864145e3e92e23847/header_alt_assets_3_schinese.jpg?t=1793220934",
+      "steam_url": "https://store.steampowered.com/app/4348910",
+      "product_family_identity": "appid:4348910",
+      "product_family_appid": "4348910",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-29",
+          "peak": 71410
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 112145
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《深空当铺：可能是偷的》是一款单人赛博朋克店铺经营游戏。你在空间站底层接手一家欠着债的小店，靠验货、制作和倒卖维持生计，攒钱把店真正买下来。",
+      "reference_frame": "熟悉买进卖出的经营循环，就能理解它的账本；麻烦在于货物和顾客都可能藏着问题。一瓶水要检测过滤，一把枪牵涉许可，眼前的买家还可能是来钓鱼执法的。赚差价和辨认风险得一起做。",
+      "for_players": "适合喜欢算小账、观察细节，又愿意在利润和人情之间犹豫的人。每次交易都给你一个具体判断，赚钱之外还有谁能信、谁不能惹。",
+      "not_for_players": "如果你只想安静摆货、看收入稳定上涨，不喜欢盘查、假货和逐渐加重的租金压力，这间店可能让你操心。",
+      "star_reason": "10月30日观测峰值达到112,145，比此前记录高约57%，今天首次摘星。本期评分快照缺少可靠评价，口碑倍率保持中性；这次入选主要来自在线规模和增长。",
+      "core_loop": [
+        "检查来货、判断真伪和处理成本，决定这笔生意接不接。",
+        "加工商品、讨价还价，把货卖出去；遇到违禁品，权衡藏匿、拒绝或举报的后果。",
+        "用收入交租、添设备和扩大生意，再面对更贵的进货与派系关系。"
+      ],
+      "content_length": 425
+    },
+    "platform_attention": {
+      "sampled_at": "2026-10-30T10:14:30+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 4,
+          "inspected_count": 20,
+          "top_views": 35677,
+          "search_url": "https://www.youtube.com/results?search_query=Probably%20Stolen%20-%20Cyberpunk%20Shopkeeper%20Sim",
+          "sources": [
+            {
+              "title": "Probably Stolen - Cyberpunk Shopkeeper Sim - Official Launch Trailer",
+              "url": "https://www.youtube.com/watch?v=k4PSidfSTzA",
+              "published_on": "2026-10-30"
+            },
+            {
+              "title": "🔴 Probably Stolen - Cyberpunk Shopkeeper Sim",
+              "url": "https://www.youtube.com/watch?v=zV-73gkpqU4",
+              "published_on": "2026-10-30"
+            },
+            {
+              "title": "🔴 Probably Stolen - Cyberpunk Shopkeeper Sim | Release day !",
+              "url": "https://www.youtube.com/watch?v=sYfyZA1_dFM",
+              "published_on": "2026-10-29"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 0,
+          "inspected_count": 30,
+          "top_views": null,
+          "search_url": "https://search.bilibili.com/all?keyword=Probably%20Stolen%20-%20Cyberpunk%20Shopkeeper%20Sim",
+          "sources": []
+        }
+      ],
+      "controversies": []
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
