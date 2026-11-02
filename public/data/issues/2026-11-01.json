@@ -1,0 +1,545 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-11-01",
+  "title": "11.01 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 34.71,
+    "fact_summary": "Phantom Blade Zero 今日观测峰值 769,456，较过往最高峰值提升 +2%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-28",
+      "current_release_date": "2026-10-28",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-01 17:50:25",
+      "current_peak": 769456,
+      "previous_peak": 751572,
+      "previous_record_peak": 751572,
+      "growth_rate": 0.0238,
+      "record_growth_rate": 0.0238,
+      "scoring_peak": 769456,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 40.0,
+      "raw_record_growth_score": 0.83,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 903.7768,
+      "growth_scale_crossing_component": 7.5946,
+      "record_growth_score": 0.83,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 40.83,
+      "event_adjusted_score": 40.83,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 40.83,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.85,
+      "base_score": 34.71,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_1x"
+      ],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 1,
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-28",
+      "release_event_age_days": 4,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-10-29",
+          "peak": 436089
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 722976
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 751572
+        },
+        {
+          "date": "2026-11-01",
+          "peak": 769456
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4115450"
+      }
+    ],
+    "game": {
+      "slug": "phantom-blade-zero",
+      "appid": "4115450",
+      "name": "Phantom Blade Zero",
+      "name_cn": null,
+      "description": "由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。",
+      "release_date": "2026-10-28",
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "可调整文字大小",
+        "自定义音量控制",
+        "可调整难度",
+        "推荐使用手柄",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 输入 API 支持",
+        "立体声",
+        "字幕选项",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "S-GAME Studio",
+      "publisher": "S-GAME Publishing",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1793261976",
+      "steam_url": "https://store.steampowered.com/app/4115450",
+      "product_family_identity": "appid:4115450",
+      "product_family_appid": "4115450",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-29",
+          "peak": 436089
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 722976
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 751572
+        },
+        {
+          "date": "2026-11-01",
+          "peak": 769456
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《影之刃零》是一款单人暗黑武侠动作冒险。你扮演只剩六十六天寿命的剑客，在追查阴谋的路上夺取兵器，把刀剑连招和奇诡武装接成自己的打法。",
+      "reference_frame": "玩过《只狼》，可以从弹反、闪避压低敌人架势的思路入手。但这里还要轮换两把主武器，换刀能回满煞气，让防守与连招继续接下去；别只等着一套固定刀法应付所有对手。",
+      "for_players": "适合喜欢读招、练连招，又想不断试新兵器的人。你需要在刀光里认清时机，也能享受动作电影式的武侠演出。",
+      "not_for_players": "如果你更想靠刷装备轻松碾过去，或只想慢慢看剧情、不愿反复练一场战斗，这种持续攻防与换武器的节奏可能让你累。",
+      "star_reason": "11月1日评分采用的本地观测峰值为769,456，比此前记录高约2%，这是它第二次摘星。本期可靠评价缺失，口碑倍率保持中性；入选主要来自在线规模，不能据此判断玩家是否会长期留下。",
+      "core_loop": [
+        "观察敌人出手，用格挡、弹反或闪避守住自己，再抓空档反击。",
+        "轮换主武器恢复煞气，穿插鬼器，把敌人的防线打穿。",
+        "击败强敌取得新武装，试出适合自己的组合，再探索下一段江湖。"
+      ],
+      "content_length": 415
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-02T17:59:41+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 17,
+          "inspected_count": 20,
+          "top_views": 1539243,
+          "search_url": "https://www.youtube.com/results?search_query=Phantom%20Blade%20Zero",
+          "sources": [
+            {
+              "title": "Phantom Blade Zero : RX 9070XT vs RTX 5070TI | 1080P | 1440P | 4K",
+              "url": "https://www.youtube.com/watch?v=PkW-1uIi31s",
+              "published_on": "2026-10-29"
+            },
+            {
+              "title": "Phantom Blade Zero Is Here – The Gold-Masked One No Damage (Hellwalker)",
+              "url": "https://www.youtube.com/watch?v=Pv8FB9BHJX4",
+              "published_on": "2026-10-29"
+            },
+            {
+              "title": "RTX 5090 - Phantom Blade Zero - Max Settings + Path Tracing Looking Beautiful!",
+              "url": "https://www.youtube.com/watch?v=1a8jlh735rM",
+              "published_on": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 20,
+          "inspected_count": 30,
+          "top_views": 6610,
+          "search_url": "https://search.bilibili.com/all?keyword=Phantom%20Blade%20Zero",
+          "sources": [
+            {
+              "title": "【影之刃零 常见问题合集】无法初始化 Steam API/启动游戏时出现很小的logo弹窗/ Phantom Blade Zero 报错/C++报错/设备不支持",
+              "url": "https://www.bilibili.com/video/BV1cfsf6NEyp/",
+              "published_on": "2026-10-29"
+            },
+            {
+              "title": "【影之刃零 原声曲辑/OST】 Phantom Blade Zero - OST",
+              "url": "https://www.bilibili.com/video/BV1a54P6YEFt/",
+              "published_on": "2026-11-02"
+            },
+            {
+              "title": "Phantom Blade Zero 自用记录",
+              "url": "https://www.bilibili.com/video/BV1Zc4P6GEwT/",
+              "published_on": "2026-11-02"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 34.71,
+    "fact_summary": "Phantom Blade Zero 今日观测峰值 769,456，较过往最高峰值提升 +2%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-28",
+      "current_release_date": "2026-10-28",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-01 17:50:25",
+      "current_peak": 769456,
+      "previous_peak": 751572,
+      "previous_record_peak": 751572,
+      "growth_rate": 0.0238,
+      "record_growth_rate": 0.0238,
+      "scoring_peak": 769456,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 40.0,
+      "raw_record_growth_score": 0.83,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 903.7768,
+      "growth_scale_crossing_component": 7.5946,
+      "record_growth_score": 0.83,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 40.83,
+      "event_adjusted_score": 40.83,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 40.83,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.85,
+      "base_score": 34.71,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_1x"
+      ],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 1,
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-28",
+      "release_event_age_days": 4,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-10-29",
+          "peak": 436089
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 722976
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 751572
+        },
+        {
+          "date": "2026-11-01",
+          "peak": 769456
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4115450"
+      }
+    ],
+    "game": {
+      "slug": "phantom-blade-zero",
+      "appid": "4115450",
+      "name": "Phantom Blade Zero",
+      "name_cn": null,
+      "description": "由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。",
+      "release_date": "2026-10-28",
+      "genres": [
+        "动作",
+        "角色扮演"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "完全支持控制器",
+        "可调整文字大小",
+        "自定义音量控制",
+        "可调整难度",
+        "推荐使用手柄",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "Steam 输入 API 支持",
+        "立体声",
+        "字幕选项",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "S-GAME Studio",
+      "publisher": "S-GAME Publishing",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1793261976",
+      "steam_url": "https://store.steampowered.com/app/4115450",
+      "product_family_identity": "appid:4115450",
+      "product_family_appid": "4115450",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-29",
+          "peak": 436089
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 722976
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 751572
+        },
+        {
+          "date": "2026-11-01",
+          "peak": 769456
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《影之刃零》是一款单人暗黑武侠动作冒险。你扮演只剩六十六天寿命的剑客，在追查阴谋的路上夺取兵器，把刀剑连招和奇诡武装接成自己的打法。",
+      "reference_frame": "玩过《只狼》，可以从弹反、闪避压低敌人架势的思路入手。但这里还要轮换两把主武器，换刀能回满煞气，让防守与连招继续接下去；别只等着一套固定刀法应付所有对手。",
+      "for_players": "适合喜欢读招、练连招，又想不断试新兵器的人。你需要在刀光里认清时机，也能享受动作电影式的武侠演出。",
+      "not_for_players": "如果你更想靠刷装备轻松碾过去，或只想慢慢看剧情、不愿反复练一场战斗，这种持续攻防与换武器的节奏可能让你累。",
+      "star_reason": "11月1日评分采用的本地观测峰值为769,456，比此前记录高约2%，这是它第二次摘星。本期可靠评价缺失，口碑倍率保持中性；入选主要来自在线规模，不能据此判断玩家是否会长期留下。",
+      "core_loop": [
+        "观察敌人出手，用格挡、弹反或闪避守住自己，再抓空档反击。",
+        "轮换主武器恢复煞气，穿插鬼器，把敌人的防线打穿。",
+        "击败强敌取得新武装，试出适合自己的组合，再探索下一段江湖。"
+      ],
+      "content_length": 415
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-02T17:59:41+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 17,
+          "inspected_count": 20,
+          "top_views": 1539243,
+          "search_url": "https://www.youtube.com/results?search_query=Phantom%20Blade%20Zero",
+          "sources": [
+            {
+              "title": "Phantom Blade Zero : RX 9070XT vs RTX 5070TI | 1080P | 1440P | 4K",
+              "url": "https://www.youtube.com/watch?v=PkW-1uIi31s",
+              "published_on": "2026-10-29"
+            },
+            {
+              "title": "Phantom Blade Zero Is Here – The Gold-Masked One No Damage (Hellwalker)",
+              "url": "https://www.youtube.com/watch?v=Pv8FB9BHJX4",
+              "published_on": "2026-10-29"
+            },
+            {
+              "title": "RTX 5090 - Phantom Blade Zero - Max Settings + Path Tracing Looking Beautiful!",
+              "url": "https://www.youtube.com/watch?v=1a8jlh735rM",
+              "published_on": "2026-11-01"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 20,
+          "inspected_count": 30,
+          "top_views": 6610,
+          "search_url": "https://search.bilibili.com/all?keyword=Phantom%20Blade%20Zero",
+          "sources": [
+            {
+              "title": "【影之刃零 常见问题合集】无法初始化 Steam API/启动游戏时出现很小的logo弹窗/ Phantom Blade Zero 报错/C++报错/设备不支持",
+              "url": "https://www.bilibili.com/video/BV1cfsf6NEyp/",
+              "published_on": "2026-10-29"
+            },
+            {
+              "title": "【影之刃零 原声曲辑/OST】 Phantom Blade Zero - OST",
+              "url": "https://www.bilibili.com/video/BV1a54P6YEFt/",
+              "published_on": "2026-11-02"
+            },
+            {
+              "title": "Phantom Blade Zero 自用记录",
+              "url": "https://www.bilibili.com/video/BV1Zc4P6GEwT/",
+              "published_on": "2026-11-02"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
