@@ -1,7 +1,155 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-10-30T10:17:27.412546+00:00",
+  "generated_at": "2026-11-02T18:00:33.039998+00:00",
   "events": [
+    {
+      "id": 179,
+      "title": "任天堂开发者访谈公开《塞尔达传说 时之笛》Switch 2 重制理念与设计取舍",
+      "summary": "任天堂发布《Ask the Developer》第24期第一部分，制作人青沼英二与藤林秀麿谈 Switch 2 独占《塞尔达传说 时之笛》完全重制版（11月5日发售）。访谈称重制契机是系列40周年，希望年轻团队通过重建原作深入理解系列结构；开发中一度加入原作没有的传送点，但因削减途中探索发现的乐趣而被全部撤除；青沼基本放手让开发者决定改动，藤林则要求团队早期厘清哪些应改、哪些必须保留。",
+      "topics": [
+        "Nintendo",
+        "The Legend of Zelda: Ocarina of Time"
+      ],
+      "kind": "development",
+      "created_at": "2026-11-02T18:00:30.660436+00:00",
+      "updated_at": "2026-11-02T18:00:30.660436+00:00",
+      "content_updated_at": "2026-11-02T18:00:30.660436+00:00",
+      "reported_at": "2026-11-02T17:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-1/",
+          "title": "Ask the Developer Vol. 24: The Legend of Zelda: Ocarina of Time — Part 1",
+          "published_at": "2026-11-02T17:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 188,
+          "text": "任天堂官网发布《Ask the Developer Vol. 24》开发者访谈第1部分，青沼英二与藤林秀麿以制作人身份谈 Nintendo Switch 2 独占的《塞尔达传说 时之笛》完全重制版，该作将于11月5日（周四）发售。访谈透露重制源于系列40周年，希望年轻团队通过重建原作理解系列结构；开发中曾尝试加入传送点，但因削弱途中发现的乐趣而全部撤除；青沼英二表示基本让开发者自行决定改动，藤林秀麿则要求团队早期明确哪些要改、哪些保留。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://www.nintendo.com/us/whatsnew/ask-the-developer-vol-24-the-legend-of-zelda-ocarina-of-time-part-1/",
+          "action": "create_event",
+          "recorded_at": "2026-11-02T18:00:30.660884+00:00",
+          "source_published_at": "2026-11-02T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 177,
+      "title": "名越稔洋的 Nagoshi Studio 关闭，《Gang of Dragon》未及推出",
+      "summary": "据 Gematsu 报道，由《如龙》系列创作者名越稔洋于2022年在 NetEase 出资下成立的 Nagoshi Studio 已关闭，股东会10月31日决议，公告刊登于日本政府官报。工作室此前在开发以新宿歌舞伎町为舞台、由马东锡出演的动作冒险游戏《Gang of Dragon》。GamesBeat 引述彭博社称，NetEase 得知该作至少需4440万美元才能完成后收缩非中国游戏投资，工作室未能另寻投资方。",
+      "topics": [
+        "Nagoshi Studio",
+        "Toshihiro Nagoshi",
+        "NetEase",
+        "Gang of Dragon",
+        "Gematsu"
+      ],
+      "kind": "business",
+      "created_at": "2026-11-02T18:00:13.103041+00:00",
+      "updated_at": "2026-11-02T18:00:13.103041+00:00",
+      "content_updated_at": "2026-11-02T18:00:13.103041+00:00",
+      "reported_at": "2026-11-02T17:01:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://gamesbeat.com/yakuza-creators-nagoshi-studio-shuts-down-before-it-ships-1st-game/",
+          "title": "Yakuza creator’s Nagoshi Studio shuts down before it ships 1st game",
+          "published_at": "2026-11-02T17:01:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 186,
+          "text": "据 Gematsu 报道，名越稔洋创立的 Nagoshi Studio 已关闭：股东会于10月31日决议后，相关公告刊登于日本政府官报；该工作室自2022年起由 NetEase 出资，此前正在开发《Gang of Dragon》。GamesBeat 并引述彭博社称，NetEase 在得知该作至少需要4440万美元才能完成后决定收缩对非中国游戏的投资，工作室未能找到其他投资方。",
+          "evidence_kind": "syndication",
+          "source_url": "https://gamesbeat.com/yakuza-creators-nagoshi-studio-shuts-down-before-it-ships-1st-game/",
+          "action": "create_event",
+          "recorded_at": "2026-11-02T18:00:13.103659+00:00",
+          "source_published_at": "2026-11-02T17:01:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 175,
+      "title": "《Final Fantasy Resonance》制作人透露曾争取不局限于基础移植",
+      "summary": "据 GamesRadar 转述彭博社采访，制作人 Keisuke Nakashima 表示，他 2020 年提出将手游《Final Fantasy Brave Exvius》扩展为面向主机的完整 HD-2D 回合制体验《Final Fantasy Resonance》，起初遭 Square Enix 高层反对，对方更倾向更快更便宜的基础移植。他称手游的抽卡元素让部分有兴趣者不愿游玩，因此希望以主机版扩大受众。报道称该作创下系列单人游戏 Steam 同时在线峰值，并有分析师估计发售不到五天销量约 40 万份。",
+      "topics": [
+        "Square Enix",
+        "Final Fantasy Resonance",
+        "Keisuke Nakashima",
+        "Final Fantasy Brave Exvius"
+      ],
+      "kind": "business",
+      "created_at": "2026-11-02T17:59:53.376271+00:00",
+      "updated_at": "2026-11-02T17:59:53.376271+00:00",
+      "content_updated_at": "2026-11-02T17:59:53.376271+00:00",
+      "reported_at": "2026-11-02T17:27:18+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-resonance-lead-had-to-fight-square-enix-execs-for-more-than-a-basic-port-for-the-jrpg/",
+          "title": "Final Fantasy Resonance lead had to fight Square Enix execs for more than a basic port for the JRPG",
+          "published_at": "2026-11-02T17:27:18+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 184,
+          "text": "据 GamesRadar 转述彭博社采访，制作人 Keisuke Nakashima 透露其 2020 年提出将手游《Final Fantasy Brave Exvius》扩展为面向主机、完整游戏体验的 HD-2D 回合制作品《Final Fantasy Resonance》，起初遭 Square Enix 高层反对，高层更倾向制作更快更便宜的基础移植版；他拒绝该路线，并称手游因抽卡元素令有兴趣者不愿游玩，也是转向主机以扩大受众的原因。报道同时称该作创下系列单人游戏 Steam 同时在线峰值，并有分析师估计发售不到五天在 PS5、Xbox Series X 与 Steam 售出约 40 万份、收入约 2000 万美元。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.gamesradar.com/games/final-fantasy/final-fantasy-resonance-lead-had-to-fight-square-enix-execs-for-more-than-a-basic-port-for-the-jrpg/",
+          "action": "create_event",
+          "recorded_at": "2026-11-02T17:59:53.376403+00:00",
+          "source_published_at": "2026-11-02T17:27:18+00:00"
+        }
+      ]
+    },
+    {
+      "id": 173,
+      "title": "Top Hat Studios 2026 秋季展示会公布《Spooky Tales》等多款游戏",
+      "summary": "发行商 Top Hat Studios 在 2026 秋季展示会公开多项新作与平台安排：复古恐怖选集《Spooky Tales》由 Liminal Road 开发、面向 PC（Steam），包含四个取材自不同恐怖传统的独立故事；展示会同时带来《PRIMA MATERIA》与《Ova Magica》主机版发售日等消息。",
+      "topics": [
+        "Top Hat Studios",
+        "Liminal Road",
+        "Spooky Tales",
+        "PRIMA MATERIA",
+        "Ova Magica"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-11-02T17:59:42.410582+00:00",
+      "updated_at": "2026-11-02T17:59:42.410582+00:00",
+      "content_updated_at": "2026-11-02T17:59:42.410582+00:00",
+      "reported_at": "2026-11-02T17:30:24+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://noisypixel.net/top-hat-studios-fall-showcase-2026-announcements-release-dates/",
+          "title": "Top Hat Studios Fall Showcase 2026 Announces Spooky Tales, PRIMA MATERIA, Ova Magica Console Date, and More",
+          "published_at": "2026-11-02T17:30:24+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 182,
+          "text": "发行商 Top Hat Studios 在 2026 秋季展示会上公布多款新作与平台安排，包括由 Liminal Road 开发、面向 PC（Steam）的复古恐怖选集《Spooky Tales》，以及《PRIMA MATERIA》和《Ova Magica》主机版发售日等消息。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://noisypixel.net/top-hat-studios-fall-showcase-2026-announcements-release-dates/",
+          "action": "create_event",
+          "recorded_at": "2026-11-02T17:59:42.411212+00:00",
+          "source_published_at": "2026-11-02T17:30:24+00:00"
+        }
+      ]
+    },
     {
       "id": 172,
       "title": "《Titan Quest II》抢先体验更新加入英雄怪物与增益神龛",
