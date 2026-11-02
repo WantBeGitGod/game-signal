@@ -1,0 +1,613 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-11-02",
+  "title": "11.02 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 6.81,
+    "fact_summary": "Nomad Drive 今日观测峰值 6,955，较过往最高峰值提升 +40%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-27",
+      "current_release_date": "2026-10-27",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-02 17:30:22",
+      "current_peak": 6955,
+      "previous_peak": 4963,
+      "previous_record_peak": 4963,
+      "growth_rate": 0.4014,
+      "record_growth_rate": 0.4014,
+      "scoring_peak": 6955,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 6.26,
+      "raw_record_growth_score": 14.05,
+      "growth_score_multiplier": 0.0394,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.0394,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.55,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 6.81,
+      "event_adjusted_score": 6.81,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 6.81,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 6.81,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 6,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 6,
+      "steam_release_age_days": 6,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "冒险",
+        "休闲",
+        "独立",
+        "模拟",
+        "抢先体验"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-27",
+      "release_event_age_days": 6,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 10,
+      "trend": [
+        {
+          "date": "2026-10-28",
+          "peak": 1181
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 2173
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 2231
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 4572
+        },
+        {
+          "date": "2026-11-01",
+          "peak": 4963
+        },
+        {
+          "date": "2026-11-02",
+          "peak": 6955
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2223980"
+      }
+    ],
+    "game": {
+      "slug": "nomad-drive",
+      "appid": "2223980",
+      "name": "Nomad Drive",
+      "name_cn": null,
+      "description": "修复您破旧的房车，单人或1–4人合作驶向程序生成的末日后世界。收集资源，定制您的房车，并尽可能长时间生存。",
+      "release_date": "2026-10-27",
+      "genres": [
+        "冒险",
+        "休闲",
+        "独立",
+        "模拟",
+        "抢先体验"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "视角舒适度",
+        "自定义音量控制",
+        "可调整难度",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
+        "环绕声",
+        "Steam 云",
+        "统计数据",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Indie Devil",
+      "publisher": "Indie Devil",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223980/433d5727162af686f0e7d56de539f8476fb0cf0e/header.jpg?t=1793283217",
+      "steam_url": "https://store.steampowered.com/app/2223980",
+      "product_family_identity": "appid:2223980",
+      "product_family_appid": "2223980",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-28",
+          "peak": 1181
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 2173
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 2231
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 4572
+        },
+        {
+          "date": "2026-11-01",
+          "peak": 4963
+        },
+        {
+          "date": "2026-11-02",
+          "peak": 6955
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Nomad Drive》是一款支持单人及最多四人合作的末日房车生存游戏。你从一辆破车出发，在程序生成的世界里找物资，把能开走的车慢慢修成能生活的家。",
+      "reference_frame": "玩过《Valheim》，可以沿用出门备食物、搜材料、回去修整的习惯；这里把营地装上了轮子。行程围绕房车维修和车内生活展开，目标是继续上路与生存，不宜照搬打首领推进区域的期待。",
+      "for_players": "适合喜欢和朋友分头找东西、修车做饭，又愿意慢慢布置小家的玩家。每趟搜集都能变成车里看得见的改善，路途本身就是游玩的内容。",
+      "not_for_players": "如果你讨厌反复维护和搜集，或期待完整成型的长篇剧情，可能会觉得琐碎。当前为抢先体验，开发者也提示大型系统更新可能影响存档。",
+      "star_reason": "11月2日观测峰值6,955，比此前记录高约40%，首次摘星。排位更高的游戏触及重复摘星限制后，本作按规则顺延入选；本期可靠评价缺失，口碑倍率保持中性。",
+      "core_loop": [
+        "开车寻找废弃地点，下车搜集食物、零件和其他资源。",
+        "修理房车、整理设备，用找到的食材做饭，照顾旅途中的生存需求。",
+        "改善车内布局和设施，再把这个移动住处开往下一片区域。"
+      ],
+      "content_length": 438
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-02T18:02:11+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 9,
+          "inspected_count": 19,
+          "top_views": 142208,
+          "search_url": "https://www.youtube.com/results?search_query=Nomad%20Drive",
+          "sources": [
+            {
+              "title": "《Nomad Drive》#03 缺水危機解除！告別露營車，搬到大校車新家 S1E3",
+              "url": "https://www.youtube.com/watch?v=Vl8SiC-LM-0",
+              "published_on": "2026-11-02"
+            },
+            {
+              "title": "Nomad Drive Review - Build a Vehicle and survive.",
+              "url": "https://www.youtube.com/watch?v=2_nwH8kpHTA",
+              "published_on": "2026-10-30"
+            },
+            {
+              "title": "《Nomad Drive》#01 開局拼裝小白露營車！一人一車漫遊荒漠公路 S1E1",
+              "url": "https://www.youtube.com/watch?v=F-go6nWKXs8",
+              "published_on": "2026-10-28"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 15,
+          "inspected_count": 30,
+          "top_views": 15000,
+          "search_url": "https://search.bilibili.com/all?keyword=Nomad%20Drive",
+          "sources": [
+            {
+              "title": "Nomad Drive",
+              "url": "https://www.bilibili.com/video/BV1Y3xr6TEAV/",
+              "published_on": "2026-10-30"
+            },
+            {
+              "title": "楚河《 NOMAD DRIVE 》司机小秦驾驶拼好车，带天天、比巴卜、二蛋公路旅行｜2026-10-28档",
+              "url": "https://www.bilibili.com/video/BV147sd6vE9x/",
+              "published_on": "2026-10-29"
+            },
+            {
+              "title": "【 Nomad Drive 实况】 已经有里程过千的了？",
+              "url": "https://www.bilibili.com/video/BV1HFx16cE1s/",
+              "published_on": "2026-10-30"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 10。",
+    "selection_context": {
+      "model_rank": 10,
+      "leader": {
+        "name": "Phantom Blade Zero",
+        "appid": "4115450",
+        "score": 32.18,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4115450/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 6.81,
+    "fact_summary": "Nomad Drive 今日观测峰值 6,955，较过往最高峰值提升 +40%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-27",
+      "current_release_date": "2026-10-27",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-02 17:30:22",
+      "current_peak": 6955,
+      "previous_peak": 4963,
+      "previous_record_peak": 4963,
+      "growth_rate": 0.4014,
+      "record_growth_rate": 0.4014,
+      "scoring_peak": 6955,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 6.26,
+      "raw_record_growth_score": 14.05,
+      "growth_score_multiplier": 0.0394,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.0394,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.55,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 6.81,
+      "event_adjusted_score": 6.81,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 6.81,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 6.81,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 6,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 6,
+      "steam_release_age_days": 6,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "冒险",
+        "休闲",
+        "独立",
+        "模拟",
+        "抢先体验"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-27",
+      "release_event_age_days": 6,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 10,
+      "trend": [
+        {
+          "date": "2026-10-28",
+          "peak": 1181
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 2173
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 2231
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 4572
+        },
+        {
+          "date": "2026-11-01",
+          "peak": 4963
+        },
+        {
+          "date": "2026-11-02",
+          "peak": 6955
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/2223980"
+      }
+    ],
+    "game": {
+      "slug": "nomad-drive",
+      "appid": "2223980",
+      "name": "Nomad Drive",
+      "name_cn": null,
+      "description": "修复您破旧的房车，单人或1–4人合作驶向程序生成的末日后世界。收集资源，定制您的房车，并尽可能长时间生存。",
+      "release_date": "2026-10-27",
+      "genres": [
+        "冒险",
+        "休闲",
+        "独立",
+        "模拟",
+        "抢先体验"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "完全支持控制器",
+        "视角舒适度",
+        "自定义音量控制",
+        "可调整难度",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "立体声",
+        "环绕声",
+        "Steam 云",
+        "统计数据",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Indie Devil",
+      "publisher": "Indie Devil",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223980/433d5727162af686f0e7d56de539f8476fb0cf0e/header.jpg?t=1793283217",
+      "steam_url": "https://store.steampowered.com/app/2223980",
+      "product_family_identity": "appid:2223980",
+      "product_family_appid": "2223980",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-28",
+          "peak": 1181
+        },
+        {
+          "date": "2026-10-29",
+          "peak": 2173
+        },
+        {
+          "date": "2026-10-30",
+          "peak": 2231
+        },
+        {
+          "date": "2026-10-31",
+          "peak": 4572
+        },
+        {
+          "date": "2026-11-01",
+          "peak": 4963
+        },
+        {
+          "date": "2026-11-02",
+          "peak": 6955
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Nomad Drive》是一款支持单人及最多四人合作的末日房车生存游戏。你从一辆破车出发，在程序生成的世界里找物资，把能开走的车慢慢修成能生活的家。",
+      "reference_frame": "玩过《Valheim》，可以沿用出门备食物、搜材料、回去修整的习惯；这里把营地装上了轮子。行程围绕房车维修和车内生活展开，目标是继续上路与生存，不宜照搬打首领推进区域的期待。",
+      "for_players": "适合喜欢和朋友分头找东西、修车做饭，又愿意慢慢布置小家的玩家。每趟搜集都能变成车里看得见的改善，路途本身就是游玩的内容。",
+      "not_for_players": "如果你讨厌反复维护和搜集，或期待完整成型的长篇剧情，可能会觉得琐碎。当前为抢先体验，开发者也提示大型系统更新可能影响存档。",
+      "star_reason": "11月2日观测峰值6,955，比此前记录高约40%，首次摘星。排位更高的游戏触及重复摘星限制后，本作按规则顺延入选；本期可靠评价缺失，口碑倍率保持中性。",
+      "core_loop": [
+        "开车寻找废弃地点，下车搜集食物、零件和其他资源。",
+        "修理房车、整理设备，用找到的食材做饭，照顾旅途中的生存需求。",
+        "改善车内布局和设施，再把这个移动住处开往下一片区域。"
+      ],
+      "content_length": 438
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-02T18:02:11+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 9,
+          "inspected_count": 19,
+          "top_views": 142208,
+          "search_url": "https://www.youtube.com/results?search_query=Nomad%20Drive",
+          "sources": [
+            {
+              "title": "《Nomad Drive》#03 缺水危機解除！告別露營車，搬到大校車新家 S1E3",
+              "url": "https://www.youtube.com/watch?v=Vl8SiC-LM-0",
+              "published_on": "2026-11-02"
+            },
+            {
+              "title": "Nomad Drive Review - Build a Vehicle and survive.",
+              "url": "https://www.youtube.com/watch?v=2_nwH8kpHTA",
+              "published_on": "2026-10-30"
+            },
+            {
+              "title": "《Nomad Drive》#01 開局拼裝小白露營車！一人一車漫遊荒漠公路 S1E1",
+              "url": "https://www.youtube.com/watch?v=F-go6nWKXs8",
+              "published_on": "2026-10-28"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 15,
+          "inspected_count": 30,
+          "top_views": 15000,
+          "search_url": "https://search.bilibili.com/all?keyword=Nomad%20Drive",
+          "sources": [
+            {
+              "title": "Nomad Drive",
+              "url": "https://www.bilibili.com/video/BV1Y3xr6TEAV/",
+              "published_on": "2026-10-30"
+            },
+            {
+              "title": "楚河《 NOMAD DRIVE 》司机小秦驾驶拼好车，带天天、比巴卜、二蛋公路旅行｜2026-10-28档",
+              "url": "https://www.bilibili.com/video/BV147sd6vE9x/",
+              "published_on": "2026-10-29"
+            },
+            {
+              "title": "【 Nomad Drive 实况】 已经有里程过千的了？",
+              "url": "https://www.bilibili.com/video/BV1HFx16cE1s/",
+              "published_on": "2026-10-30"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 10。",
+    "selection_context": {
+      "model_rank": 10,
+      "leader": {
+        "name": "Phantom Blade Zero",
+        "appid": "4115450",
+        "score": 32.18,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4115450/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

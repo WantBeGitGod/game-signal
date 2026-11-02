@@ -1,7 +1,40 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-03T01:59:45",
+  "generated_at": "2026-11-03T02:02:27",
   "games": [
+    {
+      "game": {
+        "slug": "nomad-drive",
+        "appid": "2223980",
+        "name": "Nomad Drive",
+        "name_cn": null,
+        "description": "修复您破旧的房车，单人或1–4人合作驶向程序生成的末日后世界。收集资源，定制您的房车，并尽可能长时间生存。",
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "模拟",
+          "抢先体验"
+        ],
+        "developer": "Indie Devil",
+        "publisher": "Indie Devil",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223980/433d5727162af686f0e7d56de539f8476fb0cf0e/header.jpg?t=1793283217",
+        "product_family_identity": "appid:2223980",
+        "product_family_appid": "2223980",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-11-02"
+      ],
+      "member_appids": [
+        "2223980"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-11-02"
+    },
     {
       "game": {
         "slug": "phantom-blade-zero",

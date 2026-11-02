@@ -1,0 +1,72 @@
+{
+  "slug": "nomad-drive",
+  "appid": "2223980",
+  "name": "Nomad Drive",
+  "name_cn": null,
+  "description": "修复您破旧的房车，单人或1–4人合作驶向程序生成的末日后世界。收集资源，定制您的房车，并尽可能长时间生存。",
+  "release_date": "2026-10-27",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立",
+    "模拟",
+    "抢先体验"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "Steam 成就",
+    "完全支持控制器",
+    "视角舒适度",
+    "自定义音量控制",
+    "可调整难度",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "随时保存",
+    "立体声",
+    "环绕声",
+    "Steam 云",
+    "统计数据",
+    "家庭共享"
+  ],
+  "review_score": null,
+  "review_ratio": null,
+  "review_total": 0,
+  "developer": "Indie Devil",
+  "publisher": "Indie Devil",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223980/433d5727162af686f0e7d56de539f8476fb0cf0e/header.jpg?t=1793283217",
+  "steam_url": "https://store.steampowered.com/app/2223980",
+  "product_family_identity": "appid:2223980",
+  "product_family_appid": "2223980",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-10-28",
+      "peak": 1181
+    },
+    {
+      "date": "2026-10-29",
+      "peak": 2173
+    },
+    {
+      "date": "2026-10-30",
+      "peak": 2231
+    },
+    {
+      "date": "2026-10-31",
+      "peak": 4572
+    },
+    {
+      "date": "2026-11-01",
+      "peak": 4963
+    },
+    {
+      "date": "2026-11-02",
+      "peak": 6955
+    }
+  ]
+}
