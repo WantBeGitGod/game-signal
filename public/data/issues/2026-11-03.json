@@ -1,0 +1,557 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-11-03",
+  "title": "11.03 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 6.77,
+    "fact_summary": "Idle Legions 今日观测峰值 7,213，较过往最高峰值提升 +12%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-30",
+      "current_release_date": "2026-10-30",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-03 17:50:28",
+      "current_peak": 7213,
+      "previous_peak": 6454,
+      "previous_record_peak": 6454,
+      "growth_rate": 0.1176,
+      "record_growth_rate": 0.1176,
+      "scoring_peak": 7213,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 6.49,
+      "raw_record_growth_score": 4.12,
+      "growth_score_multiplier": 0.0666,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.0666,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.27,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 6.77,
+      "event_adjusted_score": 6.77,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 6.77,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 6.77,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "休闲",
+        "独立",
+        "角色扮演",
+        "策略",
+        "免费"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-30",
+      "release_event_age_days": 4,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 10,
+      "trend": [
+        {
+          "date": "2026-10-31",
+          "peak": 4976
+        },
+        {
+          "date": "2026-11-01",
+          "peak": 5584
+        },
+        {
+          "date": "2026-11-02",
+          "peak": 6454
+        },
+        {
+          "date": "2026-11-03",
+          "peak": 7213
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/5238690"
+      }
+    ],
+    "game": {
+      "slug": "idle-legions",
+      "appid": "5238690",
+      "name": "Idle Legions",
+      "name_cn": null,
+      "description": "你的军团会自己战斗，关掉游戏也照样继续。八位英雄（五位免费），六个章节，每位首领都有自己的机制。锻造装备、培养宠物、和其他玩家比拼你的配置，再深入深渊，寻找别处不会掉落的东西。",
+      "release_date": "2026-10-30",
+      "genres": [
+        "休闲",
+        "独立",
+        "角色扮演",
+        "策略",
+        "免费"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "Steam 成就",
+        "应用内购买",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "ALPACA TEAM",
+      "publisher": "ALPACA TEAM",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5238690/d841fbbf1cdd66749aad15aa21a5d3b8a07a487f/header.jpg?t=1793648722",
+      "steam_url": "https://store.steampowered.com/app/5238690",
+      "product_family_identity": "appid:5238690",
+      "product_family_appid": "5238690",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-31",
+          "peak": 4976
+        },
+        {
+          "date": "2026-11-01",
+          "peak": 5584
+        },
+        {
+          "date": "2026-11-02",
+          "peak": 6454
+        },
+        {
+          "date": "2026-11-03",
+          "peak": 7213
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Idle Legions》是一款免费的小队放置RPG。最多四位英雄自动打怪，关掉游戏也能继续积累进度；你回来处理装备，决定下一步培养谁。",
+      "reference_frame": "玩过《TBH：Task Bar Hero》，可以沿用定期收装备、筛词条、调配置再继续挂机的习惯。这里更要围绕四人阵容和首领机制做准备：例如九头蛇会再生，需要燃烧来压制，不能只盯着装备数值上涨。",
+      "for_players": "适合喜欢研究队伍搭配、隔一阵回来整理战利品，又不想一直盯着战斗的人。乐趣在于改完配置后，看队伍能不能跨过上次的卡点。",
+      "not_for_players": "如果你更享受亲手走位、闪避和连招，自动战斗很难满足你；如果连整理装备和等待积累也嫌琐碎，这种反复回访的节奏也未必合适。",
+      "star_reason": "11月3日本地观测峰值7,213，较此前记录提高约12%，首次摘星。更高排位游戏未通过发布资格后，本作按规则顺延入选；本期缺少可靠评价，口碑倍率保持中性。",
+      "core_loop": [
+        "收回挂机收益，挑选装备，把资源投给准备培养的英雄和宠物。",
+        "调整阵容与装备，挑战章节首领；遇到卡点，再检查敌人的特殊机制。",
+        "继续刷取材料、锻造装备，尝试更高难度和深渊，把新掉落带回队伍。"
+      ],
+      "content_length": 446
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-03T10:09:49+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 9,
+          "inspected_count": 19,
+          "top_views": 11742,
+          "search_url": "https://www.youtube.com/results?search_query=Idle%20Legions",
+          "sources": [
+            {
+              "title": "【Idle Legions】🛑直播中🛑新款Steam放置遊戲🔥八位英雄（五位免費）中挑選最多四位組成陣型｜市集交易系統｜七種裝備稀有度&四十隻寵物｜桌面放置STEAM遊戲【小月】",
+              "url": "https://www.youtube.com/watch?v=JznnGU5KO5A",
+              "published_on": "2026-11-01"
+            },
+            {
+              "title": "【Idle Legions】🛑直播中🛑Steam放置遊戲🔥八位英雄（五位免費）中挑選最多四位組成陣型｜市集交易系統｜七種裝備稀有度&四十隻寵物｜桌面放置STEAM遊戲【小月】",
+              "url": "https://www.youtube.com/watch?v=Vp7CR9K2hCU",
+              "published_on": "2026-11-02"
+            },
+            {
+              "title": "【Hank】為何這款遊戲負評如潮? 真的是糞Game嗎? | Idle Legions",
+              "url": "https://www.youtube.com/watch?v=RR1u7cCjufs",
+              "published_on": "2026-11-02"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 10,
+          "inspected_count": 28,
+          "top_views": 12000,
+          "search_url": "https://search.bilibili.com/all?keyword=Idle%20Legions",
+          "sources": [
+            {
+              "title": "Idle Legions 推图攻略",
+              "url": "https://www.bilibili.com/video/BV1984A6YEV4/",
+              "published_on": "2026-11-03"
+            },
+            {
+              "title": "idle legions 进地狱难度阵容推荐（祝各位出金砖）",
+              "url": "https://www.bilibili.com/video/BV1qk4P65ErN/",
+              "published_on": "2026-11-03"
+            },
+            {
+              "title": "挂机刷子游戏 Idle Legions 怎么0成本 用小号养大号？",
+              "url": "https://www.bilibili.com/video/BV1tNxH6zEzD/",
+              "published_on": "2026-11-01"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 10。",
+    "selection_context": {
+      "model_rank": 10,
+      "leader": {
+        "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+        "appid": "4348910",
+        "score": 30.76,
+        "reason": "处于摘星冷却期，至 2026-11-07 结束；过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4348910/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 6.77,
+    "fact_summary": "Idle Legions 今日观测峰值 7,213，较过往最高峰值提升 +12%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-10-30",
+      "current_release_date": "2026-10-30",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-03 17:50:28",
+      "current_peak": 7213,
+      "previous_peak": 6454,
+      "previous_record_peak": 6454,
+      "growth_rate": 0.1176,
+      "record_growth_rate": 0.1176,
+      "scoring_peak": 7213,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 6.49,
+      "raw_record_growth_score": 4.12,
+      "growth_score_multiplier": 0.0666,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.0666,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.27,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 6.77,
+      "event_adjusted_score": 6.77,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 6.77,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 6.77,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "休闲",
+        "独立",
+        "角色扮演",
+        "策略",
+        "免费"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-10-30",
+      "release_event_age_days": 4,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 10,
+      "trend": [
+        {
+          "date": "2026-10-31",
+          "peak": 4976
+        },
+        {
+          "date": "2026-11-01",
+          "peak": 5584
+        },
+        {
+          "date": "2026-11-02",
+          "peak": 6454
+        },
+        {
+          "date": "2026-11-03",
+          "peak": 7213
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/5238690"
+      }
+    ],
+    "game": {
+      "slug": "idle-legions",
+      "appid": "5238690",
+      "name": "Idle Legions",
+      "name_cn": null,
+      "description": "你的军团会自己战斗，关掉游戏也照样继续。八位英雄（五位免费），六个章节，每位首领都有自己的机制。锻造装备、培养宠物、和其他玩家比拼你的配置，再深入深渊，寻找别处不会掉落的东西。",
+      "release_date": "2026-10-30",
+      "genres": [
+        "休闲",
+        "独立",
+        "角色扮演",
+        "策略",
+        "免费"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "Steam 成就",
+        "应用内购买",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "ALPACA TEAM",
+      "publisher": "ALPACA TEAM",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5238690/d841fbbf1cdd66749aad15aa21a5d3b8a07a487f/header.jpg?t=1793648722",
+      "steam_url": "https://store.steampowered.com/app/5238690",
+      "product_family_identity": "appid:5238690",
+      "product_family_appid": "5238690",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-10-31",
+          "peak": 4976
+        },
+        {
+          "date": "2026-11-01",
+          "peak": 5584
+        },
+        {
+          "date": "2026-11-02",
+          "peak": 6454
+        },
+        {
+          "date": "2026-11-03",
+          "peak": 7213
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Idle Legions》是一款免费的小队放置RPG。最多四位英雄自动打怪，关掉游戏也能继续积累进度；你回来处理装备，决定下一步培养谁。",
+      "reference_frame": "玩过《TBH：Task Bar Hero》，可以沿用定期收装备、筛词条、调配置再继续挂机的习惯。这里更要围绕四人阵容和首领机制做准备：例如九头蛇会再生，需要燃烧来压制，不能只盯着装备数值上涨。",
+      "for_players": "适合喜欢研究队伍搭配、隔一阵回来整理战利品，又不想一直盯着战斗的人。乐趣在于改完配置后，看队伍能不能跨过上次的卡点。",
+      "not_for_players": "如果你更享受亲手走位、闪避和连招，自动战斗很难满足你；如果连整理装备和等待积累也嫌琐碎，这种反复回访的节奏也未必合适。",
+      "star_reason": "11月3日本地观测峰值7,213，较此前记录提高约12%，首次摘星。更高排位游戏未通过发布资格后，本作按规则顺延入选；本期缺少可靠评价，口碑倍率保持中性。",
+      "core_loop": [
+        "收回挂机收益，挑选装备，把资源投给准备培养的英雄和宠物。",
+        "调整阵容与装备，挑战章节首领；遇到卡点，再检查敌人的特殊机制。",
+        "继续刷取材料、锻造装备，尝试更高难度和深渊，把新掉落带回队伍。"
+      ],
+      "content_length": 446
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-03T10:09:49+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 9,
+          "inspected_count": 19,
+          "top_views": 11742,
+          "search_url": "https://www.youtube.com/results?search_query=Idle%20Legions",
+          "sources": [
+            {
+              "title": "【Idle Legions】🛑直播中🛑新款Steam放置遊戲🔥八位英雄（五位免費）中挑選最多四位組成陣型｜市集交易系統｜七種裝備稀有度&四十隻寵物｜桌面放置STEAM遊戲【小月】",
+              "url": "https://www.youtube.com/watch?v=JznnGU5KO5A",
+              "published_on": "2026-11-01"
+            },
+            {
+              "title": "【Idle Legions】🛑直播中🛑Steam放置遊戲🔥八位英雄（五位免費）中挑選最多四位組成陣型｜市集交易系統｜七種裝備稀有度&四十隻寵物｜桌面放置STEAM遊戲【小月】",
+              "url": "https://www.youtube.com/watch?v=Vp7CR9K2hCU",
+              "published_on": "2026-11-02"
+            },
+            {
+              "title": "【Hank】為何這款遊戲負評如潮? 真的是糞Game嗎? | Idle Legions",
+              "url": "https://www.youtube.com/watch?v=RR1u7cCjufs",
+              "published_on": "2026-11-02"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 10,
+          "inspected_count": 28,
+          "top_views": 12000,
+          "search_url": "https://search.bilibili.com/all?keyword=Idle%20Legions",
+          "sources": [
+            {
+              "title": "Idle Legions 推图攻略",
+              "url": "https://www.bilibili.com/video/BV1984A6YEV4/",
+              "published_on": "2026-11-03"
+            },
+            {
+              "title": "idle legions 进地狱难度阵容推荐（祝各位出金砖）",
+              "url": "https://www.bilibili.com/video/BV1qk4P65ErN/",
+              "published_on": "2026-11-03"
+            },
+            {
+              "title": "挂机刷子游戏 Idle Legions 怎么0成本 用小号养大号？",
+              "url": "https://www.bilibili.com/video/BV1tNxH6zEzD/",
+              "published_on": "2026-11-01"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 10。",
+    "selection_context": {
+      "model_rank": 10,
+      "leader": {
+        "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+        "appid": "4348910",
+        "score": 30.76,
+        "reason": "处于摘星冷却期，至 2026-11-07 结束；过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4348910/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

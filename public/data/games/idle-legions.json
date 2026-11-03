@@ -1,0 +1,52 @@
+{
+  "slug": "idle-legions",
+  "appid": "5238690",
+  "name": "Idle Legions",
+  "name_cn": null,
+  "description": "你的军团会自己战斗，关掉游戏也照样继续。八位英雄（五位免费），六个章节，每位首领都有自己的机制。锻造装备、培养宠物、和其他玩家比拼你的配置，再深入深渊，寻找别处不会掉落的东西。",
+  "release_date": "2026-10-30",
+  "genres": [
+    "休闲",
+    "独立",
+    "角色扮演",
+    "策略",
+    "免费"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "Steam 成就",
+    "应用内购买",
+    "家庭共享"
+  ],
+  "review_score": null,
+  "review_ratio": null,
+  "review_total": 0,
+  "developer": "ALPACA TEAM",
+  "publisher": "ALPACA TEAM",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5238690/d841fbbf1cdd66749aad15aa21a5d3b8a07a487f/header.jpg?t=1793648722",
+  "steam_url": "https://store.steampowered.com/app/5238690",
+  "product_family_identity": "appid:5238690",
+  "product_family_appid": "5238690",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-10-31",
+      "peak": 4976
+    },
+    {
+      "date": "2026-11-01",
+      "peak": 5584
+    },
+    {
+      "date": "2026-11-02",
+      "peak": 6454
+    },
+    {
+      "date": "2026-11-03",
+      "peak": 7213
+    }
+  ]
+}

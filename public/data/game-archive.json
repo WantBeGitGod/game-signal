@@ -1,7 +1,40 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-03T02:02:27",
+  "generated_at": "2026-11-03T18:10:42",
   "games": [
+    {
+      "game": {
+        "slug": "idle-legions",
+        "appid": "5238690",
+        "name": "Idle Legions",
+        "name_cn": null,
+        "description": "你的军团会自己战斗，关掉游戏也照样继续。八位英雄（五位免费），六个章节，每位首领都有自己的机制。锻造装备、培养宠物、和其他玩家比拼你的配置，再深入深渊，寻找别处不会掉落的东西。",
+        "genres": [
+          "休闲",
+          "独立",
+          "角色扮演",
+          "策略",
+          "免费"
+        ],
+        "developer": "ALPACA TEAM",
+        "publisher": "ALPACA TEAM",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5238690/d841fbbf1cdd66749aad15aa21a5d3b8a07a487f/header.jpg?t=1793648722",
+        "product_family_identity": "appid:5238690",
+        "product_family_appid": "5238690",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-11-03"
+      ],
+      "member_appids": [
+        "5238690"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-11-03"
+    },
     {
       "game": {
         "slug": "nomad-drive",
