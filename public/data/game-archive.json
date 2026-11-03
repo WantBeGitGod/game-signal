@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-03T18:10:42",
+  "generated_at": "2026-11-03T20:38:19",
   "games": [
     {
       "game": {
@@ -86,9 +86,11 @@
         "product_family_appid": "4115450",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "phantom-blade-zero"
+      ],
+      "article_title": "影之刃零-这口气，换把刀接着打",
+      "article_published_at": "2026-11-03",
       "star_dates": [
         "2026-11-01",
         "2026-10-29"
@@ -96,7 +98,7 @@
       "member_appids": [
         "4115450"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-11-01"
     },
     {
