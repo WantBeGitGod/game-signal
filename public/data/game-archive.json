@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-04T18:12:28",
+  "generated_at": "2026-11-04T21:37:02",
   "games": [
     {
       "game": {
@@ -23,16 +23,18 @@
         "product_family_appid": "3218230",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "archeage-chronicles"
+      ],
+      "article_title": "上古世纪编年史-打完这场架，明天还想上线吗",
+      "article_published_at": "2026-11-04",
       "star_dates": [
         "2026-11-04"
       ],
       "member_appids": [
         "3218230"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-11-04"
     },
     {
