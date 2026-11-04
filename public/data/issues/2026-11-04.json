@@ -1,0 +1,509 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-11-04",
+  "title": "11.04 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 20.28,
+    "fact_summary": "ArcheAge Chronicles 今日观测峰值 26,226，首次进入当前观察窗口，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-03",
+      "current_release_date": "2026-11-03",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-04 17:50:29",
+      "current_peak": 26226,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 26226,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 20.28,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.1623,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.0,
+      "growth_scale_crossing_component": 0.1623,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 20.28,
+      "event_adjusted_score": 20.28,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 20.28,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 20.28,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "大型多人在线",
+        "角色扮演",
+        "抢先体验"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-03",
+      "release_event_age_days": 1,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 6,
+      "trend": [
+        {
+          "date": "2026-11-04",
+          "peak": 26226
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3218230"
+      }
+    ],
+    "game": {
+      "slug": "archeage-chronicles",
+      "appid": "3218230",
+      "name": "ArcheAge Chronicles",
+      "name_cn": null,
+      "description": "探索欧罗拉，一个广阔而生机勃勃的世界，充满了源远流长的传说和惊险刺激的事件。《上古世纪编年史》将带来身临其境的体验，无论是新手还是经验丰富的冒险家，都将深深为之着迷。",
+      "release_date": "2026-11-03",
+      "genres": [
+        "动作",
+        "冒险",
+        "大型多人在线",
+        "角色扮演",
+        "抢先体验"
+      ],
+      "tags": [
+        "多人",
+        "大型多人在线",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "完全支持控制器"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "XLGAMES",
+      "publisher": "XLGAMES",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218230/header.jpg?t=1793752512",
+      "steam_url": "https://store.steampowered.com/app/3218230",
+      "product_family_identity": "appid:3218230",
+      "product_family_appid": "3218230",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-04",
+          "peak": 26226
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《上古世纪编年史》（ArcheAge Chronicles）是一款开放世界动作MMORPG。你以贸易公司雇员的身份踏上欧罗拉，探索遗迹、追查飞艇坠毁，也能把时间花在种田、制作和贸易上。",
+      "reference_frame": "玩过《永恒之塔2》，可以沿用长期培养角色、调整配置再与伙伴挑战敌人的习惯。这里还把采集、制作和贸易路线放进冒险：出门除了打怪，也要考虑货物怎样安全送到；战斗则提供翻滚、格挡与招架。这个参照只解释养成与协作，不套用天魔阵营或飞行规则。",
+      "for_players": "适合想长期经营一个角色，又愿意在战斗、生活技能和多人协作之间换换节奏的人。",
+      "not_for_players": "如果只想一口气通关剧情，或不愿反复积累资源、安排多人活动，这种长期回访的节奏可能会让你觉得拖沓。",
+      "star_reason": "11月4日本地观测峰值26,226，首次进入当前观察窗口并首次摘星。本期缺少可靠评价，口碑倍率保持中性；峰值只能说明已有一批玩家进入，后续表现还要继续看。",
+      "core_loop": [
+        "探索遗迹、推进任务，挑选武器与技能，遇敌时用移动、防御和攻击寻找机会。",
+        "采集材料、学习配方，制作物品或经营农田，把所得投入角色和生活技能。",
+        "与其他玩家交易，结伴走贸易路线，抵御沿途敌人，再准备下一次出行。"
+      ],
+      "content_length": 469
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-04T10:11:24+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 13,
+          "inspected_count": 20,
+          "top_views": 319967,
+          "search_url": "https://www.youtube.com/results?search_query=ArcheAge%20Chronicles",
+          "sources": [
+            {
+              "title": "IS IT READY!? | Archeage Chronicles First Impressions",
+              "url": "https://www.youtube.com/watch?v=a4D_Rh3CHPk",
+              "published_on": "2026-10-29"
+            },
+            {
+              "title": "ArcheAge Chronicles — Worth It? (Review)",
+              "url": "https://www.youtube.com/watch?v=OtuGvxC95aY",
+              "published_on": "2026-11-04"
+            },
+            {
+              "title": "ArcheAge Chronicles – Is This New MMORPG Worth Playing?",
+              "url": "https://www.youtube.com/watch?v=QjxwwTuLQK0",
+              "published_on": "2026-11-03"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 5,
+          "inspected_count": 30,
+          "top_views": 1431,
+          "search_url": "https://search.bilibili.com/all?keyword=ArcheAge%20Chronicles",
+          "sources": [
+            {
+              "title": "[中配] ArcheAge Chronicles 抢先体验全解析：职业、成长与买断制 - Cremado zyJYHoAMgr0",
+              "url": "https://www.bilibili.com/video/BV1m6xh6iEeU/",
+              "published_on": "2026-11-02"
+            },
+            {
+              "title": "MMORPG 《 ArcheAge Chronicles 上古世纪编年史》官方上映日期预告片",
+              "url": "https://www.bilibili.com/video/BV1cfsf6NEyk/",
+              "published_on": "2026-10-29"
+            },
+            {
+              "title": "开放世界角色扮演动作游戏《上古世纪编年史 ArcheAge Chronicles 》",
+              "url": "https://www.bilibili.com/video/BV1KrxS6UEcR/",
+              "published_on": "2026-11-04"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 6。",
+    "selection_context": {
+      "model_rank": 6,
+      "leader": {
+        "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+        "appid": "4348910",
+        "score": 31.25,
+        "reason": "处于摘星冷却期，至 2026-11-07 结束；过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4348910/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 20.28,
+    "fact_summary": "ArcheAge Chronicles 今日观测峰值 26,226，首次进入当前观察窗口，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-03",
+      "current_release_date": "2026-11-03",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-04 17:50:29",
+      "current_peak": 26226,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 26226,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 20.28,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.1623,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.0,
+      "growth_scale_crossing_component": 0.1623,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 20.28,
+      "event_adjusted_score": 20.28,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 20.28,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 20.28,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "大型多人在线",
+        "角色扮演",
+        "抢先体验"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-03",
+      "release_event_age_days": 1,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 6,
+      "trend": [
+        {
+          "date": "2026-11-04",
+          "peak": 26226
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3218230"
+      }
+    ],
+    "game": {
+      "slug": "archeage-chronicles",
+      "appid": "3218230",
+      "name": "ArcheAge Chronicles",
+      "name_cn": null,
+      "description": "探索欧罗拉，一个广阔而生机勃勃的世界，充满了源远流长的传说和惊险刺激的事件。《上古世纪编年史》将带来身临其境的体验，无论是新手还是经验丰富的冒险家，都将深深为之着迷。",
+      "release_date": "2026-11-03",
+      "genres": [
+        "动作",
+        "冒险",
+        "大型多人在线",
+        "角色扮演",
+        "抢先体验"
+      ],
+      "tags": [
+        "多人",
+        "大型多人在线",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "完全支持控制器"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "XLGAMES",
+      "publisher": "XLGAMES",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218230/header.jpg?t=1793752512",
+      "steam_url": "https://store.steampowered.com/app/3218230",
+      "product_family_identity": "appid:3218230",
+      "product_family_appid": "3218230",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-04",
+          "peak": 26226
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《上古世纪编年史》（ArcheAge Chronicles）是一款开放世界动作MMORPG。你以贸易公司雇员的身份踏上欧罗拉，探索遗迹、追查飞艇坠毁，也能把时间花在种田、制作和贸易上。",
+      "reference_frame": "玩过《永恒之塔2》，可以沿用长期培养角色、调整配置再与伙伴挑战敌人的习惯。这里还把采集、制作和贸易路线放进冒险：出门除了打怪，也要考虑货物怎样安全送到；战斗则提供翻滚、格挡与招架。这个参照只解释养成与协作，不套用天魔阵营或飞行规则。",
+      "for_players": "适合想长期经营一个角色，又愿意在战斗、生活技能和多人协作之间换换节奏的人。",
+      "not_for_players": "如果只想一口气通关剧情，或不愿反复积累资源、安排多人活动，这种长期回访的节奏可能会让你觉得拖沓。",
+      "star_reason": "11月4日本地观测峰值26,226，首次进入当前观察窗口并首次摘星。本期缺少可靠评价，口碑倍率保持中性；峰值只能说明已有一批玩家进入，后续表现还要继续看。",
+      "core_loop": [
+        "探索遗迹、推进任务，挑选武器与技能，遇敌时用移动、防御和攻击寻找机会。",
+        "采集材料、学习配方，制作物品或经营农田，把所得投入角色和生活技能。",
+        "与其他玩家交易，结伴走贸易路线，抵御沿途敌人，再准备下一次出行。"
+      ],
+      "content_length": 469
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-04T10:11:24+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 13,
+          "inspected_count": 20,
+          "top_views": 319967,
+          "search_url": "https://www.youtube.com/results?search_query=ArcheAge%20Chronicles",
+          "sources": [
+            {
+              "title": "IS IT READY!? | Archeage Chronicles First Impressions",
+              "url": "https://www.youtube.com/watch?v=a4D_Rh3CHPk",
+              "published_on": "2026-10-29"
+            },
+            {
+              "title": "ArcheAge Chronicles — Worth It? (Review)",
+              "url": "https://www.youtube.com/watch?v=OtuGvxC95aY",
+              "published_on": "2026-11-04"
+            },
+            {
+              "title": "ArcheAge Chronicles – Is This New MMORPG Worth Playing?",
+              "url": "https://www.youtube.com/watch?v=QjxwwTuLQK0",
+              "published_on": "2026-11-03"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 5,
+          "inspected_count": 30,
+          "top_views": 1431,
+          "search_url": "https://search.bilibili.com/all?keyword=ArcheAge%20Chronicles",
+          "sources": [
+            {
+              "title": "[中配] ArcheAge Chronicles 抢先体验全解析：职业、成长与买断制 - Cremado zyJYHoAMgr0",
+              "url": "https://www.bilibili.com/video/BV1m6xh6iEeU/",
+              "published_on": "2026-11-02"
+            },
+            {
+              "title": "MMORPG 《 ArcheAge Chronicles 上古世纪编年史》官方上映日期预告片",
+              "url": "https://www.bilibili.com/video/BV1cfsf6NEyk/",
+              "published_on": "2026-10-29"
+            },
+            {
+              "title": "开放世界角色扮演动作游戏《上古世纪编年史 ArcheAge Chronicles 》",
+              "url": "https://www.bilibili.com/video/BV1KrxS6UEcR/",
+              "published_on": "2026-11-04"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 6。",
+    "selection_context": {
+      "model_rank": 6,
+      "leader": {
+        "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+        "appid": "4348910",
+        "score": 31.25,
+        "reason": "处于摘星冷却期，至 2026-11-07 结束；过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4348910/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

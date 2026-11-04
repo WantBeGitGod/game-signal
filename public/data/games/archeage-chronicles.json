@@ -1,0 +1,40 @@
+{
+  "slug": "archeage-chronicles",
+  "appid": "3218230",
+  "name": "ArcheAge Chronicles",
+  "name_cn": null,
+  "description": "探索欧罗拉，一个广阔而生机勃勃的世界，充满了源远流长的传说和惊险刺激的事件。《上古世纪编年史》将带来身临其境的体验，无论是新手还是经验丰富的冒险家，都将深深为之着迷。",
+  "release_date": "2026-11-03",
+  "genres": [
+    "动作",
+    "冒险",
+    "大型多人在线",
+    "角色扮演",
+    "抢先体验"
+  ],
+  "tags": [
+    "多人",
+    "大型多人在线",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "完全支持控制器"
+  ],
+  "review_score": null,
+  "review_ratio": null,
+  "review_total": 0,
+  "developer": "XLGAMES",
+  "publisher": "XLGAMES",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218230/header.jpg?t=1793752512",
+  "steam_url": "https://store.steampowered.com/app/3218230",
+  "product_family_identity": "appid:3218230",
+  "product_family_appid": "3218230",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-11-04",
+      "peak": 26226
+    }
+  ]
+}
