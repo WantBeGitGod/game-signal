@@ -1,7 +1,228 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-02T18:00:33.039998+00:00",
+  "generated_at": "2026-11-04T10:14:22.854401+00:00",
   "events": [
+    {
+      "id": 186,
+      "title": "《Figure Me Out》登陆 Steam：互读额头数字的 20 人在线对战",
+      "summary": "Solo Groove Games 于 2026 年 11 月 3 日在 Steam 推出第一人称在线对战游戏《Figure Me Out》，售价 790 日元，11 月 10 日前八折。最多 20 名玩家要读取对手额头上的数字并抢先输入将其击败，支持死斗、团队死斗和夺旗模式；望远镜可远距离读数，相机能短暂显示拍下的照片，闪光弹则用于干扰视线。",
+      "topics": [
+        "Solo Groove Games",
+        "Figure Me Out",
+        "Steam"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-11-04T10:14:20.118036+00:00",
+      "updated_at": "2026-11-04T10:14:20.118036+00:00",
+      "content_updated_at": "2026-11-04T10:14:20.118036+00:00",
+      "reported_at": "2026-11-04T09:55:49+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.4gamer.net/games/048/G104804/20261104035/",
+          "title": "額の数字を入力しあって戦う一人称視点のオンライン対戦ゲーム「Figure Me Out」，Steamで配信開始",
+          "published_at": "2026-11-04T09:55:49+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 195,
+          "text": "Solo Groove Games 于 2026 年 11 月 3 日在 Steam 发售第一人称在线对战游戏《Figure Me Out》，售价 790 日元，11 月 10 日前八折；最多 20 名玩家互相读取对方额头上的数字并抢先输入击败对手，含死斗、团队死斗与夺旗模式，并可利用望远镜、相机、闪光弹等道具。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.4gamer.net/games/048/G104804/20261104035/",
+          "action": "create_event",
+          "recorded_at": "2026-11-04T10:14:20.118637+00:00",
+          "source_published_at": "2026-11-04T09:55:49+00:00"
+        }
+      ]
+    },
+    {
+      "id": 184,
+      "title": "《Guild Wars Afterlife》公布：初代近20年来首个大型更新",
+      "summary": "ArenaNet与联合开发工作室2Weeks宣布《Guild Wars Afterlife》，这是《Guild Wars》初代近20年来首个大型内容更新，将登陆PC与移动端。更新加入每次进入都会变化的动态地牢、让每局技能栏不同的技能抽取系统，以及新剧情、新角色与新地区Xotecha，2027年1月13日发售，定价29.99美元/29.99欧元/25.99英镑，预售期内享八折。",
+      "topics": [
+        "ArenaNet",
+        "2Weeks",
+        "Guild Wars",
+        "Guild Wars Afterlife"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-11-04T10:14:11.640315+00:00",
+      "updated_at": "2026-11-04T10:14:11.640315+00:00",
+      "content_updated_at": "2026-11-04T10:14:11.640315+00:00",
+      "reported_at": "2026-11-04T09:59:17+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.eurogamer.net/guild-wars-1-afterlife-announced-20-years",
+          "title": "Guild Wars gets its first major gameplay update in almost 20 years",
+          "published_at": "2026-11-04T09:59:17+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 193,
+          "text": "ArenaNet与联合开发工作室2Weeks宣布《Guild Wars》近20年来首个大型内容更新《Guild Wars Afterlife》，将登陆PC与移动端，加入每次进入都会变化的动态地牢、技能抽取系统（每局可组建不同技能栏）、新剧情与新地区Xotecha；2027年1月13日发售，定价29.99美元/29.99欧元/25.99英镑，预售期内享八折。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.eurogamer.net/guild-wars-1-afterlife-announced-20-years",
+          "action": "create_event",
+          "recorded_at": "2026-11-04T10:14:11.640891+00:00",
+          "source_published_at": "2026-11-04T09:59:17+00:00"
+        }
+      ]
+    },
+    {
+      "id": 183,
+      "title": "青沼英二与藤林秀麿在重制版访谈中回顾《时之笛》的系列转折意义",
+      "summary": "任天堂 Ask the Developer 系列《塞尔达传说 时之笛》Switch 2 重制版访谈中，系列制作人青沼英二表示自己思考系列时常回到《时之笛》，回想当年的开发想法；重制版制作人藤林秀麿称《时之笛》是系列真正的转折点，作为首部 3D 作品证明探索与发现的体验能成为系列吸引力核心。两人强调沿途与人及敌人的相遇是广阔世界冒险中真正重要的部分。",
+      "topics": [
+        "Nintendo",
+        "The Legend of Zelda: Ocarina of Time",
+        "Eiji Aonuma",
+        "Hidemaro Fujibayashi"
+      ],
+      "kind": "development",
+      "created_at": "2026-11-04T10:14:02.515956+00:00",
+      "updated_at": "2026-11-04T10:14:02.515956+00:00",
+      "content_updated_at": "2026-11-04T10:14:02.515956+00:00",
+      "reported_at": "2026-11-04T10:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gamesradar.com/games/the-legend-of-zelda/despite-leading-zelda-breath-of-the-wild-and-tears-of-the-kingdom-its-ocarina-of-time-that-series-lead-eiji-aonuma-comes-back-to-the-most/",
+          "title": "Despite leading Zelda: Breath of the Wild and Tears of the Kingdom, it's Ocarina of Time that Eiji Aonuma comes back to",
+          "published_at": "2026-11-04T10:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 192,
+          "text": "在《塞尔达传说 时之笛》Switch 2 重制版的任天堂 Ask the Developer 系列访谈中，系列制作人青沼英二表示，每当思考《塞尔达传说》系列时，自己常会回到《时之笛》并回想开发时的想法；重制版制作人藤林秀麿称《时之笛》是系列真正的转折点，作为首部 3D 作品展示了探索与发现体验可以成为系列吸引力的核心。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.gamesradar.com/games/the-legend-of-zelda/despite-leading-zelda-breath-of-the-wild-and-tears-of-the-kingdom-its-ocarina-of-time-that-series-lead-eiji-aonuma-comes-back-to-the-most/",
+          "action": "create_event",
+          "recorded_at": "2026-11-04T10:14:02.516637+00:00",
+          "source_published_at": "2026-11-04T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 182,
+      "title": "Hamster 宣布《Console Archives エレベーターアクション》与《Arcade Archives 2 エレベーターアクション》11 月 5 日配信",
+      "summary": "Hamster 宣布复刻 1985 年 Taito 家用机版《エレベーターアクション》的《Console Archives エレベーターアクション》将于 2026 年 11 月 5 日登陆 Switch 2 与 PS5，售价 800 日元（含税），收录国内版与海外版，并带按键/画面自定义与随时存档读档。同日还配信复刻 1983 年街机版的《Arcade Archives 2 エレベーターアクション》，登陆 Switch 2、PS5、Xbox Series X|S 与 PC，售价 1100 日元（含税）。",
+      "topics": [
+        "Hamster",
+        "Taito",
+        "エレベーターアクション"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-11-04T10:13:54.927212+00:00",
+      "updated_at": "2026-11-04T10:13:54.927212+00:00",
+      "content_updated_at": "2026-11-04T10:13:54.927212+00:00",
+      "reported_at": "2026-11-04T10:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.4gamer.net/games/055/G105539/20261104028/",
+          "title": "1985年にタイトーから発売された家庭用「エレベーターアクション」，コンソールアーカイブスで11月5日に配信決定",
+          "published_at": "2026-11-04T10:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 191,
+          "text": "Hamster 宣布《Console Archives エレベーターアクション》（Switch 2 / PS5）将于 2026 年 11 月 5 日配信，售价 800 日元（含税），复刻 1985 年 Taito 面向 8 位家用机的《エレベーターアクション》，收录国内版与海外版，并搭载按键/画面自定义与随时存档读档功能；同日还配信复刻 1983 年街机版的《Arcade Archives 2 エレベーターアクション》（Switch 2 / PS5 / Xbox Series X|S / PC，支持 Xbox Play Anywhere），售价 1100 日元（含税）。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.4gamer.net/games/055/G105539/20261104028/",
+          "action": "create_event",
+          "recorded_at": "2026-11-04T10:13:54.927897+00:00",
+          "source_published_at": "2026-11-04T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 181,
+      "title": "《The Binding of Isaac: Repentance+》11 月 19 日登陆 PS5/Switch 2/Xbox，同日 PC DLC 正式发售",
+      "summary": "Nicalis 创始人 Tyrone Rodriguez 公布，《The Binding of Isaac: Repentance+》升级版将于 2026 年 11 月 19 日在 PlayStation 5、Switch 2、Xbox Series X|S 数字发售，同日 PC 版 DLC 扩展正式上线，北美另推 Switch 2 实体版。新版支持在线多人、经 Steam Cloud 在 PC 与主机间互转存档，并发售日特殊每日挑战；2027 年第一季度前还计划追加跨平台联机、主机版本地化等更新。升级价格将另行公布。",
+      "topics": [
+        "Nicalis",
+        "The Binding of Isaac: Repentance+",
+        "Tyrone Rodriguez",
+        "Steam"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-11-04T10:13:49.707175+00:00",
+      "updated_at": "2026-11-04T10:13:49.707175+00:00",
+      "content_updated_at": "2026-11-04T10:13:49.707175+00:00",
+      "reported_at": "2026-11-04T10:00:03+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "http://www.gamespark.jp/article/2026/11/04/174470.html",
+          "title": "人気ローグライク最新版『The Binding of Isaac: Repentance+』は近日配信！ クロスセーブにも対応",
+          "published_at": "2026-11-04T10:00:03+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 190,
+          "text": "Nicalis 创始人、执行制作人 Tyrone Rodriguez 宣布《The Binding of Isaac: Repentance+》升级版将于 2026 年 11 月 19 日以数字形式登陆 PlayStation 5、Switch 2、Xbox Series X|S，同日 PC 版 DLC 扩展正式发售，并计划在北美推出 Switch 2 实体版；本版本支持在线多人、Steam Cloud 跨存档（PC 与主机间互转存档）以及发售日特殊每日挑战；2027 年第一季度前还将追加跨平台联机、主机版本地化及未公开内容。升级价格细节另行公布。",
+          "evidence_kind": "syndication",
+          "source_url": "http://www.gamespark.jp/article/2026/11/04/174470.html",
+          "action": "create_event",
+          "recorded_at": "2026-11-04T10:13:49.707829+00:00",
+          "source_published_at": "2026-11-04T10:00:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": 180,
+      "title": "《深夜ドライブイン》Steam 体验版上线，11 月 13 日发售",
+      "summary": "RAYBIS GAMES 于 2026 年 11 月 4 日在 Steam 开放 TADAIMA WORKS 开发的第一人称心理恐怖游戏《Midnight Rest Stop | 深夜ドライブイン》体验版，可游玩约 15 分钟开场。正式版 11 月 13 日 0:00 登陆 PC（Steam），售价 680 日元（含税），发售两周内九折 612 日元。游戏以 1988 年日本深山汽车旅馆为舞台，玩家因车辆故障留宿，可探索食堂、游戏角与浴场并与员工、住客交谈；夜深后异响、员工怪行与住客失踪接连出现，需探索揭开旅馆秘密。",
+      "topics": [
+        "RAYBIS GAMES",
+        "TADAIMA WORKS",
+        "Midnight Rest Stop",
+        "深夜ドライブイン",
+        "Steam"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-11-04T10:13:38.911075+00:00",
+      "updated_at": "2026-11-04T10:13:38.911075+00:00",
+      "content_updated_at": "2026-11-04T10:13:38.911075+00:00",
+      "reported_at": "2026-11-04T10:09:36+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.4gamer.net/games/053/G105394/20261104037/",
+          "title": "1988年の日本の山奥を舞台にしたホラーゲーム「深夜ドライブイン」，体験版をSteamで配信開始。製品版は11月13日発売",
+          "published_at": "2026-11-04T10:09:36+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 189,
+          "text": "RAYBIS GAMES 于 2026 年 11 月 4 日在 Steam 开放 TADAIMA WORKS 开发的第一人称心理恐怖游戏《Midnight Rest Stop | 深夜ドライブイン》体验版，可游玩约 15 分钟的开场内容；正式版定于 11 月 13 日 0:00 在 PC（Steam）发售，售价 680 日元（含税），发售后两周内九折 612 日元，商店页已开放愿望单。游戏以 1988 年日本深山中的汽车旅馆为舞台：玩家深夜驾车途中车辆故障，在附设住宿设施过夜，可探索食堂、游戏角、浴场，与员工和住客交谈；夜深后隔壁传来异响、员工言行怪异、住客陆续失踪，玩家需探索揭开旅馆隐藏的秘密。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.4gamer.net/games/053/G105394/20261104037/",
+          "action": "create_event",
+          "recorded_at": "2026-11-04T10:13:38.911536+00:00",
+          "source_published_at": "2026-11-04T10:09:36+00:00"
+        }
+      ]
+    },
     {
       "id": 179,
       "title": "任天堂开发者访谈公开《塞尔达传说 时之笛》Switch 2 重制理念与设计取舍",
