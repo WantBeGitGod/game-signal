@@ -1,0 +1,43 @@
+{
+  "slug": "rob-run",
+  "appid": "4262460",
+  "name": "ROB RUN",
+  "name_cn": null,
+  "description": "ROB RUN is a brutal crime sandbox featuring thousands of players. Rise above everyone through the grit, the grime, and the struggle. Break free and take yourself from squalor by any means.",
+  "release_date": "2026-11-04",
+  "genres": [
+    "动作",
+    "大型多人在线",
+    "角色扮演",
+    "模拟",
+    "免费",
+    "抢先体验"
+  ],
+  "tags": [
+    "多人",
+    "大型多人在线",
+    "玩家对战",
+    "线上玩家对战",
+    "合作",
+    "在线合作",
+    "应用内购买",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": null,
+  "review_ratio": null,
+  "review_total": 0,
+  "developer": "Kefir",
+  "publisher": "Kefir",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg?t=1793811654",
+  "steam_url": "https://store.steampowered.com/app/4262460",
+  "product_family_identity": "appid:4262460",
+  "product_family_appid": "4262460",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-11-05",
+      "peak": 17834
+    }
+  ]
+}

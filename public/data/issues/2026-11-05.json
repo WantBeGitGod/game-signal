@@ -1,0 +1,469 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-11-05",
+  "title": "11.05 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 16.05,
+    "fact_summary": "ROB RUN 今日观测峰值 17,834，首次进入当前观察窗口，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-04",
+      "current_release_date": "2026-11-04",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-05 17:50:16",
+      "current_peak": 17834,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 17834,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 16.05,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.0783,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.0,
+      "growth_scale_crossing_component": 0.0783,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 16.05,
+      "event_adjusted_score": 16.05,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 16.05,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 16.05,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "大型多人在线",
+        "角色扮演",
+        "模拟",
+        "免费",
+        "抢先体验"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-04",
+      "release_event_age_days": 1,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 6,
+      "trend": [
+        {
+          "date": "2026-11-05",
+          "peak": 17834
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4262460"
+      }
+    ],
+    "game": {
+      "slug": "rob-run",
+      "appid": "4262460",
+      "name": "ROB RUN",
+      "name_cn": null,
+      "description": "ROB RUN is a brutal crime sandbox featuring thousands of players. Rise above everyone through the grit, the grime, and the struggle. Break free and take yourself from squalor by any means.",
+      "release_date": "2026-11-04",
+      "genres": [
+        "动作",
+        "大型多人在线",
+        "角色扮演",
+        "模拟",
+        "免费",
+        "抢先体验"
+      ],
+      "tags": [
+        "多人",
+        "大型多人在线",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "应用内购买",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Kefir",
+      "publisher": "Kefir",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg?t=1793811654",
+      "steam_url": "https://store.steampowered.com/app/4262460",
+      "product_family_identity": "appid:4262460",
+      "product_family_appid": "4262460",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-05",
+          "peak": 17834
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "ROB RUN 是一款免费抢先体验犯罪沙盒。你在一座由玩家扮演警察和罪犯的城市里，从小混混起步，靠抢劫、经营藏身处和结交帮派争夺资源。",
+      "reference_frame": "玩过《盗贼之海》，会熟悉到手的战利品随时可能被别人抢走、要靠同伴把收益保住的紧张感。这里把海上运货换成城市劫案和据点攻防，还要建设可被袭击的基地；不能照搬海盗船的岗位分工。",
+      "for_players": "适合喜欢临场出岔子、朋友分工和玩家争斗的人；枪法之外，选目标、谈合作和及时收手也会影响收益。",
+      "not_for_players": "如果你希望财产永久安全，或只想安静做任务、不接受陌生玩家抢夺与周期清档，这种节奏会很磨人。",
+      "star_reason": "11月5日本地观测峰值17,834，首次进入当前观察窗口并首次摘星。本期可靠评价缺失，口碑倍率保持中性；这批首发玩家能否留下，还需要继续观察。",
+      "core_loop": [
+        "挑选抢劫目标，和同伴安排分工，在警察追捕与其他玩家介入前争取带走财物。",
+        "把战利品存进藏身处，升级基地、布置工作台和保险箱，再准备下一次行动。",
+        "加入帮派，争夺地盘或袭击对手；服务器清档后，带着经验和人脉重新起步。"
+      ],
+      "content_length": 416
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-05T10:13:27+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "bilibili",
+          "sampled_count": 8,
+          "inspected_count": 30,
+          "top_views": 1309,
+          "search_url": "https://search.bilibili.com/all?keyword=ROB%20RUN",
+          "sources": [
+            {
+              "title": "【 Rob Run 】STEAM多人联机劫匪模拟器！5000人赛博大乱斗！",
+              "url": "https://www.bilibili.com/video/BV1hrxc6sETi/",
+              "published_on": "2026-10-29"
+            },
+            {
+              "title": "ROB RUN 新游戏 太好玩了！GTA+搜打撤 (堵销赃点来)",
+              "url": "https://www.bilibili.com/video/BV1v44t6kEev/",
+              "published_on": "2026-11-05"
+            },
+            {
+              "title": "低配版GTA？5000人抢银行或守卫安宁【 ROB RUN 】",
+              "url": "https://www.bilibili.com/video/BV1Nmx96cE9Y/",
+              "published_on": "2026-11-05"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 6。",
+    "selection_context": {
+      "model_rank": 6,
+      "leader": {
+        "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+        "appid": "4348910",
+        "score": 31.68,
+        "reason": "处于摘星冷却期，至 2026-11-07 结束；过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4348910/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 16.05,
+    "fact_summary": "ROB RUN 今日观测峰值 17,834，首次进入当前观察窗口，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-04",
+      "current_release_date": "2026-11-04",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-05 17:50:16",
+      "current_peak": 17834,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 17834,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 16.05,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.0783,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.0,
+      "growth_scale_crossing_component": 0.0783,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 16.05,
+      "event_adjusted_score": 16.05,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 16.05,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 16.05,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 1,
+      "steam_release_age_days": 1,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "大型多人在线",
+        "角色扮演",
+        "模拟",
+        "免费",
+        "抢先体验"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-04",
+      "release_event_age_days": 1,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 6,
+      "trend": [
+        {
+          "date": "2026-11-05",
+          "peak": 17834
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4262460"
+      }
+    ],
+    "game": {
+      "slug": "rob-run",
+      "appid": "4262460",
+      "name": "ROB RUN",
+      "name_cn": null,
+      "description": "ROB RUN is a brutal crime sandbox featuring thousands of players. Rise above everyone through the grit, the grime, and the struggle. Break free and take yourself from squalor by any means.",
+      "release_date": "2026-11-04",
+      "genres": [
+        "动作",
+        "大型多人在线",
+        "角色扮演",
+        "模拟",
+        "免费",
+        "抢先体验"
+      ],
+      "tags": [
+        "多人",
+        "大型多人在线",
+        "玩家对战",
+        "线上玩家对战",
+        "合作",
+        "在线合作",
+        "应用内购买",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Kefir",
+      "publisher": "Kefir",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg?t=1793811654",
+      "steam_url": "https://store.steampowered.com/app/4262460",
+      "product_family_identity": "appid:4262460",
+      "product_family_appid": "4262460",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-05",
+          "peak": 17834
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "ROB RUN 是一款免费抢先体验犯罪沙盒。你在一座由玩家扮演警察和罪犯的城市里，从小混混起步，靠抢劫、经营藏身处和结交帮派争夺资源。",
+      "reference_frame": "玩过《盗贼之海》，会熟悉到手的战利品随时可能被别人抢走、要靠同伴把收益保住的紧张感。这里把海上运货换成城市劫案和据点攻防，还要建设可被袭击的基地；不能照搬海盗船的岗位分工。",
+      "for_players": "适合喜欢临场出岔子、朋友分工和玩家争斗的人；枪法之外，选目标、谈合作和及时收手也会影响收益。",
+      "not_for_players": "如果你希望财产永久安全，或只想安静做任务、不接受陌生玩家抢夺与周期清档，这种节奏会很磨人。",
+      "star_reason": "11月5日本地观测峰值17,834，首次进入当前观察窗口并首次摘星。本期可靠评价缺失，口碑倍率保持中性；这批首发玩家能否留下，还需要继续观察。",
+      "core_loop": [
+        "挑选抢劫目标，和同伴安排分工，在警察追捕与其他玩家介入前争取带走财物。",
+        "把战利品存进藏身处，升级基地、布置工作台和保险箱，再准备下一次行动。",
+        "加入帮派，争夺地盘或袭击对手；服务器清档后，带着经验和人脉重新起步。"
+      ],
+      "content_length": 416
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-05T10:13:27+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "bilibili",
+          "sampled_count": 8,
+          "inspected_count": 30,
+          "top_views": 1309,
+          "search_url": "https://search.bilibili.com/all?keyword=ROB%20RUN",
+          "sources": [
+            {
+              "title": "【 Rob Run 】STEAM多人联机劫匪模拟器！5000人赛博大乱斗！",
+              "url": "https://www.bilibili.com/video/BV1hrxc6sETi/",
+              "published_on": "2026-10-29"
+            },
+            {
+              "title": "ROB RUN 新游戏 太好玩了！GTA+搜打撤 (堵销赃点来)",
+              "url": "https://www.bilibili.com/video/BV1v44t6kEev/",
+              "published_on": "2026-11-05"
+            },
+            {
+              "title": "低配版GTA？5000人抢银行或守卫安宁【 ROB RUN 】",
+              "url": "https://www.bilibili.com/video/BV1Nmx96cE9Y/",
+              "published_on": "2026-11-05"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 6。",
+    "selection_context": {
+      "model_rank": 6,
+      "leader": {
+        "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+        "appid": "4348910",
+        "score": 31.68,
+        "reason": "处于摘星冷却期，至 2026-11-07 结束；过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4348910/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
