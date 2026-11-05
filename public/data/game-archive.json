@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-05T18:15:57",
+  "generated_at": "2026-11-05T20:36:25",
   "games": [
     {
       "game": {
@@ -24,16 +24,18 @@
         "product_family_appid": "4262460",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "rob-run"
+      ],
+      "article_title": "ROB RUN-当上黑帮大佬，保质期七天",
+      "article_published_at": "2026-11-05",
       "star_dates": [
         "2026-11-05"
       ],
       "member_appids": [
         "4262460"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-11-05"
     },
     {
