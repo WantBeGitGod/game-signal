@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-05T20:36:25",
+  "generated_at": "2026-11-06T18:13:53",
   "games": [
     {
       "game": {
@@ -30,13 +30,14 @@
       "article_title": "ROB RUN-当上黑帮大佬，保质期七天",
       "article_published_at": "2026-11-05",
       "star_dates": [
+        "2026-11-06",
         "2026-11-05"
       ],
       "member_appids": [
         "4262460"
       ],
       "article_count": 1,
-      "latest_star_date": "2026-11-05"
+      "latest_star_date": "2026-11-06"
     },
     {
       "game": {
