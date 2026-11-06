@@ -1,7 +1,190 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-04T10:14:22.854401+00:00",
+  "generated_at": "2026-11-06T10:10:17.236689+00:00",
   "events": [
+    {
+      "id": 193,
+      "title": "《007 First Light》推出免费试玩版，含冰岛开场章节",
+      "summary": "IO Interactive 发布《007 First Light》免费试玩版，内容覆盖完整的冰岛开场章节，玩家可借此提前体验詹姆斯·邦德的起源故事并判断是否关注正式版。",
+      "topics": [
+        "007 First Light",
+        "IO Interactive"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-11-06T10:10:13.263622+00:00",
+      "updated_at": "2026-11-06T10:10:13.263622+00:00",
+      "content_updated_at": "2026-11-06T10:10:13.263622+00:00",
+      "reported_at": "2026-11-06T09:02:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gameswelt.de/007-first-light/news/io-interactive-stellt-demo-von-007-first-light-gratis-bereit-335422",
+          "title": "007 First Light - IO Interactive stellt Demo von 007 First Light gratis bereit",
+          "published_at": "2026-11-06T09:02:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 202,
+          "text": "IO Interactive 为《007 First Light》提供免费试玩版，内容包含完整的冰岛开场章节，让玩家可以提前体验詹姆斯·邦德的起源故事。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.gameswelt.de/007-first-light/news/io-interactive-stellt-demo-von-007-first-light-gratis-bereit-335422",
+          "action": "create_event",
+          "recorded_at": "2026-11-06T10:10:13.264260+00:00",
+          "source_published_at": "2026-11-06T09:02:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "title": "AMD FSR 4.1.2 集成进微软 GDK，面向 Xbox Series X/S 与 ROG Xbox Ally 掌机",
+      "summary": "AMD 将 AI 超分辨率技术 FSR 4.1.2 集成进微软官方 GDK，更新后可供 Xbox Series X/S 主机以及 ASUS ROG Xbox Ally、Ally 掌机使用。厂商称该更新能带来更高帧率，但这是 AMD 的宣称，并非独立实测；具体哪些游戏会支持、实际画质与性能收益尚待验证。",
+      "topics": [
+        "AMD",
+        "Microsoft",
+        "Xbox Series X|S",
+        "ASUS ROG Xbox Ally",
+        "FSR 4.1.2"
+      ],
+      "kind": "development",
+      "created_at": "2026-11-06T10:10:08.657318+00:00",
+      "updated_at": "2026-11-06T10:10:08.657318+00:00",
+      "content_updated_at": "2026-11-06T10:10:08.657318+00:00",
+      "reported_at": "2026-11-06T09:03:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gameswelt.de/xbox-series-x-s/news/amd-fsr-4-1-2-steht-jetzt-fuer-konsolen-und-handhelds-zur-verfuegung-335423",
+          "title": "Xbox Series X/S - AMD FSR 4.1.2 steht jetzt für Konsolen und Handhelds zur Verfügung",
+          "published_at": "2026-11-06T09:03:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 201,
+          "text": "AMD 将 AI 超分辨率技术 FSR 4.1.2 集成进微软官方 GDK，该更新面向 Xbox Series X/S 主机以及 ASUS ROG Xbox Ally 和 Ally 掌机提供，厂商称可带来更高帧率。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.gameswelt.de/xbox-series-x-s/news/amd-fsr-4-1-2-steht-jetzt-fuer-konsolen-und-handhelds-zur-verfuegung-335423",
+          "action": "create_event",
+          "recorded_at": "2026-11-06T10:10:08.657885+00:00",
+          "source_published_at": "2026-11-06T09:03:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "title": "《Remote Reaper》开发者访谈：公布后续更新路线与日语支持安排",
+      "summary": "Game*Spark 专访乌克兰个人开发者 Vladyslav Fomenko，其 FPV 战斗无人机模拟器《Remote Reaper: FPV Combat Drone Simulator》已于 10 月 14 日在 PC 发售，售价 2600 日元，目前不支持日语。开发者表示将持续长期支持，计划追加新任务与目标、竞速模式新赛道、新地图与敌方载具、友军部队与载具、小规模剧情战役及战场特效，并推出 macOS 版；日语支持稍后推进，欢迎有志者协助翻译。",
+      "topics": [
+        "Remote Reaper: FPV Combat Drone Simulator",
+        "Vladyslav Fomenko",
+        "Game*Spark"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-11-06T10:09:49.099606+00:00",
+      "updated_at": "2026-11-06T10:09:49.099606+00:00",
+      "content_updated_at": "2026-11-06T10:09:49.099606+00:00",
+      "reported_at": "2026-11-06T09:45:02+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "http://www.gamespark.jp/article/2026/11/06/174580.html",
+          "title": "「都市部のインフラ施設への攻撃ミッションといった、あえて採用を見送った要望も」ウクライナ産ドローンシミュレーター『Remote Reaper: FPV Combat Drone Simulator』【開発者インタビュー】",
+          "published_at": "2026-11-06T09:45:02+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 200,
+          "text": "Game*Spark 对乌克兰个人开发者 Vladyslav Fomenko 进行邮件采访，其 FPV 战斗无人机模拟器《Remote Reaper: FPV Combat Drone Simulator》于 10 月 14 日在 PC 发售、售价 2600 日元，目前不支持日语；开发者称后续更新计划加入新任务与目标、竞速模式新赛道、新地图与敌方载具、友军部队与载具、小规模剧情战役、临场战场特效以及 macOS 版，日语支持稍后推进，并考虑有志者协助翻译。",
+          "evidence_kind": "original_reporting",
+          "source_url": "http://www.gamespark.jp/article/2026/11/06/174580.html",
+          "action": "create_event",
+          "recorded_at": "2026-11-06T10:09:49.100225+00:00",
+          "source_published_at": "2026-11-06T09:45:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "title": "《Metaphor: ReFantazio》PC/PS/Xbox 版 11 月 12 日大幅永久降价",
+      "summary": "Atlus 宣布，《Metaphor: ReFantazio》的 PC（Steam）、PS Store 与 Microsoft Store 版本将于 11 月 12 日实施价格改定：通常版从 9,878 日元降至 3,990 日元，「Atlas Brand 35th Digital Anniversary Edition」从 15,510 日元降至 5,990 日元。同日 Switch 2 版发售，Nintendo Store 已按改定后同价接受预约；官方提醒玩家购买前确认各商店页面是否已显示新价格。",
+      "topics": [
+        "Atlus",
+        "Metaphor: ReFantazio",
+        "Steam",
+        "PlayStation Store",
+        "Microsoft Store",
+        "Nintendo Store"
+      ],
+      "kind": "business",
+      "created_at": "2026-11-06T10:09:42.442748+00:00",
+      "updated_at": "2026-11-06T10:09:42.442748+00:00",
+      "content_updated_at": "2026-11-06T10:09:42.442748+00:00",
+      "reported_at": "2026-11-06T09:57:29+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "http://www.gamespark.jp/article/2026/11/06/174581.html",
+          "title": "【9,878円→3,990円】『メタファー：リファンタジオ』PC/PS/XBOX版の価格大幅引き下げへ！11月12日より新価格で販売",
+          "published_at": "2026-11-06T09:57:29+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 199,
+          "text": "Atlus 宣布《Metaphor: ReFantazio》PC/PS/Xbox 版将于 11 月 12 日进行价格改定，通常版由 9,878 日元降至 3,990 日元，「35th Digital Anniversary Edition」由 15,510 日元降至 5,990 日元，改定在 Steam、PS Store、Microsoft Store 实施；同日 Switch 2 版发售，Nintendo Store 以改定后同价接受预约。",
+          "evidence_kind": "syndication",
+          "source_url": "http://www.gamespark.jp/article/2026/11/06/174581.html",
+          "action": "create_event",
+          "recorded_at": "2026-11-06T10:09:42.443276+00:00",
+          "source_published_at": "2026-11-06T09:57:29+00:00"
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "title": "VRChat 确认将迁移至 Unity URP，先用 Android→iOS 自动转译做测试",
+      "summary": "VRChat 在 11 月 5 日的开发者更新中确认，计划把渲染管线从 Unity 内置管线迁移到 URP，但未给出时间表。即将发布的 SDK 将加入把 Android 构建自动转为 iOS 构建的转译选项，用于检验批量转译流程与着色器兼容性，官方征集转译失败或 iOS 上显示粉色着色器的世界反馈。更新还提到桌面端鼠标操控手臂、快捷菜单与快速资料页改版，以及支持 Unity 6 的创作者 SDK 即将开放公测。",
+      "topics": [
+        "VRChat",
+        "Unity"
+      ],
+      "kind": "development",
+      "created_at": "2026-11-06T10:09:20.129946+00:00",
+      "updated_at": "2026-11-06T10:09:20.129946+00:00",
+      "content_updated_at": "2026-11-06T10:09:20.129946+00:00",
+      "reported_at": "2026-11-06T10:03:30+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://automaton-media.com/articles/newsjp/20261106-477913/",
+          "title": "『VRChat』、Unityの新描画基盤「URP」移行に向けようやく動き出す。「ビルトインRP」卒業のため、まずは“自動変換”実験中",
+          "published_at": "2026-11-06T10:03:30+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 196,
+          "text": "VRChat 在 2026 年 11 月 5 日的 Developer Update 中表示，计划把渲染管线从 Unity 内置渲染管线（Built-in RP）迁移到通用渲染管线（URP）；即将发布的 SDK 会加入 Android 构建自动转换为 iOS 构建的转译选项，这项功能同时用于测试未来 URP 迁移所需的转译流程，官方尚未给出迁移时间表。另有多项更新：桌面端用户将可用鼠标操作角色手臂，快捷菜单“Here”显示与快速资料页将改版，面向创作者、支持 Unity 6 的 SDK 将开放公测。",
+          "evidence_kind": "syndication",
+          "source_url": "https://automaton-media.com/articles/newsjp/20261106-477913/",
+          "action": "create_event",
+          "recorded_at": "2026-11-06T10:09:20.130361+00:00",
+          "source_published_at": "2026-11-06T10:03:30+00:00"
+        }
+      ]
+    },
     {
       "id": 186,
       "title": "《Figure Me Out》登陆 Steam：互读额头数字的 20 人在线对战",
