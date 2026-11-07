@@ -1,7 +1,188 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-06T10:10:17.236689+00:00",
+  "generated_at": "2026-11-07T10:14:53.363560+00:00",
   "events": [
+    {
+      "id": 200,
+      "title": "《STRANGER THAN HEAVEN》公开 Suzy Day《Mr. Bee》演出与配乐特辑",
+      "summary": "世嘉公开《STRANGER THAN HEAVEN》两段新视频：一段是由 Tori Kelly 饰演的歌手 Suzy Day 演唱《Mr. Bee》的游戏内演出，歌曲设定为她战后在热海与 Daito 共同创作；另一段音乐特辑节目介绍游戏配乐并播放部分曲目，同时首播曾在东京电玩展 2026 剧场演示中放映的演出视频。游戏将于 2027 年 1 月 15 日登陆 PS5、Xbox Series 与 PC，并加入 Xbox Game Pass。",
+      "topics": [
+        "Sega",
+        "RGG Studio",
+        "STRANGER THAN HEAVEN"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-11-07T10:14:51.037539+00:00",
+      "updated_at": "2026-11-07T10:14:51.037539+00:00",
+      "content_updated_at": "2026-11-07T10:14:51.037539+00:00",
+      "reported_at": "2026-11-07T08:50:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.rpgsite.net/news/21721-stranger-than-heaven-mr-bee-performance-by-suzy-day-music-spotlight-episode-stream",
+          "title": "Sega shares Stranger Than Heaven Mr. Bee performance by Suzy Day and music spotlight episode stream",
+          "published_at": "2026-11-07T08:50:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 210,
+          "text": "世嘉公开《STRANGER THAN HEAVEN》两段新视频：一段是由 Tori Kelly 饰演的 Suzy Day 演唱《Mr. Bee》的游戏内演出，另一段是介绍游戏配乐的音乐特辑节目。游戏将于 2027 年 1 月 15 日登陆 PS5、Xbox Series 与 PC（Xbox on PC、Steam），为 Play Anywhere 作品并加入 Xbox Game Pass。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.rpgsite.net/news/21721-stranger-than-heaven-mr-bee-performance-by-suzy-day-music-spotlight-episode-stream",
+          "action": "create_event",
+          "recorded_at": "2026-11-07T10:14:51.038174+00:00",
+          "source_published_at": "2026-11-07T08:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 199,
+      "title": "《Fate/Extra Record》发布对手角色预告片",
+      "summary": "Type-Moon 与 XSEED Games 公布《Fate/Extra Record》第四支角色主题预告，集中展示月之圣杯战争中等待玩家的对手角色，此前已陆续放出 Saber、Archer、Caster 三支预告。游戏确定于 2027 年 1 月 28 日登陆 PS5、PS4、Switch 2、Switch 1 与 PC（Steam），官方称对手阵容已全部公开，并邀玩家判断能否逐一击败。",
+      "topics": [
+        "Type-Moon",
+        "XSEED Games",
+        "Fate/Extra Record"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-11-07T10:14:44.734339+00:00",
+      "updated_at": "2026-11-07T10:14:44.734339+00:00",
+      "content_updated_at": "2026-11-07T10:14:44.734339+00:00",
+      "reported_at": "2026-11-07T09:04:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.rpgsite.net/news/21722-fate-extra-record-rivals-side-characters-trailer",
+          "title": "Fate/Extra Record showcases the rivals you will take on in a new trailer",
+          "published_at": "2026-11-07T09:04:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 209,
+          "text": "Type-Moon 与 XSEED Games 发布了《Fate/Extra Record》第四支以角色为主题的预告片，介绍玩家在月之圣杯战争中要面对的对手（Rivals）；此前已发布 Saber、Archer、Caster 三支角色预告。游戏将于 2027 年 1 月 28 日在 PS5、PS4、Switch 2、Switch 1 和 PC（Steam）发售。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.rpgsite.net/news/21722-fate-extra-record-rivals-side-characters-trailer",
+          "action": "create_event",
+          "recorded_at": "2026-11-07T10:14:44.734970+00:00",
+          "source_published_at": "2026-11-07T09:04:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 198,
+      "title": "生存驾驶《Zero To South》11 月 7 日登陆 Steam 并支持日语",
+      "summary": "Voxel Bytes 于日本时间 11 月 7 日在 Steam 推出《Zero To South》，支持日语，通常价 1,400 日元，11 月 21 日前八折 1,120 日元。游戏设定在因 Y2K 问题文明崩坏的美国，玩家驾驶破旧出租车南下，途中不断整修车辆、搜寻燃料食物与零件、升级性能与装甲，并与封锁道路的武装盗贼交战；也可载客换取物资。",
+      "topics": [
+        "Voxel Bytes",
+        "Zero To South",
+        "Steam"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-11-07T10:14:38.647168+00:00",
+      "updated_at": "2026-11-07T10:14:38.647168+00:00",
+      "content_updated_at": "2026-11-07T10:14:38.647168+00:00",
+      "reported_at": "2026-11-07T09:09:27+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "http://www.gamespark.jp/article/2026/11/07/174612.html",
+          "title": "崩壊したアメリカをタクシーで南へ―物資を漁って車を修理するサバイバルドライブ『Zero To South』Steamにて日本語対応で配信中",
+          "published_at": "2026-11-07T09:09:27+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 208,
+          "text": "Voxel Bytes 于日本时间 2026 年 11 月 7 日在 Steam 推出支持日语的生存驾驶游戏《Zero To South》，通常价 1,400 日元，11 月 21 日前八折 1,120 日元。游戏设定在因 Y2K 问题文明崩坏的美国，玩家扮演出租车司机驾车南下，需不断整修破旧车辆、搜寻燃料食物与备件、升级性能与装甲，途中会遇到封锁道路的武装盗贼，也可载客换取物资。",
+          "evidence_kind": "original_reporting",
+          "source_url": "http://www.gamespark.jp/article/2026/11/07/174612.html",
+          "action": "create_event",
+          "recorded_at": "2026-11-07T10:14:38.647752+00:00",
+          "source_published_at": "2026-11-07T09:09:27+00:00"
+        }
+      ]
+    },
+    {
+      "id": 197,
+      "title": "「イケメンシリーズ」公布15周年纪念新作，预定2027年内发行",
+      "summary": "Cyberd于2026年11月7日宣布，恋爱游戏「イケメンシリーズ」将推出15周年纪念新作应用，预定2027年内发行，并在粉丝俱乐部IFC开启事前登录。官方特设网站与特报PV同步公开，后续消息将通过特设网站及官方X账号发布；参加事前登录的玩家可参与Amazon礼品券和限定头像的抽奖活动。",
+      "topics": [
+        "サイバード",
+        "イケメンシリーズ"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-11-07T10:14:28.807514+00:00",
+      "updated_at": "2026-11-07T10:14:28.807514+00:00",
+      "content_updated_at": "2026-11-07T10:14:28.807514+00:00",
+      "reported_at": "2026-11-07T09:30:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.4gamer.net/games/056/G105625/20261106035/",
+          "title": "「イケメンシリーズ」，15周年を記念した新作を2027年内にリリース決定。公式特設サイトと特報PVを公開",
+          "published_at": "2026-11-07T09:30:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 206,
+          "text": "Cyberd宣布，恋爱游戏“イケメンシリーズ”将推出15周年纪念新作应用，预定2027年内发行，并公开官方特设网站与特报PV；同日在イケメンシリーズ粉丝俱乐部（IFC）开始事前登录，参加者可获Amazon礼品券和限定头像的抽奖活动。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.4gamer.net/games/056/G105625/20261106035/",
+          "action": "create_event",
+          "recorded_at": "2026-11-07T10:14:28.808038+00:00",
+          "source_published_at": "2026-11-07T09:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "title": "西部酒馆经营模拟《Saloon Simulator》正式发售，新增结局任务并支持日语",
+      "summary": "RockGame 宣布，Glivi Games 开发的西部酒馆经营模拟游戏《Saloon Simulator》已在 Windows 正式发售。正式版更新加入收束故事的最后任务与新的自定义道具，并进行性能改善和大量修正；此前抢先体验阶段不支持日语，现已正式支持日语显示。玩家可经营酒馆、烹饪饮品与餐食、清洁和自定义店内，也能在正当生意之外寻找犯罪机会，并通过声誉系统积累信任与影响力。Steam 售价 2,100 日元（11 月 21 日前 1,260 日元），Epic Games Store 售价 1,980 日元。",
+      "topics": [
+        "RockGame",
+        "Glivi Games",
+        "Saloon Simulator",
+        "Steam",
+        "Epic Games Store"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-11-07T10:14:17.637275+00:00",
+      "updated_at": "2026-11-07T10:14:17.637275+00:00",
+      "content_updated_at": "2026-11-07T10:14:17.637275+00:00",
+      "reported_at": "2026-11-07T09:40:02+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "http://www.gamespark.jp/article/2026/11/07/174613.html",
+          "title": "西部開拓時代の酒場経営シム『Saloon Simulator』日本語にも対応して正式リリース―真っ当な商売だけではなく犯罪のチャンスも",
+          "published_at": "2026-11-07T09:40:02+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 204,
+          "text": "RockGame 宣布，Glivi Games 开发的西部酒馆经营模拟游戏《Saloon Simulator》已在 Windows 正式发售，并在此次正式版更新中加入收束故事的最后任务、新的自定义道具与性能优化等大量修正，同时正式支持日语显示（此前抢先体验阶段不支持日语）；游戏在 Steam 售价 2,100 日元（11 月 21 日前 1,260 日元），Epic Games Store 售价 1,980 日元。",
+          "evidence_kind": "original_reporting",
+          "source_url": "http://www.gamespark.jp/article/2026/11/07/174613.html",
+          "action": "create_event",
+          "recorded_at": "2026-11-07T10:14:17.637761+00:00",
+          "source_published_at": "2026-11-07T09:40:02+00:00"
+        }
+      ]
+    },
     {
       "id": 193,
       "title": "《007 First Light》推出免费试玩版，含冰岛开场章节",
