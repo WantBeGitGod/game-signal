@@ -1,7 +1,82 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-07T10:14:53.363560+00:00",
+  "generated_at": "2026-11-08T10:17:04.561107+00:00",
   "events": [
+    {
+      "id": 203,
+      "title": "《WARDOGS》抢先体验体验报道：百人大规模对局与赛季 3 新地图",
+      "summary": "Game*Spark 体验了 BULKHEAD 开发、Team17 发行的军事沙盒 FPS《WARDOGS》抢先体验版：地图 256 平方公里、最大 100 人对战，三阵营在 4 平方公里控制区内分工战斗、运输与建造 FOB；单场常持续 1 至 2 小时，装备需解锁并投入资金购买，弹药弹匣占用背包。各职责行动均累积经验并带来收入，战斗外贡献也有回报。作者认为系统有趣但耗时、需持续投入，赛季 1 结束后进度重置；开发方宣布 11 月 12 日开启赛季 3，新增地图 Sabatulo 并计划延长赛季时长。",
+      "topics": [
+        "BULKHEAD",
+        "Team17",
+        "WARDOGS",
+        "Steam"
+      ],
+      "kind": "development",
+      "created_at": "2026-11-08T10:16:44.506431+00:00",
+      "updated_at": "2026-11-08T10:16:44.506431+00:00",
+      "content_updated_at": "2026-11-08T10:16:44.506431+00:00",
+      "reported_at": "2026-11-08T09:30:03+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "http://www.gamespark.jp/article/2026/11/08/174630.html",
+          "title": "1試合2時間、敵は豆粒、死んだらまた長距離移動！100人対戦FPS『WARDOGS』は過酷なのにやめられない……",
+          "published_at": "2026-11-08T09:30:03+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 213,
+          "text": "Game*Spark 发布《WARDOGS》抢先体验版实机体验报道：本作在 256 平方公里地图上支持最大 100 人对战，玩家分属 Lonestar、Valkyra、Manticore 三阵营，在 4 平方公里的控制区内通过战斗、运输、建筑、治疗、侦察等分工争取胜利；单场对局往往持续 1 至 2 小时，装备需按等级解锁并投入资金购买，弹药与弹匣需组合且占用背包空间，FOB 建设与物资运输影响攻防。各角色职责行动都会累积经验，逐级解锁新武器弹药；游戏内收支显示在画面右上角，高价装备迫使玩家权衡风险。作者认为系统有趣但单局耗时长、需要持续投入时间，且赛季 1 于 10 月 15 日结束并进行了进度重置；开发方 11 月 6 日宣布 11 月 12 日开启赛季 3，新增地图「Sabatulo」，并计划延长赛季时长。",
+          "evidence_kind": "original_reporting",
+          "source_url": "http://www.gamespark.jp/article/2026/11/08/174630.html",
+          "action": "create_event",
+          "recorded_at": "2026-11-08T10:16:44.507065+00:00",
+          "source_published_at": "2026-11-08T09:30:03+00:00"
+        }
+      ]
+    },
+    {
+      "id": 202,
+      "title": "《Obey Me! Sinner's Choice: Lucifer》11月16日登陆Steam",
+      "summary": "NTTソルマーレ与グッドスマイルカンパニー宣布，由Frontwing开发的视觉小说《Obey Me! Sinner's Choice: Lucifer》将于11月16日在PC（Steam）发售，其他平台仍在考虑中。该作为《Obey Me! Sinner's Choice》系列首作，也是系列首次推出PC作品，聚焦象征傲慢的长子路西法：玩家作为地狱监狱的审问官，用7天与恶魔兄弟交流，查明他们的关系与堕天真相，最终对路西法下达仅有一次的审判，多结局可走向拯救或摧毁他。全篇超20万字、全语音，立绘重新绘制。",
+      "topics": [
+        "NTTソルマーレ",
+        "グッドスマイルカンパニー",
+        "Frontwing",
+        "Obey Me! Sinner's Choice: Lucifer",
+        "Steam"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-11-08T10:16:35.646036+00:00",
+      "updated_at": "2026-11-08T10:16:35.646036+00:00",
+      "content_updated_at": "2026-11-08T10:16:35.646036+00:00",
+      "reported_at": "2026-11-08T09:31:52+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://automaton-media.com/articles/newsjp/20261108-478155/",
+          "title": "イケメン悪魔調教ノベル『Obey Me! Sinner’s Choice: Lucifer』11月16日発売へ。7人の悪魔兄弟が欲望をさらけ出す、愛と罪の禁断ロマンス",
+          "published_at": "2026-11-08T09:31:52+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 212,
+          "text": "NTTソルマーレ与グッドスマイルカンパニー于11月8日宣布，Frontwing开发的视觉小说《Obey Me! Sinner's Choice: Lucifer》将于11月16日在PC（Steam）发售，其他平台也在考虑中；该作为《Obey Me! Sinner's Choice》系列首作，聚焦七兄弟长子、象征傲慢的路西法，玩家作为地狱监狱科库托斯的审问官，在7天中与恶魔兄弟交流并查明堕天经过与过去真相，文本超过20万字且全语音，含多结局，结局走向可拯救或摧毁路西法；这也是系列首次推出PC作品，立绘全新绘制，并首次揭示兄弟由天使堕为恶魔的经过。",
+          "evidence_kind": "syndication",
+          "source_url": "https://automaton-media.com/articles/newsjp/20261108-478155/",
+          "action": "create_event",
+          "recorded_at": "2026-11-08T10:16:35.646589+00:00",
+          "source_published_at": "2026-11-08T09:31:52+00:00"
+        }
+      ]
+    },
     {
       "id": 200,
       "title": "《STRANGER THAN HEAVEN》公开 Suzy Day《Mr. Bee》演出与配乐特辑",
