@@ -1,7 +1,39 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-10T01:19:35",
+  "generated_at": "2026-11-10T01:21:17",
   "games": [
+    {
+      "game": {
+        "slug": "zed-zone",
+        "appid": "1211600",
+        "name": "ZED ZONE",
+        "name_cn": null,
+        "description": "大灾变已经到来，执行任务的你不幸坠机被困在隔离区，这里到处都是丧尸和变异怪物，想要逃离这里，你必须努力搜集原料，升级技能，建造避难所，击败尸潮和神秘的机甲，最终寻得一线生机。",
+        "genres": [
+          "动作",
+          "独立",
+          "角色扮演",
+          "模拟"
+        ],
+        "developer": "Leven Liu",
+        "publisher": "INDIECN",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/28911683896a3616497df63eb4391d494b2a3a6a/header_alt_assets_2_schinese.jpg?t=1794210733",
+        "product_family_identity": "appid:1211600",
+        "product_family_appid": "1211600",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-11-08"
+      ],
+      "member_appids": [
+        "1211600"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-11-08"
+    },
     {
       "game": {
         "slug": "archeage-chronicles",

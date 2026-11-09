@@ -1,0 +1,45 @@
+{
+  "slug": "zed-zone",
+  "appid": "1211600",
+  "name": "ZED ZONE",
+  "name_cn": null,
+  "description": "大灾变已经到来，执行任务的你不幸坠机被困在隔离区，这里到处都是丧尸和变异怪物，想要逃离这里，你必须努力搜集原料，升级技能，建造避难所，击败尸潮和神秘的机甲，最终寻得一线生机。",
+  "release_date": "2026-11-05",
+  "genres": [
+    "动作",
+    "独立",
+    "角色扮演",
+    "模拟"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "合作",
+    "在线合作",
+    "局域网合作",
+    "完全支持控制器",
+    "Steam 创意工坊",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": null,
+  "review_ratio": null,
+  "review_total": 0,
+  "developer": "Leven Liu",
+  "publisher": "INDIECN",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/28911683896a3616497df63eb4391d494b2a3a6a/header_alt_assets_2_schinese.jpg?t=1794210733",
+  "steam_url": "https://store.steampowered.com/app/1211600",
+  "product_family_identity": "appid:1211600",
+  "product_family_appid": "1211600",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-11-07",
+      "peak": 6958
+    },
+    {
+      "date": "2026-11-08",
+      "peak": 11298
+    }
+  ]
+}
