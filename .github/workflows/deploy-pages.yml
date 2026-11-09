@@ -40,6 +40,27 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      - name: Check deployment is still current
+        id: freshness
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+        run: |
+          node --input-type=module <<'NODE'
+          import { appendFileSync } from 'node:fs';
+          const url = `${process.env.GITHUB_API_URL}/repos/${process.env.GITHUB_REPOSITORY}/git/ref/heads/main`;
+          const response = await fetch(url, {
+            headers: {
+              Authorization: `Bearer ${process.env.GITHUB_TOKEN}`,
+              Accept: 'application/vnd.github+json'
+            }
+          });
+          if (!response.ok) throw new Error(`Cannot verify main: HTTP ${response.status}`);
+          const head = (await response.json()).object.sha;
+          const current = head === process.env.GITHUB_SHA;
+          appendFileSync(process.env.GITHUB_OUTPUT, `current=${current}\n`);
+          if (!current) console.log(`::notice::Skipping superseded deployment ${process.env.GITHUB_SHA}; main is ${head}`);
+          NODE
       - name: Deploy to GitHub Pages
+        if: steps.freshness.outputs.current == 'true'
         id: deployment
         uses: actions/deploy-pages@v4
