@@ -1,0 +1,385 @@
+{
+  "schema_version": "2.0.0",
+  "slug": "2026-11-02-week",
+  "issue_number": 24,
+  "week_start": "2026-11-02",
+  "week_end": "2026-11-08",
+  "title": "这货保真吗老板\n换把刀还能接着打",
+  "summary": "11月2日至8日，榜首换成了忙着验货交租的《深空当铺：可能是偷的》：三次日榜第一，攒出22分。《影之刃零》以19分排第二，永恒之塔2以16分排第三；ROB RUN靠两次摘星拿到11分，越过天天上榜的《雾锁王国》。本周只有周一至周五五天已发布日榜，周末两天缺记录；曲线有周末观测，也不会替缺失的排名补分。",
+  "editorial": {
+    "title_lines": [
+      "这货保真吗老板",
+      "换把刀还能接着打"
+    ],
+    "intro": "11月2日至8日，榜首换成了忙着验货交租的《深空当铺：可能是偷的》：三次日榜第一，攒出22分。《影之刃零》以19分排第二，永恒之塔2以16分排第三；ROB RUN靠两次摘星拿到11分，越过天天上榜的《雾锁王国》。本周只有周一至周五五天已发布日榜，周末两天缺记录；曲线有周末观测，也不会替缺失的排名补分。",
+    "features": {
+      "4348910": {
+        "heading": "差价可以赚，来路还得问",
+        "paragraphs": [
+          "《深空当铺：可能是偷的》把开店放进一座赛博朋克空间站。来货先要检查，真假、处理成本和许可都可能影响这单生意；卖货时还得议价，留心买家是不是来钓鱼执法。交租和添设备催着你继续做生意，愿不愿接下一件麻烦货，才是账本之外的判断。喜欢算小账、辨细节的人有事可琢磨，只想安静摆货的人则得先接受盘查带来的压力。",
+          "它本周五天都在前五，周二至周四连续模型第一，周一第二，周五第三。排名贡献22分，没有新增摘星，仍然拿到综合第一。上期和《影之刃零》同得24分，这次它靠持续的前排位置单独站了出来。周榜记录的是每天怎样排，今日之星的轮换不能代替这一段积累。",
+          "Local CCU在周一观测到156,413，周日观测到185,807，中间有起伏，周末又抬高了这段记录。上期问生意扩大后，验货与派系关系能否继续制造取舍，在线规模延续只回答了关注还在。下一步还要看具体交易：设备升级之后，玩家是否仍会为一件货犹豫，还是只需重复已经算好的最优操作。"
+        ]
+      },
+      "4115450": {
+        "heading": "这口气接得上，热度也得看下一程",
+        "paragraphs": [
+          "《影之刃零》的攻防有一个很直观的接点：格挡承受压力，抓空档反击，再切换两把主武器补回煞气，让下一轮交锋继续。强敌的兵器到手之后，还能把刚才需要应付的威胁变成自己的新打法。愿意读招、换武器练组合的人，能在同一场战斗里找到反复尝试的理由；如果只想看完武侠故事，则要先衡量自己愿意花多少时间处理交锋。",
+          "本周它周一模型第一，周二、周三第三，后两天第二，五天排名合计19分，没有新增摘星。从上期四天前二走到这一周，它仍在前排，却被深空当铺拉开了3分。周末两天没有已发布日榜，因此这里既不替它续上前二，也不推断它已经掉出前五。",
+          "曲线能补充另一面：周一已保存峰值827,080，周日517,772，这周实际观测的在线规模逐步回落。对单人动作冒险，通关退出、新玩家进入和中途放弃都可能改变这个数，不能直接折算留存。上期关于新武装能否继续带来练习欲的问题仍未回答；接下来值得看通关后的玩家是在尝试新组合，还是已经把这趟江湖留在了结局。"
+        ]
+      }
+    },
+    "notes": {
+      "3393110": "永恒之塔2五天都在前五，两次模型第二，以16分排第三，没有新增摘星。上期冠军仍能稳定占位，本周的前排次数却少了。练技能、配装备、再约队挑战的长线循环是否还有新目标，需要普通队伍的具体经历来回答；周榜位置不能替他们说明回来的理由。",
+      "4262460": "ROB RUN以11分排第四：周四模型第六但实际摘星，周五模型第一并再次摘星，排名5分加摘星6分。只有一天进入前五，不妨碍两次真实摘星进入周榜。抢劫、藏匿财物和玩家警匪对抗，先吸引来一批愿意冒险的人；周日Local CCU观测到99,549，接下来要看他们能否接受被抢与周期清档。",
+      "1203620": "《雾锁王国》前四天模型第四、周五第五，以9分排第五，没有新增摘星。五天都出现，分数却随相对位置后移而减少。探索带回材料、制作装备与共同建造仍是回访的入口；上期关于队友下次回来做什么的问题，现有排名和在线记录还不能给出答案。"
+    },
+    "next_watch": [
+      "深空当铺添设备、扩大生意之后，哪类验货或派系事件仍会让玩家改变原来的交易计划？",
+      "影之刃零通关后的玩家会继续换武装练组合吗？后续可比时段的在线规模怎样变化？",
+      "ROB RUN的玩家经历财物被抢或一次清档后，会因帮派与朋友重回城市，还是就此离开？"
+    ]
+  },
+  "published_days": [
+    "2026-11-02",
+    "2026-11-03",
+    "2026-11-04",
+    "2026-11-05",
+    "2026-11-06"
+  ],
+  "status": "published",
+  "published_at": "2026-11-09 13:04:42",
+  "signals": [
+    {
+      "rank": 1,
+      "signal_type": "release_event_rise",
+      "label": "发行节点起量",
+      "score": 22.0,
+      "selection_reason": "Probably Stolen - Cyberpunk Shopkeeper Sim 在 5 个已保存日榜中进入前五 5 天、前二 4 天，实际摘星 0 次，周复选分 22。",
+      "metrics": {
+        "product_family_identity": "appid:4348910",
+        "actual_star_count": 0,
+        "first_place_days": 3,
+        "second_place_days": 1,
+        "top_two_days": 4,
+        "top_five_days": 5,
+        "average_rank": 1.6,
+        "weekly_score": 22,
+        "coverage_days": 5,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-11-02",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-06",
+            "rank": 3,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-11-06"
+      },
+      "chart_status": "ready",
+      "article_selected": true,
+      "article_slug": "probably-stolen-cyberpunk-shopkeeper-sim",
+      "chart_path": "/data/charts/2026-11-02-week/4348910.json",
+      "game": {
+        "slug": "probably-stolen-cyberpunk-shopkeeper-sim",
+        "appid": "4348910",
+        "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+        "description": "《深空当铺：可能是偷的》是一款设定在反乌托邦空间站内的赛博朋克店铺经营模拟游戏。制造、交易并走私来路不明的货物，在各方派系势力间周旋；看看为了维持生计，你愿意突破多少底线。在不断上涨的租金将你逼入走投无路的绝境之前，赚取足够的利润来彻底买下这间店铺。",
+        "developer": "Questing Goose Studio",
+        "publisher": "tinyBuild",
+        "release_date": "2026-10-28",
+        "review_ratio": null,
+        "review_total": 0,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/d9938fa30354c82c9549c17864145e3e92e23847/header_alt_assets_3_schinese.jpg?t=1793942460",
+        "steam_url": "https://store.steampowered.com/app/4348910",
+        "product_family_identity": "appid:4348910",
+        "product_family_appid": "4348910",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 2,
+      "signal_type": "release_event_rise",
+      "label": "发行节点起量",
+      "score": 19.0,
+      "selection_reason": "Phantom Blade Zero 在 5 个已保存日榜中进入前五 5 天、前二 3 天，实际摘星 0 次，周复选分 19。",
+      "metrics": {
+        "product_family_identity": "appid:4115450",
+        "actual_star_count": 0,
+        "first_place_days": 1,
+        "second_place_days": 2,
+        "top_two_days": 3,
+        "top_five_days": 5,
+        "average_rank": 2.2,
+        "weekly_score": 19,
+        "coverage_days": 5,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-11-02",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-06",
+            "rank": 2,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-11-06"
+      },
+      "chart_status": "ready",
+      "article_selected": true,
+      "article_slug": "phantom-blade-zero",
+      "chart_path": "/data/charts/2026-11-02-week/4115450.json",
+      "game": {
+        "slug": "phantom-blade-zero",
+        "appid": "4115450",
+        "name": "Phantom Blade Zero",
+        "description": "由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。",
+        "developer": "S-GAME Studio",
+        "publisher": "S-GAME Publishing",
+        "release_date": "2026-10-28",
+        "review_ratio": null,
+        "review_total": 0,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1793261976",
+        "steam_url": "https://store.steampowered.com/app/4115450",
+        "product_family_identity": "appid:4115450",
+        "product_family_appid": "4115450",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 3,
+      "signal_type": "established_release_rise",
+      "label": "老游起量",
+      "score": 16.0,
+      "selection_reason": "AION 2 在 5 个已保存日榜中进入前五 5 天、前二 2 天，实际摘星 0 次，周复选分 16。",
+      "metrics": {
+        "product_family_identity": "appid:3393110",
+        "actual_star_count": 0,
+        "first_place_days": 0,
+        "second_place_days": 2,
+        "top_two_days": 2,
+        "top_five_days": 5,
+        "average_rank": 2.8,
+        "weekly_score": 16,
+        "coverage_days": 5,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-11-02",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-06",
+            "rank": 4,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-11-06"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-11-02-week/3393110.json",
+      "game": {
+        "slug": "aion-2",
+        "appid": "3393110",
+        "name": "AION 2",
+        "description": "《AION 2》！唯一一款以天空为战场的 MMORPG。选择阵营，张开羽翼化身为守护者， 在比初代辽阔 36 倍的宏大世界中展开阵营激战！由虚幻引擎5全力打造，只有PC平台才能享受的游戏体验！",
+        "developer": "NC",
+        "publisher": "NC",
+        "release_date": "2026-10-05",
+        "review_ratio": 58.015144623123646,
+        "review_total": 37373,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3393110/10aa4b096ebe6af0d1dd7882e5ba004271aef6f7/header.jpg?t=1792771538",
+        "steam_url": "https://store.steampowered.com/app/3393110",
+        "product_family_identity": "appid:3393110",
+        "product_family_appid": "3393110",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "release_event_rise",
+      "label": "发行节点起量",
+      "score": 11.0,
+      "selection_reason": "ROB RUN 在 5 个已保存日榜中进入前五 1 天、前二 1 天，实际摘星 2 次，周复选分 11。",
+      "metrics": {
+        "product_family_identity": "appid:4262460",
+        "actual_star_count": 2,
+        "first_place_days": 1,
+        "second_place_days": 0,
+        "top_two_days": 1,
+        "top_five_days": 1,
+        "average_rank": 3.5,
+        "weekly_score": 11,
+        "coverage_days": 5,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-11-05",
+            "rank": 6,
+            "actual_star": true
+          },
+          {
+            "date": "2026-11-06",
+            "rank": 1,
+            "actual_star": true
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-11-06"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-11-02-week/4262460.json",
+      "game": {
+        "slug": "rob-run",
+        "appid": "4262460",
+        "name": "ROB RUN",
+        "description": "ROB RUN is a brutal crime sandbox featuring thousands of players. Rise above everyone through the grit, the grime, and the struggle. Break free and take yourself from squalor by any means.",
+        "developer": "Kefir",
+        "publisher": "Kefir",
+        "release_date": "2026-11-04",
+        "review_ratio": null,
+        "review_total": 0,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg?t=1793811654",
+        "steam_url": "https://store.steampowered.com/app/4262460",
+        "product_family_identity": "appid:4262460",
+        "product_family_appid": "4262460",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "release_event_rise",
+      "label": "发行节点起量",
+      "score": 9.0,
+      "selection_reason": "Enshrouded 在 5 个已保存日榜中进入前五 5 天、前二 0 天，实际摘星 0 次，周复选分 9。",
+      "metrics": {
+        "product_family_identity": "appid:1203620",
+        "actual_star_count": 0,
+        "first_place_days": 0,
+        "second_place_days": 0,
+        "top_two_days": 0,
+        "top_five_days": 5,
+        "average_rank": 4.2,
+        "weekly_score": 9,
+        "coverage_days": 5,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-11-02",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-03",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-04",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-05",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-06",
+            "rank": 5,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-11-06"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-11-02-week/1203620.json",
+      "game": {
+        "slug": "enshrouded",
+        "appid": "1203620",
+        "name": "Enshrouded",
+        "description": "《雾锁王国》是一款单人/合作生存动作RPG，在这里，你的自由与创造力将被摆在第一位。竭尽全力战胜蚕食薪谷王国的腐化瘴气：探索手工打造的瑰丽世界，揭开隐藏的秘密并披荆斩棘开辟道路，在完全支持地形改造的世界中尽情建造。",
+        "developer": "Keen Games GmbH",
+        "publisher": "Keen Games GmbH",
+        "release_date": "2026-10-15",
+        "review_ratio": 85.87376517333138,
+        "review_total": 109732,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
+        "steam_url": "https://store.steampowered.com/app/1203620",
+        "product_family_identity": "appid:1203620",
+        "product_family_appid": "1203620",
+        "product_family_role": "full"
+      }
+    }
+  ]
+}
