@@ -1,0 +1,533 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-11-09",
+  "title": "11.09 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 11.09,
+    "fact_summary": "ZED ZONE 今日观测峰值 13,070，较过往最高峰值提升 +16%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-05",
+      "current_release_date": "2026-11-05",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-09 17:50:24",
+      "current_peak": 13070,
+      "previous_peak": 11298,
+      "previous_record_peak": 11298,
+      "growth_rate": 0.1568,
+      "record_growth_rate": 0.1568,
+      "scoring_peak": 13070,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 11.76,
+      "raw_record_growth_score": 5.49,
+      "growth_score_multiplier": 0.2349,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.2042,
+      "growth_scale_crossing_component": 0.0307,
+      "record_growth_score": 1.29,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 13.05,
+      "event_adjusted_score": 13.05,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 13.05,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.85,
+      "base_score": 11.09,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_1x"
+      ],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 1,
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 3,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "独立",
+        "角色扮演",
+        "模拟"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-05",
+      "release_event_age_days": 4,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 8,
+      "trend": [
+        {
+          "date": "2026-11-07",
+          "peak": 6958
+        },
+        {
+          "date": "2026-11-08",
+          "peak": 11298
+        },
+        {
+          "date": "2026-11-09",
+          "peak": 13070
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1211600"
+      }
+    ],
+    "game": {
+      "slug": "zed-zone",
+      "appid": "1211600",
+      "name": "ZED ZONE",
+      "name_cn": null,
+      "description": "大灾变已经到来，执行任务的你不幸坠机被困在隔离区，这里到处都是丧尸和变异怪物，想要逃离这里，你必须努力搜集原料，升级技能，建造避难所，击败尸潮和神秘的机甲，最终寻得一线生机。",
+      "release_date": "2026-11-05",
+      "genres": [
+        "动作",
+        "独立",
+        "角色扮演",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "局域网合作",
+        "完全支持控制器",
+        "Steam 创意工坊",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Leven Liu",
+      "publisher": "INDIECN",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/28911683896a3616497df63eb4391d494b2a3a6a/header_alt_assets_2_schinese.jpg?t=1794210733",
+      "steam_url": "https://store.steampowered.com/app/1211600",
+      "product_family_identity": "appid:1211600",
+      "product_family_appid": "1211600",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-07",
+          "peak": 6958
+        },
+        {
+          "date": "2026-11-08",
+          "peak": 11298
+        },
+        {
+          "date": "2026-11-09",
+          "peak": 13070
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《隔离区-丧尸末日生存》（ZED ZONE）是一款末日生存游戏。坠机后，你在丧尸与变异怪物之间搜集物资，建起能住、能生产也能防守的避难所。",
+      "reference_frame": "熟悉《英灵神殿》的采集、制作和出门远征，会容易理解把材料带回基地、改善装备再走远一点的循环。这里换成丧尸隔离区与枪械改装；这个参照不套用航海和首领解锁世界阶段的规则。",
+      "for_players": "适合喜欢搜刮整理、慢慢搭建据点，并愿意用准备降低战斗风险的人。",
+      "not_for_players": "如果只想连续打枪，不喜欢反复收集材料、处理库存和经营基地，这些准备工作可能会打断兴致。",
+      "star_reason": "11月9日本地观测峰值13,070，较此前11,298提高约16%，连续第二天摘星，重复分数按0.85计。前排候选受重复摘星资格约束，系统顺延至本作；本期可靠评价缺失，口碑倍率中性，增长还不能说明留存。",
+      "core_loop": [
+        "带着补给探索，搜集食物、药品、工具与原料，处理途中遇到的敌人。",
+        "把收获投入工作台、生产和防御设施，升级技能、调整武器，为下一次外出做准备。"
+      ],
+      "content_length": 394
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-09T17:22:29+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 9,
+          "inspected_count": 19,
+          "top_views": 73782,
+          "search_url": "https://www.youtube.com/results?search_query=ZED%20ZONE",
+          "sources": [
+            {
+              "title": "ZED Zone 1.0 Is Finally Here and It's Bigger Than Ever!",
+              "url": "https://www.youtube.com/watch?v=I1M9yca9d8c",
+              "published_on": "2026-11-09"
+            },
+            {
+              "title": "【ZED ZONE】40%割引840円！Zomboidを意識して作られたミュータント山盛りサバイバルクラフト：敵は避けるのではなく狩る対象であり、個人開発とは思えない内容量",
+              "url": "https://www.youtube.com/watch?v=dA7oooY6F0E",
+              "published_on": "2026-11-08"
+            },
+            {
+              "title": "🔥КАРАНТИННЫЙ АД I ПЕРВЫЙ ВЗГЛЯД I ZED ZONE",
+              "url": "https://www.youtube.com/watch?v=QmNFu74I7l0",
+              "published_on": "2026-11-09"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 2,
+          "inspected_count": 30,
+          "top_views": 1022,
+          "search_url": "https://search.bilibili.com/all?keyword=ZED%20ZONE",
+          "sources": [
+            {
+              "title": "隔离区-丧尸末日生存（ zed zone ） 最新版 可联机（附使用教程）",
+              "url": "https://www.bilibili.com/video/BV12E4p6kEFj/",
+              "published_on": "2026-11-07"
+            },
+            {
+              "title": "[PC]隔离区-丧尸末日生存- ZED ZONE -芝士游戏",
+              "url": "https://www.bilibili.com/video/BV1sU4j6ZE7B/",
+              "published_on": "2026-11-06"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 8。",
+    "selection_context": {
+      "model_rank": 8,
+      "leader": {
+        "name": "ROB RUN",
+        "appid": "4262460",
+        "score": 36.99,
+        "reason": "处于摘星冷却期，至 2026-11-13 结束；过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4262460/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 11.09,
+    "fact_summary": "ZED ZONE 今日观测峰值 13,070，较过往最高峰值提升 +16%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-05",
+      "current_release_date": "2026-11-05",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-09 17:50:24",
+      "current_peak": 13070,
+      "previous_peak": 11298,
+      "previous_record_peak": 11298,
+      "growth_rate": 0.1568,
+      "record_growth_rate": 0.1568,
+      "scoring_peak": 13070,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 11.76,
+      "raw_record_growth_score": 5.49,
+      "growth_score_multiplier": 0.2349,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.2042,
+      "growth_scale_crossing_component": 0.0307,
+      "record_growth_score": 1.29,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 13.05,
+      "event_adjusted_score": 13.05,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 13.05,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.85,
+      "base_score": 11.09,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_1x"
+      ],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 1,
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 3,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 4,
+      "steam_release_age_days": 4,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "独立",
+        "角色扮演",
+        "模拟"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-05",
+      "release_event_age_days": 4,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 8,
+      "trend": [
+        {
+          "date": "2026-11-07",
+          "peak": 6958
+        },
+        {
+          "date": "2026-11-08",
+          "peak": 11298
+        },
+        {
+          "date": "2026-11-09",
+          "peak": 13070
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/1211600"
+      }
+    ],
+    "game": {
+      "slug": "zed-zone",
+      "appid": "1211600",
+      "name": "ZED ZONE",
+      "name_cn": null,
+      "description": "大灾变已经到来，执行任务的你不幸坠机被困在隔离区，这里到处都是丧尸和变异怪物，想要逃离这里，你必须努力搜集原料，升级技能，建造避难所，击败尸潮和神秘的机甲，最终寻得一线生机。",
+      "release_date": "2026-11-05",
+      "genres": [
+        "动作",
+        "独立",
+        "角色扮演",
+        "模拟"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "局域网合作",
+        "完全支持控制器",
+        "Steam 创意工坊",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Leven Liu",
+      "publisher": "INDIECN",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211600/28911683896a3616497df63eb4391d494b2a3a6a/header_alt_assets_2_schinese.jpg?t=1794210733",
+      "steam_url": "https://store.steampowered.com/app/1211600",
+      "product_family_identity": "appid:1211600",
+      "product_family_appid": "1211600",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-07",
+          "peak": 6958
+        },
+        {
+          "date": "2026-11-08",
+          "peak": 11298
+        },
+        {
+          "date": "2026-11-09",
+          "peak": 13070
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《隔离区-丧尸末日生存》（ZED ZONE）是一款末日生存游戏。坠机后，你在丧尸与变异怪物之间搜集物资，建起能住、能生产也能防守的避难所。",
+      "reference_frame": "熟悉《英灵神殿》的采集、制作和出门远征，会容易理解把材料带回基地、改善装备再走远一点的循环。这里换成丧尸隔离区与枪械改装；这个参照不套用航海和首领解锁世界阶段的规则。",
+      "for_players": "适合喜欢搜刮整理、慢慢搭建据点，并愿意用准备降低战斗风险的人。",
+      "not_for_players": "如果只想连续打枪，不喜欢反复收集材料、处理库存和经营基地，这些准备工作可能会打断兴致。",
+      "star_reason": "11月9日本地观测峰值13,070，较此前11,298提高约16%，连续第二天摘星，重复分数按0.85计。前排候选受重复摘星资格约束，系统顺延至本作；本期可靠评价缺失，口碑倍率中性，增长还不能说明留存。",
+      "core_loop": [
+        "带着补给探索，搜集食物、药品、工具与原料，处理途中遇到的敌人。",
+        "把收获投入工作台、生产和防御设施，升级技能、调整武器，为下一次外出做准备。"
+      ],
+      "content_length": 394
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-09T17:22:29+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 9,
+          "inspected_count": 19,
+          "top_views": 73782,
+          "search_url": "https://www.youtube.com/results?search_query=ZED%20ZONE",
+          "sources": [
+            {
+              "title": "ZED Zone 1.0 Is Finally Here and It's Bigger Than Ever!",
+              "url": "https://www.youtube.com/watch?v=I1M9yca9d8c",
+              "published_on": "2026-11-09"
+            },
+            {
+              "title": "【ZED ZONE】40%割引840円！Zomboidを意識して作られたミュータント山盛りサバイバルクラフト：敵は避けるのではなく狩る対象であり、個人開発とは思えない内容量",
+              "url": "https://www.youtube.com/watch?v=dA7oooY6F0E",
+              "published_on": "2026-11-08"
+            },
+            {
+              "title": "🔥КАРАНТИННЫЙ АД I ПЕРВЫЙ ВЗГЛЯД I ZED ZONE",
+              "url": "https://www.youtube.com/watch?v=QmNFu74I7l0",
+              "published_on": "2026-11-09"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 2,
+          "inspected_count": 30,
+          "top_views": 1022,
+          "search_url": "https://search.bilibili.com/all?keyword=ZED%20ZONE",
+          "sources": [
+            {
+              "title": "隔离区-丧尸末日生存（ zed zone ） 最新版 可联机（附使用教程）",
+              "url": "https://www.bilibili.com/video/BV12E4p6kEFj/",
+              "published_on": "2026-11-07"
+            },
+            {
+              "title": "[PC]隔离区-丧尸末日生存- ZED ZONE -芝士游戏",
+              "url": "https://www.bilibili.com/video/BV1sU4j6ZE7B/",
+              "published_on": "2026-11-06"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 8。",
+    "selection_context": {
+      "model_rank": 8,
+      "leader": {
+        "name": "ROB RUN",
+        "appid": "4262460",
+        "score": 36.99,
+        "reason": "处于摘星冷却期，至 2026-11-13 结束；过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4262460/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
