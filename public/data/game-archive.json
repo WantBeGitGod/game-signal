@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-06T18:13:53",
+  "generated_at": "2026-11-09T20:40:10",
   "games": [
     {
       "game": {
@@ -188,14 +188,16 @@
         ],
         "developer": "Questing Goose Studio",
         "publisher": "tinyBuild",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/d9938fa30354c82c9549c17864145e3e92e23847/header_alt_assets_3_schinese.jpg?t=1793220934",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/d9938fa30354c82c9549c17864145e3e92e23847/header_alt_assets_3_schinese.jpg?t=1793358849",
         "product_family_identity": "appid:4348910",
         "product_family_appid": "4348910",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "probably-stolen-cyberpunk-shopkeeper-sim"
+      ],
+      "article_title": "深空当铺：可能是偷的-这货保真吗老板",
+      "article_published_at": "2026-11-09",
       "star_dates": [
         "2026-10-31",
         "2026-10-30"
@@ -203,7 +205,7 @@
       "member_appids": [
         "4348910"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-10-31"
     },
     {
