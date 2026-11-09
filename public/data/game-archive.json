@@ -1,7 +1,43 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-09T20:41:48",
+  "generated_at": "2026-11-10T01:19:35",
   "games": [
+    {
+      "game": {
+        "slug": "archeage-chronicles",
+        "appid": "3218230",
+        "name": "ArcheAge Chronicles",
+        "name_cn": null,
+        "description": "探索欧罗拉，一个广阔而生机勃勃的世界，充满了源远流长的传说和惊险刺激的事件。《上古世纪编年史》将带来身临其境的体验，无论是新手还是经验丰富的冒险家，都将深深为之着迷。",
+        "genres": [
+          "动作",
+          "冒险",
+          "大型多人在线",
+          "角色扮演",
+          "抢先体验"
+        ],
+        "developer": "XLGAMES",
+        "publisher": "XLGAMES",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218230/header.jpg?t=1793752512",
+        "product_family_identity": "appid:3218230",
+        "product_family_appid": "3218230",
+        "product_family_role": "full"
+      },
+      "article_slugs": [
+        "archeage-chronicles"
+      ],
+      "article_title": "上古世纪编年史-打完这场架，明天还想上线吗",
+      "article_published_at": "2026-11-04",
+      "star_dates": [
+        "2026-11-07",
+        "2026-11-04"
+      ],
+      "member_appids": [
+        "3218230"
+      ],
+      "article_count": 1,
+      "latest_star_date": "2026-11-07"
+    },
     {
       "game": {
         "slug": "rob-run",
@@ -38,41 +74,6 @@
       ],
       "article_count": 1,
       "latest_star_date": "2026-11-06"
-    },
-    {
-      "game": {
-        "slug": "archeage-chronicles",
-        "appid": "3218230",
-        "name": "ArcheAge Chronicles",
-        "name_cn": null,
-        "description": "探索欧罗拉，一个广阔而生机勃勃的世界，充满了源远流长的传说和惊险刺激的事件。《上古世纪编年史》将带来身临其境的体验，无论是新手还是经验丰富的冒险家，都将深深为之着迷。",
-        "genres": [
-          "动作",
-          "冒险",
-          "大型多人在线",
-          "角色扮演",
-          "抢先体验"
-        ],
-        "developer": "XLGAMES",
-        "publisher": "XLGAMES",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218230/header.jpg?t=1793752512",
-        "product_family_identity": "appid:3218230",
-        "product_family_appid": "3218230",
-        "product_family_role": "full"
-      },
-      "article_slugs": [
-        "archeage-chronicles"
-      ],
-      "article_title": "上古世纪编年史-打完这场架，明天还想上线吗",
-      "article_published_at": "2026-11-04",
-      "star_dates": [
-        "2026-11-04"
-      ],
-      "member_appids": [
-        "3218230"
-      ],
-      "article_count": 1,
-      "latest_star_date": "2026-11-04"
     },
     {
       "game": {
