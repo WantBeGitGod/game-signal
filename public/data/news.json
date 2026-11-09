@@ -1,7 +1,81 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-08T10:17:04.561107+00:00",
+  "generated_at": "2026-11-09T10:09:44.730076+00:00",
   "events": [
+    {
+      "id": 205,
+      "title": "RTX 50系列显卡价格持续高企：多型号达发售价两倍以上",
+      "summary": "海外媒体报道，NVIDIA GeForce RTX 50系列显卡实际售价持续上涨。RTX 5070 Ti美国最低价8天内上涨160美元，RTX 5080最低价达1999美元，为发售价两倍；TweakTown调查称美国RTX 5090十月价格约为建议零售价的4.7倍，10国平均3.62倍。日本Dospara最低价显示RTX 5070 Ti、RTX 5080、RTX 5090分别为发售价的1.58、1.66、2.79倍。",
+      "topics": [
+        "NVIDIA",
+        "GeForce RTX 5070 Ti",
+        "GeForce RTX 5080",
+        "GeForce RTX 5090"
+      ],
+      "kind": "business",
+      "created_at": "2026-11-09T10:09:34.418549+00:00",
+      "updated_at": "2026-11-09T10:09:34.418549+00:00",
+      "content_updated_at": "2026-11-09T10:09:34.418549+00:00",
+      "reported_at": "2026-11-09T09:40:58+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://automaton-media.com/articles/newsjp/20261109-478291/",
+          "title": "NVIDIAの「GeForce RTX 50」グラボ、価格高騰止まらず“発売時の倍近く”に。「RTX 5070 Ti」は25万円級ぞろぞろ、昔なら5080が買える",
+          "published_at": "2026-11-09T09:40:58+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 215,
+          "text": "据VideoCardz报道，美国市场GeForce RTX 5070 Ti最低价在8天内从1180美元涨至1340美元；Tom's Hardware报道RTX 5080最低价达1999美元，为发售价两倍；TweakTown调查显示美国RTX 5090十月价格9400美元，为建议零售价的4.7倍，10国平均为建议零售价的3.62倍。日本方面，Dospara最低售价显示RTX 5070 Ti为发售价1.58倍、RTX 5080为1.66倍、RTX 5090为2.79倍。",
+          "evidence_kind": "syndication",
+          "source_url": "https://automaton-media.com/articles/newsjp/20261109-478291/",
+          "action": "create_event",
+          "recorded_at": "2026-11-09T10:09:34.419136+00:00",
+          "source_published_at": "2026-11-09T09:40:58+00:00"
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "title": "影院经营模拟《像素影院物语》登陆 Steam 正式发售",
+      "summary": "由 SouthWest Games 制作、Dawn Wood Games 发行的模拟经营游戏《像素影院物语》已在 Steam 正式发售，国区首发价 40.5 元。玩家可在最长 100 年的游戏时间内从零经营电影院，自定义影院布局并将银幕从传统舞台式幕布升级到 IMAX 大屏，也可自由选择主推小众高分影片的电影博物馆路线或组建商业大片连锁帝国；购入过去百年间的经典影片放映时，越知名卖座的电影带来越高收入。",
+      "topics": [
+        "SouthWest Games",
+        "Dawn Wood Games",
+        "像素影院物语",
+        "Steam"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-11-09T10:09:19.068936+00:00",
+      "updated_at": "2026-11-09T10:09:19.068936+00:00",
+      "content_updated_at": "2026-11-09T10:09:19.068936+00:00",
+      "reported_at": "2026-11-09T10:04:24+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.gcores.com/articles/222113",
+          "title": "【会员抽奖】模拟经营游戏《像素影院物语》现已发售，国区售价40.5元",
+          "published_at": "2026-11-09T10:04:24+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 214,
+          "text": "由 SouthWest Games 制作、Dawn Wood Games 发行的模拟经营游戏《像素影院物语》已在 Steam 正式发售，国区首发售价 40.5 元。玩家在最长 100 年的游戏时间内从零经营一家电影院，可自定义影院乃至把屏幕从传统舞台式幕布升级到 IMAX 大屏，选择走小众高分影片的电影博物馆路线或商业大片连锁帝国路线；过去百年的经典电影也会登场，购片员购入后放映，越知名卖座收入越高。",
+          "evidence_kind": "original_reporting",
+          "source_url": "https://www.gcores.com/articles/222113",
+          "action": "create_event",
+          "recorded_at": "2026-11-09T10:09:19.069290+00:00",
+          "source_published_at": "2026-11-09T10:04:24+00:00"
+        }
+      ]
+    },
     {
       "id": 203,
       "title": "《WARDOGS》抢先体验体验报道：百人大规模对局与赛季 3 新地图",
