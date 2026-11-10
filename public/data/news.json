@@ -1,7 +1,121 @@
 {
   "schema_version": "1.0",
-  "generated_at": "2026-11-09T10:09:44.730076+00:00",
+  "generated_at": "2026-11-10T10:08:47.911335+00:00",
   "events": [
+    {
+      "id": 209,
+      "title": "Nexon 公布 2026 第三季度财报，《ARC Raiders》累计销量突破 1700 万份",
+      "summary": "Nexon 公布 2026 财年第三季度合并业绩：营收 1384 亿日元，同比增长 17%；营业利润 418 亿日元，同比增长 11%。《ARC Raiders》累计销量突破 1700 万份，10 月 8 日大型更新「Frozen Trail」被认为推动了玩家回归与销量增长。《MapleStory》系列季度营收同比增长 72%、创季度新高，《EA SPORTS FC ONLINE》营收与平均游玩时长也创新高；《Arad 战记》系列营收同比下降 33%，公司称中国 9 月更新效果低于预期。",
+      "topics": [
+        "Nexon",
+        "ARC Raiders",
+        "MapleStory",
+        "EA SPORTS FC ONLINE",
+        "Arad 战记"
+      ],
+      "kind": "business",
+      "created_at": "2026-11-10T10:08:21.092092+00:00",
+      "updated_at": "2026-11-10T10:08:21.092092+00:00",
+      "content_updated_at": "2026-11-10T10:08:21.092092+00:00",
+      "reported_at": "2026-11-10T09:42:53+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://www.4gamer.net/games/999/G999905/20261110027/",
+          "title": "ネクソン，2026年度第3四半期の連結業績を発表。「ARC Raiders」の累計販売本数が1700万本を突破。「メイプルストーリー」フランチャイズが好調で業績をけん引",
+          "published_at": "2026-11-10T09:42:53+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 219,
+          "text": "Nexon 公布 2026 财年第三季度（2026年7月1日至9月30日）合并业绩：营收 1384 亿日元，同比增长 17%；营业利润 418 亿日元，同比增长 11%；季度利润 381 亿日元，同比持平。《ARC Raiders》累计销量突破 1700 万份，10 月 8 日大型更新「Frozen Trail」被认为促进了玩家回归与销量增长；《MapleStory》系列季度营收同比增长 72%、创季度新高，其中韩国 PC 版同比增长 19%，全球 PC 版营收翻倍，由「MapleStory Classic」带动；《EA SPORTS FC ONLINE》季度营收同比两位数增长并创新高，平均游玩时长创历史新高；《Arad 战记》系列营收同比下降 33%，因中国 9 月更新效果低于预期。",
+          "evidence_kind": "syndication",
+          "source_url": "https://www.4gamer.net/games/999/G999905/20261110027/",
+          "action": "create_event",
+          "recorded_at": "2026-11-10T10:08:21.092714+00:00",
+          "source_published_at": "2026-11-10T09:42:53+00:00"
+        }
+      ]
+    },
+    {
+      "id": 208,
+      "title": "万代南梦宫解散《Unknown 9: Awakening》开发工作室 Reflector Entertainment",
+      "summary": "万代南梦宫控股在2026年11月10日公开的季度财报短信中报告，已解散合并子公司Reflector Entertainment，理由是综合考量今后事业计划、追加投资、收益性及事业延续可能性，预计计入约35亿日元特别损失。该工作室2016年在加拿大蒙特利尔设立，2020年被Bandai Namco Europe收购，2024年10月推出动作冒险游戏《Unknown 9: Awakening》，此前于2024年11月裁员约18%员工。",
+      "topics": [
+        "Reflector Entertainment",
+        "Bandai Namco Holdings",
+        "Bandai Namco Europe",
+        "Unknown 9: Awakening"
+      ],
+      "kind": "business",
+      "created_at": "2026-11-10T10:08:14.468112+00:00",
+      "updated_at": "2026-11-10T10:08:14.468112+00:00",
+      "content_updated_at": "2026-11-10T10:08:14.468112+00:00",
+      "reported_at": "2026-11-10T09:45:02+00:00",
+      "prominence": "featured",
+      "recommendation": "万代南梦宫正式解散《Unknown 9: Awakening》开发工作室并预计计入约35亿日元特别损失，关注该厂牌后续作品与团队的玩家值得留意。",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "http://www.gamespark.jp/article/2026/11/10/174711.html",
+          "title": "バンダイナムコ傘下、Reflector Entertainmentが解散。2024年に超能力ADV『Unknown 9:Awakening』をリリース",
+          "published_at": "2026-11-10T09:45:02+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 218,
+          "text": "万代南梦宫控股在2026年11月10日公开的2027年3月期第二季度财报短信中报告，已解散合并子公司Reflector Entertainment，理由为综合考量今后的事业计划、所需追加投资、收益性及事业延续可能性，预计计入约35亿日元特别损失。该工作室2016年在加拿大蒙特利尔设立，2020年被Bandai Namco Europe收购，2024年10月推出动作冒险游戏《Unknown 9: Awakening》，2024年11月曾裁员全体员工18%。",
+          "evidence_kind": "syndication",
+          "source_url": "http://www.gamespark.jp/article/2026/11/10/174711.html",
+          "action": "create_event",
+          "recorded_at": "2026-11-10T10:08:14.468739+00:00",
+          "source_published_at": "2026-11-10T09:45:02+00:00"
+        }
+      ]
+    },
+    {
+      "id": 207,
+      "title": "《Warhammer Survivors》登陆 Xbox Series X|S 与 Game Pass",
+      "summary": "Auroch Digital 与 poncle、Warhammer 合作的像素风 roguelite 幸存者游戏《Warhammer Survivors》现已登陆 Xbox Series X|S，并加入 Xbox Game Pass，同时提供 PC Game Pass 版本。游戏横跨 Warhammer 40,000 与 Age of Sigmar 两个宇宙，主打快节奏的敌群生存玩法，对手包括 Gloomspite Gitz 等阵营。",
+      "topics": [
+        "Warhammer Survivors",
+        "Auroch Digital",
+        "poncle",
+        "Warhammer",
+        "Xbox",
+        "Xbox Game Pass"
+      ],
+      "kind": "announcement",
+      "created_at": "2026-11-10T10:08:05.117322+00:00",
+      "updated_at": "2026-11-10T10:08:05.117322+00:00",
+      "content_updated_at": "2026-11-10T10:08:05.117322+00:00",
+      "reported_at": "2026-11-10T10:00:00+00:00",
+      "prominence": "normal",
+      "recommendation": "",
+      "corrections": [],
+      "sources": [
+        {
+          "url": "https://news.xbox.com/en-us/2026/11/10/warhammer-survivors-gloomspite-gitz/",
+          "title": "Warhammer Survivors Out Now on XBOX Game Pass! Defeat the Gloomspite Gitz With These Tips",
+          "published_at": "2026-11-10T10:00:00+00:00"
+        }
+      ],
+      "progress": [
+        {
+          "id": 217,
+          "text": "《Warhammer Survivors》现已登陆 Xbox Series X|S 与 Xbox Game Pass，并可经 PC Game Pass 获取；该作为 Auroch Digital 与 poncle、Warhammer 合作的像素风 roguelite 幸存者类游戏，跨 Warhammer 40,000 与 Age of Sigmar 宇宙。",
+          "evidence_kind": "official_statement",
+          "source_url": "https://news.xbox.com/en-us/2026/11/10/warhammer-survivors-gloomspite-gitz/",
+          "action": "create_event",
+          "recorded_at": "2026-11-10T10:08:05.117960+00:00",
+          "source_published_at": "2026-11-10T10:00:00+00:00"
+        }
+      ]
+    },
     {
       "id": 205,
       "title": "RTX 50系列显卡价格持续高企：多型号达发售价两倍以上",
