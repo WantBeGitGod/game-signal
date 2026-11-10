@@ -1,0 +1,70 @@
+{
+  "slug": "loftia",
+  "appid": "2320980",
+  "name": "Loftia",
+  "name_cn": null,
+  "description": "欢迎来到《乐浮岛》！在这款温馨的多人游戏中，你可以建设一个更美好、更加可持续的未来。带上新老朋友，一起来种植、做手工、四处探索、装饰房屋、为世界创造更多意义吧！",
+  "release_date": "2026-11-03",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立",
+    "大型多人在线",
+    "角色扮演",
+    "模拟",
+    "抢先体验"
+  ],
+  "tags": [
+    "多人",
+    "大型多人在线",
+    "合作",
+    "在线合作",
+    "完全支持控制器",
+    "应用内购买",
+    "视角舒适度",
+    "自定义音量控制",
+    "可调整难度",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "立体声",
+    "家庭共享"
+  ],
+  "review_score": null,
+  "review_ratio": null,
+  "review_total": 0,
+  "developer": "Qloud Games",
+  "publisher": "Qloud Games",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/8ab1a8e39d4b52574e150e62a58823832d217ef0/header_schinese.jpg?t=1794115632",
+  "steam_url": "https://store.steampowered.com/app/2320980",
+  "product_family_identity": "appid:2320980",
+  "product_family_appid": "2320980",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-11-04",
+      "peak": 7949
+    },
+    {
+      "date": "2026-11-06",
+      "peak": 6654
+    },
+    {
+      "date": "2026-11-07",
+      "peak": 7077
+    },
+    {
+      "date": "2026-11-08",
+      "peak": 7530
+    },
+    {
+      "date": "2026-11-09",
+      "peak": 7405
+    },
+    {
+      "date": "2026-11-10",
+      "peak": 5810
+    }
+  ]
+}
