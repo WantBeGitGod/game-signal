@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-10T18:11:53",
+  "generated_at": "2026-11-10T20:38:51",
   "games": [
     {
       "game": {
@@ -57,9 +57,11 @@
         "product_family_appid": "1211600",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "zed-zone"
+      ],
+      "article_title": "隔离区-丧尸末日生存-垃圾佬终于摇到人了",
+      "article_published_at": "2026-11-10",
       "star_dates": [
         "2026-11-09",
         "2026-11-08"
@@ -67,7 +69,7 @@
       "member_appids": [
         "1211600"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-11-09"
     },
     {
