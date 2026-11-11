@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-11T18:14:02",
+  "generated_at": "2026-11-11T20:39:42",
   "games": [
     {
       "game": {
@@ -21,16 +21,18 @@
         "product_family_appid": "4530370",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "football-manager-27"
+      ],
+      "article_title": "足球经理27-先带五天，再谈一整个赛季",
+      "article_published_at": "2026-11-11",
       "star_dates": [
         "2026-11-11"
       ],
       "member_appids": [
         "4530370"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-11-11"
     },
     {
