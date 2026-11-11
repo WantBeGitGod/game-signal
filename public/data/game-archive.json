@@ -1,7 +1,38 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-10T20:38:51",
+  "generated_at": "2026-11-11T18:14:02",
   "games": [
+    {
+      "game": {
+        "slug": "football-manager-27",
+        "appid": "4530370",
+        "name": "Football Manager 27",
+        "name_cn": null,
+        "description": "选择球队，塑造阵容，制定战术，追逐愿景中的未来。 在《FM27》中让自己的足球理念成为现实。做出决断。",
+        "genres": [
+          "模拟",
+          "体育",
+          "策略"
+        ],
+        "developer": "Sports Interactive",
+        "publisher": "SEGA",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg?t=1794391162",
+        "product_family_identity": "appid:4530370",
+        "product_family_appid": "4530370",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-11-11"
+      ],
+      "member_appids": [
+        "4530370"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-11-11"
+    },
     {
       "game": {
         "slug": "loftia",

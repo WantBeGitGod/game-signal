@@ -1,0 +1,51 @@
+{
+  "slug": "football-manager-27",
+  "appid": "4530370",
+  "name": "Football Manager 27",
+  "name_cn": null,
+  "description": "选择球队，塑造阵容，制定战术，追逐愿景中的未来。 在《FM27》中让自己的足球理念成为现实。做出决断。",
+  "release_date": "2026-11-10",
+  "genres": [
+    "模拟",
+    "体育",
+    "策略"
+  ],
+  "tags": [
+    "单人",
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "跨平台多人",
+    "Steam 成就",
+    "完全支持控制器",
+    "Steam 集换式卡牌",
+    "Steam 创意工坊",
+    "可调整文字大小",
+    "自定义音量控制",
+    "#category_playable_at_your_own_pace",
+    "无需应对快速反应事件",
+    "DUALSHOCK 控制器支持",
+    "DUALSHOCK 控制器支持",
+    "DualSense 控制器支持",
+    "DualSense 控制器支持",
+    "随时保存",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": null,
+  "review_ratio": null,
+  "review_total": 0,
+  "developer": "Sports Interactive",
+  "publisher": "SEGA",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg?t=1794391162",
+  "steam_url": "https://store.steampowered.com/app/4530370",
+  "product_family_identity": "appid:4530370",
+  "product_family_appid": "4530370",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-11-11",
+      "peak": 65370
+    }
+  ]
+}
