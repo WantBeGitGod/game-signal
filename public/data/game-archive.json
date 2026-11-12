@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-11T20:39:42",
+  "generated_at": "2026-11-12T18:12:35",
   "games": [
     {
       "game": {
@@ -27,13 +27,14 @@
       "article_title": "足球经理27-先带五天，再谈一整个赛季",
       "article_published_at": "2026-11-11",
       "star_dates": [
+        "2026-11-12",
         "2026-11-11"
       ],
       "member_appids": [
         "4530370"
       ],
       "article_count": 1,
-      "latest_star_date": "2026-11-11"
+      "latest_star_date": "2026-11-12"
     },
     {
       "game": {

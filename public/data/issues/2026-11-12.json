@@ -1,0 +1,513 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-11-12",
+  "title": "11.12 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 29.8,
+    "fact_summary": "Football Manager 27 今日观测峰值 65,844，较过往最高峰值提升 +1%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-10",
+      "current_release_date": "2026-11-10",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-12 17:50:20",
+      "current_peak": 65844,
+      "previous_peak": 65370,
+      "previous_record_peak": 65370,
+      "growth_rate": 0.0073,
+      "record_growth_rate": 0.0073,
+      "scoring_peak": 65844,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 34.81,
+      "raw_record_growth_score": 0.25,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 6.8372,
+      "growth_scale_crossing_component": 0.5584,
+      "record_growth_score": 0.25,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 35.06,
+      "event_adjusted_score": 35.06,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 35.06,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.85,
+      "base_score": 29.8,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_1x"
+      ],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 1,
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "模拟",
+        "体育",
+        "策略"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-10",
+      "release_event_age_days": 2,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 3,
+      "trend": [
+        {
+          "date": "2026-11-11",
+          "peak": 65370
+        },
+        {
+          "date": "2026-11-12",
+          "peak": 65844
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4530370"
+      }
+    ],
+    "game": {
+      "slug": "football-manager-27",
+      "appid": "4530370",
+      "name": "Football Manager 27",
+      "name_cn": null,
+      "description": "选择球队，塑造阵容，制定战术，追逐愿景中的未来。 在《FM27》中让自己的足球理念成为现实。做出决断。",
+      "release_date": "2026-11-10",
+      "genres": [
+        "模拟",
+        "体育",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "跨平台多人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "Steam 创意工坊",
+        "可调整文字大小",
+        "自定义音量控制",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Sports Interactive",
+      "publisher": "SEGA",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg?t=1794391162",
+      "steam_url": "https://store.steampowered.com/app/4530370",
+      "product_family_identity": "appid:4530370",
+      "product_family_appid": "4530370",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-11",
+          "peak": 65370
+        },
+        {
+          "date": "2026-11-12",
+          "peak": 65844
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Football Manager 27 是让你坐上教练席、带俱乐部过赛季的足球经营模拟。选谁上场、练什么、临场怎么改，都由你拍板。",
+      "reference_frame": "玩过 EA SPORTS FC 27 的经理生涯，会熟悉围绕阵容和赛季目标建队的思路。FM27 把重心放在人员与战术决策：你在场边调整球队，让球员执行计划，踢球的手柄操作经验不能直接搬过来。",
+      "for_players": "适合爱琢磨足球战术、愿意花时间培养球员，看自己一连串决定怎样改变赛季的人。把一支球队慢慢带出风格，就是主要乐趣。",
+      "not_for_players": "如果你想亲手盘带射门，或希望几分钟内获得一次明确胜负，场边管理和反复调整可能不够过瘾。",
+      "star_reason": "11月12日本地观测峰值65,844，较此前65,370提升约0.7%。模型前两名已达90天重复摘星上限，本作顺延第二次摘星；当天可靠评价快照仍缺失，评分口碑倍率保持中性。首发观察已成熟，当前规则未要求额外扩张证明；这点小幅增长还不能说明长线走势。",
+      "core_loop": [
+        "先看阵容能否踢出想要的打法，调整人员和训练，再带队进入比赛。",
+        "比赛中观察对方留下的空当，改变战术；赛后把表现带回下一轮选人和培养，继续修补球队。"
+      ],
+      "content_length": 445
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-12T10:11:35+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 11,
+          "inspected_count": 19,
+          "top_views": 47560,
+          "search_url": "https://www.youtube.com/results?search_query=Football%20Manager%2027",
+          "sources": [
+            {
+              "title": "Football Manager 27 Touch (Apple Arcade) - First Look & Hands-On!",
+              "url": "https://www.youtube.com/watch?v=IQ7bAm4D-Cw",
+              "published_on": "2026-11-12"
+            },
+            {
+              "title": "Football Manager 27 Console - First Look & Hands-On | FM27 Console",
+              "url": "https://www.youtube.com/watch?v=m82ZQFti0r4",
+              "published_on": "2026-11-11"
+            },
+            {
+              "title": "Football Manager 27 Review - The Final Verdict",
+              "url": "https://www.youtube.com/watch?v=KkqNV8K3d-E",
+              "published_on": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 0,
+          "inspected_count": 30,
+          "top_views": null,
+          "search_url": "https://search.bilibili.com/all?keyword=Football%20Manager%2027",
+          "sources": []
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "Phantom Blade Zero",
+        "appid": "4115450",
+        "score": 30.0,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4115450/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 29.8,
+    "fact_summary": "Football Manager 27 今日观测峰值 65,844，较过往最高峰值提升 +1%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-10",
+      "current_release_date": "2026-11-10",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-12 17:50:20",
+      "current_peak": 65844,
+      "previous_peak": 65370,
+      "previous_record_peak": 65370,
+      "growth_rate": 0.0073,
+      "record_growth_rate": 0.0073,
+      "scoring_peak": 65844,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 34.81,
+      "raw_record_growth_score": 0.25,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 6.8372,
+      "growth_scale_crossing_component": 0.5584,
+      "record_growth_score": 0.25,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 35.06,
+      "event_adjusted_score": 35.06,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 35.06,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.85,
+      "base_score": 29.8,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_1x"
+      ],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 1,
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 2,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "模拟",
+        "体育",
+        "策略"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-10",
+      "release_event_age_days": 2,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 3,
+      "trend": [
+        {
+          "date": "2026-11-11",
+          "peak": 65370
+        },
+        {
+          "date": "2026-11-12",
+          "peak": 65844
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4530370"
+      }
+    ],
+    "game": {
+      "slug": "football-manager-27",
+      "appid": "4530370",
+      "name": "Football Manager 27",
+      "name_cn": null,
+      "description": "选择球队，塑造阵容，制定战术，追逐愿景中的未来。 在《FM27》中让自己的足球理念成为现实。做出决断。",
+      "release_date": "2026-11-10",
+      "genres": [
+        "模拟",
+        "体育",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "跨平台多人",
+        "Steam 成就",
+        "完全支持控制器",
+        "Steam 集换式卡牌",
+        "Steam 创意工坊",
+        "可调整文字大小",
+        "自定义音量控制",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Sports Interactive",
+      "publisher": "SEGA",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg?t=1794391162",
+      "steam_url": "https://store.steampowered.com/app/4530370",
+      "product_family_identity": "appid:4530370",
+      "product_family_appid": "4530370",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-11",
+          "peak": 65370
+        },
+        {
+          "date": "2026-11-12",
+          "peak": 65844
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "Football Manager 27 是让你坐上教练席、带俱乐部过赛季的足球经营模拟。选谁上场、练什么、临场怎么改，都由你拍板。",
+      "reference_frame": "玩过 EA SPORTS FC 27 的经理生涯，会熟悉围绕阵容和赛季目标建队的思路。FM27 把重心放在人员与战术决策：你在场边调整球队，让球员执行计划，踢球的手柄操作经验不能直接搬过来。",
+      "for_players": "适合爱琢磨足球战术、愿意花时间培养球员，看自己一连串决定怎样改变赛季的人。把一支球队慢慢带出风格，就是主要乐趣。",
+      "not_for_players": "如果你想亲手盘带射门，或希望几分钟内获得一次明确胜负，场边管理和反复调整可能不够过瘾。",
+      "star_reason": "11月12日本地观测峰值65,844，较此前65,370提升约0.7%。模型前两名已达90天重复摘星上限，本作顺延第二次摘星；当天可靠评价快照仍缺失，评分口碑倍率保持中性。首发观察已成熟，当前规则未要求额外扩张证明；这点小幅增长还不能说明长线走势。",
+      "core_loop": [
+        "先看阵容能否踢出想要的打法，调整人员和训练，再带队进入比赛。",
+        "比赛中观察对方留下的空当，改变战术；赛后把表现带回下一轮选人和培养，继续修补球队。"
+      ],
+      "content_length": 445
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-12T10:11:35+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 11,
+          "inspected_count": 19,
+          "top_views": 47560,
+          "search_url": "https://www.youtube.com/results?search_query=Football%20Manager%2027",
+          "sources": [
+            {
+              "title": "Football Manager 27 Touch (Apple Arcade) - First Look & Hands-On!",
+              "url": "https://www.youtube.com/watch?v=IQ7bAm4D-Cw",
+              "published_on": "2026-11-12"
+            },
+            {
+              "title": "Football Manager 27 Console - First Look & Hands-On | FM27 Console",
+              "url": "https://www.youtube.com/watch?v=m82ZQFti0r4",
+              "published_on": "2026-11-11"
+            },
+            {
+              "title": "Football Manager 27 Review - The Final Verdict",
+              "url": "https://www.youtube.com/watch?v=KkqNV8K3d-E",
+              "published_on": "2026-11-10"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 0,
+          "inspected_count": 30,
+          "top_views": null,
+          "search_url": "https://search.bilibili.com/all?keyword=Football%20Manager%2027",
+          "sources": []
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "Phantom Blade Zero",
+        "appid": "4115450",
+        "score": 30.0,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4115450/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
