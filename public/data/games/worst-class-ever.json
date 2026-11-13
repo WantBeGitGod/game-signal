@@ -1,0 +1,54 @@
+{
+  "slug": "worst-class-ever",
+  "appid": "5175310",
+  "name": "Worst Class Ever",
+  "name_cn": null,
+  "description": "这是一款支持最多8人联机的非对称派对游戏！1名玩家扮演严厉老师，其余玩家扮演调皮捣蛋学生。捣蛋学生们需要躲藏在数十名NPC学生之间，暗中完成偷吃零食、偷玩手机等恶作剧任务。而老师要从人群里揪出全部的捣蛋学生，维护课堂的纪律！",
+  "release_date": "2026-11-09",
+  "genres": [
+    "动作",
+    "冒险",
+    "休闲",
+    "独立",
+    "模拟"
+  ],
+  "tags": [
+    "多人",
+    "玩家对战",
+    "线上玩家对战",
+    "局域网玩家对战",
+    "合作",
+    "在线合作",
+    "局域网合作",
+    "Steam 成就",
+    "Steam 创意工坊",
+    "自定义音量控制",
+    "立体声",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": null,
+  "review_ratio": null,
+  "review_total": 0,
+  "developer": "Funcore Games",
+  "publisher": "2P Games,  Elegoose Games",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/4fdba319ab82898567ff4a88f92c5b4af1db8255/header_schinese.jpg?t=1794560465",
+  "steam_url": "https://store.steampowered.com/app/5175310",
+  "product_family_identity": "appid:5175310",
+  "product_family_appid": "5175310",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-11-11",
+      "peak": 35463
+    },
+    {
+      "date": "2026-11-12",
+      "peak": 34234
+    },
+    {
+      "date": "2026-11-13",
+      "peak": 35709
+    }
+  ]
+}
