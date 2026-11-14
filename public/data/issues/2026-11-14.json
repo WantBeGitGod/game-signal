@@ -1,0 +1,507 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-11-14",
+  "title": "11.14 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 29.87,
+    "fact_summary": "Worst Class Ever 今日观测峰值 44,161，较过往最高峰值提升 +24%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-09",
+      "current_release_date": "2026-11-09",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-14 17:50:29",
+      "current_peak": 44161,
+      "previous_peak": 35709,
+      "previous_record_peak": 35709,
+      "growth_rate": 0.2367,
+      "record_growth_rate": 0.2367,
+      "scoring_peak": 44161,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 26.86,
+      "raw_record_growth_score": 8.28,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 2.0402,
+      "growth_scale_crossing_component": 0.3416,
+      "record_growth_score": 8.28,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 35.14,
+      "event_adjusted_score": 35.14,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 35.14,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.85,
+      "base_score": 29.87,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_1x"
+      ],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 1,
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "休闲",
+        "独立",
+        "模拟"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-09",
+      "release_event_age_days": 5,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 3,
+      "trend": [
+        {
+          "date": "2026-11-11",
+          "peak": 35463
+        },
+        {
+          "date": "2026-11-12",
+          "peak": 34234
+        },
+        {
+          "date": "2026-11-13",
+          "peak": 35709
+        },
+        {
+          "date": "2026-11-14",
+          "peak": 44161
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/5175310"
+      }
+    ],
+    "game": {
+      "slug": "worst-class-ever",
+      "appid": "5175310",
+      "name": "Worst Class Ever",
+      "name_cn": null,
+      "description": "这是一款支持最多8人联机的非对称派对游戏！1名玩家扮演严厉老师，其余玩家扮演调皮捣蛋学生。捣蛋学生们需要躲藏在数十名NPC学生之间，暗中完成偷吃零食、偷玩手机等恶作剧任务。而老师要从人群里揪出全部的捣蛋学生，维护课堂的纪律！",
+      "release_date": "2026-11-09",
+      "genres": [
+        "动作",
+        "冒险",
+        "休闲",
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "局域网玩家对战",
+        "合作",
+        "在线合作",
+        "局域网合作",
+        "Steam 成就",
+        "Steam 创意工坊",
+        "自定义音量控制",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Funcore Games",
+      "publisher": "2P Games,  Elegoose Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/4fdba319ab82898567ff4a88f92c5b4af1db8255/header_schinese.jpg?t=1794560465",
+      "steam_url": "https://store.steampowered.com/app/5175310",
+      "product_family_identity": "appid:5175310",
+      "product_family_appid": "5175310",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-11",
+          "peak": 35463
+        },
+        {
+          "date": "2026-11-12",
+          "peak": 34234
+        },
+        {
+          "date": "2026-11-13",
+          "peak": 35709
+        },
+        {
+          "date": "2026-11-14",
+          "peak": 44161
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《我带过的最差一届》是最多8人联机的教室整蛊派对：一人当老师，其余学生混进NPC同学里，偷偷捣蛋。",
+      "reference_frame": "玩过 MECCHA CHAMELEON，会熟悉伪装自己、寻找异常的躲猫猫思路。那边靠画出环境伪装，这里靠混在学生群中藏住小动作；学生还得冒险做任务，光躲好并不够。",
+      "for_players": "适合喜欢朋友局里互相试探、愿意把露馅和误判也当笑点的人。乐趣在于“他刚才到底有没有动”，以及明知危险还想多偷吃一口。",
+      "not_for_players": "如果你更想研究复杂Build、稳定刷成长，或不喜欢被人紧盯、反复猜身份，这种短局拉扯可能很快变得重复。",
+      "star_reason": "11月14日本地观测峰值44,161，较此前35,709提升约24%，连续第二天摘星。模型前两名已触及重复摘星上限，本作按规则顺延；首发观察已成熟，此前摘星记录已计入评分。评分快照缺少可靠评价，口碑倍率保持中性；这次增长还不能证明长期留存。",
+      "core_loop": [
+        "学生先观察老师的巡查方向，趁视线移开偷吃零食、玩手机，再收起动作继续装乖。",
+        "老师则盯住人群中的反常举动，判断谁是真人捣蛋鬼并抓出来；换边后，同一间教室会变成另一道观察题。"
+      ],
+      "content_length": 441
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-14T10:11:06+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 0,
+          "inspected_count": 19,
+          "top_views": null,
+          "search_url": "https://www.youtube.com/results?search_query=Worst%20Class%20Ever",
+          "sources": []
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 0,
+          "inspected_count": 30,
+          "top_views": null,
+          "search_url": "https://search.bilibili.com/all?keyword=Worst%20Class%20Ever",
+          "sources": []
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "Phantom Blade Zero",
+        "appid": "4115450",
+        "score": 30.0,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4115450/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 29.87,
+    "fact_summary": "Worst Class Ever 今日观测峰值 44,161，较过往最高峰值提升 +24%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-09",
+      "current_release_date": "2026-11-09",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-14 17:50:29",
+      "current_peak": 44161,
+      "previous_peak": 35709,
+      "previous_record_peak": 35709,
+      "growth_rate": 0.2367,
+      "record_growth_rate": 0.2367,
+      "scoring_peak": 44161,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 26.86,
+      "raw_record_growth_score": 8.28,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 2.0402,
+      "growth_scale_crossing_component": 0.3416,
+      "record_growth_score": 8.28,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 35.14,
+      "event_adjusted_score": 35.14,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 35.14,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.85,
+      "base_score": 29.87,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_1x"
+      ],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 1,
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "冒险",
+        "休闲",
+        "独立",
+        "模拟"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-09",
+      "release_event_age_days": 5,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 3,
+      "trend": [
+        {
+          "date": "2026-11-11",
+          "peak": 35463
+        },
+        {
+          "date": "2026-11-12",
+          "peak": 34234
+        },
+        {
+          "date": "2026-11-13",
+          "peak": 35709
+        },
+        {
+          "date": "2026-11-14",
+          "peak": 44161
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/5175310"
+      }
+    ],
+    "game": {
+      "slug": "worst-class-ever",
+      "appid": "5175310",
+      "name": "Worst Class Ever",
+      "name_cn": null,
+      "description": "这是一款支持最多8人联机的非对称派对游戏！1名玩家扮演严厉老师，其余玩家扮演调皮捣蛋学生。捣蛋学生们需要躲藏在数十名NPC学生之间，暗中完成偷吃零食、偷玩手机等恶作剧任务。而老师要从人群里揪出全部的捣蛋学生，维护课堂的纪律！",
+      "release_date": "2026-11-09",
+      "genres": [
+        "动作",
+        "冒险",
+        "休闲",
+        "独立",
+        "模拟"
+      ],
+      "tags": [
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "局域网玩家对战",
+        "合作",
+        "在线合作",
+        "局域网合作",
+        "Steam 成就",
+        "Steam 创意工坊",
+        "自定义音量控制",
+        "立体声",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Funcore Games",
+      "publisher": "2P Games,  Elegoose Games",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/4fdba319ab82898567ff4a88f92c5b4af1db8255/header_schinese.jpg?t=1794560465",
+      "steam_url": "https://store.steampowered.com/app/5175310",
+      "product_family_identity": "appid:5175310",
+      "product_family_appid": "5175310",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-11",
+          "peak": 35463
+        },
+        {
+          "date": "2026-11-12",
+          "peak": 34234
+        },
+        {
+          "date": "2026-11-13",
+          "peak": 35709
+        },
+        {
+          "date": "2026-11-14",
+          "peak": 44161
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《我带过的最差一届》是最多8人联机的教室整蛊派对：一人当老师，其余学生混进NPC同学里，偷偷捣蛋。",
+      "reference_frame": "玩过 MECCHA CHAMELEON，会熟悉伪装自己、寻找异常的躲猫猫思路。那边靠画出环境伪装，这里靠混在学生群中藏住小动作；学生还得冒险做任务，光躲好并不够。",
+      "for_players": "适合喜欢朋友局里互相试探、愿意把露馅和误判也当笑点的人。乐趣在于“他刚才到底有没有动”，以及明知危险还想多偷吃一口。",
+      "not_for_players": "如果你更想研究复杂Build、稳定刷成长，或不喜欢被人紧盯、反复猜身份，这种短局拉扯可能很快变得重复。",
+      "star_reason": "11月14日本地观测峰值44,161，较此前35,709提升约24%，连续第二天摘星。模型前两名已触及重复摘星上限，本作按规则顺延；首发观察已成熟，此前摘星记录已计入评分。评分快照缺少可靠评价，口碑倍率保持中性；这次增长还不能证明长期留存。",
+      "core_loop": [
+        "学生先观察老师的巡查方向，趁视线移开偷吃零食、玩手机，再收起动作继续装乖。",
+        "老师则盯住人群中的反常举动，判断谁是真人捣蛋鬼并抓出来；换边后，同一间教室会变成另一道观察题。"
+      ],
+      "content_length": 441
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-14T10:11:06+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 0,
+          "inspected_count": 19,
+          "top_views": null,
+          "search_url": "https://www.youtube.com/results?search_query=Worst%20Class%20Ever",
+          "sources": []
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 0,
+          "inspected_count": 30,
+          "top_views": null,
+          "search_url": "https://search.bilibili.com/all?keyword=Worst%20Class%20Ever",
+          "sources": []
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 3。",
+    "selection_context": {
+      "model_rank": 3,
+      "leader": {
+        "name": "Phantom Blade Zero",
+        "appid": "4115450",
+        "score": 30.0,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4115450/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
