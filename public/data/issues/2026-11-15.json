@@ -1,0 +1,529 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-11-15",
+  "title": "11.15 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 33.13,
+    "fact_summary": "Desktop Wallet Heroes 今日观测峰值 27,048，较过往最高峰值提升 +54%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-04",
+      "current_release_date": "2026-11-04",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-15 18:00:47",
+      "current_peak": 27048,
+      "previous_peak": 17567,
+      "previous_record_peak": 17567,
+      "growth_rate": 0.5397,
+      "record_growth_rate": 0.5397,
+      "scoring_peak": 27048,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 20.58,
+      "raw_record_growth_score": 18.89,
+      "growth_score_multiplier": 0.6642,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.4938,
+      "growth_scale_crossing_component": 0.1705,
+      "record_growth_score": 12.55,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 33.13,
+      "event_adjusted_score": 33.13,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 33.13,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 33.13,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 6,
+      "comeback_gap_days": 3,
+      "is_new_release": false,
+      "release_age_days": 11,
+      "steam_release_age_days": 11,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演",
+        "免费"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-04",
+      "release_event_age_days": 11,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-11-07",
+          "peak": 3691
+        },
+        {
+          "date": "2026-11-08",
+          "peak": 6702
+        },
+        {
+          "date": "2026-11-09",
+          "peak": 8793
+        },
+        {
+          "date": "2026-11-11",
+          "peak": 8912
+        },
+        {
+          "date": "2026-11-14",
+          "peak": 17567
+        },
+        {
+          "date": "2026-11-15",
+          "peak": 27048
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/5052450"
+      }
+    ],
+    "game": {
+      "slug": "desktop-wallet-heroes",
+      "appid": "5052450",
+      "name": "Desktop Wallet Heroes",
+      "name_cn": null,
+      "description": "这是一款桌面放置RPG，在符文之地组织远征队，招募英雄，升级装备，打怪掉宝，最关键的是不会妨碍你工作看剧或者玩其他游戏！",
+      "release_date": "2026-11-04",
+      "genres": [
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演",
+        "免费"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "可调整文字大小",
+        "自定义音量控制",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "SUPERCAT",
+      "publisher": "SUPERCAT",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052450/514ac7c58ad2a3622e4fb87ea347b51a2019451e/header_schinese.jpg?t=1794345417",
+      "steam_url": "https://store.steampowered.com/app/5052450",
+      "product_family_identity": "appid:5052450",
+      "product_family_appid": "5052450",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-07",
+          "peak": 3691
+        },
+        {
+          "date": "2026-11-08",
+          "peak": 6702
+        },
+        {
+          "date": "2026-11-09",
+          "peak": 8793
+        },
+        {
+          "date": "2026-11-11",
+          "peak": 8912
+        },
+        {
+          "date": "2026-11-14",
+          "peak": 17567
+        },
+        {
+          "date": "2026-11-15",
+          "peak": 27048
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《挂币英雄》是把远征小队摆在屏幕底部的桌面放置RPG：你做别的事，英雄自动打怪、升级和攒掉落。",
+      "reference_frame": "玩过 TBH，会熟悉“小队自己刷，隔一会回来处理装备”的节奏。这里更直观的动手环节是把相同石头、装备合成更强物品；这层参照只解释桌面挂机和回访，不代表两作的职业深度或交易规则相同。",
+      "for_players": "适合喜欢电脑上常驻一支小队、享受攒资源再集中升级的人。忙一阵再回来收菜，比一直盯着战斗更符合它的使用场景。",
+      "not_for_players": "如果你要靠走位、连招和临场决策赢下战斗，自动刷怪可能很快失去吸引力；讨厌反复合成和数值积累，也要考虑这种节奏。",
+      "star_reason": "11月15日本地观测峰值27,048，较此前17,567提升约54%，首次摘星。首发观察已成熟，可靠评价缺失，口碑倍率保持中性；挂机游戏的在线增长还不能直接当作活跃投入或长期留存。",
+      "core_loop": [
+        "先招募英雄，让远征队持续狩猎，积累黄金、经验和战利品。",
+        "回来合并同类物品，把资源投入等级与技能，再让变强的队伍继续打；下一次回访，就看这轮积累能带来什么提升。"
+      ],
+      "content_length": 412
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-15T10:10:15+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 14,
+          "inspected_count": 20,
+          "top_views": 172,
+          "search_url": "https://www.youtube.com/results?search_query=Desktop%20Wallet%20Heroes",
+          "sources": [
+            {
+              "title": "How To Fix Desktop Wallet Heroes Crashing On Steam",
+              "url": "https://www.youtube.com/watch?v=kbaDxg5acE4",
+              "published_on": "2026-11-09"
+            },
+            {
+              "title": "Fase 1 - 10 COMPLETA | Desktop Wallet Heroes",
+              "url": "https://www.youtube.com/watch?v=Skf03jrGlWg",
+              "published_on": "2026-11-08"
+            },
+            {
+              "title": "Como EQUIPAR ITENS no DESKTOP WALLET HEROES",
+              "url": "https://www.youtube.com/watch?v=L7hsNKn7u7A",
+              "published_on": "2026-11-12"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 0,
+          "inspected_count": 30,
+          "top_views": null,
+          "search_url": "https://search.bilibili.com/all?keyword=Desktop%20Wallet%20Heroes",
+          "sources": []
+        }
+      ],
+      "controversies": []
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 33.13,
+    "fact_summary": "Desktop Wallet Heroes 今日观测峰值 27,048，较过往最高峰值提升 +54%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-04",
+      "current_release_date": "2026-11-04",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-15 18:00:47",
+      "current_peak": 27048,
+      "previous_peak": 17567,
+      "previous_record_peak": 17567,
+      "growth_rate": 0.5397,
+      "record_growth_rate": 0.5397,
+      "scoring_peak": 27048,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 20.58,
+      "raw_record_growth_score": 18.89,
+      "growth_score_multiplier": 0.6642,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.4938,
+      "growth_scale_crossing_component": 0.1705,
+      "record_growth_score": 12.55,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 33.13,
+      "event_adjusted_score": 33.13,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 33.13,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 33.13,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 6,
+      "comeback_gap_days": 3,
+      "is_new_release": false,
+      "release_age_days": 11,
+      "steam_release_age_days": 11,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演",
+        "免费"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-04",
+      "release_event_age_days": 11,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 1,
+      "trend": [
+        {
+          "date": "2026-11-07",
+          "peak": 3691
+        },
+        {
+          "date": "2026-11-08",
+          "peak": 6702
+        },
+        {
+          "date": "2026-11-09",
+          "peak": 8793
+        },
+        {
+          "date": "2026-11-11",
+          "peak": 8912
+        },
+        {
+          "date": "2026-11-14",
+          "peak": 17567
+        },
+        {
+          "date": "2026-11-15",
+          "peak": 27048
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/5052450"
+      }
+    ],
+    "game": {
+      "slug": "desktop-wallet-heroes",
+      "appid": "5052450",
+      "name": "Desktop Wallet Heroes",
+      "name_cn": null,
+      "description": "这是一款桌面放置RPG，在符文之地组织远征队，招募英雄，升级装备，打怪掉宝，最关键的是不会妨碍你工作看剧或者玩其他游戏！",
+      "release_date": "2026-11-04",
+      "genres": [
+        "冒险",
+        "休闲",
+        "独立",
+        "角色扮演",
+        "免费"
+      ],
+      "tags": [
+        "单人",
+        "Steam 成就",
+        "可调整文字大小",
+        "自定义音量控制",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "SUPERCAT",
+      "publisher": "SUPERCAT",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052450/514ac7c58ad2a3622e4fb87ea347b51a2019451e/header_schinese.jpg?t=1794345417",
+      "steam_url": "https://store.steampowered.com/app/5052450",
+      "product_family_identity": "appid:5052450",
+      "product_family_appid": "5052450",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-07",
+          "peak": 3691
+        },
+        {
+          "date": "2026-11-08",
+          "peak": 6702
+        },
+        {
+          "date": "2026-11-09",
+          "peak": 8793
+        },
+        {
+          "date": "2026-11-11",
+          "peak": 8912
+        },
+        {
+          "date": "2026-11-14",
+          "peak": 17567
+        },
+        {
+          "date": "2026-11-15",
+          "peak": 27048
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《挂币英雄》是把远征小队摆在屏幕底部的桌面放置RPG：你做别的事，英雄自动打怪、升级和攒掉落。",
+      "reference_frame": "玩过 TBH，会熟悉“小队自己刷，隔一会回来处理装备”的节奏。这里更直观的动手环节是把相同石头、装备合成更强物品；这层参照只解释桌面挂机和回访，不代表两作的职业深度或交易规则相同。",
+      "for_players": "适合喜欢电脑上常驻一支小队、享受攒资源再集中升级的人。忙一阵再回来收菜，比一直盯着战斗更符合它的使用场景。",
+      "not_for_players": "如果你要靠走位、连招和临场决策赢下战斗，自动刷怪可能很快失去吸引力；讨厌反复合成和数值积累，也要考虑这种节奏。",
+      "star_reason": "11月15日本地观测峰值27,048，较此前17,567提升约54%，首次摘星。首发观察已成熟，可靠评价缺失，口碑倍率保持中性；挂机游戏的在线增长还不能直接当作活跃投入或长期留存。",
+      "core_loop": [
+        "先招募英雄，让远征队持续狩猎，积累黄金、经验和战利品。",
+        "回来合并同类物品，把资源投入等级与技能，再让变强的队伍继续打；下一次回访，就看这轮积累能带来什么提升。"
+      ],
+      "content_length": 412
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-15T10:10:15+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 14,
+          "inspected_count": 20,
+          "top_views": 172,
+          "search_url": "https://www.youtube.com/results?search_query=Desktop%20Wallet%20Heroes",
+          "sources": [
+            {
+              "title": "How To Fix Desktop Wallet Heroes Crashing On Steam",
+              "url": "https://www.youtube.com/watch?v=kbaDxg5acE4",
+              "published_on": "2026-11-09"
+            },
+            {
+              "title": "Fase 1 - 10 COMPLETA | Desktop Wallet Heroes",
+              "url": "https://www.youtube.com/watch?v=Skf03jrGlWg",
+              "published_on": "2026-11-08"
+            },
+            {
+              "title": "Como EQUIPAR ITENS no DESKTOP WALLET HEROES",
+              "url": "https://www.youtube.com/watch?v=L7hsNKn7u7A",
+              "published_on": "2026-11-12"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 0,
+          "inspected_count": 30,
+          "top_views": null,
+          "search_url": "https://search.bilibili.com/all?keyword=Desktop%20Wallet%20Heroes",
+          "sources": []
+        }
+      ],
+      "controversies": []
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}

@@ -1,7 +1,40 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-14T18:12:30",
+  "generated_at": "2026-11-15T18:11:24",
   "games": [
+    {
+      "game": {
+        "slug": "desktop-wallet-heroes",
+        "appid": "5052450",
+        "name": "Desktop Wallet Heroes",
+        "name_cn": null,
+        "description": "这是一款桌面放置RPG，在符文之地组织远征队，招募英雄，升级装备，打怪掉宝，最关键的是不会妨碍你工作看剧或者玩其他游戏！",
+        "genres": [
+          "冒险",
+          "休闲",
+          "独立",
+          "角色扮演",
+          "免费"
+        ],
+        "developer": "SUPERCAT",
+        "publisher": "SUPERCAT",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052450/514ac7c58ad2a3622e4fb87ea347b51a2019451e/header_schinese.jpg?t=1794345417",
+        "product_family_identity": "appid:5052450",
+        "product_family_appid": "5052450",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-11-15"
+      ],
+      "member_appids": [
+        "5052450"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-11-15"
+    },
     {
       "game": {
         "slug": "worst-class-ever",

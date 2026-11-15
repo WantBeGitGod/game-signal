@@ -1,0 +1,58 @@
+{
+  "slug": "desktop-wallet-heroes",
+  "appid": "5052450",
+  "name": "Desktop Wallet Heroes",
+  "name_cn": null,
+  "description": "这是一款桌面放置RPG，在符文之地组织远征队，招募英雄，升级装备，打怪掉宝，最关键的是不会妨碍你工作看剧或者玩其他游戏！",
+  "release_date": "2026-11-04",
+  "genres": [
+    "冒险",
+    "休闲",
+    "独立",
+    "角色扮演",
+    "免费"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "可调整文字大小",
+    "自定义音量控制",
+    "家庭共享"
+  ],
+  "review_score": null,
+  "review_ratio": null,
+  "review_total": 0,
+  "developer": "SUPERCAT",
+  "publisher": "SUPERCAT",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052450/514ac7c58ad2a3622e4fb87ea347b51a2019451e/header_schinese.jpg?t=1794345417",
+  "steam_url": "https://store.steampowered.com/app/5052450",
+  "product_family_identity": "appid:5052450",
+  "product_family_appid": "5052450",
+  "product_family_role": "full",
+  "trend": [
+    {
+      "date": "2026-11-07",
+      "peak": 3691
+    },
+    {
+      "date": "2026-11-08",
+      "peak": 6702
+    },
+    {
+      "date": "2026-11-09",
+      "peak": 8793
+    },
+    {
+      "date": "2026-11-11",
+      "peak": 8912
+    },
+    {
+      "date": "2026-11-14",
+      "peak": 17567
+    },
+    {
+      "date": "2026-11-15",
+      "peak": 27048
+    }
+  ]
+}
