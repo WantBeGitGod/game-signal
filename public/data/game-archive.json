@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-16T18:11:30",
+  "generated_at": "2026-11-16T20:37:53",
   "games": [
     {
       "game": {
@@ -23,9 +23,11 @@
         "product_family_appid": "5052450",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "desktop-wallet-heroes"
+      ],
+      "article_title": "挂币英雄-人可以挂机，规则别乱跑",
+      "article_published_at": "2026-11-16",
       "star_dates": [
         "2026-11-16",
         "2026-11-15"
@@ -33,7 +35,7 @@
       "member_appids": [
         "5052450"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-11-16"
     },
     {
