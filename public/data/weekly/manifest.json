@@ -1,8 +1,18 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-09T13:04:42",
-  "latest_weekly": "2026-11-02-week",
+  "generated_at": "2026-11-16T13:00:47",
+  "latest_weekly": "2026-11-09-week",
   "issues": [
+    {
+      "slug": "2026-11-09-week",
+      "issue_number": 25,
+      "week_start": "2026-11-09",
+      "week_end": "2026-11-15",
+      "title": "兵器到手再战一场\n黑货上柜再赌一单",
+      "summary": "11月9日至15日，七天日榜终于能完整摆开。《影之刃零》以29分重回综合第一，深空当铺以24分退居第二，两款游戏天天在前五，却都没有新增摘星。FM27与Worst Class Ever各摘两星，挤进第三、第四；ROB RUN前三天连续模型第一，后四天未进前五，在线观测仍在增长。本周值得并排看的，正是排名、摘星与在线规模各自讲出的故事。",
+      "status": "published",
+      "published_at": "2026-11-16 13:00:47"
+    },
     {
       "slug": "2026-11-02-week",
       "issue_number": 24,

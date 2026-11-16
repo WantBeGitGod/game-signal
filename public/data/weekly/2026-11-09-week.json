@@ -1,0 +1,412 @@
+{
+  "schema_version": "2.0.0",
+  "slug": "2026-11-09-week",
+  "issue_number": 25,
+  "week_start": "2026-11-09",
+  "week_end": "2026-11-15",
+  "title": "兵器到手再战一场\n黑货上柜再赌一单",
+  "summary": "11月9日至15日，七天日榜终于能完整摆开。《影之刃零》以29分重回综合第一，深空当铺以24分退居第二，两款游戏天天在前五，却都没有新增摘星。FM27与Worst Class Ever各摘两星，挤进第三、第四；ROB RUN前三天连续模型第一，后四天未进前五，在线观测仍在增长。本周值得并排看的，正是排名、摘星与在线规模各自讲出的故事。",
+  "editorial": {
+    "title_lines": [
+      "兵器到手再战一场",
+      "黑货上柜再赌一单"
+    ],
+    "intro": "11月9日至15日，七天日榜终于能完整摆开。《影之刃零》以29分重回综合第一，深空当铺以24分退居第二，两款游戏天天在前五，却都没有新增摘星。FM27与Worst Class Ever各摘两星，挤进第三、第四；ROB RUN前三天连续模型第一，后四天未进前五，在线观测仍在增长。本周值得并排看的，正是排名、摘星与在线规模各自讲出的故事。",
+    "features": {
+      "4115450": {
+        "heading": "刀还接得上，江湖已经走到下一程",
+        "paragraphs": [
+          "一把强敌手里的兵器，打赢之后成了自己的新手段，这是《影之刃零》很直接的继续玩下去的理由。交锋时，两把主武器之间的切换还能补回煞气：挡住压力、找到空档，再把下一轮攻势接上。喜欢练组合的人，可以围着一场战斗反复琢磨；只想顺着故事走的人，则更关心接下来的路还有多长。",
+          "它本周的模型名次依次是第三、第二、第三、第一、第一、第一、第二，三次第一、两次第二，七天合计29分。从上周19分的综合第二回到第一，增加的两天记录也都贡献了分数；两个星期覆盖天数不同，不能把分差直接说成增长提速。本周没有新增摘星，稳定待在前排仍足以拿下周榜。",
+          "上期问后续可比时段的在线规模怎样变化，这次有了新记录：周一Local CCU观测峰值461,443，周日307,384，回落仍在继续。它说明同时在场的人变少，无法区分通关、新玩家补入和中途离开。换武装是否让人愿意留下练习，还需要玩家行为来回答；综合第一也不能代答这道题。"
+        ]
+      },
+      "4348910": {
+        "heading": "老板开始认得货，顾客还能出什么难题",
+        "paragraphs": [
+          "深空当铺的一笔利润，要先过商品和顾客两道检查。水需要检测与过滤，稀有货需要估价，有些买卖还牵着许可证和派系关系。熟悉一类货之后，你会少犯错，也更敢接利润高的生意；租金继续涨，新的货与人又把麻烦送到柜台。经营的吸引力，就在这种逐渐有把握、又还不能完全放心的过程里。",
+          "本周它没有拿到模型第一，却有四次第二，另有两次第三、一次第四，七天攒出24分，排综合第二，没有新增摘星。前三天从第二滑到第四，周四至周六重新站到第二，周日第三。它与《影之刃零》都天天出现，5分差距来自每天相对位置的积累。上周的周冠军，这次仍然守在两位主角之中。",
+          "在线观测则从周一167,834降到周日128,907，周六有过小幅回升。上期追问扩大生意后，还有哪类事件会让老手改变交易计划；这段曲线只能说明仍有一批人在开店，不能证明他们为什么回来。我更想看设备齐全之后的一单生意：玩家是否还要检查人与货、权衡后果，还是已经可以照着熟悉流程一路点完。"
+        ]
+      }
+    },
+    "notes": {
+      "4530370": "FM27从周三开始连续五天进入前五，名次为第二、第三、第三、第四、第四；排名14分加两次实际摘星的6分，以20分排第三。选阵容、定战术、看比赛反馈的经理循环刚迎来一周新赛程，后续要看首轮尝鲜能否接成长存档。周日Local CCU观测到78,327，仍只代表这一段实际采样。",
+      "5175310": "Worst Class Ever用一名老师对上最多七名捣蛋学生，学生混在NPC里做小动作，老师从异常中抓人。它周三至周日五次进入前五，最好第三，两次实际摘星使9分排名积累变成15分，排第四。同分时摘星次数让它排在ROB RUN之前。熟人第一次笑过之后，换边当老师是否还愿意再来一局，比一句派对爆款更值得追。",
+      "4262460": "ROB RUN周一至周三连续模型第一，拿到15分，后四天在已发布日榜中未进前五，本周没有新增摘星，综合第五。它的Local CCU观测峰值却从周一120,568升至周日398,976，名次后移不能写成人少了。上期关于财物被抢、清档后是否回来的问题仍未解决：总在线人数继续扩大，无法单独证明受挫的老玩家留下。"
+    },
+    "next_watch": [
+      "影之刃零下一周相近采样时段的在线规模会怎样变化？通关后的玩家会继续换武装练组合吗？",
+      "深空当铺设备与货品逐渐齐全后，哪些顾客或派系事件仍会迫使玩家改变交易计划？",
+      "Worst Class Ever的熟人局在互换师生身份后还会继续吗？第二周能否延续前五出现与在线规模？"
+    ]
+  },
+  "published_days": [
+    "2026-11-09",
+    "2026-11-10",
+    "2026-11-11",
+    "2026-11-12",
+    "2026-11-13",
+    "2026-11-14",
+    "2026-11-15"
+  ],
+  "status": "published",
+  "published_at": "2026-11-16 13:00:47",
+  "signals": [
+    {
+      "rank": 1,
+      "signal_type": "release_event_rise",
+      "label": "发行节点起量",
+      "score": 29.0,
+      "selection_reason": "Phantom Blade Zero 在 7 个已保存日榜中进入前五 7 天、前二 5 天，实际摘星 0 次，周复选分 29。",
+      "metrics": {
+        "product_family_identity": "appid:4115450",
+        "actual_star_count": 0,
+        "first_place_days": 3,
+        "second_place_days": 2,
+        "top_two_days": 5,
+        "top_five_days": 7,
+        "average_rank": 1.86,
+        "weekly_score": 29,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-11-09",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-10",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-11",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-12",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-13",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-14",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-15",
+            "rank": 2,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-11-15"
+      },
+      "chart_status": "ready",
+      "article_selected": true,
+      "article_slug": "phantom-blade-zero",
+      "chart_path": "/data/charts/2026-11-09-week/4115450.json",
+      "game": {
+        "slug": "phantom-blade-zero",
+        "appid": "4115450",
+        "name": "Phantom Blade Zero",
+        "description": "由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。",
+        "developer": "S-GAME Studio",
+        "publisher": "S-GAME Publishing",
+        "release_date": "2026-10-28",
+        "review_ratio": null,
+        "review_total": 0,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1793261976",
+        "steam_url": "https://store.steampowered.com/app/4115450",
+        "product_family_identity": "appid:4115450",
+        "product_family_appid": "4115450",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 2,
+      "signal_type": "release_event_rise",
+      "label": "发行节点起量",
+      "score": 24.0,
+      "selection_reason": "Probably Stolen - Cyberpunk Shopkeeper Sim 在 7 个已保存日榜中进入前五 7 天、前二 4 天，实际摘星 0 次，周复选分 24。",
+      "metrics": {
+        "product_family_identity": "appid:4348910",
+        "actual_star_count": 0,
+        "first_place_days": 0,
+        "second_place_days": 4,
+        "top_two_days": 4,
+        "top_five_days": 7,
+        "average_rank": 2.57,
+        "weekly_score": 24,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-11-09",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-10",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-11",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-12",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-13",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-14",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-15",
+            "rank": 3,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-11-15"
+      },
+      "chart_status": "ready",
+      "article_selected": true,
+      "article_slug": "probably-stolen-cyberpunk-shopkeeper-sim",
+      "chart_path": "/data/charts/2026-11-09-week/4348910.json",
+      "game": {
+        "slug": "probably-stolen-cyberpunk-shopkeeper-sim",
+        "appid": "4348910",
+        "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+        "description": "《深空当铺：可能是偷的》是一款设定在反乌托邦空间站内的赛博朋克店铺经营模拟游戏。制造、交易并走私来路不明的货物，在各方派系势力间周旋；看看为了维持生计，你愿意突破多少底线。在不断上涨的租金将你逼入走投无路的绝境之前，赚取足够的利润来彻底买下这间店铺。",
+        "developer": "Questing Goose Studio",
+        "publisher": "tinyBuild",
+        "release_date": "2026-10-28",
+        "review_ratio": null,
+        "review_total": 0,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/d9938fa30354c82c9549c17864145e3e92e23847/header_alt_assets_3_schinese.jpg?t=1794554990",
+        "steam_url": "https://store.steampowered.com/app/4348910",
+        "product_family_identity": "appid:4348910",
+        "product_family_appid": "4348910",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 3,
+      "signal_type": "release_event_rise",
+      "label": "发行节点起量",
+      "score": 20.0,
+      "selection_reason": "Football Manager 27 在 7 个已保存日榜中进入前五 5 天、前二 1 天，实际摘星 2 次，周复选分 20。",
+      "metrics": {
+        "product_family_identity": "appid:4530370",
+        "actual_star_count": 2,
+        "first_place_days": 0,
+        "second_place_days": 1,
+        "top_two_days": 1,
+        "top_five_days": 5,
+        "average_rank": 3.2,
+        "weekly_score": 20,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-11-11",
+            "rank": 2,
+            "actual_star": true
+          },
+          {
+            "date": "2026-11-12",
+            "rank": 3,
+            "actual_star": true
+          },
+          {
+            "date": "2026-11-13",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-14",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-15",
+            "rank": 4,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-11-15"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-11-09-week/4530370.json",
+      "game": {
+        "slug": "football-manager-27",
+        "appid": "4530370",
+        "name": "Football Manager 27",
+        "description": "选择球队，塑造阵容，制定战术，追逐愿景中的未来。 在《FM27》中让自己的足球理念成为现实。做出决断。",
+        "developer": "Sports Interactive",
+        "publisher": "SEGA",
+        "release_date": "2026-11-10",
+        "review_ratio": null,
+        "review_total": 0,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg?t=1794483499",
+        "steam_url": "https://store.steampowered.com/app/4530370",
+        "product_family_identity": "appid:4530370",
+        "product_family_appid": "4530370",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "release_event_rise",
+      "label": "发行节点起量",
+      "score": 15.0,
+      "selection_reason": "Worst Class Ever 在 7 个已保存日榜中进入前五 5 天、前二 0 天，实际摘星 2 次，周复选分 15。",
+      "metrics": {
+        "product_family_identity": "appid:5175310",
+        "actual_star_count": 2,
+        "first_place_days": 0,
+        "second_place_days": 0,
+        "top_two_days": 0,
+        "top_five_days": 5,
+        "average_rank": 4.2,
+        "weekly_score": 15,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-11-11",
+            "rank": 5,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-12",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-13",
+            "rank": 4,
+            "actual_star": true
+          },
+          {
+            "date": "2026-11-14",
+            "rank": 3,
+            "actual_star": true
+          },
+          {
+            "date": "2026-11-15",
+            "rank": 5,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-11-15"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-11-09-week/5175310.json",
+      "game": {
+        "slug": "worst-class-ever",
+        "appid": "5175310",
+        "name": "Worst Class Ever",
+        "description": "这是一款支持最多8人联机的非对称派对游戏！1名玩家扮演严厉老师，其余玩家扮演调皮捣蛋学生。捣蛋学生们需要躲藏在数十名NPC学生之间，暗中完成偷吃零食、偷玩手机等恶作剧任务。而老师要从人群里揪出全部的捣蛋学生，维护课堂的纪律！",
+        "developer": "Funcore Games",
+        "publisher": "2P Games,  Elegoose Games",
+        "release_date": "2026-11-09",
+        "review_ratio": null,
+        "review_total": 0,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5175310/4fdba319ab82898567ff4a88f92c5b4af1db8255/header_schinese.jpg?t=1794560465",
+        "steam_url": "https://store.steampowered.com/app/5175310",
+        "product_family_identity": "appid:5175310",
+        "product_family_appid": "5175310",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "release_event_rise",
+      "label": "发行节点起量",
+      "score": 15.0,
+      "selection_reason": "ROB RUN 在 7 个已保存日榜中进入前五 3 天、前二 3 天，实际摘星 0 次，周复选分 15。",
+      "metrics": {
+        "product_family_identity": "appid:4262460",
+        "actual_star_count": 0,
+        "first_place_days": 3,
+        "second_place_days": 0,
+        "top_two_days": 3,
+        "top_five_days": 3,
+        "average_rank": 1.0,
+        "weekly_score": 15,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-11-09",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-10",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-11",
+            "rank": 1,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-11-11"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-11-09-week/4262460.json",
+      "game": {
+        "slug": "rob-run",
+        "appid": "4262460",
+        "name": "ROB RUN",
+        "description": "ROB RUN is a brutal crime sandbox featuring thousands of players. Rise above everyone through the grit, the grime, and the struggle. Break free and take yourself from squalor by any means.",
+        "developer": "Kefir",
+        "publisher": "Kefir",
+        "release_date": "2026-11-04",
+        "review_ratio": null,
+        "review_total": 0,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4262460/db8e0cf43c9475b96fb9446b4908de79fcb9f619/header.jpg?t=1793811654",
+        "steam_url": "https://store.steampowered.com/app/4262460",
+        "product_family_identity": "appid:4262460",
+        "product_family_appid": "4262460",
+        "product_family_role": "full"
+      }
+    }
+  ]
+}
