@@ -1,0 +1,35 @@
+{
+  "slug": "dps-desktop-pension-squad",
+  "appid": "5135440",
+  "name": "DPS: Desktop Pension Squad",
+  "name_cn": null,
+  "description": "工作、学习、摸鱼，挂机刷怪两不误！一款可以放在桌面角落轻松游玩的放置类 RPG！招募各具特色的怪物，组建专属远征队，夺回被人类抢走的地下城核心！",
+  "release_date": "2026-11-11",
+  "genres": [
+    "休闲",
+    "独立",
+    "角色扮演",
+    "免费",
+    "抢先体验"
+  ],
+  "tags": [
+    "单人",
+    "Steam 成就",
+    "#category_playable_at_your_own_pace",
+    "无需应对快速反应事件",
+    "随时保存",
+    "Steam 云",
+    "家庭共享"
+  ],
+  "review_score": null,
+  "review_ratio": null,
+  "review_total": 0,
+  "developer": "detailgames",
+  "publisher": "storytaco",
+  "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5135440/a094e1e1c5b45b8d3cedb283ac608bbf31c1d158/header_alt_assets_0_schinese.jpg?t=1794919546",
+  "steam_url": "https://store.steampowered.com/app/5135440",
+  "product_family_identity": "appid:5135440",
+  "product_family_appid": "5135440",
+  "product_family_role": "full",
+  "trend": []
+}
