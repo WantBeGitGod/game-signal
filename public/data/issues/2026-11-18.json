@@ -1,0 +1,541 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-11-18",
+  "title": "11.18 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 18.36,
+    "fact_summary": "Slotbound 今日观测峰值 29,515，较过往最高峰值提升 +0%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-12",
+      "current_release_date": "2026-11-12",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-18 17:50:05",
+      "current_peak": 29515,
+      "previous_peak": 29422,
+      "previous_record_peak": 29422,
+      "growth_rate": 0.0032,
+      "record_growth_rate": 0.0032,
+      "scoring_peak": 29515,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 21.49,
+      "raw_record_growth_score": 0.11,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 1.385,
+      "growth_scale_crossing_component": 0.1951,
+      "record_growth_score": 0.11,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 21.6,
+      "event_adjusted_score": 21.6,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 21.6,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.85,
+      "base_score": 18.36,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_1x"
+      ],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 1,
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 6,
+      "steam_release_age_days": 6,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "独立",
+        "策略"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-12",
+      "release_event_age_days": 6,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 6,
+      "trend": [
+        {
+          "date": "2026-11-14",
+          "peak": 5988
+        },
+        {
+          "date": "2026-11-15",
+          "peak": 11743
+        },
+        {
+          "date": "2026-11-16",
+          "peak": 15358
+        },
+        {
+          "date": "2026-11-17",
+          "peak": 29422
+        },
+        {
+          "date": "2026-11-18",
+          "peak": 29515
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4459590"
+      }
+    ],
+    "game": {
+      "slug": "slotbound",
+      "appid": "4459590",
+      "name": "Slotbound",
+      "name_cn": null,
+      "description": "这是一款让运气与策略交织的 Roguelike 自动战斗防守游戏。转动 3x3老虎机来召唤单位，通过吸收其他单位来壮大你的军队。利用道具与核心改变概率、扭转局势，并在危险的审判波次与 Boss 战中生存下来。每一次转动，每一个选择，都至关重要。",
+      "release_date": "2026-11-12",
+      "genres": [
+        "独立",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "完全支持控制器",
+        "自定义音量控制",
+        "可调整难度",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Optima Arch",
+      "publisher": "Optima Arch",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg?t=1794902941",
+      "steam_url": "https://store.steampowered.com/app/4459590",
+      "product_family_identity": "appid:4459590",
+      "product_family_appid": "4459590",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-14",
+          "peak": 5988
+        },
+        {
+          "date": "2026-11-15",
+          "peak": 11743
+        },
+        {
+          "date": "2026-11-16",
+          "peak": 15358
+        },
+        {
+          "date": "2026-11-17",
+          "peak": 29422
+        },
+        {
+          "date": "2026-11-18",
+          "peak": 29515
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《转运军团 - Slotbound》是一款用老虎机召唤部队的肉鸽防守游戏：拉动3×3转轮，把随机抽出的单位养成能挡住下一波敌人的军团。",
+      "reference_frame": "理解它可以先抓住两个环节：转轮连出中奖线，决定这一轮能召来什么；单位的随机属性、印记、道具和核心，再决定这些兵能怎样配合。抽中强兵很痛快，围绕手里的结果找到协同，才是你持续要做的判断。",
+      "for_players": "适合喜欢随机出牌后临场搭配、看弱小单位逐步成长，也愿意冒险追一次大奖的人。乐趣在于把不确定的结果拼成一支能打的队伍。",
+      "not_for_players": "如果你更喜欢每一步都能精确规划，或希望亲手走位、操作每个单位，转轮的不确定性和自动战斗可能让你觉得使不上力。",
+      "star_reason": "11月18日本地观测峰值29,515，较此前纪录29,422增长约0.32%，第二次摘星。首发观察已成熟，重复摘星扣分已计入；可靠评价缺失，口碑倍率保持中性。热度接近昨日高点，接下来要看它能否继续扩张。",
+      "core_loop": [
+        "转动老虎机、召唤单位，让队伍自动迎战一波波敌人；留意这轮抽到的属性，看看能补强哪条路线。",
+        "让弱小单位被吸收，推动主力成长、觉醒或选择分支职业，再用道具和核心强化组合，准备下一轮防守。"
+      ],
+      "content_length": 460
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-18T10:11:58+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 0,
+          "inspected_count": 0,
+          "top_views": null,
+          "search_url": "https://www.youtube.com/results?search_query=Slotbound",
+          "sources": []
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 20,
+          "inspected_count": 30,
+          "top_views": 22000,
+          "search_url": "https://search.bilibili.com/all?keyword=Slotbound",
+          "sources": [
+            {
+              "title": "转运军团- Slotbound 炫彩天使无尽单挂！",
+              "url": "https://www.bilibili.com/video/BV1U2sB6QE8C/",
+              "published_on": "2026-11-18"
+            },
+            {
+              "title": "转运军团- Slotbound 荒原 困难 双小丑天胡局",
+              "url": "https://www.bilibili.com/video/BV1DLW66oEJN/",
+              "published_on": "2026-11-14"
+            },
+            {
+              "title": "转运军团- Slotbound 单炫彩无尽挑战 盾哥(双炫彩弓轮椅局)",
+              "url": "https://www.bilibili.com/video/BV1JrsA6uErk/",
+              "published_on": "2026-11-16"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 6。",
+    "selection_context": {
+      "model_rank": 6,
+      "leader": {
+        "name": "Phantom Blade Zero",
+        "appid": "4115450",
+        "score": 30.0,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4115450/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 18.36,
+    "fact_summary": "Slotbound 今日观测峰值 29,515，较过往最高峰值提升 +0%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-12",
+      "current_release_date": "2026-11-12",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-18 17:50:05",
+      "current_peak": 29515,
+      "previous_peak": 29422,
+      "previous_record_peak": 29422,
+      "growth_rate": 0.0032,
+      "record_growth_rate": 0.0032,
+      "scoring_peak": 29515,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 21.49,
+      "raw_record_growth_score": 0.11,
+      "growth_score_multiplier": 1.0,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 1.385,
+      "growth_scale_crossing_component": 0.1951,
+      "record_growth_score": 0.11,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 21.6,
+      "event_adjusted_score": 21.6,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 21.6,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 0.85,
+      "base_score": 18.36,
+      "score_multiplier": 0.85,
+      "score_multiplier_reasons": [
+        "repeat_score_window_star_1x"
+      ],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 1,
+      "repeat_window_star_count": 1,
+      "app_repeat_window_star_count": 1,
+      "app_prior_total_star_count": 1,
+      "family_repeat_window_star_count": 1,
+      "family_prior_total_star_count": 1,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 1,
+      "total_star_count": 2,
+      "star_appearance_count": 2,
+      "cumulative_star_count": 1,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 5,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 6,
+      "steam_release_age_days": 6,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "独立",
+        "策略"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-12",
+      "release_event_age_days": 6,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 6,
+      "trend": [
+        {
+          "date": "2026-11-14",
+          "peak": 5988
+        },
+        {
+          "date": "2026-11-15",
+          "peak": 11743
+        },
+        {
+          "date": "2026-11-16",
+          "peak": 15358
+        },
+        {
+          "date": "2026-11-17",
+          "peak": 29422
+        },
+        {
+          "date": "2026-11-18",
+          "peak": 29515
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 2,
+      "prior_count": 1,
+      "repeat_window_prior_count": 1
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/4459590"
+      }
+    ],
+    "game": {
+      "slug": "slotbound",
+      "appid": "4459590",
+      "name": "Slotbound",
+      "name_cn": null,
+      "description": "这是一款让运气与策略交织的 Roguelike 自动战斗防守游戏。转动 3x3老虎机来召唤单位，通过吸收其他单位来壮大你的军队。利用道具与核心改变概率、扭转局势，并在危险的审判波次与 Boss 战中生存下来。每一次转动，每一个选择，都至关重要。",
+      "release_date": "2026-11-12",
+      "genres": [
+        "独立",
+        "策略"
+      ],
+      "tags": [
+        "单人",
+        "完全支持控制器",
+        "自定义音量控制",
+        "可调整难度",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "DualSense 控制器支持",
+        "DualSense 控制器支持",
+        "随时保存",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Optima Arch",
+      "publisher": "Optima Arch",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg?t=1794902941",
+      "steam_url": "https://store.steampowered.com/app/4459590",
+      "product_family_identity": "appid:4459590",
+      "product_family_appid": "4459590",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-14",
+          "peak": 5988
+        },
+        {
+          "date": "2026-11-15",
+          "peak": 11743
+        },
+        {
+          "date": "2026-11-16",
+          "peak": 15358
+        },
+        {
+          "date": "2026-11-17",
+          "peak": 29422
+        },
+        {
+          "date": "2026-11-18",
+          "peak": 29515
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《转运军团 - Slotbound》是一款用老虎机召唤部队的肉鸽防守游戏：拉动3×3转轮，把随机抽出的单位养成能挡住下一波敌人的军团。",
+      "reference_frame": "理解它可以先抓住两个环节：转轮连出中奖线，决定这一轮能召来什么；单位的随机属性、印记、道具和核心，再决定这些兵能怎样配合。抽中强兵很痛快，围绕手里的结果找到协同，才是你持续要做的判断。",
+      "for_players": "适合喜欢随机出牌后临场搭配、看弱小单位逐步成长，也愿意冒险追一次大奖的人。乐趣在于把不确定的结果拼成一支能打的队伍。",
+      "not_for_players": "如果你更喜欢每一步都能精确规划，或希望亲手走位、操作每个单位，转轮的不确定性和自动战斗可能让你觉得使不上力。",
+      "star_reason": "11月18日本地观测峰值29,515，较此前纪录29,422增长约0.32%，第二次摘星。首发观察已成熟，重复摘星扣分已计入；可靠评价缺失，口碑倍率保持中性。热度接近昨日高点，接下来要看它能否继续扩张。",
+      "core_loop": [
+        "转动老虎机、召唤单位，让队伍自动迎战一波波敌人；留意这轮抽到的属性，看看能补强哪条路线。",
+        "让弱小单位被吸收，推动主力成长、觉醒或选择分支职业，再用道具和核心强化组合，准备下一轮防守。"
+      ],
+      "content_length": 460
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-18T10:11:58+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 0,
+          "inspected_count": 0,
+          "top_views": null,
+          "search_url": "https://www.youtube.com/results?search_query=Slotbound",
+          "sources": []
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 20,
+          "inspected_count": 30,
+          "top_views": 22000,
+          "search_url": "https://search.bilibili.com/all?keyword=Slotbound",
+          "sources": [
+            {
+              "title": "转运军团- Slotbound 炫彩天使无尽单挂！",
+              "url": "https://www.bilibili.com/video/BV1U2sB6QE8C/",
+              "published_on": "2026-11-18"
+            },
+            {
+              "title": "转运军团- Slotbound 荒原 困难 双小丑天胡局",
+              "url": "https://www.bilibili.com/video/BV1DLW66oEJN/",
+              "published_on": "2026-11-14"
+            },
+            {
+              "title": "转运军团- Slotbound 单炫彩无尽挑战 盾哥(双炫彩弓轮椅局)",
+              "url": "https://www.bilibili.com/video/BV1JrsA6uErk/",
+              "published_on": "2026-11-16"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 6。",
+    "selection_context": {
+      "model_rank": 6,
+      "leader": {
+        "name": "Phantom Blade Zero",
+        "appid": "4115450",
+        "score": 30.0,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4115450/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
