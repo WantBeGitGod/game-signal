@@ -1,0 +1,463 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-11-19",
+  "title": "11.19 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 18.67,
+    "fact_summary": "Melvor Idle 2: A RuneScape Adventure 今日观测峰值 21,825，首次进入当前观察窗口，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-17",
+      "current_release_date": "2026-11-17",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-19 17:50:31",
+      "current_peak": 21825,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 21825,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.67,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.1182,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.0,
+      "growth_scale_crossing_component": 0.1182,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 18.67,
+      "event_adjusted_score": 18.67,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 18.67,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 18.67,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "休闲",
+        "独立",
+        "角色扮演",
+        "抢先体验"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-17",
+      "release_event_age_days": 2,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 7,
+      "trend": [
+        {
+          "date": "2026-11-19",
+          "peak": 21825
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3218350"
+      }
+    ],
+    "game": {
+      "slug": "melvor-idle-2-a-runescape-adventure",
+      "appid": "3218350",
+      "name": "Melvor Idle 2: A RuneScape Adventure",
+      "name_cn": null,
+      "description": "Embark on a brand-new RuneScape idle adventure with Melvor Idle 2. Master iconic RuneScape Skills, face powerful Combat challenges, or uncover the history of the world via Quests, all while enjoying zen-like progression.",
+      "release_date": "2026-11-17",
+      "genres": [
+        "休闲",
+        "独立",
+        "角色扮演",
+        "抢先体验"
+      ],
+      "tags": [
+        "单人",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Games by Malcs",
+      "publisher": "Jagex",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg?t=1794955439",
+      "steam_url": "https://store.steampowered.com/app/3218350",
+      "product_family_identity": "appid:3218350",
+      "product_family_appid": "3218350",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-19",
+          "peak": 21825
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Melvor Idle 2》是一款单人放置 RPG：安排技能训练，把采集与制作的积累带进战斗，再回来补齐下一次冒险需要的资源。",
+      "reference_frame": "玩过《Melvor Idle》，就熟悉这种技能互相供给的节奏：练一项能力，也在为另一项准备材料。续作沿用这张技能与资源网络，加入引导冒险的剧情任务和重做的精通系统，回访时多了一条可以追的目标线。",
+      "for_players": "适合喜欢长线练技能、整理资源关系，又希望游戏能塞进零碎时间的人。看着此前的准备逐步兑现，是它持续提供的满足感。",
+      "not_for_players": "如果你需要亲手走位连招，或讨厌在菜单里反复检查效率，这种成长节奏可能偏慢。目前是抢先体验，且商店标注不支持简体中文。",
+      "star_reason": "11月19日本地观测峰值21,825，首次摘星；前序候选触及重复曝光限制后顺延入选。11月17日开放，首发成熟门禁已通过；生产快照缺少可靠评价，口碑倍率保持中性。",
+      "core_loop": [
+        "先选伐木、锻造或烹饪等训练，查看每小时消耗和产出，安排接下来要练什么；离线期间也能继续积累。",
+        "把材料转成装备与补给，挑战怪物、地下城和任务；遇到门槛，再回头调整技能与资源安排。"
+      ],
+      "content_length": 438
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-19T10:13:54+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 5,
+          "inspected_count": 14,
+          "top_views": 16163,
+          "search_url": "https://www.youtube.com/results?search_query=Melvor%20Idle%202%3A%20A%20RuneScape%20Adventure",
+          "sources": [
+            {
+              "title": "Melvor Idle 2: A RuneScape Adventure | Early Access Trailer",
+              "url": "https://www.youtube.com/watch?v=NhEuYBsIZuk",
+              "published_on": "2026-11-17"
+            },
+            {
+              "title": "Melvor Idle 2: A RuneScape Adventure",
+              "url": "https://www.youtube.com/watch?v=hsBn-MOOf2s",
+              "published_on": "2026-11-18"
+            },
+            {
+              "title": "Melvor Idle 2: A RuneScape Adventure - 10 Advanced Tips You NEED to Know",
+              "url": "https://www.youtube.com/watch?v=lMD69QF1dBU",
+              "published_on": "2026-11-19"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 0,
+          "inspected_count": 30,
+          "top_views": null,
+          "search_url": "https://search.bilibili.com/all?keyword=Melvor%20Idle%202%3A%20A%20RuneScape%20Adventure",
+          "sources": []
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 7。",
+    "selection_context": {
+      "model_rank": 7,
+      "leader": {
+        "name": "Phantom Blade Zero",
+        "appid": "4115450",
+        "score": 30.0,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4115450/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 18.67,
+    "fact_summary": "Melvor Idle 2: A RuneScape Adventure 今日观测峰值 21,825，首次进入当前观察窗口，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-17",
+      "current_release_date": "2026-11-17",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-19 17:50:31",
+      "current_peak": 21825,
+      "previous_peak": 0,
+      "previous_record_peak": 0,
+      "growth_rate": 0.0,
+      "record_growth_rate": 0.0,
+      "scoring_peak": 21825,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 18.67,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.1182,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.0,
+      "growth_scale_crossing_component": 0.1182,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 18.67,
+      "event_adjusted_score": 18.67,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 18.67,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 18.67,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 1,
+      "comeback_gap_days": 0,
+      "is_new_release": false,
+      "release_age_days": 2,
+      "steam_release_age_days": 2,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "休闲",
+        "独立",
+        "角色扮演",
+        "抢先体验"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-17",
+      "release_event_age_days": 2,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 7,
+      "trend": [
+        {
+          "date": "2026-11-19",
+          "peak": 21825
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/3218350"
+      }
+    ],
+    "game": {
+      "slug": "melvor-idle-2-a-runescape-adventure",
+      "appid": "3218350",
+      "name": "Melvor Idle 2: A RuneScape Adventure",
+      "name_cn": null,
+      "description": "Embark on a brand-new RuneScape idle adventure with Melvor Idle 2. Master iconic RuneScape Skills, face powerful Combat challenges, or uncover the history of the world via Quests, all while enjoying zen-like progression.",
+      "release_date": "2026-11-17",
+      "genres": [
+        "休闲",
+        "独立",
+        "角色扮演",
+        "抢先体验"
+      ],
+      "tags": [
+        "单人",
+        "Steam 云",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Games by Malcs",
+      "publisher": "Jagex",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg?t=1794955439",
+      "steam_url": "https://store.steampowered.com/app/3218350",
+      "product_family_identity": "appid:3218350",
+      "product_family_appid": "3218350",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-19",
+          "peak": 21825
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Melvor Idle 2》是一款单人放置 RPG：安排技能训练，把采集与制作的积累带进战斗，再回来补齐下一次冒险需要的资源。",
+      "reference_frame": "玩过《Melvor Idle》，就熟悉这种技能互相供给的节奏：练一项能力，也在为另一项准备材料。续作沿用这张技能与资源网络，加入引导冒险的剧情任务和重做的精通系统，回访时多了一条可以追的目标线。",
+      "for_players": "适合喜欢长线练技能、整理资源关系，又希望游戏能塞进零碎时间的人。看着此前的准备逐步兑现，是它持续提供的满足感。",
+      "not_for_players": "如果你需要亲手走位连招，或讨厌在菜单里反复检查效率，这种成长节奏可能偏慢。目前是抢先体验，且商店标注不支持简体中文。",
+      "star_reason": "11月19日本地观测峰值21,825，首次摘星；前序候选触及重复曝光限制后顺延入选。11月17日开放，首发成熟门禁已通过；生产快照缺少可靠评价，口碑倍率保持中性。",
+      "core_loop": [
+        "先选伐木、锻造或烹饪等训练，查看每小时消耗和产出，安排接下来要练什么；离线期间也能继续积累。",
+        "把材料转成装备与补给，挑战怪物、地下城和任务；遇到门槛，再回头调整技能与资源安排。"
+      ],
+      "content_length": 438
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-19T10:13:54+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 5,
+          "inspected_count": 14,
+          "top_views": 16163,
+          "search_url": "https://www.youtube.com/results?search_query=Melvor%20Idle%202%3A%20A%20RuneScape%20Adventure",
+          "sources": [
+            {
+              "title": "Melvor Idle 2: A RuneScape Adventure | Early Access Trailer",
+              "url": "https://www.youtube.com/watch?v=NhEuYBsIZuk",
+              "published_on": "2026-11-17"
+            },
+            {
+              "title": "Melvor Idle 2: A RuneScape Adventure",
+              "url": "https://www.youtube.com/watch?v=hsBn-MOOf2s",
+              "published_on": "2026-11-18"
+            },
+            {
+              "title": "Melvor Idle 2: A RuneScape Adventure - 10 Advanced Tips You NEED to Know",
+              "url": "https://www.youtube.com/watch?v=lMD69QF1dBU",
+              "published_on": "2026-11-19"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 0,
+          "inspected_count": 30,
+          "top_views": null,
+          "search_url": "https://search.bilibili.com/all?keyword=Melvor%20Idle%202%3A%20A%20RuneScape%20Adventure",
+          "sources": []
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 7。",
+    "selection_context": {
+      "model_rank": 7,
+      "leader": {
+        "name": "Phantom Blade Zero",
+        "appid": "4115450",
+        "score": 30.0,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4115450/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
