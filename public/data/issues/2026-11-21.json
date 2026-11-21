@@ -1,0 +1,587 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-11-21",
+  "title": "11.21 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 8.52,
+    "fact_summary": "just volleyball 今日观测峰值 9,418，较过往最高峰值提升 +1%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-16",
+      "current_release_date": "2026-11-16",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-21 17:50:26",
+      "current_peak": 9418,
+      "previous_peak": 9328,
+      "previous_record_peak": 9328,
+      "growth_rate": 0.0096,
+      "record_growth_rate": 0.0096,
+      "scoring_peak": 9418,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 8.48,
+      "raw_record_growth_score": 0.34,
+      "growth_score_multiplier": 0.1392,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.1392,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.05,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 8.52,
+      "event_adjusted_score": 8.52,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 8.52,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 8.52,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "休闲",
+        "独立",
+        "体育"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-16",
+      "release_event_age_days": 5,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 9,
+      "trend": [
+        {
+          "date": "2026-11-18",
+          "peak": 9328
+        },
+        {
+          "date": "2026-11-19",
+          "peak": 8493
+        },
+        {
+          "date": "2026-11-20",
+          "peak": 8451
+        },
+        {
+          "date": "2026-11-21",
+          "peak": 9418
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/5037200"
+      }
+    ],
+    "game": {
+      "slug": "just-volleyball",
+      "appid": "5037200",
+      "name": "just volleyball",
+      "name_cn": null,
+      "description": "just volleyball is an online and offline volleyball game with unique yet intuitive controls and deep player expression. take on others in anything from 1v1s &amp; 2v2s to full team-based 6v6 matches. there's no right way to play, it's just volleyball!",
+      "release_date": "2026-11-16",
+      "genres": [
+        "动作",
+        "休闲",
+        "独立",
+        "体育"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "局域网玩家对战",
+        "同屏/分屏玩家对战",
+        "合作",
+        "在线合作",
+        "局域网合作",
+        "同屏/分屏合作",
+        "同屏/分屏",
+        "Steam 成就",
+        "视角舒适度",
+        "自定义音量控制",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "Steam 输入 API 支持",
+        "立体声",
+        "环绕声",
+        "部分支持控制器",
+        "Steam 云",
+        "远程同乐",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "temkosoft",
+      "publisher": "temkosoft",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
+      "steam_url": "https://store.steampowered.com/app/5037200",
+      "product_family_identity": "appid:5037200",
+      "product_family_appid": "5037200",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-18",
+          "peak": 9328
+        },
+        {
+          "date": "2026-11-19",
+          "peak": 8493
+        },
+        {
+          "date": "2026-11-20",
+          "peak": 8451
+        },
+        {
+          "date": "2026-11-21",
+          "peak": 9418
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《just volleyball》是一款街机排球游戏：自己移动找落点，用光标瞄准击球，把一次接球接成下一次进攻。",
+      "reference_frame": "它把球场上的跑位和击球方向直接交到你手里。人数可以从1对1加到6对6：单挑时要自己照顾整片场地，人多后则要留意队友的位置，别让几个人同时追球，把另一边空出来。",
+      "for_players": "适合喜欢练落点、磨配合，愿意把同一套动作反复练准的人。赢下一球的满足感，来自刚才那次移动和击球终于对上了。",
+      "not_for_players": "如果你希望按几下就能稳定打出漂亮配合，要给学习曲线留点耐心。它支持离线练习，但多人对局还要适应队友和对手；商店目前仅列英语支持。",
+      "star_reason": "11月21日本地观测峰值9,418，较此前纪录增长约1%，首次摘星。前序候选触及重复曝光限制后顺延入选，首发观察已成熟；当天生产快照缺少可靠评价，评分中的口碑倍率保持中性。",
+      "core_loop": [
+        "先跟着来球调整站位，再瞄准方向把球送回去；每次触球，都要重新看球和人的位置。",
+        "和队友衔接攻防，寻找对面空当；失分后可以回看录像，或者先与电脑练习，把跑位和瞄准练顺再上线。"
+      ],
+      "content_length": 421
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-21T10:12:31+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 4,
+          "inspected_count": 20,
+          "top_views": 31003,
+          "search_url": "https://www.youtube.com/results?search_query=just%20volleyball",
+          "sources": [
+            {
+              "title": "[Lao Wang] Is the Volleyball Rule Just a Fear of Touching the Ground? 11/17/2026 - Just Volleyball",
+              "url": "https://www.youtube.com/watch?v=i2ffKVOp_6E",
+              "published_on": "2026-11-20"
+            },
+            {
+              "title": "just volleyball - Out Now!",
+              "url": "https://www.youtube.com/watch?v=Nw3hxuJqsGU",
+              "published_on": "2026-11-17"
+            },
+            {
+              "title": "JUST VOLLEYBALL CLIP DUMP",
+              "url": "https://www.youtube.com/watch?v=OdAYCnBhq88",
+              "published_on": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 6,
+          "inspected_count": 30,
+          "top_views": 736,
+          "search_url": "https://search.bilibili.com/all?keyword=just%20volleyball",
+          "sources": [
+            {
+              "title": "国内首发， just volleyball 正式版中文教学",
+              "url": "https://www.bilibili.com/video/BV1dQsz6TEih/",
+              "published_on": "2026-11-17"
+            },
+            {
+              "title": "just volleyball",
+              "url": "https://www.bilibili.com/video/BV1Ptsv6uEH7/",
+              "published_on": "2026-11-20"
+            },
+            {
+              "title": "【 Just Volleyball 】聽說核彈球被削了 沒事我還有一計",
+              "url": "https://www.bilibili.com/video/BV18CsB69E24/",
+              "published_on": "2026-11-17"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 9。",
+    "selection_context": {
+      "model_rank": 9,
+      "leader": {
+        "name": "Phantom Blade Zero",
+        "appid": "4115450",
+        "score": 30.0,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4115450/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 8.52,
+    "fact_summary": "just volleyball 今日观测峰值 9,418，较过往最高峰值提升 +1%，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-16",
+      "current_release_date": "2026-11-16",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-21 17:50:26",
+      "current_peak": 9418,
+      "previous_peak": 9328,
+      "previous_record_peak": 9328,
+      "growth_rate": 0.0096,
+      "record_growth_rate": 0.0096,
+      "scoring_peak": 9418,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 8.48,
+      "raw_record_growth_score": 0.34,
+      "growth_score_multiplier": 0.1392,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.1392,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.05,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 8.52,
+      "event_adjusted_score": 8.52,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 8.52,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 8.52,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 4,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 5,
+      "steam_release_age_days": 5,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "动作",
+        "休闲",
+        "独立",
+        "体育"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-16",
+      "release_event_age_days": 5,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 9,
+      "trend": [
+        {
+          "date": "2026-11-18",
+          "peak": 9328
+        },
+        {
+          "date": "2026-11-19",
+          "peak": 8493
+        },
+        {
+          "date": "2026-11-20",
+          "peak": 8451
+        },
+        {
+          "date": "2026-11-21",
+          "peak": 9418
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/5037200"
+      }
+    ],
+    "game": {
+      "slug": "just-volleyball",
+      "appid": "5037200",
+      "name": "just volleyball",
+      "name_cn": null,
+      "description": "just volleyball is an online and offline volleyball game with unique yet intuitive controls and deep player expression. take on others in anything from 1v1s &amp; 2v2s to full team-based 6v6 matches. there's no right way to play, it's just volleyball!",
+      "release_date": "2026-11-16",
+      "genres": [
+        "动作",
+        "休闲",
+        "独立",
+        "体育"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "玩家对战",
+        "线上玩家对战",
+        "局域网玩家对战",
+        "同屏/分屏玩家对战",
+        "合作",
+        "在线合作",
+        "局域网合作",
+        "同屏/分屏合作",
+        "同屏/分屏",
+        "Steam 成就",
+        "视角舒适度",
+        "自定义音量控制",
+        "可调整难度",
+        "无需应对快速反应事件",
+        "DUALSHOCK 控制器支持",
+        "DUALSHOCK 控制器支持",
+        "Steam 输入 API 支持",
+        "立体声",
+        "环绕声",
+        "部分支持控制器",
+        "Steam 云",
+        "远程同乐",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "temkosoft",
+      "publisher": "temkosoft",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
+      "steam_url": "https://store.steampowered.com/app/5037200",
+      "product_family_identity": "appid:5037200",
+      "product_family_appid": "5037200",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-18",
+          "peak": 9328
+        },
+        {
+          "date": "2026-11-19",
+          "peak": 8493
+        },
+        {
+          "date": "2026-11-20",
+          "peak": 8451
+        },
+        {
+          "date": "2026-11-21",
+          "peak": 9418
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《just volleyball》是一款街机排球游戏：自己移动找落点，用光标瞄准击球，把一次接球接成下一次进攻。",
+      "reference_frame": "它把球场上的跑位和击球方向直接交到你手里。人数可以从1对1加到6对6：单挑时要自己照顾整片场地，人多后则要留意队友的位置，别让几个人同时追球，把另一边空出来。",
+      "for_players": "适合喜欢练落点、磨配合，愿意把同一套动作反复练准的人。赢下一球的满足感，来自刚才那次移动和击球终于对上了。",
+      "not_for_players": "如果你希望按几下就能稳定打出漂亮配合，要给学习曲线留点耐心。它支持离线练习，但多人对局还要适应队友和对手；商店目前仅列英语支持。",
+      "star_reason": "11月21日本地观测峰值9,418，较此前纪录增长约1%，首次摘星。前序候选触及重复曝光限制后顺延入选，首发观察已成熟；当天生产快照缺少可靠评价，评分中的口碑倍率保持中性。",
+      "core_loop": [
+        "先跟着来球调整站位，再瞄准方向把球送回去；每次触球，都要重新看球和人的位置。",
+        "和队友衔接攻防，寻找对面空当；失分后可以回看录像，或者先与电脑练习，把跑位和瞄准练顺再上线。"
+      ],
+      "content_length": 421
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-21T10:12:31+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 4,
+          "inspected_count": 20,
+          "top_views": 31003,
+          "search_url": "https://www.youtube.com/results?search_query=just%20volleyball",
+          "sources": [
+            {
+              "title": "[Lao Wang] Is the Volleyball Rule Just a Fear of Touching the Ground? 11/17/2026 - Just Volleyball",
+              "url": "https://www.youtube.com/watch?v=i2ffKVOp_6E",
+              "published_on": "2026-11-20"
+            },
+            {
+              "title": "just volleyball - Out Now!",
+              "url": "https://www.youtube.com/watch?v=Nw3hxuJqsGU",
+              "published_on": "2026-11-17"
+            },
+            {
+              "title": "JUST VOLLEYBALL CLIP DUMP",
+              "url": "https://www.youtube.com/watch?v=OdAYCnBhq88",
+              "published_on": "2026-11-20"
+            }
+          ]
+        },
+        {
+          "id": "bilibili",
+          "sampled_count": 6,
+          "inspected_count": 30,
+          "top_views": 736,
+          "search_url": "https://search.bilibili.com/all?keyword=just%20volleyball",
+          "sources": [
+            {
+              "title": "国内首发， just volleyball 正式版中文教学",
+              "url": "https://www.bilibili.com/video/BV1dQsz6TEih/",
+              "published_on": "2026-11-17"
+            },
+            {
+              "title": "just volleyball",
+              "url": "https://www.bilibili.com/video/BV1Ptsv6uEH7/",
+              "published_on": "2026-11-20"
+            },
+            {
+              "title": "【 Just Volleyball 】聽說核彈球被削了 沒事我還有一計",
+              "url": "https://www.bilibili.com/video/BV18CsB69E24/",
+              "published_on": "2026-11-17"
+            }
+          ]
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 9。",
+    "selection_context": {
+      "model_rank": 9,
+      "leader": {
+        "name": "Phantom Blade Zero",
+        "appid": "4115450",
+        "score": 30.0,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4115450/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
