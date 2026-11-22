@@ -1,0 +1,565 @@
+{
+  "schema_version": "1.0.0",
+  "date": "2026-11-22",
+  "title": "11.22 今日之星",
+  "summary": "今日从 Steam 趋势中选出 1 个最值得继续追问的游戏。",
+  "status": "published",
+  "hero_image": null,
+  "hero_state": "data-cover",
+  "star_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 7.34,
+    "fact_summary": "Zombies Aren't Real 今日观测峰值 8,158，未超过过往最高峰值 9,676，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-13",
+      "current_release_date": "2026-11-13",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-22 18:00:50",
+      "current_peak": 8158,
+      "previous_peak": 9676,
+      "previous_record_peak": 9676,
+      "growth_rate": -0.1569,
+      "record_growth_rate": -0.1569,
+      "scoring_peak": 8158,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 7.34,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.1498,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.1498,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 7.34,
+      "event_adjusted_score": 7.34,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 7.34,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 7.34,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 9,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 9,
+      "steam_release_age_days": 9,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "策略",
+        "抢先体验"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-13",
+      "release_event_age_days": 9,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 9,
+      "trend": [
+        {
+          "date": "2026-11-14",
+          "peak": 3442
+        },
+        {
+          "date": "2026-11-15",
+          "peak": 5761
+        },
+        {
+          "date": "2026-11-16",
+          "peak": 7775
+        },
+        {
+          "date": "2026-11-17",
+          "peak": 7370
+        },
+        {
+          "date": "2026-11-18",
+          "peak": 9676
+        },
+        {
+          "date": "2026-11-19",
+          "peak": 8612
+        },
+        {
+          "date": "2026-11-20",
+          "peak": 7538
+        },
+        {
+          "date": "2026-11-21",
+          "peak": 7389
+        },
+        {
+          "date": "2026-11-22",
+          "peak": 8158
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/5185890"
+      }
+    ],
+    "game": {
+      "slug": "zombies-aren-t-real",
+      "appid": "5185890",
+      "name": "Zombies Aren't Real",
+      "name_cn": null,
+      "description": "Zombies Aren't Real is a horde-defense, strategy game where you deploy military forces in an attempt to quell a quick-spreading zombie infection and save as many civilians as you can!",
+      "release_date": "2026-11-13",
+      "genres": [
+        "策略",
+        "抢先体验"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "Steam 创意工坊",
+        "可调整文字大小",
+        "视角舒适度",
+        "可选颜色",
+        "自定义音量控制",
+        "可调整难度",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "Steam 云",
+        "Steam 排行榜",
+        "包含关卡编辑器",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Jogamedev",
+      "publisher": "Jogamedev",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/cd54755b9d15a2cad33471464fb630d6a5363ff0/header.jpg?t=1795126625",
+      "steam_url": "https://store.steampowered.com/app/5185890",
+      "product_family_identity": "appid:5185890",
+      "product_family_appid": "5185890",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-14",
+          "peak": 3442
+        },
+        {
+          "date": "2026-11-15",
+          "peak": 5761
+        },
+        {
+          "date": "2026-11-16",
+          "peak": 7775
+        },
+        {
+          "date": "2026-11-17",
+          "peak": 7370
+        },
+        {
+          "date": "2026-11-18",
+          "peak": 9676
+        },
+        {
+          "date": "2026-11-19",
+          "peak": 8612
+        },
+        {
+          "date": "2026-11-20",
+          "peak": 7538
+        },
+        {
+          "date": "2026-11-21",
+          "peak": 7389
+        },
+        {
+          "date": "2026-11-22",
+          "peak": 8158
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Zombies Aren’t Real》是一款俯瞰城市、部署军队拦截感染的尸潮防守策略游戏。你要尽量救下平民，清光丧尸才算获胜，救下的人数决定得分。",
+      "reference_frame": "开局先给你时间布防，准备好才让感染爆发。有限预算要分给地面部队和防护设施；防线被突破后，还能临场调动空中支援。轰炸能救急，但瞄偏也会伤到你想救的人。",
+      "for_players": "适合喜欢先做计划、看防线接受检验，再反复调整布局的人。你也可以拉一位朋友合作，各管自己的预算和建筑，一起补住缺口。",
+      "not_for_players": "如果你想亲自端枪打丧尸，或靠挂机积累数值稳稳过关，这套调度与重试节奏可能不合口味；它目前处于抢先体验。",
+      "star_reason": "11月22日本地观测峰值8,158，低于此前9,676的纪录，首次摘星。前序候选触及重复曝光限制后顺延入选，首发观察已成熟；可靠评价缺失，口碑倍率保持中性。",
+      "core_loop": [
+        "观察城市布局，用狙击手、炮塔或迫击炮等单位布防，给平民安排安全区和出入口。",
+        "感染开始后盯住扩散方向，调整应对；局势失控时调用轰炸机或武装直升机，同时避开平民。",
+        "失败后重开，把刚才漏掉的方向补上，尝试不同单位、建筑和升级组合，争取多救一些人。"
+      ],
+      "content_length": 451
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-22T10:13:54+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 0,
+          "inspected_count": 0,
+          "top_views": null,
+          "search_url": "https://www.youtube.com/results?search_query=Zombies%20Aren%27t%20Real",
+          "sources": []
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 9。",
+    "selection_context": {
+      "model_rank": 9,
+      "leader": {
+        "name": "Phantom Blade Zero",
+        "appid": "4115450",
+        "score": 30.0,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4115450/"
+      }
+    }
+  },
+  "main_signal": {
+    "rank": 1,
+    "type": "release_event_rise",
+    "label": "发行节点起量",
+    "score": 7.34,
+    "fact_summary": "Zombies Aren't Real 今日观测峰值 8,158，未超过过往最高峰值 9,676，被识别为「发行节点起量」。",
+    "metrics": {
+      "major_expansion": null,
+      "ccu_scope": null,
+      "new_game_score_multiplier": 1.0,
+      "watched_games_scoring": true,
+      "first_playable_date": "2026-11-13",
+      "current_release_date": "2026-11-13",
+      "release_cycle_start": null,
+      "release_observation_start": null,
+      "ea_formal_gap_days": null,
+      "inherits_ea_history": null,
+      "returning_historical_record": null,
+      "observation_cutoff_at": "2026-11-22 18:00:50",
+      "current_peak": 8158,
+      "previous_peak": 9676,
+      "previous_record_peak": 9676,
+      "growth_rate": -0.1569,
+      "record_growth_rate": -0.1569,
+      "scoring_peak": 8158,
+      "player_discount": 1.0,
+      "discount_reasons": [],
+      "peak_score": 7.34,
+      "raw_record_growth_score": 0.0,
+      "growth_score_multiplier": 0.1498,
+      "growth_score_curve": "previous_scale_quadratic_with_threshold_crossing",
+      "growth_scale_base_component": 0.1498,
+      "growth_scale_crossing_component": 0.0,
+      "record_growth_score": 0.0,
+      "days_seen_score": 0.0,
+      "signal_type_score": 0.0,
+      "score_before_multiplier": 7.34,
+      "event_adjusted_score": 7.34,
+      "event_multiplier": 1.0,
+      "review_ratio_multiplier": 1.0,
+      "review_adjusted_score": 7.34,
+      "review_penalty_reason": null,
+      "review_ratio_scoring_version": "v3",
+      "review_tier": "unknown",
+      "review_observation_date": null,
+      "review_observation_age_days": null,
+      "review_ratio_carried_forward": false,
+      "secondary_labels": [],
+      "combined_score_multiplier": 1.0,
+      "base_score": 7.34,
+      "score_multiplier": 1.0,
+      "score_multiplier_reasons": [],
+      "repeat_score_window_days": 365,
+      "repeat_score_prior_star_count": 0,
+      "repeat_window_star_count": 0,
+      "app_repeat_window_star_count": 0,
+      "app_prior_total_star_count": 0,
+      "family_repeat_window_star_count": 0,
+      "family_prior_total_star_count": 0,
+      "repeat_window_days": 90,
+      "repeat_window_max_wins": 2,
+      "repeat_window_limit_reached": false,
+      "repeat_old_star_blocked": false,
+      "prior_total_star_count": 0,
+      "total_star_count": 1,
+      "star_appearance_count": 1,
+      "cumulative_star_count": 0,
+      "unstarred_runner_up_streak_days": 0,
+      "unstarred_runner_up_bonus": 0.0,
+      "review_ratio": null,
+      "review_total": 0,
+      "days_seen": 9,
+      "comeback_gap_days": 1,
+      "is_new_release": false,
+      "release_age_days": 9,
+      "steam_release_age_days": 9,
+      "release_age_basis": "actual_open_date",
+      "release_verification_required": true,
+      "release_verification": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "all_platform_release_date": null,
+      "is_comeback_age": false,
+      "comeback_reason": "not_comeback_age",
+      "comeback_evidence": null,
+      "genres": [
+        "策略",
+        "抢先体验"
+      ],
+      "scoring_version": "watched_games_v1",
+      "release_event_type": "pending",
+      "release_event_date": "2026-11-13",
+      "release_event_age_days": 9,
+      "release_event_window_days": 180,
+      "release_event_multiplier": 0.85,
+      "release_event_evidence": {
+        "source": "initial_review_observation",
+        "initial_review_total": null,
+        "verification_threshold": 5000,
+        "verification_status": "pending"
+      },
+      "release_event_date_basis": "actual_open_date",
+      "pre_bonus_model_rank": 9,
+      "trend": [
+        {
+          "date": "2026-11-14",
+          "peak": 3442
+        },
+        {
+          "date": "2026-11-15",
+          "peak": 5761
+        },
+        {
+          "date": "2026-11-16",
+          "peak": 7775
+        },
+        {
+          "date": "2026-11-17",
+          "peak": 7370
+        },
+        {
+          "date": "2026-11-18",
+          "peak": 9676
+        },
+        {
+          "date": "2026-11-19",
+          "peak": 8612
+        },
+        {
+          "date": "2026-11-20",
+          "peak": 7538
+        },
+        {
+          "date": "2026-11-21",
+          "peak": 7389
+        },
+        {
+          "date": "2026-11-22",
+          "peak": 8158
+        }
+      ]
+    },
+    "star_appearance": {
+      "count": 1,
+      "prior_count": 0,
+      "repeat_window_prior_count": 0
+    },
+    "sources": [
+      {
+        "title": "Steam 商店",
+        "url": "https://store.steampowered.com/app/5185890"
+      }
+    ],
+    "game": {
+      "slug": "zombies-aren-t-real",
+      "appid": "5185890",
+      "name": "Zombies Aren't Real",
+      "name_cn": null,
+      "description": "Zombies Aren't Real is a horde-defense, strategy game where you deploy military forces in an attempt to quell a quick-spreading zombie infection and save as many civilians as you can!",
+      "release_date": "2026-11-13",
+      "genres": [
+        "策略",
+        "抢先体验"
+      ],
+      "tags": [
+        "单人",
+        "多人",
+        "合作",
+        "在线合作",
+        "Steam 成就",
+        "Steam 创意工坊",
+        "可调整文字大小",
+        "视角舒适度",
+        "可选颜色",
+        "自定义音量控制",
+        "可调整难度",
+        "#category_playable_at_your_own_pace",
+        "无需应对快速反应事件",
+        "Steam 云",
+        "Steam 排行榜",
+        "包含关卡编辑器",
+        "家庭共享"
+      ],
+      "review_score": null,
+      "review_ratio": null,
+      "review_total": 0,
+      "developer": "Jogamedev",
+      "publisher": "Jogamedev",
+      "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5185890/cd54755b9d15a2cad33471464fb630d6a5363ff0/header.jpg?t=1795126625",
+      "steam_url": "https://store.steampowered.com/app/5185890",
+      "product_family_identity": "appid:5185890",
+      "product_family_appid": "5185890",
+      "product_family_role": "full",
+      "trend": [
+        {
+          "date": "2026-11-14",
+          "peak": 3442
+        },
+        {
+          "date": "2026-11-15",
+          "peak": 5761
+        },
+        {
+          "date": "2026-11-16",
+          "peak": 7775
+        },
+        {
+          "date": "2026-11-17",
+          "peak": 7370
+        },
+        {
+          "date": "2026-11-18",
+          "peak": 9676
+        },
+        {
+          "date": "2026-11-19",
+          "peak": 8612
+        },
+        {
+          "date": "2026-11-20",
+          "peak": 7538
+        },
+        {
+          "date": "2026-11-21",
+          "peak": 7389
+        },
+        {
+          "date": "2026-11-22",
+          "peak": 8158
+        }
+      ]
+    },
+    "quick_take": {
+      "schema_version": "1.0",
+      "positioning": "《Zombies Aren’t Real》是一款俯瞰城市、部署军队拦截感染的尸潮防守策略游戏。你要尽量救下平民，清光丧尸才算获胜，救下的人数决定得分。",
+      "reference_frame": "开局先给你时间布防，准备好才让感染爆发。有限预算要分给地面部队和防护设施；防线被突破后，还能临场调动空中支援。轰炸能救急，但瞄偏也会伤到你想救的人。",
+      "for_players": "适合喜欢先做计划、看防线接受检验，再反复调整布局的人。你也可以拉一位朋友合作，各管自己的预算和建筑，一起补住缺口。",
+      "not_for_players": "如果你想亲自端枪打丧尸，或靠挂机积累数值稳稳过关，这套调度与重试节奏可能不合口味；它目前处于抢先体验。",
+      "star_reason": "11月22日本地观测峰值8,158，低于此前9,676的纪录，首次摘星。前序候选触及重复曝光限制后顺延入选，首发观察已成熟；可靠评价缺失，口碑倍率保持中性。",
+      "core_loop": [
+        "观察城市布局，用狙击手、炮塔或迫击炮等单位布防，给平民安排安全区和出入口。",
+        "感染开始后盯住扩散方向，调整应对；局势失控时调用轰炸机或武装直升机，同时避开平民。",
+        "失败后重开，把刚才漏掉的方向补上，尝试不同单位、建筑和升级组合，争取多救一些人。"
+      ],
+      "content_length": 451
+    },
+    "platform_attention": {
+      "sampled_at": "2026-11-22T10:13:54+00:00",
+      "window_days": 7,
+      "basis": "搜索样本",
+      "platforms": [
+        {
+          "id": "youtube",
+          "sampled_count": 0,
+          "inspected_count": 0,
+          "top_views": null,
+          "search_url": "https://www.youtube.com/results?search_query=Zombies%20Aren%27t%20Real",
+          "sources": []
+        }
+      ],
+      "controversies": []
+    },
+    "selection_note": "本期为递补入选，原评分排名第 9。",
+    "selection_context": {
+      "model_rank": 9,
+      "leader": {
+        "name": "Phantom Blade Zero",
+        "appid": "4115450",
+        "score": 30.0,
+        "reason": "过去 90 天已摘星 2 次。",
+        "url": "https://store.steampowered.com/app/4115450/"
+      }
+    }
+  },
+  "secondary_signals": [],
+  "candidate_signals": []
+}
