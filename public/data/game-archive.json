@@ -1,7 +1,40 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-22T18:15:22",
+  "generated_at": "2026-11-23T18:14:25",
   "games": [
+    {
+      "game": {
+        "slug": "just-volleyball",
+        "appid": "5037200",
+        "name": "just volleyball",
+        "name_cn": null,
+        "description": "just volleyball is an online and offline volleyball game with unique yet intuitive controls and deep player expression. take on others in anything from 1v1s &amp; 2v2s to full team-based 6v6 matches. there's no right way to play, it's just volleyball!",
+        "genres": [
+          "动作",
+          "休闲",
+          "独立",
+          "体育"
+        ],
+        "developer": "temkosoft",
+        "publisher": "temkosoft",
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
+        "product_family_identity": "appid:5037200",
+        "product_family_appid": "5037200",
+        "product_family_role": "full"
+      },
+      "article_slugs": [],
+      "article_title": null,
+      "article_published_at": null,
+      "star_dates": [
+        "2026-11-23",
+        "2026-11-21"
+      ],
+      "member_appids": [
+        "5037200"
+      ],
+      "article_count": 0,
+      "latest_star_date": "2026-11-23"
+    },
     {
       "game": {
         "slug": "zombies-aren-t-real",
@@ -31,38 +64,6 @@
       ],
       "article_count": 0,
       "latest_star_date": "2026-11-22"
-    },
-    {
-      "game": {
-        "slug": "just-volleyball",
-        "appid": "5037200",
-        "name": "just volleyball",
-        "name_cn": null,
-        "description": "just volleyball is an online and offline volleyball game with unique yet intuitive controls and deep player expression. take on others in anything from 1v1s &amp; 2v2s to full team-based 6v6 matches. there's no right way to play, it's just volleyball!",
-        "genres": [
-          "动作",
-          "休闲",
-          "独立",
-          "体育"
-        ],
-        "developer": "temkosoft",
-        "publisher": "temkosoft",
-        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
-        "product_family_identity": "appid:5037200",
-        "product_family_appid": "5037200",
-        "product_family_role": "full"
-      },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
-      "star_dates": [
-        "2026-11-21"
-      ],
-      "member_appids": [
-        "5037200"
-      ],
-      "article_count": 0,
-      "latest_star_date": "2026-11-21"
     },
     {
       "game": {
