@@ -1,0 +1,412 @@
+{
+  "schema_version": "2.0.0",
+  "slug": "2026-11-16-week",
+  "issue_number": 26,
+  "week_start": "2026-11-16",
+  "week_end": "2026-11-22",
+  "title": "刀换了还想再打一场\n货认熟了还敢闭眼收？",
+  "summary": "11月16日至22日，七份日榜齐全，周榜前两名仍是《影之刃零》和深空当铺，分数却讲出了不同于在线曲线的故事：两款主角的同时在线观测继续回落，排名仍稳在前排；《挂币英雄》一路扩大在线规模，靠六天前五和一次摘星升到第四。《转运军团》只进过一天前五，两次实际摘星又把它带进周榜。谁强势，要把每天站的位置与真正拿到的星一起看。",
+  "editorial": {
+    "title_lines": [
+      "刀换了还想再打一场",
+      "货认熟了还敢闭眼收？"
+    ],
+    "intro": "11月16日至22日，七份日榜齐全，周榜前两名仍是《影之刃零》和深空当铺，分数却讲出了不同于在线曲线的故事：两款主角的同时在线观测继续回落，排名仍稳在前排；《挂币英雄》一路扩大在线规模，靠六天前五和一次摘星升到第四。《转运军团》只进过一天前五，两次实际摘星又把它带进周榜。谁强势，要把每天站的位置与真正拿到的星一起看。",
+    "features": {
+      "4115450": {
+        "heading": "江湖还能走多远，刀就还能换几把",
+        "paragraphs": [
+          "《影之刃零》把换武器留在交锋之中：两把主武器轮换时回补煞气，刚挡下来的压力，可以接成下一轮进攻。击败强敌，又能把对方的兵器变成自己的手段。喜欢动作练习的人，会想知道新武装怎样接进熟悉的攻防；更看重故事的人，则可能走完这趟江湖就先放下手柄。同一套内容，承接的是不同长度的游玩。",
+          "它本周拿到五次模型第一、一次第二，六天进入前五，合计29分，继续排综合第一。周二在已发布日榜中未进前五，周三起连续五天第一；本周没有新增摘星。与上周同为29分，组成却从七天出现变成六天，靠更高的日名次补回一天的分数。周榜位置没变，每天的过程已经不同。",
+          "上期追问在线规模能否稳住，这周仍观测到回落：周一Local CCU日内实测最大值279,837，周日203,586，中间周六小幅回升。它回答了同时在场规模的方向，答不了玩家是通关离开，还是换武器继续练习。后续若要判断武装系统有没有把一周目玩家留下，需要跨过通关节点的实际体验，单凭综合第一还不够。"
+        ]
+      },
+      "4348910": {
+        "heading": "认得出假货之后，难题该轮到谁",
+        "paragraphs": [
+          "深空当铺先让你学会看货：水要检测过滤，稀有物要估价，武器生意还牵着许可。接着又要看人，判断柜台另一边的顾客带来了什么后果。钱挣到了，设备买齐了，租金与派系关系仍会改变下一单的选择。它最容易让人惦记的，是经验逐渐值钱，又始终有一笔生意让老板不敢立刻点头。",
+          "本周它五次模型第二、一次第三，六天进入前五，排名分23分，没有新增摘星，继续位居综合第二。周一第三，周二未进前五，随后五天都守在第二；比上周少1分，与榜首的差距从5分变成6分。周二的空格有已发布日榜作参照，表示当天没有留在前五，不能读成那天没有记录。",
+          "在线观测从周一121,179降至周日91,924，周六同样出现小幅回升。上期关于熟练老板还会不会改变交易计划的问题，曲线仍未作答：它能记录多少人同时开店，不能告诉我们他们在店里做什么。我更想看扩张后的完整一单，检查、报价、顾客身份是否仍彼此牵制；若只剩重复处理熟货，新增设备再多也未必能延长这份紧张。"
+        ]
+      }
+    },
+    "notes": {
+      "4530370": "FM27七天都在前五，周一第一、周二第二，之后依次第三、第三、第四、第四、第五，排名合计20分，没有新增摘星，继续排第三。周日Local CCU日内实测最大值65,264，低于上周日78,327。经理游戏的长期存档值得继续追，但七天出现只能证明本周持续有信号，无法证明玩家已经形成长期习惯。",
+      "5052450": "《挂币英雄》把自动远征摆在屏幕底部，回访时合并同类物品，再把积累投入英雄成长。本周六天前五，排名14分加周一一次实际摘星的3分，以17分排第四；周五至周日连续第三。Local CCU日内实测最大值从周一37,817升到周日70,685，扩张清楚可见。桌面放置允许人去忙别的事，在线增长与主动投入仍须分开理解。",
+      "4459590": "《转运军团》用3×3老虎机召来单位，再靠吸收、觉醒和分支职业拼出防守组合。周二模型第一并摘星，周三模型第六再次实际摘星：前五排名贡献5分，两星再加6分，以11分排第五。第六名的摘星记录保留可见，不能改写成两天前五。Local CCU实测在周三达到32,770，周日为27,147；随机抽到好兵之后，组合判断能否继续撑住兴趣，是下一道题。"
+    },
+    "next_watch": [
+      "影之刃零与深空当铺下周相近采样时段的在线规模是否继续回落？两款游戏的日榜位置会不会随之改变？",
+      "挂币英雄扩大到七万级同时在线观测后，合成与英雄成长能否持续提供新的回访决定？下周前五出现天数如何变化？",
+      "转运军团越过本周观测高点之后，单位吸收与分支职业能否让不同转轮结果走出不同防守路线？后续在线规模会怎样变化？"
+    ]
+  },
+  "published_days": [
+    "2026-11-16",
+    "2026-11-17",
+    "2026-11-18",
+    "2026-11-19",
+    "2026-11-20",
+    "2026-11-21",
+    "2026-11-22"
+  ],
+  "status": "published",
+  "published_at": "2026-11-23 13:02:23",
+  "signals": [
+    {
+      "rank": 1,
+      "signal_type": "release_event_rise",
+      "label": "发行节点起量",
+      "score": 29.0,
+      "selection_reason": "Phantom Blade Zero 在 7 个已保存日榜中进入前五 6 天、前二 6 天，实际摘星 0 次，周复选分 29。",
+      "metrics": {
+        "product_family_identity": "appid:4115450",
+        "actual_star_count": 0,
+        "first_place_days": 5,
+        "second_place_days": 1,
+        "top_two_days": 6,
+        "top_five_days": 6,
+        "average_rank": 1.17,
+        "weekly_score": 29,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-11-16",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-18",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-19",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-20",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-21",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-22",
+            "rank": 1,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-11-22"
+      },
+      "chart_status": "ready",
+      "article_selected": true,
+      "article_slug": "phantom-blade-zero",
+      "chart_path": "/data/charts/2026-11-16-week/4115450.json",
+      "game": {
+        "slug": "phantom-blade-zero",
+        "appid": "4115450",
+        "name": "Phantom Blade Zero",
+        "description": "由灵游坊自主研发及发行，虚幻5引擎打造的暗黑武侠动作冒险游戏。 你将化身心脏遭受重创的剑客，在仅余六十六天的生命里，逃亡于刀光剑影和腥风血雨之间，并粉碎一桩笼罩在整个武林上方的惊天阴谋。在失序末法的武林中以身证道，以命寻心。",
+        "developer": "S-GAME Studio",
+        "publisher": "S-GAME Publishing",
+        "release_date": "2026-10-28",
+        "review_ratio": null,
+        "review_total": 0,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1793261976",
+        "steam_url": "https://store.steampowered.com/app/4115450",
+        "product_family_identity": "appid:4115450",
+        "product_family_appid": "4115450",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 2,
+      "signal_type": "release_event_rise",
+      "label": "发行节点起量",
+      "score": 23.0,
+      "selection_reason": "Probably Stolen - Cyberpunk Shopkeeper Sim 在 7 个已保存日榜中进入前五 6 天、前二 5 天，实际摘星 0 次，周复选分 23。",
+      "metrics": {
+        "product_family_identity": "appid:4348910",
+        "actual_star_count": 0,
+        "first_place_days": 0,
+        "second_place_days": 5,
+        "top_two_days": 5,
+        "top_five_days": 6,
+        "average_rank": 2.17,
+        "weekly_score": 23,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-11-16",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-18",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-19",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-20",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-21",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-22",
+            "rank": 2,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-11-22"
+      },
+      "chart_status": "ready",
+      "article_selected": true,
+      "article_slug": "probably-stolen-cyberpunk-shopkeeper-sim",
+      "chart_path": "/data/charts/2026-11-16-week/4348910.json",
+      "game": {
+        "slug": "probably-stolen-cyberpunk-shopkeeper-sim",
+        "appid": "4348910",
+        "name": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+        "description": "《深空当铺：可能是偷的》是一款设定在反乌托邦空间站内的赛博朋克店铺经营模拟游戏。制造、交易并走私来路不明的货物，在各方派系势力间周旋；看看为了维持生计，你愿意突破多少底线。在不断上涨的租金将你逼入走投无路的绝境之前，赚取足够的利润来彻底买下这间店铺。",
+        "developer": "Questing Goose Studio",
+        "publisher": "tinyBuild",
+        "release_date": "2026-10-28",
+        "review_ratio": null,
+        "review_total": 0,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/2fedb1211c5892123b8b83efc4661046e4347df1/header_schinese.jpg?t=1795024727",
+        "steam_url": "https://store.steampowered.com/app/4348910",
+        "product_family_identity": "appid:4348910",
+        "product_family_appid": "4348910",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 3,
+      "signal_type": "release_event_rise",
+      "label": "发行节点起量",
+      "score": 20.0,
+      "selection_reason": "Football Manager 27 在 7 个已保存日榜中进入前五 7 天、前二 2 天，实际摘星 0 次，周复选分 20。",
+      "metrics": {
+        "product_family_identity": "appid:4530370",
+        "actual_star_count": 0,
+        "first_place_days": 1,
+        "second_place_days": 1,
+        "top_two_days": 2,
+        "top_five_days": 7,
+        "average_rank": 3.14,
+        "weekly_score": 20,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-11-16",
+            "rank": 1,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-17",
+            "rank": 2,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-18",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-19",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-20",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-21",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-22",
+            "rank": 5,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-11-22"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-11-16-week/4530370.json",
+      "game": {
+        "slug": "football-manager-27",
+        "appid": "4530370",
+        "name": "Football Manager 27",
+        "description": "选择你的俱乐部。打造你的理想阵容。制定专属战术，执掌世界顶级足球俱乐部，开启你的执教生涯。在《FM27》中，你的足球理念将成为现实。置身于一个真实鲜活的足球世界，体验策略与角色扮演元素深度融合的足球模拟游戏，让你的每一个决定都影响球队的未来。",
+        "developer": "Sports Interactive",
+        "publisher": "SEGA",
+        "release_date": "2026-11-10",
+        "review_ratio": null,
+        "review_total": 0,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg?t=1794915487",
+        "steam_url": "https://store.steampowered.com/app/4530370",
+        "product_family_identity": "appid:4530370",
+        "product_family_appid": "4530370",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 4,
+      "signal_type": "release_event_rise",
+      "label": "发行节点起量",
+      "score": 17.0,
+      "selection_reason": "Desktop Wallet Heroes 在 7 个已保存日榜中进入前五 6 天、前二 0 天，实际摘星 1 次，周复选分 17。",
+      "metrics": {
+        "product_family_identity": "appid:5052450",
+        "actual_star_count": 1,
+        "first_place_days": 0,
+        "second_place_days": 0,
+        "top_two_days": 0,
+        "top_five_days": 6,
+        "average_rank": 3.67,
+        "weekly_score": 17,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-11-16",
+            "rank": 4,
+            "actual_star": true
+          },
+          {
+            "date": "2026-11-18",
+            "rank": 4,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-19",
+            "rank": 5,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-20",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-21",
+            "rank": 3,
+            "actual_star": false
+          },
+          {
+            "date": "2026-11-22",
+            "rank": 3,
+            "actual_star": false
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-11-22"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-11-16-week/5052450.json",
+      "game": {
+        "slug": "desktop-wallet-heroes",
+        "appid": "5052450",
+        "name": "Desktop Wallet Heroes",
+        "description": "这是一款桌面放置RPG，在符文之地组织远征队，招募英雄，升级装备，打怪掉宝，最关键的是不会妨碍你工作看剧或者玩其他游戏！",
+        "developer": "SUPERCAT",
+        "publisher": "SUPERCAT",
+        "release_date": "2026-11-04",
+        "review_ratio": null,
+        "review_total": 0,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5052450/514ac7c58ad2a3622e4fb87ea347b51a2019451e/header_schinese.jpg?t=1794345417",
+        "steam_url": "https://store.steampowered.com/app/5052450",
+        "product_family_identity": "appid:5052450",
+        "product_family_appid": "5052450",
+        "product_family_role": "full"
+      }
+    },
+    {
+      "rank": 5,
+      "signal_type": "release_event_rise",
+      "label": "发行节点起量",
+      "score": 11.0,
+      "selection_reason": "Slotbound 在 7 个已保存日榜中进入前五 1 天、前二 1 天，实际摘星 2 次，周复选分 11。",
+      "metrics": {
+        "product_family_identity": "appid:4459590",
+        "actual_star_count": 2,
+        "first_place_days": 1,
+        "second_place_days": 0,
+        "top_two_days": 1,
+        "top_five_days": 1,
+        "average_rank": 3.5,
+        "weekly_score": 11,
+        "coverage_days": 7,
+        "coverage_total_days": 7,
+        "daily_ranks": [
+          {
+            "date": "2026-11-17",
+            "rank": 1,
+            "actual_star": true
+          },
+          {
+            "date": "2026-11-18",
+            "rank": 6,
+            "actual_star": true
+          }
+        ],
+        "triple_star": false,
+        "triple_star_date": null,
+        "last_appearance": "2026-11-18"
+      },
+      "chart_status": "ready",
+      "article_selected": false,
+      "article_slug": null,
+      "chart_path": "/data/charts/2026-11-16-week/4459590.json",
+      "game": {
+        "slug": "slotbound",
+        "appid": "4459590",
+        "name": "Slotbound",
+        "description": "这是一款让运气与策略交织的 Roguelike 自动战斗防守游戏。转动 3x3老虎机来召唤单位，通过吸收其他单位来壮大你的军队。利用道具与核心改变概率、扭转局势，并在危险的审判波次与 Boss 战中生存下来。每一次转动，每一个选择，都至关重要。",
+        "developer": "Optima Arch",
+        "publisher": "Optima Arch",
+        "release_date": "2026-11-12",
+        "review_ratio": null,
+        "review_total": 0,
+        "cover_image_url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg?t=1795095339",
+        "steam_url": "https://store.steampowered.com/app/4459590",
+        "product_family_identity": "appid:4459590",
+        "product_family_appid": "4459590",
+        "product_family_role": "full"
+      }
+    }
+  ]
+}
