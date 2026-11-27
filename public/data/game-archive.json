@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-23T18:14:25",
+  "generated_at": "2026-11-27T20:32:36",
   "games": [
     {
       "game": {
@@ -22,9 +22,11 @@
         "product_family_appid": "5037200",
         "product_family_role": "full"
       },
-      "article_slugs": [],
-      "article_title": null,
-      "article_published_at": null,
+      "article_slugs": [
+        "just-volleyball"
+      ],
+      "article_title": "just volleyball-排球少年，别都挤到网前",
+      "article_published_at": "2026-11-23",
       "star_dates": [
         "2026-11-23",
         "2026-11-21"
@@ -32,7 +34,7 @@
       "member_appids": [
         "5037200"
       ],
-      "article_count": 0,
+      "article_count": 1,
       "latest_star_date": "2026-11-23"
     },
     {
